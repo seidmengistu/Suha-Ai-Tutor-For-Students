@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "physics",
+      "questions": [
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What shape is the path of a projectile launched at an angle, ignoring air resistance?",
+          "options": ["A straight line", "A circle", "A parabola", "A spiral"],
+          "answer": "2",
+          "explanation": "Constant horizontal velocity combined with changing vertical velocity produces a parabolic path."
+        },
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A ball is thrown horizontally at 6.0 m/s from the top of a building. How far does it travel horizontally in 3.0 s (ignore air resistance)?",
+          "options": ["2.0 m", "9.0 m", "18 m", "54 m"],
+          "answer": "2",
+          "explanation": "Horizontal velocity is constant, so distance = v × t = 6.0 × 3.0 = 18 m."
+        },
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A 0.50 kg stone is whirled in a horizontal circle of radius 0.80 m at a speed of 4.0 m/s. What centripetal force acts on it?",
+          "options": ["2.5 N", "8.0 N", "10 N", "16 N"],
+          "answer": "2",
+          "explanation": "Using F = mv²/r = 0.50 × (4.0)² / 0.80 = 0.50 × 16 / 0.80 = 10 N."
+        },
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A projectile is launched from the ground at 30 m/s at 30° above the horizontal. Using g = 10 m/s², what is its total time of flight?",
+          "options": ["1.5 s", "3.0 s", "5.2 s", "6.0 s"],
+          "answer": "1",
+          "explanation": "T = 2u sin θ / g = (2 × 30 × sin 30°) / 10 = (2 × 30 × 0.5) / 10 = 30 / 10 = 3.0 s."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which particle inside an atom carries a negative charge?",
+          "options": ["Proton", "Neutron", "Electron", "Nucleus"],
+          "answer": "2",
+          "explanation": "Electrons carry negative charge, protons are positive, and neutrons have no charge."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An electric field of 50 N/C acts on a charge of 4.0 × 10⁻⁶ C. What force does the charge experience?",
+          "options": ["2.0 × 10⁻⁴ N", "1.25 × 10⁻⁷ N", "2.0 × 10⁻⁸ N", "200 N"],
+          "answer": "0",
+          "explanation": "Using F = E × q = 50 × 4.0 × 10⁻⁶ = 2.0 × 10⁻⁴ N."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A capacitor stores 30 µC of charge when connected to a 5.0 V supply. What is its capacitance?",
+          "options": ["150 µF", "6.0 µF", "0.17 µF", "35 µF"],
+          "answer": "1",
+          "explanation": "Using C = Q/V = 30 µC / 5.0 V = 6.0 µF."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two equal point charges separated by a distance r repel with a force F. If the distance is reduced to r/2, what is the new force?",
+          "options": ["F/2", "2F", "4F", "F/4"],
+          "answer": "2",
+          "explanation": "Coulomb's law is an inverse-square law (F ∝ 1/r²). Halving r multiplies the force by (1/(1/2))² = 4, giving 4F."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which formula correctly states Ohm's law?",
+          "options": ["V = I / R", "V = I × R", "V = R / I", "V = I + R"],
+          "answer": "1",
+          "explanation": "Ohm's law is V = I × R, where V is voltage, I is current, and R is resistance."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A charge of 60 C flows through a wire in 20 s. What is the current?",
+          "options": ["3.0 A", "0.33 A", "80 A", "1200 A"],
+          "answer": "0",
+          "explanation": "Using I = Q/t = 60 / 20 = 3.0 A."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two resistors of 3.0 Ω and 6.0 Ω are connected in parallel. What is the total resistance?",
+          "options": ["9.0 Ω", "4.5 Ω", "2.0 Ω", "0.5 Ω"],
+          "answer": "2",
+          "explanation": "For parallel resistors, 1/R = 1/3.0 + 1/6.0 = 2/6 + 1/6 = 3/6 = 1/2, so R = 2.0 Ω."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "An electric heater rated at 1100 W runs on a 220 V supply. What current does it draw?",
+          "options": ["0.2 A", "5.0 A", "50 A", "242000 A"],
+          "answer": "1",
+          "explanation": "From P = VI, current I = P/V = 1100 / 220 = 5.0 A."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the SI unit of magnetic flux density?",
+          "options": ["Weber", "Tesla", "Henry", "Gauss"],
+          "answer": "1",
+          "explanation": "Magnetic flux density (B) is measured in tesla (T) in the SI system."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A 0.50 m wire carries 2.0 A at right angles to a 0.40 T magnetic field. What is the force on the wire?",
+          "options": ["0.40 N", "1.6 N", "0.16 N", "4.0 N"],
+          "answer": "0",
+          "explanation": "Using F = BIL = 0.40 × 2.0 × 0.50 = 0.40 N."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A straight wire experiences a maximum force of 1.2 N when carrying 4.0 A in a 0.30 T field at right angles. What is the length of the wire in the field?",
+          "options": ["0.10 m", "1.0 m", "1.4 m", "10 m"],
+          "answer": "1",
+          "explanation": "Rearranging F = BIL gives L = F/(BI) = 1.2 / (0.30 × 4.0) = 1.2 / 1.2 = 1.0 m."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "According to Lenz's law, the direction of an induced current is such that it:",
+          "options": ["Increases the magnetic flux that caused it", "Opposes the change in flux that caused it", "Always flows toward the north pole", "Is independent of the flux change"],
+          "answer": "1",
+          "explanation": "Lenz's law states the induced current opposes the change in flux producing it, in line with conservation of energy."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following materials is the best electrical insulator?",
+          "options": ["Silicon", "Copper", "Rubber", "Aluminium"],
+          "answer": "2",
+          "explanation": "Rubber has very few free charge carriers, so it hardly conducts and is a good insulator."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Doping silicon to make p-type material introduces which kind of charge carrier?",
+          "options": ["Extra electrons (negative)", "Holes (positive)", "Extra protons", "Extra neutrons"],
+          "answer": "1",
+          "explanation": "p-type material is made by adding impurities that create holes, which behave as positive charge carriers."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which device allows current to flow in one direction only?",
+          "options": ["Resistor", "Capacitor", "Diode", "Battery"],
+          "answer": "2",
+          "explanation": "A diode (a p-n junction) conducts in the forward direction and blocks current in the reverse direction."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How does the electrical conductivity of a pure semiconductor change when its temperature rises?",
+          "options": ["It decreases, like a metal", "It increases as more carriers are freed", "It stays constant", "It drops to zero"],
+          "answer": "1",
+          "explanation": "Heating a semiconductor frees more charge carriers, so its conductivity increases (opposite to a metal)."
+        },
+        {
+          "topic": "EM Waves and Optics",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which type of electromagnetic wave has the shortest wavelength?",
+          "options": ["Radio waves", "Infrared", "Visible light", "Gamma rays"],
+          "answer": "3",
+          "explanation": "Gamma rays have the shortest wavelength (and highest frequency) in the electromagnetic spectrum."
+        },
+        {
+          "topic": "EM Waves and Optics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A light ray hits a flat mirror with an angle of incidence of 35° measured from the normal. What is the angle of reflection?",
+          "options": ["55°", "35°", "70°", "0°"],
+          "answer": "1",
+          "explanation": "By the law of reflection, the angle of reflection equals the angle of incidence, so it is 35°."
+        },
+        {
+          "topic": "EM Waves and Optics",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "An electromagnetic wave has a frequency of 6.0 × 10⁸ Hz and travels at 3.0 × 10⁸ m/s. What is its wavelength?",
+          "options": ["0.50 m", "2.0 m", "1.8 × 10¹⁷ m", "5.0 × 10⁻¹ Hz"],
+          "answer": "0",
+          "explanation": "Using λ = v/f = (3.0 × 10⁸) / (6.0 × 10⁸) = 0.50 m."
+        },
+        {
+          "topic": "EM Waves and Optics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Light travels from air (n₁ = 1.0) into a liquid (n₂ = 2.0), striking the surface at an angle of incidence of 30°. What is the angle of refraction?",
+          "options": ["About 14.5°", "About 30°", "About 60°", "About 90°"],
+          "answer": "0",
+          "explanation": "Snell's law: sin θ₂ = (n₁ sin θ₁)/n₂ = (1.0 × sin 30°)/2.0 = 0.5/2.0 = 0.25, so θ₂ = sin⁻¹(0.25) ≈ 14.5°."
+        }
+      ]
+    }
+  ]
+}

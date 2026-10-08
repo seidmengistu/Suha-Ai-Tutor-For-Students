@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "Microbiology meaning",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Biotechnology is based on microbiology. What does microbiology study?",
+          "options": [
+            "The movement of the planets",
+            "Very small living things such as bacteria and fungi",
+            "The rocks and minerals in soil",
+            "The weather and the climate"
+          ],
+          "answer": "1",
+          "explanation": "Microbiology is the study of micro-organisms, the tiny living things like bacteria and fungi that are usually too small to see."
+        },
+        {
+          "topic": "Useful product in bread and injera",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In injera and bread making, which product of yeast is the one we actually want?",
+          "options": [
+            "Ethanol, because it adds alcohol",
+            "Carbon dioxide, because it makes the dough rise",
+            "Lactic acid, because it adds sourness",
+            "Oxygen, because it feeds the dough"
+          ],
+          "answer": "1",
+          "explanation": "In baking, the wanted product is the carbon dioxide gas, which is trapped in the dough and makes it rise. Ethanol is the wanted product in drinks."
+        },
+        {
+          "topic": "Number of chromosomes",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "How many chromosomes are there in total in a normal human body cell?",
+          "options": [
+            "46",
+            "23",
+            "92",
+            "4"
+          ],
+          "answer": "0",
+          "explanation": "A human body cell has 46 chromosomes in total, arranged as 23 matching (homologous) pairs."
+        },
+        {
+          "topic": "Meaning of health",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which statement best describes what good health means?",
+          "options": [
+            "Only being strong enough to lift heavy loads",
+            "Simply not being able to feel any pain",
+            "Full physical, mental and social well-being, not only the absence of disease",
+            "Having a large number of red blood cells"
+          ],
+          "answer": "2",
+          "explanation": "Health is a state of full physical, mental and social well-being. It is more than just being free of illness."
+        },
+        {
+          "topic": "Where photosynthesis happens",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Inside a leaf cell, in which structure does photosynthesis take place?",
+          "options": [
+            "The chloroplast",
+            "The cell wall",
+            "The vacuole",
+            "The nucleus"
+          ],
+          "answer": "0",
+          "explanation": "Photosynthesis happens in the chloroplasts, the structures that contain the green pigment chlorophyll."
+        },
+        {
+          "topic": "Meaning of biodiversity",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The word biodiversity means the:",
+          "options": [
+            "Amount of coal under the ground",
+            "Variety of different living species in an area",
+            "Speed of the river flowing through a valley",
+            "Number of factories in a region"
+          ],
+          "answer": "1",
+          "explanation": "Biodiversity is the variety of different living species (plants, animals and others) found in an area."
+        },
+        {
+          "topic": "Energy from anaerobic respiration",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Compared with aerobic respiration, how much energy does the anaerobic respiration of yeast release from the same amount of sugar?",
+          "options": [
+            "Much more energy",
+            "Exactly the same amount",
+            "Only a little energy",
+            "No energy at all"
+          ],
+          "answer": "2",
+          "explanation": "Anaerobic respiration (fermentation) releases only a little energy because the sugar is not fully broken down. Aerobic respiration releases much more."
+        },
+        {
+          "topic": "Counting bases in DNA pairing",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A piece of DNA has 30 adenine (A) bases. Using the pairing rules, how many thymine (T) bases must it have?",
+          "options": [
+            "15",
+            "30",
+            "60",
+            "It cannot be known"
+          ],
+          "answer": "1",
+          "explanation": "Adenine always pairs with thymine, so for every A there is one T. With 30 adenine bases there must be 30 thymine bases."
+        },
+        {
+          "topic": "When meiosis happens",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In which organs of the body does meiosis take place?",
+          "options": [
+            "In the skin and the lungs",
+            "In the reproductive organs (ovaries and testes)",
+            "In the stomach and the liver",
+            "In every cell of the body all the time"
+          ],
+          "answer": "1",
+          "explanation": "Meiosis makes sex cells (sperm and eggs), so it happens in the reproductive organs: the testes and the ovaries."
+        },
+        {
+          "topic": "Skeletal and muscular systems",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "How do the skeletal and muscular systems work together to move the body?",
+          "options": [
+            "Muscles pull on bones to make the body move",
+            "Bones squeeze blood through the muscles",
+            "Muscles digest the food inside the bones",
+            "Bones make oxygen for the muscles"
+          ],
+          "answer": "0",
+          "explanation": "Bones support the body and muscles are attached to them. When a muscle contracts, it pulls on a bone, causing movement."
+        },
+        {
+          "topic": "Source of leaf carbon dioxide",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Where does the carbon dioxide used in photosynthesis come from?",
+          "options": [
+            "It is taken up from the soil by the roots",
+            "It diffuses into the leaf from the air through the stomata",
+            "It is made by the chlorophyll from water",
+            "It is carried up the xylem from the roots"
+          ],
+          "answer": "1",
+          "explanation": "Carbon dioxide diffuses into the leaf from the surrounding air through the stomata. Water, by contrast, comes up from the roots."
+        },
+        {
+          "topic": "Vector of malaria",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Malaria is a communicable disease. How does it pass from one person to another?",
+          "options": [
+            "Through the bite of an infected mosquito",
+            "By breathing the same air in a room",
+            "By eating sugary food",
+            "By touching a healthy person's hand"
+          ],
+          "answer": "0",
+          "explanation": "Malaria is spread by the bite of an infected mosquito, which is why bed nets and removing standing water help prevent it."
+        },
+        {
+          "topic": "Renewable resource condition",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Water is called a renewable resource. What condition must be met for it to stay available?",
+          "options": [
+            "It must be used much faster than it is replaced",
+            "It must be used and managed carefully so it is not wasted or polluted",
+            "It must never be used by anyone",
+            "It must be turned into coal first"
+          ],
+          "answer": "1",
+          "explanation": "A renewable resource only lasts if it is used wisely. Water must be protected from waste and pollution so it can keep being replaced naturally."
+        },
+        {
+          "topic": "Comparing daughter cells",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which statement correctly compares the cells made by mitosis and meiosis?",
+          "options": [
+            "Mitosis makes 2 identical cells; meiosis makes 4 different cells",
+            "Mitosis makes 4 different cells; meiosis makes 2 identical cells",
+            "Both make 2 identical cells",
+            "Both make 4 different cells"
+          ],
+          "answer": "0",
+          "explanation": "Mitosis produces 2 cells identical to the parent, while meiosis produces 4 cells that differ and have half the chromosome number."
+        },
+        {
+          "topic": "Job of the circulatory system",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the main job of the circulatory system?",
+          "options": [
+            "To break food into small molecules",
+            "To transport oxygen, glucose and wastes around the body in the blood",
+            "To take air into the body",
+            "To control the body with nerves"
+          ],
+          "answer": "1",
+          "explanation": "The circulatory system, with the heart and blood vessels, transports oxygen, glucose and waste substances around the body in the blood."
+        },
+        {
+          "topic": "Water plant gas test",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Bubbles given off by a pondweed in bright light are collected and a glowing splint placed in the gas relights. Which gas was collected?",
+          "options": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+          ],
+          "answer": "1",
+          "explanation": "A glowing splint relighting is the test for oxygen. Photosynthesis releases oxygen, so the bubbles from the pondweed are oxygen."
+        },
+        {
+          "topic": "Effect of overgrazing",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "How does letting too many animals graze the same land lead to soil erosion?",
+          "options": [
+            "The animals add fertile topsoil to the land",
+            "The animals strip the plants away, leaving bare soil that is easily washed or blown off",
+            "The animals press the soil into solid rock",
+            "The animals make the grass roots grow deeper"
+          ],
+          "answer": "1",
+          "explanation": "Overgrazing removes the plant cover and roots that hold the soil. The bare ground that is left is easily eroded by rain and wind."
+        },
+        {
+          "topic": "Yeast versus bacteria roles",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A student is told a food was made using a fungus, not bacteria. Which traditional product was most likely made?",
+          "options": [
+            "Irgo (yoghurt)",
+            "Ayib (cheese)",
+            "Tella (a fermented drink)",
+            "Sour milk"
+          ],
+          "answer": "2",
+          "explanation": "Tella is fermented by yeast, which is a fungus. Irgo, ayib and sour milk are all made by bacteria carrying out lactic fermentation."
+        },
+        {
+          "topic": "Reading a base sequence",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "One DNA strand reads T-A-C-G-G. What is the base sequence of the strand paired with it?",
+          "options": [
+            "T-A-C-G-G",
+            "A-T-G-C-C",
+            "G-G-C-A-T",
+            "C-C-G-T-A"
+          ],
+          "answer": "1",
+          "explanation": "Using A-T and C-G pairing, T-A-C-G-G pairs with A-T-G-C-C, base by base."
+        },
+        {
+          "topic": "Identifying cell division",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A dividing cell copies its chromosomes and then divides only once to give two cells with the same chromosome number as the parent. Which process is this?",
+          "options": [
+            "Meiosis, making sex cells",
+            "Mitosis, used for growth and repair",
+            "Fermentation, releasing energy",
+            "Fertilisation, joining two cells"
+          ],
+          "answer": "1",
+          "explanation": "Copying chromosomes then dividing once to give two cells with the full chromosome number is mitosis, which is used for growth and repair."
+        },
+        {
+          "topic": "Independent body systems",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why must the digestive, respiratory and circulatory systems all work together for a leg muscle to keep contracting?",
+          "options": [
+            "The digestive system supplies glucose, the respiratory system supplies oxygen, and the circulatory system delivers both to the muscle",
+            "Each system makes the muscle on its own without help",
+            "Only the circulatory system is involved in muscle contraction",
+            "The three systems compete and slow the muscle down"
+          ],
+          "answer": "0",
+          "explanation": "Muscle respiration needs glucose from the digestive system and oxygen from the respiratory system, both delivered by the blood of the circulatory system. No system works alone."
+        },
+        {
+          "topic": "Reasoning about chromosome number",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An animal has 24 chromosomes in its body cells. How many chromosomes will be in each of its sex cells after meiosis?",
+          "options": [
+            "48",
+            "24",
+            "12",
+            "6"
+          ],
+          "answer": "2",
+          "explanation": "Meiosis halves the chromosome number, so a body cell with 24 chromosomes produces sex cells with 12 chromosomes each."
+        },
+        {
+          "topic": "Light and the starch test",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Before testing a leaf to prove light is needed for photosynthesis, the plant is first kept in the dark for two days. Why is this step important?",
+          "options": [
+            "To make the leaf greener",
+            "To use up any stored starch, so new starch can only come from fresh photosynthesis",
+            "To add extra carbon dioxide to the leaf",
+            "To kill the cells before the test"
+          ],
+          "answer": "1",
+          "explanation": "Keeping the plant in the dark first removes any starch already stored. Then any starch found after the test must have been made during the experiment."
+        },
+        {
+          "topic": "Breathing versus respiration",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A student says 'breathing and respiration are the same thing.' Why is this statement wrong?",
+          "options": [
+            "Breathing is moving air in and out, but respiration is the release of energy from glucose inside cells",
+            "Breathing only happens in plants and respiration only in animals",
+            "Respiration moves air and breathing makes energy",
+            "They are different words for moving blood around"
+          ],
+          "answer": "0",
+          "explanation": "Breathing is the physical movement of air into and out of the lungs. Respiration is the chemical reaction inside cells that releases energy from glucose. They are not the same."
+        },
+        {
+          "topic": "Distinguishing disease types",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A doctor sees four patients: one with tuberculosis, one with cholera, one with malaria and one with diabetes. Which patient has a disease that cannot spread to other people?",
+          "options": [
+            "The patient with tuberculosis",
+            "The patient with cholera",
+            "The patient with malaria",
+            "The patient with diabetes"
+          ],
+          "answer": "3",
+          "explanation": "Diabetes is non-communicable and cannot pass to others. Tuberculosis, cholera and malaria are all communicable diseases that can spread between people or via a vector."
+        },
+        {
+          "topic": "Limiting factor reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "On a warm, sunny day with plenty of carbon dioxide, a plant in dry soil still grows slowly. Which factor is most likely limiting its photosynthesis?",
+          "options": [
+            "Water, because the soil is dry",
+            "Light, because the day is sunny",
+            "Carbon dioxide, although it is plentiful",
+            "Temperature, although it is warm"
+          ],
+          "answer": "0",
+          "explanation": "Light, carbon dioxide and warmth are all plentiful, so the only raw material in short supply is water. The dry soil makes water the limiting factor."
+        },
+        {
+          "topic": "Why injera is spongy",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "When injera batter is cooked on the hot mitad, the many small holes (eyes) appear because the:",
+          "options": [
+            "Trapped carbon dioxide bubbles expand in the heat",
+            "Ethanol turns into solid starch",
+            "Bacteria suddenly multiply in the heat",
+            "Water turns into chlorophyll"
+          ],
+          "answer": "0",
+          "explanation": "During fermentation yeast makes carbon dioxide that is trapped in the batter. On heating, these gas bubbles expand, leaving the holes that make injera spongy."
+        },
+        {
+          "topic": "Why offspring vary",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two children of the same parents look different from each other, yet a cut on the skin heals with identical new cells. Which pair of processes explains this?",
+          "options": [
+            "Meiosis makes varied sex cells; mitosis makes identical cells for repair",
+            "Mitosis makes varied cells; meiosis makes identical cells for repair",
+            "Both differences come only from mitosis",
+            "Both come only from fermentation"
+          ],
+          "answer": "0",
+          "explanation": "Meiosis shuffles the parents' genes so each sex cell is different, giving varied children. Mitosis makes exact copies, so a wound heals with identical cells."
+        },
+        {
+          "topic": "Linking forest loss and erosion",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "After a forested hillside is cleared, fertile topsoil is quickly washed downhill in the rains. What is the main reason removing the trees caused this?",
+          "options": [
+            "Tree roots and cover that held the soil and slowed the rain were removed",
+            "The trees used to push the soil downhill themselves",
+            "Cutting trees adds extra topsoil that washes away",
+            "Trees normally make the rain fall harder"
+          ],
+          "answer": "0",
+          "explanation": "Tree roots grip the soil and the leaf cover slows the rain. Once the trees are gone, bare loose soil is washed straight downhill, causing erosion."
+        },
+        {
+          "topic": "Aerobic versus anaerobic products",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The same yeast cell can give different products. Which row correctly matches the conditions to the products?",
+          "options": [
+            "With oxygen: ethanol + carbon dioxide; without oxygen: carbon dioxide + water",
+            "With oxygen: carbon dioxide + water; without oxygen: ethanol + carbon dioxide",
+            "With oxygen: lactic acid; without oxygen: oxygen",
+            "With oxygen: ethanol only; without oxygen: water only"
+          ],
+          "answer": "1",
+          "explanation": "Aerobic respiration (with oxygen) gives carbon dioxide and water. Anaerobic respiration (without oxygen), called fermentation, gives ethanol and carbon dioxide."
+        },
+        {
+          "topic": "Choosing insulin production",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A hospital needs a steady supply of insulin that exactly matches human insulin and is pure and plentiful. Which approach should it choose, and why?",
+          "options": [
+            "Selective breeding of cattle, because it is the fastest method",
+            "Genetic engineering of bacteria, because they make exact human insulin in large pure amounts",
+            "Fermenting teff with wild yeast, because it makes hormones cheaply",
+            "Collecting insulin from wild animals, because it needs no laboratory"
+          ],
+          "answer": "1",
+          "explanation": "Inserting the human insulin gene into bacteria makes them produce exact human insulin reliably, purely and in large amounts, which the other methods cannot do."
+        },
+        {
+          "topic": "Planning disease prevention",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A school has outbreaks of both cholera (from dirty water) and malaria (from mosquitoes). Which combined plan tackles both diseases at their source?",
+          "options": [
+            "Provide clean, treated drinking water and clear standing water while using bed nets",
+            "Ask everyone to eat less salt and rest more",
+            "Vaccinate all pupils against diabetes",
+            "Cut down nearby trees and stop washing hands"
+          ],
+          "answer": "0",
+          "explanation": "Cholera spreads through dirty water and malaria through mosquitoes that breed in standing water. Clean water plus removing standing water and using bed nets attacks both at the source."
+        },
+        {
+          "topic": "Predicting offspring sex",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A couple has two sons and wants to know the chance their third child will be a daughter. What is the best answer?",
+          "options": [
+            "Zero, because they only have sons",
+            "About 1 in 2, because the father can pass X or Y with equal chance",
+            "About 1 in 4, because two sons were already born",
+            "Certain to be a daughter, to balance the family"
+          ],
+          "answer": "1",
+          "explanation": "Each child is independent of the others. The father's sperm carries X (daughter) or Y (son) with equal chance, so each child has about a 50% chance of being a daughter."
+        },
+        {
+          "topic": "Designing a fair greenhouse test",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A farmer wants to test whether adding carbon dioxide raises the rate of photosynthesis in a greenhouse. To make a fair test, the farmer should:",
+          "options": [
+            "Change the carbon dioxide level while keeping light and temperature the same",
+            "Change the carbon dioxide, the light and the temperature all at once",
+            "Use a different type of plant in each greenhouse",
+            "Keep everything, including the carbon dioxide, exactly the same"
+          ],
+          "answer": "0",
+          "explanation": "In a fair test only one factor is changed at a time. Here only the carbon dioxide should change, while light, temperature and plant type are kept the same."
+        },
+        {
+          "topic": "Choosing a sustainable energy source",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A rural village relies on firewood and the surrounding forest is shrinking fast. Switching to a biogas digester fed by animal dung would help conservation BEST because it:",
+          "options": [
+            "Uses up the village's drinking water supply",
+            "Reduces the need to cut trees, helping the forest and the soil and wildlife it supports",
+            "Releases far more carbon dioxide than any other fuel",
+            "Removes all the bacteria from the soil"
+          ],
+          "answer": "1",
+          "explanation": "A biogas digester makes methane from waste, so the village burns less firewood. Fewer trees are cut, which protects the forest and the soil and wildlife depending on it."
+        },
+        {
+          "topic": "Weighing soil conservation plans",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A farming community on a steep, eroding slope wants to keep farming while saving their soil. Which plan is best?",
+          "options": [
+            "Plough up and down the slope so water drains off faster",
+            "Build terraces and plant trees, then grow crops on the level steps",
+            "Remove all plants so the crops have no competition",
+            "Let cattle graze the bare slope freely all year"
+          ],
+          "answer": "1",
+          "explanation": "Terraces slow water running downhill and tree roots hold the soil, so crops can be grown on the level steps while erosion is reduced. The other choices would worsen erosion."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,867 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "physics",
+      "chapters": [
+        {
+          "title": "Physics and Measurement",
+          "description": "What physics studies and how we measure physical quantities using SI units.",
+          "lessons": [
+            {
+              "title": "Physical Quantities and Measurement",
+              "summary": "Learn what physics is, the difference between fundamental and derived quantities, and how to measure and convert SI units correctly.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Why physics begins with measurement",
+                  "body": "**Physics** is the science that studies matter, energy, and how they interact. From a falling mango to the electricity in your home, physics explains *why* things happen.\n\nTo describe nature, scientists must **measure**. **Measurement** is comparing an unknown quantity with an agreed standard. If a farmer near Bahir Dar says a field is \"20 paces\" long, that means something different for a tall person and a short person. So scientists everywhere agreed to use one shared system, the **SI system** (International System of Units), so a measurement in Addis Ababa means exactly the same in any country."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Explain what **physics** studies.\n- Name the seven **fundamental (base) quantities** and their SI units.\n- Build **derived quantities** from base quantities.\n- Use **prefixes** (kilo, centi, milli) to convert units.\n- Tell the difference between **accuracy** and **precision**.\n- Use **scientific notation** for very large or very small numbers."
+                },
+                {
+                  "type": "theory",
+                  "title": "Fundamental and derived quantities",
+                  "body": "A **physical quantity** is anything we can measure. Quantities split into two groups.\n\n**1. Fundamental (base) quantities** cannot be built from any other quantity. There are seven:\n\n| Quantity | SI Unit | Symbol |\n|---|---|---|\n| Length | metre | m |\n| Mass | kilogram | kg |\n| Time | second | s |\n| Temperature | kelvin | K |\n| Electric current | ampere | A |\n| Amount of substance | mole | mol |\n| Luminous intensity | candela | cd |\n\n**2. Derived quantities** are made by combining base quantities. For example:\n\n- **Area** = length × width → m²\n- **Volume** = length × width × height → m³\n- **Speed** = distance ÷ time → m/s\n- **Density** = mass ÷ volume → kg/m³\n\n**Why does a shared system matter?** Because science is built on results that other people can check. If everyone uses the same units, an experiment can be repeated and trusted anywhere.\n\n**Prefixes** are short ways to write very large or small numbers:\n\n| Prefix | Symbol | Means |\n|---|---|---|\n| kilo | k | 1000 |\n| centi | c | 0.01 |\n| milli | m | 0.001 |\n\nUseful conversions: 1 km = 1000 m, 1 m = 100 cm, 1 cm = 10 mm, 1 kg = 1000 g, 1 hour = 3600 s.\n\n**Accuracy vs precision:** **Accuracy** is how close a measurement is to the true value. **Precision** is how close repeated measurements are to each other. You can be precise but not accurate (same wrong answer every time).\n\n**Scientific notation** writes numbers as a value between 1 and 10 multiplied by a power of ten, e.g. 300000 m/s = 3 × 10⁵ m/s."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: unit conversion and density",
+                  "body": "**Question:** A block of metal has a mass of 2.4 kg and a volume of 300 cm³. Find its density in kg/m³.\n\n**Step 1 — Write the formula.** Density = mass ÷ volume, so ρ = m / V.\n\n**Step 2 — Convert volume to SI units.** 1 m³ = 1 000 000 cm³, so:\n300 cm³ ÷ 1 000 000 = 0.0003 m³ = 3 × 10⁻⁴ m³.\n\n**Step 3 — Substitute the values with units.**\nρ = 2.4 kg ÷ 0.0003 m³\n\n**Step 4 — Calculate.**\nρ = 8000 kg/m³\n\n**Answer:** The density is **8000 kg/m³**. (This is close to iron, so the block could be iron.)"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Forgetting the unit.** Writing \"the length is 5\" is wrong. Always write the number *and* the unit: 5 m.\n- **Mixing cm and m in one calculation.** Convert everything to SI units first.\n- **Wrong volume conversion.** 1 m³ = 1 000 000 cm³, not 100 cm³. Cubing affects all three dimensions.\n- **Confusing accuracy and precision.** Precise means *repeatable*; accurate means *correct*.\n- **Multiplying when you should divide** when converting to a bigger unit."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- **Smaller unit → bigger number, bigger unit → smaller number.**\n- For cubic conversions, remember the **\"power of three\"**: 1 m = 100 cm, so 1 m³ = 100³ cm³ = 1 000 000 cm³.\n- **Accuracy = Aim at the centre** (close to true value). **Precision = Points cluster** (readings close together).\n- Dartboard picture: tight cluster off-centre = precise but not accurate."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** Convert 4.5 km into metres.\n**Q2.** Write 0.00056 m in scientific notation.\n**Q3.** A stone has mass 0.6 kg and volume 2 × 10⁻⁴ m³. Find its density.\n\n**Answers:**\n1. 4.5 × 1000 = **4500 m**\n2. **5.6 × 10⁻⁴ m**\n3. ρ = 0.6 ÷ (2 × 10⁻⁴) = **3000 kg/m³**"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Physics** studies matter, energy, and their interactions.\n- **Measurement** compares an unknown quantity with a standard; always give a number **and** a unit.\n- **Fundamental quantities** (7): length, mass, time, temperature, current, amount, luminous intensity.\n- **Derived quantities** (area, volume, speed, density) come from base quantities.\n- **Prefixes**: kilo = 1000, centi = 0.01, milli = 0.001.\n- **Accuracy** = close to true value; **precision** = readings close to each other.\n- **Density** ρ = m / V, measured in kg/m³."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Physics", "definition": "The science that studies matter, energy, and how they interact."},
+                    {"term": "Measurement", "definition": "The process of comparing an unknown quantity with an agreed standard."},
+                    {"term": "Fundamental quantity", "definition": "A base quantity that cannot be expressed using other quantities (e.g. length, mass, time)."},
+                    {"term": "Derived quantity", "definition": "A quantity made by combining fundamental quantities (e.g. area, speed, density)."},
+                    {"term": "SI system", "definition": "The International System of Units used by scientists worldwide."},
+                    {"term": "Density", "definition": "Mass per unit volume of a substance, ρ = m/V, measured in kg/m³."},
+                    {"term": "Accuracy", "definition": "How close a measurement is to the true value."},
+                    {"term": "Precision", "definition": "How close repeated measurements are to one another."},
+                    {"term": "Scientific notation", "definition": "Writing a number as a value between 1 and 10 times a power of ten."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "SI unit of length?", "back": "Metre (m)"},
+                {"front": "Formula for density?", "back": "Density = mass ÷ volume (ρ = m/V), unit kg/m³"},
+                {"front": "How many cm³ are in 1 m³?", "back": "1 000 000 cm³ (100³)"},
+                {"front": "Difference between accuracy and precision?", "back": "Accuracy = close to the true value; precision = repeated readings close to each other."},
+                {"front": "Write 45000 in scientific notation.", "back": "4.5 × 10⁴"}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Fundamental quantities", "difficulty": "beginner", "type": "mcq", "prompt": "Which of the following is a fundamental (base) physical quantity?", "options": ["Speed", "Area", "Time", "Density"], "answer": "2", "explanation": "Time is a base quantity (SI unit second). Speed, area and density are derived from base quantities."},
+            {"topic": "SI units", "difficulty": "beginner", "type": "mcq", "prompt": "What is the SI unit of mass?", "options": ["Gram", "Newton", "Kilogram", "Litre"], "answer": "2", "explanation": "The kilogram (kg) is the SI base unit of mass. The gram is a smaller unit and the newton measures force."},
+            {"topic": "Unit conversion", "difficulty": "medium", "type": "mcq", "prompt": "Convert 3.2 km into metres.", "options": ["32 m", "320 m", "3200 m", "32000 m"], "answer": "2", "explanation": "1 km = 1000 m, so 3.2 × 1000 = 3200 m."},
+            {"topic": "Density", "difficulty": "medium", "type": "mcq", "prompt": "A body has mass 600 g and volume 200 cm³. What is its density?", "options": ["0.33 g/cm³", "3 g/cm³", "120 g/cm³", "800 g/cm³"], "answer": "1", "explanation": "Density = mass ÷ volume = 600 ÷ 200 = 3 g/cm³."},
+            {"topic": "Accuracy and precision", "difficulty": "difficult", "type": "mcq", "prompt": "A true length is 50 cm. Readings of 30.1, 30.0, 30.2 and 30.1 cm are best described as:", "options": ["Accurate and precise", "Accurate but not precise", "Precise but not accurate", "Neither accurate nor precise"], "answer": "2", "explanation": "The values are close to each other (precise) but far from 50 cm (not accurate)."},
+            {"topic": "Volume conversion", "difficulty": "exam", "type": "mcq", "prompt": "How many cubic centimetres (cm³) are there in 1 cubic metre (m³)?", "options": ["100", "10000", "1000000", "1000"], "answer": "2", "explanation": "1 m = 100 cm, so 1 m³ = 100 × 100 × 100 = 1 000 000 cm³. Cubing applies to all three dimensions."}
+          ]
+        },
+        {
+          "title": "Motion in a Straight Line",
+          "description": "How to describe motion using distance, displacement, speed, velocity and acceleration.",
+          "lessons": [
+            {
+              "title": "Describing Motion (Kinematics)",
+              "summary": "Understand distance and displacement, speed and velocity, acceleration, and how to use the equations of uniformly accelerated motion.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Everything is moving",
+                  "body": "A bus on the road to Hawassa, a runner on a track, the Earth around the Sun — everything moves. **Mechanics** is the part of physics that studies motion. The branch that *describes* motion without asking what causes it is called **kinematics**.\n\nTo describe motion clearly, we need careful words. Saying a car \"went fast\" is not enough. We need to know *how far*, *in which direction*, and *how the speed changed*. This lesson gives you the exact language and formulas physicists use."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Distinguish **distance** from **displacement**.\n- Distinguish **speed** from **velocity**.\n- Define and calculate **acceleration**.\n- Tell the difference between **scalar** and **vector** quantities.\n- Use the **equations of uniformly accelerated motion**.\n- Read a **velocity–time graph**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Distance, displacement, speed, velocity and acceleration",
+                  "body": "Some quantities need only a size (number + unit); others also need a direction.\n\n- A **scalar** has size only — e.g. distance, speed, time, mass.\n- A **vector** has size *and* direction — e.g. displacement, velocity, acceleration, force.\n\n**Distance** is the total path length travelled (a scalar). **Displacement** is the straight-line distance from start to finish, in a direction (a vector). If you walk 3 m east then 3 m west, the **distance** is 6 m but the **displacement** is 0 m, because you ended where you started.\n\n**Speed** is how fast distance is covered: speed = distance ÷ time (scalar). **Velocity** is displacement ÷ time, with a direction (vector). The SI unit of both is **m/s**.\n\n**Acceleration** is how quickly velocity changes:\n\n**a = (v − u) / t**\n\nwhere *u* = initial velocity, *v* = final velocity, *t* = time. The SI unit is **m/s²**. Speeding up gives positive acceleration; slowing down gives negative acceleration (also called **deceleration**).\n\n**Why direction matters:** Forces and motion add up differently depending on direction. Treating velocity as a vector lets us correctly combine motions, which scalars alone cannot do.\n\n**Equations of uniformly accelerated motion** (constant acceleration):\n\n1. v = u + at\n2. s = ut + ½at²\n3. v² = u² + 2as\n\nHere *s* is displacement. These three equations solve almost every straight-line motion problem at Grade 9."
+                },
+                {
+                  "type": "visual",
+                  "title": "Velocity–time graph of a speeding-up car",
+                  "body": "This graph shows a car whose velocity increases steadily from 0 to 8 m/s in 4 seconds. A straight, rising line means **constant acceleration**. The slope (rise ÷ run) gives the acceleration, and the area under the line gives the displacement.",
+                  "visual": {"kind": "motion-graph", "data": {"xLabel": "time (s)", "yLabel": "velocity (m/s)", "series": [{"label": "v", "points": [[0, 0], [2, 4], [4, 8]]}]}}
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: a bus accelerating",
+                  "body": "**Question:** A bus starts from rest and reaches a velocity of 20 m/s in 10 s. Find (a) its acceleration and (b) the distance it travels in that time.\n\n**Step 1 — List the data with units.**\nu = 0 m/s (starts from rest), v = 20 m/s, t = 10 s.\n\n**Step 2 — Find acceleration using a = (v − u)/t.**\na = (20 − 0) ÷ 10 = **2 m/s²**\n\n**Step 3 — Find distance using s = ut + ½at².**\ns = (0 × 10) + ½ × 2 × (10)²\ns = 0 + ½ × 2 × 100\ns = **100 m**\n\n**Answer:** The acceleration is 2 m/s² and the bus travels 100 m."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Confusing distance and displacement.** Distance is the whole path; displacement is start-to-finish straight line with direction.\n- **Forgetting 'from rest' means u = 0.** Always read the question for the starting speed.\n- **Squaring wrongly in s = ut + ½at².** The t² applies only to the second term.\n- **Dropping the negative sign for deceleration.** Slowing down means a is negative.\n- **Wrong units.** Acceleration is m/s², not m/s."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- Remember the order of letters in **\"v = u + at\"**: **v**ery **u**seful **a**fter **t**ime.\n- **Vector vs scalar:** a vector has a *direction* — picture an arrow. A scalar is just a number.\n- On a **velocity–time graph**: **slope = acceleration**, **area = distance**.\n- Deceleration = negative acceleration: \"going down, sign goes down (−).\""
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** A car speeds up from 5 m/s to 25 m/s in 4 s. Find its acceleration.\n**Q2.** A cyclist travels 3 km north then 4 km north. What is the total displacement?\n**Q3.** A stone is dropped from rest (a = 10 m/s²). How far does it fall in 3 s?\n\n**Answers:**\n1. a = (25 − 5) ÷ 4 = **5 m/s²**\n2. 3 + 4 = **7 km north**\n3. s = 0 + ½ × 10 × 3² = ½ × 10 × 9 = **45 m**"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Kinematics** describes motion without asking its cause.\n- **Scalar** = size only (distance, speed); **vector** = size + direction (displacement, velocity, acceleration).\n- **Speed** = distance ÷ time; **velocity** = displacement ÷ time (m/s).\n- **Acceleration** a = (v − u)/t, unit m/s².\n- Equations of motion: v = u + at, s = ut + ½at², v² = u² + 2as.\n- On a velocity–time graph: slope = acceleration, area = displacement."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Kinematics", "definition": "The study of motion without considering its causes."},
+                    {"term": "Distance", "definition": "The total length of the path travelled; a scalar."},
+                    {"term": "Displacement", "definition": "The straight-line distance from start to finish in a given direction; a vector."},
+                    {"term": "Speed", "definition": "The rate of covering distance; speed = distance ÷ time (scalar)."},
+                    {"term": "Velocity", "definition": "The rate of change of displacement; velocity = displacement ÷ time (vector)."},
+                    {"term": "Acceleration", "definition": "The rate of change of velocity, a = (v − u)/t, unit m/s²."},
+                    {"term": "Scalar", "definition": "A quantity that has size only."},
+                    {"term": "Vector", "definition": "A quantity that has both size and direction."},
+                    {"term": "Deceleration", "definition": "Negative acceleration; the slowing down of an object."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "Difference between distance and displacement?", "back": "Distance = total path (scalar); displacement = straight line start-to-finish with direction (vector)."},
+                {"front": "Formula for acceleration?", "back": "a = (v − u) / t, unit m/s²"},
+                {"front": "Name the three equations of motion.", "back": "v = u + at; s = ut + ½at²; v² = u² + 2as"},
+                {"front": "On a velocity–time graph, what does the slope show?", "back": "The acceleration"},
+                {"front": "What does 'starts from rest' tell you?", "back": "The initial velocity u = 0 m/s"}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Scalars and vectors", "difficulty": "beginner", "type": "mcq", "prompt": "Which of the following is a vector quantity?", "options": ["Distance", "Speed", "Velocity", "Time"], "answer": "2", "explanation": "Velocity has both size and direction, so it is a vector. Distance, speed and time are scalars."},
+            {"topic": "Speed", "difficulty": "beginner", "type": "mcq", "prompt": "A car travels 150 m in 10 s. What is its average speed?", "options": ["10 m/s", "15 m/s", "150 m/s", "1500 m/s"], "answer": "1", "explanation": "Speed = distance ÷ time = 150 ÷ 10 = 15 m/s."},
+            {"topic": "Acceleration", "difficulty": "medium", "type": "mcq", "prompt": "A body speeds up from 4 m/s to 16 m/s in 6 s. What is its acceleration?", "options": ["1 m/s²", "2 m/s²", "3 m/s²", "12 m/s²"], "answer": "1", "explanation": "a = (v − u)/t = (16 − 4)/6 = 12/6 = 2 m/s²."},
+            {"topic": "Equations of motion", "difficulty": "medium", "type": "mcq", "prompt": "An object starts from rest and accelerates at 3 m/s² for 4 s. How far does it travel?", "options": ["12 m", "24 m", "48 m", "6 m"], "answer": "1", "explanation": "s = ut + ½at² = 0 + ½ × 3 × 4² = ½ × 3 × 16 = 24 m."},
+            {"topic": "Displacement", "difficulty": "difficult", "type": "mcq", "prompt": "A person walks 5 m east, then 5 m west. What is the displacement?", "options": ["10 m east", "10 m west", "0 m", "5 m east"], "answer": "2", "explanation": "The person returns to the starting point, so the displacement (start to finish) is 0 m, even though the distance is 10 m."},
+            {"topic": "Velocity–time graph", "difficulty": "exam", "type": "mcq", "prompt": "On a velocity–time graph, what does the area under the line represent?", "options": ["Acceleration", "Speed", "Displacement", "Force"], "answer": "2", "explanation": "The area under a velocity–time graph equals the displacement (velocity × time). The slope of the line gives the acceleration."}
+          ]
+        },
+        {
+          "title": "Force and Newton's Laws of Motion",
+          "description": "What forces are and how Newton's three laws explain motion and equilibrium.",
+          "lessons": [
+            {
+              "title": "Forces and Newton's Laws",
+              "summary": "Learn about different types of forces, Newton's three laws of motion, and how to use F = ma and free-body diagrams.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "What makes things move or stop?",
+                  "body": "When you push a loaded cart at a market in Addis Ababa, it moves. When you stop pushing, it slows and stops. A **force** is a push or a pull. Forces can start motion, stop motion, change speed, change direction, or change the shape of an object.\n\nSir **Isaac Newton** discovered three simple laws that explain how forces affect motion. These **Newton's laws of motion** are some of the most important ideas in all of physics, and they still describe the motion of cars, footballs and rockets today."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Define **force** and give its SI unit.\n- Identify **contact** and **non-contact (field)** forces.\n- State and explain **Newton's three laws of motion**.\n- Use the formula **F = ma**.\n- Explain the difference between **mass** and **weight**.\n- Draw a simple **free-body diagram**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Force and the three laws",
+                  "body": "A **force** is a push or a pull, measured in **newtons (N)**. Forces are vectors, so direction matters.\n\nForces are of two kinds:\n- **Contact forces** act by touching, e.g. friction, tension, the normal (support) force, applied push.\n- **Non-contact (field) forces** act at a distance, e.g. gravity, magnetic force, electric force.\n\n**Newton's First Law (Law of Inertia):** An object stays at rest, or keeps moving at constant velocity, unless an *unbalanced* force acts on it. **Inertia** is the tendency of an object to resist a change in its motion. This is why passengers lurch forward when a bus brakes suddenly.\n\n**Newton's Second Law:** The acceleration of an object is directly proportional to the net force and inversely proportional to its mass:\n\n**F = ma**\n\nwhere F = net force (N), m = mass (kg), a = acceleration (m/s²). This law tells us *how much* an object accelerates.\n\n**Newton's Third Law:** For every action there is an equal and opposite reaction. When you push on the ground to walk, the ground pushes back on you with equal force.\n\n**Mass vs weight:** **Mass** is the amount of matter in an object (kg) and never changes. **Weight** is the force of gravity on that mass: **W = mg**, where g ≈ 9.8 m/s² on Earth. Weight is measured in newtons and changes if gravity changes (you would weigh less on the Moon).\n\n**Why F = ma works:** A bigger force gives a bigger acceleration; a heavier object is harder to accelerate. This single equation links force, mass and motion."
+                },
+                {
+                  "type": "visual",
+                  "title": "Free-body diagram of a resting box",
+                  "body": "A box sits still on a table. Its **weight** (gravity) pulls it down, and the **normal force** from the table pushes it up with equal strength. Because the two forces are balanced, the box stays at rest — exactly what Newton's First Law predicts.",
+                  "visual": {"kind": "free-body", "data": {"object": "Box", "forces": [{"label": "Weight", "angle": 270, "magnitude": 10}, {"label": "Normal force", "angle": 90, "magnitude": 10}]}}
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: force and weight",
+                  "body": "**Question:** A box of mass 5 kg is pushed with a net force of 20 N along a smooth floor. (a) Find its acceleration. (b) Find the weight of the box (take g = 9.8 m/s²).\n\n**Step 1 — Find acceleration using F = ma.**\nRearrange: a = F ÷ m = 20 N ÷ 5 kg = **4 m/s²**\n\n**Step 2 — Find weight using W = mg.**\nW = 5 kg × 9.8 m/s² = **49 N**\n\n**Answer:** The acceleration is 4 m/s² and the weight is 49 N.\n\n**Note:** The mass stays 5 kg everywhere, but the weight would be different on the Moon because g is smaller there."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Confusing mass and weight.** Mass is in kg and constant; weight is a force in newtons and depends on gravity.\n- **Using total force instead of net force in F = ma.** Only the *unbalanced* force causes acceleration.\n- **Thinking a moving object needs a constant force.** With no friction, no force is needed to keep constant velocity (First Law).\n- **Forgetting forces are vectors.** Opposite forces subtract; same-direction forces add.\n- **Mixing up action and reaction pairs** — they act on *different* objects."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- **First law = lazy law:** objects are lazy and won't change motion on their own (inertia).\n- **F = ma:** \"Force Makes acceleration.\"\n- **Weight = mass × g:** \"We Make gravity\" (W = mg).\n- **Third law:** every push has a push-back — clap your hands and feel both.\n- Mass is *matter* (kg); weight is a *force* (N) — both start differently for a reason."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers (use g = 9.8 m/s²).\n\n**Q1.** A 2 kg object accelerates at 5 m/s². What net force acts on it?\n**Q2.** Find the weight of a 10 kg bag of teff on Earth.\n**Q3.** A 1000 kg car is pushed by a net force of 3000 N. Find its acceleration.\n\n**Answers:**\n1. F = ma = 2 × 5 = **10 N**\n2. W = mg = 10 × 9.8 = **98 N**\n3. a = F/m = 3000 ÷ 1000 = **3 m/s²**"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- A **force** is a push or pull, measured in **newtons (N)**; it is a vector.\n- Forces are **contact** (friction, tension, normal) or **non-contact** (gravity, magnetism).\n- **First Law:** without an unbalanced force, motion does not change (inertia).\n- **Second Law:** F = ma (net force = mass × acceleration).\n- **Third Law:** every action has an equal and opposite reaction.\n- **Mass** (kg) is matter; **weight** W = mg (N) is the force of gravity."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Force", "definition": "A push or a pull, measured in newtons (N); a vector quantity."},
+                    {"term": "Contact force", "definition": "A force that acts only when objects touch, e.g. friction or tension."},
+                    {"term": "Non-contact force", "definition": "A force that acts at a distance, e.g. gravity or magnetism."},
+                    {"term": "Inertia", "definition": "The tendency of an object to resist a change in its state of motion."},
+                    {"term": "Newton's Second Law", "definition": "Net force equals mass times acceleration, F = ma."},
+                    {"term": "Mass", "definition": "The amount of matter in an object, measured in kilograms; constant everywhere."},
+                    {"term": "Weight", "definition": "The force of gravity on an object, W = mg, measured in newtons."},
+                    {"term": "Net force", "definition": "The single resultant force after all forces on an object are combined."},
+                    {"term": "Free-body diagram", "definition": "A simple drawing showing all the forces acting on one object as arrows."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "SI unit of force?", "back": "Newton (N)"},
+                {"front": "State Newton's Second Law.", "back": "Net force = mass × acceleration (F = ma)."},
+                {"front": "Difference between mass and weight?", "back": "Mass = amount of matter (kg, constant); weight = force of gravity (N, W = mg)."},
+                {"front": "What is inertia?", "back": "The tendency of an object to resist a change in its motion."},
+                {"front": "State Newton's Third Law.", "back": "For every action there is an equal and opposite reaction."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Units", "difficulty": "beginner", "type": "mcq", "prompt": "What is the SI unit of force?", "options": ["Kilogram", "Joule", "Newton", "Watt"], "answer": "2", "explanation": "Force is measured in newtons (N). The kilogram is the unit of mass and the joule is the unit of energy."},
+            {"topic": "Types of force", "difficulty": "beginner", "type": "mcq", "prompt": "Which of these is a non-contact (field) force?", "options": ["Friction", "Tension", "Gravity", "Normal force"], "answer": "2", "explanation": "Gravity acts at a distance without touching, so it is a non-contact force. Friction, tension and the normal force are contact forces."},
+            {"topic": "Newton's Second Law", "difficulty": "medium", "type": "mcq", "prompt": "A net force of 12 N acts on a 3 kg object. What is its acceleration?", "options": ["3 m/s²", "4 m/s²", "9 m/s²", "36 m/s²"], "answer": "1", "explanation": "a = F/m = 12 ÷ 3 = 4 m/s²."},
+            {"topic": "Weight", "difficulty": "medium", "type": "mcq", "prompt": "Using g = 10 m/s², what is the weight of a 6 kg object?", "options": ["6 N", "16 N", "60 N", "0.6 N"], "answer": "2", "explanation": "Weight W = mg = 6 × 10 = 60 N."},
+            {"topic": "Inertia", "difficulty": "difficult", "type": "mcq", "prompt": "When a bus suddenly stops, passengers lurch forward. This is best explained by:", "options": ["Newton's Third Law", "Inertia (First Law)", "Gravity", "Friction"], "answer": "1", "explanation": "By inertia (Newton's First Law), the passengers' bodies tend to keep moving forward even though the bus has stopped."},
+            {"topic": "Mass and weight", "difficulty": "exam", "type": "mcq", "prompt": "An astronaut takes a 10 kg object to the Moon, where gravity is weaker. What happens to its mass and weight?", "options": ["Both stay the same", "Mass stays the same, weight decreases", "Mass decreases, weight stays the same", "Both decrease"], "answer": "1", "explanation": "Mass is the amount of matter and never changes (10 kg). Weight = mg, and since g is smaller on the Moon, the weight decreases."}
+          ]
+        },
+        {
+          "title": "Work, Energy and Power",
+          "description": "How work, kinetic and potential energy, the conservation of energy, and power are related.",
+          "lessons": [
+            {
+              "title": "Work, Energy and Power",
+              "summary": "Learn how to calculate work done, kinetic and potential energy, apply the conservation of energy, and find power.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Energy makes things happen",
+                  "body": "When a farmer lifts a sack of grain, water rushes down the Blue Nile (Abay), or a lamp lights a room, **energy** is at work. **Energy** is the ability to do work, and it comes in many forms — movement, heat, light, electrical and chemical.\n\nIn everyday speech, \"work\" means any effort. In physics, **work** has an exact meaning: a force must move an object through a distance. This lesson shows how work, energy and power are connected by simple formulas."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Define **work** and calculate it with W = F × d.\n- Define **energy** and name its main forms.\n- Calculate **kinetic energy** and **gravitational potential energy**.\n- State the **law of conservation of energy**.\n- Define and calculate **power**.\n- Use the correct SI units: joule (J) and watt (W)."
+                },
+                {
+                  "type": "theory",
+                  "title": "Work, energy and power",
+                  "body": "**Work** is done when a force moves an object in the direction of the force:\n\n**W = F × d**\n\nwhere W = work (joules, J), F = force (N), d = distance moved in the direction of the force (m). If you push a wall and it does not move, you do **no work** in the physics sense, no matter how tired you feel.\n\n**Energy** is the ability to do work, also measured in **joules (J)**. Two important mechanical forms are:\n\n- **Kinetic energy (KE)** — energy of motion: **KE = ½mv²**, where m = mass (kg), v = speed (m/s).\n- **Gravitational potential energy (PE)** — energy of height: **PE = mgh**, where h = height (m) and g ≈ 9.8 m/s².\n\n**Law of conservation of energy:** Energy cannot be created or destroyed; it only changes from one form to another. The total energy stays the same. For example, when a stone falls, its potential energy changes into kinetic energy, but the total stays constant (ignoring air resistance).\n\n**Power** is how fast work is done or energy is used:\n\n**P = W / t**\n\nwhere P = power (watts, W), W = work or energy (J), t = time (s). One watt means one joule per second. A more powerful machine does the same work in less time.\n\n**Why these ideas matter:** Energy lets us compare very different processes — a moving car and a heated pot — using the same unit, the joule. Conservation of energy is one of the deepest rules in physics."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: work, energy and power",
+                  "body": "**Question:** A worker lifts a 15 kg box to a shelf 2 m high in 3 s (take g = 10 m/s²). Find (a) the work done, (b) the potential energy gained, and (c) the power used.\n\n**Step 1 — Find the lifting force.** To lift steadily, force = weight = mg = 15 × 10 = 150 N.\n\n**Step 2 — Find the work done using W = F × d.**\nW = 150 N × 2 m = **300 J**\n\n**Step 3 — Find the potential energy gained using PE = mgh.**\nPE = 15 × 10 × 2 = **300 J** (equal to the work done, as expected).\n\n**Step 4 — Find the power using P = W / t.**\nP = 300 J ÷ 3 s = **100 W**\n\n**Answer:** Work = 300 J, PE gained = 300 J, power = 100 W."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Thinking effort alone is work.** If the object does not move, no work is done in physics.\n- **Forgetting the ½ in kinetic energy.** KE = ½mv², not mv².\n- **Not squaring the speed.** The v in KE is squared, so doubling speed gives four times the KE.\n- **Mixing up energy (J) and power (W).** Power is energy per second.\n- **Using weight instead of mass (or vice versa)** in the formulas — check the units."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- **Work = Force × distance:** \"Work Forces Distance.\"\n- **KE = ½mv²:** half of mass times velocity squared — remember the **½** and the **square**.\n- **PE = mgh:** \"My Greater Height\" gives more potential energy.\n- **Power = energy ÷ time:** more power = faster work. Watt = joule per second.\n- No movement, no work — even if you sweat!"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers (use g = 10 m/s²).\n\n**Q1.** A force of 50 N moves a crate 4 m. How much work is done?\n**Q2.** A 2 kg ball moves at 3 m/s. Find its kinetic energy.\n**Q3.** A motor does 600 J of work in 5 s. Find its power.\n\n**Answers:**\n1. W = F × d = 50 × 4 = **200 J**\n2. KE = ½ × 2 × 3² = ½ × 2 × 9 = **9 J**\n3. P = W/t = 600 ÷ 5 = **120 W**"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Work** W = F × d, measured in **joules (J)**; no movement means no work.\n- **Energy** is the ability to do work (J); forms include kinetic, potential, heat, light, electrical.\n- **Kinetic energy** KE = ½mv²; **potential energy** PE = mgh.\n- **Conservation of energy:** energy is never created or destroyed, only changed in form.\n- **Power** P = W/t, measured in **watts (W)**; 1 W = 1 J/s.\n- More power means the same work is done in less time."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Work", "definition": "The product of force and the distance moved in the force's direction, W = F × d, measured in joules."},
+                    {"term": "Energy", "definition": "The ability to do work, measured in joules (J)."},
+                    {"term": "Kinetic energy", "definition": "The energy of a moving object, KE = ½mv²."},
+                    {"term": "Potential energy", "definition": "Stored energy due to position or height, PE = mgh."},
+                    {"term": "Joule", "definition": "The SI unit of work and energy; one newton-metre."},
+                    {"term": "Conservation of energy", "definition": "The principle that energy cannot be created or destroyed, only changed in form."},
+                    {"term": "Power", "definition": "The rate of doing work or using energy, P = W/t, measured in watts."},
+                    {"term": "Watt", "definition": "The SI unit of power; one joule per second."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "Formula for work?", "back": "W = F × d (force × distance), unit joule (J)"},
+                {"front": "Formula for kinetic energy?", "back": "KE = ½mv²"},
+                {"front": "Formula for gravitational potential energy?", "back": "PE = mgh"},
+                {"front": "State the law of conservation of energy.", "back": "Energy cannot be created or destroyed, only changed from one form to another."},
+                {"front": "Formula for power and its unit?", "back": "P = W/t; unit watt (W) = joule per second"}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Work", "difficulty": "beginner", "type": "mcq", "prompt": "What is the SI unit of work and energy?", "options": ["Newton", "Watt", "Joule", "Pascal"], "answer": "2", "explanation": "Work and energy are both measured in joules (J). The newton is force, the watt is power and the pascal is pressure."},
+            {"topic": "Work", "difficulty": "beginner", "type": "mcq", "prompt": "You push hard against a wall but it does not move. How much work do you do on the wall?", "options": ["A lot", "A little", "Zero", "It depends on your strength"], "answer": "2", "explanation": "Work = force × distance. Since the distance moved is zero, the work done is zero, no matter how hard you push."},
+            {"topic": "Kinetic energy", "difficulty": "medium", "type": "mcq", "prompt": "A 4 kg object moves at 5 m/s. What is its kinetic energy?", "options": ["20 J", "40 J", "50 J", "100 J"], "answer": "2", "explanation": "KE = ½mv² = ½ × 4 × 5² = ½ × 4 × 25 = 50 J."},
+            {"topic": "Potential energy", "difficulty": "medium", "type": "mcq", "prompt": "A 3 kg object is lifted 4 m high (g = 10 m/s²). What is its potential energy?", "options": ["12 J", "40 J", "120 J", "7 J"], "answer": "2", "explanation": "PE = mgh = 3 × 10 × 4 = 120 J."},
+            {"topic": "Power", "difficulty": "difficult", "type": "mcq", "prompt": "A machine does 900 J of work in 3 s. What is its power?", "options": ["300 W", "2700 W", "3 W", "903 W"], "answer": "0", "explanation": "P = W/t = 900 ÷ 3 = 300 W."},
+            {"topic": "Conservation of energy", "difficulty": "exam", "type": "mcq", "prompt": "As a stone falls freely, which energy change takes place (ignore air resistance)?", "options": ["Kinetic energy changes to potential energy", "Potential energy changes to kinetic energy", "Energy is destroyed", "Heat changes to potential energy"], "answer": "1", "explanation": "As the stone falls, its height decreases so potential energy decreases, while its speed increases so kinetic energy increases. PE changes into KE, with the total energy conserved."}
+          ]
+        },
+        {
+          "title": "Mechanical Properties of Fluids",
+          "description": "Pressure in solids and liquids, atmospheric pressure, and how floating and density relate.",
+          "lessons": [
+            {
+              "title": "Pressure and Fluids",
+              "summary": "Understand pressure in solids and liquids, atmospheric pressure, and why some objects float while others sink.",
+              "estimatedMinutes": 28,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Pushing on a surface",
+                  "body": "Why does a sharp knife cut more easily than a blunt one? Why do your feet sink into soft mud but not onto hard ground? The answer is **pressure**. A **fluid** is anything that can flow — both liquids and gases are fluids.\n\nPressure explains why dam walls, like those holding back water at the Grand Ethiopian Renaissance Dam, are built thicker at the bottom, and why we can drink through a straw. This lesson explains pressure in solids, liquids and the air around us."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Define **pressure** and give its SI unit.\n- Use the formula **P = F / A**.\n- Explain how **pressure in a liquid** depends on depth and density.\n- Describe **atmospheric pressure**.\n- Explain **floating and sinking** using density and upthrust."
+                },
+                {
+                  "type": "theory",
+                  "title": "Pressure in solids and liquids",
+                  "body": "**Pressure** is the force acting on each unit of area:\n\n**P = F / A**\n\nwhere P = pressure in **pascals (Pa)**, F = force (N), A = area (m²). One pascal is one newton per square metre.\n\nFor the same force, a **smaller area gives a larger pressure**. That is why a sharp knife (small area) cuts easily, and why wide tyres spread a vehicle's weight to stop it sinking into soft ground.\n\n**Pressure in a liquid** increases with depth and density:\n\n**P = ρgh**\n\nwhere ρ = density of the liquid (kg/m³), g ≈ 9.8 m/s², h = depth (m). Liquid pressure acts in **all directions** and depends only on depth, not on the shape of the container. This is why a dam wall is thicker at the bottom, where the water pushes hardest.\n\n**Atmospheric pressure** is the pressure caused by the weight of the air above us. At sea level it is about 101 000 Pa. It is lower at high altitude — which is why it is noticeably lower on the highlands around Addis Ababa than at sea level.\n\n**Floating and sinking:** When an object is in a fluid, the fluid pushes up on it with a force called **upthrust** (or buoyant force). An object **floats** if it is less dense than the fluid and **sinks** if it is denser. A steel nail sinks, but a steel ship floats because its overall shape makes its *average* density less than water.\n\n**Why pressure spreads in liquids:** Because liquid particles can move, a push is passed equally in all directions — this is the idea behind hydraulic machines."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: pressure under a box and in water",
+                  "body": "**Question:** (a) A box weighs 200 N and rests on an area of 0.5 m². Find the pressure it exerts. (b) Find the water pressure at a depth of 4 m (ρ = 1000 kg/m³, g = 10 m/s²).\n\n**Step 1 — Pressure of the box using P = F / A.**\nP = 200 N ÷ 0.5 m² = **400 Pa**\n\n**Step 2 — Water pressure using P = ρgh.**\nP = 1000 × 10 × 4\nP = **40 000 Pa**\n\n**Answer:** The box exerts 400 Pa, and the water pressure at 4 m depth is 40 000 Pa (= 40 kPa)."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Confusing force and pressure.** The same force gives different pressures on different areas.\n- **Thinking deeper water has more pressure because there is 'more water sideways'.** Pressure depends on depth (h), not the width of the container.\n- **Forgetting liquid pressure acts in all directions**, not just downward.\n- **Mixing up cm² and m²** in P = F/A — convert area to m² first.\n- **Saying heavy objects always sink.** It is *density*, not weight, that decides floating."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- **P = F/A:** \"Pressure = Force per Area.\" Small area → big pressure (think sharp knife).\n- **P = ρgh** for liquids: deeper = denser push. \"Rho-g-h: Really Great Height.\"\n- Pascal = newton per square metre (N/m²).\n- **Floats if less dense, sinks if denser** than the fluid.\n- A drawing pin: tiny tip area means huge pressure — that's how it pierces."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers (use g = 10 m/s²).\n\n**Q1.** A force of 60 N acts on an area of 0.2 m². Find the pressure.\n**Q2.** Find the pressure at 5 m depth in water (ρ = 1000 kg/m³).\n**Q3.** An object has a density of 1200 kg/m³. Will it float or sink in water (1000 kg/m³)?\n\n**Answers:**\n1. P = F/A = 60 ÷ 0.2 = **300 Pa**\n2. P = ρgh = 1000 × 10 × 5 = **50 000 Pa**\n3. It is denser than water, so it will **sink**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Pressure** P = F/A, measured in **pascals (Pa)**; small area gives big pressure.\n- A **fluid** is anything that flows (liquids and gases).\n- **Liquid pressure** P = ρgh increases with depth and density and acts in all directions.\n- **Atmospheric pressure** is caused by the weight of air (~101 000 Pa at sea level), lower at altitude.\n- **Upthrust** pushes objects up in a fluid.\n- An object **floats** if less dense than the fluid and **sinks** if denser."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Pressure", "definition": "The force acting on each unit of area, P = F/A, measured in pascals."},
+                    {"term": "Pascal", "definition": "The SI unit of pressure; one newton per square metre."},
+                    {"term": "Fluid", "definition": "A substance that can flow; both liquids and gases are fluids."},
+                    {"term": "Liquid pressure", "definition": "Pressure in a liquid, P = ρgh, that increases with depth and density."},
+                    {"term": "Atmospheric pressure", "definition": "The pressure due to the weight of the air above a surface."},
+                    {"term": "Upthrust", "definition": "The upward (buoyant) force a fluid exerts on an object in it."},
+                    {"term": "Density", "definition": "Mass per unit volume; decides whether an object floats or sinks."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "Formula for pressure?", "back": "P = F / A (force ÷ area), unit pascal (Pa)"},
+                {"front": "Formula for pressure in a liquid?", "back": "P = ρgh (density × g × depth)"},
+                {"front": "Why does a sharp knife cut easily?", "back": "Its small area gives a very large pressure for the same force."},
+                {"front": "What decides if an object floats or sinks?", "back": "Its density compared to the fluid: floats if less dense, sinks if denser."},
+                {"front": "What is upthrust?", "back": "The upward (buoyant) force a fluid exerts on an object."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Pressure", "difficulty": "beginner", "type": "mcq", "prompt": "What is the SI unit of pressure?", "options": ["Newton", "Pascal", "Joule", "Watt"], "answer": "1", "explanation": "Pressure is measured in pascals (Pa), where 1 Pa = 1 N/m²."},
+            {"topic": "Pressure and area", "difficulty": "beginner", "type": "mcq", "prompt": "For the same force, how do you get a larger pressure?", "options": ["Use a larger area", "Use a smaller area", "Use a heavier object", "Area does not matter"], "answer": "1", "explanation": "Since P = F/A, a smaller area gives a larger pressure for the same force. This is why sharp tools cut well."},
+            {"topic": "Pressure formula", "difficulty": "medium", "type": "mcq", "prompt": "A force of 100 N acts on an area of 0.25 m². What is the pressure?", "options": ["25 Pa", "100 Pa", "400 Pa", "0.0025 Pa"], "answer": "2", "explanation": "P = F/A = 100 ÷ 0.25 = 400 Pa."},
+            {"topic": "Liquid pressure", "difficulty": "medium", "type": "mcq", "prompt": "Water pressure at a certain depth depends on:", "options": ["The width of the container", "The shape of the container", "The depth and density", "The colour of the water"], "answer": "2", "explanation": "Liquid pressure P = ρgh depends only on depth and density (and g), not on the shape or width of the container."},
+            {"topic": "Floating", "difficulty": "difficult", "type": "mcq", "prompt": "An object will float in water (1000 kg/m³) if its density is:", "options": ["1000 kg/m³", "800 kg/m³", "1200 kg/m³", "2000 kg/m³"], "answer": "1", "explanation": "An object floats if it is less dense than the fluid. 800 kg/m³ is less than 1000 kg/m³, so it floats."},
+            {"topic": "Atmospheric pressure", "difficulty": "exam", "type": "mcq", "prompt": "Why is atmospheric pressure lower on the highlands around Addis Ababa than at sea level?", "options": ["The air is hotter there", "There is less air above pushing down", "Water boils faster there", "Gravity is stronger there"], "answer": "1", "explanation": "Atmospheric pressure comes from the weight of air above. At higher altitude there is less air above, so the pressure is lower."}
+          ]
+        },
+        {
+          "title": "Temperature and Heat",
+          "description": "The difference between temperature and heat, thermal expansion, and how heat is transferred.",
+          "lessons": [
+            {
+              "title": "Temperature, Heat and Heat Transfer",
+              "summary": "Learn the difference between temperature and heat, how to convert temperature scales, thermal expansion, and the three ways heat moves.",
+              "estimatedMinutes": 28,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Hot and cold",
+                  "body": "On a warm afternoon in Dire Dawa you feel hot; in the cool highland nights you feel cold. But what is really happening? **Temperature** tells us how hot or cold something is, while **heat** is the energy that flows from a hotter object to a colder one.\n\nUnderstanding heat explains everyday things: why a metal spoon in hot shiro gets hot at the handle, why we leave gaps in metal bridges, and why a pot of water boils. This lesson separates these two ideas and shows how heat moves."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Explain the difference between **temperature** and **heat**.\n- Convert between **Celsius** and **Kelvin** scales.\n- Describe **thermal expansion** of solids, liquids and gases.\n- Explain the three methods of heat transfer: **conduction**, **convection** and **radiation**.\n- Give everyday examples of each."
+                },
+                {
+                  "type": "theory",
+                  "title": "Temperature, heat and how heat moves",
+                  "body": "**Temperature** is a measure of the average kinetic energy of the particles in a substance — how fast they move. Its SI unit is the **kelvin (K)**, but we often use **degrees Celsius (°C)**.\n\nTo convert: **K = °C + 273**. So 0 °C = 273 K, and 100 °C = 373 K. The lowest possible temperature, **absolute zero**, is 0 K (−273 °C).\n\n**Heat** is energy that flows from a hotter body to a colder body because of the temperature difference. Heat is measured in **joules (J)**. *Temperature is not the same as heat:* a cup of boiling water has a higher temperature than a warm lake, but the lake holds far more heat energy because it has so much more water.\n\n**Thermal expansion:** Most substances **expand** when heated and **contract** when cooled, because the particles move more and take up more space. Gases expand most, then liquids, then solids. This is why engineers leave small gaps between sections of railway lines and bridges so they do not buckle in the heat.\n\n**Three ways heat is transferred:**\n\n1. **Conduction** — heat passes through a solid from particle to particle, without the material moving. Metals are good conductors; wood and air are poor conductors (insulators). A metal spoon handle gets hot by conduction.\n2. **Convection** — heat moves through liquids and gases as the warmer, less dense fluid rises and cooler fluid sinks, forming a current. This is how a pot of water heats up and how breezes form.\n3. **Radiation** — heat travels as invisible waves (infrared) and needs no material at all. This is how heat from the Sun reaches Earth across empty space.\n\n**Why these differ:** Conduction needs touching particles, convection needs a flowing fluid, and radiation needs nothing at all — each suits different situations."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: temperature conversion",
+                  "body": "**Question:** (a) Convert 37 °C (human body temperature) to kelvin. (b) Convert 300 K to degrees Celsius.\n\n**Step 1 — Recall the rule.** K = °C + 273.\n\n**Step 2 — Convert 37 °C to kelvin.**\nK = 37 + 273 = **310 K**\n\n**Step 3 — Convert 300 K to °C.** Rearrange: °C = K − 273.\n°C = 300 − 273 = **27 °C**\n\n**Answer:** 37 °C = 310 K, and 300 K = 27 °C."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Thinking temperature and heat are the same.** Temperature measures hotness; heat is energy that flows.\n- **Subtracting when converting °C to K.** Add 273 to go from °C to K.\n- **Saying radiation needs air.** Radiation travels through a vacuum (that's how sunlight reaches us).\n- **Confusing conduction and convection.** Conduction is in solids; convection needs a flowing fluid.\n- **Forgetting gases expand more than solids** when heated."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- **K = °C + 273:** \"Kelvin is Celsius plus 273.\"\n- **Three transfers:** **C-C-R** → **C**onduction (solids), **C**onvection (fluids), **R**adiation (no medium).\n- **Convection = currents** (both start with C and involve flow).\n- **Radiation reaches across space** — think of the Sun.\n- Heat flows from **hot to cold**, never the other way on its own."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** Convert 25 °C to kelvin.\n**Q2.** Convert 350 K to degrees Celsius.\n**Q3.** By which method does heat from the Sun reach the Earth?\n\n**Answers:**\n1. 25 + 273 = **298 K**\n2. 350 − 273 = **77 °C**\n3. **Radiation** (it travels through empty space)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Temperature** measures the average kinetic energy of particles (kelvin or °C).\n- **Heat** is energy that flows from hot to cold (joules); it is not the same as temperature.\n- Convert with **K = °C + 273**; absolute zero is 0 K (−273 °C).\n- **Thermal expansion:** substances expand when heated; gases expand most.\n- Heat moves by **conduction** (solids), **convection** (fluids) and **radiation** (no medium needed)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Temperature", "definition": "A measure of the average kinetic energy of the particles in a substance."},
+                    {"term": "Heat", "definition": "Energy that flows from a hotter body to a colder body, measured in joules."},
+                    {"term": "Kelvin", "definition": "The SI unit of temperature; K = °C + 273."},
+                    {"term": "Absolute zero", "definition": "The lowest possible temperature, 0 K (−273 °C)."},
+                    {"term": "Thermal expansion", "definition": "The increase in size of a substance when it is heated."},
+                    {"term": "Conduction", "definition": "Heat transfer through a solid from particle to particle without the material moving."},
+                    {"term": "Convection", "definition": "Heat transfer in fluids by the movement of warmer, less dense fluid rising."},
+                    {"term": "Radiation", "definition": "Heat transfer by infrared waves that needs no material medium."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "Difference between heat and temperature?", "back": "Temperature = average kinetic energy of particles; heat = energy that flows from hot to cold (J)."},
+                {"front": "How do you convert °C to kelvin?", "back": "K = °C + 273"},
+                {"front": "Three methods of heat transfer?", "back": "Conduction, convection and radiation"},
+                {"front": "Which heat transfer needs no medium?", "back": "Radiation (it travels through a vacuum)"},
+                {"front": "What is absolute zero?", "back": "The lowest possible temperature, 0 K (−273 °C)"}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Temperature scales", "difficulty": "beginner", "type": "mcq", "prompt": "What is the SI unit of temperature?", "options": ["Degree Celsius", "Kelvin", "Joule", "Fahrenheit"], "answer": "1", "explanation": "The kelvin (K) is the SI base unit of temperature. Degrees Celsius are commonly used but are not the SI base unit."},
+            {"topic": "Heat vs temperature", "difficulty": "beginner", "type": "mcq", "prompt": "Heat is best described as:", "options": ["How hot something feels", "Energy that flows from hot to cold", "The same as temperature", "The speed of particles"], "answer": "1", "explanation": "Heat is energy that flows from a hotter body to a colder one. Temperature measures how hot something is."},
+            {"topic": "Temperature conversion", "difficulty": "medium", "type": "mcq", "prompt": "Convert 50 °C to kelvin.", "options": ["50 K", "223 K", "323 K", "373 K"], "answer": "2", "explanation": "K = °C + 273 = 50 + 273 = 323 K."},
+            {"topic": "Heat transfer", "difficulty": "medium", "type": "mcq", "prompt": "How does heat travel through a solid metal rod?", "options": ["Convection", "Radiation", "Conduction", "Evaporation"], "answer": "2", "explanation": "In a solid, heat passes from particle to particle by conduction. Metals are good conductors of heat."},
+            {"topic": "Thermal expansion", "difficulty": "difficult", "type": "mcq", "prompt": "Why are small gaps left between sections of a steel railway line?", "options": ["To save steel", "To allow for expansion in hot weather", "To let rain drain away", "To make the train slower"], "answer": "1", "explanation": "Steel expands when heated. The gaps allow the rails to expand in hot weather without buckling."},
+            {"topic": "Radiation", "difficulty": "exam", "type": "mcq", "prompt": "Heat from the Sun reaches the Earth through empty space mainly by:", "options": ["Conduction", "Convection", "Radiation", "Compression"], "answer": "2", "explanation": "Radiation travels as infrared waves and needs no material medium, so it can cross the vacuum of space from the Sun to Earth."}
+          ]
+        },
+        {
+          "title": "Wave Motion and Sound",
+          "description": "What waves are, the properties of waves, and how sound travels and is heard.",
+          "lessons": [
+            {
+              "title": "Waves and Sound",
+              "summary": "Learn the types and properties of waves, the wave equation, and how sound is produced, travels and is heard.",
+              "estimatedMinutes": 28,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Carrying energy without carrying matter",
+                  "body": "Drop a stone into a pool and ripples spread out, but a floating leaf only bobs up and down — it does not travel with the ripple. This is the key idea of a **wave**: a wave carries **energy** from one place to another *without* carrying the material itself.\n\nWaves are everywhere — water waves, the sound of a *masinko*, light from a lamp, and radio signals. This lesson explains the kinds of waves, how we describe them, and how sound, a wave we hear every day, behaves."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Define a **wave** and explain that it transfers energy.\n- Distinguish **transverse** and **longitudinal** waves.\n- Define **wavelength**, **frequency**, **period** and **amplitude**.\n- Use the **wave equation** v = fλ.\n- Explain how **sound** is produced and why it needs a medium."
+                },
+                {
+                  "type": "theory",
+                  "title": "Wave types, properties and sound",
+                  "body": "A **wave** is a disturbance that carries energy from one place to another without transferring matter.\n\nThere are two main types:\n- In a **transverse wave**, the particles vibrate *at right angles* to the direction the wave travels (e.g. water waves, light).\n- In a **longitudinal wave**, the particles vibrate *along* the direction of travel, making compressions and rarefactions (e.g. sound).\n\nFour properties describe any wave:\n- **Wavelength (λ)** — the distance between two matching points (e.g. crest to crest), in metres.\n- **Frequency (f)** — the number of waves passing a point each second, in **hertz (Hz)**.\n- **Period (T)** — the time for one complete wave, in seconds. Frequency and period are linked by **T = 1/f**.\n- **Amplitude** — the maximum distance a particle moves from its rest position; it shows the wave's energy.\n\nThese are connected by the **wave equation**:\n\n**v = f λ**\n\nwhere v = wave speed (m/s), f = frequency (Hz), λ = wavelength (m).\n\n**Sound** is a longitudinal wave produced by a **vibrating** object, such as a drum skin or your vocal cords. Sound needs a **medium** (solid, liquid or gas) to travel — it cannot pass through a vacuum, which is why there is no sound in space. Sound travels faster in solids than in liquids, and faster in liquids than in gases, because the particles are closer together. In air it travels at about 340 m/s.\n\n**Why amplitude and frequency matter for sound:** A bigger amplitude means a **louder** sound; a higher frequency means a **higher-pitched** sound."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: using the wave equation",
+                  "body": "**Question:** A sound wave has a frequency of 170 Hz and travels at 340 m/s in air. (a) Find its wavelength. (b) Find its period.\n\n**Step 1 — Write the wave equation.** v = fλ, so λ = v ÷ f.\n\n**Step 2 — Find the wavelength.**\nλ = 340 ÷ 170 = **2 m**\n\n**Step 3 — Find the period using T = 1/f.**\nT = 1 ÷ 170 ≈ **0.0059 s** (about 5.9 milliseconds)\n\n**Answer:** The wavelength is 2 m and the period is about 0.0059 s."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Thinking waves carry matter.** Waves carry energy; the medium only vibrates in place.\n- **Mixing up frequency and wavelength.** Frequency is waves per second (Hz); wavelength is a distance (m).\n- **Saying sound travels through a vacuum.** Sound needs a medium; only light and other electromagnetic waves cross a vacuum.\n- **Confusing amplitude with wavelength.** Amplitude is the height (energy); wavelength is the length of one wave.\n- **Forgetting to rearrange v = fλ** correctly when solving for λ or f."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- **v = fλ:** \"Velocity = frequency × wavelength.\"\n- **Transverse = T for 'at a Turn'** (right angles); **Longitudinal = Lined up** (same direction).\n- **Frequency in Hz = how Frequently** waves pass per second.\n- **Amplitude = Aloudness:** bigger amplitude, louder sound.\n- **Sound needs stuff** to travel — no air, no sound (space is silent)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** A wave has frequency 50 Hz and wavelength 4 m. Find its speed.\n**Q2.** A wave travels at 300 m/s with a wavelength of 1.5 m. Find its frequency.\n**Q3.** A wave has a frequency of 25 Hz. Find its period.\n\n**Answers:**\n1. v = fλ = 50 × 4 = **200 m/s**\n2. f = v/λ = 300 ÷ 1.5 = **200 Hz**\n3. T = 1/f = 1 ÷ 25 = **0.04 s**"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- A **wave** transfers **energy** without transferring matter.\n- **Transverse** waves vibrate at right angles to travel; **longitudinal** waves vibrate along it.\n- Key properties: **wavelength** (m), **frequency** (Hz), **period** (s), **amplitude**.\n- **Wave equation:** v = fλ; and T = 1/f.\n- **Sound** is a longitudinal wave from a vibrating object and needs a medium; ~340 m/s in air.\n- Bigger amplitude = louder; higher frequency = higher pitch."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Wave", "definition": "A disturbance that transfers energy from one place to another without transferring matter."},
+                    {"term": "Transverse wave", "definition": "A wave in which particles vibrate at right angles to the direction of travel."},
+                    {"term": "Longitudinal wave", "definition": "A wave in which particles vibrate along the direction of travel (e.g. sound)."},
+                    {"term": "Wavelength", "definition": "The distance between two matching points on a wave, such as crest to crest (m)."},
+                    {"term": "Frequency", "definition": "The number of waves passing a point each second, measured in hertz (Hz)."},
+                    {"term": "Period", "definition": "The time for one complete wave to pass, T = 1/f, in seconds."},
+                    {"term": "Amplitude", "definition": "The maximum distance a particle moves from its rest position; shows the wave's energy."},
+                    {"term": "Wave equation", "definition": "The relation v = fλ linking speed, frequency and wavelength."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "What does a wave transfer?", "back": "Energy, without transferring matter"},
+                {"front": "Difference between transverse and longitudinal waves?", "back": "Transverse: vibration at right angles to travel; longitudinal: vibration along the travel direction."},
+                {"front": "State the wave equation.", "back": "v = f λ (speed = frequency × wavelength)"},
+                {"front": "Unit of frequency?", "back": "Hertz (Hz) — waves per second"},
+                {"front": "Why is there no sound in space?", "back": "Sound is a wave that needs a medium; space is a vacuum with no particles."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Waves", "difficulty": "beginner", "type": "mcq", "prompt": "What does a wave transfer from place to place?", "options": ["Matter", "Energy", "Mass", "Particles"], "answer": "1", "explanation": "A wave carries energy without carrying matter; the medium only vibrates in place."},
+            {"topic": "Wave types", "difficulty": "beginner", "type": "mcq", "prompt": "Sound is an example of which type of wave?", "options": ["Transverse", "Longitudinal", "Light wave", "Water wave"], "answer": "1", "explanation": "Sound is a longitudinal wave: the particles vibrate back and forth along the direction the wave travels."},
+            {"topic": "Wave equation", "difficulty": "medium", "type": "mcq", "prompt": "A wave has frequency 20 Hz and wavelength 5 m. What is its speed?", "options": ["4 m/s", "25 m/s", "100 m/s", "0.25 m/s"], "answer": "2", "explanation": "v = fλ = 20 × 5 = 100 m/s."},
+            {"topic": "Frequency", "difficulty": "medium", "type": "mcq", "prompt": "A wave travels at 360 m/s with a wavelength of 2 m. What is its frequency?", "options": ["180 Hz", "720 Hz", "362 Hz", "0.0056 Hz"], "answer": "0", "explanation": "f = v/λ = 360 ÷ 2 = 180 Hz."},
+            {"topic": "Sound medium", "difficulty": "difficult", "type": "mcq", "prompt": "In which medium does sound travel fastest?", "options": ["Air", "Water", "Steel", "Vacuum"], "answer": "2", "explanation": "Sound travels fastest in solids like steel because the particles are closest together and pass on the vibration quickly. It cannot travel in a vacuum at all."},
+            {"topic": "Loudness and pitch", "difficulty": "exam", "type": "mcq", "prompt": "Increasing the amplitude of a sound wave makes the sound:", "options": ["Higher in pitch", "Lower in pitch", "Louder", "Faster"], "answer": "2", "explanation": "Amplitude is linked to energy, so a larger amplitude makes the sound louder. Pitch is controlled by frequency, not amplitude."}
+          ]
+        },
+        {
+          "title": "Light and Optics",
+          "description": "How light behaves, reflection and refraction, and the formation of images by mirrors and lenses.",
+          "lessons": [
+            {
+              "title": "Light, Reflection and Refraction",
+              "summary": "Learn the nature and properties of light, the laws of reflection, how refraction bends light, and how mirrors and lenses form images.",
+              "estimatedMinutes": 28,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Seeing the world",
+                  "body": "We see everything around us because of **light**. Light from the Sun or a lamp bounces off objects and enters our eyes. **Light** is a form of energy that travels in straight lines and can move through empty space.\n\nLight explains why a mirror shows your face, why a stick looks bent when dipped in water, and how spectacles help people see clearly. This lesson covers how light travels, reflects and refracts, and how mirrors and lenses make images."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Describe key properties of **light**.\n- State the **laws of reflection**.\n- Explain **refraction** and why light bends.\n- Distinguish **real** and **virtual** images.\n- Describe images formed by **plane mirrors** and **lenses**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Reflection, refraction and images",
+                  "body": "**Light** is a form of energy that travels in straight lines (called **rays**) at a very high speed — about 3 × 10⁸ m/s in a vacuum, the fastest speed in the universe. Light can travel through a vacuum, which is why sunlight reaches Earth.\n\n**Reflection** is when light bounces off a surface. The **laws of reflection** are:\n1. The **angle of incidence** equals the **angle of reflection** (both measured from the **normal**, an imaginary line at right angles to the surface).\n2. The incident ray, the reflected ray and the normal all lie in the same plane.\n\nA smooth surface like a mirror gives a clear (**regular**) reflection; a rough surface scatters light (**diffuse** reflection).\n\n**Refraction** is the bending of light when it passes from one transparent material into another (e.g. from air into water), because light changes speed. Light slows down and bends *towards* the normal when entering a denser medium (like glass), and speeds up and bends *away* when leaving it. This is why a straw in a glass of water looks bent.\n\n**Images** can be of two kinds:\n- A **real image** is formed where rays actually meet and can be caught on a screen (e.g. the image in a film projector).\n- A **virtual image** only appears to be there and cannot be caught on a screen (e.g. your reflection in a flat mirror).\n\nA **plane mirror** forms an image that is virtual, upright, the same size as the object, and as far behind the mirror as the object is in front. **Lenses** are shaped glass that refract light: a **convex (converging)** lens can form real or virtual images and is used in magnifying glasses and the eye; a **concave (diverging)** lens spreads light out.\n\n**Why light bends:** A change in speed at the boundary changes the direction of the ray — the deeper reason behind lenses, prisms and rainbows."
+                },
+                {
+                  "type": "visual",
+                  "title": "Reflection from a plane mirror",
+                  "body": "When a ray of light hits a mirror, it reflects so that the **angle of incidence** (between the incoming ray and the normal) equals the **angle of reflection** (between the normal and the outgoing ray). The normal is the dashed line drawn at right angles to the mirror at the point where the ray strikes.",
+                  "visual": {"kind": "motion-graph", "data": {"xLabel": "horizontal position", "yLabel": "height", "series": [{"label": "incident ray", "points": [[0, 4], [4, 0]]}, {"label": "reflected ray", "points": [[4, 0], [8, 4]]}]}}
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: angle of reflection",
+                  "body": "**Question:** A ray of light strikes a plane mirror so that it makes an angle of 30° with the mirror surface. Find (a) the angle of incidence and (b) the angle of reflection.\n\n**Step 1 — Remember angles are measured from the normal.** The normal is at 90° to the mirror. The ray makes 30° with the *surface*, so it makes 90° − 30° = 60° with the normal.\n\n**Step 2 — State the angle of incidence.** The angle of incidence (from the normal) = **60°**.\n\n**Step 3 — Apply the law of reflection.** Angle of reflection = angle of incidence = **60°**.\n\n**Answer:** Both the angle of incidence and the angle of reflection are 60°."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Measuring angles from the surface instead of the normal.** Always measure from the normal.\n- **Thinking a plane mirror image is real.** It is virtual — it cannot be caught on a screen.\n- **Confusing reflection and refraction.** Reflection = bouncing off; refraction = bending while passing through.\n- **Saying light needs a medium like sound does.** Light travels through a vacuum.\n- **Mixing up convex and concave lenses.** Convex converges (brings light together); concave diverges."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- **Law of reflection:** angle **i**n = angle **out** (i = r), measured from the **normal**.\n- **Refraction = Ray changes speed** at a boundary, so it bends.\n- **Real image = caught on a screen; Virtual = only Visible, not catchable.**\n- **Convex Converges** (both have a 'C-then-together' feel); **concave** spreads out.\n- Light is the fastest thing there is: 3 × 10⁸ m/s."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** A ray hits a mirror at an angle of incidence of 35°. What is the angle of reflection?\n**Q2.** Why does a stick look bent when partly dipped in water?\n**Q3.** Is the image in a flat bathroom mirror real or virtual?\n\n**Answers:**\n1. By the law of reflection, angle of reflection = **35°**.\n2. Because of **refraction** — light bends as it leaves the water, so the stick appears bent.\n3. **Virtual** — it cannot be projected onto a screen."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Light** is energy that travels in straight rays at ~3 × 10⁸ m/s and can cross a vacuum.\n- **Reflection:** angle of incidence = angle of reflection (measured from the normal).\n- **Refraction:** light bends when it changes speed passing between media.\n- A **real image** can be caught on a screen; a **virtual image** cannot.\n- A **plane mirror** gives a virtual, upright, same-size image.\n- **Convex lenses converge** light; **concave lenses diverge** it."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Light", "definition": "A form of energy that travels in straight lines and can pass through a vacuum."},
+                    {"term": "Reflection", "definition": "The bouncing of light off a surface."},
+                    {"term": "Normal", "definition": "An imaginary line drawn at right angles to a surface at the point a ray hits."},
+                    {"term": "Angle of incidence", "definition": "The angle between the incoming ray and the normal."},
+                    {"term": "Refraction", "definition": "The bending of light as it changes speed passing from one medium to another."},
+                    {"term": "Real image", "definition": "An image formed where light rays actually meet; it can be caught on a screen."},
+                    {"term": "Virtual image", "definition": "An image that only appears to be there and cannot be caught on a screen."},
+                    {"term": "Convex lens", "definition": "A lens that is thicker in the middle and converges light rays."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "State the law of reflection.", "back": "The angle of incidence equals the angle of reflection (measured from the normal)."},
+                {"front": "What is refraction?", "back": "The bending of light when it changes speed passing from one medium to another."},
+                {"front": "Difference between real and virtual images?", "back": "A real image can be caught on a screen; a virtual image cannot."},
+                {"front": "What kind of image does a plane mirror form?", "back": "Virtual, upright, and the same size as the object."},
+                {"front": "Speed of light in a vacuum?", "back": "About 3 × 10⁸ m/s — the fastest speed in the universe."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Properties of light", "difficulty": "beginner", "type": "mcq", "prompt": "How does light travel?", "options": ["In curved paths", "In straight lines", "Only through water", "Only at night"], "answer": "1", "explanation": "Light travels in straight lines called rays, which is why shadows have sharp edges."},
+            {"topic": "Reflection", "difficulty": "beginner", "type": "mcq", "prompt": "Angles of incidence and reflection are measured from the:", "options": ["Mirror surface", "Normal", "Floor", "Light source"], "answer": "1", "explanation": "Both angles are measured from the normal, the line at right angles to the surface at the point the ray strikes."},
+            {"topic": "Law of reflection", "difficulty": "medium", "type": "mcq", "prompt": "A ray hits a mirror with an angle of incidence of 40°. What is the angle of reflection?", "options": ["20°", "40°", "50°", "80°"], "answer": "1", "explanation": "By the law of reflection, the angle of reflection equals the angle of incidence, so it is 40°."},
+            {"topic": "Refraction", "difficulty": "medium", "type": "mcq", "prompt": "A straw in a glass of water looks bent. This is caused by:", "options": ["Reflection", "Refraction", "Shadow", "Absorption"], "answer": "1", "explanation": "Light bends (refracts) as it passes between water and air, so the straw appears bent at the surface."},
+            {"topic": "Images", "difficulty": "difficult", "type": "mcq", "prompt": "Which statement about the image in a plane mirror is correct?", "options": ["It is real and can be projected", "It is virtual and upright", "It is smaller than the object", "It is upside down"], "answer": "1", "explanation": "A plane mirror forms a virtual, upright image that is the same size as the object and cannot be projected on a screen."},
+            {"topic": "Speed of light", "difficulty": "exam", "type": "mcq", "prompt": "Unlike sound, light can travel through a vacuum because:", "options": ["It needs no material medium", "It is very loud", "It moves slowly", "It is a longitudinal wave"], "answer": "0", "explanation": "Light does not need a material medium to travel, so it can cross the vacuum of space (e.g. sunlight reaching Earth). Sound needs a medium and cannot."}
+          ]
+        },
+        {
+          "title": "Electrostatics",
+          "description": "Electric charge, how objects become charged, and the forces between charges.",
+          "lessons": [
+            {
+              "title": "Static Electricity and Charge",
+              "summary": "Learn about electric charge, how objects gain charge by friction, conductors and insulators, and the forces between charges.",
+              "estimatedMinutes": 27,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "The crackle of static",
+                  "body": "Have you ever rubbed a plastic pen on your hair and used it to pick up tiny pieces of paper? Or felt a small shock touching a metal door after walking on a carpet? This is **static electricity** — electric charge that builds up and stays in one place.\n\nAll of this comes from **electric charge**, one of the basic properties of matter. Understanding charge is the first step to understanding electric current, which powers our homes and phones. This lesson explains charge and the forces between charges."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Describe the two types of **electric charge**.\n- Explain how objects become charged by **friction**.\n- State the **law of charges** (like and unlike).\n- Distinguish **conductors** and **insulators**.\n- Explain charging by **induction** in simple terms."
+                },
+                {
+                  "type": "theory",
+                  "title": "Charge, charging and forces",
+                  "body": "Matter is made of atoms, which contain positive **protons** and negative **electrons**. **Electric charge** is a basic property of these particles. There are two kinds: **positive (+)** and **negative (−)**. The SI unit of charge is the **coulomb (C)**.\n\nNormally an atom has equal protons and electrons, so it is **neutral**. An object becomes **charged** when it gains or loses **electrons** (protons stay fixed in the nucleus):\n- Gaining electrons makes an object **negatively** charged.\n- Losing electrons makes an object **positively** charged.\n\n**Charging by friction:** When two different materials are rubbed together, electrons move from one to the other. For example, rubbing a plastic rod with a cloth can transfer electrons to the rod, leaving it negative and the cloth positive. Charge is never created or destroyed, only transferred — this is **conservation of charge**.\n\n**The law of charges:** **Like charges repel; unlike charges attract.** Two negative objects push apart, while a positive and a negative object pull together. This force between charges is called the **electrostatic force**.\n\n**Conductors and insulators:**\n- A **conductor** lets charge (electrons) move through it easily — e.g. metals like copper, and the human body.\n- An **insulator** does not let charge move easily — e.g. plastic, rubber, dry wood, glass.\n\n**Charging by induction:** A charged object brought *near* a neutral conductor can rearrange its charges (pulling opposite charges to the near side) without touching it, producing attraction. This is how a charged pen attracts neutral pieces of paper.\n\n**Why opposite charges attract:** Positive and negative are opposites that pull together, just as two norths of a magnet push apart — a basic rule of electricity."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: predicting the force",
+                  "body": "**Question:** A plastic rod is rubbed with a cloth and becomes negatively charged. (a) What charge does the cloth have? (b) If this rod is brought near another negatively charged rod, will they attract or repel? (c) What about near a positively charged rod?\n\n**Step 1 — Use conservation of charge for the cloth.** The rod gained electrons (negative), so the cloth must have lost the same electrons. The cloth is therefore **positively** charged.\n\n**Step 2 — Apply the law of charges for two negative rods.** Like charges repel, so the two negative rods **repel**.\n\n**Step 3 — Apply the law for negative and positive.** Unlike charges attract, so the negative rod and the positive rod **attract**.\n\n**Answer:** (a) The cloth is positive. (b) They repel. (c) They attract."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Thinking protons move during charging.** Only electrons move; protons stay in the nucleus.\n- **Saying gaining charge means gaining protons.** Gaining electrons makes an object negative.\n- **Mixing up the law of charges.** Like repel, unlike attract — not the other way round.\n- **Believing charge is created by rubbing.** It is only *transferred*; total charge is conserved.\n- **Confusing conductors and insulators.** Metals conduct; plastic and rubber insulate."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- **Like charges Leave (repel); unlike charges Unite (attract).**\n- **Only electrons move** — \"electrons are the runners, protons stay home.\"\n- **Gain electrons → go negative; lose electrons → go positive.**\n- **Conductors carry charge** (metals); **insulators isolate** it (plastic, rubber).\n- Unit of charge = **coulomb (C)**."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** An object loses electrons. What charge does it now have?\n**Q2.** Two positively charged balloons are brought close. Do they attract or repel?\n**Q3.** Name one good conductor and one good insulator.\n\n**Answers:**\n1. **Positive** (losing electrons leaves more protons than electrons).\n2. They **repel** (like charges repel).\n3. Conductor: **copper (a metal)**; insulator: **plastic (or rubber)**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Electric charge** is positive or negative; its unit is the **coulomb (C)**.\n- Objects charge by **gaining or losing electrons**; protons do not move.\n- **Conservation of charge:** charge is transferred, not created or destroyed.\n- **Law of charges:** like charges repel, unlike charges attract.\n- **Conductors** (metals) let charge flow; **insulators** (plastic, rubber) do not.\n- A charged object can attract a neutral one by **induction**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Electric charge", "definition": "A basic property of matter that can be positive or negative, measured in coulombs."},
+                    {"term": "Coulomb", "definition": "The SI unit of electric charge."},
+                    {"term": "Charging by friction", "definition": "Transfer of electrons between two materials when they are rubbed together."},
+                    {"term": "Conservation of charge", "definition": "The principle that charge is transferred, never created or destroyed."},
+                    {"term": "Law of charges", "definition": "Like charges repel and unlike charges attract."},
+                    {"term": "Electrostatic force", "definition": "The force of attraction or repulsion between electric charges."},
+                    {"term": "Conductor", "definition": "A material that lets electric charge move through it easily, such as metal."},
+                    {"term": "Insulator", "definition": "A material that does not let charge move easily, such as plastic or rubber."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "What are the two kinds of electric charge?", "back": "Positive (+) and negative (−)"},
+                {"front": "State the law of charges.", "back": "Like charges repel; unlike charges attract."},
+                {"front": "How does an object become negatively charged?", "back": "By gaining electrons"},
+                {"front": "Give an example of a conductor and an insulator.", "back": "Conductor: copper/metal; insulator: plastic/rubber"},
+                {"front": "What is the SI unit of charge?", "back": "The coulomb (C)"}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Types of charge", "difficulty": "beginner", "type": "mcq", "prompt": "How many types of electric charge are there?", "options": ["One", "Two", "Three", "Four"], "answer": "1", "explanation": "There are two types of electric charge: positive and negative."},
+            {"topic": "Charging", "difficulty": "beginner", "type": "mcq", "prompt": "An object becomes negatively charged when it:", "options": ["Gains protons", "Loses protons", "Gains electrons", "Loses electrons"], "answer": "2", "explanation": "Gaining electrons gives an object an excess of negative charge, so it becomes negatively charged. Protons do not move."},
+            {"topic": "Law of charges", "difficulty": "medium", "type": "mcq", "prompt": "Two objects with the same type of charge will:", "options": ["Attract each other", "Repel each other", "Do nothing", "Combine"], "answer": "1", "explanation": "Like charges repel each other. Only unlike (opposite) charges attract."},
+            {"topic": "Conductors and insulators", "difficulty": "medium", "type": "mcq", "prompt": "Which of the following is the best electrical conductor?", "options": ["Plastic", "Rubber", "Copper", "Glass"], "answer": "2", "explanation": "Copper is a metal and a very good conductor of electricity. Plastic, rubber and glass are insulators."},
+            {"topic": "Conservation of charge", "difficulty": "difficult", "type": "mcq", "prompt": "When a rod is rubbed and becomes negative, the cloth becomes positive. This shows that charge is:", "options": ["Created by rubbing", "Destroyed by rubbing", "Transferred, not created", "Made of protons"], "answer": "2", "explanation": "The electrons simply move from the cloth to the rod. Charge is transferred, not created or destroyed (conservation of charge)."},
+            {"topic": "Induction", "difficulty": "exam", "type": "mcq", "prompt": "A negatively charged pen picks up small neutral pieces of paper because it:", "options": ["Adds electrons to the paper", "Induces opposite charges on the near side of the paper", "Heats the paper", "Makes the paper magnetic"], "answer": "1", "explanation": "The charged pen rearranges the charges in the neutral paper (induction), pulling the opposite charge to the near side, so the paper is attracted."}
+          ]
+        },
+        {
+          "title": "Electric Current and Circuits",
+          "description": "Electric current, voltage, resistance, Ohm's law, and simple electric circuits.",
+          "lessons": [
+            {
+              "title": "Current, Voltage and Ohm's Law",
+              "summary": "Learn what electric current, voltage and resistance are, how to use Ohm's law, and the difference between series and parallel circuits.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Electricity that flows",
+                  "body": "When you switch on a lamp or charge a phone, **electric current** flows through wires. Unlike static electricity that stays still, current is charge that **moves**. Current electricity powers homes, schools and the lights of Addis Ababa.\n\nTo control electricity safely, we need three key ideas: **current** (how much charge flows), **voltage** (what pushes it) and **resistance** (what slows it down). They are linked by a simple and powerful rule called **Ohm's law**. This lesson puts them together and builds simple circuits."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Define **electric current**, **voltage** and **resistance** with their units.\n- State and use **Ohm's law**, V = IR.\n- Identify the main **circuit components** and their symbols.\n- Compare **series** and **parallel** circuits.\n- Solve simple circuit problems."
+                },
+                {
+                  "type": "theory",
+                  "title": "Current, voltage, resistance and Ohm's law",
+                  "body": "**Electric current (I)** is the rate of flow of electric charge through a conductor. Its SI unit is the **ampere (A)**. A current flows only in a complete (closed) circuit.\n\n**Voltage (V)**, also called potential difference, is the 'push' that drives the current around the circuit. It is provided by a cell or battery and measured in **volts (V)**.\n\n**Resistance (R)** is how much a component opposes the flow of current. It is measured in **ohms (Ω)**. A thin or long wire has more resistance than a thick or short one.\n\nThese three are connected by **Ohm's law**:\n\n**V = I R**\n\nwhere V = voltage (V), I = current (A), R = resistance (Ω). From this we can also write I = V/R and R = V/I. Ohm's law lets us calculate any one of the three if we know the other two.\n\n**Common circuit components and symbols:**\n- **Cell/battery** — provides voltage.\n- **Bulb/lamp** — gives light when current flows.\n- **Switch** — opens or closes the circuit.\n- **Resistor** — controls the current.\n- **Wire** — carries the current.\n\n**Series and parallel circuits:**\n- In a **series** circuit, components are joined end-to-end in a single loop. The same current flows through each component, but the voltage is shared. If one bulb fails, the whole circuit breaks.\n- In a **parallel** circuit, components are on separate branches. Each branch gets the full voltage, and if one bulb fails the others keep working. Home wiring uses parallel connections.\n\n**Why Ohm's law matters:** It is the single most useful rule in electricity, letting us design circuits that deliver the right current safely."
+                },
+                {
+                  "type": "visual",
+                  "title": "A simple series circuit",
+                  "body": "This simple circuit has a 1.5 V cell connected to a lamp by wires. When the circuit is complete, the cell pushes a current around the loop and the lamp lights. Adding a switch would let us open the loop to turn the lamp off.",
+                  "visual": {"kind": "circuit", "data": {"elements": [{"type": "battery", "label": "1.5 V cell"}, {"type": "bulb", "label": "Lamp"}]}}
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: using Ohm's law",
+                  "body": "**Question:** A lamp of resistance 6 Ω is connected to a 12 V battery. (a) Find the current through the lamp. (b) If the resistance were doubled to 12 Ω with the same battery, what current flows?\n\n**Step 1 — Write Ohm's law and rearrange for current.** V = IR, so I = V ÷ R.\n\n**Step 2 — Find the current for 6 Ω.**\nI = 12 V ÷ 6 Ω = **2 A**\n\n**Step 3 — Find the current for 12 Ω.**\nI = 12 V ÷ 12 Ω = **1 A**\n\n**Answer:** The current is 2 A at 6 Ω and 1 A at 12 Ω. Doubling the resistance halves the current (for the same voltage)."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Mixing up the units.** Current = amperes (A), voltage = volts (V), resistance = ohms (Ω).\n- **Rearranging Ohm's law wrongly.** From V = IR: I = V/R and R = V/I.\n- **Thinking current is 'used up' in a circuit.** The same current flows all around a simple series loop.\n- **Confusing series and parallel.** Series = one loop; parallel = separate branches.\n- **Forgetting a circuit must be complete (closed)** for current to flow."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- **Ohm's law triangle:** put V on top, I and R below. Cover the one you want: V = I × R, I = V/R, R = V/I.\n- **Units: A-V-O** → **A**mpere (current), **V**olt (voltage), **O**hm (resistance).\n- **Series = Single path** (one loop); **Parallel = several branches**.\n- In **parallel**, one bulb out, the rest stay on — like home lighting.\n- No closed loop, no current."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** A 4 Ω resistor carries a current of 3 A. What is the voltage across it?\n**Q2.** A 9 V battery drives current through a 3 Ω resistor. Find the current.\n**Q3.** In a series circuit, if one bulb burns out, what happens to the others?\n\n**Answers:**\n1. V = IR = 3 × 4 = **12 V**\n2. I = V/R = 9 ÷ 3 = **3 A**\n3. They all **go out**, because the single loop is broken."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Current (I)** is the flow of charge, in **amperes (A)**; it needs a closed circuit.\n- **Voltage (V)** is the push from a cell, in **volts (V)**.\n- **Resistance (R)** opposes current, in **ohms (Ω)**.\n- **Ohm's law:** V = IR (also I = V/R, R = V/I).\n- **Series** circuits share one loop (same current); **parallel** circuits have separate branches (same voltage).\n- In parallel, one component failing does not stop the others."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Electric current", "definition": "The rate of flow of electric charge through a conductor, measured in amperes (A)."},
+                    {"term": "Voltage", "definition": "The 'push' (potential difference) that drives current around a circuit, measured in volts (V)."},
+                    {"term": "Resistance", "definition": "The opposition of a component to the flow of current, measured in ohms (Ω)."},
+                    {"term": "Ohm's law", "definition": "The relation V = IR linking voltage, current and resistance."},
+                    {"term": "Ampere", "definition": "The SI unit of electric current."},
+                    {"term": "Series circuit", "definition": "A circuit where components are joined in a single loop so the same current flows through each."},
+                    {"term": "Parallel circuit", "definition": "A circuit where components are on separate branches, each receiving the full voltage."},
+                    {"term": "Closed circuit", "definition": "A complete, unbroken loop that allows current to flow."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "State Ohm's law.", "back": "V = I R (voltage = current × resistance)"},
+                {"front": "Unit of electric current?", "back": "Ampere (A)"},
+                {"front": "What does resistance do and what is its unit?", "back": "It opposes the flow of current; unit is the ohm (Ω)."},
+                {"front": "Difference between series and parallel circuits?", "back": "Series = one loop, same current; parallel = separate branches, same voltage."},
+                {"front": "What must a circuit be for current to flow?", "back": "Complete (closed) — an unbroken loop."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Current", "difficulty": "beginner", "type": "mcq", "prompt": "What is the SI unit of electric current?", "options": ["Volt", "Ohm", "Ampere", "Watt"], "answer": "2", "explanation": "Electric current is measured in amperes (A). The volt measures voltage and the ohm measures resistance."},
+            {"topic": "Resistance", "difficulty": "beginner", "type": "mcq", "prompt": "Resistance is measured in:", "options": ["Amperes", "Volts", "Ohms", "Joules"], "answer": "2", "explanation": "Resistance is measured in ohms (Ω). It is the opposition to the flow of current."},
+            {"topic": "Ohm's law", "difficulty": "medium", "type": "mcq", "prompt": "A 12 V battery is connected to a 4 Ω resistor. What current flows?", "options": ["3 A", "8 A", "16 A", "48 A"], "answer": "0", "explanation": "I = V/R = 12 ÷ 4 = 3 A."},
+            {"topic": "Ohm's law", "difficulty": "medium", "type": "mcq", "prompt": "A current of 2 A flows through a 5 Ω resistor. What is the voltage across it?", "options": ["2.5 V", "7 V", "10 V", "0.4 V"], "answer": "2", "explanation": "V = IR = 2 × 5 = 10 V."},
+            {"topic": "Series circuits", "difficulty": "difficult", "type": "mcq", "prompt": "In a series circuit of three bulbs, one bulb burns out. What happens?", "options": ["The other two stay on", "All three go out", "They get brighter", "Only the first stays on"], "answer": "1", "explanation": "A series circuit is a single loop, so if one bulb breaks the loop, the current stops and all the bulbs go out."},
+            {"topic": "Parallel circuits", "difficulty": "exam", "type": "mcq", "prompt": "Why is house wiring connected in parallel rather than in series?", "options": ["It uses less wire", "Each appliance gets full voltage and works independently", "It is cheaper", "It makes current flow faster"], "answer": "1", "explanation": "In parallel, each appliance receives the full supply voltage and can be switched on or off independently; if one fails, the others keep working."}
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "Micro-organisms in biotechnology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which two groups of micro-organisms are used most often in biotechnology?",
+          "options": [
+            "Bacteria and fungi",
+            "Insects and worms",
+            "Fish and frogs",
+            "Birds and lizards"
+          ],
+          "answer": "0",
+          "explanation": "Biotechnology mainly uses tiny living things such as bacteria and fungi (including yeast) to make useful products."
+        },
+        {
+          "topic": "Yeast cell type",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Yeast, the micro-organism used to make tej, is best described as a:",
+          "options": [
+            "Single-celled fungus",
+            "Type of bacterium",
+            "Tiny green plant",
+            "Small animal"
+          ],
+          "answer": "0",
+          "explanation": "Yeast is a single-celled fungus. It has a true nucleus, which bacteria do not have."
+        },
+        {
+          "topic": "Reproduction in yeast",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "How does a yeast cell usually make new yeast cells?",
+          "options": [
+            "By making seeds",
+            "By budding",
+            "By laying eggs",
+            "By joining two cells together"
+          ],
+          "answer": "1",
+          "explanation": "Yeast reproduces by budding, where a small new cell grows out of the parent cell and then separates."
+        },
+        {
+          "topic": "Useful product in ayib",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When bacteria turn milk into ayib (cheese) and irgo, the milk thickens because the bacteria produce:",
+          "options": [
+            "Ethanol",
+            "Oxygen gas",
+            "Lactic acid",
+            "Starch"
+          ],
+          "answer": "2",
+          "explanation": "Bacteria break down lactose (milk sugar) into lactic acid, which thickens the milk and gives it a sharp, tangy taste."
+        },
+        {
+          "topic": "Penicillin",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The antibiotic penicillin, used to treat bacterial infections, is produced by a:",
+          "options": [
+            "Mould (a kind of fungus)",
+            "Green plant leaf",
+            "Human white blood cell",
+            "Virus"
+          ],
+          "answer": "0",
+          "explanation": "Penicillin is made by a mould, which is a type of fungus. It is a modern medical use of biotechnology."
+        },
+        {
+          "topic": "Genetic engineering benefit",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Bacteria are given the human insulin gene so they make insulin in large factories. What is the main advantage of this for people with diabetes?",
+          "options": [
+            "The insulin is exactly human insulin and can be made in large, pure amounts",
+            "The bacteria stop needing any food or sugar",
+            "The insulin no longer needs to be stored carefully",
+            "People no longer need to take insulin at all"
+          ],
+          "answer": "0",
+          "explanation": "The inserted human gene makes the bacteria produce exact human insulin in large, pure quantities, giving a reliable supply for patients."
+        },
+        {
+          "topic": "Biogas conditions",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A farmer feeds cow dung and crop waste into a sealed biogas digester. For the bacteria to make methane, the inside of the digester must be:",
+          "options": [
+            "Full of oxygen and very dry",
+            "Without oxygen (anaerobic)",
+            "Frozen and salty",
+            "Filled with bright light"
+          ],
+          "answer": "1",
+          "explanation": "Biogas (mostly methane) is made by bacteria that break down waste in anaerobic conditions, so the digester must be sealed to keep oxygen out."
+        },
+        {
+          "topic": "Heredity meaning",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The passing of characteristics from parents to their children is called:",
+          "options": [
+            "Heredity",
+            "Digestion",
+            "Pollution",
+            "Photosynthesis"
+          ],
+          "answer": "0",
+          "explanation": "Heredity (inheritance) is the passing of features such as eye colour or height from parents to offspring through genes."
+        },
+        {
+          "topic": "Genes and characteristics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A gene is a short section of DNA. What does a single gene actually do for the cell?",
+          "options": [
+            "It carries the instructions to build one characteristic, such as a protein",
+            "It stores food for the cell to use as energy",
+            "It controls the temperature of the whole body",
+            "It pumps water into and out of the cell"
+          ],
+          "answer": "0",
+          "explanation": "A gene is a section of DNA that codes for one characteristic, giving the cell instructions to build a particular protein."
+        },
+        {
+          "topic": "DNA shape",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The shape of a DNA molecule is described as a:",
+          "options": [
+            "Flat single line",
+            "Double helix (twisted ladder)",
+            "Round ball",
+            "Square box"
+          ],
+          "answer": "1",
+          "explanation": "DNA is a double helix, like a ladder twisted into a spiral, with two strands joined by paired bases."
+        },
+        {
+          "topic": "DNA base pairing",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In DNA, the base guanine (G) always pairs with which other base?",
+          "options": [
+            "Adenine",
+            "Thymine",
+            "Cytosine",
+            "Another guanine"
+          ],
+          "answer": "2",
+          "explanation": "The fixed base pairing rules are C with G and A with T, so guanine always pairs with cytosine."
+        },
+        {
+          "topic": "Purpose of mitosis",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which task in the body is carried out by mitosis?",
+          "options": [
+            "Making sex cells with half the chromosomes",
+            "Healing a cut by making new identical cells",
+            "Turning milk into yoghurt",
+            "Breaking down food in the gut"
+          ],
+          "answer": "1",
+          "explanation": "Mitosis makes two identical daughter cells, which is how the body grows and repairs damage such as a wound."
+        },
+        {
+          "topic": "Chromosome number after meiosis",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A human body cell has 46 chromosomes. How many chromosomes are in a human sperm cell made by meiosis?",
+          "options": [
+            "92",
+            "46",
+            "23",
+            "12"
+          ],
+          "answer": "2",
+          "explanation": "Meiosis halves the chromosome number, so a sperm or egg has 23 chromosomes. Fertilisation then restores the full 46."
+        },
+        {
+          "topic": "Sex determination",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A baby is born a girl (XX). Which combination of sex chromosomes did the baby receive from its parents?",
+          "options": [
+            "An X from the mother and an X from the father",
+            "A Y from the mother and an X from the father",
+            "An X from the mother and a Y from the father",
+            "A Y from the mother and a Y from the father"
+          ],
+          "answer": "0",
+          "explanation": "The mother always gives an X. For a girl (XX), the father must also give an X. A boy would get a Y from the father."
+        },
+        {
+          "topic": "Levels of organisation",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A group of similar cells working together to do one job is called a:",
+          "options": [
+            "Tissue",
+            "System",
+            "Single organ",
+            "Whole body"
+          ],
+          "answer": "0",
+          "explanation": "Similar cells that work together form a tissue. Tissues then build organs, and organs build systems."
+        },
+        {
+          "topic": "Excretory system",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which organ removes liquid waste from the blood to make urine?",
+          "options": [
+            "The kidney",
+            "The lung",
+            "The heart",
+            "The stomach"
+          ],
+          "answer": "0",
+          "explanation": "The kidneys are part of the excretory system and remove liquid wastes from the blood as urine."
+        },
+        {
+          "topic": "Where respiration happens",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which structure inside a cell releases energy through respiration?",
+          "options": [
+            "The cell wall",
+            "The mitochondria",
+            "The nucleus",
+            "The cell membrane"
+          ],
+          "answer": "1",
+          "explanation": "Mitochondria are the 'power stations' of the cell, where aerobic respiration releases energy from glucose."
+        },
+        {
+          "topic": "Spread of communicable disease",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Malaria is a communicable disease in many parts of Ethiopia. Which action best helps stop it from spreading?",
+          "options": [
+            "Sleeping under treated bed nets to avoid mosquito bites",
+            "Eating less salt each day",
+            "Drinking more sugary drinks",
+            "Sitting closer to other people"
+          ],
+          "answer": "0",
+          "explanation": "Malaria is spread by mosquito bites, so treated bed nets that keep mosquitoes away are an effective way to prevent its spread."
+        },
+        {
+          "topic": "Photosynthesis raw materials",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Besides water and light, what does a green plant need to make glucose by photosynthesis?",
+          "options": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Lactic acid",
+            "Ethanol"
+          ],
+          "answer": "0",
+          "explanation": "Photosynthesis uses carbon dioxide and water, with light captured by chlorophyll, to make glucose and oxygen."
+        },
+        {
+          "topic": "Stomata function",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Carbon dioxide enters a leaf for photosynthesis mainly through tiny holes called:",
+          "options": [
+            "Roots",
+            "Stomata",
+            "Xylem",
+            "Chloroplasts"
+          ],
+          "answer": "1",
+          "explanation": "Stomata are small holes, mostly on the underside of the leaf, that let carbon dioxide in and oxygen and water vapour out."
+        },
+        {
+          "topic": "Respiration in plants",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "On a dark night, no photosynthesis happens in a plant. Which process still continues in the plant's cells?",
+          "options": [
+            "Respiration to release energy",
+            "Photosynthesis using moonlight",
+            "Making oxygen from carbon dioxide",
+            "Storing light energy as starch"
+          ],
+          "answer": "0",
+          "explanation": "Plants respire day and night to release energy from glucose. Photosynthesis only happens when there is light."
+        },
+        {
+          "topic": "Function of phloem",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A ring of bark (containing phloem) is cut away all around a tree trunk. The leaves stay healthy at first, but the roots slowly starve. This shows that phloem normally carries:",
+          "options": [
+            "Water upward from the roots to the leaves",
+            "Dissolved food from the leaves down to the roots",
+            "Oxygen gas out of the leaf",
+            "Soil minerals into the air"
+          ],
+          "answer": "1",
+          "explanation": "Phloem carries dissolved food (glucose) made in the leaves to the rest of the plant. Cutting it stops food reaching the roots, so they starve."
+        },
+        {
+          "topic": "Renewable resources",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A village relies on a nearby forest for firewood. They cut trees much faster than new ones can grow back. Forests are normally a renewable resource, so why is this village's forest still in danger of disappearing?",
+          "options": [
+            "It is being used faster than it can be replaced naturally",
+            "Forests are actually a non-renewable resource like coal",
+            "Trees never grow back once a branch is cut",
+            "Renewable resources can never run out, so it is safe"
+          ],
+          "answer": "0",
+          "explanation": "A renewable resource only lasts if it is used carefully. Cutting trees faster than they regrow means the forest cannot recover and may disappear."
+        },
+        {
+          "topic": "Conservation methods",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Farmers on a steep highland slope build step-like ridges across the hillside to slow rainwater and hold the soil. This soil conservation method is called:",
+          "options": [
+            "Terracing",
+            "Deforestation",
+            "Overgrazing",
+            "Pollution"
+          ],
+          "answer": "0",
+          "explanation": "Building level steps across a slope is called terracing. It slows water running downhill, so less fertile topsoil is washed away."
+        }
+      ]
+    }
+  ]
+}

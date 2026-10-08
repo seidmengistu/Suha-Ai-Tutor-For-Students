@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "The Science of Biology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of these questions is written so that it could be tested by a fair experiment?",
+          "options": [
+            "Is a sunset more beautiful than a sunrise?",
+            "Does adding compost make bean plants grow taller?",
+            "Should farmers be paid more money?",
+            "What is the best song to play in a field?"
+          ],
+          "answer": "1",
+          "explanation": "A testable question can be answered by changing one factor and measuring a result; beauty, fairness, and taste are opinions that cannot be measured."
+        },
+        {
+          "topic": "The Science of Biology",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A student counts the number of beetles inside several quadrats placed in a meadow. The main reason for using many quadrats instead of just one is to:",
+          "options": [
+            "Make the meadow look tidier",
+            "Get a more representative estimate of beetle numbers",
+            "Use up all the equipment",
+            "Change the number of beetles in the field"
+          ],
+          "answer": "1",
+          "explanation": "Beetles are not spread evenly, so taking several samples and averaging them gives a more reliable, representative estimate of the whole area."
+        },
+        {
+          "topic": "The Science of Biology",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A researcher claims that wearing a lucky bracelet makes crops grow better but says the effect cannot be detected by any measurement. Why would scientists reject this claim?",
+          "options": [
+            "Because bracelets are too expensive",
+            "Because the claim cannot be tested or proven wrong",
+            "Because crops never grow in fields",
+            "Because only animals can be studied scientifically"
+          ],
+          "answer": "1",
+          "explanation": "A scientific explanation must be falsifiable; if no observation could ever prove it wrong, it lies outside science."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which mineral ion is most needed to build strong bones and teeth?",
+          "options": [
+            "Calcium",
+            "Glucose",
+            "Chlorophyll",
+            "Lactic acid"
+          ],
+          "answer": "0",
+          "explanation": "Calcium is an inorganic mineral ion used to make bones and teeth hard and strong; the other options are not minerals."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which pair correctly matches an organic molecule group with its building block (monomer)?",
+          "options": [
+            "Lipids - amino acids",
+            "Proteins - fatty acids",
+            "Nucleic acids - nucleotides",
+            "Carbohydrates - glycerol"
+          ],
+          "answer": "2",
+          "explanation": "Nucleic acids such as DNA are polymers of nucleotides; proteins are made of amino acids and carbohydrates of sugars."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A cell joins many glucose units into one long starch molecule. For every bond formed between two glucose units, the cell:",
+          "options": [
+            "Releases one water molecule (condensation)",
+            "Adds one water molecule (hydrolysis)",
+            "Releases one oxygen molecule",
+            "Absorbs one amino acid"
+          ],
+          "answer": "0",
+          "explanation": "Building a polymer is a condensation reaction: each new bond between monomers releases one water molecule."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An enzyme that breaks down starch has no effect on protein. The lock-and-key model explains this because:",
+          "options": [
+            "The active site only fits the shape of starch, not protein",
+            "Protein molecules are too small to be touched",
+            "The enzyme is used up before it reaches the protein",
+            "Enzymes can break down any molecule equally"
+          ],
+          "answer": "0",
+          "explanation": "An enzyme is specific: its active site has a shape that fits only its own substrate, so a starch enzyme cannot act on protein."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An enzyme works fastest at 37 degrees Celsius. At 10 degrees Celsius the reaction is much slower mainly because:",
+          "options": [
+            "The enzyme has been denatured by the cold",
+            "Molecules move more slowly and collide less often",
+            "The active site has changed shape permanently",
+            "The substrate has turned into water"
+          ],
+          "answer": "1",
+          "explanation": "Cold does not denature the enzyme; it simply slows molecular movement so enzyme and substrate meet less often, lowering the rate."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two enzymes from the human gut are tested across a range of pH. Enzyme X peaks at pH 2 and enzyme Y peaks at pH 8. The best conclusion is that:",
+          "options": [
+            "Enzyme X works best in the acidic stomach and enzyme Y in the alkaline small intestine",
+            "Both enzymes work best in the stomach",
+            "pH has no effect on either enzyme",
+            "Enzyme Y is not really an enzyme"
+          ],
+          "answer": "0",
+          "explanation": "Each enzyme has its own optimum pH matching where it works: pH 2 suits the acidic stomach, while pH 8 suits the more alkaline small intestine."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which structure controls what substances enter and leave every cell?",
+          "options": [
+            "The cell membrane",
+            "The chloroplast",
+            "The vacuole",
+            "The ribosome"
+          ],
+          "answer": "0",
+          "explanation": "The cell membrane surrounds every cell and controls the movement of substances in and out."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A scientist finds a single-celled organism that has no true nucleus and no membrane-bound organelles. This organism is:",
+          "options": [
+            "A plant cell",
+            "An animal cell",
+            "A prokaryotic cell",
+            "A fungal cell"
+          ],
+          "answer": "2",
+          "explanation": "Lacking a true nucleus and membrane-bound organelles is the defining feature of prokaryotic cells such as bacteria."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A cell is observed making large amounts of protein to export. Which two organelles would you expect to be especially numerous or active?",
+          "options": [
+            "Chloroplasts and cell wall",
+            "Ribosomes and mitochondria",
+            "Vacuole and cell membrane",
+            "Cell wall and vacuole"
+          ],
+          "answer": "1",
+          "explanation": "Ribosomes build the proteins, and mitochondria supply the energy from respiration needed to make and export them."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In which organelle does photosynthesis take place in a plant cell?",
+          "options": [
+            "Mitochondrion",
+            "Nucleus",
+            "Chloroplast",
+            "Ribosome"
+          ],
+          "answer": "2",
+          "explanation": "Photosynthesis occurs in chloroplasts, which contain the green pigment chlorophyll that traps light energy."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Yeast used to ferment dough respires without oxygen. The products of this anaerobic respiration in yeast are:",
+          "options": [
+            "Lactic acid only",
+            "Ethanol and carbon dioxide",
+            "Glucose and oxygen",
+            "Water and oxygen"
+          ],
+          "answer": "1",
+          "explanation": "Anaerobic respiration in yeast produces ethanol and carbon dioxide; the carbon dioxide is what makes dough rise."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "On a bright sunny day, a leaf takes in carbon dioxide and gives out oxygen overall. At the same time the leaf is also respiring. The best explanation is that:",
+          "options": [
+            "The leaf has stopped respiring during the day",
+            "Photosynthesis is faster than respiration, so there is a net release of oxygen",
+            "Respiration only happens in animals",
+            "Oxygen and carbon dioxide are the same gas"
+          ],
+          "answer": "1",
+          "explanation": "Plants respire all the time, but in bright light photosynthesis exceeds respiration, so the net gas exchange is oxygen out and carbon dioxide in."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the name for the long molecule that carries the genetic instructions of an organism?",
+          "options": [
+            "DNA",
+            "Glucose",
+            "Pepsin",
+            "Chlorophyll"
+          ],
+          "answer": "0",
+          "explanation": "DNA stores the genetic information that is passed from parents to offspring and directs how the cell works."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In pea plants the allele for tall (T) is dominant over the allele for short (t). A plant with the genotype Tt will be:",
+          "options": [
+            "Short, because it carries the t allele",
+            "Tall, because the dominant T allele is expressed",
+            "Medium height, a blend of both",
+            "Unable to grow at all"
+          ],
+          "answer": "1",
+          "explanation": "A dominant allele is expressed whenever it is present, so a heterozygous Tt plant shows the tall phenotype."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Two pea plants that are both heterozygous tall (Tt) are crossed. Using a Punnett square, what fraction of the offspring are expected to be short (tt)?",
+          "options": [
+            "All of them",
+            "Three quarters",
+            "One half",
+            "One quarter"
+          ],
+          "answer": "3",
+          "explanation": "A Tt x Tt cross gives 1 TT : 2 Tt : 1 tt, so one quarter of the offspring are short (tt)."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which scientist is best known for the theory of evolution by natural selection?",
+          "options": [
+            "Charles Darwin",
+            "Louis Pasteur",
+            "Gregor Mendel",
+            "Francesco Redi"
+          ],
+          "answer": "0",
+          "explanation": "Charles Darwin proposed that species change over time through natural selection, often called survival of the fittest."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A few beetles in a population are born with a colour that hides them from birds. Over many generations this colour becomes common. The best explanation is that:",
+          "options": [
+            "The beetles chose to change their own colour",
+            "Birds taught the beetles to hide",
+            "Better-camouflaged beetles survived and passed on the helpful allele more often",
+            "All beetles changed colour at the same time"
+          ],
+          "answer": "2",
+          "explanation": "Natural selection acts on existing variation: the camouflaged beetles survive and reproduce more, so the advantageous allele increases over generations."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "After an antibiotic is used widely, a population of bacteria becomes mostly resistant to it. Which statement best describes what happened?",
+          "options": [
+            "The antibiotic caused each bacterium to become resistant on purpose",
+            "Resistant bacteria already existed and survived to reproduce, so resistance spread",
+            "All bacteria are always resistant to every antibiotic",
+            "The bacteria stopped reproducing completely"
+          ],
+          "answer": "1",
+          "explanation": "Random variation means some bacteria are already resistant; the antibiotic selects for them, and the survivors pass on resistance to their offspring."
+        },
+        {
+          "topic": "Human Biology and Health",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which body system is mainly responsible for transporting oxygen and nutrients to all the cells of the body?",
+          "options": [
+            "The skeletal system",
+            "The circulatory system",
+            "The nervous system",
+            "The digestive system"
+          ],
+          "answer": "1",
+          "explanation": "The circulatory system uses the heart and blood vessels to carry oxygen, nutrients, and wastes around the body."
+        },
+        {
+          "topic": "Human Biology and Health",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "After a meal of injera, which sequence correctly shows how energy from the starch reaches a muscle cell?",
+          "options": [
+            "Starch is digested to glucose, glucose travels in the blood, the muscle cell respires it to release energy",
+            "Starch travels straight to the muscle and is breathed out",
+            "Glucose is made in the muscle by photosynthesis",
+            "Starch is turned into oxygen in the stomach"
+          ],
+          "answer": "0",
+          "explanation": "Digestion breaks starch into glucose, the circulatory system carries the glucose to cells, and respiration in the muscle releases the stored energy."
+        },
+        {
+          "topic": "Human Biology and Health",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "During hard exercise a person breathes faster and their heart beats faster. How do the respiratory and circulatory systems work together to support the muscles?",
+          "options": [
+            "The lungs take in more oxygen and the blood delivers it to the muscles more quickly",
+            "The lungs make glucose and the heart digests it",
+            "The muscles stop needing oxygen during exercise",
+            "The heart removes oxygen from the blood"
+          ],
+          "answer": "0",
+          "explanation": "Faster breathing brings in more oxygen, and a faster heartbeat speeds blood flow so oxygen and glucose reach the muscles for respiration."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 8,
+      "subjectKey": "general-science",
+      "chapters": [
+        {
+          "title": "Basics of Scientific Investigation",
+          "description": "How scientists measure physical quantities and carry out fair, step-by-step investigations.",
+          "lessons": [
+            {
+              "title": "Measurement and the Scientific Method",
+              "summary": "Learn how to measure length, mass, time and temperature using SI units, and follow the six steps scientists use to investigate the world.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Why do we measure?",
+                  "body": "Every day we ask questions like *How tall am I?* or *How heavy is this bag of teff?* To answer them, we **measure**. **Measurement** is the process of comparing an unknown quantity with an agreed standard.\n\nLong ago in Ethiopia, people measured using parts of the body and local containers. A trader might measure cloth in **cubits** (elbow to fingertip) or coffee in a **feresula** (about 17 kg). These are called **indigenous measurements**. They are handy but not the same for everyone, so scientists agreed to use one shared system called the **SI system** (International System of Units)."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Explain what **measurement** means.\n- Name the **fundamental (base) quantities** and their SI units.\n- Show how **derived quantities** come from base quantities.\n- Use **prefixes** (kilo, centi, milli) to convert units.\n- Tell the difference between **accuracy** and **precision**.\n- List the steps of the **scientific method**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Fundamental and derived quantities",
+                  "body": "A **physical quantity** is anything we can measure, such as length, mass or time. Physical quantities split into two groups.\n\n**1. Fundamental (base) quantities** cannot be built from any other quantity. There are seven, but at Grade 8 we focus on four:\n\n| Quantity | SI Unit | Symbol |\n|---|---|---|\n| Length | metre | m |\n| Mass | kilogram | kg |\n| Time | second | s |\n| Temperature | kelvin | K |\n\n**2. Derived quantities** are made by combining base quantities using multiplication or division. For example:\n\n- **Area** = length × width, so the unit is m × m = **m²**\n- **Volume** = length × width × height = **m³**\n- **Speed** = distance ÷ time = **m/s**\n- **Density** = mass ÷ volume = **kg/m³**\n\n**Why does this matter?** Because if everyone uses the same units, a measurement made in Addis Ababa means exactly the same thing in Mekelle or in another country. Science needs this shared language so results can be checked and trusted.\n\n**Prefixes** are short ways to write very large or very small numbers:\n\n| Prefix | Symbol | Means |\n|---|---|---|\n| kilo | k | 1000 |\n| centi | c | 0.01 |\n| milli | m | 0.001 |\n\nUseful conversions: 1 km = 1000 m, 1 m = 100 cm, 1 cm = 10 mm, 1 kg = 1000 g, 1 g = 1000 mg, 1 hour = 60 min, 1 min = 60 s.\n\n**Accuracy vs precision:** **Accuracy** is how close a measurement is to the true value. **Precision** is how close repeated measurements are to each other. You can be precise but not accurate (same wrong answer every time), or accurate but not precise (close to true on average but scattered)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: converting units",
+                  "body": "**Question:** Convert 6.5 kilograms to grams, then convert 200 metres to kilometres.\n\n**Step 1 — Recall the prefix.** *kilo* means 1000. So 1 kg = 1000 g.\n\n**Step 2 — Convert kg to g.** Going from a bigger unit (kg) to a smaller unit (g), we **multiply**:\n6.5 kg × 1000 = **6500 g**\n\n**Step 3 — Convert m to km.** Going from a smaller unit (m) to a bigger unit (km), we **divide**. Since 1000 m = 1 km:\n200 m ÷ 1000 = **0.2 km**\n\n**Answer:** 6.5 kg = 6500 g and 200 m = 0.2 km.\n\n**Tip:** Smaller unit → bigger number, bigger unit → smaller number."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Forgetting the unit.** Writing \"the mass is 32\" is wrong. Always write the number *and* the unit: 32 kg.\n- **Multiplying when you should divide.** Going to a smaller unit multiplies; going to a bigger unit divides.\n- **Mixing up accuracy and precision.** Precise means *repeatable*; accurate means *correct*.\n- **Confusing mass and weight.** Mass is the amount of matter (kg). Treat them as different ideas.\n- **Skipping the 'keep conditions the same' rule** when testing a hypothesis — that ruins a fair test."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- Remember the four base units with **\"My Kind Teacher Knows\"** → **M**etre, **K**ilogram, **T**ime (second), **K**elvin.\n- **Precision =Ped close together** (Points cluster). **Accuracy = Aim at the centre** (close to the true bull's-eye).\n- Dart board picture: tight cluster off-centre = precise not accurate; spread around the centre = accurate not precise."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** Convert 500 g to kg.\n**Q2.** Convert 8 m to mm.\n**Q3.** A student measures a 10 kg bag five times and gets 8.0, 8.1, 8.0, 8.2, 8.1 kg. Is this precise? Is it accurate?\n\n**Answers:**\n1. 500 ÷ 1000 = **0.5 kg**\n2. 8 m = 8 × 100 cm = 800 cm = 800 × 10 = **8000 mm**\n3. The readings are close to each other, so it is **precise**, but far from 10 kg, so it is **not accurate**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Measurement** compares an unknown quantity with a standard; always give a number **and** a unit.\n- **Fundamental quantities**: length (m), mass (kg), time (s), temperature (K).\n- **Derived quantities** (area, volume, speed, density) come from base quantities.\n- **Prefixes**: kilo = 1000, centi = 0.01, milli = 0.001.\n- **Accuracy** = close to true value; **precision** = readings close to each other.\n- The **scientific method**: ask a question, research, form a hypothesis, test it fairly, analyse results, communicate findings."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Measurement", "definition": "The process of comparing an unknown quantity with an agreed standard."},
+                    {"term": "Physical quantity", "definition": "Any property of an object that can be measured, such as length or mass."},
+                    {"term": "Fundamental quantity", "definition": "A base quantity that cannot be expressed using other quantities (e.g. length, mass, time, temperature)."},
+                    {"term": "Derived quantity", "definition": "A quantity made by combining fundamental quantities (e.g. area, speed, density)."},
+                    {"term": "SI system", "definition": "The International System of Units used by scientists everywhere."},
+                    {"term": "Prefix", "definition": "A short form (kilo, centi, milli) showing how large or small a unit is."},
+                    {"term": "Accuracy", "definition": "How close a measurement is to the true value."},
+                    {"term": "Precision", "definition": "How close repeated measurements are to one another."},
+                    {"term": "Hypothesis", "definition": "A tentative, testable explanation for a set of observations."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "SI unit of mass?", "back": "Kilogram (kg)"},
+                {"front": "SI unit of length?", "back": "Metre (m)"},
+                {"front": "What does the prefix 'kilo' mean?", "back": "1000"},
+                {"front": "Difference between accuracy and precision?", "back": "Accuracy = close to the true value; precision = repeated readings close to each other."},
+                {"front": "Name two derived quantities.", "back": "Any two of: area, volume, speed, density, force."},
+                {"front": "First step of the scientific method?", "back": "Ask a question (based on observations)."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Fundamental quantities", "difficulty": "beginner", "type": "mcq", "prompt": "Which of the following is a fundamental (base) physical quantity?", "options": ["Speed", "Area", "Mass", "Density"], "answer": "2", "explanation": "Mass is a base quantity (SI unit kg). Speed, area and density are derived from base quantities."},
+            {"topic": "SI units", "difficulty": "beginner", "type": "mcq", "prompt": "What is the SI unit of time?", "options": ["Minute", "Hour", "Second", "Day"], "answer": "2", "explanation": "The second (s) is the SI base unit of time. Minutes, hours and days are larger units built from seconds."},
+            {"topic": "Unit conversion", "difficulty": "medium", "type": "mcq", "prompt": "Convert 2.5 kg into grams.", "options": ["25 g", "250 g", "2500 g", "25000 g"], "answer": "2", "explanation": "1 kg = 1000 g, so 2.5 × 1000 = 2500 g."},
+            {"topic": "Derived quantities", "difficulty": "medium", "type": "mcq", "prompt": "Which expression gives the unit of speed?", "options": ["m × m", "m ÷ s", "kg ÷ m³", "m × s"], "answer": "1", "explanation": "Speed = distance ÷ time, so its unit is metre per second (m/s)."},
+            {"topic": "Accuracy and precision", "difficulty": "difficult", "type": "mcq", "prompt": "A true mass is 10 kg. Readings of 3.2, 3.1, 3.25, 3.3 and 3.2 kg are best described as:", "options": ["Accurate and precise", "Accurate but not precise", "Precise but not accurate", "Neither accurate nor precise"], "answer": "2", "explanation": "The values are close to each other (precise) but far from 10 kg (not accurate)."},
+            {"topic": "Scientific method", "difficulty": "exam", "type": "mcq", "prompt": "In a fair test, what must a scientist do when changing one factor in an experiment?", "options": ["Change every other factor too", "Keep all other factors the same", "Stop repeating the experiment", "Never record the results"], "answer": "1", "explanation": "To keep a test fair, only one factor is changed while all others are held constant, so any difference is caused by that one factor."}
+          ]
+        },
+        {
+          "title": "Composition of Matter",
+          "description": "Early ideas about matter, the inside of the atom, and how atoms join to form molecules.",
+          "lessons": [
+            {
+              "title": "Atoms and Molecules",
+              "summary": "Discover what matter is made of, the three particles inside an atom, and how atoms combine to make molecules.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "What is everything made of?",
+                  "body": "Look around you: water, air, rock, your own body. All of these are **matter** — anything that has **mass** and takes up **space**. But what is matter made of if we keep cutting it smaller and smaller?\n\nLong ago, a Greek thinker named **Democritus** said that if you cut matter again and again, you would reach a piece so tiny it cannot be cut. He called it *atomos*, meaning \"uncuttable\". This is where the word **atom** comes from. Today we know the **atom** is the smallest particle of an element that still has the properties of that element."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Describe early ideas about the **composition of matter**.\n- Name the three **subatomic particles** and their charges.\n- Explain where **protons**, **neutrons** and **electrons** are found.\n- Define **atomic number** and **mass number**.\n- Explain what a **molecule** is and give examples."
+                },
+                {
+                  "type": "theory",
+                  "title": "Inside the atom",
+                  "body": "An atom has two main regions: a tiny central **nucleus** and a surrounding cloud of **electrons**.\n\nThere are three **subatomic particles**:\n\n| Particle | Charge | Where it is found |\n|---|---|---|\n| **Proton** | Positive (+) | In the nucleus |\n| **Neutron** | No charge (neutral) | In the nucleus |\n| **Electron** | Negative (−) | Moving around the nucleus in shells |\n\n**Why is an atom neutral?** In a normal atom the number of **protons** equals the number of **electrons**, so the positive and negative charges balance out.\n\nTwo important numbers describe an atom:\n- **Atomic number** = number of protons. This decides which element it is.\n- **Mass number** = number of protons + number of neutrons (electrons are far too light to count).\n\nSo: **number of neutrons = mass number − atomic number.**\n\n**Molecules.** Atoms rarely stay alone. When two or more atoms join together they form a **molecule**. A molecule can be made of the same kind of atoms (like oxygen gas, O₂) or different kinds (like water, H₂O — two hydrogen atoms and one oxygen atom). This joining is what builds every substance around us."
+                },
+                {
+                  "type": "visual",
+                  "title": "The carbon atom",
+                  "body": "A carbon atom has 6 protons and 6 neutrons in its nucleus, with 6 electrons arranged in two shells (2 in the inner shell, 4 in the outer shell).",
+                  "visual": {"kind": "atom", "data": {"symbol": "C", "protons": 6, "neutrons": 6, "shells": [2, 4]}}
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: counting particles",
+                  "body": "**Question:** An atom of sodium (Na) has an atomic number of 11 and a mass number of 23. Find the number of protons, electrons and neutrons.\n\n**Step 1 — Protons.** Atomic number = number of protons, so there are **11 protons**.\n\n**Step 2 — Electrons.** A neutral atom has equal protons and electrons, so there are **11 electrons**.\n\n**Step 3 — Neutrons.** Neutrons = mass number − atomic number = 23 − 11 = **12 neutrons**.\n\n**Answer:** 11 protons, 11 electrons, 12 neutrons."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Thinking neutrons have a charge.** Neutrons are neutral — no charge at all.\n- **Counting electrons in the mass number.** Electrons are so light they are ignored; mass number = protons + neutrons only.\n- **Confusing atom and molecule.** An atom is a single particle; a molecule is two or more atoms joined.\n- **Saying the atomic number is the number of neutrons.** Atomic number = number of **protons**."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- **Proton = Positive** (both start with P).\n- **Neutron = Neutral** (both start with N).\n- That leaves the **electron** as **negative**.\n- **Atomic number = protons** → \"A for Atomic, A for the Amount of protons.\""
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "**Q1.** An oxygen atom has atomic number 8 and mass number 16. How many neutrons does it have?\n**Q2.** What is the charge of an electron?\n**Q3.** Water is H₂O. How many atoms are in one molecule of water?\n\n**Answers:**\n1. Neutrons = 16 − 8 = **8 neutrons**.\n2. **Negative (−).**\n3. 2 hydrogen + 1 oxygen = **3 atoms**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Matter** has mass and takes up space; the **atom** is its smallest unit.\n- An atom has a **nucleus** (protons + neutrons) with **electrons** around it.\n- **Proton** = positive, **neutron** = neutral, **electron** = negative.\n- **Atomic number** = number of protons; **mass number** = protons + neutrons.\n- **Neutrons** = mass number − atomic number.\n- A **molecule** is two or more atoms joined together, e.g. H₂O, O₂."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Matter", "definition": "Anything that has mass and takes up space."},
+                    {"term": "Atom", "definition": "The smallest particle of an element that keeps the element's properties."},
+                    {"term": "Nucleus", "definition": "The tiny central part of an atom containing protons and neutrons."},
+                    {"term": "Proton", "definition": "A positively charged particle in the nucleus."},
+                    {"term": "Neutron", "definition": "A neutral particle (no charge) in the nucleus."},
+                    {"term": "Electron", "definition": "A negatively charged particle that moves around the nucleus."},
+                    {"term": "Atomic number", "definition": "The number of protons in an atom; it identifies the element."},
+                    {"term": "Mass number", "definition": "The total number of protons and neutrons in an atom."},
+                    {"term": "Molecule", "definition": "Two or more atoms chemically joined together."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "Charge of a proton?", "back": "Positive (+)"},
+                {"front": "Charge of a neutron?", "back": "No charge (neutral)"},
+                {"front": "Where are electrons found?", "back": "Moving around the nucleus in shells."},
+                {"front": "Atomic number = ?", "back": "The number of protons in an atom."},
+                {"front": "How do you find the number of neutrons?", "back": "Mass number − atomic number."},
+                {"front": "What is a molecule?", "back": "Two or more atoms joined together (e.g. H₂O)."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Early ideas", "difficulty": "beginner", "type": "mcq", "prompt": "The word 'atom' comes from a Greek word meaning:", "options": ["Heavy", "Uncuttable", "Round", "Liquid"], "answer": "1", "explanation": "Democritus used the word *atomos*, meaning 'uncuttable', for the smallest piece of matter."},
+            {"topic": "Subatomic particles", "difficulty": "beginner", "type": "mcq", "prompt": "Which particle has a negative charge?", "options": ["Proton", "Neutron", "Electron", "Nucleus"], "answer": "2", "explanation": "Electrons carry a negative charge; protons are positive and neutrons are neutral."},
+            {"topic": "Nucleus", "difficulty": "medium", "type": "mcq", "prompt": "Which particles are found inside the nucleus?", "options": ["Protons and electrons", "Protons and neutrons", "Electrons only", "Neutrons and electrons"], "answer": "1", "explanation": "The nucleus contains protons and neutrons; electrons move around outside the nucleus."},
+            {"topic": "Counting particles", "difficulty": "medium", "type": "mcq", "prompt": "An atom has atomic number 7 and mass number 14. How many neutrons does it have?", "options": ["7", "14", "21", "0"], "answer": "0", "explanation": "Neutrons = mass number − atomic number = 14 − 7 = 7."},
+            {"topic": "Molecules", "difficulty": "difficult", "type": "mcq", "prompt": "How many atoms are present in one molecule of carbon dioxide, CO₂?", "options": ["1", "2", "3", "4"], "answer": "2", "explanation": "CO₂ has 1 carbon atom and 2 oxygen atoms, giving 3 atoms in total."},
+            {"topic": "Atomic structure", "difficulty": "exam", "type": "mcq", "prompt": "Why is a normal atom electrically neutral?", "options": ["It has no electrons", "It has equal numbers of protons and electrons", "It has more neutrons than protons", "Neutrons cancel the electrons"], "answer": "1", "explanation": "Equal numbers of positive protons and negative electrons balance each other, so the atom has no overall charge."}
+          ]
+        },
+        {
+          "title": "Classification of Compounds",
+          "description": "How chemists group compounds into organic and inorganic, and what happens in neutralization reactions.",
+          "lessons": [
+            {
+              "title": "Organic and Inorganic Compounds",
+              "summary": "Learn the difference between organic and inorganic compounds, explore acids and bases, and see how neutralization makes salt and water.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Sorting the world's compounds",
+                  "body": "There are millions of different substances. To make sense of them, chemists sort **compounds** into groups. A **compound** is a substance made when two or more elements join chemically, like water (H₂O) or table salt (NaCl).\n\nThe biggest split is between **organic compounds** (which contain carbon and usually come from living things) and **inorganic compounds** (which usually do not). Within inorganic compounds we meet **acids**, **bases** and **salts** — substances you use every day, from the lemon (lomi) in your kitchen to the soap you wash with."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Define a **compound**.\n- Tell **organic** and **inorganic compounds** apart.\n- Describe the properties of **acids** and **bases**.\n- Explain what an **indicator** does.\n- Describe a **neutralization reaction** and name its products."
+                },
+                {
+                  "type": "theory",
+                  "title": "Organic vs inorganic; acids and bases",
+                  "body": "**Organic compounds** contain **carbon** (almost always joined with hydrogen). They mostly come from living or once-living things. Examples: sugar, fats, proteins, methane (CH₄), and the ethanol in fuel. Living bodies are built from organic compounds.\n\n**Inorganic compounds** usually do **not** contain carbon-hydrogen bonds. Examples: water, table salt, and the minerals in rocks.\n\n*(A few carbon substances like carbon dioxide and carbonates are counted as inorganic — but the simple rule \"carbon + hydrogen = organic\" works well at this level.)*\n\nMany inorganic compounds are **acids** or **bases**.\n\n**Acids:**\n- Taste **sour** (like lemon or vinegar — never taste lab chemicals!).\n- Turn **blue litmus paper red**.\n- Have a **pH less than 7**.\n- Examples: hydrochloric acid (HCl) in your stomach, citric acid in lomi.\n\n**Bases (alkalis when dissolved in water):**\n- Feel **slippery** and often taste bitter.\n- Turn **red litmus paper blue**.\n- Have a **pH greater than 7**.\n- Examples: soap, baking soda, lime.\n\nAn **indicator** is a substance that changes colour to tell us if something is an acid or a base. **Litmus** is the most common one. A **neutral** substance like pure water has a **pH of 7**.\n\n**Why does this matter?** Knowing whether a substance is an acid or base helps us use it safely — and lets us cancel a dangerous acid or base when needed, as we see next."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: neutralization",
+                  "body": "**Question:** A farmer's soil is too acidic for crops. He adds lime (a base). What kind of reaction happens, and what is made?\n\n**Step 1 — Identify the substances.** The soil acid is an **acid**; lime is a **base**.\n\n**Step 2 — Name the reaction.** When an acid reacts with a base, it is called a **neutralization reaction**.\n\n**Step 3 — Find the products.** A neutralization reaction always makes a **salt** and **water**:\n\n**acid + base → salt + water**\n\nFor example: HCl + NaOH → NaCl (salt) + H₂O (water).\n\n**Step 4 — Explain the result.** The base cancels the extra acid, bringing the soil closer to **pH 7** (neutral), so crops can grow.\n\n**Answer:** A neutralization reaction takes place, producing a salt and water and making the soil less acidic."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Tasting or touching to test acids/bases.** Never do this in a lab — use an indicator instead.\n- **Mixing up the litmus colours.** Acids turn **blue litmus red**; bases turn **red litmus blue**.\n- **Thinking all carbon compounds are organic.** A few (CO₂, carbonates) are inorganic.\n- **Forgetting water as a product.** Neutralization always gives salt **and** water.\n- **Saying pH 7 is acidic.** pH 7 is **neutral**; below 7 is acidic, above 7 is basic."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- **Acid → Add to Red? No — acids turn blue to red.** Try: **\"Blue Boys Run from Acid\"** (Blue litmus → Red in acid).\n- **Organic = Organisms** (living things) → they contain carbon.\n- Neutralization rhyme: **\"Acid plus base, salt and water in their place.\"**\n- pH scale: **L**ow numbers = **L**emon (acid); high numbers = soap (base)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "**Q1.** Sugar contains carbon and hydrogen. Is it organic or inorganic?\n**Q2.** A liquid turns red litmus blue. Is it an acid or a base?\n**Q3.** Complete: acid + base → ______ + ______.\n\n**Answers:**\n1. **Organic** (it contains carbon and hydrogen).\n2. A **base** (bases turn red litmus blue).\n3. **salt + water.**"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- A **compound** is two or more elements joined chemically.\n- **Organic compounds** contain carbon (with hydrogen) and come mainly from living things.\n- **Inorganic compounds** usually lack carbon-hydrogen bonds (water, salt, minerals).\n- **Acids**: sour, pH < 7, turn blue litmus red.\n- **Bases**: slippery, pH > 7, turn red litmus blue.\n- An **indicator** like litmus shows acid or base by colour.\n- **Neutralization**: acid + base → salt + water."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Compound", "definition": "A substance formed when two or more elements join chemically."},
+                    {"term": "Organic compound", "definition": "A compound containing carbon (usually with hydrogen), mostly from living things."},
+                    {"term": "Inorganic compound", "definition": "A compound that usually does not contain carbon-hydrogen bonds."},
+                    {"term": "Acid", "definition": "A substance with pH below 7 that turns blue litmus red."},
+                    {"term": "Base", "definition": "A substance with pH above 7 that turns red litmus blue."},
+                    {"term": "Indicator", "definition": "A substance that changes colour to show whether something is an acid or a base."},
+                    {"term": "pH", "definition": "A number scale showing how acidic or basic a substance is; 7 is neutral."},
+                    {"term": "Neutralization", "definition": "A reaction between an acid and a base that produces a salt and water."},
+                    {"term": "Salt", "definition": "A compound formed when an acid reacts with a base."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "What do organic compounds always contain?", "back": "Carbon (usually joined with hydrogen)."},
+                {"front": "What does an acid do to blue litmus paper?", "back": "Turns it red."},
+                {"front": "What does a base do to red litmus paper?", "back": "Turns it blue."},
+                {"front": "pH of a neutral substance?", "back": "7"},
+                {"front": "Acid + base → ?", "back": "Salt + water (neutralization)."},
+                {"front": "What is an indicator?", "back": "A substance that changes colour to show acid or base."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Compounds", "difficulty": "beginner", "type": "mcq", "prompt": "Which element is always present in organic compounds?", "options": ["Oxygen", "Carbon", "Iron", "Sodium"], "answer": "1", "explanation": "Organic compounds are built around carbon, almost always bonded to hydrogen."},
+            {"topic": "Acids", "difficulty": "beginner", "type": "mcq", "prompt": "What colour change does an acid cause to blue litmus paper?", "options": ["Blue to red", "Red to blue", "No change", "Blue to green"], "answer": "0", "explanation": "Acids turn blue litmus paper red."},
+            {"topic": "pH scale", "difficulty": "medium", "type": "mcq", "prompt": "A substance has a pH of 10. It is:", "options": ["Acidic", "Neutral", "Basic", "A salt"], "answer": "2", "explanation": "A pH above 7 means the substance is basic (alkaline)."},
+            {"topic": "Neutralization", "difficulty": "medium", "type": "mcq", "prompt": "What are the two products of a neutralization reaction?", "options": ["Acid and base", "Salt and water", "Oxygen and water", "Carbon and salt"], "answer": "1", "explanation": "Acid + base → salt + water."},
+            {"topic": "Classifying compounds", "difficulty": "difficult", "type": "mcq", "prompt": "Which of these is an inorganic compound?", "options": ["Sugar", "Methane (CH₄)", "Table salt (NaCl)", "Ethanol"], "answer": "2", "explanation": "Table salt has no carbon-hydrogen bonds, so it is inorganic. The others contain carbon and hydrogen."},
+            {"topic": "Acids and bases", "difficulty": "exam", "type": "mcq", "prompt": "A farmer adds lime to acidic soil. What is the main reason this helps crops grow?", "options": ["Lime adds more acid", "Lime neutralizes the acid, raising the pH toward 7", "Lime lowers the pH further", "Lime turns the soil organic"], "answer": "1", "explanation": "Lime is a base; it neutralizes the soil acid, moving the pH toward neutral so crops grow better."}
+          ]
+        },
+        {
+          "title": "Human Body Systems and Health",
+          "description": "The main systems of the human body and how the digestive system turns food into energy.",
+          "lessons": [
+            {
+              "title": "Body Systems and Digestion",
+              "summary": "Meet the body's main systems and follow the journey of food through the digestive system from mouth to large intestine.",
+              "estimatedMinutes": 22,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "A team of systems",
+                  "body": "Your body is like a busy city where many teams work together. Each team is an **organ system** — a group of organs that work as one to do an important job. The skin protects you, muscles move you, the skeleton holds you up, and the digestive system feeds you.\n\nIn this lesson we look at the main body systems and then focus on the **digestive system**, which breaks the *injera* and *wot* you eat into tiny pieces your body can use for energy and growth."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Name the main **human body systems** and their jobs.\n- Explain what **digestion** is and why we need it.\n- List the parts of the **digestive system** in order.\n- Describe the difference between **physical (mechanical)** and **chemical** digestion.\n- Explain where food is **absorbed**."
+                },
+                {
+                  "type": "theory",
+                  "title": "The body systems and the digestive journey",
+                  "body": "Here are the main **organ systems** and their jobs:\n\n| System | Main job |\n|---|---|\n| **Integumentary** (skin) | Covers and protects the body |\n| **Muscular** | Produces movement |\n| **Skeletal** (bones) | Supports the body and protects organs |\n| **Digestive** | Breaks down food for energy |\n| **Respiratory** (lungs) | Takes in oxygen, removes carbon dioxide |\n| **Circulatory** (heart, blood) | Carries oxygen and food around the body |\n| **Reproductive** | Produces offspring |\n\n**Why digestion?** The food we eat is too big for our cells to use. **Digestion** is the process of breaking large food pieces into small ones that can pass into the blood. There are two kinds:\n- **Physical (mechanical) digestion** — chewing and the churning of the stomach break food into smaller pieces.\n- **Chemical digestion** — **enzymes** (special chemicals) break food into even smaller molecules.\n\n**The journey of food:**\n1. **Mouth** — teeth chew (physical) and saliva begins breaking down starch (chemical).\n2. **Oesophagus** — a muscular tube that pushes food down to the stomach.\n3. **Stomach** — churns food and uses acid and enzymes to digest proteins.\n4. **Small intestine** — most chemical digestion finishes here, and digested food is **absorbed** into the blood through its thin walls.\n5. **Large intestine** — absorbs water; leftover waste is removed from the body.\n\n**Why this matters:** Without digestion the energy locked in your food could never reach your cells, and you could not move, grow or even think."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: tracing a piece of injera",
+                  "body": "**Question:** You eat a piece of injera. Trace where chemical digestion of its starch begins and where the food is finally absorbed.\n\n**Step 1 — Starch in the mouth.** Saliva contains an **enzyme** that starts breaking down **starch** while you chew. So chemical digestion of starch begins in the **mouth**.\n\n**Step 2 — Down the tube.** The chewed injera passes through the **oesophagus** to the **stomach**, which churns it.\n\n**Step 3 — Finishing and absorbing.** The food moves to the **small intestine**, where digestion is completed and the small food molecules are **absorbed** into the blood.\n\n**Answer:** Starch digestion begins in the **mouth**; the food is absorbed in the **small intestine**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Thinking digestion only happens in the stomach.** It starts in the mouth and finishes in the small intestine.\n- **Saying food is absorbed in the stomach.** Most absorption happens in the **small intestine**.\n- **Mixing up the intestines.** The **small intestine** absorbs digested food; the **large intestine** absorbs water.\n- **Forgetting chewing is digestion.** Chewing is **physical (mechanical) digestion**.\n- **Confusing the windpipe and food pipe.** Food goes down the **oesophagus**, not the windpipe."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- Order of the gut: **\"Many Old Snakes Sleep Late\"** → **M**outh, **O**esophagus, **S**tomach, **S**mall intestine, **L**arge intestine.\n- **Small** intestine = **Small** food molecules absorbed.\n- **Large** intestine = takes back the water (think \"last stop\").\n- Skeleton = **S**upport; Muscles = **M**ovement."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "**Q1.** Which system supports the body and protects organs?\n**Q2.** Where is most digested food absorbed into the blood?\n**Q3.** Is chewing physical or chemical digestion?\n\n**Answers:**\n1. The **skeletal system**.\n2. The **small intestine**.\n3. **Physical (mechanical) digestion**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The body has many **organ systems** that work together.\n- **Skeletal** supports, **muscular** moves, **integumentary** (skin) protects, **circulatory** carries, **respiratory** brings oxygen, **digestive** breaks down food.\n- **Digestion** turns big food into small molecules; it is **physical** (chewing) and **chemical** (enzymes).\n- Food path: mouth → oesophagus → stomach → small intestine → large intestine.\n- The **small intestine** absorbs digested food; the **large intestine** absorbs water."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Organ system", "definition": "A group of organs that work together to do a major job in the body."},
+                    {"term": "Integumentary system", "definition": "The body system made of skin, which covers and protects the body."},
+                    {"term": "Skeletal system", "definition": "The system of bones that supports the body and protects organs."},
+                    {"term": "Digestion", "definition": "The breaking down of food into small molecules the body can use."},
+                    {"term": "Enzyme", "definition": "A chemical that speeds up the breakdown of food during digestion."},
+                    {"term": "Physical (mechanical) digestion", "definition": "Breaking food into smaller pieces by chewing and churning."},
+                    {"term": "Chemical digestion", "definition": "Breaking food into smaller molecules using enzymes."},
+                    {"term": "Small intestine", "definition": "The organ where digestion is completed and food is absorbed into the blood."},
+                    {"term": "Absorption", "definition": "The passing of digested food from the gut into the blood."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "Job of the skeletal system?", "back": "Supports the body and protects organs."},
+                {"front": "Job of the respiratory system?", "back": "Takes in oxygen and removes carbon dioxide."},
+                {"front": "Where does starch digestion begin?", "back": "In the mouth (saliva)."},
+                {"front": "Where is most food absorbed?", "back": "In the small intestine."},
+                {"front": "What does the large intestine absorb?", "back": "Water."},
+                {"front": "Two types of digestion?", "back": "Physical (mechanical) and chemical."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Body systems", "difficulty": "beginner", "type": "mcq", "prompt": "Which system is responsible for movement of the body?", "options": ["Digestive system", "Muscular system", "Respiratory system", "Integumentary system"], "answer": "1", "explanation": "The muscular system produces movement by contracting and relaxing."},
+            {"topic": "Digestion", "difficulty": "beginner", "type": "mcq", "prompt": "Where does digestion of food begin?", "options": ["Stomach", "Small intestine", "Mouth", "Large intestine"], "answer": "2", "explanation": "Digestion begins in the mouth, where teeth chew and saliva starts breaking down starch."},
+            {"topic": "Digestive organs", "difficulty": "medium", "type": "mcq", "prompt": "Which organ absorbs most of the digested food into the blood?", "options": ["Stomach", "Oesophagus", "Small intestine", "Large intestine"], "answer": "2", "explanation": "The thin walls of the small intestine allow digested food to be absorbed into the blood."},
+            {"topic": "Types of digestion", "difficulty": "medium", "type": "mcq", "prompt": "Chewing food with the teeth is an example of:", "options": ["Chemical digestion", "Physical (mechanical) digestion", "Absorption", "Respiration"], "answer": "1", "explanation": "Chewing breaks food into smaller pieces physically, so it is mechanical digestion."},
+            {"topic": "Enzymes", "difficulty": "difficult", "type": "mcq", "prompt": "What is the role of enzymes in digestion?", "options": ["They make food bigger", "They speed up the chemical breakdown of food", "They absorb water", "They move food down the throat"], "answer": "1", "explanation": "Enzymes are chemicals that speed up the chemical breakdown of food into small molecules."},
+            {"topic": "Digestive system", "difficulty": "exam", "type": "mcq", "prompt": "Which sequence shows the correct path of food through the digestive system?", "options": ["Mouth → stomach → oesophagus → small intestine", "Mouth → oesophagus → stomach → small intestine → large intestine", "Mouth → small intestine → stomach → large intestine", "Stomach → mouth → oesophagus → intestines"], "answer": "1", "explanation": "Food travels mouth → oesophagus → stomach → small intestine → large intestine."}
+          ]
+        },
+        {
+          "title": "Ecosystem and Conservation of Natural Resources",
+          "description": "How living things interact in ecosystems and why we must conserve natural resources.",
+          "lessons": [
+            {
+              "title": "Ecosystems and Conservation",
+              "summary": "Understand how living and non-living things interact in an ecosystem, follow energy through food chains, and learn why conserving natural resources matters.",
+              "estimatedMinutes": 22,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Living together",
+                  "body": "Walk through a field near Lake Tana and you will see grass, insects, birds, water and soil — all sharing one place. This is an **ecosystem**: all the living things in an area together with the non-living things around them, working as one connected system.\n\nIn an ecosystem nothing lives alone. Plants need sunlight and soil; animals need plants and water; and when things die, they enrich the soil again. We also depend on the ecosystem for food, water and air. That is why **conserving (protecting) natural resources** is so important."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Define **ecosystem**, **habitat** and **species**.\n- Tell apart **biotic** and **abiotic** factors.\n- Explain a **food chain** and the roles of **producers**, **consumers** and **decomposers**.\n- List important **natural resources**.\n- Explain why and how we **conserve** natural resources."
+                },
+                {
+                  "type": "theory",
+                  "title": "Inside an ecosystem and how we protect it",
+                  "body": "Every ecosystem has two kinds of parts:\n- **Biotic factors** — the *living* things: plants, animals, fungi, bacteria.\n- **Abiotic factors** — the *non-living* things: sunlight, water, air, soil, temperature.\n\nThe place where a living thing lives is its **habitat**. A **species** is a group of living things that can breed together.\n\n**Energy flow — the food chain.** Energy enters an ecosystem from the **Sun**. It then passes from one living thing to another in a **food chain**:\n- **Producers** are green plants that make their own food using sunlight (photosynthesis). They start every food chain.\n- **Consumers** are animals that eat other living things. A **herbivore** eats plants; a **carnivore** eats animals.\n- **Decomposers** (bacteria and fungi) break down dead plants and animals and return nutrients to the soil.\n\nExample food chain: **grass → grasshopper → bird → hawk**. The arrow shows the direction the energy moves.\n\n**Natural resources** are useful things we take from nature: water, soil, forests, air, minerals and wildlife. Some are **renewable** (they can be replaced, like trees and water) and some are **non-renewable** (they run out, like coal and minerals).\n\n**Why conserve?** People cut forests, pollute rivers and overuse soil. This can cause **soil erosion**, loss of animals and shortage of clean water. **Conservation** means using resources wisely so they last. In Ethiopia this includes **tree planting** (like the Green Legacy campaign), **terracing** hillsides to stop soil erosion, protecting wildlife in national parks, and avoiding water pollution.\n\n**Why this matters:** A healthy ecosystem gives us food, clean water and fresh air. If we damage it, we harm ourselves and future generations."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: reading a food chain",
+                  "body": "**Question:** In the food chain *grass → goat → lion*, name the producer and one consumer, and explain where the energy first comes from.\n\n**Step 1 — Find the producer.** The producer makes its own food using sunlight. Here that is the **grass**.\n\n**Step 2 — Find a consumer.** A consumer eats other living things. The **goat** (a herbivore) and the **lion** (a carnivore) are both consumers.\n\n**Step 3 — Trace the energy.** The grass captures energy from the **Sun**. The goat gets energy by eating grass, and the lion gets energy by eating the goat.\n\n**Answer:** Producer = grass; consumers = goat and lion; the energy originally comes from the **Sun**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Calling soil or water 'biotic'.** Soil, water, air and sunlight are **abiotic** (non-living).\n- **Drawing food-chain arrows backward.** The arrow points from the eaten to the eater (energy flow).\n- **Forgetting decomposers.** Bacteria and fungi recycle nutrients — they are vital.\n- **Thinking all resources are renewable.** Minerals and coal are **non-renewable**.\n- **Saying conservation means 'never use' resources.** It means using them **wisely**, not stopping completely."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- **Biotic = Bio = life** (living). **Abiotic = A means 'not'** (non-living).\n- Food-chain roles: **\"Plants Cook, Decomposers Clean\"** → **P**roducers, **C**onsumers, **D**ecomposers.\n- Arrow direction: it always points **to the mouth** that is eating (toward the consumer).\n- **Renewable = Returns** (can be replaced)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "**Q1.** Is sunlight a biotic or an abiotic factor?\n**Q2.** In the chain *maize → rat → snake*, which organism is the producer?\n**Q3.** Give one way Ethiopian farmers reduce soil erosion on hillsides.\n\n**Answers:**\n1. **Abiotic** (non-living).\n2. **Maize** (it makes its own food).\n3. **Terracing** the hillsides (also acceptable: planting trees / grass)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- An **ecosystem** is all living and non-living things in an area working together.\n- **Biotic** = living factors; **abiotic** = non-living factors.\n- A **food chain** shows energy flow: Sun → producers → consumers; **decomposers** recycle nutrients.\n- **Producers** make food; **consumers** eat others; **decomposers** break down dead matter.\n- **Natural resources** can be **renewable** or **non-renewable**.\n- **Conservation** means using resources wisely — e.g. tree planting and terracing in Ethiopia."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Ecosystem", "definition": "All the living and non-living things in an area interacting as one system."},
+                    {"term": "Habitat", "definition": "The natural place where a living thing lives."},
+                    {"term": "Biotic factor", "definition": "A living part of an ecosystem, such as plants or animals."},
+                    {"term": "Abiotic factor", "definition": "A non-living part of an ecosystem, such as water, soil or sunlight."},
+                    {"term": "Producer", "definition": "A green plant that makes its own food using sunlight."},
+                    {"term": "Consumer", "definition": "An animal that gets energy by eating other living things."},
+                    {"term": "Decomposer", "definition": "A bacterium or fungus that breaks down dead matter and returns nutrients to the soil."},
+                    {"term": "Food chain", "definition": "A diagram showing how energy passes from one living thing to another."},
+                    {"term": "Conservation", "definition": "The wise use and protection of natural resources so they last."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "What is an ecosystem?", "back": "All living and non-living things in an area interacting together."},
+                {"front": "Biotic vs abiotic?", "back": "Biotic = living factors; abiotic = non-living factors."},
+                {"front": "What is a producer?", "back": "A green plant that makes its own food using sunlight."},
+                {"front": "What do decomposers do?", "back": "Break down dead matter and return nutrients to the soil."},
+                {"front": "Where does energy in a food chain come from?", "back": "The Sun."},
+                {"front": "What does conservation mean?", "back": "Using and protecting natural resources wisely so they last."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Ecosystem parts", "difficulty": "beginner", "type": "mcq", "prompt": "Which of the following is an abiotic factor?", "options": ["Grass", "A fish", "Water", "A bird"], "answer": "2", "explanation": "Water is non-living, so it is an abiotic factor. Grass, fish and birds are living (biotic)."},
+            {"topic": "Producers", "difficulty": "beginner", "type": "mcq", "prompt": "Which organism is a producer in a food chain?", "options": ["Lion", "Grass", "Snake", "Eagle"], "answer": "1", "explanation": "Grass is a green plant that makes its own food using sunlight, so it is the producer."},
+            {"topic": "Food chains", "difficulty": "medium", "type": "mcq", "prompt": "In the food chain grass → grasshopper → bird, what does the arrow show?", "options": ["The direction energy flows", "Which animal is bigger", "The order of size", "Where the animals sleep"], "answer": "0", "explanation": "The arrow points from the food to the feeder, showing the direction energy flows."},
+            {"topic": "Decomposers", "difficulty": "medium", "type": "mcq", "prompt": "Which group breaks down dead plants and animals and returns nutrients to the soil?", "options": ["Producers", "Consumers", "Decomposers", "Herbivores"], "answer": "2", "explanation": "Decomposers such as bacteria and fungi recycle nutrients from dead matter."},
+            {"topic": "Natural resources", "difficulty": "difficult", "type": "mcq", "prompt": "Which of these is a non-renewable resource?", "options": ["Trees", "Water", "Coal", "Wind"], "answer": "2", "explanation": "Coal forms over millions of years and runs out once used, so it is non-renewable."},
+            {"topic": "Conservation", "difficulty": "exam", "type": "mcq", "prompt": "Why do Ethiopian farmers build terraces on hillsides?", "options": ["To grow more trees only", "To reduce soil erosion and keep the soil fertile", "To increase rainfall", "To attract more animals"], "answer": "1", "explanation": "Terracing slows running water and holds soil in place, reducing erosion and keeping the land fertile."}
+          ]
+        },
+        {
+          "title": "The Solar System",
+          "description": "The Sun and its family of planets, how the solar system formed, and what makes Earth special.",
+          "lessons": [
+            {
+              "title": "The Sun and Its Planets",
+              "summary": "Explore the members of the solar system, how it may have formed, and the special features that make Earth able to support life.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Our place in space",
+                  "body": "On a clear night in the Ethiopian highlands you can see thousands of stars. Our own star is the **Sun**, and around it travels a family of planets, moons and smaller bodies. Together they make up the **solar system**.\n\nThe Sun is by far the largest member and holds everything in place with its **gravity**. Earth — our home — is just one of eight planets, yet it is the only one we know that has life. In this lesson we meet the solar system family and find out why Earth is so special."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- List the members of the **solar system**.\n- Name the eight **planets** in order from the Sun.\n- Explain the difference between **inner** and **outer** planets.\n- Describe how **gravity** keeps planets in **orbit**.\n- Explain why **Earth** can support life."
+                },
+                {
+                  "type": "theory",
+                  "title": "The solar system family",
+                  "body": "The **solar system** is made of the **Sun** at the centre and everything that **orbits** (travels around) it: eight **planets**, their **moons**, plus **asteroids**, **comets** and dust.\n\n**The eight planets in order from the Sun:**\n1. Mercury\n2. Venus\n3. Earth\n4. Mars\n5. Jupiter\n6. Saturn\n7. Uranus\n8. Neptune\n\nThe planets fall into two groups:\n- **Inner planets** (Mercury, Venus, Earth, Mars): small, rocky and close to the Sun.\n- **Outer planets** (Jupiter, Saturn, Uranus, Neptune): very large, made mostly of gas, and far from the Sun.\n\n**What holds it together?** The Sun's **gravity** — a pulling force — keeps each planet moving in a curved path called an **orbit**. Without gravity, planets would fly off into space in a straight line.\n\n**How did it form?** Scientists believe the solar system formed about 4.6 billion years ago from a giant spinning cloud of gas and dust. Most of the material gathered in the centre and became the **Sun**, while the leftover bits clumped together to form the **planets**.\n\n**Why is Earth special?** Earth lies at just the right distance from the Sun — not too hot, not too cold. This lets it have:\n- **Liquid water**, which all living things need.\n- A protective **atmosphere** containing **oxygen** to breathe.\n- A surface temperature that supports life.\n\n**Why this matters:** Understanding our solar system helps us see how rare and precious Earth is, and why we must look after it."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: ordering the planets",
+                  "body": "**Question:** Mars is the 4th planet from the Sun. Is it an inner or outer planet, and name the planet just before it.\n\n**Step 1 — Recall the order.** Mercury, Venus, Earth, **Mars**, Jupiter, Saturn, Uranus, Neptune.\n\n**Step 2 — Inner or outer?** The first four (Mercury, Venus, Earth, Mars) are small and rocky, so Mars is an **inner planet**.\n\n**Step 3 — Planet before Mars.** Counting back one place from Mars gives **Earth**.\n\n**Answer:** Mars is an **inner planet**, and the planet just before it is **Earth**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Counting the Sun as a planet.** The Sun is a **star**, not a planet.\n- **Getting the planet order wrong.** Use a memory phrase (see tips) to keep them in order.\n- **Thinking the outer planets are rocky.** The outer planets are mostly **gas**.\n- **Saying planets move in circles only.** Planets move in slightly oval **orbits**, held by gravity.\n- **Forgetting why Earth supports life.** It needs the right distance, liquid water and oxygen — not just one of these."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- Planet order: **\"My Very Easy Method Just Speeds Up Names\"** → **M**ercury, **V**enus, **E**arth, **M**ars, **J**upiter, **S**aturn, **U**ranus, **N**eptune.\n- **Inner = In close** (small rocky planets near the Sun).\n- **Gravity keeps the orbit** — think of swinging a stone on a string: the string (gravity) stops it flying away.\n- Earth is the **\"Goldilocks\" planet** — not too hot, not too cold, just right."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "**Q1.** Which planet is closest to the Sun?\n**Q2.** Name the force that keeps planets in orbit around the Sun.\n**Q3.** Give one reason Earth can support life.\n\n**Answers:**\n1. **Mercury**.\n2. **Gravity**.\n3. Any one of: it has **liquid water**, it has an **atmosphere with oxygen**, or it is at the **right distance/temperature** from the Sun."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **solar system** = the Sun plus everything orbiting it (planets, moons, asteroids, comets).\n- The **Sun** is a star at the centre and holds everything with its **gravity**.\n- Eight planets in order: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.\n- **Inner planets** are small and rocky; **outer planets** are large and gassy.\n- The solar system formed from a spinning cloud of gas and dust.\n- **Earth** supports life because of liquid water, oxygen and the right distance from the Sun."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Solar system", "definition": "The Sun together with all the planets, moons and other bodies that orbit it."},
+                    {"term": "Sun", "definition": "The star at the centre of our solar system that gives light, heat and gravity."},
+                    {"term": "Planet", "definition": "A large round body that orbits the Sun and does not make its own light."},
+                    {"term": "Orbit", "definition": "The curved path a planet or moon follows around another body."},
+                    {"term": "Gravity", "definition": "The pulling force that keeps planets moving around the Sun."},
+                    {"term": "Inner planets", "definition": "The four small rocky planets closest to the Sun: Mercury, Venus, Earth, Mars."},
+                    {"term": "Outer planets", "definition": "The four large gas planets far from the Sun: Jupiter, Saturn, Uranus, Neptune."},
+                    {"term": "Atmosphere", "definition": "The layer of gases surrounding a planet, such as Earth's air."},
+                    {"term": "Asteroid", "definition": "A small rocky body that orbits the Sun."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "What is at the centre of the solar system?", "back": "The Sun (a star)."},
+                {"front": "Closest planet to the Sun?", "back": "Mercury"},
+                {"front": "Which planets are the inner planets?", "back": "Mercury, Venus, Earth and Mars (small, rocky)."},
+                {"front": "What keeps planets in orbit?", "back": "Gravity."},
+                {"front": "Largest planet in the solar system?", "back": "Jupiter"},
+                {"front": "Give one reason Earth supports life.", "back": "Liquid water, oxygen-rich atmosphere, or the right distance from the Sun."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Solar system", "difficulty": "beginner", "type": "mcq", "prompt": "What is found at the centre of the solar system?", "options": ["Earth", "The Moon", "The Sun", "Jupiter"], "answer": "2", "explanation": "The Sun, a star, sits at the centre and holds the planets in orbit with its gravity."},
+            {"topic": "Planet order", "difficulty": "beginner", "type": "mcq", "prompt": "Which planet is closest to the Sun?", "options": ["Venus", "Mercury", "Earth", "Mars"], "answer": "1", "explanation": "Mercury is the first and closest planet to the Sun."},
+            {"topic": "Gravity and orbits", "difficulty": "medium", "type": "mcq", "prompt": "What force keeps the planets moving around the Sun?", "options": ["Magnetism", "Gravity", "Friction", "Wind"], "answer": "1", "explanation": "The Sun's gravity pulls on the planets and keeps them in their orbits."},
+            {"topic": "Types of planets", "difficulty": "medium", "type": "mcq", "prompt": "The outer planets such as Jupiter and Saturn are mostly made of:", "options": ["Rock", "Gas", "Ice only", "Metal"], "answer": "1", "explanation": "The outer planets are large gas giants, made mostly of gas."},
+            {"topic": "Earth's uniqueness", "difficulty": "difficult", "type": "mcq", "prompt": "Which feature most directly allows living things to survive on Earth?", "options": ["It is the biggest planet", "It has liquid water and oxygen", "It has no atmosphere", "It is closest to the Sun"], "answer": "1", "explanation": "Liquid water and an oxygen-rich atmosphere, at the right distance from the Sun, allow life to survive."},
+            {"topic": "Solar system", "difficulty": "exam", "type": "mcq", "prompt": "Which statement about the solar system is correct?", "options": ["The Sun is a planet that orbits Earth", "Planets make their own light", "Planets orbit the Sun, held by gravity", "All planets are made of gas"], "answer": "2", "explanation": "Planets orbit the Sun and are held in place by the Sun's gravity; planets do not make their own light."}
+          ]
+        },
+        {
+          "title": "Physical Phenomena in the Surrounding",
+          "description": "Everyday physics: light, vision, sound, heat, simple electric circuits and magnetism.",
+          "lessons": [
+            {
+              "title": "Light, Sound, Heat and Electricity",
+              "summary": "Discover the properties of light and sound, how heat travels, and how to build a simple electric circuit.",
+              "estimatedMinutes": 24,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Physics all around you",
+                  "body": "Physics is not only in the classroom — it is in everything around you. The **light** that lets you read, the **sound** of a friend's voice, the **heat** from the morning sun, the **electricity** that lights a bulb, and the **magnet** on a fridge are all physical phenomena.\n\nIn this lesson we explore how **light** and **sound** travel, how **heat** moves from hot to cold, and how a simple **electric circuit** works. These ideas explain countless things you see every day."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Describe key properties of **light** (it travels in straight lines, can **reflect**).\n- Explain how we **see** objects.\n- Describe how **sound** travels and why it needs a **medium**.\n- Name the three ways **heat** travels.\n- Describe the parts of a simple **electric circuit**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Light, sound, heat and circuits",
+                  "body": "**Light.** Light comes from **sources** like the Sun, a fire or a bulb. Key facts:\n- Light travels in **straight lines** (this is why shadows form).\n- Light can **reflect** (bounce) off surfaces — a mirror reflects light clearly.\n- We **see** an object when light from a source bounces off it and enters our eyes.\n- Light is very fast and can travel through empty space (that is how sunlight reaches us).\n\n**Sound.** Sound is made by **vibrations**. When something vibrates, it makes the particles around it vibrate too, passing the sound along.\n- Sound needs a **medium** (a material such as air, water or solid) to travel. It **cannot travel through a vacuum** (empty space).\n- Sound travels much **slower** than light. That is why, in a storm, you see lightning before you hear thunder.\n\n**Heat.** Heat always moves from a **hotter** place to a **cooler** place. There are three ways it travels:\n- **Conduction** — heat passes through a solid by direct contact (a metal spoon in hot shiro gets hot).\n- **Convection** — heat moves through liquids and gases as warm parts rise and cool parts sink (boiling water).\n- **Radiation** — heat travels as rays without any material, like the warmth you feel from the Sun or a fire.\n\n**Simple electric circuit.** An **electric circuit** is a complete path that lets electricity (current) flow. The main parts are:\n- A **cell** or **battery** — the source of electrical energy.\n- **Wires** — carry the current.\n- A **switch** — opens or closes the circuit.\n- A **bulb** (or other device) — uses the energy.\n\nThe circuit must be **closed** (a complete loop) for current to flow. If there is a gap — for example the switch is open — the current stops and the bulb goes off.\n\n**Why this matters:** These four ideas explain how we light our homes, cook our food, communicate and stay warm."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: why the bulb won't light",
+                  "body": "**Question:** A student connects a cell, two wires and a bulb, but the bulb does not light. The switch is open. Why won't it light, and how can the student fix it?\n\n**Step 1 — Recall the rule.** A bulb lights only when the circuit is a **complete (closed) loop** so current can flow.\n\n**Step 2 — Find the gap.** The **switch is open**, which leaves a gap in the loop. Current cannot cross a gap.\n\n**Step 3 — Fix it.** **Close the switch.** This completes the loop, current flows from the cell through the wires and bulb, and the bulb lights.\n\n**Answer:** The open switch breaks the circuit; closing the switch completes the loop and lights the bulb."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Thinking sound can travel through empty space.** Sound needs a **medium**; only light can cross a vacuum.\n- **Saying light and sound travel at the same speed.** Light is far faster — that's why you see lightning before thunder.\n- **Mixing up conduction and convection.** Conduction is through solids by contact; convection is in liquids and gases by moving currents.\n- **Forgetting the circuit must be closed.** An open switch or loose wire stops the current.\n- **Thinking we see objects that give out no light of their own with our eyes alone.** We see them because light **reflects** off them into our eyes."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- Three ways heat travels: **\"Cats Can Run\"** → **C**onduction, **C**onvection, **R**adiation.\n- **Convection** has a **'v'** like the **v** of rising and falling currents.\n- **Light is fast, sound is slow** — see the flash, then hear the bang.\n- **Closed circuit = current flows; open circuit = off.** Think of a closed door letting people pass around a room."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "**Q1.** Why do we see lightning before we hear thunder?\n**Q2.** Which method of heat transfer warms a metal spoon left in hot food?\n**Q3.** What must be true about a circuit for the bulb to light?\n\n**Answers:**\n1. Because **light travels faster than sound**.\n2. **Conduction** (heat passes through the solid metal by contact).\n3. The circuit must be **closed** (a complete loop with no gaps)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Light** travels in straight lines, can **reflect**, and lets us see when it bounces off objects into our eyes.\n- **Sound** is made by **vibrations**, needs a **medium**, and travels slower than light.\n- **Heat** moves from hot to cold by **conduction**, **convection** and **radiation**.\n- A simple **electric circuit** needs a **cell**, **wires**, a **switch** and a **bulb**.\n- Current only flows when the circuit is a **closed** loop."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Reflection", "definition": "The bouncing of light off a surface."},
+                    {"term": "Light source", "definition": "Something that gives out light, such as the Sun or a bulb."},
+                    {"term": "Vibration", "definition": "A fast back-and-forth movement that produces sound."},
+                    {"term": "Medium", "definition": "A material (solid, liquid or gas) through which sound or heat travels."},
+                    {"term": "Vacuum", "definition": "A completely empty space with no particles; sound cannot travel through it."},
+                    {"term": "Conduction", "definition": "Heat transfer through a solid by direct contact."},
+                    {"term": "Convection", "definition": "Heat transfer in liquids and gases as warm parts rise and cool parts sink."},
+                    {"term": "Radiation", "definition": "Heat transfer as rays without needing any material."},
+                    {"term": "Electric circuit", "definition": "A complete path that allows electric current to flow."},
+                    {"term": "Switch", "definition": "A device that opens or closes a circuit to stop or allow current."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "How does light travel?", "back": "In straight lines."},
+                {"front": "Why can't sound travel through a vacuum?", "back": "Sound needs a medium (particles) to travel; a vacuum has none."},
+                {"front": "Name the three ways heat travels.", "back": "Conduction, convection and radiation."},
+                {"front": "How does heat reach us from the Sun?", "back": "By radiation."},
+                {"front": "What does a switch do in a circuit?", "back": "Opens or closes the circuit to stop or allow current."},
+                {"front": "When does current flow in a circuit?", "back": "Only when the circuit is closed (a complete loop)."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Light", "difficulty": "beginner", "type": "mcq", "prompt": "Light normally travels in:", "options": ["Curved paths", "Straight lines", "Circles", "Zigzags on its own"], "answer": "1", "explanation": "Light travels in straight lines, which is why shadows form behind objects."},
+            {"topic": "Sound", "difficulty": "beginner", "type": "mcq", "prompt": "Sound is produced by:", "options": ["Light", "Vibrations", "Heat only", "Gravity"], "answer": "1", "explanation": "Sound is produced when objects vibrate, passing the vibration through a medium."},
+            {"topic": "Heat transfer", "difficulty": "medium", "type": "mcq", "prompt": "How does heat from the Sun reach the Earth through empty space?", "options": ["Conduction", "Convection", "Radiation", "Vibration"], "answer": "2", "explanation": "Heat from the Sun travels as radiation, which needs no material medium."},
+            {"topic": "Sound vs light", "difficulty": "medium", "type": "mcq", "prompt": "Why do we see lightning before we hear thunder?", "options": ["Thunder happens later", "Light travels faster than sound", "Sound travels faster than light", "Our ears are slow"], "answer": "1", "explanation": "Light travels much faster than sound, so we see the flash before the sound reaches us."},
+            {"topic": "Electric circuits", "difficulty": "difficult", "type": "mcq", "prompt": "A bulb in a circuit does not light even though the cell is good. The most likely reason is:", "options": ["The circuit is closed", "There is a gap in the circuit (it is open)", "There are too many wires", "The bulb is too bright"], "answer": "1", "explanation": "If the circuit is open (has a gap), current cannot flow and the bulb will not light."},
+            {"topic": "Physical phenomena", "difficulty": "exam", "type": "mcq", "prompt": "Which statement is correct?", "options": ["Sound can travel through a vacuum but light cannot", "Both light and sound need a medium to travel", "Light can travel through a vacuum but sound cannot", "Neither light nor sound can travel through air"], "answer": "2", "explanation": "Light can travel through empty space (a vacuum), but sound needs a material medium and cannot."}
+          ]
+        }
+      ]
+    }
+  ]
+}

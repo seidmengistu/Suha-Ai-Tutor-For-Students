@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "mathematics",
+      "questions": [
+        {
+          "topic": "Leading coefficient",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the leading coefficient of $p(x) = 7 - 3x + 6x^5 - x^2$?",
+          "options": ["$7$", "$-3$", "$6$", "$-1$"],
+          "answer": "2",
+          "explanation": "The leading coefficient is the number in front of the highest power, $x^5$, which is $6$."
+        },
+        {
+          "topic": "Laws of exponents",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Simplify $\\dfrac{a^9}{a^4}$.",
+          "options": ["$a^5$", "$a^{13}$", "$a^{36}$", "$a^{2.25}$"],
+          "answer": "0",
+          "explanation": "Dividing powers with the same base means subtracting exponents: $9 - 4 = 5$, so $a^5$."
+        },
+        {
+          "topic": "Flipping the inequality sign",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Solve $-5x \\geq 20$.",
+          "options": ["$x \\geq -4$", "$x \\leq -4$", "$x \\geq 4$", "$x \\leq 4$"],
+          "answer": "1",
+          "explanation": "Divide both sides by $-5$ and reverse the sign: $x \\leq -4$."
+        },
+        {
+          "topic": "Distance formula",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Find the distance between the points $(0, 0)$ and $(5, 12)$.",
+          "options": ["$13$", "$17$", "$7$", "$60$"],
+          "answer": "0",
+          "explanation": "$d = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$."
+        },
+        {
+          "topic": "Choosing the trig ratio",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In a right triangle, which ratio equals $\\dfrac{\\text{adjacent}}{\\text{hypotenuse}}$?",
+          "options": ["$\\sin\\theta$", "$\\cos\\theta$", "$\\tan\\theta$", "$\\cot\\theta$"],
+          "answer": "1",
+          "explanation": "By SOH-CAH-TOA, cosine is adjacent over hypotenuse: $\\cos\\theta = \\dfrac{\\text{adj}}{\\text{hyp}}$."
+        },
+        {
+          "topic": "Triangle angle sum",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A right triangle has one acute angle of $25^\\circ$. What is the other acute angle?",
+          "options": ["$55^\\circ$", "$65^\\circ$", "$75^\\circ$", "$155^\\circ$"],
+          "answer": "1",
+          "explanation": "The two acute angles add to $90^\\circ$, so the other is $90^\\circ - 25^\\circ = 65^\\circ$."
+        },
+        {
+          "topic": "Addition of polynomials",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If $f(x) = 3x^2 - 4x + 5$ and $g(x) = x^2 + 4x - 9$, find $f(x) + g(x)$.",
+          "options": ["$4x^2 - 4$", "$4x^2 - 8x - 4$", "$3x^2 + 4$", "$4x^2 + 8x - 4$"],
+          "answer": "0",
+          "explanation": "Add like terms: $(3x^2 + x^2) + (-4x + 4x) + (5 - 9) = 4x^2 + 0 - 4 = 4x^2 - 4$."
+        },
+        {
+          "topic": "Multiplying polynomials",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Expand $(x + 4)(x - 6)$.",
+          "options": ["$x^2 - 2x - 24$", "$x^2 + 2x - 24$", "$x^2 - 24$", "$x^2 - 10x - 24$"],
+          "answer": "0",
+          "explanation": "$(x+4)(x-6) = x^2 - 6x + 4x - 24 = x^2 - 2x - 24$."
+        },
+        {
+          "topic": "Converting logarithmic form",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which exponential equation is the same as $\\log_2 64 = 6$?",
+          "options": ["$6^2 = 64$", "$2^6 = 64$", "$64^6 = 2$", "$2^{64} = 6$"],
+          "answer": "1",
+          "explanation": "$\\log_a b = c$ means $a^c = b$. Here $a = 2$, $c = 6$, $b = 64$, so $2^6 = 64$."
+        },
+        {
+          "topic": "Absolute value inequalities",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Solve $|x - 1| < 4$.",
+          "options": ["$x < 5$", "$-3 < x < 5$", "$x < -3 \\text{ or } x > 5$", "$-4 < x < 4$"],
+          "answer": "1",
+          "explanation": "$|x-1| < 4$ means $-4 < x - 1 < 4$. Add 1 throughout: $-3 < x < 5$."
+        },
+        {
+          "topic": "Midpoint with a negative",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Find the midpoint of $(-3, 5)$ and $(7, -1)$.",
+          "options": ["$(2, 2)$", "$(4, 4)$", "$(2, 3)$", "$(5, 2)$"],
+          "answer": "0",
+          "explanation": "Average each coordinate: $\\left(\\frac{-3+7}{2}, \\frac{5+(-1)}{2}\\right) = (2, 2)$."
+        },
+        {
+          "topic": "Reciprocal trig functions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If $\\sin\\theta = \\dfrac{2}{3}$, what is $\\csc\\theta$?",
+          "options": ["$\\dfrac{2}{3}$", "$\\dfrac{3}{2}$", "$\\dfrac{1}{3}$", "$\\dfrac{9}{4}$"],
+          "answer": "1",
+          "explanation": "$\\csc\\theta$ is the reciprocal of $\\sin\\theta$, so $\\csc\\theta = \\dfrac{1}{2/3} = \\dfrac{3}{2}$."
+        },
+        {
+          "topic": "Circle theorems",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A triangle is drawn in a circle with one side being a diameter. The angle opposite the diameter is:",
+          "options": ["$45^\\circ$", "$60^\\circ$", "$90^\\circ$", "$180^\\circ$"],
+          "answer": "2",
+          "explanation": "The angle in a semicircle (standing on a diameter) is always $90^\\circ$."
+        },
+        {
+          "topic": "Cuboid volume",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A rectangular box measures $5\\text{ cm} \\times 4\\text{ cm} \\times 3\\text{ cm}$. What is its volume?",
+          "options": ["$60 \\text{ cm}^3$", "$12 \\text{ cm}^3$", "$94 \\text{ cm}^3$", "$120 \\text{ cm}^3$"],
+          "answer": "0",
+          "explanation": "Volume of a cuboid $= l \\times w \\times h = 5 \\times 4 \\times 3 = 60 \\text{ cm}^3$."
+        },
+        {
+          "topic": "Sphere volume",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Find the volume of a sphere with radius 3 cm (use $\\pi \\approx 3.14$).",
+          "options": ["$113.04 \\text{ cm}^3$", "$28.26 \\text{ cm}^3$", "$36 \\text{ cm}^3$", "$84.78 \\text{ cm}^3$"],
+          "answer": "0",
+          "explanation": "$V = \\frac{4}{3}\\pi r^3 = \\frac{4}{3} \\times 3.14 \\times 27 = 4 \\times 3.14 \\times 9 = 113.04 \\text{ cm}^3$."
+        },
+        {
+          "topic": "Factor theorem",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "For which value of $k$ is $(x - 3)$ a factor of $x^2 - kx + 6$?",
+          "options": ["$3$", "$5$", "$6$", "$2$"],
+          "answer": "1",
+          "explanation": "If $(x-3)$ is a factor, then $p(3) = 0$: $9 - 3k + 6 = 0$, so $15 = 3k$, giving $k = 5$."
+        },
+        {
+          "topic": "Laws of logarithms",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Write $\\log_2 5 + \\log_2 8$ as a single logarithm.",
+          "options": ["$\\log_2 13$", "$\\log_2 40$", "$\\log_2 45$", "$\\log_4 40$"],
+          "answer": "1",
+          "explanation": "The product law gives $\\log_2 5 + \\log_2 8 = \\log_2(5 \\times 8) = \\log_2 40$."
+        },
+        {
+          "topic": "Solving exponential equations",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Solve $9^x = 27$.",
+          "options": ["$x = \\dfrac{3}{2}$", "$x = 3$", "$x = \\dfrac{1}{3}$", "$x = 2$"],
+          "answer": "0",
+          "explanation": "Write both sides base 3: $9^x = 3^{2x}$ and $27 = 3^3$, so $2x = 3$, giving $x = \\dfrac{3}{2}$."
+        },
+        {
+          "topic": "Quadratic inequalities",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Solve $x^2 - 2x - 8 \\leq 0$.",
+          "options": ["$x \\leq -2 \\text{ or } x \\geq 4$", "$-2 \\leq x \\leq 4$", "$-4 \\leq x \\leq 2$", "$2 \\leq x \\leq 4$"],
+          "answer": "1",
+          "explanation": "Factor: $x^2 - 2x - 8 = (x+2)(x-4)$, roots $-2$ and $4$. The upward parabola is $\\leq 0$ between the roots: $-2 \\leq x \\leq 4$."
+        },
+        {
+          "topic": "Equation of a line through two points",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Find the equation of the line passing through $(2, 1)$ and $(4, 7)$.",
+          "options": ["$y = 3x - 5$", "$y = 3x + 1$", "$y = 2x - 3$", "$y = 3x - 1$"],
+          "answer": "0",
+          "explanation": "Slope $m = \\frac{7-1}{4-2} = 3$. Using $y - 1 = 3(x - 2)$ gives $y = 3x - 6 + 1 = 3x - 5$."
+        },
+        {
+          "topic": "Trigonometric identities",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "If $\\sin\\theta = \\dfrac{5}{13}$ and $\\theta$ is acute, what is $\\cos\\theta$?",
+          "options": ["$\\dfrac{5}{13}$", "$\\dfrac{12}{13}$", "$\\dfrac{13}{12}$", "$\\dfrac{8}{13}$"],
+          "answer": "1",
+          "explanation": "$\\cos^2\\theta = 1 - \\frac{25}{169} = \\frac{144}{169}$, so $\\cos\\theta = \\frac{12}{13}$ (positive since $\\theta$ is acute)."
+        },
+        {
+          "topic": "Exterior angle of a triangle",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An exterior angle of a triangle is $110^\\circ$, and one of the two opposite interior angles is $45^\\circ$. What is the other opposite interior angle?",
+          "options": ["$55^\\circ$", "$65^\\circ$", "$70^\\circ$", "$155^\\circ$"],
+          "answer": "1",
+          "explanation": "An exterior angle equals the sum of the two opposite interior angles: $110^\\circ - 45^\\circ = 65^\\circ$."
+        },
+        {
+          "topic": "Cylinder surface area",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Find the curved (lateral) surface area of a cylinder with radius 7 cm and height 10 cm (use $\\pi \\approx \\frac{22}{7}$).",
+          "options": ["$440 \\text{ cm}^2$", "$220 \\text{ cm}^2$", "$770 \\text{ cm}^2$", "$308 \\text{ cm}^2$"],
+          "answer": "0",
+          "explanation": "Curved surface area $= 2\\pi r h = 2 \\times \\frac{22}{7} \\times 7 \\times 10 = 2 \\times 22 \\times 10 = 440 \\text{ cm}^2$."
+        },
+        {
+          "topic": "Hemisphere volume",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Find the volume of a hemisphere with radius 3 cm (use $\\pi \\approx \\frac{22}{7}$).",
+          "options": ["$\\dfrac{396}{7} \\text{ cm}^3$", "$\\dfrac{792}{7} \\text{ cm}^3$", "$\\dfrac{198}{7} \\text{ cm}^3$", "$36 \\text{ cm}^3$"],
+          "answer": "0",
+          "explanation": "A hemisphere is half a sphere: $V = \\frac{1}{2} \\times \\frac{4}{3}\\pi r^3 = \\frac{2}{3} \\times \\frac{22}{7} \\times 27 = \\frac{2 \\times 22 \\times 9}{7} = \\frac{396}{7} \\text{ cm}^3$."
+        },
+        {
+          "topic": "Polynomial long division",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "When $2x^2 + 5x - 3$ is divided by $x + 3$, what is the quotient?",
+          "options": ["$2x - 1$", "$2x + 1$", "$2x - 3$", "$x - 1$"],
+          "answer": "0",
+          "explanation": "$2x^2 + 5x - 3 = (x + 3)(2x - 1)$ exactly, so the quotient is $2x - 1$ with remainder $0$."
+        },
+        {
+          "topic": "Compound interest growth",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A deposit of 4000 birr grows by 5% each year. Which expression gives the amount after $t$ years?",
+          "options": ["$4000 + 0.05t$", "$4000(1.05)^t$", "$4000(0.05)^t$", "$4000 \\cdot 5^t$"],
+          "answer": "1",
+          "explanation": "Growing by 5% means multiplying by $1.05$ each year, giving $4000(1.05)^t$."
+        },
+        {
+          "topic": "Systems of inequalities",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which point satisfies both $x + y \\leq 6$ and $x - y \\geq 0$?",
+          "options": ["$(5, 2)$", "$(4, 1)$", "$(2, 5)$", "$(7, 0)$"],
+          "answer": "1",
+          "explanation": "For $(4,1)$: $4 + 1 = 5 \\leq 6$ ✓ and $4 - 1 = 3 \\geq 0$ ✓. The others fail at least one inequality."
+        },
+        {
+          "topic": "Perpendicular line equation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A line passes through $(0, 4)$ and is perpendicular to $y = 2x + 1$. What is its equation?",
+          "options": ["$y = 2x + 4$", "$y = -\\dfrac{1}{2}x + 4$", "$y = -2x + 4$", "$y = \\dfrac{1}{2}x + 4$"],
+          "answer": "1",
+          "explanation": "The perpendicular slope is the negative reciprocal of $2$, which is $-\\frac{1}{2}$. With y-intercept $4$: $y = -\\frac{1}{2}x + 4$."
+        },
+        {
+          "topic": "Applications of trigonometry",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A 10 m ladder leans against a wall, making a $60^\\circ$ angle with the ground. How high up the wall does it reach? (Use $\\sin 60^\\circ \\approx 0.866$.)",
+          "options": ["$5.0 \\text{ m}$", "$8.66 \\text{ m}$", "$11.55 \\text{ m}$", "$10 \\text{ m}$"],
+          "answer": "1",
+          "explanation": "The height is the side opposite $60^\\circ$: $\\text{height} = 10 \\times \\sin 60^\\circ = 10 \\times 0.866 = 8.66 \\text{ m}$."
+        },
+        {
+          "topic": "Regular polygon interior angle",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "What is the measure of each interior angle of a regular pentagon (5 sides)?",
+          "options": ["$108^\\circ$", "$120^\\circ$", "$72^\\circ$", "$540^\\circ$"],
+          "answer": "0",
+          "explanation": "Sum $= (5-2) \\times 180^\\circ = 540^\\circ$; each interior angle $= \\frac{540^\\circ}{5} = 108^\\circ$."
+        },
+        {
+          "topic": "Composed solid volume",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A solid is a cylinder (radius 7 cm, height 10 cm) with a cone of the same radius and height 3 cm on top. What is the total volume? (Use $\\pi \\approx \\frac{22}{7}$.)",
+          "options": ["$1694 \\text{ cm}^3$", "$1540 \\text{ cm}^3$", "$1386 \\text{ cm}^3$", "$1848 \\text{ cm}^3$"],
+          "answer": "0",
+          "explanation": "Cylinder $= \\frac{22}{7} \\times 49 \\times 10 = 1540$; cone $= \\frac{1}{3} \\times \\frac{22}{7} \\times 49 \\times 3 = 154$. Total $= 1540 + 154 = 1694 \\text{ cm}^3$."
+        },
+        {
+          "topic": "Special quadrilaterals",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In which quadrilateral do the diagonals always cross at right angles and all sides are equal, but the angles need not be $90^\\circ$?",
+          "options": ["Rectangle", "Rhombus", "Trapezium", "Square"],
+          "answer": "1",
+          "explanation": "A rhombus has all sides equal and perpendicular diagonals, but its angles are not necessarily right angles (that would make it a square)."
+        },
+        {
+          "topic": "Tangent ratio application",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "From a point 40 m from a building, the angle of elevation to the top is $45^\\circ$. How tall is the building? (Use $\\tan 45^\\circ = 1$.)",
+          "options": ["$20 \\text{ m}$", "$40 \\text{ m}$", "$80 \\text{ m}$", "$56.6 \\text{ m}$"],
+          "answer": "1",
+          "explanation": "$\\tan 45^\\circ = \\frac{\\text{height}}{40}$, so height $= 40 \\times 1 = 40 \\text{ m}$."
+        },
+        {
+          "topic": "Degree of a product",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "If $f(x)$ has degree 5 and $g(x)$ has degree 2, what is the degree of $f(x) \\cdot g(x)$?",
+          "options": ["$10$", "$7$", "$5$", "$3$"],
+          "answer": "1",
+          "explanation": "When multiplying polynomials, add the degrees: $5 + 2 = 7$."
+        },
+        {
+          "topic": "Dividing a segment in a ratio",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Point $P$ divides the segment from $A(2, 1)$ to $B(8, 10)$ in the ratio $1:2$ (from $A$). What are the coordinates of $P$?",
+          "options": ["$(4, 4)$", "$(5, 5.5)$", "$(6, 7)$", "$(4, 3)$"],
+          "answer": "0",
+          "explanation": "Using the section formula $\\left(\\frac{m x_2 + n x_1}{m+n}, \\frac{m y_2 + n y_1}{m+n}\\right)$ with $m:n = 1:2$: $\\left(\\frac{1\\cdot 8 + 2\\cdot 2}{3}, \\frac{1\\cdot 10 + 2\\cdot 1}{3}\\right) = (4, 4)$."
+        },
+        {
+          "topic": "Cyclic quadrilateral",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a cyclic quadrilateral $ABCD$, angle $A = 95^\\circ$. What is the measure of the opposite angle $C$?",
+          "options": ["$95^\\circ$", "$85^\\circ$", "$105^\\circ$", "$265^\\circ$"],
+          "answer": "1",
+          "explanation": "Opposite angles of a cyclic quadrilateral are supplementary (sum to $180^\\circ$): $C = 180^\\circ - 95^\\circ = 85^\\circ$."
+        }
+      ]
+    }
+  ]
+}

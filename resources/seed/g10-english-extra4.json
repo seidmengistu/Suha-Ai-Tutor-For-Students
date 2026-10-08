@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Present simple and continuous",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence: 'Be quiet, please! The priest ______ in the church now.'",
+          "options": ["prays", "is praying", "pray", "praying"],
+          "answer": "1",
+          "explanation": "The word 'now' shows the action is happening at this moment, so we use the present continuous: 'is praying'."
+        },
+        {
+          "topic": "Vocabulary: culture",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What does the word 'hospitality' mean?",
+          "options": ["A long illness that needs a doctor.", "The friendly and generous treatment of guests and visitors.", "A building where people buy food.", "A loud argument between neighbours."],
+          "answer": "1",
+          "explanation": "'Hospitality' means treating guests and visitors in a friendly, welcoming, and generous way."
+        },
+        {
+          "topic": "Plural nouns",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct plural: 'The farmer keeps three ______ behind his house.'",
+          "options": ["sheeps", "sheep", "shoop", "sheepes"],
+          "answer": "1",
+          "explanation": "'Sheep' has the same form in the singular and the plural: one sheep, three sheep."
+        },
+        {
+          "topic": "Vocabulary: money",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What does 'borrow' mean?",
+          "options": ["To give money to someone for a short time.", "To take and use something that you will give back later.", "To buy something in a shop.", "To lose your money."],
+          "answer": "1",
+          "explanation": "'Borrow' means to take and use something (often money) that you will return later. 'Lend' is the opposite."
+        },
+        {
+          "topic": "Subject pronouns",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct pronoun: 'Selam and ______ walked to school together.'",
+          "options": ["me", "I", "him", "us"],
+          "answer": "1",
+          "explanation": "The pronoun is part of the subject doing the action, so we use the subject pronoun 'I': 'Selam and I walked'."
+        },
+        {
+          "topic": "Vocabulary: communication",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What does 'whisper' mean?",
+          "options": ["To shout very loudly.", "To write a letter.", "To laugh out loud.", "To speak very quietly."],
+          "answer": "3",
+          "explanation": "To 'whisper' is to speak very quietly, using your breath rather than your full voice."
+        },
+        {
+          "topic": "Used to",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence about a past habit that has now stopped.",
+          "options": ["My grandfather use to tell us stories every night.", "My grandfather used to tell us stories every night.", "My grandfather is used to tell us stories every night.", "My grandfather used to telling us stories every night."],
+          "answer": "1",
+          "explanation": "For a past habit that no longer happens we use 'used to' + base verb: 'used to tell'."
+        },
+        {
+          "topic": "So and such",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["It was so a hot day that we stayed indoors.", "It was such hot day that we stayed indoors.", "It was such a hot day that we stayed indoors.", "It was so hot a day that we stayed inside such."],
+          "answer": "2",
+          "explanation": "Before 'adjective + noun' we use 'such a': 'such a hot day'. 'So' is used with an adjective alone (so hot)."
+        },
+        {
+          "topic": "Comparatives",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence: 'The more you practise, ______ you become.'",
+          "options": ["the better", "better", "the best", "more good"],
+          "answer": "0",
+          "explanation": "In the 'the ... the ...' structure, the second part also takes 'the' + comparative: 'the more you practise, the better you become'."
+        },
+        {
+          "topic": "Future with 'going to'",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence about a plan: 'Look at those dark clouds! It ______ rain.'",
+          "options": ["is going to", "goes to", "will going to", "go to"],
+          "answer": "0",
+          "explanation": "We use 'be going to' for a prediction based on present evidence: 'It is going to rain.'"
+        },
+        {
+          "topic": "Collocations",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the verb that fits best: 'Every morning she ______ a decision about what to wear.'",
+          "options": ["does", "makes", "takes", "gives"],
+          "answer": "1",
+          "explanation": "The correct collocation is 'make a decision', not 'do' or 'take' a decision."
+        },
+        {
+          "topic": "Possessives",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["The childrens' books are on the shelf.", "The children's books are on the shelf.", "The childrens books are on the shelf.", "The childrens's books are on the shelf."],
+          "answer": "1",
+          "explanation": "'Children' is already plural, so we add apostrophe + s to show possession: 'the children's books'."
+        },
+        {
+          "topic": "Both, either, neither",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["Neither of the answers are correct.", "Neither of the answers is correct.", "Neither of the answers were correct.", "Neither of the answer is correct."],
+          "answer": "1",
+          "explanation": "'Neither' is treated as singular, so it takes the singular verb 'is': 'Neither of the answers is correct.'"
+        },
+        {
+          "topic": "Phrasal verbs",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What does 'turn down' mean in: 'They offered him the job, but he turned it down.'?",
+          "options": ["To accept happily.", "To turn the volume lower.", "To arrive late.", "To refuse or reject."],
+          "answer": "3",
+          "explanation": "Here 'turn down' means to refuse or reject an offer."
+        },
+        {
+          "topic": "Prepositions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct preposition: 'The result depends ______ how hard you work.'",
+          "options": ["from", "of", "on", "to"],
+          "answer": "2",
+          "explanation": "The fixed expression is 'depend on' something: 'depends on how hard you work'."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read: 'The road was so narrow that two cars could not pass at the same time.' What does 'narrow' mean?",
+          "options": ["Very wide.", "Small in width from one side to the other.", "Very long.", "Covered in mud."],
+          "answer": "1",
+          "explanation": "'Narrow' means small in width, which is why two cars could not pass each other."
+        },
+        {
+          "topic": "Countable and uncountable nouns",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["Could you give me an information about the bus times?", "Could you give me some information about the bus times?", "Could you give me informations about the bus times?", "Could you give me few information about the bus times?"],
+          "answer": "1",
+          "explanation": "'Information' is uncountable: it has no plural and takes no 'a/an'. We say 'some information'."
+        },
+        {
+          "topic": "Reported speech",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Change to reported speech: She said, 'I will travel to Gondar next week.'",
+          "options": ["She said that she will travel to Gondar next week.", "She said that she would travel to Gondar the following week.", "She said that she travelled to Gondar next week.", "She told that she would travel to Gondar the following week."],
+          "answer": "1",
+          "explanation": "'Will' steps back to 'would' and the time phrase 'next week' becomes 'the following week'."
+        },
+        {
+          "topic": "Reading comprehension: inference",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'Marta read the letter twice, then a wide smile spread across her face and she ran to tell her mother.' What can we infer about the news in the letter?",
+          "options": ["It was bad news that upset Marta.", "It was good news that made Marta happy.", "It was a bill she had to pay.", "It was a letter for her neighbour."],
+          "answer": "1",
+          "explanation": "Her wide smile and rushing to share it suggest the letter contained good, exciting news."
+        },
+        {
+          "topic": "Word formation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete with the correct word form: 'The medicine had no ______ on the patient's fever.'",
+          "options": ["affect", "effective", "effect", "effectively"],
+          "answer": "2",
+          "explanation": "After 'no' we need a noun. The noun is 'effect' (a result); 'affect' is a verb."
+        },
+        {
+          "topic": "Prefixes",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the word that means the opposite of 'patient'.",
+          "options": ["unpatient", "impatient", "dispatient", "nonpatient"],
+          "answer": "1",
+          "explanation": "The prefix 'im-' is added before words beginning with 'p' to make the opposite: 'impatient'."
+        },
+        {
+          "topic": "Synonyms",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the word closest in meaning to 'enormous'.",
+          "options": ["tiny", "empty", "narrow", "huge"],
+          "answer": "3",
+          "explanation": "'Enormous' means extremely large, so the closest synonym is 'huge'."
+        },
+        {
+          "topic": "Antonyms",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the word that is the opposite of 'ancient'.",
+          "options": ["old", "modern", "broken", "famous"],
+          "answer": "1",
+          "explanation": "'Ancient' means very old, so its opposite is 'modern' (new or of the present time)."
+        },
+        {
+          "topic": "Relative clauses",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct relative adverb: 'That is the village ______ my mother was born.'",
+          "options": ["which", "who", "whose", "where"],
+          "answer": "3",
+          "explanation": "We use 'where' to refer to a place: 'the village where my mother was born'."
+        },
+        {
+          "topic": "Gerunds and infinitives",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct form: 'I look forward to ______ you again soon.'",
+          "options": ["see", "seeing", "saw", "to see"],
+          "answer": "1",
+          "explanation": "In 'look forward to', the 'to' is a preposition, so it is followed by the gerund: 'seeing'."
+        },
+        {
+          "topic": "Conjunctions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct linking word: 'We took our umbrellas ______ it might rain.'",
+          "options": ["in case", "so that", "although", "unless"],
+          "answer": "0",
+          "explanation": "'In case' shows we prepared for a possible event (rain), which fits taking umbrellas as a precaution."
+        },
+        {
+          "topic": "Tense contrast",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence with the correct mix of tenses.",
+          "options": ["When she arrived, the meeting has already started.", "When she arrived, the meeting had already started.", "When she arrives, the meeting had already started.", "When she arrived, the meeting already starts."],
+          "answer": "1",
+          "explanation": "The meeting started before she arrived, so the earlier action uses the past perfect: 'had already started'."
+        },
+        {
+          "topic": "Subject-verb agreement",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["The number of students in the class are growing.", "The number of students in the class is growing.", "The number of students in the class were growing.", "The number of students in the class have grown."],
+          "answer": "1",
+          "explanation": "'The number of' is treated as singular, so it takes the singular verb 'is': 'The number ... is growing.'"
+        },
+        {
+          "topic": "Modal verbs of deduction",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the modal that shows a strong logical conclusion: 'He has been running for an hour, so he ______ be tired.'",
+          "options": ["can't", "must", "might not", "needn't"],
+          "answer": "1",
+          "explanation": "The evidence makes the speaker almost certain, so we use 'must' for a strong logical conclusion: 'he must be tired'."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'The two friends had a brief conversation before the bell rang.' What does 'brief' mean?",
+          "options": ["Very long.", "Lasting only a short time.", "Very loud.", "Full of anger."],
+          "answer": "1",
+          "explanation": "'Brief' means short in time, which fits a quick conversation before the bell rang."
+        },
+        {
+          "topic": "Reported speech (requests)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Report this request: 'Please open the window,' she said to him.",
+          "options": ["She asked him open the window.", "She asked him to open the window.", "She asked him that he opens the window.", "She said him to open the window."],
+          "answer": "1",
+          "explanation": "Requests are reported with 'asked' + person + 'to' + base verb: 'asked him to open the window'."
+        },
+        {
+          "topic": "Sentence transformation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence that keeps the same meaning as: 'She is the most talented singer in the choir.'",
+          "options": ["No other singer in the choir is as talented as she is.", "Every singer in the choir is more talented than she is.", "She is less talented than the other singers.", "Some singers in the choir are as talented as she is."],
+          "answer": "0",
+          "explanation": "Being 'the most talented' means no one else is as talented, so 'No other singer ... is as talented as she is' keeps the meaning."
+        },
+        {
+          "topic": "Passive voice",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the passive sentence that keeps the same meaning as: 'Someone must clean the classroom before the exam.'",
+          "options": ["The classroom must clean before the exam.", "The classroom must be cleaned before the exam.", "The classroom must been cleaned before the exam.", "The classroom must being cleaned before the exam."],
+          "answer": "1",
+          "explanation": "With a modal, the passive is 'modal + be + past participle': 'must be cleaned'."
+        },
+        {
+          "topic": "Conditionals",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence with NO error.",
+          "options": ["If I were you, I would apologise to her.", "If I was you, I will apologise to her.", "If I were you, I will apologise to her.", "If I am you, I would apologise to her."],
+          "answer": "0",
+          "explanation": "In the second conditional we use 'were' for all subjects after 'if', with 'would' + base verb: 'If I were you, I would apologise.'"
+        },
+        {
+          "topic": "Reading comprehension: main idea",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read: 'Walking to school costs nothing, keeps the body strong, and lets students chat with friends along the way. For these reasons, many families choose it over crowded buses.' What is the main idea?",
+          "options": ["Buses are faster than walking.", "Walking to school has several advantages.", "Students dislike talking to friends.", "Walking to school is expensive."],
+          "answer": "1",
+          "explanation": "The paragraph lists the benefits of walking to school and says families choose it, which is its main idea."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read: 'The manager was reluctant to change the plan at the last minute.' What does 'reluctant' mean?",
+          "options": ["Very eager and willing.", "Unwilling or hesitant.", "Extremely happy.", "Completely sure."],
+          "answer": "1",
+          "explanation": "'Reluctant' means unwilling or hesitant to do something, which fits not wanting a last-minute change."
+        }
+      ]
+    }
+  ]
+}

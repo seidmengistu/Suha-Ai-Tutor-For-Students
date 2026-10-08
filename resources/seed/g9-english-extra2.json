@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Question words",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: '______ shirt is yours, the blue one or the green one?'",
+          "options": ["Why", "Which", "When", "Who"],
+          "answer": "1",
+          "explanation": "'Which' asks the listener to choose between known options, here the blue or green shirt."
+        },
+        {
+          "topic": "Present simple spelling",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["My cousin fix old radios.", "My cousin fixes old radios.", "My cousin fixs old radios.", "My cousin fixing old radios."],
+          "answer": "1",
+          "explanation": "With 'he/she/it' a verb ending in -x adds -es: fix becomes fixes."
+        },
+        {
+          "topic": "Vocabulary: opposites",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which word is the opposite of 'ancient'?",
+          "options": ["old", "modern", "huge", "quiet"],
+          "answer": "1",
+          "explanation": "'Ancient' means very old, so its opposite is 'modern', meaning new or of the present time."
+        },
+        {
+          "topic": "Articles a/an",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: 'My brother wants to become ______ engineer.'",
+          "options": ["a", "an", "the", "some"],
+          "answer": "1",
+          "explanation": "We use 'an' before a word that begins with a vowel sound, and 'engineer' starts with a vowel sound."
+        },
+        {
+          "topic": "Plural nouns",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the correct plural of 'child'?",
+          "options": ["childs", "childes", "children", "childrens"],
+          "answer": "2",
+          "explanation": "'Child' has an irregular plural: 'children'."
+        },
+        {
+          "topic": "Vocabulary: hobbies",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A person who collects stamps as a hobby is called a ______.",
+          "options": ["traveller", "collector", "painter", "singer"],
+          "answer": "1",
+          "explanation": "Someone whose hobby is gathering things such as stamps is a 'collector'."
+        },
+        {
+          "topic": "Comparatives",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'The dry season in Ethiopia is much ______ than the rainy season.'",
+          "options": ["dry", "drier", "driest", "more dry"],
+          "answer": "1",
+          "explanation": "'Dry' ends in a consonant + y, so the comparative changes y to i and adds -er: drier."
+        },
+        {
+          "topic": "Prepositions of time",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'We have our English lesson ______ Monday morning.'",
+          "options": ["in", "at", "on", "to"],
+          "answer": "2",
+          "explanation": "We use 'on' with days of the week, including phrases like 'on Monday morning'."
+        },
+        {
+          "topic": "Gerund vs infinitive",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["She decided to join the drama club.", "She decided joining the drama club.", "She decided join the drama club.", "She decided joined the drama club."],
+          "answer": "0",
+          "explanation": "The verb 'decide' is followed by the infinitive with 'to': 'decided to join'."
+        },
+        {
+          "topic": "Quantifiers",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'There is very ______ water in the well during the dry season.'",
+          "options": ["few", "many", "little", "a few"],
+          "answer": "2",
+          "explanation": "Water is uncountable, so we use 'little' to mean a small amount."
+        },
+        {
+          "topic": "Simple past tense",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the past tense of 'buy'?",
+          "options": ["buyed", "bought", "buied", "buys"],
+          "answer": "1",
+          "explanation": "'Buy' is irregular; its simple past is 'bought'."
+        },
+        {
+          "topic": "Present continuous tense",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'Be quiet, please. The baby ______ at the moment.'",
+          "options": ["sleeps", "is sleeping", "sleep", "slept"],
+          "answer": "1",
+          "explanation": "'At the moment' shows an action happening now, so we use the present continuous: 'is sleeping'."
+        },
+        {
+          "topic": "Subject and object pronouns",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'The teacher gave the prize to Sara and ______.'",
+          "options": ["I", "me", "my", "mine"],
+          "answer": "1",
+          "explanation": "After the preposition 'to' we need the object pronoun 'me', not the subject pronoun 'I'."
+        },
+        {
+          "topic": "Future with will",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the sentence that makes a prediction about the future.",
+          "options": ["I think it will rain tomorrow.", "It rained yesterday.", "It is raining now.", "It rains every June."],
+          "answer": "0",
+          "explanation": "'Will' with 'I think' makes a prediction about the future: 'it will rain tomorrow'."
+        },
+        {
+          "topic": "Possessive apostrophe",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["The students books are on the desk.", "The student's books are on the desk.", "The students' books are on the desk.", "The students books' are on the desk."],
+          "answer": "2",
+          "explanation": "For a plural noun ending in -s, the possessive apostrophe goes after the s: 'the students' books'."
+        },
+        {
+          "topic": "Comparison with 'as ... as'",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'My new phone is not ______ expensive ______ yours.'",
+          "options": ["so / than", "as / as", "more / than", "as / than"],
+          "answer": "1",
+          "explanation": "To say two things are not equal in degree we use 'not as ... as': 'not as expensive as'."
+        },
+        {
+          "topic": "Conjunctions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'He studied very hard, ______ he passed the national exam.'",
+          "options": ["but", "so", "or", "although"],
+          "answer": "1",
+          "explanation": "'So' introduces a result; studying hard caused him to pass, so 'so' fits the meaning."
+        },
+        {
+          "topic": "Present perfect tense",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'I ______ never ______ to Lalibela, but I hope to go one day.'",
+          "options": ["have / been", "has / been", "did / go", "am / being"],
+          "answer": "0",
+          "explanation": "The present perfect uses 'have' + the past participle 'been' to talk about life experience up to now."
+        },
+        {
+          "topic": "Relative clauses",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["The man who repaired our roof is my uncle.", "The man which repaired our roof is my uncle.", "The man what repaired our roof is my uncle.", "The man whose repaired our roof is my uncle."],
+          "answer": "0",
+          "explanation": "We use the relative pronoun 'who' to refer to people: 'the man who repaired our roof'."
+        },
+        {
+          "topic": "Passive voice",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Change to the passive: 'Farmers grow teff in the highlands.'",
+          "options": ["Teff grows in the highlands by farmers.", "Teff is grown in the highlands by farmers.", "Teff was grown in the highlands by farmers.", "Teff has grown in the highlands by farmers."],
+          "answer": "1",
+          "explanation": "The present simple passive uses 'is/are' + past participle: 'Teff is grown by farmers.'"
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'The villagers were grateful for the new water pump and thanked the workers warmly.' What does 'grateful' mean here?",
+          "options": ["Angry", "Thankful", "Tired", "Curious"],
+          "answer": "1",
+          "explanation": "Because the villagers thanked the workers warmly, 'grateful' means feeling thankful."
+        },
+        {
+          "topic": "Adverbs of manner",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'The runner from Bekoji finished the race ______.'",
+          "options": ["quick", "quickly", "quicker than", "quickness"],
+          "answer": "1",
+          "explanation": "An adverb of manner describes how an action is done; 'quickly' modifies the verb 'finished'."
+        },
+        {
+          "topic": "Second conditional",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'If I ______ rich, I would build a library for my village.'",
+          "options": ["am", "was", "were", "will be"],
+          "answer": "2",
+          "explanation": "The second conditional uses the past 'were' for all subjects in the if-part of an imaginary situation."
+        },
+        {
+          "topic": "Word formation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete with the noun form: 'The students showed great ______ during the difficult test.' (patient)",
+          "options": ["patient", "patiently", "patience", "patientness"],
+          "answer": "2",
+          "explanation": "The noun formed from the adjective 'patient' is 'patience'."
+        },
+        {
+          "topic": "Reading comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'Even though the road was muddy and the rain was heavy, the nurse reached the clinic on time.' What does the passage suggest about the nurse?",
+          "options": ["She was lazy.", "She was determined.", "She was afraid.", "She was late."],
+          "answer": "1",
+          "explanation": "Reaching the clinic on time despite mud and heavy rain shows the nurse was determined."
+        },
+        {
+          "topic": "Reported speech",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Report: 'Where do you live?' the officer asked me.",
+          "options": ["The officer asked me where do I live.", "The officer asked me where I lived.", "The officer asked me where did I live.", "The officer asked me where I live?"],
+          "answer": "1",
+          "explanation": "In a reported question the word order becomes statement order and the verb backshifts: 'where I lived'."
+        },
+        {
+          "topic": "Tag questions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'You are coming to the meeting, ______?'",
+          "options": ["isn't it", "aren't you", "don't you", "won't you"],
+          "answer": "1",
+          "explanation": "A positive statement with 'you are' takes the negative tag 'aren't you'."
+        },
+        {
+          "topic": "Spelling and homophones",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correctly spelled sentence.",
+          "options": ["Their going to the market over they're.", "They're going to the market over there.", "There going to the market over their.", "They're going to the market over their."],
+          "answer": "1",
+          "explanation": "'They're' means 'they are' and 'there' shows place, so 'They're going ... over there' is correct."
+        },
+        {
+          "topic": "Modal verbs",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Complete: 'It's a school rule: students ______ arrive before 8 o'clock, and they ______ run in the corridors.'",
+          "options": ["must / mustn't", "mustn't / must", "don't have to / can", "needn't / should"],
+          "answer": "0",
+          "explanation": "'Must' shows the obligation to arrive on time, and 'mustn't' shows that running is forbidden."
+        },
+        {
+          "topic": "Present perfect vs simple past",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Complete: 'I ______ my homework an hour ago, so now I ______ free time.'",
+          "options": ["have finished / have", "finished / have", "finished / had", "finish / am having"],
+          "answer": "1",
+          "explanation": "'An hour ago' is a finished time, so we use the simple past 'finished'; the present state uses the simple 'have'."
+        },
+        {
+          "topic": "Conditionals contrast",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Complete: 'If the bus ______ on time, we ______ the train; but if it is late, we will miss it.'",
+          "options": ["will arrive / catch", "arrives / will catch", "arrive / will catch", "arrives / catch"],
+          "answer": "1",
+          "explanation": "The first conditional uses the present simple in the if-part (arrives) and 'will' in the result (will catch)."
+        },
+        {
+          "topic": "Reported speech",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Report: The farmer said, 'I planted my seeds yesterday.'",
+          "options": ["The farmer said that he planted his seeds yesterday.", "The farmer said that he had planted his seeds the day before.", "The farmer said that I had planted my seeds the day before.", "The farmer told that he planted his seeds yesterday."],
+          "answer": "1",
+          "explanation": "The simple past backshifts to the past perfect (had planted), 'I' becomes 'he', and 'yesterday' becomes 'the day before'."
+        },
+        {
+          "topic": "Subject-verb agreement",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["Each of the students have a book.", "Each of the students has a book.", "Each of the students have books.", "Each of the students are a book."],
+          "answer": "1",
+          "explanation": "'Each' is singular and takes a singular verb, so 'each of the students has' is correct."
+        },
+        {
+          "topic": "Passive voice",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete the passive sentence: 'The new bridge ______ last year by Chinese engineers.'",
+          "options": ["is built", "was built", "has built", "built"],
+          "answer": "1",
+          "explanation": "'Last year' is a finished past time, so the past simple passive 'was built' is correct."
+        },
+        {
+          "topic": "Word order and adjectives",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence with the correct adjective order.",
+          "options": ["She bought a cotton beautiful white dress.", "She bought a beautiful white cotton dress.", "She bought a white cotton beautiful dress.", "She bought a cotton white beautiful dress."],
+          "answer": "1",
+          "explanation": "Adjective order is opinion, then colour, then material: 'beautiful (opinion) white (colour) cotton (material) dress'."
+        },
+        {
+          "topic": "Linking words",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Complete: '______ the heavy traffic, the journalist arrived at the studio in time for the broadcast.'",
+          "options": ["Because of", "Despite", "So that", "Unless"],
+          "answer": "1",
+          "explanation": "'Despite' introduces a contrast, showing she arrived in time even with heavy traffic."
+        }
+      ]
+    }
+  ]
+}

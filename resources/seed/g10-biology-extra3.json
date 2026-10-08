@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "Yeast cell structure",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which part of a yeast cell shows that it is a fungus and not a bacterium?",
+          "options": [
+            "It has a true nucleus",
+            "It has a tail for swimming",
+            "It has green chlorophyll",
+            "It has no cell wall"
+          ],
+          "answer": "0",
+          "explanation": "Yeast has a true nucleus that holds its DNA, which makes it a fungus. Bacteria have no true nucleus."
+        },
+        {
+          "topic": "Useful product in tej",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which substance made by yeast gives tej its alcoholic effect?",
+          "options": [
+            "Lactic acid",
+            "Ethanol",
+            "Carbon dioxide",
+            "Starch"
+          ],
+          "answer": "1",
+          "explanation": "The wanted product in alcoholic drinks like tej is ethanol, made when yeast ferments sugar without oxygen."
+        },
+        {
+          "topic": "DNA full name",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What does the abbreviation DNA stand for?",
+          "options": [
+            "Double nuclear acid",
+            "Digestive nutrient acid",
+            "Deoxyribonucleic acid",
+            "Dividing natural acid"
+          ],
+          "answer": "2",
+          "explanation": "DNA stands for deoxyribonucleic acid, the chemical that carries the genetic instructions of living things."
+        },
+        {
+          "topic": "Job of the nervous system",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which body system uses the brain and nerves to sense and control the body quickly?",
+          "options": [
+            "The excretory system",
+            "The skeletal system",
+            "The nervous system",
+            "The digestive system"
+          ],
+          "answer": "2",
+          "explanation": "The nervous system, made of the brain and nerves, senses the surroundings and controls the body rapidly."
+        },
+        {
+          "topic": "Leaf surface for photosynthesis",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Why is a leaf usually broad and flat?",
+          "options": [
+            "To catch as much light as possible",
+            "To store large amounts of water",
+            "To keep insects away",
+            "To pump blood through the plant"
+          ],
+          "answer": "0",
+          "explanation": "A broad, flat leaf gives a large surface area to absorb the maximum amount of sunlight for photosynthesis."
+        },
+        {
+          "topic": "Wildlife as a resource",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Animals such as the Gelada baboon living wild in Ethiopia are an example of which natural resource?",
+          "options": [
+            "Coal",
+            "Topsoil",
+            "Natural gas",
+            "Wildlife"
+          ],
+          "answer": "3",
+          "explanation": "Wild animals are part of wildlife, a renewable natural resource that must be protected to keep biodiversity."
+        },
+        {
+          "topic": "Industrial fermentation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In a large factory, yeast is grown in big tanks to ferment sugar into ethanol fuel. Keeping oxygen out of the tank is important because it makes the yeast:",
+          "options": [
+            "Stop reproducing completely",
+            "Respire anaerobically and produce ethanol",
+            "Turn into bacteria",
+            "Release lactic acid instead"
+          ],
+          "answer": "1",
+          "explanation": "Without oxygen the yeast respires anaerobically (ferments), and this is the reaction that produces the wanted ethanol."
+        },
+        {
+          "topic": "Naming chromatids",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Before a cell divides, each chromosome is copied so it has two identical halves. What are these two halves called?",
+          "options": [
+            "Genes",
+            "Chromatids",
+            "Nuclei",
+            "Bases"
+          ],
+          "answer": "1",
+          "explanation": "After copying, each chromosome is made of two identical chromatids, which are later pulled apart during division."
+        },
+        {
+          "topic": "Matching a DNA strand",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "One strand of DNA has the base order A-C-G-T. What is the matching order of bases on the opposite strand?",
+          "options": [
+            "A-C-G-T",
+            "T-G-C-A",
+            "G-T-A-C",
+            "C-A-T-G"
+          ],
+          "answer": "1",
+          "explanation": "Using the rules A pairs with T and C pairs with G, the bases A-C-G-T pair with T-G-C-A."
+        },
+        {
+          "topic": "Autosomes",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Of the 23 pairs of chromosomes in a human cell, how many pairs are autosomes (not sex chromosomes)?",
+          "options": [
+            "23 pairs",
+            "22 pairs",
+            "1 pair",
+            "11 pairs"
+          ],
+          "answer": "1",
+          "explanation": "Of the 23 pairs, 22 pairs are autosomes and only 1 pair are the sex chromosomes (XX or XY)."
+        },
+        {
+          "topic": "Digestive system role",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the main job of the digestive system?",
+          "options": [
+            "To pump blood to the cells",
+            "To break food into small molecules the body can absorb",
+            "To remove urine from the blood",
+            "To take in oxygen from the air"
+          ],
+          "answer": "1",
+          "explanation": "The digestive system breaks large food into small soluble molecules, such as glucose, that can be absorbed into the blood."
+        },
+        {
+          "topic": "Hand washing and disease",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Washing hands with soap before eating helps prevent communicable disease mainly because it:",
+          "options": [
+            "Adds vitamins to the food",
+            "Makes the body produce insulin",
+            "Removes germs from the hands before they reach the mouth",
+            "Cools the body down"
+          ],
+          "answer": "2",
+          "explanation": "Many germs spread from dirty hands to the mouth. Washing with soap removes these germs and stops them being swallowed."
+        },
+        {
+          "topic": "Opening and closing stomata",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The small holes (stomata) in a leaf can open and close. This is useful to the plant because it lets the plant:",
+          "options": [
+            "Control gas exchange and water loss",
+            "Make chlorophyll faster",
+            "Grow new roots overnight",
+            "Change carbon dioxide into nitrogen"
+          ],
+          "answer": "0",
+          "explanation": "Opening and closing the stomata lets the plant take in carbon dioxide while controlling how much water vapour escapes."
+        },
+        {
+          "topic": "Temperature and photosynthesis",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Photosynthesis speeds up as the temperature rises, but only up to a point. Why does it slow down again if it gets too hot?",
+          "options": [
+            "There is suddenly too much light",
+            "Very high heat damages the parts of the cell that carry out the reaction",
+            "The plant runs out of chromosomes",
+            "Carbon dioxide turns into oxygen"
+          ],
+          "answer": "1",
+          "explanation": "Photosynthesis is controlled by delicate proteins (enzymes). Too much heat damages them, so the rate falls instead of rising."
+        },
+        {
+          "topic": "Pollution and water",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why is pollution of a river a serious problem for a community downstream?",
+          "options": [
+            "It makes the water unsafe to drink and harms living things",
+            "It adds useful minerals to the drinking water",
+            "It increases the number of fish",
+            "It turns the water into clean rain"
+          ],
+          "answer": "0",
+          "explanation": "Polluted water can carry harmful substances and germs, making it unsafe to drink and damaging the plants and animals that live in it."
+        },
+        {
+          "topic": "Storing extra glucose",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A green plant makes glucose during the day. If a leaf cell already has enough glucose for its needs, what does it often do with the extra?",
+          "options": [
+            "Release it as oxygen gas",
+            "Turn it into chlorophyll",
+            "Store it as starch",
+            "Send it back into the air as carbon dioxide"
+          ],
+          "answer": "2",
+          "explanation": "Extra glucose made in photosynthesis is changed into starch for storage, and can be turned back into glucose later when needed."
+        },
+        {
+          "topic": "Naming a body tissue",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Bone is made of many similar cells working together to support the body. At which level of organisation is bone best described?",
+          "options": [
+            "A single cell",
+            "A whole organ system",
+            "An organ on its own",
+            "A tissue"
+          ],
+          "answer": "3",
+          "explanation": "Bone is a tissue, a group of similar cells working together. Several tissues together (like in a limb) form organs and systems."
+        },
+        {
+          "topic": "Number of cells from meiosis",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When one cell completes meiosis, how many sex cells are produced?",
+          "options": [
+            "One",
+            "Two",
+            "Four",
+            "Eight"
+          ],
+          "answer": "2",
+          "explanation": "Meiosis divides twice and produces four sex cells, each with half the chromosome number. Mitosis, in contrast, produces only two cells."
+        },
+        {
+          "topic": "Why injera batter is left to stand",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Teff batter is left for about two days before cooking injera. What happens to the oxygen in the batter during this time?",
+          "options": [
+            "Oxygen is used up, so yeast switches from aerobic to anaerobic respiration",
+            "Oxygen is added so the yeast can make ethanol",
+            "Oxygen stays the same the whole time",
+            "Oxygen turns the batter into lactic acid"
+          ],
+          "answer": "0",
+          "explanation": "At first the yeast respires aerobically, but as oxygen runs out it switches to anaerobic respiration (fermentation), making the carbon dioxide that raises the batter."
+        },
+        {
+          "topic": "Restoring chromosome number",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A sperm with 23 chromosomes joins an egg with 23 chromosomes at fertilisation. How many chromosomes does the new cell (zygote) have?",
+          "options": [
+            "23",
+            "46",
+            "69",
+            "92"
+          ],
+          "answer": "1",
+          "explanation": "The two sex cells each carry 23 chromosomes, so fertilisation joins them to restore the full human number of 46."
+        },
+        {
+          "topic": "Mendel's pea plants",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Mendel chose pea plants for his experiments on inheritance. Why were pea plants a good choice?",
+          "options": [
+            "They have no genes to confuse the results",
+            "They show clear features such as tall or short and can be bred easily",
+            "They grow only in the dark",
+            "They reproduce by budding like yeast"
+          ],
+          "answer": "1",
+          "explanation": "Pea plants have clear, easily seen characteristics (like tall or short) and can be bred in a controlled way, so patterns of inheritance were easy to follow."
+        },
+        {
+          "topic": "Why meiosis halves chromosomes",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why is it important that sex cells are made by meiosis, which halves the chromosome number?",
+          "options": [
+            "So each sex cell has double the normal chromosomes",
+            "So the sex cells can repair wounds",
+            "So the chromosome number stays correct after fertilisation joins two sex cells",
+            "So the body grows taller"
+          ],
+          "answer": "2",
+          "explanation": "If sex cells kept the full number, fertilisation would double it each generation. Halving it in meiosis keeps the species' chromosome number constant."
+        },
+        {
+          "topic": "Breathing rate after exercise",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "After running, a student keeps breathing fast even while standing still. This deep, fast breathing mainly helps the body to:",
+          "options": [
+            "Take in extra oxygen and remove the extra carbon dioxide made by the muscles",
+            "Stop the heart from beating",
+            "Cool the food in the stomach",
+            "Make new red blood cells instantly"
+          ],
+          "answer": "0",
+          "explanation": "Hard exercise raises respiration in the muscles, so the body breathes faster to supply more oxygen and clear the extra carbon dioxide produced."
+        },
+        {
+          "topic": "Limewater test for carbon dioxide",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A student breathes out through a straw into clear limewater and it turns cloudy (milky). This shows that breathed-out air contains a lot of:",
+          "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Water only"
+          ],
+          "answer": "1",
+          "explanation": "Limewater turns cloudy in the presence of carbon dioxide. Breathed-out air is rich in carbon dioxide because it is a waste product of respiration."
+        },
+        {
+          "topic": "Direction of transport in plants",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a healthy plant, which statement correctly describes the direction substances move in the transport tubes?",
+          "options": [
+            "Xylem carries water upward; phloem can carry food both up and down",
+            "Both xylem and phloem carry water downward only",
+            "Xylem carries food up; phloem carries water down",
+            "Neither tube moves any substance"
+          ],
+          "answer": "0",
+          "explanation": "Xylem carries water and minerals upward from the roots, while phloem transports dissolved food from the leaves to wherever it is needed, up or down."
+        },
+        {
+          "topic": "Carbon dioxide source for a plant",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "When a candle burns inside a sealed jar with a healthy green plant in bright light, the plant can keep making food longer than in an empty jar. The best explanation is that:",
+          "options": [
+            "The burning candle releases carbon dioxide that the plant uses for photosynthesis",
+            "The candle gives the plant extra water",
+            "The flame replaces the plant's chlorophyll",
+            "The candle removes all oxygen the plant needs"
+          ],
+          "answer": "0",
+          "explanation": "Burning produces carbon dioxide, a raw material for photosynthesis. In the light the plant uses it, so it can keep making food longer."
+        },
+        {
+          "topic": "Bare ground and flooding",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Land stripped bare by overgrazing often suffers worse flooding after rain. Why does bare ground increase flooding compared with grassy land?",
+          "options": [
+            "Bare ground turns rain into oxygen",
+            "Rain runs off bare ground quickly instead of soaking in",
+            "Grass roots block all rainwater",
+            "Bare soil absorbs more water than plant-covered soil"
+          ],
+          "answer": "1",
+          "explanation": "Plant roots and cover help rain soak into the soil. On bare ground the rain runs straight off the surface, so more water rushes away and flooding increases."
+        },
+        {
+          "topic": "Distinguishing breeding from engineering",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A scientist takes a gene for drought resistance from one plant and inserts it directly into maize cells. How does this differ from selective breeding?",
+          "options": [
+            "It moves a single gene directly, instead of breeding whole organisms over many generations",
+            "It uses no genes at all",
+            "It is exactly the same as fermentation",
+            "It can only be done with animals, never plants"
+          ],
+          "answer": "0",
+          "explanation": "Genetic engineering moves a chosen gene directly into the organism, giving a fast, precise change, whereas selective breeding crosses whole organisms slowly over generations."
+        },
+        {
+          "topic": "Why white leaf areas make no starch",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a variegated (green-and-white) leaf tested for starch, only the green parts turn blue-black with iodine. The white parts stay brown because they:",
+          "options": [
+            "Have no chlorophyll, so they cannot photosynthesise",
+            "Get no water from the roots",
+            "Are too thin to hold iodine",
+            "Already contain too much starch"
+          ],
+          "answer": "0",
+          "explanation": "Only the green parts contain chlorophyll to trap light, so only they photosynthesise and make starch. The white parts make none and stay brown."
+        },
+        {
+          "topic": "Biogas and forest conservation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A rural family replaces firewood with a biogas stove fed by animal dung. Besides saving money, why is this also good for conservation?",
+          "options": [
+            "It reduces tree cutting for firewood, helping protect the forest",
+            "It uses up the family's drinking water",
+            "It releases far more carbon dioxide than burning wood ever could",
+            "It removes all bacteria from the soil"
+          ],
+          "answer": "0",
+          "explanation": "Using biogas means fewer trees are cut for firewood, which helps protect forests and the soil and wildlife that depend on them."
+        },
+        {
+          "topic": "Predicting the sex of offspring",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A father gives one of his two sex chromosomes to each child. Across very many children, roughly what proportion would be expected to be boys?",
+          "options": [
+            "About one quarter",
+            "About one half",
+            "All of them",
+            "None of them"
+          ],
+          "answer": "1",
+          "explanation": "The father's sperm is equally likely to carry an X (girl) or a Y (boy), so over many children about half are expected to be boys."
+        },
+        {
+          "topic": "Designing a fair photosynthesis test",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A student tests whether more light increases photosynthesis in a water plant by counting gas bubbles. To make the test fair, the student should change the light but keep:",
+          "options": [
+            "Both the light and the temperature different",
+            "Nothing the same",
+            "The temperature and the amount of plant the same",
+            "A different plant for every light level"
+          ],
+          "answer": "2",
+          "explanation": "In a fair test only one factor is changed at a time. Here only the light should change, while temperature and the plant are kept the same so they do not affect the result."
+        },
+        {
+          "topic": "Choosing the right cell division",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A lizard regrows a lost tail, making many new identical body cells. Which type of cell division builds the new tail, and why?",
+          "options": [
+            "Mitosis, because it makes identical cells for growth and repair",
+            "Meiosis, because it halves the chromosome number",
+            "Fermentation, because it needs no oxygen",
+            "Meiosis, because it makes four different cells"
+          ],
+          "answer": "0",
+          "explanation": "Repair and growth need new cells identical to the originals, which is done by mitosis. Meiosis is only for making sex cells."
+        },
+        {
+          "topic": "Treating water loss in illness",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A patient with severe diarrhoea loses a lot of body water and feels very weak. Giving clean water with salts and sugar helps most because it:",
+          "options": [
+            "Stops the heart from pumping",
+            "Replaces lost water and supplies glucose for the cells to use",
+            "Removes all bacteria from the gut instantly",
+            "Replaces the patient's chromosomes"
+          ],
+          "answer": "1",
+          "explanation": "Diarrhoea removes water and salts the body needs. A drink of clean water with salts and sugar restores the lost water and gives glucose for the cells to respire."
+        },
+        {
+          "topic": "Weighing conservation choices",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A district must decide how to use a hillside that is losing soil. Which plan best protects the soil while still letting farmers grow crops?",
+          "options": [
+            "Plough straight up and down the slope to drain it faster",
+            "Remove every plant so crops have no competition",
+            "Build terraces and plant trees along the slope, then farm the level steps",
+            "Let cattle graze the slope freely all year"
+          ],
+          "answer": "2",
+          "explanation": "Terracing and trees slow the runoff and hold the soil, so farmers can grow crops on the steps while erosion is reduced. The other options would worsen erosion."
+        },
+        {
+          "topic": "Traditional versus modern biotechnology",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Both making irgo at home and producing insulin in a factory are biotechnology. What is the key difference between them?",
+          "options": [
+            "Insulin production uses genetic engineering, while making irgo uses natural fermentation by bacteria",
+            "Making irgo uses no micro-organisms at all",
+            "Insulin production needs sunlight but irgo does not",
+            "They both move genes between organisms"
+          ],
+          "answer": "0",
+          "explanation": "Irgo is traditional biotechnology using natural lactic fermentation by bacteria, while insulin is modern biotechnology relying on genetic engineering to make bacteria produce a human protein."
+        }
+      ]
+    }
+  ]
+}

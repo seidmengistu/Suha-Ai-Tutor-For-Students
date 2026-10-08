@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 7,
+      "subjectKey": "general-science",
+      "questions": [
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which branch of natural science studies matter, energy, and how they interact?",
+          "options": ["Biology", "Physics", "Chemistry", "Geology"],
+          "answer": "1",
+          "explanation": "Physics is the study of matter and energy and their interactions, such as motion, force, heat, and light."
+        },
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which laboratory tool is used to measure the mass of an object?",
+          "options": ["Thermometer", "Beaker", "Triple-beam balance", "Test tube"],
+          "answer": "2",
+          "explanation": "A triple-beam balance is made to find the mass of an object. A beaker holds liquids and a thermometer measures temperature."
+        },
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A farmer in Tigray uses smoke and salt to keep meat from spoiling, a method passed down for generations. This kind of knowledge is best called:",
+          "options": ["Conventional science", "Indigenous science", "Technology", "A hypothesis"],
+          "answer": "1",
+          "explanation": "Indigenous science is knowledge that local people build up over a long time from living closely with nature, such as preserving meat with smoke and salt."
+        },
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A student needs to heat a liquid and then carefully move the hot container. Which pair of tools is most suitable?",
+          "options": ["Thermometer and clips", "Bunsen burner and tongs", "Graduated cylinder and mirror", "Petri dish and balance"],
+          "answer": "1",
+          "explanation": "A Bunsen burner provides the flame for heating, and tongs are used to safely carry or move a hot container without touching it."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In which state of matter do the particles stay packed closely together and only vibrate in place?",
+          "options": ["Gas", "Liquid", "Solid", "Vapour"],
+          "answer": "2",
+          "explanation": "In a solid, the particles are packed close together and vibrate in place, giving a solid a fixed shape and volume."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A cook wants to remove small stones from raw teff before washing it. Which separation method is most suitable?",
+          "options": ["Evaporation", "Hand picking", "Distillation", "Magnetic separation"],
+          "answer": "1",
+          "explanation": "Hand picking is used to remove large visible pieces, such as picking stones out of teff grain by hand."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Muddy river water is poured through filter paper. The mud stays on the paper and clear water passes through. Why does filtration work here?",
+          "options": ["The mud has dissolved in the water", "The mud is an insoluble solid that the paper traps", "The water turns into a new substance", "The mud evaporates through the paper"],
+          "answer": "1",
+          "explanation": "Filtration separates an insoluble solid from a liquid; the undissolved mud is trapped by the filter paper while the water passes through."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Air is made of nitrogen, oxygen, and other gases mixed together, and each gas keeps its own properties. Air is therefore an example of a:",
+          "options": ["Compound", "Pure element", "Mixture", "Single atom"],
+          "answer": "2",
+          "explanation": "Air is a mixture because its gases are mixed but not chemically joined, so each gas keeps its own properties."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "An element is a pure substance made of only one kind of:",
+          "options": ["Mixture", "Atom", "Compound", "Solution"],
+          "answer": "1",
+          "explanation": "An element is made of only one kind of atom and cannot be broken down into a simpler substance."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In the formula H₂SO₄ (sulfuric acid), how many oxygen atoms are present?",
+          "options": ["1", "2", "4", "7"],
+          "answer": "2",
+          "explanation": "The subscript 4 after the O means there are 4 oxygen atoms in one unit of H₂SO₄."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which is the correctly balanced equation for carbon burning in oxygen to form carbon dioxide?",
+          "options": ["C + O₂ → CO₂", "C + O → CO₂", "2C + O₂ → CO₂", "C + O₂ → 2CO₂"],
+          "answer": "0",
+          "explanation": "C + O₂ → CO₂ has 1 carbon atom and 2 oxygen atoms on both sides, so it is balanced and obeys the law of conservation of mass."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A student wants to balance H₂ + O₂ → H₂O but is unsure what she may change. What is the correct rule?",
+          "options": ["Change the small subscripts to make atoms equal", "Add only big numbers in front of the formulas", "Remove an element from one side", "Add a new element to balance it"],
+          "answer": "1",
+          "explanation": "To balance an equation you may only add coefficients (big numbers) in front of formulas. Changing subscripts would create a different substance."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which part of the cell controls what substances go into and out of the cell?",
+          "options": ["Nucleus", "Cell membrane", "Mitochondria", "Vacuole"],
+          "answer": "1",
+          "explanation": "The cell membrane is the thin outer skin that controls which substances enter and leave the cell."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An organism such as an amoeba that is made of only one cell is described as:",
+          "options": ["Multicellular", "Unicellular", "A tissue", "An organ"],
+          "answer": "1",
+          "explanation": "A unicellular organism is made of only one cell, such as bacteria or an amoeba."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Looking through a microscope, a student sees a cell with a cell membrane and nucleus but NO cell wall and NO chloroplasts. The cell is most likely:",
+          "options": ["A plant cell", "An animal cell", "A bacterial colony", "A chloroplast"],
+          "answer": "1",
+          "explanation": "Animal cells have a membrane and nucleus but lack a cell wall and chloroplasts, which are found only in plant cells."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Removing waste products that are made inside the body of a living thing is called:",
+          "options": ["Nutrition", "Excretion", "Growth", "Movement"],
+          "answer": "1",
+          "explanation": "Excretion is the removal of waste products made inside the body, one of the MRS GREN characteristics of living things."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In classifying living things, which group is the smallest, containing very similar organisms that can breed together?",
+          "options": ["Kingdom", "Phylum", "Class", "Species"],
+          "answer": "3",
+          "explanation": "The species is the smallest group in classification and contains very similar organisms that can breed together."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A gelada baboon in the Ethiopian highlands eats grass, moves about, and produces young. Based on how it gets food, it belongs to which kingdom?",
+          "options": ["Plantae", "Fungi", "Animalia", "Monera"],
+          "answer": "2",
+          "explanation": "The baboon eats other organisms for food and can move, which are features of Kingdom Animalia."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The hot centre of the Earth, made mostly of iron and nickel, is called the:",
+          "options": ["Crust", "Mantle", "Core", "Atmosphere"],
+          "answer": "2",
+          "explanation": "The core is the very hot centre of the Earth, made mostly of iron and nickel, with a liquid outer part and a solid inner part."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "All the water on Earth, including oceans, lakes, and rivers like the Abay (Blue Nile), makes up which part of the Earth system?",
+          "options": ["Lithosphere", "Atmosphere", "Hydrosphere", "Biosphere"],
+          "answer": "2",
+          "explanation": "The hydrosphere is all the water on Earth, including oceans, lakes, and rivers such as the Abay (Blue Nile)."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "It is daytime in Addis Ababa while it is night on the opposite side of the Earth at the same moment. Which Earth movement causes this?",
+          "options": ["Revolution around the Sun", "Rotation on its axis", "The tilt of the Moon", "The water cycle"],
+          "answer": "1",
+          "explanation": "Rotation, the spinning of the Earth on its axis about every 24 hours, causes day on the side facing the Sun and night on the side facing away."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The energy that a moving object has, such as flowing water or a running child, is called:",
+          "options": ["Potential energy", "Kinetic energy", "Chemical energy", "Sound energy"],
+          "answer": "1",
+          "explanation": "Kinetic energy is the energy of a moving object, such as flowing water or a running child."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A passenger sitting inside a moving bus is still compared to the bus but moving compared to a person standing on the road. This shows that motion always needs a:",
+          "options": ["Strong force", "Reference point", "Source of light", "Large mass"],
+          "answer": "1",
+          "explanation": "Whether something is moving depends on what it is compared to, so a fixed reference point is always needed to describe motion."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "At the Grand Ethiopian Renaissance Dam, stored water falls and turns turbines to make electricity. The main energy change is from:",
+          "options": ["Sound energy to light energy", "Potential energy to electrical energy", "Chemical energy to sound energy", "Light energy to chemical energy"],
+          "answer": "1",
+          "explanation": "The stored water has potential energy, which becomes kinetic energy as it falls and is then turned into electrical energy by the turbines."
+        }
+      ]
+    }
+  ]
+}

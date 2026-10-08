@@ -1,0 +1,1257 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "mathematics",
+      "chapters": [
+        {
+          "title": "Polynomial Functions",
+          "description": "Defining polynomials, doing arithmetic with them, finding their zeros, and sketching their graphs.",
+          "lessons": [
+            {
+              "title": "Understanding and Working with Polynomial Functions",
+              "summary": "Learn what a polynomial function is, identify its degree and coefficients, perform the four operations on polynomials, and understand how the leading term shapes the graph.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Why Polynomials Matter",
+                  "body": "Imagine an engineer at the **Grand Ethiopian Renaissance Dam** trying to predict how much water it holds each month. The water volume rises and falls in a smooth, curving way. A formula like `v(t) = 450 - 170t + 22t^2 - 0.6t^3` can model this. Formulas like this one are called **polynomial functions**.\n\nA **polynomial function** is built by adding together terms, where each term is a number multiplied by `x` raised to a whole-number power (like `x^2` or `x^3`). Their graphs are always smooth curves with no breaks or sharp corners, which is why they are so useful for modelling things that change gradually."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- **Define** a polynomial function and recognise one when you see it.\n- Identify the **degree**, **leading coefficient**, and **constant term**.\n- **Add**, **subtract**, and **multiply** polynomials, and **divide** them using long division.\n- Use the degree to predict the basic shape of the graph."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Definition and Key Parts",
+                  "body": "A **polynomial function** in the variable `x` has the form:\n\n`p(x) = aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀`\n\nwhere `n` is a whole number (0, 1, 2, ...) and the `a` values are real numbers with `aₙ ≠ 0`.\n\n- The **degree** is the highest power of `x`. *Why it matters:* the degree tells you the most basic information about the graph's shape and how many zeros to expect.\n- The **leading coefficient** is `aₙ`, the number in front of the highest power. *Why it matters:* together with the degree, it decides the **end behaviour** (where the graph goes as `x` becomes very large or very small).\n- The **constant term** is `a₀`, the term with no `x`. It is the value of `p(0)`.\n\n**What is NOT a polynomial?** An expression is not a polynomial if `x` appears with a **negative power** (like `x⁻²`), under a **root** (like `√x`), or in the **denominator** (like `1/x`). The reason is that polynomials must be defined for *every* real number `x`, and these forms break that rule (for example, `1/x` is undefined at `x = 0`).\n\nSpecial cases you already know: a **linear function** `ax + b` is a polynomial of degree 1, and a **quadratic function** `ax^2 + bx + c` is a polynomial of degree 2."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Dividing One Polynomial by Another",
+                  "body": "**Problem:** Divide `2x^3 - 3x^2 + 4x + 7` by `x - 2`.\n\nWe use **long division**, just like dividing numbers.\n\n**Step 1 — Divide the leading terms.** `2x^3 ÷ x = 2x^2`. Write `2x^2` in the quotient.\n\n**Step 2 — Multiply and subtract.** `2x^2 × (x - 2) = 2x^3 - 4x^2`. Subtract from the top:\n`(2x^3 - 3x^2) - (2x^3 - 4x^2) = x^2`. Bring down `+ 4x` to get `x^2 + 4x`.\n\n**Step 3 — Repeat.** `x^2 ÷ x = x`. Then `x × (x - 2) = x^2 - 2x`. Subtract:\n`(x^2 + 4x) - (x^2 - 2x) = 6x`. Bring down `+ 7` to get `6x + 7`.\n\n**Step 4 — Repeat again.** `6x ÷ x = 6`. Then `6 × (x - 2) = 6x - 12`. Subtract:\n`(6x + 7) - (6x - 12) = 19`.\n\nThe degree of the remainder (19, degree 0) is now less than the divisor, so we stop.\n\n**Answer:** quotient `= 2x^2 + x + 6`, remainder `= 19`. We can write:\n`(2x^3 - 3x^2 + 4x + 7) = (x - 2)(2x^2 + x + 6) + 19`."
+                },
+                {
+                  "type": "visual",
+                  "title": "How the Degree Shapes the Graph",
+                  "body": "Compare a degree-2 polynomial (`y = x^2`, a single U-shaped curve) with a degree-3 polynomial (`y = x^3`, which rises, levels, and rises again). Notice both are **smooth and unbroken**. Higher degree allows more 'turns' in the curve.",
+                  "visual": {
+                    "kind": "function-graph",
+                    "data": {
+                      "xLabel": "x",
+                      "yLabel": "y",
+                      "series": [
+                        {
+                          "label": "y=x^2",
+                          "points": [[-2, 4], [-1, 1], [0, 0], [1, 1], [2, 4]]
+                        },
+                        {
+                          "label": "y=x^3",
+                          "points": [[-2, -8], [-1, -1], [0, 0], [1, 1], [2, 8]]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Forgetting to change every sign when subtracting.** In `f(x) - g(x)`, the minus sign flips the sign of *every* term in `g(x)`, not just the first one.\n- **Calling `√x` or `1/x` a polynomial.** These are not polynomials because their domain is not all real numbers.\n- **Skipping missing terms in long division.** If a power is missing (e.g. no `x^2` term), insert it with a coefficient of `0`, like `0x^2`, to keep columns lined up.\n- **Adding exponents when adding terms.** `x^2 + x^2 = 2x^2`, NOT `x^4`. You only add exponents when *multiplying* (`x^2 · x^2 = x^4`)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **\"Lead = first\":** the **leading** coefficient is always the number in front of the term you write **first** (highest power).\n- **Long division rhyme:** *Divide, Multiply, Subtract, Bring down* — repeat. The first letters spell **DMSB** (\"Dad, Mum, Sister, Brother\").\n- **Degree of a product:** when you multiply two polynomials, just **add** their degrees. Degree 3 × degree 2 = degree 5."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. State the degree, leading coefficient, and constant term of `p(x) = 5 - 2x + 7x^4`.\n2. If `f(x) = x^3 + 2x` and `g(x) = x^3 - x - 1`, find `f(x) - g(x)`.\n3. Multiply `(x + 3)(x^2 - 2x + 1)`.\n4. Divide `x^3 - 1` by `x - 1`.\n\n**Answers:**\n1. Degree 4; leading coefficient 7; constant term 5.\n2. `3x + 1`.\n3. `x^3 + x^2 - 5x + 3`.\n4. Quotient `x^2 + x + 1`, remainder `0`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- A **polynomial function** is a sum of terms `aₙxⁿ`, with whole-number powers and a domain of all real numbers.\n- The **degree** is the highest power; the **leading coefficient** is its number; the **constant term** has no `x`.\n- Add/subtract by combining **like terms**; multiply each term by each term; divide using **long division** (DMSB).\n- Degree of `f · g` = (degree of `f`) + (degree of `g`).\n- Graphs of polynomials are always **smooth and continuous**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Polynomial function",
+                      "definition": "A function written as a sum of terms, where each term is a real number times x raised to a whole-number power."
+                    },
+                    {
+                      "term": "Degree",
+                      "definition": "The highest power of the variable in a polynomial."
+                    },
+                    {
+                      "term": "Leading coefficient",
+                      "definition": "The number multiplying the term with the highest power."
+                    },
+                    {
+                      "term": "Constant term",
+                      "definition": "The term that has no variable; equal to the value of the polynomial when x = 0."
+                    },
+                    {
+                      "term": "Like terms",
+                      "definition": "Terms with the same variable raised to the same power, which can be combined by adding coefficients."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What is the degree of a polynomial?",
+                  "back": "The highest power of the variable. For example, 7x^4 - 2x + 5 has degree 4."
+                },
+                {
+                  "front": "Which expressions are NOT polynomials?",
+                  "back": "Those with negative powers (x^-2), roots of x (√x), or x in the denominator (1/x), because their domain is not all real numbers."
+                },
+                {
+                  "front": "What is the degree of f · g?",
+                  "back": "The sum of the degrees of f and g. (degree 3) × (degree 2) = degree 5."
+                },
+                {
+                  "front": "The four steps of polynomial long division?",
+                  "back": "Divide, Multiply, Subtract, Bring down (DMSB) - repeat until the remainder's degree is less than the divisor's."
+                },
+                {
+                  "front": "What is the leading coefficient of -3x^5 + x^2 - 9?",
+                  "back": "-3 (the number in front of the highest power, x^5)."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Identifying polynomials",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of the following is a polynomial function?",
+              "options": ["f(x) = 3x^4 - 2x + 7", "f(x) = 1/x + 5", "f(x) = √x + 2", "f(x) = x^-3 + x"],
+              "answer": "0",
+              "explanation": "A polynomial has only whole-number powers of x. 1/x, √x, and x^-3 are not allowed because their domain is not all real numbers."
+            },
+            {
+              "topic": "Degree",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the degree of p(x) = 6x^3 - x^5 + 2x + 1?",
+              "options": ["3", "5", "1", "6"],
+              "answer": "1",
+              "explanation": "The degree is the highest power present. Here the highest power is x^5, so the degree is 5."
+            },
+            {
+              "topic": "Constant term",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the constant term of p(x) = 2x^4 + 3x^2 - 7x + 8?",
+              "options": ["2", "-7", "8", "3"],
+              "answer": "2",
+              "explanation": "The constant term is the term with no x, which is 8. It also equals p(0)."
+            },
+            {
+              "topic": "Subtraction of polynomials",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "If f(x) = x^3 - 5x^2 + 4 and g(x) = x^3 + 5x^2 + 4, what is f(x) - g(x)?",
+              "options": ["-10x^2", "2x^3 + 8", "10x^2", "-10x^2 + 8"],
+              "answer": "0",
+              "explanation": "Subtract term by term: (x^3 - x^3) + (-5x^2 - 5x^2) + (4 - 4) = -10x^2. Remember the minus sign flips every term of g."
+            },
+            {
+              "topic": "Multiplication and degree",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "If f has degree 4 and g has degree 3, what is the degree of the product f · g?",
+              "options": ["12", "7", "4", "1"],
+              "answer": "1",
+              "explanation": "When multiplying polynomials, add the degrees: 4 + 3 = 7."
+            },
+            {
+              "topic": "Polynomial division",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "When x^3 - 1 is divided by x - 1, what is the remainder?",
+              "options": ["1", "0", "-1", "x^2 + x + 1"],
+              "answer": "1",
+              "explanation": "x^3 - 1 = (x - 1)(x^2 + x + 1) exactly, so the remainder is 0. (You can also check using the value x = 1: 1^3 - 1 = 0.)"
+            }
+          ]
+        },
+        {
+          "title": "Exponential and Logarithmic Functions",
+          "description": "Working with exponents and logarithms, their graphs, and using them to model growth and decay.",
+          "lessons": [
+            {
+              "title": "Exponents, Logarithms, and Their Graphs",
+              "summary": "Understand the laws of exponents, the meaning of a logarithm as the inverse of an exponent, and how exponential and logarithmic functions appear in real-life growth and decay.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Money, Population, and Powers",
+                  "body": "Suppose you put 1,000 birr in a savings account that grows by 10% every year. After many years the amount does not just add the same number each time — it grows faster and faster. This kind of growth is described by an **exponential function**.\n\nThe reverse question — *\"how many years until my money doubles?\"* — is answered by a **logarithm**. Logarithms and exponents are two sides of the same coin, and together they help us understand population growth, interest, and even earthquakes."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Apply the **laws of exponents** confidently.\n- Convert between **exponential form** and **logarithmic form**.\n- Use the basic **laws of logarithms**.\n- Recognise the shapes of **exponential** and **logarithmic graphs** and how they relate."
+                },
+                {
+                  "type": "theory",
+                  "title": "Exponents and Logarithms Are Inverses",
+                  "body": "An **exponential function** has the form `f(x) = a^x`, where the base `a > 0` and `a ≠ 1`. The variable is in the *exponent*.\n\n**Laws of exponents** (for the same base `a`):\n- `a^m · a^n = a^(m+n)` (add powers when multiplying)\n- `a^m ÷ a^n = a^(m-n)` (subtract powers when dividing)\n- `(a^m)^n = a^(mn)` (multiply powers when raising a power to a power)\n- `a^0 = 1` and `a^(-n) = 1/a^n`\n\nA **logarithm** answers the question *\"to what power must I raise the base to get this number?\"* The key relationship is:\n\n`logₐ(b) = c` **means exactly the same as** `a^c = b`.\n\nFor example, `log₂(8) = 3` because `2^3 = 8`. *Why this matters:* the logarithm is the **inverse** of the exponential — it 'undoes' it. This is why their graphs are mirror images across the line `y = x`.\n\n**Laws of logarithms:**\n- `logₐ(xy) = logₐ(x) + logₐ(y)` (product becomes a sum)\n- `logₐ(x/y) = logₐ(x) - logₐ(y)` (quotient becomes a difference)\n- `logₐ(xⁿ) = n · logₐ(x)` (the power comes down to the front)\n\nTwo special bases: **base 10** (written `log`, the common logarithm) and **base e ≈ 2.718** (written `ln`, the natural logarithm)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Solving an Exponential Equation",
+                  "body": "**Problem:** Solve `2^(x+1) = 16`.\n\n**Step 1 — Write both sides with the same base.** Since `16 = 2^4`, rewrite the equation:\n`2^(x+1) = 2^4`.\n\n**Step 2 — Equate the exponents.** When the bases are equal, the exponents must be equal:\n`x + 1 = 4`.\n\n**Step 3 — Solve.** `x = 3`.\n\n**Check:** `2^(3+1) = 2^4 = 16`. Correct.\n\n---\n\n**A second example using logs:** Solve `log₂(x) = 5`.\nConvert to exponential form: `x = 2^5 = 32`."
+                },
+                {
+                  "type": "visual",
+                  "title": "Mirror Images Across y = x",
+                  "body": "The exponential curve `y = 2^x` always passes through `(0, 1)` and rises quickly. Its inverse, `y = log₂(x)`, passes through `(1, 0)` and rises slowly. Each is the reflection of the other across the line `y = x`.",
+                  "visual": {
+                    "kind": "function-graph",
+                    "data": {
+                      "xLabel": "x",
+                      "yLabel": "y",
+                      "series": [
+                        {
+                          "label": "y=2^x",
+                          "points": [[-2, 0.25], [-1, 0.5], [0, 1], [1, 2], [2, 4]]
+                        },
+                        {
+                          "label": "y=log2(x)",
+                          "points": [[0.25, -2], [0.5, -1], [1, 0], [2, 1], [4, 2]]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Thinking `log(x + y) = log x + log y`.** This is FALSE. The product law is about `log(xy)`, not `log(x + y)`.\n- **Multiplying powers when you should add.** `a^3 · a^2 = a^5` (add), not `a^6`.\n- **Forgetting the base restrictions.** For `a^x`, the base must be positive and not equal to 1. You cannot take the log of zero or a negative number.\n- **Mixing up the direction of conversion.** `logₐ(b) = c` ↔ `a^c = b`. The base stays the base; the answer of the log becomes the exponent."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **\"Log is the power\":** `logₐ(b)` literally asks *\"what power of a gives b?\"* The answer IS that power.\n- **Spin the triangle:** for `a^c = b`, picture moving in a circle — the base `a`, the exponent `c`, and the result `b` rotate into `logₐ(b) = c`.\n- **Product → Plus, Quotient → minus:** multiplication inside a log turns into **addition**; division turns into **subtraction**.\n- **Power drops down:** `log(xⁿ)` lets the `n` jump down to the front: `n log(x)`."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Simplify `x^5 · x^3`.\n2. Write `log₃(81) = 4` in exponential form, and verify it.\n3. Solve `3^x = 27`.\n4. Use a log law to expand `log(5x)`.\n\n**Answers:**\n1. `x^8`.\n2. `3^4 = 81`, and indeed 3 × 3 × 3 × 3 = 81. Correct.\n3. `x = 3`, since `27 = 3^3`.\n4. `log 5 + log x`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- An **exponential function** `a^x` has the variable in the exponent; base `a > 0`, `a ≠ 1`.\n- A **logarithm** is the inverse of an exponent: `logₐ(b) = c` ↔ `a^c = b`.\n- Exponent laws: add powers to multiply, subtract to divide, multiply to raise a power.\n- Log laws: product → sum, quotient → difference, power → coefficient.\n- The graphs of `a^x` and `logₐ(x)` are **mirror images** across `y = x`."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Exponential function",
+                      "definition": "A function of the form a^x where the base a is a positive constant not equal to 1 and the variable is the exponent."
+                    },
+                    {
+                      "term": "Logarithm",
+                      "definition": "The power to which a base must be raised to give a number; the inverse of an exponential."
+                    },
+                    {
+                      "term": "Base",
+                      "definition": "The fixed number that is raised to a power (in a^x) or used in a logarithm (in logₐ)."
+                    },
+                    {
+                      "term": "Common logarithm",
+                      "definition": "A logarithm with base 10, written simply as log."
+                    },
+                    {
+                      "term": "Natural logarithm",
+                      "definition": "A logarithm with base e (about 2.718), written as ln."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What does logₐ(b) = c mean?",
+                  "back": "It means a^c = b. A logarithm is the power you raise the base to in order to get the number."
+                },
+                {
+                  "front": "Law for a^m · a^n?",
+                  "back": "a^(m+n). Add the exponents when multiplying powers with the same base."
+                },
+                {
+                  "front": "What is log(xy) equal to?",
+                  "back": "log x + log y. A product inside a log becomes a sum of logs."
+                },
+                {
+                  "front": "What does ln mean?",
+                  "back": "The natural logarithm - a logarithm with base e (about 2.718)."
+                },
+                {
+                  "front": "Why are y = a^x and y = logₐ(x) mirror images?",
+                  "back": "Because the logarithm is the inverse of the exponential, so their graphs reflect across the line y = x."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Laws of exponents",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Simplify x^4 · x^6.",
+              "options": ["x^10", "x^24", "x^2", "x^46"],
+              "answer": "0",
+              "explanation": "When multiplying powers with the same base, add the exponents: 4 + 6 = 10, so x^10."
+            },
+            {
+              "topic": "Meaning of logarithm",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the value of log₂(8)?",
+              "options": ["2", "3", "4", "16"],
+              "answer": "1",
+              "explanation": "log₂(8) asks 'to what power must 2 be raised to get 8?' Since 2^3 = 8, the answer is 3."
+            },
+            {
+              "topic": "Converting forms",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which exponential equation is the same as log₅(25) = 2?",
+              "options": ["2^5 = 25", "5^2 = 25", "25^2 = 5", "5^25 = 2"],
+              "answer": "1",
+              "explanation": "logₐ(b) = c means a^c = b. Here a = 5, c = 2, b = 25, so 5^2 = 25."
+            },
+            {
+              "topic": "Laws of logarithms",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which statement is TRUE?",
+              "options": ["log(x + y) = log x + log y", "log(xy) = log x + log y", "log(xy) = log x · log y", "log(x/y) = log x / log y"],
+              "answer": "1",
+              "explanation": "The product law states log(xy) = log x + log y. A product inside the log becomes a sum; this does NOT work for log(x + y)."
+            },
+            {
+              "topic": "Solving exponential equations",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Solve 3^(x-1) = 81.",
+              "options": ["x = 3", "x = 4", "x = 5", "x = 27"],
+              "answer": "2",
+              "explanation": "Since 81 = 3^4, we have 3^(x-1) = 3^4, so x - 1 = 4, giving x = 5."
+            },
+            {
+              "topic": "Applications of logarithms",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A population doubles each year, starting at 500. Which expression gives the population after t years?",
+              "options": ["500 + 2t", "500 · 2^t", "500^t", "2 · 500t"],
+              "answer": "1",
+              "explanation": "Doubling each year is exponential growth: multiply by 2 every year, giving 500 · 2^t. Adding 2t would be linear, which is too slow."
+            }
+          ]
+        },
+        {
+          "title": "Solving Inequalities",
+          "description": "Solving inequalities with absolute values, systems of linear inequalities, and quadratic inequalities.",
+          "lessons": [
+            {
+              "title": "Absolute Value, Linear, and Quadratic Inequalities",
+              "summary": "Learn to solve inequalities involving absolute value, graph systems of linear inequalities, and solve quadratic inequalities using sign analysis.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "When 'Equals' Becomes 'At Least' or 'At Most'",
+                  "body": "Many real situations are not about exact values but about ranges. A bus must carry *at most* 50 passengers. A farmer needs *at least* 100 kg of fertiliser. A measurement must be *within* 2 mm of a target. These are all **inequalities** — statements using `<`, `>`, `≤`, or `≥` instead of `=`.\n\nIn this lesson we solve three important types: those with **absolute value**, **systems** of linear inequalities, and **quadratic** inequalities."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Solve **absolute value inequalities** like `|x| < a` and `|x| > a`.\n- Solve and **graph systems** of linear inequalities in two variables.\n- Solve **quadratic inequalities** using a sign chart or graph.\n- Remember the crucial rule about **flipping the inequality sign**."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Rules Behind Inequalities",
+                  "body": "**The most important rule:** when you multiply or divide both sides of an inequality by a **negative number**, you must **reverse** the inequality sign. *Why?* Multiplying by a negative flips the order of the number line. For example, `2 < 3` is true, but multiplying by `-1` gives `-2` and `-3`, and `-2 > -3`.\n\n**Absolute value** `|x|` means the distance of `x` from 0, so it is never negative. This gives two key patterns:\n- `|x| < a` (with `a > 0`) means `x` is *within* distance `a` of 0, so `-a < x < a`. (One connected interval.)\n- `|x| > a` means `x` is *farther* than `a` from 0, so `x < -a` **or** `x > a`. (Two separate pieces.)\n\n**Quadratic inequalities** like `x^2 - 5x + 6 > 0` are solved by first finding the **roots** (where it equals 0), then testing the sign of the expression in each region. A parabola opening upward is **positive outside** its roots and **negative between** them.\n\n**Systems of linear inequalities** are solved by graphing each inequality as a shaded half-plane; the **solution region** is where all the shadings overlap."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Solving a Quadratic Inequality",
+                  "body": "**Problem:** Solve `x^2 - 5x + 6 > 0`.\n\n**Step 1 — Find the roots.** Factor: `x^2 - 5x + 6 = (x - 2)(x - 3)`. The roots are `x = 2` and `x = 3`. These split the number line into three regions.\n\n**Step 2 — Test each region.** Pick a test value in each:\n- `x = 0` (left of 2): `(0-2)(0-3) = (-2)(-3) = 6 > 0`. ✔ Positive.\n- `x = 2.5` (between): `(0.5)(-0.5) = -0.25 < 0`. ✘ Negative.\n- `x = 4` (right of 3): `(2)(1) = 2 > 0`. ✔ Positive.\n\n**Step 3 — Choose the regions that match.** We want `> 0` (positive), so we take the outer regions.\n\n**Answer:** `x < 2` **or** `x > 3`. (Because the inequality is strict `>`, the points 2 and 3 are not included.)"
+                },
+                {
+                  "type": "visual",
+                  "title": "Picturing the Solution on a Number Line",
+                  "body": "For `x^2 - 5x + 6 > 0`, the solution is everything to the left of 2 and to the right of 3. The points 2 and 3 are open circles (not included). This matches the parabola being above the x-axis outside its roots.",
+                  "visual": {
+                    "kind": "number-line",
+                    "data": {
+                      "min": -1,
+                      "max": 6,
+                      "points": [
+                        {"value": 2, "label": "2", "filled": false},
+                        {"value": 3, "label": "3", "filled": false}
+                      ],
+                      "segments": [
+                        {"from": -1, "to": 2, "label": "x < 2"},
+                        {"from": 3, "to": 6, "label": "x > 3"}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Forgetting to flip the sign.** Dividing `-2x < 6` by `-2` gives `x > -3`, NOT `x < -3`.\n- **Writing `|x| > a` as a single interval.** It must be two pieces: `x < -a` OR `x > a`.\n- **Including endpoints when the inequality is strict.** Use open circles (○) for `<` and `>`, filled circles (●) for `≤` and `≥`.\n- **Forgetting `|x| < (negative)` has no solution.** Since `|x|` is never negative, `|x| < -3` can never be true."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **\"Less thAND, greatOR\":** `|x| < a` gives an **AND** (between), `|x| > a` gives an **OR** (outside). Read it as *less-th-AND* and *great-OR*.\n- **Flip on negative:** whenever a negative number multiplies or divides, the sign does a somersault.\n- **Parabola smile:** an upward parabola is happy (positive) on the outside and sad (negative) in the middle dip."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Solve `|x| < 4`.\n2. Solve `|x| ≥ 2`.\n3. Solve `-3x > 12`.\n4. Solve `(x - 1)(x + 2) < 0`.\n\n**Answers:**\n1. `-4 < x < 4`.\n2. `x ≤ -2` or `x ≥ 2`.\n3. `x < -4` (sign flipped because we divided by -3).\n4. `-2 < x < 1` (the inside region, since we want negative)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **Flip** the inequality sign when multiplying or dividing by a **negative**.\n- `|x| < a` → `-a < x < a` (AND). `|x| > a` → `x < -a` or `x > a` (OR).\n- For **quadratic inequalities**: find roots, test each region, pick the regions with the correct sign.\n- An upward parabola is **positive outside** its roots, **negative between** them.\n- **Systems** of linear inequalities are solved by the **overlap** of shaded half-planes."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Inequality",
+                      "definition": "A mathematical statement comparing two expressions using <, >, ≤, or ≥."
+                    },
+                    {
+                      "term": "Absolute value",
+                      "definition": "The distance of a number from zero, always zero or positive; written |x|."
+                    },
+                    {
+                      "term": "Quadratic inequality",
+                      "definition": "An inequality involving a degree-2 expression, such as ax^2 + bx + c > 0."
+                    },
+                    {
+                      "term": "Solution region",
+                      "definition": "The set of all points that satisfy an inequality (or all inequalities in a system)."
+                    },
+                    {
+                      "term": "Half-plane",
+                      "definition": "The region on one side of a line, representing the solution of a linear inequality in two variables."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "When do you flip an inequality sign?",
+                  "back": "When you multiply or divide both sides by a negative number."
+                },
+                {
+                  "front": "How do you write |x| < a as a solution?",
+                  "back": "-a < x < a (one interval, an AND statement), valid when a > 0."
+                },
+                {
+                  "front": "How do you write |x| > a as a solution?",
+                  "back": "x < -a OR x > a (two separate pieces)."
+                },
+                {
+                  "front": "Where is an upward parabola positive?",
+                  "back": "Outside its two roots; it is negative between the roots."
+                },
+                {
+                  "front": "Does |x| < -3 have any solution?",
+                  "back": "No. Absolute value is never negative, so it can never be less than a negative number."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Flipping the sign",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Solve -2x > 8.",
+              "options": ["x > 4", "x < -4", "x > -4", "x < 4"],
+              "answer": "1",
+              "explanation": "Divide both sides by -2 and flip the sign: x < -4."
+            },
+            {
+              "topic": "Absolute value inequalities",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the solution of |x| < 5?",
+              "options": ["x < 5", "-5 < x < 5", "x < -5 or x > 5", "x > 5"],
+              "answer": "1",
+              "explanation": "|x| < 5 means x is within 5 units of zero, so -5 < x < 5."
+            },
+            {
+              "topic": "Absolute value inequalities",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the solution of |x| ≥ 3?",
+              "options": ["-3 ≤ x ≤ 3", "x ≤ -3 or x ≥ 3", "x ≥ 3", "x ≤ 3"],
+              "answer": "1",
+              "explanation": "|x| ≥ 3 means x is at least 3 units from zero, so x ≤ -3 or x ≥ 3 (two pieces, including endpoints)."
+            },
+            {
+              "topic": "Quadratic inequalities",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Solve (x - 2)(x - 4) < 0.",
+              "options": ["x < 2 or x > 4", "2 < x < 4", "x < 2", "x > 4"],
+              "answer": "1",
+              "explanation": "The expression is negative between its roots. Testing x = 3 gives (1)(-1) = -1 < 0, so the solution is 2 < x < 4."
+            },
+            {
+              "topic": "No-solution cases",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Which inequality has NO solution?",
+              "options": ["|x| > -1", "|x| < -2", "|x| ≥ 0", "|x| < 5"],
+              "answer": "1",
+              "explanation": "|x| is never negative, so |x| < -2 can never be true. (Note |x| > -1 is always true, and |x| ≥ 0 is always true.)"
+            },
+            {
+              "topic": "Quadratic inequalities",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Solve x^2 - 9 ≥ 0.",
+              "options": ["-3 ≤ x ≤ 3", "x ≤ -3 or x ≥ 3", "x ≥ 3 only", "-3 < x < 3"],
+              "answer": "1",
+              "explanation": "x^2 - 9 = (x - 3)(x + 3). The parabola opens upward, so it is ≥ 0 outside the roots: x ≤ -3 or x ≥ 3 (endpoints included because of ≥)."
+            }
+          ]
+        },
+        {
+          "title": "Coordinate Geometry",
+          "description": "Using coordinates to find distances, divide line segments, and write equations of lines.",
+          "lessons": [
+            {
+              "title": "Distance, Division of Segments, and Equations of Lines",
+              "summary": "Learn the distance formula, how to find a point that divides a segment in a given ratio, the midpoint formula, and how to write the equation of a line including parallel and perpendicular cases.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Maps, Roads, and Coordinates",
+                  "body": "When a city like **Addis Ababa** is planned, engineers place points on a grid and measure exact distances between them. The grid they use is the **coordinate plane**, where every point has an address `(x, y)`.\n\nWith coordinates we can answer practical questions: *How far apart are two places? What is the point exactly halfway between them? What is the equation of the straight road joining them?* This lesson gives you the tools."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Use the **distance formula** between two points.\n- Find the **midpoint** and divide a segment in a given **ratio**.\n- Write the **equation of a line** using slope and a point.\n- Identify **parallel** and **perpendicular** lines from their slopes."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Core Formulas",
+                  "body": "For two points `A(x₁, y₁)` and `B(x₂, y₂)`:\n\n**Distance formula:** `d = √[(x₂ - x₁)² + (y₂ - y₁)²]`. *Why it works:* it is just the **Pythagorean theorem**. The horizontal gap and the vertical gap form the two legs of a right triangle, and the distance is the hypotenuse.\n\n**Midpoint formula:** `M = ((x₁ + x₂)/2, (y₁ + y₂)/2)`. You simply average the x's and average the y's.\n\n**Slope (gradient):** `m = (y₂ - y₁)/(x₂ - x₁)`. This measures steepness — the rise divided by the run.\n\n**Equation of a line** (point-slope form): `y - y₁ = m(x - x₁)`. This can be rearranged into **slope-intercept form** `y = mx + b`, where `b` is where the line crosses the y-axis.\n\n**Parallel and perpendicular:**\n- **Parallel** lines have **equal slopes**: `m₁ = m₂`.\n- **Perpendicular** lines have slopes whose **product is -1**: `m₁ · m₂ = -1` (one slope is the negative reciprocal of the other). *Why:* turning a line by 90° flips and negates its steepness."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Distance and Equation of a Line",
+                  "body": "**Problem:** Given `A(1, 2)` and `B(4, 6)`, find (a) the distance `AB`, and (b) the equation of the line through them.\n\n**(a) Distance.**\n- Horizontal gap: `x₂ - x₁ = 4 - 1 = 3`.\n- Vertical gap: `y₂ - y₁ = 6 - 2 = 4`.\n- `d = √(3² + 4²) = √(9 + 16) = √25 = 5`.\n\nSo `AB = 5` units.\n\n**(b) Equation of the line.**\n- Slope: `m = (6 - 2)/(4 - 1) = 4/3`.\n- Use point-slope with point `A(1, 2)`: `y - 2 = (4/3)(x - 1)`.\n- Multiply out: `y - 2 = (4/3)x - 4/3`, so `y = (4/3)x + 2/3`.\n\n**Check:** put `x = 4`: `y = (4/3)(4) + 2/3 = 16/3 + 2/3 = 18/3 = 6`. ✔ This matches point B."
+                },
+                {
+                  "type": "visual",
+                  "title": "Two Points and the Line Through Them",
+                  "body": "Points A(1, 2) and B(4, 6) lie on a straight line with slope 4/3. The horizontal run of 3 and vertical rise of 4 form a 3-4-5 right triangle, which is why the distance is exactly 5.",
+                  "visual": {
+                    "kind": "coordinate-plane",
+                    "data": {
+                      "xLabel": "x",
+                      "yLabel": "y",
+                      "points": [
+                        {"x": 1, "y": 2, "label": "A(1,2)"},
+                        {"x": 4, "y": 6, "label": "B(4,6)"}
+                      ],
+                      "lines": [
+                        {"from": [1, 2], "to": [4, 6], "label": "y=(4/3)x+2/3"}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Mixing up the order in slope.** `m = (y₂ - y₁)/(x₂ - x₁)`. The y's go on top, and you must keep the points in the same order on both top and bottom.\n- **Forgetting the square root in the distance formula.** The formula gives `d²` inside; you must take the square root at the end.\n- **Using the wrong perpendicular rule.** Perpendicular slopes multiply to **-1**, they are not just opposite signs. The slope perpendicular to `2` is `-1/2`, not `-2`.\n- **Adding instead of subtracting coordinates.** The distance uses differences `(x₂ - x₁)`, while the midpoint uses sums divided by 2."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Distance = Pythagoras:** if you forget the formula, just draw the right triangle and use `a² + b² = c²`.\n- **Slope = rise over run:** how much it goes **up** divided by how much it goes **across**.\n- **Midpoint = average:** add and halve, for both x and y.\n- **Perpendicular = flip and negate:** turn the slope upside down and change its sign (2 → -1/2)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Find the distance between `(0, 0)` and `(6, 8)`.\n2. Find the midpoint of `(2, 4)` and `(8, 10)`.\n3. Find the slope of the line through `(1, 1)` and `(3, 7)`.\n4. What is the slope of any line perpendicular to a line with slope 5?\n\n**Answers:**\n1. `√(36 + 64) = √100 = 10`.\n2. `((2+8)/2, (4+10)/2) = (5, 7)`.\n3. `(7 - 1)/(3 - 1) = 6/2 = 3`.\n4. `-1/5` (negative reciprocal)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **Distance:** `√[(x₂-x₁)² + (y₂-y₁)²]` — comes from the Pythagorean theorem.\n- **Midpoint:** average the x's and the y's.\n- **Slope:** `(y₂-y₁)/(x₂-x₁)` = rise over run.\n- **Line equation:** `y - y₁ = m(x - x₁)`.\n- **Parallel:** equal slopes. **Perpendicular:** slopes multiply to -1."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Coordinate plane",
+                      "definition": "A flat surface with an x-axis and y-axis where every point has an address (x, y)."
+                    },
+                    {
+                      "term": "Distance formula",
+                      "definition": "A formula based on the Pythagorean theorem that gives the straight-line distance between two points."
+                    },
+                    {
+                      "term": "Midpoint",
+                      "definition": "The point exactly halfway between two points, found by averaging their coordinates."
+                    },
+                    {
+                      "term": "Slope (gradient)",
+                      "definition": "A measure of the steepness of a line, equal to the rise divided by the run."
+                    },
+                    {
+                      "term": "Perpendicular lines",
+                      "definition": "Two lines that meet at a right angle; their slopes multiply to -1."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What is the distance formula?",
+                  "back": "d = √[(x₂ - x₁)² + (y₂ - y₁)²], which comes from the Pythagorean theorem."
+                },
+                {
+                  "front": "How do you find a midpoint?",
+                  "back": "Average the coordinates: M = ((x₁ + x₂)/2, (y₁ + y₂)/2)."
+                },
+                {
+                  "front": "What is the slope formula?",
+                  "back": "m = (y₂ - y₁)/(x₂ - x₁), which is rise over run."
+                },
+                {
+                  "front": "What is true about the slopes of perpendicular lines?",
+                  "back": "Their product is -1; each is the negative reciprocal of the other (e.g. 2 and -1/2)."
+                },
+                {
+                  "front": "What is the point-slope form of a line?",
+                  "back": "y - y₁ = m(x - x₁), using the slope m and a known point (x₁, y₁)."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Distance formula",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Find the distance between (0, 0) and (3, 4).",
+              "options": ["5", "7", "12", "25"],
+              "answer": "0",
+              "explanation": "d = √(3² + 4²) = √(9 + 16) = √25 = 5."
+            },
+            {
+              "topic": "Midpoint",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the midpoint of (2, 6) and (8, 2)?",
+              "options": ["(10, 8)", "(5, 4)", "(6, 4)", "(3, 2)"],
+              "answer": "1",
+              "explanation": "Average each coordinate: ((2+8)/2, (6+2)/2) = (5, 4)."
+            },
+            {
+              "topic": "Slope",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Find the slope of the line through (1, 2) and (5, 10).",
+              "options": ["2", "1/2", "4", "8"],
+              "answer": "0",
+              "explanation": "m = (10 - 2)/(5 - 1) = 8/4 = 2."
+            },
+            {
+              "topic": "Parallel lines",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A line has slope 3. What is the slope of a line parallel to it?",
+              "options": ["-1/3", "3", "-3", "1/3"],
+              "answer": "1",
+              "explanation": "Parallel lines have equal slopes, so the slope is also 3."
+            },
+            {
+              "topic": "Perpendicular lines",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "What is the slope of a line perpendicular to a line with slope 2/3?",
+              "options": ["2/3", "-2/3", "-3/2", "3/2"],
+              "answer": "2",
+              "explanation": "Perpendicular slopes multiply to -1, so the slope is the negative reciprocal: -3/2."
+            },
+            {
+              "topic": "Equation of a line",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which is the equation of the line with slope 2 passing through the point (1, 3)?",
+              "options": ["y = 2x + 1", "y = 2x + 3", "y = 2x - 1", "y = 3x + 2"],
+              "answer": "0",
+              "explanation": "Using y - y₁ = m(x - x₁): y - 3 = 2(x - 1), so y = 2x - 2 + 3 = 2x + 1."
+            }
+          ]
+        },
+        {
+          "title": "Trigonometric Functions",
+          "description": "The basic trigonometric ratios, their reciprocals, simple identities, and real-life applications.",
+          "lessons": [
+            {
+              "title": "Trigonometric Ratios, Reciprocals, and Identities",
+              "summary": "Understand sine, cosine, and tangent in right triangles, their reciprocal functions, the basic trigonometric identities, and how to use them to solve height and distance problems.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Measuring the Unreachable",
+                  "body": "How tall is a flagpole you cannot climb? How wide is the **Blue Nile** at a point you cannot cross? **Trigonometry** lets us answer these by measuring angles and one distance, then calculating the rest.\n\nTrigonometry studies the relationships between the **angles** and **sides** of triangles. The three basic ratios — **sine**, **cosine**, and **tangent** — are the foundation of all of it."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **sine, cosine, and tangent** using a right triangle.\n- Use the **reciprocal functions** cosecant, secant, and cotangent.\n- Apply the basic **identities**, especially `sin²θ + cos²θ = 1`.\n- Solve simple **real-life problems** involving heights and distances."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Ratios and Why They Are Constant",
+                  "body": "In a right triangle, label the sides relative to an angle `θ`: the **opposite** side (across from `θ`), the **adjacent** side (next to `θ`), and the **hypotenuse** (the longest side, opposite the right angle).\n\nThe three basic ratios are:\n- `sin θ = opposite / hypotenuse`\n- `cos θ = adjacent / hypotenuse`\n- `tan θ = opposite / adjacent`\n\n*Why are these useful?* For a given angle, these ratios are **always the same**, no matter how big the triangle is. This is because all right triangles with the same angle are **similar** (same shape, scaled differently). So once you know the angle, you know the ratios.\n\n**Reciprocal functions** simply flip each ratio:\n- `cosec θ = 1 / sin θ`\n- `sec θ = 1 / cos θ`\n- `cot θ = 1 / tan θ`\n\n**The most important identity:** `sin²θ + cos²θ = 1`. *Why?* It comes straight from the **Pythagorean theorem** applied to the triangle. Another useful one: `tan θ = sin θ / cos θ`."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Finding the Height of a Pole",
+                  "body": "**Problem:** A person stands 20 metres from the base of a flagpole. The angle of elevation to the top is 30°. How tall is the pole? (Use `tan 30° ≈ 0.577`.)\n\n**Step 1 — Identify the sides.** The pole's height is the side **opposite** the 30° angle. The 20 m distance is the side **adjacent** to it.\n\n**Step 2 — Choose the right ratio.** Opposite and adjacent are linked by **tangent**:\n`tan 30° = opposite / adjacent = height / 20`.\n\n**Step 3 — Solve for the height.**\n`height = 20 × tan 30° = 20 × 0.577 ≈ 11.5` metres.\n\n**Answer:** the flagpole is about **11.5 metres** tall.\n\n*Check it makes sense:* 30° is a fairly small angle, so the height should be less than the distance (20 m). 11.5 m < 20 m. ✔"
+                },
+                {
+                  "type": "visual",
+                  "title": "The Right Triangle of the Problem",
+                  "body": "The flagpole problem forms a right triangle: the ground (adjacent = 20 m), the pole (opposite = height), and the line of sight (hypotenuse) at a 30° angle of elevation.",
+                  "visual": {
+                    "kind": "geometry",
+                    "data": {
+                      "shape": "right-triangle",
+                      "vertices": [
+                        {"x": 0, "y": 0, "label": "Observer"},
+                        {"x": 20, "y": 0, "label": "Base"},
+                        {"x": 20, "y": 11.5, "label": "Top"}
+                      ],
+                      "labels": [
+                        {"text": "adjacent = 20 m", "position": "bottom"},
+                        {"text": "opposite = height", "position": "right"},
+                        {"text": "30°", "position": "Observer"}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Picking the wrong ratio.** Decide which two sides you have (opposite, adjacent, hypotenuse), then choose the ratio that uses exactly those two.\n- **Calculator in the wrong mode.** Make sure it is in **degrees** mode, not radians, for angle problems like these.\n- **Confusing opposite and adjacent.** 'Opposite' is across from the angle; 'adjacent' is the non-hypotenuse side touching the angle.\n- **Thinking `sin²θ` means `sin(θ²)`.** It actually means `(sin θ)²`, the whole ratio squared."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **SOH-CAH-TOA:** **S**in = **O**pp/**H**yp, **C**os = **A**dj/**H**yp, **T**an = **O**pp/**A**dj. Say it as one word: *soh-cah-toa*.\n- **Reciprocals cross over:** sec goes with cos (not 'se' with 'si'!), and cosec goes with sin. The third letter gives it away (se**c** ↔ **c**os).\n- **The big identity:** `sin² + cos² = 1` is just Pythagoras wearing a trig costume."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. In a right triangle, the opposite side is 3 and the hypotenuse is 5. Find `sin θ`.\n2. If `cos θ = 4/5`, find `sec θ`.\n3. If `sin θ = 0.6`, use the identity to find `cos²θ`.\n4. A ladder leans at 60° to the ground and reaches 6 m up a wall. Using `sin 60° ≈ 0.866`, find the ladder's length.\n\n**Answers:**\n1. `sin θ = 3/5 = 0.6`.\n2. `sec θ = 1/cos θ = 5/4 = 1.25`.\n3. `cos²θ = 1 - sin²θ = 1 - 0.36 = 0.64`.\n4. `sin 60° = 6/length`, so `length = 6/0.866 ≈ 6.93` m."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **SOH-CAH-TOA:** sin = opp/hyp, cos = adj/hyp, tan = opp/adj.\n- The ratios depend only on the **angle**, because such triangles are **similar**.\n- **Reciprocals:** cosec = 1/sin, sec = 1/cos, cot = 1/tan.\n- The key identity is `sin²θ + cos²θ = 1` (from Pythagoras), and `tan θ = sin θ / cos θ`.\n- To solve height/distance problems: label the sides, pick the matching ratio, then solve."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Sine (sin)",
+                      "definition": "In a right triangle, the ratio of the opposite side to the hypotenuse."
+                    },
+                    {
+                      "term": "Cosine (cos)",
+                      "definition": "In a right triangle, the ratio of the adjacent side to the hypotenuse."
+                    },
+                    {
+                      "term": "Tangent (tan)",
+                      "definition": "In a right triangle, the ratio of the opposite side to the adjacent side."
+                    },
+                    {
+                      "term": "Hypotenuse",
+                      "definition": "The longest side of a right triangle, opposite the right angle."
+                    },
+                    {
+                      "term": "Angle of elevation",
+                      "definition": "The angle measured upward from the horizontal to a line of sight."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What does SOH-CAH-TOA stand for?",
+                  "back": "Sin = Opp/Hyp, Cos = Adj/Hyp, Tan = Opp/Adj."
+                },
+                {
+                  "front": "What is the main Pythagorean trig identity?",
+                  "back": "sin²θ + cos²θ = 1."
+                },
+                {
+                  "front": "What is sec θ?",
+                  "back": "The reciprocal of cosine: sec θ = 1/cos θ."
+                },
+                {
+                  "front": "How is tan θ related to sin and cos?",
+                  "back": "tan θ = sin θ / cos θ."
+                },
+                {
+                  "front": "Why are the trig ratios the same for any size of triangle with a given angle?",
+                  "back": "Because all right triangles with that angle are similar (same shape), so their side ratios are equal."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Basic ratios",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "In a right triangle, the opposite side is 6 and the hypotenuse is 10. What is sin θ?",
+              "options": ["0.6", "0.8", "0.75", "1.67"],
+              "answer": "0",
+              "explanation": "sin θ = opposite/hypotenuse = 6/10 = 0.6."
+            },
+            {
+              "topic": "Choosing the ratio",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which ratio uses the opposite side and the adjacent side?",
+              "options": ["sine", "cosine", "tangent", "secant"],
+              "answer": "2",
+              "explanation": "Tangent = opposite/adjacent (the T in SOH-CAH-TOA)."
+            },
+            {
+              "topic": "Reciprocal functions",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "If cos θ = 1/2, what is sec θ?",
+              "options": ["1/2", "2", "-2", "1/4"],
+              "answer": "1",
+              "explanation": "sec θ is the reciprocal of cos θ, so sec θ = 1/(1/2) = 2."
+            },
+            {
+              "topic": "Trig identities",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "If sin θ = 0.8, what is cos²θ?",
+              "options": ["0.64", "0.36", "0.2", "0.6"],
+              "answer": "1",
+              "explanation": "Using sin²θ + cos²θ = 1: cos²θ = 1 - 0.8² = 1 - 0.64 = 0.36."
+            },
+            {
+              "topic": "Trig identities",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "The expression sin²θ + cos²θ is always equal to:",
+              "options": ["0", "1", "2", "It depends on θ"],
+              "answer": "1",
+              "explanation": "By the Pythagorean identity, sin²θ + cos²θ = 1 for every angle θ."
+            },
+            {
+              "topic": "Applications",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A person 30 m from a tower sees its top at an angle of elevation of 45°. Using tan 45° = 1, how tall is the tower?",
+              "options": ["15 m", "30 m", "45 m", "60 m"],
+              "answer": "1",
+              "explanation": "tan 45° = height/30, so height = 30 × 1 = 30 m. (At 45° the height equals the horizontal distance.)"
+            }
+          ]
+        },
+        {
+          "title": "Plane Geometry",
+          "description": "Theorems on triangles, special quadrilaterals, circle properties, and regular polygons.",
+          "lessons": [
+            {
+              "title": "Triangles, Quadrilaterals, Circles, and Polygons",
+              "summary": "Explore key theorems about triangles, the properties of special quadrilaterals, important circle theorems, and the angles of regular polygons.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "The Shapes Around Us",
+                  "body": "From the triangular trusses of a bridge to the round shape of a coin and the hexagons of a honeycomb, geometry is everywhere. **Plane geometry** studies flat shapes — their angles, sides, and the rules (theorems) they always obey.\n\nKnowing these theorems lets you find unknown angles and lengths without measuring, just by reasoning. This is the heart of mathematical proof."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Use the **angle sum** and other theorems for **triangles**.\n- Recall properties of **special quadrilaterals** (square, rectangle, parallelogram, rhombus).\n- Apply key **circle theorems** about angles.\n- Find interior and exterior angles of a **regular polygon**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key Theorems and Why They Hold",
+                  "body": "**Triangles:**\n- The three interior angles always add up to **180°**. *Why:* if you draw a line through one vertex parallel to the opposite side, the angles rearrange to form a straight line.\n- An **exterior angle** of a triangle equals the **sum of the two opposite interior angles**.\n\n**Special quadrilaterals** (all have interior angles summing to **360°**):\n- **Parallelogram:** opposite sides parallel and equal; opposite angles equal; diagonals bisect each other.\n- **Rectangle:** a parallelogram with all angles 90°; diagonals are equal.\n- **Rhombus:** a parallelogram with all sides equal; diagonals cross at right angles.\n- **Square:** has all the properties of a rectangle AND a rhombus.\n\n**Circle theorems:**\n- The angle at the **centre** is **twice** the angle at the **circumference** standing on the same arc.\n- The angle in a **semicircle** is always **90°** (a special case of the above).\n- Angles in the **same segment** (standing on the same arc) are **equal**.\n\n**Regular polygons** (all sides and angles equal) with `n` sides:\n- Sum of interior angles = `(n - 2) × 180°`.\n- Each interior angle = `(n - 2) × 180° / n`.\n- Each exterior angle = `360° / n`. *Why:* walking once around the polygon turns you through a full 360°."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Interior Angle of a Regular Hexagon",
+                  "body": "**Problem:** Find each interior angle of a regular hexagon (6 sides).\n\n**Method 1 — Using the interior angle formula.**\n- Sum of interior angles = `(n - 2) × 180° = (6 - 2) × 180° = 4 × 180° = 720°`.\n- Each interior angle = `720° / 6 = 120°`.\n\n**Method 2 — Using the exterior angle (a quick check).**\n- Each exterior angle = `360° / 6 = 60°`.\n- Interior and exterior angles are supplementary (add to 180°): interior = `180° - 60° = 120°`.\n\nBoth methods agree.\n\n**Answer:** each interior angle of a regular hexagon is **120°**. (This is why hexagons fit together perfectly in a honeycomb — three of them meet at a point: 3 × 120° = 360°.)"
+                },
+                {
+                  "type": "visual",
+                  "title": "Angle at Centre vs Angle at Circumference",
+                  "body": "When two points on a circle are joined to both the centre and a point on the edge, the angle at the centre is exactly twice the angle at the circumference. A special case: when the two points are ends of a diameter, the angle at the edge is 90°.",
+                  "visual": {
+                    "kind": "geometry",
+                    "data": {
+                      "shape": "circle-theorem",
+                      "vertices": [
+                        {"x": 0, "y": 0, "label": "Centre O"},
+                        {"x": -3, "y": 0, "label": "A"},
+                        {"x": 3, "y": 0, "label": "B"},
+                        {"x": 0, "y": 3, "label": "P (on edge)"}
+                      ],
+                      "labels": [
+                        {"text": "angle at centre = 2 × angle at P", "position": "top"}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Forgetting the angle sum changes with the shape.** Triangle = 180°, quadrilateral = 360°, polygon = `(n-2) × 180°`.\n- **Confusing rhombus and rectangle.** A rhombus has equal *sides*; a rectangle has equal *angles* (90°). A square is both.\n- **Misusing the centre/circumference rule.** The centre angle is twice the edge angle ONLY when both stand on the **same arc**.\n- **Using the interior-angle formula for exterior angles.** Each exterior angle of a regular polygon is the simple `360° / n`."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Triangle = 180, add a side = add 180:** quadrilateral 360, pentagon 540, and so on. Each extra side adds 180°.\n- **Exterior angles always total 360°** for any convex polygon — like one full turn walking around it.\n- **Centre is double:** the angle at the **C**entre is double — both start with a 'big' feeling.\n- **Rho**mbus has equal sides (think 'rho' = 'rolls' the same length); **rect**angle has right angles."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Two angles of a triangle are 50° and 70°. Find the third.\n2. What is the sum of the interior angles of a pentagon (5 sides)?\n3. Each exterior angle of a regular polygon is 45°. How many sides does it have?\n4. The angle at the centre of a circle is 80°. What is the angle at the circumference on the same arc?\n\n**Answers:**\n1. `180° - 50° - 70° = 60°`.\n2. `(5 - 2) × 180° = 540°`.\n3. `360° / 45° = 8` sides.\n4. Half of 80° = `40°`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- Triangle angles sum to **180°**; quadrilateral to **360°**; polygon to `(n-2) × 180°`.\n- **Exterior angle of a triangle** = sum of the two opposite interior angles.\n- **Circle:** centre angle = 2 × circumference angle (same arc); angle in a semicircle = 90°.\n- **Regular polygon:** exterior angle = `360°/n`; interior = `180° - exterior`.\n- Know the side/angle properties that distinguish square, rectangle, rhombus, and parallelogram."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Interior angle",
+                      "definition": "An angle inside a polygon, formed by two of its sides."
+                    },
+                    {
+                      "term": "Exterior angle",
+                      "definition": "The angle between one side of a polygon and the extension of the next side."
+                    },
+                    {
+                      "term": "Parallelogram",
+                      "definition": "A quadrilateral whose opposite sides are parallel and equal."
+                    },
+                    {
+                      "term": "Regular polygon",
+                      "definition": "A polygon with all sides equal and all angles equal."
+                    },
+                    {
+                      "term": "Circumference",
+                      "definition": "The boundary (edge) of a circle, or its total length."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What do the interior angles of a triangle add up to?",
+                  "back": "180 degrees."
+                },
+                {
+                  "front": "Formula for the sum of interior angles of an n-sided polygon?",
+                  "back": "(n - 2) × 180 degrees."
+                },
+                {
+                  "front": "Each exterior angle of a regular n-sided polygon?",
+                  "back": "360 / n degrees (they always total 360 degrees)."
+                },
+                {
+                  "front": "Angle at the centre vs angle at the circumference (same arc)?",
+                  "back": "The angle at the centre is twice the angle at the circumference."
+                },
+                {
+                  "front": "What is the angle in a semicircle?",
+                  "back": "Always 90 degrees (a right angle)."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Triangle angle sum",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Two angles of a triangle are 40° and 60°. What is the third angle?",
+              "options": ["80°", "100°", "60°", "120°"],
+              "answer": "0",
+              "explanation": "The angles sum to 180°, so the third is 180° - 40° - 60° = 80°."
+            },
+            {
+              "topic": "Quadrilaterals",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the sum of the interior angles of any quadrilateral?",
+              "options": ["180°", "360°", "270°", "540°"],
+              "answer": "1",
+              "explanation": "A quadrilateral has 4 sides: (4 - 2) × 180° = 360°."
+            },
+            {
+              "topic": "Polygon angles",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the sum of the interior angles of a hexagon (6 sides)?",
+              "options": ["540°", "720°", "900°", "1080°"],
+              "answer": "1",
+              "explanation": "(n - 2) × 180° = (6 - 2) × 180° = 720°."
+            },
+            {
+              "topic": "Circle theorems",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "The angle at the centre of a circle standing on an arc is 100°. What is the angle at the circumference on the same arc?",
+              "options": ["50°", "100°", "200°", "25°"],
+              "answer": "0",
+              "explanation": "The angle at the circumference is half the angle at the centre: 100° / 2 = 50°."
+            },
+            {
+              "topic": "Special quadrilaterals",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Which shape has all sides equal AND all angles equal to 90°?",
+              "options": ["Rhombus", "Rectangle", "Square", "Parallelogram"],
+              "answer": "2",
+              "explanation": "A square has equal sides (like a rhombus) and all right angles (like a rectangle), so it has both properties."
+            },
+            {
+              "topic": "Regular polygons",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Each exterior angle of a regular polygon is 30°. How many sides does it have?",
+              "options": ["6", "10", "12", "15"],
+              "answer": "2",
+              "explanation": "Number of sides = 360° / exterior angle = 360° / 30° = 12."
+            }
+          ]
+        },
+        {
+          "title": "Measurement",
+          "description": "Surface areas and volumes of prisms, cylinders, pyramids, cones, spheres, frustums, and composed solids.",
+          "lessons": [
+            {
+              "title": "Surface Area and Volume of Solids",
+              "summary": "Learn to calculate the surface area and volume of prisms, cylinders, pyramids, cones, and spheres, and apply these to frustums and combined solids.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "How Much Can It Hold, How Much to Cover It?",
+                  "body": "A water tank, a grain silo, an **injera** storage container — for each, two questions matter: *How much can it hold?* (**volume**) and *How much material covers it?* (**surface area**).\n\nThis lesson gives the formulas for the most common 3-D shapes, called **solids**, and shows how to combine them for real objects."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Find the **volume** and **surface area** of prisms and cylinders.\n- Use the formulas for **pyramids, cones, and spheres**.\n- Understand a **frustum** (a cone or pyramid with the top cut off).\n- Calculate measurements for **composed solids** (shapes joined together)."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Key Formulas",
+                  "body": "**Prism** (uniform cross-section, like a box or triangular bar):\n- Volume = `base area × height`.\n- Surface area = sum of the areas of all faces.\n\n**Cylinder** (radius `r`, height `h`):\n- Volume = `πr²h`. *Why:* it is a 'circle prism' — circular base area `πr²` times height.\n- Curved surface area = `2πrh`; total surface area = `2πrh + 2πr²`.\n\n**Cone** (radius `r`, height `h`, slant height `l`):\n- Volume = `(1/3)πr²h`. *Why the 1/3?* A cone fills exactly **one third** of the cylinder with the same base and height.\n- Curved surface area = `πrl`; total = `πrl + πr²`.\n\n**Pyramid:**\n- Volume = `(1/3) × base area × height`. (Same 1/3 idea as the cone.)\n\n**Sphere** (radius `r`):\n- Volume = `(4/3)πr³`.\n- Surface area = `4πr²`.\n\n**Frustum:** the solid left when the top of a cone or pyramid is sliced off parallel to the base. Its volume is the **large solid minus the small removed top**.\n\n**Composed solids:** break the object into known shapes, find each part, then **add** the volumes (or surface areas of the exposed faces)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Volume and Surface Area of a Cylinder",
+                  "body": "**Problem:** A cylindrical water tank has radius 7 m and height 10 m. Find its volume and curved surface area. (Use `π ≈ 22/7`.)\n\n**Step 1 — Volume.** Use `V = πr²h`:\n`V = (22/7) × 7² × 10 = (22/7) × 49 × 10`.\nSimplify `(22/7) × 49 = 22 × 7 = 154`.\n`V = 154 × 10 = 1540` cubic metres (m³).\n\n**Step 2 — Curved surface area.** Use `A = 2πrh`:\n`A = 2 × (22/7) × 7 × 10`.\nThe `7` cancels the `/7`: `A = 2 × 22 × 10 = 440` square metres (m²).\n\n**Answer:** the tank holds **1540 m³** of water, and its curved surface is **440 m²**.\n\n*Tip:* choosing `r = 7` makes `22/7 × 7` cancel neatly — this is why textbook problems often use 7 or 14."
+                },
+                {
+                  "type": "visual",
+                  "title": "Common Solids and Their Volume Formulas",
+                  "body": "A cylinder (πr²h), a cone (one third of the cylinder, (1/3)πr²h), and a sphere ((4/3)πr³). Notice the cone is exactly one third of the cylinder that surrounds it.",
+                  "visual": {
+                    "kind": "geometry",
+                    "data": {
+                      "shape": "solids-comparison",
+                      "items": [
+                        {"name": "Cylinder", "formula": "V = πr²h"},
+                        {"name": "Cone", "formula": "V = (1/3)πr²h"},
+                        {"name": "Sphere", "formula": "V = (4/3)πr³"}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Forgetting the 1/3 for cones and pyramids.** A cone is NOT the same volume as its cylinder; it is one third.\n- **Mixing up slant height and vertical height.** The cone's curved surface uses **slant height `l`**, while its volume uses the **vertical height `h`**. They are different (linked by `l² = r² + h²`).\n- **Using radius when given diameter.** If you are told the diameter, halve it first to get `r`.\n- **Wrong units.** Volume is in **cubic** units (m³), surface area in **square** units (m²). Do not mix them up."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **\"A third for the pointy ones\":** cones and pyramids (which come to a point) get a `1/3` in their volume.\n- **Sphere: 'four-thirds pie r-cubed' for volume, 'four pie r-squared' for area.** Volume has the cube (3-D fullness); area has the square.\n- **Cylinder label trick:** the curved surface `2πrh` is like unrolling the tin label into a rectangle of width `2πr` (the circumference) and height `h`.\n- **Use 22/7 with multiples of 7** to make the arithmetic cancel cleanly."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Find the volume of a cylinder with r = 3 cm and h = 10 cm. (Use π ≈ 3.14.)\n2. Find the volume of a cone with r = 6 cm and h = 7 cm. (Use π ≈ 22/7.)\n3. Find the surface area of a sphere with r = 5 cm. (Use π ≈ 3.14.)\n4. A cube-shaped box has side 4 cm. Find its volume.\n\n**Answers:**\n1. `V = 3.14 × 9 × 10 = 282.6` cm³.\n2. `V = (1/3) × (22/7) × 36 × 7 = (1/3) × 22 × 36 = 264` cm³.\n3. `A = 4 × 3.14 × 25 = 314` cm².\n4. `V = 4³ = 64` cm³."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **Prism/cylinder volume** = base area × height; cylinder = `πr²h`.\n- **Cone** = `(1/3)πr²h`; **pyramid** = `(1/3) × base × height` — the pointy shapes get a 1/3.\n- **Sphere:** volume `(4/3)πr³`, surface area `4πr²`.\n- **Frustum** = whole solid minus the removed top.\n- **Composed solids:** split into known shapes and add. Keep units consistent (m³ for volume, m² for area)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Volume",
+                      "definition": "The amount of space a solid occupies, measured in cubic units."
+                    },
+                    {
+                      "term": "Surface area",
+                      "definition": "The total area of all the outer faces of a solid, measured in square units."
+                    },
+                    {
+                      "term": "Slant height",
+                      "definition": "The distance from the apex of a cone or pyramid down to the edge of its base, along the surface."
+                    },
+                    {
+                      "term": "Frustum",
+                      "definition": "The part of a cone or pyramid left after the top is cut off parallel to the base."
+                    },
+                    {
+                      "term": "Composed solid",
+                      "definition": "A solid made by joining two or more simple solids together."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "Volume of a cylinder?",
+                  "back": "V = πr²h (base area πr² times height)."
+                },
+                {
+                  "front": "Volume of a cone?",
+                  "back": "V = (1/3)πr²h - exactly one third of the matching cylinder."
+                },
+                {
+                  "front": "Volume and surface area of a sphere?",
+                  "back": "Volume = (4/3)πr³; surface area = 4πr²."
+                },
+                {
+                  "front": "What is a frustum?",
+                  "back": "A cone or pyramid with its top sliced off parallel to the base. Its volume = whole solid minus the removed top."
+                },
+                {
+                  "front": "What is the difference between slant height and vertical height of a cone?",
+                  "back": "Slant height (l) runs along the surface to the base edge; vertical height (h) is straight down. They are linked by l² = r² + h²."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Cylinder volume",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the formula for the volume of a cylinder?",
+              "options": ["πr²h", "2πrh", "(1/3)πr²h", "4πr²"],
+              "answer": "0",
+              "explanation": "A cylinder's volume is the base area (πr²) times the height h, giving πr²h."
+            },
+            {
+              "topic": "Cone volume",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A cone has the same base and height as a cylinder. The cone's volume is:",
+              "options": ["the same as the cylinder", "one half of the cylinder", "one third of the cylinder", "twice the cylinder"],
+              "answer": "2",
+              "explanation": "A cone holds exactly one third of the volume of the cylinder with the same base and height."
+            },
+            {
+              "topic": "Sphere",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the surface area of a sphere of radius r?",
+              "options": ["(4/3)πr³", "4πr²", "2πr²", "πr²"],
+              "answer": "1",
+              "explanation": "The surface area of a sphere is 4πr². (Its volume is (4/3)πr³.)"
+            },
+            {
+              "topic": "Cylinder calculation",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Find the volume of a cylinder with radius 7 cm and height 5 cm (use π ≈ 22/7).",
+              "options": ["770 cm³", "220 cm³", "1540 cm³", "110 cm³"],
+              "answer": "0",
+              "explanation": "V = πr²h = (22/7) × 49 × 5 = 22 × 7 × 5 = 770 cm³."
+            },
+            {
+              "topic": "Cube volume",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A cube has a volume of 27 cm³. What is the length of one side?",
+              "options": ["3 cm", "9 cm", "27 cm", "6 cm"],
+              "answer": "0",
+              "explanation": "Volume of a cube = side³. Since 3³ = 27, the side is 3 cm."
+            },
+            {
+              "topic": "Cone calculation",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Find the volume of a cone with radius 3 cm and height 7 cm (use π ≈ 22/7).",
+              "options": ["66 cm³", "198 cm³", "22 cm³", "132 cm³"],
+              "answer": "0",
+              "explanation": "V = (1/3)πr²h = (1/3) × (22/7) × 9 × 7 = (1/3) × 22 × 9 = (1/3) × 198 = 66 cm³."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

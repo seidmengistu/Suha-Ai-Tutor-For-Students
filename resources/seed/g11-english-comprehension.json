@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSolar power has become one of the most promising sources of clean energy in the world. A solar panel works by capturing sunlight and converting it into electricity through small cells made of silicon. Unlike fuels such as coal or oil, sunlight will never run out, and using it produces no smoke that pollutes the air. In countries with strong sunshine for most of the year, solar panels can supply electricity to homes, schools, and clinics that are far from any city power line. Although the panels can be expensive to buy at first, they cost very little to run afterwards, because the sun provides the fuel for free. For this reason, many governments now encourage families and businesses to install them.\n\nQuestion: What is the main idea of the passage?",
+          "options": [
+            "Solar power is a clean and useful source of energy worth using.",
+            "Coal and oil are cheaper than solar panels in every country.",
+            "Silicon is the only material used to build modern houses.",
+            "City power lines are always better than solar panels."
+          ],
+          "answer": "0",
+          "explanation": "The passage as a whole presents solar power as a clean, promising, and practical energy source."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSolar power has become one of the most promising sources of clean energy in the world. A solar panel works by capturing sunlight and converting it into electricity through small cells made of silicon. Unlike fuels such as coal or oil, sunlight will never run out, and using it produces no smoke that pollutes the air. In countries with strong sunshine for most of the year, solar panels can supply electricity to homes, schools, and clinics that are far from any city power line. Although the panels can be expensive to buy at first, they cost very little to run afterwards, because the sun provides the fuel for free. For this reason, many governments now encourage families and businesses to install them.\n\nQuestion: According to the passage, what are solar cells made of?",
+          "options": [
+            "Coal",
+            "Silicon",
+            "Oil",
+            "Smoke"
+          ],
+          "answer": "1",
+          "explanation": "The passage states that the small cells are made of silicon."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSolar power has become one of the most promising sources of clean energy in the world. A solar panel works by capturing sunlight and converting it into electricity through small cells made of silicon. Unlike fuels such as coal or oil, sunlight will never run out, and using it produces no smoke that pollutes the air. In countries with strong sunshine for most of the year, solar panels can supply electricity to homes, schools, and clinics that are far from any city power line. Although the panels can be expensive to buy at first, they cost very little to run afterwards, because the sun provides the fuel for free. For this reason, many governments now encourage families and businesses to install them.\n\nQuestion: It can be inferred from the passage that solar panels are especially valuable in",
+          "options": [
+            "crowded cities that already have many power lines.",
+            "remote rural areas that lack a connection to the electricity grid.",
+            "regions that receive almost no sunshine during the year.",
+            "factories that rely heavily on burning coal and oil."
+          ],
+          "answer": "1",
+          "explanation": "Because panels can serve places 'far from any city power line,' they are most useful in remote areas without grid access."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSolar power has become one of the most promising sources of clean energy in the world. A solar panel works by capturing sunlight and converting it into electricity through small cells made of silicon. Unlike fuels such as coal or oil, sunlight will never run out, and using it produces no smoke that pollutes the air. In countries with strong sunshine for most of the year, solar panels can supply electricity to homes, schools, and clinics that are far from any city power line. Although the panels can be expensive to buy at first, they cost very little to run afterwards, because the sun provides the fuel for free. For this reason, many governments now encourage families and businesses to install them.\n\nQuestion: As used in the passage, the word \"capturing\" most nearly means",
+          "options": [
+            "arresting",
+            "collecting",
+            "hiding",
+            "destroying"
+          ],
+          "answer": "1",
+          "explanation": "In context, 'capturing sunlight' means gathering or collecting it to convert into electricity."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSolar power has become one of the most promising sources of clean energy in the world. A solar panel works by capturing sunlight and converting it into electricity through small cells made of silicon. Unlike fuels such as coal or oil, sunlight will never run out, and using it produces no smoke that pollutes the air. In countries with strong sunshine for most of the year, solar panels can supply electricity to homes, schools, and clinics that are far from any city power line. Although the panels can be expensive to buy at first, they cost very little to run afterwards, because the sun provides the fuel for free. For this reason, many governments now encourage families and businesses to install them.\n\nQuestion: What is the author's main purpose in writing this passage?",
+          "options": [
+            "To warn readers about the dangers of using silicon in electronics.",
+            "To explain the benefits of solar power and why its use is encouraged.",
+            "To compare the prices of coal and oil in different countries.",
+            "To describe how city power lines are built and maintained."
+          ],
+          "answer": "1",
+          "explanation": "The author explains how solar power works and stresses its advantages, ending by noting why governments promote it."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSolar power has become one of the most promising sources of clean energy in the world. A solar panel works by capturing sunlight and converting it into electricity through small cells made of silicon. Unlike fuels such as coal or oil, sunlight will never run out, and using it produces no smoke that pollutes the air. In countries with strong sunshine for most of the year, solar panels can supply electricity to homes, schools, and clinics that are far from any city power line. Although the panels can be expensive to buy at first, they cost very little to run afterwards, because the sun provides the fuel for free. For this reason, many governments now encourage families and businesses to install them.\n\nQuestion: In the sentence \"they cost very little to run afterwards,\" the word \"they\" refers to",
+          "options": [
+            "the panels",
+            "the governments",
+            "the businesses",
+            "the power lines"
+          ],
+          "answer": "0",
+          "explanation": "The pronoun 'they' refers back to the panels, which are cheap to run once purchased."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWhen people in a town all want to buy the same thing, the price of that thing often rises. This happens because sellers notice the strong demand and know that buyers are willing to pay more. Imagine that a sudden festival brings thousands of visitors to a small market. Suddenly everyone wants bread, fruit, and bottled water at the same time. The sellers have only a limited amount to offer, so they raise their prices, and the goods are sold to those who can afford them. When the festival ends and the visitors leave, demand falls again, and prices usually return to their normal level. Economists call this simple relationship the law of supply and demand, and it helps explain why the cost of everyday goods can change so quickly from one week to the next.\n\nQuestion: What is the passage mainly about?",
+          "options": [
+            "How festivals are organised in small towns.",
+            "Why prices change according to supply and demand.",
+            "The best kinds of food to sell at a market.",
+            "How visitors choose which town to travel to."
+          ],
+          "answer": "1",
+          "explanation": "The passage uses the festival example to explain how supply and demand cause prices to change."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWhen people in a town all want to buy the same thing, the price of that thing often rises. This happens because sellers notice the strong demand and know that buyers are willing to pay more. Imagine that a sudden festival brings thousands of visitors to a small market. Suddenly everyone wants bread, fruit, and bottled water at the same time. The sellers have only a limited amount to offer, so they raise their prices, and the goods are sold to those who can afford them. When the festival ends and the visitors leave, demand falls again, and prices usually return to their normal level. Economists call this simple relationship the law of supply and demand, and it helps explain why the cost of everyday goods can change so quickly from one week to the next.\n\nQuestion: According to the passage, what happens to prices after the festival ends?",
+          "options": [
+            "They rise even higher than before.",
+            "They stay exactly the same as during the festival.",
+            "They usually return to their normal level.",
+            "They disappear because no one is buying."
+          ],
+          "answer": "2",
+          "explanation": "The passage states that once visitors leave and demand falls, prices usually return to their normal level."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWhen people in a town all want to buy the same thing, the price of that thing often rises. This happens because sellers notice the strong demand and know that buyers are willing to pay more. Imagine that a sudden festival brings thousands of visitors to a small market. Suddenly everyone wants bread, fruit, and bottled water at the same time. The sellers have only a limited amount to offer, so they raise their prices, and the goods are sold to those who can afford them. When the festival ends and the visitors leave, demand falls again, and prices usually return to their normal level. Economists call this simple relationship the law of supply and demand, and it helps explain why the cost of everyday goods can change so quickly from one week to the next.\n\nQuestion: As used in the passage, the word \"demand\" most nearly means",
+          "options": [
+            "a firm order given to someone",
+            "the desire of buyers to purchase goods",
+            "a written complaint to a seller",
+            "the amount of goods a seller stores"
+          ],
+          "answer": "1",
+          "explanation": "In economics here, 'demand' refers to buyers' willingness or desire to purchase the goods."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWhen people in a town all want to buy the same thing, the price of that thing often rises. This happens because sellers notice the strong demand and know that buyers are willing to pay more. Imagine that a sudden festival brings thousands of visitors to a small market. Suddenly everyone wants bread, fruit, and bottled water at the same time. The sellers have only a limited amount to offer, so they raise their prices, and the goods are sold to those who can afford them. When the festival ends and the visitors leave, demand falls again, and prices usually return to their normal level. Economists call this simple relationship the law of supply and demand, and it helps explain why the cost of everyday goods can change so quickly from one week to the next.\n\nQuestion: Which conclusion is best supported by the passage?",
+          "options": [
+            "Prices depend partly on how many people want a limited supply of goods.",
+            "Sellers always lower their prices when many buyers arrive.",
+            "Festivals are the only reason that prices ever change.",
+            "The amount of goods available has no effect on price."
+          ],
+          "answer": "0",
+          "explanation": "The example shows that when many buyers compete for a limited supply, prices rise, supporting this conclusion."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWhen people in a town all want to buy the same thing, the price of that thing often rises. This happens because sellers notice the strong demand and know that buyers are willing to pay more. Imagine that a sudden festival brings thousands of visitors to a small market. Suddenly everyone wants bread, fruit, and bottled water at the same time. The sellers have only a limited amount to offer, so they raise their prices, and the goods are sold to those who can afford them. When the festival ends and the visitors leave, demand falls again, and prices usually return to their normal level. Economists call this simple relationship the law of supply and demand, and it helps explain why the cost of everyday goods can change so quickly from one week to the next.\n\nQuestion: The author's main purpose in describing the festival is to",
+          "options": [
+            "persuade readers to attend more festivals in small towns.",
+            "illustrate an abstract economic idea with a concrete example.",
+            "criticise sellers for charging unfair prices to visitors.",
+            "prove that bread and water are the most important goods."
+          ],
+          "answer": "1",
+          "explanation": "The festival is offered as a concrete illustration to make the abstract law of supply and demand easy to understand."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nLong before modern roads existed, traders carried goods across the deserts of northern Africa on the backs of camels. These long journeys, sometimes lasting many weeks, linked distant towns into a single network of trade. Camels were ideal for the task because they could travel for days with little water and could carry heavy loads of salt, gold, and cloth across burning sands. Along the routes, small settlements grew into busy markets where merchants from different regions met to exchange not only goods but also ideas, languages, and beliefs. In this way, trade did far more than make a few people wealthy. It spread knowledge of distant places, encouraged the learning of new languages, and helped cultures that had never met to influence one another. The desert, once seen only as a barrier, became a bridge between peoples.\n\nQuestion: What is the central idea of the passage?",
+          "options": [
+            "Camels are the strongest animals found in the desert.",
+            "Desert trade connected distant peoples and spread goods and ideas.",
+            "Salt and gold were once worthless in northern Africa.",
+            "Modern roads have completely replaced desert trade routes."
+          ],
+          "answer": "1",
+          "explanation": "The passage emphasises that trade across the desert linked peoples and spread both goods and ideas."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nLong before modern roads existed, traders carried goods across the deserts of northern Africa on the backs of camels. These long journeys, sometimes lasting many weeks, linked distant towns into a single network of trade. Camels were ideal for the task because they could travel for days with little water and could carry heavy loads of salt, gold, and cloth across burning sands. Along the routes, small settlements grew into busy markets where merchants from different regions met to exchange not only goods but also ideas, languages, and beliefs. In this way, trade did far more than make a few people wealthy. It spread knowledge of distant places, encouraged the learning of new languages, and helped cultures that had never met to influence one another. The desert, once seen only as a barrier, became a bridge between peoples.\n\nQuestion: According to the passage, why were camels suitable for desert trade?",
+          "options": [
+            "They could run faster than horses on sand.",
+            "They could travel for days with little water and carry heavy loads.",
+            "They needed no food during the entire journey.",
+            "They could find gold and salt buried in the sand."
+          ],
+          "answer": "1",
+          "explanation": "The passage explains camels could go for days with little water and carry heavy loads across the sands."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nLong before modern roads existed, traders carried goods across the deserts of northern Africa on the backs of camels. These long journeys, sometimes lasting many weeks, linked distant towns into a single network of trade. Camels were ideal for the task because they could travel for days with little water and could carry heavy loads of salt, gold, and cloth across burning sands. Along the routes, small settlements grew into busy markets where merchants from different regions met to exchange not only goods but also ideas, languages, and beliefs. In this way, trade did far more than make a few people wealthy. It spread knowledge of distant places, encouraged the learning of new languages, and helped cultures that had never met to influence one another. The desert, once seen only as a barrier, became a bridge between peoples.\n\nQuestion: It can be inferred from the passage that the markets along the trade routes",
+          "options": [
+            "remained small because few merchants ever visited them.",
+            "became places of cultural exchange as well as buying and selling.",
+            "were used only for storing salt and gold safely.",
+            "discouraged merchants from learning foreign languages."
+          ],
+          "answer": "1",
+          "explanation": "Since merchants exchanged ideas, languages, and beliefs there, the markets were centres of cultural exchange, not just trade."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nLong before modern roads existed, traders carried goods across the deserts of northern Africa on the backs of camels. These long journeys, sometimes lasting many weeks, linked distant towns into a single network of trade. Camels were ideal for the task because they could travel for days with little water and could carry heavy loads of salt, gold, and cloth across burning sands. Along the routes, small settlements grew into busy markets where merchants from different regions met to exchange not only goods but also ideas, languages, and beliefs. In this way, trade did far more than make a few people wealthy. It spread knowledge of distant places, encouraged the learning of new languages, and helped cultures that had never met to influence one another. The desert, once seen only as a barrier, became a bridge between peoples.\n\nQuestion: As used in the passage, the word \"barrier\" most nearly means",
+          "options": [
+            "an obstacle that blocks movement",
+            "a place for storing goods",
+            "a kind of large market",
+            "a friendly meeting point"
+          ],
+          "answer": "0",
+          "explanation": "The desert was once seen as a 'barrier,' meaning something that blocks or obstructs movement, before it became a bridge."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nLong before modern roads existed, traders carried goods across the deserts of northern Africa on the backs of camels. These long journeys, sometimes lasting many weeks, linked distant towns into a single network of trade. Camels were ideal for the task because they could travel for days with little water and could carry heavy loads of salt, gold, and cloth across burning sands. Along the routes, small settlements grew into busy markets where merchants from different regions met to exchange not only goods but also ideas, languages, and beliefs. In this way, trade did far more than make a few people wealthy. It spread knowledge of distant places, encouraged the learning of new languages, and helped cultures that had never met to influence one another. The desert, once seen only as a barrier, became a bridge between peoples.\n\nQuestion: The final sentence, \"The desert, once seen only as a barrier, became a bridge between peoples,\" mainly serves to",
+          "options": [
+            "introduce a new topic about modern transport.",
+            "summarise the passage by contrasting two views of the desert.",
+            "describe the exact route the camels followed.",
+            "warn readers about the dangers of desert travel."
+          ],
+          "answer": "1",
+          "explanation": "The closing sentence sums up the passage by contrasting the desert as a barrier with its role as a connecting bridge."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSome people argue that students learn best when examinations are removed entirely from schools. They claim that tests cause needless fear and reward memorising over real understanding. While it is true that exams can create anxiety, removing them completely would do more harm than good. Examinations give students a clear goal to work towards and a fair way to measure what they have learned. Without them, hard-working learners would have no proof of their effort, and lazy ones could pass unnoticed. The real problem is not the existence of exams but the way some are designed. A well-made test should ask students to think, not merely to repeat facts. Therefore, instead of abolishing examinations, schools should improve them, making sure they reward genuine understanding. In this way, the benefits of testing can be kept while its worst effects are reduced.\n\nQuestion: What is the author's main argument in this passage?",
+          "options": [
+            "Examinations should be removed from all schools immediately.",
+            "Examinations should be improved rather than abolished.",
+            "Students who feel anxious should not be allowed to take exams.",
+            "Memorising facts is the best way to succeed in school."
+          ],
+          "answer": "1",
+          "explanation": "The author argues against abolishing exams and instead calls for improving them so they reward real understanding."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSome people argue that students learn best when examinations are removed entirely from schools. They claim that tests cause needless fear and reward memorising over real understanding. While it is true that exams can create anxiety, removing them completely would do more harm than good. Examinations give students a clear goal to work towards and a fair way to measure what they have learned. Without them, hard-working learners would have no proof of their effort, and lazy ones could pass unnoticed. The real problem is not the existence of exams but the way some are designed. A well-made test should ask students to think, not merely to repeat facts. Therefore, instead of abolishing examinations, schools should improve them, making sure they reward genuine understanding. In this way, the benefits of testing can be kept while its worst effects are reduced.\n\nQuestion: Why does the author mention that exams can create anxiety?",
+          "options": [
+            "To prove that all exams should be abolished at once.",
+            "To acknowledge a valid concern before arguing against removing exams.",
+            "To suggest that anxious students never learn anything useful.",
+            "To explain how examinations are written by teachers."
+          ],
+          "answer": "1",
+          "explanation": "The author concedes that exams cause anxiety in order to fairly address the opposing view before refuting it."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSome people argue that students learn best when examinations are removed entirely from schools. They claim that tests cause needless fear and reward memorising over real understanding. While it is true that exams can create anxiety, removing them completely would do more harm than good. Examinations give students a clear goal to work towards and a fair way to measure what they have learned. Without them, hard-working learners would have no proof of their effort, and lazy ones could pass unnoticed. The real problem is not the existence of exams but the way some are designed. A well-made test should ask students to think, not merely to repeat facts. Therefore, instead of abolishing examinations, schools should improve them, making sure they reward genuine understanding. In this way, the benefits of testing can be kept while its worst effects are reduced.\n\nQuestion: According to the author, what is the real problem with examinations?",
+          "options": [
+            "That they exist in schools at all.",
+            "The way some of them are designed.",
+            "That hard-working students dislike them.",
+            "That they are too easy for lazy students."
+          ],
+          "answer": "1",
+          "explanation": "The author states plainly that the real problem is not the existence of exams but the way some are designed."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSome people argue that students learn best when examinations are removed entirely from schools. They claim that tests cause needless fear and reward memorising over real understanding. While it is true that exams can create anxiety, removing them completely would do more harm than good. Examinations give students a clear goal to work towards and a fair way to measure what they have learned. Without them, hard-working learners would have no proof of their effort, and lazy ones could pass unnoticed. The real problem is not the existence of exams but the way some are designed. A well-made test should ask students to think, not merely to repeat facts. Therefore, instead of abolishing examinations, schools should improve them, making sure they reward genuine understanding. In this way, the benefits of testing can be kept while its worst effects are reduced.\n\nQuestion: As used in the passage, the word \"abolishing\" most nearly means",
+          "options": [
+            "improving",
+            "getting rid of",
+            "designing",
+            "rewarding"
+          ],
+          "answer": "1",
+          "explanation": "'Abolishing examinations' means doing away with or getting rid of them, contrasted with improving them."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSome people argue that students learn best when examinations are removed entirely from schools. They claim that tests cause needless fear and reward memorising over real understanding. While it is true that exams can create anxiety, removing them completely would do more harm than good. Examinations give students a clear goal to work towards and a fair way to measure what they have learned. Without them, hard-working learners would have no proof of their effort, and lazy ones could pass unnoticed. The real problem is not the existence of exams but the way some are designed. A well-made test should ask students to think, not merely to repeat facts. Therefore, instead of abolishing examinations, schools should improve them, making sure they reward genuine understanding. In this way, the benefits of testing can be kept while its worst effects are reduced.\n\nQuestion: Which word best describes the overall tone of the passage?",
+          "options": [
+            "angry and bitter",
+            "balanced and persuasive",
+            "humorous and light-hearted",
+            "uncertain and confused"
+          ],
+          "answer": "1",
+          "explanation": "The author weighs both sides fairly while clearly arguing a position, giving the passage a balanced, persuasive tone."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSome people argue that students learn best when examinations are removed entirely from schools. They claim that tests cause needless fear and reward memorising over real understanding. While it is true that exams can create anxiety, removing them completely would do more harm than good. Examinations give students a clear goal to work towards and a fair way to measure what they have learned. Without them, hard-working learners would have no proof of their effort, and lazy ones could pass unnoticed. The real problem is not the existence of exams but the way some are designed. A well-made test should ask students to think, not merely to repeat facts. Therefore, instead of abolishing examinations, schools should improve them, making sure they reward genuine understanding. In this way, the benefits of testing can be kept while its worst effects are reduced.\n\nQuestion: In the sentence \"Without them, hard-working learners would have no proof of their effort,\" the word \"them\" refers to",
+          "options": [
+            "examinations",
+            "schools",
+            "learners",
+            "facts"
+          ],
+          "answer": "0",
+          "explanation": "The pronoun 'them' refers to examinations, which give learners proof of their effort."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe old fishermen of the village rose before the sun, when the sky was still the colour of ash. Among them was Kebede, whose hands were rough as bark from years of pulling nets. Each morning he pushed his small wooden boat onto the grey water and rowed until the shore became a thin line behind him. The sea, he often said, was neither cruel nor kind; it simply was, and a wise man learned to read its moods the way others read a book. On calm days he sang quietly to himself, but when dark clouds gathered he fell silent and watched the waves with patient, knowing eyes. The younger men laughed at his caution, yet they always returned safely when they followed him. Kebede asked the sea for nothing it could not give, and in return it had let him grow old.\n\nQuestion: What does the passage mainly reveal about Kebede?",
+          "options": [
+            "He is a wealthy man who owns many large boats.",
+            "He is an experienced fisherman who deeply understands the sea.",
+            "He is afraid of the water and rarely goes fishing.",
+            "He dislikes the younger men and refuses to help them."
+          ],
+          "answer": "1",
+          "explanation": "The passage portrays Kebede as a seasoned fisherman who reads the sea's moods wisely and is respected by others."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe old fishermen of the village rose before the sun, when the sky was still the colour of ash. Among them was Kebede, whose hands were rough as bark from years of pulling nets. Each morning he pushed his small wooden boat onto the grey water and rowed until the shore became a thin line behind him. The sea, he often said, was neither cruel nor kind; it simply was, and a wise man learned to read its moods the way others read a book. On calm days he sang quietly to himself, but when dark clouds gathered he fell silent and watched the waves with patient, knowing eyes. The younger men laughed at his caution, yet they always returned safely when they followed him. Kebede asked the sea for nothing it could not give, and in return it had let him grow old.\n\nQuestion: The phrase \"his hands were rough as bark\" suggests that Kebede",
+          "options": [
+            "had spent many years doing hard physical work.",
+            "had recently injured his hands while sailing.",
+            "rarely used his hands for any kind of work.",
+            "preferred climbing trees to fishing in boats."
+          ],
+          "answer": "0",
+          "explanation": "The comparison of his rough hands to bark implies long years of demanding manual labour pulling nets."
+        }
+      ]
+    }
+  ]
+}

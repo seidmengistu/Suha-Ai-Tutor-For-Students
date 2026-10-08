@@ -1,0 +1,333 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSolar power is changing how people in rural areas get electricity. In many villages far from the national power grid, families once relied on kerosene lamps that gave weak light and produced harmful smoke. Today, small solar panels placed on rooftops capture sunlight during the day and store the energy in batteries. At night, this stored power lights homes, charges mobile phones, and even runs small radios. Because sunlight is free and available almost everywhere, solar systems can reach places that wires never could. Although the panels can be expensive to buy at first, they save money over time because there is no fuel to purchase. For students, the steady light means they can study after dark without straining their eyes. Step by step, solar technology is bringing brighter and healthier evenings to communities that were once left in darkness.\n\nQuestion: What is the main idea of the passage?",
+          "options": [
+            "Solar power is bringing electricity to rural areas that the power grid cannot reach.",
+            "Kerosene lamps are cheaper than solar panels for most families.",
+            "Mobile phones cannot be charged without the national power grid.",
+            "Students should avoid studying after dark to protect their eyes."
+          ],
+          "answer": "0",
+          "explanation": "The passage as a whole explains how solar power supplies electricity to rural places the grid does not reach."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSolar power is changing how people in rural areas get electricity. In many villages far from the national power grid, families once relied on kerosene lamps that gave weak light and produced harmful smoke. Today, small solar panels placed on rooftops capture sunlight during the day and store the energy in batteries. At night, this stored power lights homes, charges mobile phones, and even runs small radios. Because sunlight is free and available almost everywhere, solar systems can reach places that wires never could. Although the panels can be expensive to buy at first, they save money over time because there is no fuel to purchase. For students, the steady light means they can study after dark without straining their eyes. Step by step, solar technology is bringing brighter and healthier evenings to communities that were once left in darkness.\n\nQuestion: According to the passage, where are the solar panels placed?",
+          "options": [
+            "Inside the batteries",
+            "On rooftops",
+            "Next to kerosene lamps",
+            "Along the national power grid"
+          ],
+          "answer": "1",
+          "explanation": "The passage states that small solar panels are placed on rooftops to capture sunlight."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSolar power is changing how people in rural areas get electricity. In many villages far from the national power grid, families once relied on kerosene lamps that gave weak light and produced harmful smoke. Today, small solar panels placed on rooftops capture sunlight during the day and store the energy in batteries. At night, this stored power lights homes, charges mobile phones, and even runs small radios. Because sunlight is free and available almost everywhere, solar systems can reach places that wires never could. Although the panels can be expensive to buy at first, they save money over time because there is no fuel to purchase. For students, the steady light means they can study after dark without straining their eyes. Step by step, solar technology is bringing brighter and healthier evenings to communities that were once left in darkness.\n\nQuestion: What can be inferred about kerosene lamps compared to solar lighting?",
+          "options": [
+            "Kerosene lamps are better for the health of families.",
+            "Kerosene lamps were less healthy and gave poorer light than solar systems.",
+            "Kerosene lamps can reach more remote places than solar panels.",
+            "Kerosene lamps cost nothing to keep running."
+          ],
+          "answer": "1",
+          "explanation": "The passage says kerosene gave weak light and harmful smoke, while solar provides steady, healthier light, implying kerosene is worse."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSolar power is changing how people in rural areas get electricity. In many villages far from the national power grid, families once relied on kerosene lamps that gave weak light and produced harmful smoke. Today, small solar panels placed on rooftops capture sunlight during the day and store the energy in batteries. At night, this stored power lights homes, charges mobile phones, and even runs small radios. Because sunlight is free and available almost everywhere, solar systems can reach places that wires never could. Although the panels can be expensive to buy at first, they save money over time because there is no fuel to purchase. For students, the steady light means they can study after dark without straining their eyes. Step by step, solar technology is bringing brighter and healthier evenings to communities that were once left in darkness.\n\nQuestion: In this passage, the word \"capture\" most nearly means",
+          "options": [
+            "collect and hold",
+            "take by force",
+            "photograph",
+            "trap an animal"
+          ],
+          "answer": "0",
+          "explanation": "Here the panels \"capture\" sunlight in order to store its energy, so it means to collect and hold."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSolar power is changing how people in rural areas get electricity. In many villages far from the national power grid, families once relied on kerosene lamps that gave weak light and produced harmful smoke. Today, small solar panels placed on rooftops capture sunlight during the day and store the energy in batteries. At night, this stored power lights homes, charges mobile phones, and even runs small radios. Because sunlight is free and available almost everywhere, solar systems can reach places that wires never could. Although the panels can be expensive to buy at first, they save money over time because there is no fuel to purchase. For students, the steady light means they can study after dark without straining their eyes. Step by step, solar technology is bringing brighter and healthier evenings to communities that were once left in darkness.\n\nQuestion: What is the author's main purpose in writing this passage?",
+          "options": [
+            "To warn readers about the dangers of using batteries at night",
+            "To explain and highlight the benefits of solar power for rural communities",
+            "To compare the prices of different brands of solar panels",
+            "To argue that the national power grid should be shut down"
+          ],
+          "answer": "1",
+          "explanation": "The author informs the reader and emphasizes the advantages solar power brings to rural areas."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nSolar power is changing how people in rural areas get electricity. In many villages far from the national power grid, families once relied on kerosene lamps that gave weak light and produced harmful smoke. Today, small solar panels placed on rooftops capture sunlight during the day and store the energy in batteries. At night, this stored power lights homes, charges mobile phones, and even runs small radios. Because sunlight is free and available almost everywhere, solar systems can reach places that wires never could. Although the panels can be expensive to buy at first, they save money over time because there is no fuel to purchase. For students, the steady light means they can study after dark without straining their eyes. Step by step, solar technology is bringing brighter and healthier evenings to communities that were once left in darkness.\n\nQuestion: In the sentence \"At night, this stored power lights homes,\" the word \"this\" refers to",
+          "options": [
+            "the harmful smoke from kerosene",
+            "the energy stored in the batteries during the day",
+            "the national power grid",
+            "the mobile phones in the home"
+          ],
+          "answer": "1",
+          "explanation": "\"This stored power\" points back to the energy captured during the day and kept in the batteries."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe Simien Mountains in northern Ethiopia are one of the most beautiful highland regions in Africa. Their tall, jagged peaks rise above deep valleys, and morning mist often drifts between the cliffs. The area is home to animals found nowhere else on Earth, such as the gelada, a grass-eating monkey with a bright patch on its chest, and the Walia ibex, a wild goat with curved horns. Because these creatures are rare, the mountains were made a national park to protect them. Visitors come from many countries to hike the steep trails and watch the sunrise over the ridges. Local guides, who know the land well, lead the way and share stories about the plants and wildlife. Protecting the Simien Mountains is important not only for tourism but also for keeping these unique animals safe for future generations to enjoy and study.\n\nQuestion: What is the passage mainly about?",
+          "options": [
+            "How to train as a mountain guide in Ethiopia",
+            "The beauty of the Simien Mountains and the need to protect their unique wildlife",
+            "The history of monkeys across the whole African continent",
+            "Why tourists prefer beaches to mountains"
+          ],
+          "answer": "1",
+          "explanation": "The passage describes the Simien Mountains, their rare animals, and the importance of protecting them."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe Simien Mountains in northern Ethiopia are one of the most beautiful highland regions in Africa. Their tall, jagged peaks rise above deep valleys, and morning mist often drifts between the cliffs. The area is home to animals found nowhere else on Earth, such as the gelada, a grass-eating monkey with a bright patch on its chest, and the Walia ibex, a wild goat with curved horns. Because these creatures are rare, the mountains were made a national park to protect them. Visitors come from many countries to hike the steep trails and watch the sunrise over the ridges. Local guides, who know the land well, lead the way and share stories about the plants and wildlife. Protecting the Simien Mountains is important not only for tourism but also for keeping these unique animals safe for future generations to enjoy and study.\n\nQuestion: According to the passage, what does the gelada eat?",
+          "options": [
+            "Grass",
+            "Small fish",
+            "Tree bark",
+            "Insects"
+          ],
+          "answer": "0",
+          "explanation": "The passage describes the gelada as a grass-eating monkey."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe Simien Mountains in northern Ethiopia are one of the most beautiful highland regions in Africa. Their tall, jagged peaks rise above deep valleys, and morning mist often drifts between the cliffs. The area is home to animals found nowhere else on Earth, such as the gelada, a grass-eating monkey with a bright patch on its chest, and the Walia ibex, a wild goat with curved horns. Because these creatures are rare, the mountains were made a national park to protect them. Visitors come from many countries to hike the steep trails and watch the sunrise over the ridges. Local guides, who know the land well, lead the way and share stories about the plants and wildlife. Protecting the Simien Mountains is important not only for tourism but also for keeping these unique animals safe for future generations to enjoy and study.\n\nQuestion: Why were the Simien Mountains most likely made into a national park?",
+          "options": [
+            "To build large hotels for tourists",
+            "To protect rare animals that live nowhere else",
+            "To stop people from hiking the trails",
+            "To remove the morning mist from the cliffs"
+          ],
+          "answer": "1",
+          "explanation": "The passage states the park was created because the rare creatures needed protection."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe Simien Mountains in northern Ethiopia are one of the most beautiful highland regions in Africa. Their tall, jagged peaks rise above deep valleys, and morning mist often drifts between the cliffs. The area is home to animals found nowhere else on Earth, such as the gelada, a grass-eating monkey with a bright patch on its chest, and the Walia ibex, a wild goat with curved horns. Because these creatures are rare, the mountains were made a national park to protect them. Visitors come from many countries to hike the steep trails and watch the sunrise over the ridges. Local guides, who know the land well, lead the way and share stories about the plants and wildlife. Protecting the Simien Mountains is important not only for tourism but also for keeping these unique animals safe for future generations to enjoy and study.\n\nQuestion: In this passage, the word \"jagged\" most nearly means",
+          "options": [
+            "smooth and rounded",
+            "sharp and uneven",
+            "low and flat",
+            "wet and muddy"
+          ],
+          "answer": "1",
+          "explanation": "\"Jagged peaks\" describes mountain tops that are sharp and uneven in shape."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe Simien Mountains in northern Ethiopia are one of the most beautiful highland regions in Africa. Their tall, jagged peaks rise above deep valleys, and morning mist often drifts between the cliffs. The area is home to animals found nowhere else on Earth, such as the gelada, a grass-eating monkey with a bright patch on its chest, and the Walia ibex, a wild goat with curved horns. Because these creatures are rare, the mountains were made a national park to protect them. Visitors come from many countries to hike the steep trails and watch the sunrise over the ridges. Local guides, who know the land well, lead the way and share stories about the plants and wildlife. Protecting the Simien Mountains is important not only for tourism but also for keeping these unique animals safe for future generations to enjoy and study.\n\nQuestion: What can be inferred about the local guides?",
+          "options": [
+            "They have never visited the mountains before.",
+            "They have deep knowledge of the area's land and wildlife.",
+            "They discourage visitors from coming to the park.",
+            "They come from other countries to lead the hikes."
+          ],
+          "answer": "1",
+          "explanation": "The passage says guides know the land well and share stories about plants and wildlife, implying deep local knowledge."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe Simien Mountains in northern Ethiopia are one of the most beautiful highland regions in Africa. Their tall, jagged peaks rise above deep valleys, and morning mist often drifts between the cliffs. The area is home to animals found nowhere else on Earth, such as the gelada, a grass-eating monkey with a bright patch on its chest, and the Walia ibex, a wild goat with curved horns. Because these creatures are rare, the mountains were made a national park to protect them. Visitors come from many countries to hike the steep trails and watch the sunrise over the ridges. Local guides, who know the land well, lead the way and share stories about the plants and wildlife. Protecting the Simien Mountains is important not only for tourism but also for keeping these unique animals safe for future generations to enjoy and study.\n\nQuestion: Which word best describes the author's tone toward the Simien Mountains?",
+          "options": [
+            "Admiring",
+            "Bored",
+            "Angry",
+            "Fearful"
+          ],
+          "answer": "0",
+          "explanation": "The author praises the beauty and uniqueness of the mountains, showing an admiring tone."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nMany people throw away plastic bottles without a second thought, but these bottles can take hundreds of years to break down in nature. When plastic is dumped in rivers or fields, it harms animals that may swallow it or become trapped in it. A better choice is to reduce, reuse, and recycle. We can reduce waste by carrying our own water in a metal bottle instead of buying new plastic ones. We can reuse containers by turning empty bottles into plant pots or storage jars. We can recycle by sorting plastic so that factories can melt it down and make new products. Some argue that recycling is too much effort, but small daily habits add up to a large difference. If every student in a school recycled just one bottle a week, thousands of bottles would be kept out of the environment each year. The responsibility to protect our planet belongs to all of us.\n\nQuestion: What is the author trying to persuade readers to do?",
+          "options": [
+            "Buy more plastic bottles for convenience",
+            "Reduce, reuse, and recycle to protect the environment",
+            "Stop drinking water during the school day",
+            "Build more factories that make plastic"
+          ],
+          "answer": "1",
+          "explanation": "The passage argues that reducing, reusing, and recycling protects the environment from plastic waste."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nMany people throw away plastic bottles without a second thought, but these bottles can take hundreds of years to break down in nature. When plastic is dumped in rivers or fields, it harms animals that may swallow it or become trapped in it. A better choice is to reduce, reuse, and recycle. We can reduce waste by carrying our own water in a metal bottle instead of buying new plastic ones. We can reuse containers by turning empty bottles into plant pots or storage jars. We can recycle by sorting plastic so that factories can melt it down and make new products. Some argue that recycling is too much effort, but small daily habits add up to a large difference. If every student in a school recycled just one bottle a week, thousands of bottles would be kept out of the environment each year. The responsibility to protect our planet belongs to all of us.\n\nQuestion: According to the passage, how can people reduce plastic waste?",
+          "options": [
+            "By carrying their own metal water bottle",
+            "By burning plastic bottles in fields",
+            "By buying a new bottle every day",
+            "By throwing bottles into rivers"
+          ],
+          "answer": "0",
+          "explanation": "The passage says we can reduce waste by carrying our own water in a metal bottle instead of buying plastic ones."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nMany people throw away plastic bottles without a second thought, but these bottles can take hundreds of years to break down in nature. When plastic is dumped in rivers or fields, it harms animals that may swallow it or become trapped in it. A better choice is to reduce, reuse, and recycle. We can reduce waste by carrying our own water in a metal bottle instead of buying new plastic ones. We can reuse containers by turning empty bottles into plant pots or storage jars. We can recycle by sorting plastic so that factories can melt it down and make new products. Some argue that recycling is too much effort, but small daily habits add up to a large difference. If every student in a school recycled just one bottle a week, thousands of bottles would be kept out of the environment each year. The responsibility to protect our planet belongs to all of us.\n\nQuestion: In this passage, the phrase \"break down\" most nearly means",
+          "options": [
+            "decay into smaller pieces",
+            "stop working suddenly",
+            "begin to cry",
+            "force open a door"
+          ],
+          "answer": "0",
+          "explanation": "Here \"break down\" refers to plastic decaying into smaller pieces over time in nature."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nMany people throw away plastic bottles without a second thought, but these bottles can take hundreds of years to break down in nature. When plastic is dumped in rivers or fields, it harms animals that may swallow it or become trapped in it. A better choice is to reduce, reuse, and recycle. We can reduce waste by carrying our own water in a metal bottle instead of buying new plastic ones. We can reuse containers by turning empty bottles into plant pots or storage jars. We can recycle by sorting plastic so that factories can melt it down and make new products. Some argue that recycling is too much effort, but small daily habits add up to a large difference. If every student in a school recycled just one bottle a week, thousands of bottles would be kept out of the environment each year. The responsibility to protect our planet belongs to all of us.\n\nQuestion: What can be inferred from the example about students recycling one bottle a week?",
+          "options": [
+            "Only a few students need to act for change to happen.",
+            "Small individual actions can combine into a large positive effect.",
+            "Recycling one bottle a week makes no real difference.",
+            "Schools should stop allowing plastic bottles entirely."
+          ],
+          "answer": "1",
+          "explanation": "The example shows that many small actions together keep thousands of bottles out of the environment, implying small efforts add up."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nMany people throw away plastic bottles without a second thought, but these bottles can take hundreds of years to break down in nature. When plastic is dumped in rivers or fields, it harms animals that may swallow it or become trapped in it. A better choice is to reduce, reuse, and recycle. We can reduce waste by carrying our own water in a metal bottle instead of buying new plastic ones. We can reuse containers by turning empty bottles into plant pots or storage jars. We can recycle by sorting plastic so that factories can melt it down and make new products. Some argue that recycling is too much effort, but small daily habits add up to a large difference. If every student in a school recycled just one bottle a week, thousands of bottles would be kept out of the environment each year. The responsibility to protect our planet belongs to all of us.\n\nQuestion: Why does the author include the sentence \"Some argue that recycling is too much effort\"?",
+          "options": [
+            "To agree that recycling should be avoided",
+            "To present an opposing view before answering it",
+            "To change the topic to a new subject",
+            "To prove that recycling is impossible"
+          ],
+          "answer": "1",
+          "explanation": "The author raises a counterargument and then answers it by showing small habits make a big difference."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nMany people throw away plastic bottles without a second thought, but these bottles can take hundreds of years to break down in nature. When plastic is dumped in rivers or fields, it harms animals that may swallow it or become trapped in it. A better choice is to reduce, reuse, and recycle. We can reduce waste by carrying our own water in a metal bottle instead of buying new plastic ones. We can reuse containers by turning empty bottles into plant pots or storage jars. We can recycle by sorting plastic so that factories can melt it down and make new products. Some argue that recycling is too much effort, but small daily habits add up to a large difference. If every student in a school recycled just one bottle a week, thousands of bottles would be kept out of the environment each year. The responsibility to protect our planet belongs to all of us.\n\nQuestion: In the final sentence, the word \"us\" refers to",
+          "options": [
+            "only factory owners",
+            "all people, including the reader",
+            "only the animals harmed by plastic",
+            "only students in one school"
+          ],
+          "answer": "1",
+          "explanation": "The closing line says responsibility belongs to all of us, including the reader, making the appeal universal."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nAbeba had practiced her speech for weeks, yet her hands trembled as she walked toward the stage. The hall was full of students and teachers, and every seat seemed to stare back at her. She remembered her grandmother's words: \"Courage is not the absence of fear, but moving forward in spite of it.\" Taking a slow breath, she gripped the edges of the wooden podium and began. Her voice shook at first, but as she spoke about the value of clean water in her village, she forgot the crowd and remembered why the topic mattered to her. By the end, her words flowed steadily, and the room had grown silent with attention. When the applause came, Abeba realized that the fear had not vanished; she had simply carried it with her and spoken anyway. That night, she understood her grandmother's lesson far better than she ever had before.\n\nQuestion: What is the main lesson Abeba learns in the passage?",
+          "options": [
+            "It is best to avoid speaking in front of crowds.",
+            "Courage means acting even while you still feel afraid.",
+            "Speeches should always be memorized for weeks.",
+            "Grandparents rarely give useful advice."
+          ],
+          "answer": "1",
+          "explanation": "Abeba realizes courage is carrying fear with you and acting anyway, echoing her grandmother's words."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nAbeba had practiced her speech for weeks, yet her hands trembled as she walked toward the stage. The hall was full of students and teachers, and every seat seemed to stare back at her. She remembered her grandmother's words: \"Courage is not the absence of fear, but moving forward in spite of it.\" Taking a slow breath, she gripped the edges of the wooden podium and began. Her voice shook at first, but as she spoke about the value of clean water in her village, she forgot the crowd and remembered why the topic mattered to her. By the end, her words flowed steadily, and the room had grown silent with attention. When the applause came, Abeba realized that the fear had not vanished; she had simply carried it with her and spoken anyway. That night, she understood her grandmother's lesson far better than she ever had before.\n\nQuestion: What was the topic of Abeba's speech?",
+          "options": [
+            "The value of clean water in her village",
+            "How to build a wooden podium",
+            "Her grandmother's life story",
+            "The history of her school"
+          ],
+          "answer": "0",
+          "explanation": "The passage states that Abeba spoke about the value of clean water in her village."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nAbeba had practiced her speech for weeks, yet her hands trembled as she walked toward the stage. The hall was full of students and teachers, and every seat seemed to stare back at her. She remembered her grandmother's words: \"Courage is not the absence of fear, but moving forward in spite of it.\" Taking a slow breath, she gripped the edges of the wooden podium and began. Her voice shook at first, but as she spoke about the value of clean water in her village, she forgot the crowd and remembered why the topic mattered to her. By the end, her words flowed steadily, and the room had grown silent with attention. When the applause came, Abeba realized that the fear had not vanished; she had simply carried it with her and spoken anyway. That night, she understood her grandmother's lesson far better than she ever had before.\n\nQuestion: How did Abeba feel at the very beginning of her speech?",
+          "options": [
+            "Calm and confident",
+            "Nervous and afraid",
+            "Bored and sleepy",
+            "Angry and impatient"
+          ],
+          "answer": "1",
+          "explanation": "Her trembling hands and shaking voice show she felt nervous and afraid at the start."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nAbeba had practiced her speech for weeks, yet her hands trembled as she walked toward the stage. The hall was full of students and teachers, and every seat seemed to stare back at her. She remembered her grandmother's words: \"Courage is not the absence of fear, but moving forward in spite of it.\" Taking a slow breath, she gripped the edges of the wooden podium and began. Her voice shook at first, but as she spoke about the value of clean water in her village, she forgot the crowd and remembered why the topic mattered to her. By the end, her words flowed steadily, and the room had grown silent with attention. When the applause came, Abeba realized that the fear had not vanished; she had simply carried it with her and spoken anyway. That night, she understood her grandmother's lesson far better than she ever had before.\n\nQuestion: The phrase \"every seat seemed to stare back at her\" suggests that Abeba felt",
+          "options": [
+            "watched and under pressure",
+            "relaxed and comfortable",
+            "lonely in an empty hall",
+            "proud of the large crowd"
+          ],
+          "answer": "0",
+          "explanation": "The image of seats staring back conveys how closely watched and pressured she felt before the crowd."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nAbeba had practiced her speech for weeks, yet her hands trembled as she walked toward the stage. The hall was full of students and teachers, and every seat seemed to stare back at her. She remembered her grandmother's words: \"Courage is not the absence of fear, but moving forward in spite of it.\" Taking a slow breath, she gripped the edges of the wooden podium and began. Her voice shook at first, but as she spoke about the value of clean water in her village, she forgot the crowd and remembered why the topic mattered to her. By the end, her words flowed steadily, and the room had grown silent with attention. When the applause came, Abeba realized that the fear had not vanished; she had simply carried it with her and spoken anyway. That night, she understood her grandmother's lesson far better than she ever had before.\n\nQuestion: In the sentence \"she had simply carried it with her,\" the word \"it\" refers to",
+          "options": [
+            "the podium",
+            "the fear",
+            "the applause",
+            "the speech notes"
+          ],
+          "answer": "1",
+          "explanation": "The sentence explains that the fear had not vanished and that she carried that fear with her while speaking."
+        }
+      ]
+    }
+  ]
+}

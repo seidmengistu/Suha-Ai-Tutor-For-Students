@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 7,
+      "subjectKey": "general-science",
+      "questions": [
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which Ethiopian scientist won the World Food Prize for improving the sorghum crop?",
+          "options": ["Dr. Gebisa Ejeta", "Dr. Aklilu Lemma", "Marie Curie", "Isaac Newton"],
+          "answer": "0",
+          "explanation": "Dr. Gebisa Ejeta improved sorghum and won the World Food Prize for his work."
+        },
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A learner wants to grow and count bacteria in the laboratory. Which apparatus is most suitable?",
+          "options": ["Petri dish", "Graduated cylinder", "Thermometer", "Tongs"],
+          "answer": "0",
+          "explanation": "A Petri dish is a shallow covered dish used to grow and count bacteria and other microbes."
+        },
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A study uses both the Kosso tree remedy known by local elders AND laboratory testing to confirm how it works. This approach best shows that modern science tries to:",
+          "options": ["Reject all indigenous knowledge", "Combine indigenous and conventional science", "Use only laboratory machines", "Avoid the scientific method"],
+          "answer": "1",
+          "explanation": "Modern science values both, combining indigenous knowledge built from local experience with conventional scientific testing."
+        },
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A scientist shares her full method and data so that others can repeat her experiment and check the result. Which scientific value is she mainly showing?",
+          "options": ["Secrecy", "Carelessness", "Bias", "Openness"],
+          "answer": "3",
+          "explanation": "Openness means sharing methods and data freely so others can review and repeat the work; secrecy and bias are the opposite of good ethics."
+        },
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which task is best described as technology rather than pure science?",
+          "options": ["Explaining why objects fall to the ground", "Building a water pump to irrigate a farm", "Discovering a new law of nature", "Testing a hypothesis with an experiment"],
+          "answer": "1",
+          "explanation": "Technology uses scientific knowledge to create useful solutions, such as a water pump. The other tasks are about creating or testing knowledge, which is science."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which one of the following is NOT matter?",
+          "options": ["Air", "Water", "Light", "A stone"],
+          "answer": "2",
+          "explanation": "Light is a form of energy; it has no mass and does not take up space, so it is not matter. Air, water, and stone are all matter."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When a substance is heated, its particles gain energy and:",
+          "options": ["Stop moving completely", "Become heavier", "Move faster and spread apart", "Turn into a new substance"],
+          "answer": "2",
+          "explanation": "Heating gives particles more energy so they move faster and spread apart, which can change a solid to a liquid or a liquid to a gas."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A learner mixes iron filings, sand, and salt. Which sequence can fully separate all three?",
+          "options": ["Use a magnet, then dissolve in water and filter, then evaporate", "Only filter the whole mixture once", "Only use a magnet", "Heat the mixture until it burns"],
+          "answer": "0",
+          "explanation": "A magnet removes the iron, then water dissolves the salt so the sand can be filtered out, and finally evaporation recovers the salt."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which observation is the clearest evidence that a chemical change, not a physical change, has taken place?",
+          "options": ["A liquid changes to the shape of its cup", "An ice cube becomes smaller", "Sugar disappears into warm tea", "A new gas with a different smell is given off"],
+          "answer": "3",
+          "explanation": "Producing a new substance, shown here by a new gas with a different smell, signals a chemical change. The other options are physical changes."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the chemical symbol for gold?",
+          "options": ["Go", "Gd", "Au", "Ag"],
+          "answer": "2",
+          "explanation": "Gold has the symbol Au, taken from its Latin name 'aurum'."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In the balanced equation 2H₂ + O₂ → 2H₂O, the large number 2 written in front of H₂O is called a:",
+          "options": ["Subscript", "Symbol", "Product", "Coefficient"],
+          "answer": "3",
+          "explanation": "The large number written in front of a formula is a coefficient; it tells how many units of that substance take part and is used to balance equations."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How many atoms in total are present in one unit of ammonium nitrate, NH₄NO₃?",
+          "options": ["7", "8", "9", "6"],
+          "answer": "2",
+          "explanation": "NH₄NO₃ has 2 nitrogen, 4 hydrogen, and 3 oxygen atoms, giving a total of 2 + 4 + 3 = 9 atoms."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which is the correctly balanced equation for iron reacting with oxygen to form iron(III) oxide, Fe₂O₃?",
+          "options": ["Fe + O₂ → Fe₂O₃", "2Fe + O₂ → Fe₂O₃", "4Fe + 3O₂ → 2Fe₂O₃", "Fe + 3O₂ → 2Fe₂O₃"],
+          "answer": "2",
+          "explanation": "4Fe + 3O₂ → 2Fe₂O₃ has 4 iron atoms and 6 oxygen atoms on each side, so it is balanced."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which list contains only compounds (no elements or mixtures)?",
+          "options": ["Carbon dioxide, water, table salt", "Water, oxygen, salt", "Air, water, gold", "Iron, oxygen, hydrogen"],
+          "answer": "0",
+          "explanation": "Carbon dioxide (CO₂), water (H₂O), and table salt (NaCl) are all compounds, made of elements chemically joined in a fixed ratio."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which part of the cell stores water, food, and waste?",
+          "options": ["Nucleus", "Mitochondria", "Vacuole", "Cell membrane"],
+          "answer": "2",
+          "explanation": "The vacuole is a sac inside the cell that stores water, food, and waste; in plant cells it is large and helps keep the plant firm."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The green substance inside a chloroplast that actually traps sunlight is called:",
+          "options": ["Cytoplasm", "Chlorophyll", "Chromosome", "Membrane"],
+          "answer": "1",
+          "explanation": "Chlorophyll is the green substance inside the chloroplast; it traps sunlight so the plant can make food by photosynthesis."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "On a light microscope, which knob is turned FIRST to bring the image roughly into view?",
+          "options": ["Fine adjustment knob", "Diaphragm", "Eyepiece", "Coarse adjustment knob"],
+          "answer": "3",
+          "explanation": "The coarse adjustment knob moves the tube a large amount to bring the image roughly into focus; the fine knob is then used to sharpen it."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A microscope's eyepiece magnifies 5× and its objective magnifies 20×. What is the total magnification?",
+          "options": ["25 times", "100 times", "15 times", "40 times"],
+          "answer": "1",
+          "explanation": "Total magnification = eyepiece × objective = 5 × 20 = 100 times."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Producing new individuals of the same kind is the life characteristic called:",
+          "options": ["Movement", "Reproduction", "Respiration", "Excretion"],
+          "answer": "1",
+          "explanation": "Reproduction is the production of new individuals of the same kind, one of the MRS GREN characteristics of living things."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Green algae found floating in a pond are single-celled and have a true nucleus. They belong to which kingdom?",
+          "options": ["Monera", "Fungi", "Protista", "Animalia"],
+          "answer": "2",
+          "explanation": "Algae such as these are mostly single-celled organisms with a true nucleus, which places them in Kingdom Protista."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which classification level comes immediately ABOVE 'species' (that is, the next larger group)?",
+          "options": ["Family", "Genus", "Order", "Kingdom"],
+          "answer": "1",
+          "explanation": "The order from largest to smallest is Kingdom, Phylum, Class, Order, Family, Genus, Species, so Genus is the group just above species."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A learner says a candle flame is alive because it 'moves', 'grows', and 'needs air'. Why is this conclusion wrong?",
+          "options": ["A flame is too hot to be alive", "A flame cannot reproduce, excrete, or take in food, so it lacks all life characteristics", "A flame is too bright to study", "A flame is a kind of animal"],
+          "answer": "1",
+          "explanation": "A thing is alive only if it shows ALL the MRS GREN characteristics. A flame cannot reproduce, excrete, or feed, so it is not living."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two organisms are placed in the same kingdom but different species. Which statement is true?",
+          "options": ["They are exactly the same organism", "They must live in different countries", "They cannot be classified at all", "They share broad features but are different enough that they cannot normally breed together"],
+          "answer": "3",
+          "explanation": "Being in the same kingdom means they share broad features, but different species means they differ enough that they cannot normally breed together."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The imaginary tilted line through the poles, around which the Earth spins, is called the:",
+          "options": ["Equator", "Orbit", "Axis", "Horizon"],
+          "answer": "2",
+          "explanation": "The axis is the imaginary tilted line through the North and South poles around which the Earth rotates."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The blanket of gases held around the Earth by gravity, which gives us air to breathe, is the:",
+          "options": ["Hydrosphere", "Lithosphere", "Atmosphere", "Mantle"],
+          "answer": "2",
+          "explanation": "The atmosphere is the layer of gases held around the Earth by gravity; it provides air, protects us from harmful rays, and keeps the Earth warm."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Between the thin crust and the hot metal core lies a thick layer of hot, partly soft rock. This layer is the:",
+          "options": ["Atmosphere", "Hydrosphere", "Inner core", "Mantle"],
+          "answer": "3",
+          "explanation": "The mantle is the thick layer of very hot, partly soft rock found between the crust and the core."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "During a lunar eclipse, the Earth casts a curved (round) shadow on the Moon. This is taken as evidence that:",
+          "options": ["The Moon is flat", "The Earth is round (a sphere)", "The Sun is very small", "The Earth does not move"],
+          "answer": "1",
+          "explanation": "A sphere always casts a round shadow; the round shadow the Earth casts on the Moon is evidence that the Earth is round."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "After heavy rain fills a river, the Sun heats the water, vapour rises and forms clouds, and rain falls again. This continuous process is the:",
+          "options": ["Rock cycle", "Water cycle", "Rotation of the Earth", "Carbon cycle"],
+          "answer": "1",
+          "explanation": "The repeated movement of water through evaporation, condensation, and precipitation is the water cycle."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Energy that travels as sound, such as from a beating drum, is called:",
+          "options": ["Light energy", "Chemical energy", "Sound energy", "Potential energy"],
+          "answer": "2",
+          "explanation": "Sound energy is the energy that travels as sound waves, for example from a drum or a voice."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The unit used to measure energy and work is the:",
+          "options": ["Newton", "Joule", "Kilogram", "Litre"],
+          "answer": "1",
+          "explanation": "Energy and work are measured in joules (J). Force is measured in newtons and mass in kilograms."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Friction between a moving box and the floor is an example of which kind of force?",
+          "options": ["Non-contact force", "Gravitational force", "Magnetic force", "Contact force"],
+          "answer": "3",
+          "explanation": "Friction acts only where two surfaces touch, so it is a contact force, unlike gravity or magnetism which act from a distance."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The Moon travelling along its path around the Earth is an example of which type of motion?",
+          "options": ["Linear motion", "Oscillatory motion", "Circular motion", "No motion"],
+          "answer": "2",
+          "explanation": "Moving along a circular path, such as the Moon orbiting the Earth, is circular motion."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a torch (flashlight), a battery makes a bulb glow. The main energy change is from:",
+          "options": ["Light energy to chemical energy", "Chemical energy to electrical energy to light energy", "Sound energy to light energy", "Kinetic energy to chemical energy"],
+          "answer": "1",
+          "explanation": "The battery's stored chemical energy becomes electrical energy in the wires, which the bulb turns into light energy."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why should a country rely more on renewable energy such as solar and hydro power instead of only coal and oil?",
+          "options": ["Renewable sources will not run out and cause less pollution", "Renewable sources are heavier", "Coal and oil never run out", "Renewable sources cannot make electricity"],
+          "answer": "0",
+          "explanation": "Renewable sources such as sunlight and water will not run out and cause less pollution, while coal and oil are limited and pollute the environment."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A wind turbine produces electricity that lights a house. Trace the main energy changes in the correct order.",
+          "options": ["Chemical → kinetic → light", "Kinetic energy of wind → electrical energy → light energy", "Light → electrical → kinetic", "Sound → electrical → heat"],
+          "answer": "1",
+          "explanation": "The moving wind (kinetic energy) turns the turbine to make electrical energy, which the bulb then changes into light energy."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A 6 kg bag has a smaller weight on the Moon than on Earth, even though it is the same bag. The best explanation is that:",
+          "options": ["The bag lost some matter on the way", "Weight depends on gravity, which is weaker on the Moon, while mass stays the same", "Mass depends on gravity but weight does not", "Both mass and weight always stay the same everywhere"],
+          "answer": "1",
+          "explanation": "Mass (the amount of matter) stays 6 kg everywhere, but weight is the force of gravity, so it is smaller where gravity is weaker, such as on the Moon."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "mathematics",
+      "questions": [
+        {
+          "topic": "Inverse of a relation",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the inverse of the relation `R = {(0, 3), (5, 1)}`?",
+          "options": [
+            "`{(0, 3), (5, 1)}`",
+            "`{(3, 5), (1, 0)}`",
+            "`{(3, 0), (1, 5)}`",
+            "`{(0, 1), (5, 3)}`"
+          ],
+          "answer": "2",
+          "explanation": "The inverse swaps each pair: `(0, 3)` becomes `(3, 0)` and `(5, 1)` becomes `(1, 5)`."
+        },
+        {
+          "topic": "Vectors and scalars",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following is a scalar quantity?",
+          "options": [
+            "Force",
+            "Distance",
+            "Acceleration",
+            "Displacement"
+          ],
+          "answer": "1",
+          "explanation": "A scalar has size only. Distance is a scalar; force, acceleration, and displacement all have direction, so they are vectors."
+        },
+        {
+          "topic": "The imaginary unit",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is `i³`?",
+          "options": [
+            "1",
+            "`i`",
+            "`-i`",
+            "-1"
+          ],
+          "answer": "2",
+          "explanation": "`i³ = i² · i = (-1)(i) = -i`."
+        },
+        {
+          "topic": "Reciprocal trig functions",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is `cot x` equal to?",
+          "options": [
+            "`1/sin x`",
+            "`1/cos x`",
+            "`sin x/cos x`",
+            "`cos x/sin x`"
+          ],
+          "answer": "3",
+          "explanation": "Cotangent is the reciprocal of tangent: `cot x = 1/tan x = cos x/sin x`."
+        },
+        {
+          "topic": "Mode",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the mode of the data set `4, 7, 7, 10, 10, 10, 12`?",
+          "options": [
+            "7",
+            "10",
+            "12",
+            "4"
+          ],
+          "answer": "1",
+          "explanation": "The mode is the value that appears most often; `10` appears three times, more than any other value."
+        },
+        {
+          "topic": "Composition of functions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If `f(x) = 3x - 2` and `g(x) = x + 6`, what is `(g ∘ f)(4)`?",
+          "options": [
+            "10",
+            "28",
+            "12",
+            "16"
+          ],
+          "answer": "3",
+          "explanation": "Apply `f` first: `f(4) = 3(4) - 2 = 10`. Then `g(10) = 10 + 6 = 16`."
+        },
+        {
+          "topic": "Inverse of a function",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the inverse of `f(x) = 7x + 14`?",
+          "options": [
+            "`f⁻¹(x) = 7x - 14`",
+            "`f⁻¹(x) = (x + 14)/7`",
+            "`f⁻¹(x) = (x - 14)/7`",
+            "`f⁻¹(x) = 1/(7x + 14)`"
+          ],
+          "answer": "2",
+          "explanation": "Swap to get `x = 7y + 14`, so `7y = x - 14`, giving `y = (x - 14)/7`."
+        },
+        {
+          "topic": "Excluded values",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "For which values of `x` is `(x + 1)/(x² - 9)` undefined?",
+          "options": [
+            "`x = 9` only",
+            "`x = 3` and `x = -3`",
+            "`x = -1` only",
+            "`x = 0` and `x = 9`"
+          ],
+          "answer": "1",
+          "explanation": "Set the denominator to zero: `x² - 9 = 0` gives `x² = 9`, so `x = 3` or `x = -3`."
+        },
+        {
+          "topic": "Solving rational equations",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Solve `3/x + 1/2 = 2/x`.",
+          "options": [
+            "`x = 2`",
+            "`x = 1`",
+            "`x = -2`",
+            "`x = -1`"
+          ],
+          "answer": "2",
+          "explanation": "Multiply every term by `2x`: `6 + x = 4`, so `x = -2` (which does not make the denominator zero)."
+        },
+        {
+          "topic": "Slope of a line",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the slope of the line through `(-3, 2)` and `(1, 10)`?",
+          "options": [
+            "-2",
+            "2",
+            "1/2",
+            "4"
+          ],
+          "answer": "1",
+          "explanation": "Slope `= (10 - 2)/(1 - (-3)) = 8/4 = 2`."
+        },
+        {
+          "topic": "Matrix addition",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is `[[3, -1], [0, 5]] + [[2, 4], [-6, 1]]`?",
+          "options": [
+            "`[[5, 3], [6, 6]]`",
+            "`[[5, 3], [-6, 6]]`",
+            "`[[1, 3], [-6, 6]]`",
+            "`[[5, 5], [-6, 4]]`"
+          ],
+          "answer": "1",
+          "explanation": "Add corresponding entries: `3+2=5`, `-1+4=3`, `0+(-6)=-6`, `5+1=6`."
+        },
+        {
+          "topic": "Adding complex numbers",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is `(7 - 2i) - (3 + 5i)`?",
+          "options": [
+            "`4 + 3i`",
+            "`10 + 3i`",
+            "`4 - 3i`",
+            "`4 - 7i`"
+          ],
+          "answer": "3",
+          "explanation": "Subtract real parts (`7 - 3 = 4`) and imaginary parts (`-2i - 5i = -7i`): `4 - 7i`."
+        },
+        {
+          "topic": "Dot product",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the dot product of `(-4, 3)` and `(2, 6)`?",
+          "options": [
+            "-10",
+            "26",
+            "10",
+            "14"
+          ],
+          "answer": "2",
+          "explanation": "Dot product `= (-4)(2) + (3)(6) = -8 + 18 = 10`."
+        },
+        {
+          "topic": "Reciprocal trig functions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If `tan x = 2/9`, what is `cot x`?",
+          "options": [
+            "`2/9`",
+            "`9/2`",
+            "`-9/2`",
+            "`9`"
+          ],
+          "answer": "1",
+          "explanation": "`cot x = 1/tan x = 1/(2/9) = 9/2`."
+        },
+        {
+          "topic": "Negation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the negation of the statement \"Some students passed the exam\"?",
+          "options": [
+            "No student passed the exam",
+            "All students passed the exam",
+            "Some students failed the exam",
+            "Many students passed the exam"
+          ],
+          "answer": "0",
+          "explanation": "The negation of \"some do\" is \"none do\". So \"Some students passed\" is negated by \"No student passed\"."
+        },
+        {
+          "topic": "Probability",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A spinner has 8 equal sections numbered 1 to 8. What is `P(landing on a multiple of 3)`?",
+          "options": [
+            "`1/4`",
+            "`3/8`",
+            "`1/8`",
+            "`1/2`"
+          ],
+          "answer": "0",
+          "explanation": "Multiples of 3 from 1 to 8 are `3` and `6` (two of them), so `P = 2/8 = 1/4`."
+        },
+        {
+          "topic": "One-to-one functions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which of these functions is NOT one-to-one over all real numbers?",
+          "options": [
+            "`f(x) = 5x - 9`",
+            "`f(x) = x³ - 2`",
+            "`f(x) = (x - 3)²`",
+            "`f(x) = -4x + 1`"
+          ],
+          "answer": "2",
+          "explanation": "`(x - 3)²` gives the same output for inputs equidistant from 3 (e.g. `2` and `4` both give `1`), so it is not one-to-one."
+        },
+        {
+          "topic": "Composition of functions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "If `f(x) = x² + 1` and `g(x) = 2x - 3`, what is `(g ∘ f)(x)`?",
+          "options": [
+            "`2x² - 1`",
+            "`4x² - 12x + 10`",
+            "`2x² - 3`",
+            "`2x² + 2`"
+          ],
+          "answer": "0",
+          "explanation": "Apply `f` first, then `g`: `g(f(x)) = 2(x² + 1) - 3 = 2x² + 2 - 3 = 2x² - 1`."
+        },
+        {
+          "topic": "Vertical asymptote",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the vertical asymptote of `f(x) = (x + 4)/(2x - 6)`?",
+          "options": [
+            "`x = -4`",
+            "`x = 6`",
+            "`x = 3`",
+            "`y = 1/2`"
+          ],
+          "answer": "2",
+          "explanation": "Set the denominator to zero: `2x - 6 = 0`, so `x = 3`."
+        },
+        {
+          "topic": "Horizontal asymptote",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the horizontal asymptote of `f(x) = (5x + 2)/(x² - 1)`?",
+          "options": [
+            "`y = 5`",
+            "`y = 0`",
+            "`y = -2`",
+            "`y = 1`"
+          ],
+          "answer": "1",
+          "explanation": "The bottom degree (2) is larger than the top degree (1), so the horizontal asymptote is `y = 0`."
+        },
+        {
+          "topic": "Identifying conics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which equation represents a parabola?",
+          "options": [
+            "`x²/9 + y²/4 = 1`",
+            "`x²/9 - y²/4 = 1`",
+            "`x = 2y² + 5`",
+            "`x² + y² = 9`"
+          ],
+          "answer": "2",
+          "explanation": "A parabola has exactly one squared variable. `x = 2y² + 5` squares only `y`, so it is a parabola; the others are an ellipse, a hyperbola, and a circle."
+        },
+        {
+          "topic": "Determinant of a 2x2 matrix",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the determinant of `[[-2, 5], [3, -4]]`?",
+          "options": [
+            "23",
+            "-7",
+            "7",
+            "-23"
+          ],
+          "answer": "1",
+          "explanation": "`det = ad - bc = (-2)(-4) - (5)(3) = 8 - 15 = -7`."
+        },
+        {
+          "topic": "Inverse of a 2x2 matrix",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the inverse of `[[4, 2], [3, 2]]`?",
+          "options": [
+            "`[[2, -2], [-3, 4]]`",
+            "`[[2, 3], [2, 4]]`",
+            "`[[1/4, 1/2], [1/3, 1/2]]`",
+            "`[[1, -1], [-3/2, 2]]`"
+          ],
+          "answer": "3",
+          "explanation": "`det = (4)(2) - (2)(3) = 2`. Inverse `= (1/2)·[[2, -2], [-3, 4]] = [[1, -1], [-3/2, 2]]`."
+        },
+        {
+          "topic": "Matrix multiplication",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is `[[2, -1], [1, 3]] × [[5], [2]]`?",
+          "options": [
+            "`[[11], [8]]`",
+            "`[[12], [7]]`",
+            "`[[8], [11]]`",
+            "`[[8], [7]]`"
+          ],
+          "answer": "2",
+          "explanation": "Row 1: `(2)(5) + (-1)(2) = 10 - 2 = 8`. Row 2: `(1)(5) + (3)(2) = 5 + 6 = 11`. The product is `[[8], [11]]`."
+        },
+        {
+          "topic": "Dividing complex numbers",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Simplify `(5 + 5i)/(1 + 2i)`.",
+          "options": [
+            "`1 + 3i`",
+            "`5 + 5i`",
+            "`3 - i`",
+            "`3 + i`"
+          ],
+          "answer": "2",
+          "explanation": "Multiply top and bottom by the conjugate `1 - 2i`: top `= (5 + 5i)(1 - 2i) = 15 - 5i`; bottom `= 1 + 4 = 5`; so `(15 - 5i)/5 = 3 - i`."
+        },
+        {
+          "topic": "Perpendicular vectors",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "For what value of `k` are the vectors `(3, k)` and `(6, -4)` perpendicular?",
+          "options": [
+            "`k = -9/2`",
+            "`k = 9/2`",
+            "`k = 2`",
+            "`k = -2`"
+          ],
+          "answer": "1",
+          "explanation": "Perpendicular means dot product is 0: `(3)(6) + (k)(-4) = 18 - 4k = 0`, so `k = 18/4 = 9/2`."
+        },
+        {
+          "topic": "Magnitude of a vector",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the magnitude of the vector `(-7, 24)`?",
+          "options": [
+            "31",
+            "17",
+            "625",
+            "25"
+          ],
+          "answer": "3",
+          "explanation": "`|(-7, 24)| = √((-7)² + 24²) = √(49 + 576) = √625 = 25`."
+        },
+        {
+          "topic": "Range",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The range of a data set is 40 and its largest value is 52. What is the smallest value?",
+          "options": [
+            "92",
+            "40",
+            "12",
+            "-12"
+          ],
+          "answer": "2",
+          "explanation": "Range `= largest − smallest`, so `40 = 52 − smallest`, giving smallest `= 52 − 40 = 12`."
+        },
+        {
+          "topic": "Powers of i",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is `i¹⁵`?",
+          "options": [
+            "`i`",
+            "-1",
+            "1",
+            "`-i`"
+          ],
+          "answer": "3",
+          "explanation": "`i¹⁵ = i¹² · i³ = 1 · (-i) = -i`, since `i¹² = (i⁴)³ = 1` and `i³ = -i`."
+        },
+        {
+          "topic": "Disjunction",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "If `p` is true and `q` is false, what is `¬(p ∨ q)`?",
+          "options": [
+            "True",
+            "False",
+            "Both",
+            "Undefined"
+          ],
+          "answer": "1",
+          "explanation": "`p ∨ q` is true (since `p` is true), and the negation of true is false."
+        },
+        {
+          "topic": "Finding an inverse function",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "What is the inverse of `f(x) = 2x³`?",
+          "options": [
+            "`f⁻¹(x) = ∛(2x)`",
+            "`f⁻¹(x) = (x/2)³`",
+            "`f⁻¹(x) = ∛(x/2)`",
+            "`f⁻¹(x) = x³/2`"
+          ],
+          "answer": "2",
+          "explanation": "Swap to get `x = 2y³`, so `y³ = x/2`, giving `y = ∛(x/2)`."
+        },
+        {
+          "topic": "Cramer's rule",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Using Cramer's rule for `3x - 2y = 1` and `x + y = 7`, what is `y`?",
+          "options": [
+            "4",
+            "3",
+            "2",
+            "5"
+          ],
+          "answer": "0",
+          "explanation": "`D = (3)(1) - (-2)(1) = 5`. `Dᵧ` replaces the y-column with the constants: `Dᵧ = (3)(7) - (1)(1) = 20`. So `y = Dᵧ/D = 20/5 = 4`."
+        },
+        {
+          "topic": "Solving rational equations",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Solve `x/(x - 2) = 3`.",
+          "options": [
+            "`x = 2`",
+            "`x = 3`",
+            "`x = 6`",
+            "`x = -3`"
+          ],
+          "answer": "1",
+          "explanation": "Multiply both sides by `(x - 2)`: `x = 3(x - 2) = 3x - 6`, so `-2x = -6`, giving `x = 3` (which is valid)."
+        },
+        {
+          "topic": "Equation of a line through two points",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "What is the equation of the line through `(2, 1)` and `(5, 7)`?",
+          "options": [
+            "`y = 2x + 3`",
+            "`y = 3x - 5`",
+            "`y = 2x - 1`",
+            "`y = 2x - 3`"
+          ],
+          "answer": "3",
+          "explanation": "Slope `= (7 - 1)/(5 - 2) = 6/3 = 2`. Using `(2, 1)`: `1 = 2(2) + c`, so `c = -3`, giving `y = 2x - 3`."
+        },
+        {
+          "topic": "Validity of arguments",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "If `p` is true and `q` is false, what is `(p ⇒ q) ∨ (¬q)`?",
+          "options": [
+            "False",
+            "True",
+            "Both",
+            "Undefined"
+          ],
+          "answer": "1",
+          "explanation": "`p ⇒ q` is false (true ⇒ false), but `¬q` is true (since `q` is false), so `false ∨ true` is true."
+        },
+        {
+          "topic": "Applications of trigonometry",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "From a point on the ground, the angle of elevation to the top of a tower 50 m away is 30°. How tall is the tower? (`tan 30° ≈ 0.577`)",
+          "options": [
+            "About 50 m",
+            "About 86.6 m",
+            "About 28.9 m",
+            "About 25 m"
+          ],
+          "answer": "2",
+          "explanation": "`tan 30° = height/50`, so `height = 50 × 0.577 ≈ 28.9 m`."
+        }
+      ]
+    }
+  ]
+}

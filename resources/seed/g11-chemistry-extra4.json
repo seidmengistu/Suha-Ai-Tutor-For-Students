@@ -1,0 +1,326 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "chemistry",
+      "questions": [
+        {
+          "topic": "Physical vs chemical change",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following is a chemical change rather than a physical change?",
+          "options": ["melting candle wax", "dissolving sugar in water", "rusting of an iron nail", "crushing a piece of chalk"],
+          "answer": "2",
+          "explanation": "Rusting forms a new substance (iron oxide), so it is a chemical change. The others only change form, not the substance itself."
+        },
+        {
+          "topic": "SI prefixes",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "How many nanometres are there in 1 micrometre (μm)?",
+          "options": ["10", "100", "1000", "1000000"],
+          "answer": "2",
+          "explanation": "1 μm = 10⁻⁶ m and 1 nm = 10⁻⁹ m, so 1 μm ÷ 1 nm = 10⁻⁶ ÷ 10⁻⁹ = 1000 nm."
+        },
+        {
+          "topic": "Periodic table classification",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Elements in Group 1 of the periodic table are called the:",
+          "options": ["halogens", "alkali metals", "noble gases", "alkaline earth metals"],
+          "answer": "1",
+          "explanation": "Group 1 elements (lithium, sodium, potassium, etc.) are the alkali metals. The alkaline earth metals are Group 2 and the halogens are Group 17."
+        },
+        {
+          "topic": "Bonding type",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which pair of elements would most likely form a covalent bond?",
+          "options": ["sodium and chlorine", "magnesium and oxygen", "carbon and hydrogen", "potassium and bromine"],
+          "answer": "2",
+          "explanation": "Carbon and hydrogen are both non-metals, so they share electrons in a covalent bond. The other pairs are metal + non-metal and form ionic bonds."
+        },
+        {
+          "topic": "Catalysts",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which statement about a catalyst is correct?",
+          "options": ["it is permanently used up in the reaction", "it is chemically unchanged at the end of the reaction", "it makes the products more stable", "it increases the energy of the reactants"],
+          "answer": "1",
+          "explanation": "A catalyst speeds up a reaction by offering a lower-energy pathway and is recovered chemically unchanged once the reaction is over."
+        },
+        {
+          "topic": "Scientific notation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The number 0.000456 written in standard scientific notation is:",
+          "options": ["4.56 × 10⁻⁴", "4.56 × 10⁴", "45.6 × 10⁻⁵", "0.456 × 10⁻³"],
+          "answer": "0",
+          "explanation": "Moving the decimal point four places to the right gives 4.56, so the value is 4.56 × 10⁻⁴. Standard form needs one non-zero digit before the decimal point."
+        },
+        {
+          "topic": "Specific heat",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "How much heat is needed to raise the temperature of 200 g of water by 10 °C? (specific heat of water = 4.2 J/g·°C)",
+          "options": ["840 J", "4200 J", "8400 J", "2100 J"],
+          "answer": "2",
+          "explanation": "Heat = mass × specific heat × temperature change = 200 × 4.2 × 10 = 8400 J."
+        },
+        {
+          "topic": "Bohr model and spectra",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In the Bohr model, a line in an atom's emission spectrum is produced when an electron:",
+          "options": ["moves from a lower to a higher energy level", "is removed from the atom completely", "falls from a higher to a lower energy level, releasing light", "stays in a fixed orbit"],
+          "answer": "2",
+          "explanation": "Light is emitted when an electron drops from a higher to a lower energy level; the energy difference is given off as a photon of a specific colour, forming a spectral line."
+        },
+        {
+          "topic": "Mass number and notation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An ion is written as ⁴⁰₂₀Ca²⁺. How many electrons does this ion contain?",
+          "options": ["18", "20", "22", "40"],
+          "answer": "0",
+          "explanation": "Neutral calcium has 20 electrons (Z = 20). The 2+ charge means two electrons were lost, leaving 20 − 2 = 18 electrons."
+        },
+        {
+          "topic": "Dative (coordinate) bond",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In the ammonium ion (NH₄⁺), the fourth N–H bond is a dative (coordinate) covalent bond. This means the shared pair of electrons:",
+          "options": ["comes one electron from each atom", "comes entirely from the nitrogen atom", "comes entirely from the hydrogen ion", "is actually transferred, not shared"],
+          "answer": "1",
+          "explanation": "A dative covalent bond is a shared pair in which both electrons come from one atom. Nitrogen's lone pair forms the bond with the H⁺, which brings no electrons."
+        },
+        {
+          "topic": "Concentration and dilution",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What volume of water must be added to 50 cm³ of 2.0 mol/L acid to dilute it to 0.50 mol/L? (assume volumes add)",
+          "options": ["50 cm³", "100 cm³", "150 cm³", "200 cm³"],
+          "answer": "2",
+          "explanation": "Using C₁V₁ = C₂V₂: final volume = (2.0 × 50) ÷ 0.50 = 200 cm³. Water added = 200 − 50 = 150 cm³."
+        },
+        {
+          "topic": "Effect of surface area",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Powdered limestone reacts faster with acid than the same mass of large limestone lumps because the powder has a greater:",
+          "options": ["activation energy", "surface area exposed to the acid", "molar mass", "density"],
+          "answer": "1",
+          "explanation": "Breaking a solid into powder exposes more surface area, so more particles are available to collide with the acid, increasing the rate."
+        },
+        {
+          "topic": "Heat of reaction sign",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A reaction has an enthalpy change of ΔH = +58 kJ/mol. This reaction is:",
+          "options": ["exothermic and releases heat", "endothermic and absorbs heat", "neither endothermic nor exothermic", "impossible to occur"],
+          "answer": "1",
+          "explanation": "A positive ΔH means the system takes in heat from the surroundings, so the reaction is endothermic."
+        },
+        {
+          "topic": "Le Chatelier - volume",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "For the equilibrium N₂O₄(g) ⇌ 2NO₂(g), decreasing the volume of the container (raising the pressure) shifts the equilibrium toward:",
+          "options": ["the NO₂ side (more gas molecules)", "the N₂O₄ side (fewer gas molecules)", "neither side", "the reaction stops"],
+          "answer": "1",
+          "explanation": "Higher pressure favours the side with fewer gas molecules. The left side has 1 gas molecule (N₂O₄) versus 2 on the right, so the equilibrium shifts toward N₂O₄."
+        },
+        {
+          "topic": "Ester hydrolysis",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When the ester ethyl ethanoate is hydrolysed by warming with dilute acid and water, the products are:",
+          "options": ["ethanol and ethanoic acid", "two molecules of ethanol", "ethane and oxygen", "glycerol and a fatty acid"],
+          "answer": "0",
+          "explanation": "Acid hydrolysis of an ester reverses esterification, splitting it back into its parent alcohol (ethanol) and carboxylic acid (ethanoic acid)."
+        },
+        {
+          "topic": "Functional group identification",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The compound CH₃CH₂CHO contains which functional group?",
+          "options": ["carboxyl (-COOH)", "hydroxyl (-OH)", "aldehyde (-CHO)", "ester (-COO-)"],
+          "answer": "2",
+          "explanation": "The -CHO group at the end of the chain is the aldehyde functional group; the molecule is propanal."
+        },
+        {
+          "topic": "Percentage yield",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A reaction has a theoretical yield of 25.0 g but only 20.0 g of product is actually obtained. What is the percentage yield?",
+          "options": ["20%", "55%", "80%", "125%"],
+          "answer": "2",
+          "explanation": "Percentage yield = (actual ÷ theoretical) × 100 = (20.0 ÷ 25.0) × 100 = 80%."
+        },
+        {
+          "topic": "Stoichiometry mass-mass",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In the reaction 2Mg + O₂ → 2MgO, what mass of MgO forms when 6.0 g of magnesium burns completely? (Mg = 24, O = 16)",
+          "options": ["6.0 g", "10.0 g", "12.0 g", "16.0 g"],
+          "answer": "1",
+          "explanation": "6.0 g Mg ÷ 24 = 0.25 mol Mg. From the 2:2 ratio, 0.25 mol MgO forms. Mass = 0.25 × 40 = 10.0 g."
+        },
+        {
+          "topic": "Atomic radius trend",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which of these atoms has the largest atomic radius?",
+          "options": ["lithium", "carbon", "fluorine", "potassium"],
+          "answer": "3",
+          "explanation": "Atomic radius increases down a group and decreases across a period. Potassium is lowest and farthest left of these, so it has the largest radius."
+        },
+        {
+          "topic": "Hund's rule",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "By Hund's rule, how many unpaired electrons are there in a nitrogen atom (1s² 2s² 2p³)?",
+          "options": ["0", "1", "2", "3"],
+          "answer": "3",
+          "explanation": "Hund's rule places one electron in each of the three 2p orbitals before pairing, so all three 2p electrons are unpaired."
+        },
+        {
+          "topic": "Shapes with lone pairs",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Ammonia (NH₃) has three bonding pairs and one lone pair on nitrogen. According to VSEPR theory, its molecular shape is:",
+          "options": ["trigonal planar", "trigonal pyramidal", "tetrahedral", "linear"],
+          "answer": "1",
+          "explanation": "Four electron regions give a tetrahedral arrangement, but with one position taken by a lone pair the shape of the atoms is trigonal pyramidal (about 107°)."
+        },
+        {
+          "topic": "Electronegativity and bond type",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Using the electronegativity values H = 2.1, Cl = 3.0, Na = 0.9, which bond is the most polar?",
+          "options": ["H–H", "H–Cl", "Cl–Cl", "Na–Cl"],
+          "answer": "3",
+          "explanation": "Polarity grows with the electronegativity difference. Na–Cl has the largest difference (3.0 − 0.9 = 2.1), making it the most polar (in fact essentially ionic)."
+        },
+        {
+          "topic": "Rate doubling rule",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A reaction's rate doubles for every 10 °C rise in temperature. If the rate at 20 °C is 4 units, what is the approximate rate at 50 °C?",
+          "options": ["12 units", "16 units", "24 units", "32 units"],
+          "answer": "3",
+          "explanation": "A rise from 20 °C to 50 °C is three 10 °C steps, so the rate doubles three times: 4 × 2 × 2 × 2 = 32 units."
+        },
+        {
+          "topic": "Half-life concept",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The concentration of a reactant falls from 0.80 mol/L to 0.10 mol/L. By what factor has the concentration decreased?",
+          "options": ["a factor of 2", "a factor of 4", "a factor of 8", "a factor of 10"],
+          "answer": "2",
+          "explanation": "0.80 ÷ 0.10 = 8, so the concentration has fallen to one-eighth of its original value (three successive halvings: 0.80 → 0.40 → 0.20 → 0.10)."
+        },
+        {
+          "topic": "Kc and direction of change",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "For an equilibrium, the reaction quotient Q is found to be greater than Kc. In which direction will the reaction proceed to reach equilibrium?",
+          "options": ["forward, making more products", "backward, making more reactants", "it is already at equilibrium", "it will stop entirely"],
+          "answer": "1",
+          "explanation": "When Q > Kc there are too many products relative to reactants, so the reaction shifts backward (toward reactants) until Q falls to equal Kc."
+        },
+        {
+          "topic": "Naming esters from structure",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the name of the ester with the structure HCOOCH₂CH₃?",
+          "options": ["ethyl methanoate", "methyl ethanoate", "ethyl ethanoate", "propyl methanoate"],
+          "answer": "0",
+          "explanation": "The acid part HCOO- comes from methanoic acid (methanoate) and the -CH₂CH₃ part comes from ethanol (ethyl), giving ethyl methanoate."
+        },
+        {
+          "topic": "Combustion of hydrocarbons",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "When propane (C₃H₈) burns completely in oxygen, how many moles of oxygen are needed per mole of propane? (C₃H₈ + 5O₂ → 3CO₂ + 4H₂O)",
+          "options": ["3 mol", "4 mol", "5 mol", "8 mol"],
+          "answer": "2",
+          "explanation": "Balancing C₃H₈ + 5O₂ → 3CO₂ + 4H₂O shows that 5 mol of O₂ are required for each mole of propane."
+        },
+        {
+          "topic": "Bond energy calculation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "For H₂ + Cl₂ → 2HCl, bond energies are H–H = 436, Cl–Cl = 242, H–Cl = 431 kJ/mol. What is the enthalpy change of the reaction?",
+          "options": ["−184 kJ/mol", "+184 kJ/mol", "−247 kJ/mol", "+247 kJ/mol"],
+          "answer": "0",
+          "explanation": "ΔH = bonds broken − bonds formed = (436 + 242) − (2 × 431) = 678 − 862 = −184 kJ/mol (exothermic)."
+        },
+        {
+          "topic": "Kp expression",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "For the equilibrium N₂(g) + 3H₂(g) ⇌ 2NH₃(g), the correct expression for Kp in terms of partial pressures is:",
+          "options": ["(P_NH₃)² ÷ (P_N₂ × P_H₂³)", "(P_N₂ × P_H₂³) ÷ (P_NH₃)²", "(P_NH₃) ÷ (P_N₂ × P_H₂)", "(P_N₂ × P_H₂) ÷ (P_NH₃)"],
+          "answer": "0",
+          "explanation": "Kp is products over reactants using partial pressures, each raised to its coefficient: (P_NH₃)² ÷ (P_N₂ × P_H₂³)."
+        },
+        {
+          "topic": "Limiting reactant calculation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "For N₂ + 3H₂ → 2NH₃, if 2 mol of N₂ react with 3 mol of H₂, which is the limiting reactant?",
+          "options": ["nitrogen", "hydrogen", "both run out together", "neither, no reaction occurs"],
+          "answer": "1",
+          "explanation": "The ratio needed is 1 N₂ : 3 H₂. 2 mol N₂ would require 6 mol H₂, but only 3 mol H₂ are present, so hydrogen runs out first and is limiting."
+        },
+        {
+          "topic": "Concentration from titration",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In a titration, 25.0 cm³ of NaOH is exactly neutralised by 20.0 cm³ of 0.100 mol/L HCl (NaOH + HCl → NaCl + H₂O). What is the concentration of the NaOH?",
+          "options": ["0.0800 mol/L", "0.100 mol/L", "0.125 mol/L", "0.250 mol/L"],
+          "answer": "0",
+          "explanation": "Moles HCl = 0.0200 L × 0.100 = 0.00200 mol. The 1:1 ratio gives 0.00200 mol NaOH in 0.0250 L, so concentration = 0.00200 ÷ 0.0250 = 0.0800 mol/L."
+        },
+        {
+          "topic": "Successive ionisation energy pattern",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "An element's first three ionisation energies (kJ/mol) are 738, 1451, then 7733. The large jump before the third value shows the element is in:",
+          "options": ["Group 1", "Group 2", "Group 3", "Group 13"],
+          "answer": "1",
+          "explanation": "Two electrons are removed fairly easily, but the third needs far more energy because it comes from a stable inner shell, so the element has two outer electrons and is in Group 2."
+        },
+        {
+          "topic": "Equilibrium yield analysis",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "For the endothermic equilibrium PCl₅(g) ⇌ PCl₃(g) + Cl₂(g), which change increases the amount of PCl₃ at equilibrium?",
+          "options": ["increasing the pressure", "lowering the temperature", "raising the temperature", "adding a catalyst"],
+          "answer": "2",
+          "explanation": "The forward reaction is endothermic (heat acts as a reactant) and produces more gas molecules. Raising the temperature shifts it forward, increasing PCl₃. A catalyst does not change the position."
+        },
+        {
+          "topic": "Empirical to molecular formula",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A compound has the empirical formula CH₂ and a relative molecular mass of 56. What is its molecular formula? (C = 12, H = 1)",
+          "options": ["C₂H₄", "C₃H₆", "C₄H₈", "C₅H₁₀"],
+          "answer": "2",
+          "explanation": "The empirical mass of CH₂ is 14. Since 56 ÷ 14 = 4, the molecular formula is (CH₂)₄ = C₄H₈."
+        },
+        {
+          "topic": "Distinguishing organic families",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Two colourless liquids are tested with blue litmus and with sodium carbonate. Liquid X turns litmus red and fizzes with sodium carbonate; liquid Y does neither. The best identification is:",
+          "options": ["X is an alcohol and Y is a carboxylic acid", "X is a carboxylic acid and Y is an alcohol", "both are carboxylic acids", "both are esters"],
+          "answer": "1",
+          "explanation": "Carboxylic acids are acidic (turn litmus red) and release CO₂ with carbonates, so X is the carboxylic acid. An alcohol does neither, so Y is the alcohol."
+        }
+      ]
+    }
+  ]
+}

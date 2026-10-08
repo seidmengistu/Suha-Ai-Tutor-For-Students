@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "physics",
+      "questions": [
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "At the highest point of its path, what is the vertical velocity component of a projectile launched at an angle?",
+          "options": ["Zero", "Equal to its launch speed", "Greater than its launch speed", "Equal to its horizontal velocity"],
+          "answer": "0",
+          "explanation": "At the top of the path the projectile momentarily stops rising, so its vertical velocity component is zero."
+        },
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A 0.40 kg ball on a string is whirled in a horizontal circle of radius 0.50 m and completes 60 revolutions per minute. What centripetal force acts on it? (Use π² ≈ 9.87.)",
+          "options": ["1.6 N", "7.9 N", "0.79 N", "3.9 N"],
+          "answer": "1",
+          "explanation": "Frequency = 60/60 = 1.0 rev/s, so v = 2πr f = 2π × 0.50 × 1.0 = 3.14 m/s. F = mv²/r = 0.40 × (3.14)² / 0.50 = 0.40 × 9.87 / 0.50 ≈ 7.9 N."
+        },
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An arrow is shot at 50 m/s at 37° above the horizontal. Taking cos 37° = 0.80, what is its horizontal velocity component?",
+          "options": ["30 m/s", "40 m/s", "50 m/s", "25 m/s"],
+          "answer": "1",
+          "explanation": "Horizontal component = u cos θ = 50 × 0.80 = 40 m/s."
+        },
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A ball is whirled so it completes one full circle of radius 2.0 m in 4.0 s at constant speed. What is its speed?",
+          "options": ["1.6 m/s", "0.5 m/s", "6.3 m/s", "3.1 m/s"],
+          "answer": "3",
+          "explanation": "Speed = circumference / time = (2π × 2.0) / 4.0 = 12.57 / 4.0 ≈ 3.1 m/s."
+        },
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A ball rolls off a table 1.25 m high with a horizontal speed of 3.0 m/s. Using g = 10 m/s², how far from the base of the table does it land?",
+          "options": ["1.5 m", "3.0 m", "0.75 m", "6.0 m"],
+          "answer": "0",
+          "explanation": "Fall time: 1.25 = ½ × 10 × t², so t² = 0.25, t = 0.50 s. Range = 3.0 × 0.50 = 1.5 m."
+        },
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A projectile is launched at 25 m/s at 53° above the horizontal (sin 53° = 0.80, cos 53° = 0.60). Using g = 10 m/s², what is its horizontal range?",
+          "options": ["48 m", "30 m", "60 m", "100 m"],
+          "answer": "2",
+          "explanation": "u_y = 25 × 0.80 = 20 m/s, u_x = 25 × 0.60 = 15 m/s. Flight time T = 2u_y/g = 40/10 = 4.0 s. Range = u_x × T = 15 × 4.0 = 60 m."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In which direction do electric field lines point around an isolated positive charge?",
+          "options": ["Inward, toward the charge", "Outward, away from the charge", "In circles around the charge", "There are no field lines"],
+          "answer": "1",
+          "explanation": "Field lines point away from a positive charge and toward a negative charge."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A 12 V battery is connected across a 250 µF capacitor. How much charge is stored?",
+          "options": ["3000 µC", "20.8 µC", "0.048 µC", "262 µC"],
+          "answer": "0",
+          "explanation": "Q = CV = 250 µF × 12 V = 3000 µC (3.0 mC)."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "How much energy is transferred when a charge of 0.040 C moves through a potential difference of 6.0 V?",
+          "options": ["150 J", "0.24 J", "0.0067 J", "24 J"],
+          "answer": "1",
+          "explanation": "W = QV = 0.040 × 6.0 = 0.24 J."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two point charges attract each other with a force of 8.0 N. If both charges are doubled while the distance stays the same, what is the new force?",
+          "options": ["8.0 N", "16 N", "32 N", "4.0 N"],
+          "answer": "2",
+          "explanation": "F is proportional to q₁q₂. Doubling both charges multiplies the force by 2 × 2 = 4, giving 8.0 × 4 = 32 N."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two identical small spheres each carry a charge of 2.0 × 10⁻⁶ C and repel with a force of 0.90 N. Using k = 9.0 × 10⁹ N·m²/C², how far apart are they?",
+          "options": ["0.040 m", "0.20 m", "0.45 m", "2.0 m"],
+          "answer": "1",
+          "explanation": "From F = kq₁q₂/r², r² = kq₁q₂/F = (9.0 × 10⁹ × 4.0 × 10⁻¹²) / 0.90 = 0.036/0.90 = 0.040 m², so r = 0.20 m."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A point charge produces an electric field of 4000 N/C at a distance of 0.15 m. Using k = 9.0 × 10⁹ N·m²/C², what is the size of the charge?",
+          "options": ["6.0 × 10⁻⁷ C", "9.0 × 10⁻⁶ C", "1.0 × 10⁻⁹ C", "1.0 × 10⁻⁸ C"],
+          "answer": "3",
+          "explanation": "From E = kQ/r², Q = E r²/k = (4000 × 0.0225) / (9.0 × 10⁹) = 90 / (9.0 × 10⁹) = 1.0 × 10⁻⁸ C."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In a series circuit, how does the current at different points compare?",
+          "options": ["It is largest near the battery", "It is the same everywhere", "It splits at each component", "It is zero at the resistor"],
+          "answer": "1",
+          "explanation": "In a series circuit there is only one path, so the current is the same at every point."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A torch bulb passes a current of 0.30 A for 2.0 minutes. How much charge flows through it?",
+          "options": ["0.6 C", "36 C", "0.0025 C", "400 C"],
+          "answer": "1",
+          "explanation": "Q = I t = 0.30 × (2.0 × 60) = 0.30 × 120 = 36 C."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Three resistors of 10 Ω, 20 Ω and 30 Ω are joined end to end in series. What is their total resistance?",
+          "options": ["5.5 Ω", "0.18 Ω", "60 Ω", "20 Ω"],
+          "answer": "2",
+          "explanation": "In series, resistances add: 10 + 20 + 30 = 60 Ω."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A resistor dissipates 48 W when a current of 4.0 A flows through it. What is its resistance?",
+          "options": ["3.0 Ω", "12 Ω", "192 Ω", "0.083 Ω"],
+          "answer": "0",
+          "explanation": "Using P = I²R, R = P/I² = 48 / (4.0)² = 48 / 16 = 3.0 Ω."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A 9.0 V battery is connected to two resistors of 6.0 Ω and 12 Ω in parallel. What total current does the battery supply?",
+          "options": ["0.5 A", "1.5 A", "2.25 A", "4.5 A"],
+          "answer": "2",
+          "explanation": "Parallel resistance: 1/R = 1/6 + 1/12 = 2/12 + 1/12 = 3/12, so R = 4.0 Ω. Total current I = V/R = 9.0/4.0 = 2.25 A."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A 2.0 kW electric kettle runs for 5.0 minutes. How much electrical energy does it use?",
+          "options": ["10000 J", "400 J", "24000 J", "600000 J"],
+          "answer": "3",
+          "explanation": "E = P t = 2000 W × (5.0 × 60 s) = 2000 × 300 = 600000 J (600 kJ)."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A cell of e.m.f. 12 V has internal resistance 0.80 Ω. When connected to a 5.2 Ω resistor, what is the terminal voltage of the cell?",
+          "options": ["12 V", "10.4 V", "1.6 V", "8.0 V"],
+          "answer": "1",
+          "explanation": "Current I = ε/(R+r) = 12/(5.2+0.80) = 12/6.0 = 2.0 A. Terminal voltage V = ε − Ir = 12 − (2.0 × 0.80) = 12 − 1.6 = 10.4 V."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What do we call a coil of wire that becomes magnetic only while a current flows through it?",
+          "options": ["A permanent magnet", "An electromagnet", "A capacitor", "An insulator"],
+          "answer": "1",
+          "explanation": "A current-carrying coil (solenoid) acts as an electromagnet, producing a magnetic field that can be switched on and off."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A 0.60 m wire carries 8.0 A at right angles to a magnetic field and experiences a force of 1.92 N. What is the magnetic flux density?",
+          "options": ["0.40 T", "0.25 T", "2.5 T", "9.2 T"],
+          "answer": "0",
+          "explanation": "From F = BIL, B = F/(IL) = 1.92 / (8.0 × 0.60) = 1.92 / 4.8 = 0.40 T."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When a current-carrying wire lies parallel to a magnetic field, the force on the wire is:",
+          "options": ["Maximum", "Equal to BIL", "Zero", "Half the maximum"],
+          "answer": "2",
+          "explanation": "The force F = BIL sin θ depends on the angle. When the wire is parallel to the field, θ = 0°, sin 0° = 0, so the force is zero."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A device that uses a spinning coil in a magnetic field to produce electricity is a:",
+          "options": ["Transformer", "Resistor", "Generator", "Battery"],
+          "answer": "2",
+          "explanation": "A generator spins a coil inside a magnetic field, using electromagnetic induction to produce a voltage."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A wire of length 0.25 m carries a current in a 0.80 T field at right angles and feels a force of 1.0 N. What is the current in the wire?",
+          "options": ["0.20 A", "5.0 A", "3.2 A", "0.31 A"],
+          "answer": "1",
+          "explanation": "From F = BIL, I = F/(BL) = 1.0 / (0.80 × 0.25) = 1.0 / 0.20 = 5.0 A."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A magnet is dropped through a vertical copper tube. According to Lenz's law, what effect does the induced current have on the magnet?",
+          "options": ["It speeds the magnet up", "It opposes the motion, slowing the magnet's fall", "It has no effect on the magnet", "It pulls the magnet sideways"],
+          "answer": "1",
+          "explanation": "By Lenz's law the induced current opposes the change causing it, creating a magnetic force that resists the magnet's motion, so it falls more slowly."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A horizontal wire 0.50 m long carries 4.0 A at right angles to a 0.30 T field. The wire weighs 0.20 N. If the magnetic force is directed upward, what is the net vertical force on the wire?",
+          "options": ["0.60 N upward", "0.40 N upward", "0.80 N downward", "0.20 N upward"],
+          "answer": "1",
+          "explanation": "Magnetic force F = BIL = 0.30 × 4.0 × 0.50 = 0.60 N upward. Net force = 0.60 − 0.20 (weight) = 0.40 N upward."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of these elements is most commonly used to make semiconductor chips?",
+          "options": ["Copper", "Silicon", "Rubber", "Gold"],
+          "answer": "1",
+          "explanation": "Silicon is the most widely used semiconductor material for making chips and transistors."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which process turns pure silicon into a useful semiconductor by adding small amounts of other elements?",
+          "options": ["Melting", "Doping", "Insulating", "Earthing"],
+          "answer": "1",
+          "explanation": "Doping adds impurity atoms to pure silicon to create extra free electrons (n-type) or holes (p-type)."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A circuit needs a component that turns a larger current on and off using a small control current. Which component is best suited?",
+          "options": ["A resistor", "A capacitor", "A transistor", "An insulator"],
+          "answer": "2",
+          "explanation": "A transistor can act as a switch: a small base current controls a much larger collector–emitter current."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What does a diode do when it is reverse biased?",
+          "options": ["Conducts current easily", "Blocks the current", "Stores charge", "Amplifies the signal"],
+          "answer": "1",
+          "explanation": "A reverse-biased diode blocks current; it conducts easily only when forward biased."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Boron has one fewer valence electron than silicon. What type of semiconductor results when silicon is doped with boron?",
+          "options": ["n-type, with extra free electrons", "p-type, with extra holes", "An insulator", "A perfect conductor"],
+          "answer": "1",
+          "explanation": "Boron creates vacancies (holes) that act as positive charge carriers, producing a p-type semiconductor."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why were vacuum tubes largely replaced by transistors in modern electronics?",
+          "options": ["Vacuum tubes use less power", "Transistors cannot amplify signals", "Transistors are smaller, cooler and more reliable", "Vacuum tubes are made of silicon"],
+          "answer": "2",
+          "explanation": "Transistors are far smaller, generate less heat, use less power and are more reliable than bulky vacuum tubes."
+        },
+        {
+          "topic": "Electromagnetic Waves and Geometrical Optics",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of these electromagnetic waves has the longest wavelength?",
+          "options": ["X-rays", "Ultraviolet", "Visible light", "Radio waves"],
+          "answer": "3",
+          "explanation": "Radio waves have the longest wavelength (and lowest frequency) in the electromagnetic spectrum."
+        },
+        {
+          "topic": "Electromagnetic Waves and Geometrical Optics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A microwave has a wavelength of 0.12 m and travels at 3.0 × 10⁸ m/s. What is its frequency?",
+          "options": ["3.6 × 10⁷ Hz", "2.5 × 10⁹ Hz", "4.0 × 10⁻¹⁰ Hz", "2.5 × 10⁶ Hz"],
+          "answer": "1",
+          "explanation": "Using f = v/λ = (3.0 × 10⁸) / 0.12 = 2.5 × 10⁹ Hz."
+        },
+        {
+          "topic": "Electromagnetic Waves and Geometrical Optics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Light travels at 2.0 × 10⁸ m/s inside a glass block. Using c = 3.0 × 10⁸ m/s, what is the refractive index of the glass?",
+          "options": ["0.67", "1.5", "2.0", "6.0"],
+          "answer": "1",
+          "explanation": "Refractive index n = c/v = (3.0 × 10⁸) / (2.0 × 10⁸) = 1.5."
+        },
+        {
+          "topic": "Electromagnetic Waves and Geometrical Optics",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Light passes from water (n₁ = 1.33) into air (n₂ = 1.0) with an angle of incidence of 30° in the water. What is the approximate angle of refraction in air?",
+          "options": ["About 22°", "About 30°", "About 42°", "About 60°"],
+          "answer": "2",
+          "explanation": "Snell's law: sin θ₂ = (n₁ sin θ₁)/n₂ = (1.33 × sin 30°)/1.0 = 1.33 × 0.5 = 0.665, so θ₂ = sin⁻¹(0.665) ≈ 42°."
+        }
+      ]
+    }
+  ]
+}

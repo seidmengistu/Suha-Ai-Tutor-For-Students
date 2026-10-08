@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "chemistry",
+      "questions": [
+        {
+          "topic": "Saturation of solutions",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A solution that contains more dissolved solute than it can normally hold at a given temperature, and which crystallizes when disturbed, is described as:",
+          "options": ["Unsaturated", "Saturated", "Supersaturated", "Dilute"],
+          "answer": "2",
+          "explanation": "A supersaturated solution temporarily holds more solute than its equilibrium amount and deposits the excess as crystals when disturbed."
+        },
+        {
+          "topic": "Mole fraction",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A mixture contains 2.0 mol of ethanol and 8.0 mol of water. What is the mole fraction of ethanol?",
+          "options": ["0.20", "0.25", "0.80", "0.40"],
+          "answer": "0",
+          "explanation": "Mole fraction of ethanol = 2.0 / (2.0 + 8.0) = 2.0 / 10.0 = 0.20."
+        },
+        {
+          "topic": "Molality calculation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the molality of a solution made by dissolving 0.50 mol of glucose in 250 g of water?",
+          "options": ["0.50 m", "1.0 m", "2.0 m", "4.0 m"],
+          "answer": "2",
+          "explanation": "Molality = moles of solute / kg of solvent = 0.50 mol / 0.250 kg = 2.0 m."
+        },
+        {
+          "topic": "Osmotic pressure",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the osmotic pressure of a 0.10 M glucose solution at 300 K? (R = 0.0821 L atm/mol K)",
+          "options": ["0.821 atm", "1.64 atm", "2.46 atm", "8.21 atm"],
+          "answer": "2",
+          "explanation": "Glucose does not dissociate (i = 1), so pi = MRT = 0.10 x 0.0821 x 300 = 2.46 atm."
+        },
+        {
+          "topic": "Van't Hoff factor and boiling point",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the boiling point elevation of a 0.50 m aqueous solution of CaCl2? (Kb for water = 0.512 C/m; assume complete dissociation)",
+          "options": ["0.256 C", "0.512 C", "0.768 C", "1.024 C"],
+          "answer": "2",
+          "explanation": "CaCl2 gives 3 ions (i = 3), so dTb = i x Kb x m = 3 x 0.512 x 0.50 = 0.768 C."
+        },
+        {
+          "topic": "Colligative property comparison",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Four 0.10 m aqueous solutions are prepared: glucose, KCl, Na2SO4, and AlCl3. Which has the HIGHEST boiling point?",
+          "options": ["Glucose", "KCl", "Na2SO4", "AlCl3"],
+          "answer": "3",
+          "explanation": "Boiling point rises with the number of particles. AlCl3 gives the most ions (i = 4: Al3+ + 3 Cl-), so it has the highest boiling point."
+        },
+        {
+          "topic": "Dilution of solutions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What volume of water must be added to 100 mL of 6.0 M HCl to dilute it to 2.0 M? (Assume volumes are additive)",
+          "options": ["100 mL", "200 mL", "300 mL", "600 mL"],
+          "answer": "1",
+          "explanation": "Using M1V1 = M2V2, the final volume = (6.0 x 100) / 2.0 = 300 mL, so water added = 300 - 100 = 200 mL."
+        },
+        {
+          "topic": "Conjugate acid",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the conjugate acid of water (H2O)?",
+          "options": ["OH-", "H3O+", "O2-", "H2"],
+          "answer": "1",
+          "explanation": "A conjugate acid is formed by adding one proton (H+). Adding H+ to H2O gives the hydronium ion, H3O+."
+        },
+        {
+          "topic": "Hydronium concentration from pH",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A solution has a pH of 4.0. What is its hydrogen ion concentration [H+]?",
+          "options": ["1.0 x 10^-4 M", "4.0 M", "1.0 x 10^-10 M", "1.0 x 10^4 M"],
+          "answer": "0",
+          "explanation": "[H+] = 10^(-pH) = 10^(-4.0) = 1.0 x 10^-4 M."
+        },
+        {
+          "topic": "Amphoteric species",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which species can act as both a Bronsted-Lowry acid and a base?",
+          "options": ["Cl-", "Na+", "HCO3-", "NH4+"],
+          "answer": "2",
+          "explanation": "HCO3- can donate a proton (to form CO3 2-) or accept one (to form H2CO3), so it is amphoteric."
+        },
+        {
+          "topic": "Henderson-Hasselbalch buffer",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A buffer contains equal concentrations of acetic acid and acetate ion. If the pKa of acetic acid is 4.74, what is the pH of the buffer?",
+          "options": ["2.37", "7.00", "4.74", "9.48"],
+          "answer": "2",
+          "explanation": "By the Henderson-Hasselbalch equation, pH = pKa + log([base]/[acid]). With equal concentrations log(1) = 0, so pH = pKa = 4.74."
+        },
+        {
+          "topic": "Ka and Kb relationship",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The Ka of a weak acid HA is 1.0 x 10^-5. What is the Kb of its conjugate base A- at 25 C?",
+          "options": ["1.0 x 10^-9", "1.0 x 10^-5", "1.0 x 10^-14", "1.0 x 10^-19"],
+          "answer": "0",
+          "explanation": "For a conjugate pair, Ka x Kb = Kw = 1.0 x 10^-14, so Kb = (1.0 x 10^-14) / (1.0 x 10^-5) = 1.0 x 10^-9."
+        },
+        {
+          "topic": "Titration at equivalence point",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "When a weak acid (CH3COOH) is titrated with a strong base (NaOH), the pH at the equivalence point is:",
+          "options": ["Greater than 7 (basic)", "Exactly 7", "Less than 7 (acidic)", "Always equal to the pKa"],
+          "answer": "0",
+          "explanation": "At the equivalence point only the salt (sodium acetate) remains. The acetate ion hydrolyses to give OH-, so the solution is basic (pH greater than 7)."
+        },
+        {
+          "topic": "Heat at constant pressure",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The heat change of a reaction measured at constant pressure is equal to the change in:",
+          "options": ["Entropy", "Enthalpy", "Internal energy", "Free energy"],
+          "answer": "1",
+          "explanation": "At constant pressure the heat absorbed or released by a reaction equals the enthalpy change, dH."
+        },
+        {
+          "topic": "Calorimetry",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How much heat is required to raise the temperature of 200 g of water by 10 C? (Specific heat of water = 4.18 J/g C)",
+          "options": ["8360 J", "836 J", "4180 J", "41,800 J"],
+          "answer": "0",
+          "explanation": "q = m x c x dT = 200 x 4.18 x 10 = 8360 J."
+        },
+        {
+          "topic": "Hess's law",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Given C + O2 -> CO2 (dH = -394 kJ) and CO + 1/2 O2 -> CO2 (dH = -283 kJ), what is dH for C + 1/2 O2 -> CO?",
+          "options": ["-677 kJ", "-111 kJ", "+111 kJ", "+677 kJ"],
+          "answer": "1",
+          "explanation": "Subtract the second reaction from the first: dH = (-394) - (-283) = -394 + 283 = -111 kJ."
+        },
+        {
+          "topic": "Standard enthalpy of formation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The standard enthalpy of formation of an element in its most stable form (such as O2 gas) is:",
+          "options": ["Always negative", "Always positive", "Zero", "Equal to its bond energy"],
+          "answer": "2",
+          "explanation": "By definition, the standard enthalpy of formation of an element in its standard (most stable) state is zero."
+        },
+        {
+          "topic": "Entropy of physical states",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "For the same substance, the entropy generally increases in which order?",
+          "options": ["Gas < liquid < solid", "Solid < liquid < gas", "Liquid < solid < gas", "Gas < solid < liquid"],
+          "answer": "1",
+          "explanation": "Particles are most ordered in a solid and most disordered in a gas, so entropy increases from solid to liquid to gas."
+        },
+        {
+          "topic": "Spontaneity from free energy",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A reaction has dH = +30 kJ and dS = +0.10 kJ/K. What is the minimum temperature (in K) at which it becomes spontaneous?",
+          "options": ["100 K", "200 K", "300 K", "3000 K"],
+          "answer": "2",
+          "explanation": "The reaction is spontaneous when dG = dH - TdS < 0, i.e. above T = dH/dS = 30 / 0.10 = 300 K."
+        },
+        {
+          "topic": "Oxidation number in ions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the oxidation number of manganese in the permanganate ion, MnO4-?",
+          "options": ["+2", "+4", "+6", "+7"],
+          "answer": "3",
+          "explanation": "Oxygen is -2 (total -8) and the overall charge is -1, so Mn + (-8) = -1, giving Mn = +7."
+        },
+        {
+          "topic": "Electrolysis products",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "During the electrolysis of molten sodium chloride (NaCl), the product formed at the cathode is:",
+          "options": ["Sodium metal", "Chlorine gas", "Hydrogen gas", "Oxygen gas"],
+          "answer": "0",
+          "explanation": "At the cathode reduction occurs: Na+ + e- -> Na, so molten sodium metal is produced."
+        },
+        {
+          "topic": "Standard hydrogen electrode",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The reference electrode against which all standard electrode potentials are measured is assigned a potential of 0.00 V. It is the:",
+          "options": ["Standard hydrogen electrode", "Standard oxygen electrode", "Copper electrode", "Calomel electrode"],
+          "answer": "0",
+          "explanation": "The standard hydrogen electrode (SHE) is defined as 0.00 V and is used as the reference for all other electrode potentials."
+        },
+        {
+          "topic": "Predicting cell spontaneity",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Given E(Zn2+/Zn) = -0.76 V and E(Ag+/Ag) = +0.80 V, what is the standard cell potential when these form a galvanic cell?",
+          "options": ["+1.56 V", "+0.04 V", "-1.56 V", "+0.76 V"],
+          "answer": "0",
+          "explanation": "Silver has the higher potential so it is the cathode: E cell = E cathode - E anode = 0.80 - (-0.76) = +1.56 V."
+        },
+        {
+          "topic": "Faraday's law with current",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "What current must flow for 1.0 hour to deposit 0.50 mol of copper from a Cu2+ solution (Cu2+ + 2e- -> Cu)? (F = 96,500 C/mol)",
+          "options": ["13.4 A", "26.8 A", "53.6 A", "96.5 A"],
+          "answer": "1",
+          "explanation": "Charge needed = 0.50 x 2 x 96,500 = 96,500 C. I = Q / t = 96,500 / 3600 = 26.8 A."
+        },
+        {
+          "topic": "Corrosion",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Galvanising protects iron from rusting by coating it with zinc. Zinc protects iron because zinc is:",
+          "options": ["A better conductor than iron", "Less reactive, so it is reduced first", "More reactive, so it is oxidized in preference to iron", "Unable to react with oxygen"],
+          "answer": "2",
+          "explanation": "Zinc is more reactive than iron, so it acts as a sacrificial anode and is oxidized first, protecting the iron beneath it."
+        },
+        {
+          "topic": "Froth flotation",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The concentration (separation) of a sulphide ore from rocky impurities is commonly carried out by:",
+          "options": ["Froth flotation", "Electrolysis", "Distillation", "Filtration of slag"],
+          "answer": "0",
+          "explanation": "Froth flotation separates sulphide ores: the ore particles attach to froth and float, while the heavier gangue (impurities) sinks."
+        },
+        {
+          "topic": "Roasting of ores",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Heating a sulphide ore strongly in air to convert it to an oxide before reduction is called:",
+          "options": ["Calcination", "Smelting", "Refining", "Roasting"],
+          "answer": "3",
+          "explanation": "Roasting heats a sulphide ore in air to form the metal oxide (and SO2), preparing it for reduction. For example, 2 ZnS + 3 O2 -> 2 ZnO + 2 SO2."
+        },
+        {
+          "topic": "Haber process equilibrium",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The Haber reaction N2 + 3H2 ⇌ 2NH3 is exothermic. According to Le Chatelier's principle, the yield of ammonia is increased by:",
+          "options": ["High temperature and low pressure", "Low temperature and high pressure", "High temperature and high pressure", "Low temperature and low pressure"],
+          "answer": "1",
+          "explanation": "Low temperature favours the exothermic forward reaction, and high pressure shifts equilibrium toward the fewer gas moles (2 mol NH3 vs 4 mol reactants), raising the yield."
+        },
+        {
+          "topic": "Aluminium electrolysis stoichiometry",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In the electrolysis of alumina (Al3+ + 3e- -> Al), how many moles of electrons are needed to produce 3 moles of aluminium?",
+          "options": ["3 moles", "6 moles", "9 moles", "12 moles"],
+          "answer": "2",
+          "explanation": "Each Al3+ requires 3 electrons, so 3 moles of aluminium need 3 x 3 = 9 moles of electrons."
+        },
+        {
+          "topic": "Uses of ammonia",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Ammonia produced by the Haber process is most widely used to manufacture:",
+          "options": ["Plastics", "Glass", "Nitrogenous fertilisers", "Soap"],
+          "answer": "2",
+          "explanation": "The majority of ammonia is converted into nitrogen-rich fertilisers such as ammonium nitrate and urea to boost crop growth."
+        },
+        {
+          "topic": "Slag formation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In the blast furnace, calcium oxide (from limestone) reacts with silica (SiO2) impurity. The slag produced is:",
+          "options": ["Calcium carbonate", "Calcium silicate", "Calcium oxide", "Silicon carbide"],
+          "answer": "1",
+          "explanation": "CaO + SiO2 -> CaSiO3 (calcium silicate), the molten slag that floats on the iron and is tapped off."
+        },
+        {
+          "topic": "Polymer repeat unit",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The monomer used to make poly(propene) is:",
+          "options": ["Ethene", "Propene", "Chloroethene", "Styrene"],
+          "answer": "1",
+          "explanation": "Poly(propene), or polypropylene, is formed by addition polymerization of propene (CH2=CH-CH3) monomers."
+        },
+        {
+          "topic": "Polyester linkage",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A polyester such as Terylene is formed by condensation between a diol and a dicarboxylic acid. The linkage formed between the monomers is the:",
+          "options": ["Amide (peptide) link", "Ether link", "Carbon-carbon double bond", "Ester link"],
+          "answer": "3",
+          "explanation": "A diol (-OH) and a dicarboxylic acid (-COOH) react to form an ester link (-COO-), giving a polyester, with water released."
+        },
+        {
+          "topic": "Vulcanization",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Natural rubber is made stronger and more elastic by heating it with sulphur, which forms cross-links between chains. This process is called:",
+          "options": ["Polymerization", "Vulcanization", "Hydrogenation", "Saponification"],
+          "answer": "1",
+          "explanation": "Vulcanization heats rubber with sulphur to create cross-links between polymer chains, making the rubber harder, stronger, and more elastic."
+        },
+        {
+          "topic": "Biodegradability of polymers",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which of the following polymers is biodegradable?",
+          "options": ["Polythene", "PVC", "Starch", "Polystyrene"],
+          "answer": "2",
+          "explanation": "Starch is a natural polymer broken down by enzymes and microorganisms, so it is biodegradable. The listed synthetic polymers resist breakdown."
+        },
+        {
+          "topic": "Comparing polymerization types",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which statement correctly distinguishes addition from condensation polymerization?",
+          "options": ["Addition releases a small molecule; condensation does not", "Addition keeps all atoms of the monomers; condensation loses a small molecule like water", "Both always release water", "Condensation requires a C=C double bond in the monomer"],
+          "answer": "1",
+          "explanation": "In addition polymerization the unsaturated monomers join with no atoms lost, whereas condensation polymerization eliminates a small molecule (usually water) at each link."
+        }
+      ]
+    }
+  ]
+}

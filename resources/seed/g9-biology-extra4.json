@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "Tools of a biologist",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which instrument would a biologist use to measure the temperature of water in a pond they are studying?",
+          "options": ["A balance", "A thermometer", "A microscope", "A measuring cylinder"],
+          "answer": "1",
+          "explanation": "A thermometer measures temperature. A balance measures mass, a measuring cylinder measures volume, and a microscope makes small things look bigger."
+        },
+        {
+          "topic": "Recording results",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Why should a scientist write down the results of an experiment as soon as they are measured?",
+          "options": ["So the data are accurate and not forgotten or changed", "To make the report look longer", "To keep the work secret", "So the experiment finishes faster"],
+          "answer": "0",
+          "explanation": "Recording results straight away keeps the data accurate and trustworthy, because relying on memory can lead to mistakes or forgotten readings."
+        },
+        {
+          "topic": "Movement of organelles",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which part of a cell is a tiny structure where the energy of cellular respiration is released?",
+          "options": ["Mitochondrion", "Cell wall", "Vacuole", "Nucleus"],
+          "answer": "0",
+          "explanation": "The mitochondrion is the site where energy is released from glucose during cellular respiration. It is often called the powerhouse of the cell."
+        },
+        {
+          "topic": "Joints in the body",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which body system gives the body its shape and supports it so a person can stand upright?",
+          "options": ["The digestive system", "The respiratory system", "The nervous system", "The skeletal system"],
+          "answer": "3",
+          "explanation": "The skeletal system (the bones) supports the body, gives it shape, and protects organs. The other systems carry out different jobs."
+        },
+        {
+          "topic": "Harmful fungi",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which group of micro-organisms causes the skin disease ringworm and the spoiling of damp bread?",
+          "options": ["Bacteria", "Viruses", "Fungi", "Protozoa"],
+          "answer": "2",
+          "explanation": "Fungi, such as moulds, cause ringworm of the skin and spoil damp bread. The name ringworm is misleading because it is a fungus, not a worm."
+        },
+        {
+          "topic": "Variety of life",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The huge variety of different living things found in an area is called its:",
+          "options": ["Biodiversity", "Population", "Magnification", "Sanitation"],
+          "answer": "0",
+          "explanation": "Biodiversity means the variety of different living things in an area. A population is just one kind of organism in one place."
+        },
+        {
+          "topic": "Control group",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A scientist tests whether a fertiliser helps teff grow. One group of plants gets fertiliser; another identical group gets none. Why is the group with no fertiliser used?",
+          "options": ["To waste fewer seeds", "To make the experiment shorter", "To compare against, and show the fertiliser is the cause of any difference", "Because teff does not need fertiliser"],
+          "answer": "2",
+          "explanation": "The untreated group is a control. Comparing it with the treated group shows whether the fertiliser, and not something else, caused any change in growth."
+        },
+        {
+          "topic": "Cell specialisation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A nerve cell is long and thin with branched ends. How does this shape help it do its job?",
+          "options": ["It lets the cell make its own food", "It stores large amounts of water", "It helps the cell carry messages quickly over long distances", "It allows the cell to swim"],
+          "answer": "2",
+          "explanation": "A nerve cell's long, branched shape lets it carry electrical messages rapidly from one part of the body to another. Its structure suits its function."
+        },
+        {
+          "topic": "Selectively permeable membrane",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The cell membrane is described as partially (selectively) permeable. This means it:",
+          "options": ["Lets every substance pass through freely", "Blocks all substances completely", "Lets some substances pass but blocks others", "Only lets in light"],
+          "answer": "2",
+          "explanation": "A partially permeable membrane allows some substances (such as water and small molecules) to pass while controlling or blocking others. This lets the cell manage its contents."
+        },
+        {
+          "topic": "Tissues and organs",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Many similar cells working together form a tissue. What is formed when several different tissues work together for one main job?",
+          "options": ["A cell", "An organ", "A molecule", "A membrane"],
+          "answer": "1",
+          "explanation": "An organ, such as the heart or stomach, is made of several different tissues that work together to carry out a particular function."
+        },
+        {
+          "topic": "Bile and fat",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Bile breaks large drops of fat into many tiny droplets during digestion. Why does this help?",
+          "options": ["It turns the fat into protein", "It cools the food down", "It makes the fat heavier", "It gives a larger surface for enzymes to act on the fat"],
+          "answer": "3",
+          "explanation": "Breaking fat into tiny droplets greatly increases the surface area, so fat-digesting enzymes can work on it faster. Bile does not digest fat itself."
+        },
+        {
+          "topic": "Blood clotting",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When a person cuts their finger, the bleeding usually stops after a short time. This is mainly because the blood:",
+          "options": ["Turns into water", "Forms a clot that seals the wound", "Stops being made by the heart", "Changes into oxygen"],
+          "answer": "1",
+          "explanation": "Blood forms a clot at a wound, sealing it to stop further bleeding and to keep out germs while the skin heals."
+        },
+        {
+          "topic": "Pasteurisation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Milk is often heated strongly for a short time before it is sold. The main reason for this is to:",
+          "options": ["Add vitamins to the milk", "Make the milk thicker", "Kill harmful micro-organisms so the milk is safer", "Change the milk into ergo"],
+          "answer": "2",
+          "explanation": "Heating milk kills most harmful micro-organisms, making it safer to drink and helping it keep longer. This process is called pasteurisation."
+        },
+        {
+          "topic": "Body's first defences",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Tears and the acid in the stomach both help protect the body because they:",
+          "options": ["Add energy to the body", "Kill or remove many germs before they cause disease", "Digest fats", "Carry oxygen to cells"],
+          "answer": "1",
+          "explanation": "Tears wash germs from the eyes and contain germ-killing substances, while stomach acid kills many germs in swallowed food. Both are natural defences against disease."
+        },
+        {
+          "topic": "Dichotomous key",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When using a key to identify a living thing, each step offers two choices. What kind of question gives only two possible answers at each step?",
+          "options": ["An open question with many answers", "A question about colour only", "A question with a yes or no (either/or) answer", "A question with no answer"],
+          "answer": "2",
+          "explanation": "A key works by asking either/or (yes or no) questions. Each answer leads to the next step until the organism is identified."
+        },
+        {
+          "topic": "Genus grouping",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Lions and leopards are closely related and share many features. In classification they would most likely belong to the same:",
+          "options": ["Kingdom only", "Genus", "Species", "Ecosystem"],
+          "answer": "1",
+          "explanation": "Closely related organisms that share many features are grouped into the same genus. They are still different species, so they are not the same species."
+        },
+        {
+          "topic": "Pyramid of numbers",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In a grassland, there are very many grass plants, fewer grasshoppers, and only a few birds that eat the grasshoppers. The number of living things usually:",
+          "options": ["Increases along the food chain", "Stays exactly the same", "Has nothing to do with feeding", "Decreases along the food chain"],
+          "answer": "3",
+          "explanation": "The number of organisms usually decreases along a food chain, because energy is lost at each step, so fewer organisms can be supported at higher levels."
+        },
+        {
+          "topic": "Migration as survival",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Some birds fly to a different region when the dry season comes and food becomes scarce. This movement to survive is best described as:",
+          "options": ["Photosynthesis", "Digestion", "Migration", "Classification"],
+          "answer": "2",
+          "explanation": "Migration is the movement of animals to another area to find food, water, or better conditions, helping them survive when resources run low."
+        },
+        {
+          "topic": "Reliability of data",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two students measure the same leaf and get 6 cm and 9 cm. The best way to get a more reliable result is to:",
+          "options": ["Pick the larger number", "Take several measurements and find the average", "Pick the smaller number", "Guess a value in between without measuring"],
+          "answer": "1",
+          "explanation": "Taking several careful measurements and averaging them reduces the effect of individual mistakes and gives a more reliable result than choosing one reading."
+        },
+        {
+          "topic": "Cell division and growth",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A young enset plant grows much larger over several months. At the cell level, this growth happens mainly because:",
+          "options": ["Existing cells get heavier without changing", "Cells turn into water", "Cells divide to make more cells, which then enlarge", "The plant takes in ready-made cells from the soil"],
+          "answer": "2",
+          "explanation": "Growth happens as cells divide to form new cells, which then grow larger. The plant does not absorb whole cells from the soil."
+        },
+        {
+          "topic": "Water potential and wilting",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "On a hot day a plant that has not been watered begins to droop. Using osmosis, the best explanation is that the cells have:",
+          "options": ["Gained water and become too firm", "Lost water, so they are no longer firm enough to hold the plant up", "Made too much food", "Filled with air from the soil"],
+          "answer": "1",
+          "explanation": "When the plant loses more water than it takes in, the cells lose water by osmosis and become flaccid (soft), so they can no longer keep the plant firm and it droops."
+        },
+        {
+          "topic": "Oxygen debt",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "After sprinting, a person keeps breathing fast and deep for a while even though they have stopped running. The most likely reason is to:",
+          "options": ["Cool the muscles with air", "Remove water from the lungs", "Take in extra oxygen the muscles needed but could not get during the sprint", "Make new red blood cells immediately"],
+          "answer": "2",
+          "explanation": "During hard exercise the muscles cannot get enough oxygen, so the body keeps breathing deeply afterwards to supply the extra oxygen that the muscles still need."
+        },
+        {
+          "topic": "Double circulation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Blood passes through the human heart twice for each complete trip around the body: once to the lungs and once to the rest of the body. The main advantage of this is that:",
+          "options": ["The heart can stop more often", "Blood is pumped at higher pressure to the body, so it travels quickly", "Less oxygen is needed", "The body needs no lungs"],
+          "answer": "1",
+          "explanation": "Returning to the heart after the lungs lets the blood be pumped again at high pressure to the body. This keeps oxygen-rich blood moving quickly to all the cells."
+        },
+        {
+          "topic": "Antibiotic resistance",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why are patients told to finish the full course of antibiotics, even if they feel better early?",
+          "options": ["So the medicine does not go to waste", "Because antibiotics also kill viruses", "So the patient sleeps better", "So all the bacteria are killed and resistant ones are less likely to survive and spread"],
+          "answer": "3",
+          "explanation": "Stopping early can leave some of the stronger bacteria alive. These may survive and multiply, leading to bacteria that the antibiotic can no longer kill (resistance)."
+        },
+        {
+          "topic": "Specificity of vaccines",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A child is vaccinated against measles but later catches a different disease. This is most likely because:",
+          "options": ["The vaccine was useless", "Vaccines cause new diseases", "The child was too healthy", "A vaccine usually protects only against the one disease it is made for"],
+          "answer": "3",
+          "explanation": "A vaccine trains the body to fight one particular disease. It does not protect against unrelated diseases, so a measles vaccine cannot prevent a different illness."
+        },
+        {
+          "topic": "Importance of naming systems",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An animal is called by three different local names in three regions of Ethiopia. Why does giving it one agreed scientific name help science?",
+          "options": ["It makes the animal rarer", "Scientists everywhere then know exactly which organism is meant", "It changes the animal's features", "It puts the animal in a new kingdom"],
+          "answer": "1",
+          "explanation": "A single scientific name removes confusion from many local names, so scientists in different places can be sure they are all talking about the same organism."
+        },
+        {
+          "topic": "Shared ancestry",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two organisms are found to share many detailed features and are placed in the same small group. Scientists conclude that the two organisms are probably:",
+          "options": ["Completely unrelated", "From two different kingdoms", "Not really living", "Closely related and share a common ancestor"],
+          "answer": "3",
+          "explanation": "Sharing many features suggests organisms are closely related and descended from a common ancestor. The more features shared, the closer the relationship is thought to be."
+        },
+        {
+          "topic": "Competition between organisms",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two plant species grow in the same small plot and both need the same light, water, and space. The relationship between them is best described as:",
+          "options": ["Decomposition", "Competition", "Photosynthesis", "Migration"],
+          "answer": "1",
+          "explanation": "When organisms need the same limited resources, they compete for them. Competition can affect how well each species grows and survives in that area."
+        },
+        {
+          "topic": "Effect of a top predator",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a food web, hyenas eat many smaller animals. If all the hyenas were removed, what is the most likely first effect?",
+          "options": ["The smaller animals they ate would die out at once", "The Sun would stop giving energy", "The numbers of the smaller animals they ate would rise", "Grass would stop growing"],
+          "answer": "2",
+          "explanation": "Removing a predator usually allows its prey to increase in number, at least at first, because fewer of them are being eaten. This can then affect other parts of the web."
+        },
+        {
+          "topic": "Nitrogen for plants",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Decomposers return nitrogen-containing substances to the soil. Why is this important for plants?",
+          "options": ["Plants use these substances to make proteins for growth", "Plants drink them instead of water", "It makes the soil hotter", "Plants use them to move"],
+          "answer": "0",
+          "explanation": "Plants take up nitrogen compounds from the soil and use them to build proteins, which are needed for healthy growth. Recycling by decomposers keeps this supply going."
+        },
+        {
+          "topic": "Designing a fair test",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A student wants to find out if light affects how fast a plant grows. To make it a fair test, the student should keep the same for both plants everything EXCEPT:",
+          "options": ["The amount of water", "The amount of light", "The type of soil", "The size of the pot"],
+          "answer": "1",
+          "explanation": "In a fair test only the factor being studied is changed. Here that is the amount of light, while water, soil, and pot size are kept the same for both plants."
+        },
+        {
+          "topic": "Interpreting cell evidence",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Under a microscope, a cell is seen to have a cell wall but NO chloroplasts and no large central vacuole that traps light. The cell most likely comes from:",
+          "options": ["A green leaf", "A root deep in the soil", "An animal muscle", "A red blood cell"],
+          "answer": "1",
+          "explanation": "A plant cell with a cell wall but no chloroplasts is likely from a part that gets no light, such as a root. Animal cells have no cell wall at all."
+        },
+        {
+          "topic": "Linking diet to symptoms",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A person's gums bleed and wounds heal slowly. A doctor suspects a shortage of which dietary substance, often found in fruits and vegetables?",
+          "options": ["Vitamin C", "Fat", "Fibre", "Water"],
+          "answer": "0",
+          "explanation": "A shortage of vitamin C causes bleeding gums and slow healing (a condition called scurvy). Fruits and vegetables are good sources of vitamin C."
+        },
+        {
+          "topic": "Choosing a prevention method",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A village suffers from a disease spread by drinking dirty river water. Which single action would most directly reduce this disease?",
+          "options": ["Sleeping under mosquito nets", "Boiling or treating drinking water before use", "Wearing warmer clothes", "Eating more fruit"],
+          "answer": "1",
+          "explanation": "The disease is water-borne, so making the drinking water safe by boiling or treating it tackles the cause directly. Mosquito nets help against insect-borne diseases instead."
+        },
+        {
+          "topic": "Classifying from clues",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "An organism is single-celled, lives in pond water, has a true nucleus, and moves by changing its shape. Into which kingdom is it best placed?",
+          "options": ["Monera", "Protista", "Plants", "Animals"],
+          "answer": "1",
+          "explanation": "A single-celled organism with a true nucleus that lives in water (such as Amoeba) belongs to Protista. Monera have no true nucleus, and plants and animals are many-celled."
+        },
+        {
+          "topic": "Predicting ecosystem change",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In the food chain grass to insects to small birds, a disease suddenly kills most of the insects. What is the most likely effect on the small birds and the grass?",
+          "options": ["More birds and less grass", "Fewer birds and more grass", "More birds and more grass", "No change at all"],
+          "answer": "1",
+          "explanation": "With fewer insects to eat, the birds have less food and decrease in number. With fewer insects eating it, the grass is likely to increase."
+        }
+      ]
+    }
+  ]
+}

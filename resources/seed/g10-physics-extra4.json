@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "physics",
+      "questions": [
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of these is an example of a projectile (an object moving under gravity alone)?",
+          "options": ["A rocket with its engine still firing upward", "A stone thrown across a river", "A car driving along a flat road", "A satellite held by ground control thrusters"],
+          "answer": "1",
+          "explanation": "A projectile moves under gravity only with no driving force, so a thrown stone qualifies while the others have engines or thrust."
+        },
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A ball is kicked at 16 m/s at an angle of 60° above the horizontal. What is its initial vertical velocity component? (sin 60° = 0.866)",
+          "options": ["8.0 m/s", "13.9 m/s", "16 m/s", "9.2 m/s"],
+          "answer": "1",
+          "explanation": "Vertical component = u sin θ = 16 × 0.866 = 13.9 m/s."
+        },
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A 0.20 kg ball moves in a horizontal circle of radius 0.40 m at a speed of 6.0 m/s. What centripetal force is needed?",
+          "options": ["3.0 N", "1.8 N", "18 N", "7.2 N"],
+          "answer": "2",
+          "explanation": "F = mv²/r = 0.20 × (6.0)² / 0.40 = 0.20 × 36 / 0.40 = 7.2 / 0.40 = 18 N."
+        },
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A ball rolls off a horizontal bench 0.80 m high at 2.5 m/s. Using g = 10 m/s², how far from the base of the bench does it land?",
+          "options": ["1.0 m", "0.40 m", "2.5 m", "0.80 m"],
+          "answer": "0",
+          "explanation": "Fall time: 0.80 = ½ × 10 × t² → t² = 0.16 → t = 0.40 s. Horizontal distance = 2.5 × 0.40 = 1.0 m."
+        },
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A projectile is launched from the ground at 20 m/s at 60° above the horizontal. Using g = 10 m/s² and sin 60° = 0.866, what is the maximum height reached?",
+          "options": ["7.5 m", "10 m", "20 m", "15 m"],
+          "answer": "3",
+          "explanation": "u_y = 20 × 0.866 = 17.3 m/s. Max height = u_y² / (2g) = (17.3)² / 20 = 299.6 / 20 ≈ 15 m."
+        },
+        {
+          "topic": "Motion in 2D",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A projectile is launched from level ground at 30 m/s at 45° (sin 90° = 1). Using g = 10 m/s², what is its horizontal range?",
+          "options": ["45 m", "90 m", "180 m", "30 m"],
+          "answer": "1",
+          "explanation": "Range R = u² sin 2θ / g = (30)² × sin 90° / 10 = 900 × 1 / 10 = 90 m."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the SI unit of capacitance?",
+          "options": ["Coulomb", "Volt", "Farad", "Ohm"],
+          "answer": "2",
+          "explanation": "Capacitance is measured in farads (F), where one farad stores one coulomb per volt."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A charge of 5.0 × 10⁻⁶ C feels a force of 0.015 N at a point in an electric field. What is the field strength there?",
+          "options": ["75 N/C", "300 N/C", "3000 N/C", "7.5 × 10⁻⁸ N/C"],
+          "answer": "2",
+          "explanation": "E = F/q = 0.015 / (5.0 × 10⁻⁶) = 3000 N/C."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "How much charge is stored on a 8.0 µF capacitor connected to a 12 V supply?",
+          "options": ["1.5 µC", "96 µC", "0.67 µC", "20 µC"],
+          "answer": "1",
+          "explanation": "Q = CV = 8.0 µF × 12 V = 96 µC."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two equal point charges 0.10 m apart repel with a force of 0.90 N. If the distance is increased to 0.30 m, what is the new force?",
+          "options": ["0.30 N", "0.10 N", "2.7 N", "0.45 N"],
+          "answer": "1",
+          "explanation": "Force follows 1/r². Tripling r divides the force by 3² = 9, so F = 0.90 / 9 = 0.10 N."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the electric field strength 0.20 m from a point charge of 4.0 × 10⁻⁸ C? (Use k = 9.0 × 10⁹ N·m²/C²)",
+          "options": ["90 N/C", "360 N/C", "1800 N/C", "9000 N/C"],
+          "answer": "3",
+          "explanation": "E = kQ/r² = 9.0 × 10⁹ × 4.0 × 10⁻⁸ / (0.20)² = 360 / 0.04 = 9000 N/C."
+        },
+        {
+          "topic": "Electrostatics",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Two charges of +2.0 × 10⁻⁶ C and +5.0 × 10⁻⁶ C are placed 0.30 m apart. Using k = 9.0 × 10⁹ N·m²/C², the force between them is closest to:",
+          "options": ["1.0 N", "0.30 N", "3.0 N", "9.0 N"],
+          "answer": "0",
+          "explanation": "F = k q₁q₂ / r² = 9.0 × 10⁹ × (2.0 × 10⁻⁶ × 5.0 × 10⁻⁶) / (0.30)² = 0.09 / 0.09 = 1.0 N."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the SI unit of electrical power?",
+          "options": ["Joule", "Watt", "Ampere", "Volt"],
+          "answer": "1",
+          "explanation": "Electrical power is measured in watts (W), where one watt equals one joule of energy per second."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A current of 0.25 A flows through a 40 Ω resistor. What is the voltage across it?",
+          "options": ["160 V", "100 V", "0.006 V", "10 V"],
+          "answer": "3",
+          "explanation": "Using Ohm's law V = IR = 0.25 × 40 = 10 V."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A charge of 90 C flows past a point in a wire in 30 s. What is the current?",
+          "options": ["3.0 A", "0.33 A", "2700 A", "60 A"],
+          "answer": "0",
+          "explanation": "Current I = Q/t = 90 / 30 = 3.0 A."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two resistors of 12 Ω and 6.0 Ω are connected in parallel. What is their combined resistance?",
+          "options": ["18 Ω", "4.0 Ω", "9.0 Ω", "2.0 Ω"],
+          "answer": "1",
+          "explanation": "1/R = 1/12 + 1/6 = 1/12 + 2/12 = 3/12 = 1/4, so R = 4.0 Ω."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An electric iron rated at 1.5 kW operates for 20 minutes. How much electrical energy does it use?",
+          "options": ["30 000 J", "3.0 × 10⁴ J", "1.8 × 10⁶ J", "1.25 J"],
+          "answer": "2",
+          "explanation": "E = Pt = 1500 W × (20 × 60) s = 1500 × 1200 = 1.8 × 10⁶ J (1.8 MJ)."
+        },
+        {
+          "topic": "Current Electricity",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A battery of e.m.f. 6.0 V and internal resistance 0.50 Ω is connected to an external 2.5 Ω resistor. What is the current in the circuit?",
+          "options": ["2.4 A", "2.0 A", "12 A", "3.0 A"],
+          "answer": "1",
+          "explanation": "Total resistance = r + R = 0.50 + 2.5 = 3.0 Ω. Current I = ε / (R + r) = 6.0 / 3.0 = 2.0 A."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is produced in the region around a permanent magnet?",
+          "options": ["An electric current", "A magnetic field", "A gravitational field only", "A sound wave"],
+          "answer": "1",
+          "explanation": "A magnet sets up a magnetic field in the space around it, shown by field lines running from north to south outside the magnet."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A 0.30 m wire carries 4.0 A at right angles to a 0.50 T magnetic field. What is the force on the wire?",
+          "options": ["6.0 N", "0.06 N", "2.4 N", "0.60 N"],
+          "answer": "3",
+          "explanation": "F = BIL = 0.50 × 4.0 × 0.30 = 0.60 N."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which of the following will produce an induced voltage in a stationary coil of wire?",
+          "options": ["Placing a steady bar magnet inside it", "Moving a magnet into or out of the coil", "Leaving the coil in a constant field", "Heating the coil gently"],
+          "answer": "1",
+          "explanation": "Electromagnetic induction needs a changing magnetic field, so moving the magnet relative to the coil induces a voltage."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A straight wire feels a maximum force of 1.8 N when it carries 6.0 A perpendicular to a 0.60 T field. What is the length of the wire in the field?",
+          "options": ["2.0 m", "0.20 m", "0.50 m", "5.0 m"],
+          "answer": "2",
+          "explanation": "From F = BIL, L = F / (BI) = 1.8 / (0.60 × 6.0) = 1.8 / 3.6 = 0.50 m."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A 0.40 m wire carrying 5.0 A is placed parallel to a 0.70 T magnetic field. What force acts on the wire?",
+          "options": ["1.4 N", "0.0 N", "0.28 N", "3.5 N"],
+          "answer": "1",
+          "explanation": "The force F = BIL applies only to the component perpendicular to the field. A wire parallel to the field experiences zero force."
+        },
+        {
+          "topic": "Electromagnetism",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A wire 0.25 m long carries 8.0 A at right angles to a magnetic field and experiences a force of 0.40 N. What is the magnetic flux density?",
+          "options": ["0.80 T", "12.8 T", "2.0 T", "0.20 T"],
+          "answer": "3",
+          "explanation": "From F = BIL, B = F / (IL) = 0.40 / (8.0 × 0.25) = 0.40 / 2.0 = 0.20 T."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following is the best electrical conductor?",
+          "options": ["Rubber", "Copper", "Glass", "Dry wood"],
+          "answer": "1",
+          "explanation": "Copper is a metal with many free electrons, so it conducts electricity very well, unlike the insulators listed."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What are the three doped layers of a transistor called?",
+          "options": ["Anode, cathode, grid", "Emitter, base, collector", "Source, drain, gate", "Positive, neutral, negative"],
+          "answer": "1",
+          "explanation": "A transistor has three regions named the emitter, base, and collector; a small base current controls a larger collector–emitter current."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Adding an element such as phosphorus, which has extra valence electrons, to silicon produces which type of semiconductor?",
+          "options": ["p-type", "n-type", "An insulator", "A pure conductor"],
+          "answer": "1",
+          "explanation": "Extra electrons act as negative charge carriers, so doping with phosphorus produces n-type (negative) semiconductor material."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A diode is connected so that it blocks the flow of current. In which state is the diode?",
+          "options": ["Forward biased", "Reverse biased", "Doped", "Short circuited"],
+          "answer": "1",
+          "explanation": "A diode conducts in forward bias and blocks current in reverse bias, so a non-conducting diode is reverse biased."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A small signal at the base of a transistor controls a much larger collector current of the same shape. Which role is the transistor performing?",
+          "options": ["Acting as an insulator", "Acting as a diode", "Acting as an amplifier", "Storing charge like a capacitor"],
+          "answer": "2",
+          "explanation": "When a small base signal controls a much larger output current of the same shape, the transistor is amplifying the signal."
+        },
+        {
+          "topic": "Introduction to Electronics",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "What is the main advantage of a transistor over an early vacuum tube that performs the same job?",
+          "options": ["It is larger and easier to see", "It is small, reliable, and uses little power", "It needs a heated filament to work", "It only works at very high voltages"],
+          "answer": "1",
+          "explanation": "Transistors replaced vacuum tubes because they are far smaller, more reliable, and consume much less power, with no hot filament needed."
+        },
+        {
+          "topic": "Electromagnetic Waves and Geometrical Optics",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the approximate speed of all electromagnetic waves in a vacuum?",
+          "options": ["3.0 × 10⁸ m/s", "3.0 × 10⁶ m/s", "340 m/s", "1.5 × 10⁸ m/s"],
+          "answer": "0",
+          "explanation": "All electromagnetic waves travel through a vacuum at the speed of light, about 3.0 × 10⁸ m/s."
+        },
+        {
+          "topic": "Electromagnetic Waves and Geometrical Optics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A ray of light strikes a plane mirror with an angle of incidence of 28° measured from the normal. What is the angle of reflection?",
+          "options": ["62°", "28°", "56°", "14°"],
+          "answer": "1",
+          "explanation": "By the law of reflection, the angle of reflection equals the angle of incidence, so it is 28°."
+        },
+        {
+          "topic": "Electromagnetic Waves and Geometrical Optics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An electromagnetic wave has a wavelength of 2.0 m and travels at 3.0 × 10⁸ m/s. What is its frequency?",
+          "options": ["6.0 × 10⁸ Hz", "1.5 × 10⁻⁸ Hz", "1.5 × 10⁸ Hz", "2.0 × 10⁸ Hz"],
+          "answer": "2",
+          "explanation": "f = c / λ = (3.0 × 10⁸) / 2.0 = 1.5 × 10⁸ Hz."
+        },
+        {
+          "topic": "Electromagnetic Waves and Geometrical Optics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Light travels at 2.4 × 10⁸ m/s inside a transparent plastic. Using c = 3.0 × 10⁸ m/s, what is the refractive index of the plastic?",
+          "options": ["1.25", "0.80", "1.50", "7.2 × 10¹⁶"],
+          "answer": "0",
+          "explanation": "Refractive index n = c / v = (3.0 × 10⁸) / (2.4 × 10⁸) = 1.25."
+        },
+        {
+          "topic": "Electromagnetic Waves and Geometrical Optics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Light passes from air (n₁ = 1.0) into a glass block (n₂ = 1.5) at an angle of incidence of 30°. Using Snell's law, what is the sine of the angle of refraction? (sin 30° = 0.50)",
+          "options": ["0.75", "0.33", "0.50", "0.30"],
+          "answer": "1",
+          "explanation": "n₁ sin θ₁ = n₂ sin θ₂ → sin θ₂ = (1.0 × 0.50) / 1.5 = 0.33."
+        },
+        {
+          "topic": "Electromagnetic Waves and Geometrical Optics",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A blue light wave has a frequency of 6.0 × 10¹⁴ Hz and travels at 3.0 × 10⁸ m/s. What is its wavelength?",
+          "options": ["2.0 × 10⁶ m", "5.0 × 10⁻⁵ m", "1.8 × 10²³ m", "5.0 × 10⁻⁷ m"],
+          "answer": "3",
+          "explanation": "λ = c / f = (3.0 × 10⁸) / (6.0 × 10¹⁴) = 5.0 × 10⁻⁷ m (500 nm)."
+        }
+      ]
+    }
+  ]
+}

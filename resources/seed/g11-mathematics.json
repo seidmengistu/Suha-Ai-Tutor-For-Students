@@ -1,0 +1,1768 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "mathematics",
+      "chapters": [
+        {
+          "title": "Further on Relations and Functions",
+          "description": "Inverses of relations, new types of functions, classifying functions, composing them, and inverse functions and their graphs.",
+          "lessons": [
+            {
+              "title": "Relations, Function Types, Composition, and Inverses",
+              "summary": "Find the inverse of a relation, recognise power, absolute-value, and other special functions, classify functions as one-to-one or onto, combine functions by composition, and build inverse functions.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Connecting Inputs to Outputs",
+                  "body": "Think of a price list at a shop in Addis Ababa: each item is paired with a price. This pairing is a **relation** — a set of ordered pairs that links one set of things to another. When *every* input has exactly one output, the relation becomes a **function**.\n\nIn Grades 9 and 10 you met relations and functions. Now we go further: we learn how to **reverse** a relation, meet new families of functions, **join** two functions into one, and find the **inverse** function that 'undoes' what a function did."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Find the **inverse of a relation** and describe its graph.\n- Recognise **power functions**, the **absolute-value function**, and other special functions.\n- **Classify** functions as **one-to-one**, **onto**, or both.\n- Form the **composition** of two functions, `(f ∘ g)(x)`.\n- Find and graph the **inverse of a function**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Inverses, Composition, and Classification",
+                  "body": "A **relation** from set A to set B is any set of ordered pairs `(a, b)` with `a` in A and `b` in B. The **inverse relation** `R⁻¹` simply swaps each pair: if `(a, b)` is in `R`, then `(b, a)` is in `R⁻¹`.\n\n*Why this matters:* swapping the pairs swaps the **domain** and **range**. So **domain of R⁻¹ = range of R**, and **range of R⁻¹ = domain of R**. On a graph, `R` and `R⁻¹` are **mirror images across the line `y = x`**.\n\nA **function** is a special relation in which no two pairs share the same first element (each input gives exactly one output).\n\n**Special functions:**\n- A **power function** has the form `f(x) = a·xʳ`, where the base `x` is variable and the exponent `r` is a fixed rational number. (Do not confuse this with an **exponential function** `a^x`, where the *exponent* varies.)\n- The **absolute-value function** `f(x) = |x|` gives the distance of `x` from 0, so it is never negative.\n\n**Classifying functions:**\n- **One-to-one (injective):** different inputs always give different outputs. *Why it matters:* only one-to-one functions have an inverse that is itself a function.\n- **Onto (surjective):** every element of the codomain is actually reached.\n\n**Composition** means doing one function after another: `(f ∘ g)(x) = f(g(x))`. You apply `g` first, then feed the result into `f`.\n\nThe **inverse function** `f⁻¹` reverses `f`: if `f(a) = b`, then `f⁻¹(b) = a`. To find it, swap `x` and `y` in `y = f(x)` and solve for `y`."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Finding an Inverse Function Step by Step",
+                  "body": "**Problem:** Find the inverse of `f(x) = 2x + 3`.\n\n**Step 1 — Write it as an equation.** Let `y = 2x + 3`.\n\n**Step 2 — Swap x and y.** This is the key step, because the inverse reverses inputs and outputs: `x = 2y + 3`.\n\n**Step 3 — Solve for y.** Subtract 3: `x - 3 = 2y`. Divide by 2: `y = (x - 3)/2`.\n\n**Step 4 — Write the answer.** `f⁻¹(x) = (x - 3)/2`.\n\n**Check by composition:** `f(f⁻¹(x)) = 2·((x - 3)/2) + 3 = (x - 3) + 3 = x`. Since we get `x` back, the inverse is correct.\n\n---\n\n**Composition example:** If `f(x) = x²` and `g(x) = x + 1`, then `(f ∘ g)(x) = f(g(x)) = (x + 1)² = x² + 2x + 1`."
+                },
+                {
+                  "type": "visual",
+                  "title": "A Function and Its Inverse Mirror Across y = x",
+                  "body": "The line `f(x) = 2x + 3` and its inverse `f⁻¹(x) = (x - 3)/2` are reflections of each other across the dashed line `y = x`. Whatever point `(a, b)` lies on `f`, the point `(b, a)` lies on `f⁻¹`.",
+                  "visual": {
+                    "kind": "function-graph",
+                    "data": {
+                      "xLabel": "x",
+                      "yLabel": "y",
+                      "series": [
+                        {
+                          "label": "f(x)=2x+3",
+                          "points": [[-3, -3], [-2, -1], [-1, 1], [0, 3], [1, 5]]
+                        },
+                        {
+                          "label": "f^-1(x)=(x-3)/2",
+                          "points": [[-3, -3], [-1, -2], [1, -1], [3, 0], [5, 1]]
+                        },
+                        {
+                          "label": "y=x",
+                          "points": [[-3, -3], [0, 0], [3, 3]]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Composing in the wrong order.** `(f ∘ g)(x) = f(g(x))` means do `g` **first**. In general `f(g(x)) ≠ g(f(x))`.\n- **Confusing `f⁻¹` with `1/f`.** The inverse function `f⁻¹` is *not* the reciprocal `1/f`. They are completely different ideas.\n- **Trying to invert a function that is not one-to-one.** `f(x) = x²` has no inverse over all real numbers because both `2` and `-2` give `4`. You must restrict the domain first.\n- **Mixing up power and exponential functions.** `x³` is a power function; `3^x` is exponential."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Inverse recipe — \"Swap and Solve\":** swap `x` and `y`, then solve for `y`.\n- **Composition direction — \"inside-out\":** in `f(g(x))`, the function nearest the `x` (here `g`) acts first.\n- **Mirror line:** a function and its inverse always reflect across **`y = x`**.\n- **Power vs exponential:** *P*ower has the *P*ower (exponent) fixed; the base moves."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Find the inverse of the relation `R = {(1, 4), (2, 5), (3, 6)}`.\n2. If `f(x) = 3x - 6`, find `f⁻¹(x)`.\n3. If `f(x) = x + 2` and `g(x) = x²`, find `(f ∘ g)(x)` and `(g ∘ f)(x)`.\n4. Is `f(x) = x²` (for all real `x`) one-to-one? Why or why not?\n\n**Answers:**\n1. `R⁻¹ = {(4, 1), (5, 2), (6, 3)}`.\n2. `f⁻¹(x) = (x + 6)/3`.\n3. `(f ∘ g)(x) = x² + 2`; `(g ∘ f)(x) = (x + 2)² = x² + 4x + 4`.\n4. No. Different inputs (e.g. `2` and `-2`) give the same output `4`, so it is not one-to-one."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- The **inverse of a relation** swaps every ordered pair; this swaps domain and range.\n- A relation and its inverse are **mirror images across `y = x`**.\n- A **power function** is `a·xʳ` (fixed exponent); an **exponential function** is `a^x` (variable exponent).\n- A function is **one-to-one** if different inputs give different outputs; only such functions have inverse functions.\n- **Composition** `(f ∘ g)(x) = f(g(x))` applies `g` first.\n- To find an inverse function: **swap `x` and `y`, then solve for `y`**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Relation",
+                      "definition": "Any set of ordered pairs linking elements of one set to elements of another."
+                    },
+                    {
+                      "term": "Inverse relation",
+                      "definition": "The relation obtained by swapping the two elements of every ordered pair."
+                    },
+                    {
+                      "term": "One-to-one function",
+                      "definition": "A function in which different inputs always produce different outputs."
+                    },
+                    {
+                      "term": "Composition of functions",
+                      "definition": "Combining two functions by applying one to the result of the other: (f ∘ g)(x) = f(g(x))."
+                    },
+                    {
+                      "term": "Inverse function",
+                      "definition": "A function f⁻¹ that reverses f, so that f⁻¹(f(x)) = x."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "How do you find the inverse of a relation?",
+                  "back": "Swap the two elements of every ordered pair: if (a, b) is in R, then (b, a) is in R⁻¹."
+                },
+                {
+                  "front": "What line do a function and its inverse reflect across?",
+                  "back": "The line y = x. Point (a, b) on f corresponds to point (b, a) on f⁻¹."
+                },
+                {
+                  "front": "What does (f ∘ g)(x) mean?",
+                  "back": "f(g(x)) — apply g first, then apply f to the result."
+                },
+                {
+                  "front": "Power function vs exponential function?",
+                  "back": "Power: a·xʳ (variable base, fixed exponent). Exponential: a^x (fixed base, variable exponent)."
+                },
+                {
+                  "front": "Which functions have an inverse that is also a function?",
+                  "back": "Only one-to-one functions, where different inputs always give different outputs."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Inverse of a relation",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the inverse of R = {(0, 5), (1, 6)}?",
+              "options": ["{(5, 0), (6, 1)}", "{(0, 5), (1, 6)}", "{(5, 1), (6, 0)}", "{(-5, 0), (-6, 1)}"],
+              "answer": "0",
+              "explanation": "The inverse swaps each pair: (0, 5) becomes (5, 0) and (1, 6) becomes (6, 1)."
+            },
+            {
+              "topic": "Domain and range of an inverse",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "If the domain of R is {1, 2, 3}, what is the range of R⁻¹?",
+              "options": ["{1, 2, 3}", "The range of R", "Empty set", "All real numbers"],
+              "answer": "0",
+              "explanation": "Range of R⁻¹ equals domain of R, because the inverse swaps domain and range."
+            },
+            {
+              "topic": "Composition of functions",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "If f(x) = x + 1 and g(x) = 2x, what is (f ∘ g)(3)?",
+              "options": ["7", "8", "6", "9"],
+              "answer": "0",
+              "explanation": "Apply g first: g(3) = 6. Then f(6) = 6 + 1 = 7."
+            },
+            {
+              "topic": "Power functions",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of these is a power function?",
+              "options": ["f(x) = 5x³", "f(x) = 3^x", "f(x) = 2^x + 1", "f(x) = log x"],
+              "answer": "0",
+              "explanation": "A power function has the form a·xʳ with a fixed exponent. 5x³ fits; 3^x and 2^x are exponential."
+            },
+            {
+              "topic": "One-to-one functions",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Which function is one-to-one over all real numbers?",
+              "options": ["f(x) = 3x - 2", "f(x) = x²", "f(x) = |x|", "f(x) = x⁴"],
+              "answer": "0",
+              "explanation": "A straight line 3x - 2 gives a different output for every input. The others map two different inputs (like 2 and -2) to the same output."
+            },
+            {
+              "topic": "Finding an inverse function",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "What is the inverse of f(x) = (x - 4)/2?",
+              "options": ["f⁻¹(x) = 2x + 4", "f⁻¹(x) = (x + 4)/2", "f⁻¹(x) = 2x - 4", "f⁻¹(x) = 2/(x - 4)"],
+              "answer": "0",
+              "explanation": "Swap x and y: x = (y - 4)/2. Multiply by 2: 2x = y - 4. Add 4: y = 2x + 4."
+            }
+          ]
+        },
+        {
+          "title": "Rational Expressions and Rational Functions",
+          "description": "Simplifying rational expressions, solving rational equations, and graphing rational functions with their asymptotes.",
+          "lessons": [
+            {
+              "title": "Simplifying, Solving, and Graphing Rational Functions",
+              "summary": "Simplify fractions made of polynomials, solve equations that contain them, and graph rational functions by locating their vertical and horizontal asymptotes.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Fractions Built from Polynomials",
+                  "body": "If 12 farmers near Bahir Dar share the cost of a water pump equally, each pays `total cost ÷ 12`. If the *number* of farmers can change, the cost per farmer is `C/n` — a fraction where the bottom is a variable. Expressions like this, where a polynomial is divided by another polynomial, are called **rational expressions**.\n\nThey behave like ordinary fractions, but we must always watch one thing: **the denominator can never be zero**."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- **Simplify** a rational expression by cancelling common factors.\n- State the **values that are excluded** (where the denominator is zero).\n- **Solve rational equations** and check for invalid solutions.\n- Find **vertical** and **horizontal asymptotes** and sketch a rational function."
+                },
+                {
+                  "type": "theory",
+                  "title": "Rational Expressions and Asymptotes",
+                  "body": "A **rational expression** is a fraction `P(x)/Q(x)` where `P` and `Q` are polynomials and `Q(x) ≠ 0`. A **rational function** is `f(x) = P(x)/Q(x)`.\n\n**Simplifying:** factor the top and bottom, then cancel any factor common to both. *Why this works:* cancelling a common factor is the same as dividing top and bottom by the same non-zero quantity, which does not change the value.\n\n**Excluded values:** any `x` that makes the denominator zero must be excluded, because division by zero is undefined. Find them from the *original* denominator, before cancelling.\n\n**Asymptotes** are lines the graph approaches but never touches:\n- A **vertical asymptote** occurs where the denominator is zero (after simplifying) but the numerator is not. *Why:* near that `x`, the fraction's value shoots up to `+∞` or down to `-∞`.\n- A **horizontal asymptote** describes the value `f(x)` approaches as `x` becomes very large or very small. Compare the **degrees** of top and bottom: if the bottom degree is larger, the asymptote is `y = 0`; if the degrees are equal, it is `y = (ratio of leading coefficients)`.\n\nTo **solve a rational equation**, multiply every term by the **LCD** (lowest common denominator) to clear fractions, solve the resulting polynomial equation, then **reject any solution** that makes an original denominator zero (these are called **extraneous solutions**)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Simplifying and Solving",
+                  "body": "**Part A — Simplify** `(x² - 9)/(x² + 4x + 3)`.\n\n**Step 1 — Factor top and bottom.** Top: `x² - 9 = (x - 3)(x + 3)`. Bottom: `x² + 4x + 3 = (x + 1)(x + 3)`.\n\n**Step 2 — Cancel the common factor** `(x + 3)`:\n`= (x - 3)/(x + 1)`.\n\n**Step 3 — State excluded values** from the original bottom: `x ≠ -1` and `x ≠ -3`.\n\n---\n\n**Part B — Solve** `2/x + 1/3 = 5/x`.\n\n**Step 1 — Multiply every term by the LCD** `3x`:\n`3x·(2/x) + 3x·(1/3) = 3x·(5/x)` gives `6 + x = 15`.\n\n**Step 2 — Solve.** `x = 9`.\n\n**Step 3 — Check.** `x = 9` does not make any denominator zero, so it is valid."
+                },
+                {
+                  "type": "visual",
+                  "title": "The Graph of y = 1/x and Its Asymptotes",
+                  "body": "The basic rational function `y = 1/x` has a **vertical asymptote at `x = 0`** (the y-axis) and a **horizontal asymptote at `y = 0`** (the x-axis). The curve sits in two separate pieces and never crosses either axis.",
+                  "visual": {
+                    "kind": "function-graph",
+                    "data": {
+                      "xLabel": "x",
+                      "yLabel": "y",
+                      "series": [
+                        {
+                          "label": "y=1/x (right)",
+                          "points": [[0.25, 4], [0.5, 2], [1, 1], [2, 0.5], [4, 0.25]]
+                        },
+                        {
+                          "label": "y=1/x (left)",
+                          "points": [[-4, -0.25], [-2, -0.5], [-1, -1], [-0.5, -2], [-0.25, -4]]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Cancelling terms instead of factors.** You may only cancel *factors* (things multiplied). In `(x + 3)/(x + 1)` you cannot cancel the `x`'s — they are not factors.\n- **Forgetting excluded values.** Always note where the *original* denominator is zero, even if that factor cancels.\n- **Not checking for extraneous solutions.** A value found after clearing fractions may make an original denominator zero; it must be rejected.\n- **Reading degrees wrongly for horizontal asymptotes.** Compare the highest powers of top and bottom carefully."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **\"Factor, then cancel\":** never cancel before you factor.\n- **Vertical asymptote = denominator zero:** the bottom drops to 0, so the value blows up.\n- **Horizontal asymptote by degrees:** *bottom heavier → y = 0*; *equal → leading-coefficient ratio*.\n- **Always check answers** of rational equations against the original denominators."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Simplify `(x² - 4)/(x + 2)` and state the excluded value.\n2. For `f(x) = 1/(x - 5)`, give the vertical asymptote.\n3. Solve `3/x = 1`.\n4. What is the horizontal asymptote of `f(x) = (2x + 1)/(x - 3)`?\n\n**Answers:**\n1. `(x - 2)`, with `x ≠ -2`.\n2. `x = 5`.\n3. `x = 3`.\n4. `y = 2` (equal degrees, ratio of leading coefficients 2/1)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- A **rational expression** is `P(x)/Q(x)` with `Q(x) ≠ 0`.\n- **Simplify** by factoring and cancelling common *factors* only.\n- **Excluded values** come from where the *original* denominator is zero.\n- **Vertical asymptote:** denominator zero (numerator not). **Horizontal asymptote:** compare degrees.\n- **Solve** rational equations by clearing fractions with the LCD, then reject **extraneous** solutions."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Rational expression",
+                      "definition": "A fraction in which both the top and bottom are polynomials and the bottom is not zero."
+                    },
+                    {
+                      "term": "Excluded value",
+                      "definition": "A value of the variable that makes a denominator zero, so it is not allowed."
+                    },
+                    {
+                      "term": "Vertical asymptote",
+                      "definition": "A vertical line the graph approaches where the denominator is zero but the numerator is not."
+                    },
+                    {
+                      "term": "Horizontal asymptote",
+                      "definition": "A horizontal line that the graph approaches as x becomes very large or very small."
+                    },
+                    {
+                      "term": "Extraneous solution",
+                      "definition": "A value found while solving that must be rejected because it makes an original denominator zero."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "When is a rational expression undefined?",
+                  "back": "When its denominator equals zero, because division by zero is undefined."
+                },
+                {
+                  "front": "How do you simplify a rational expression?",
+                  "back": "Factor the top and bottom, then cancel any factor common to both."
+                },
+                {
+                  "front": "Where is a vertical asymptote?",
+                  "back": "Where the denominator is zero (after simplifying) but the numerator is not."
+                },
+                {
+                  "front": "How do you find a horizontal asymptote?",
+                  "back": "Compare degrees: bottom larger gives y = 0; equal degrees give y = ratio of leading coefficients."
+                },
+                {
+                  "front": "What is an extraneous solution?",
+                  "back": "A solution found after clearing fractions that makes an original denominator zero, so it must be rejected."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Excluded values",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "For what value of x is (x + 1)/(x - 4) undefined?",
+              "options": ["x = 4", "x = -1", "x = 0", "x = 1"],
+              "answer": "0",
+              "explanation": "The expression is undefined when the denominator x - 4 equals zero, i.e. x = 4."
+            },
+            {
+              "topic": "Simplifying",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Simplify (x² - 1)/(x - 1).",
+              "options": ["x + 1", "x - 1", "x² ", "1"],
+              "answer": "0",
+              "explanation": "x² - 1 = (x - 1)(x + 1). Cancel (x - 1) to get x + 1 (with x ≠ 1)."
+            },
+            {
+              "topic": "Vertical asymptote",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the vertical asymptote of f(x) = 3/(x + 2)?",
+              "options": ["x = -2", "x = 2", "y = 3", "y = 0"],
+              "answer": "0",
+              "explanation": "Set the denominator to zero: x + 2 = 0, so x = -2."
+            },
+            {
+              "topic": "Horizontal asymptote",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "What is the horizontal asymptote of f(x) = (4x)/(x + 1)?",
+              "options": ["y = 4", "y = 0", "y = 1", "x = -1"],
+              "answer": "0",
+              "explanation": "The degrees of top and bottom are equal, so the asymptote is the ratio of leading coefficients, 4/1 = 4."
+            },
+            {
+              "topic": "Solving rational equations",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Solve 6/x = 2.",
+              "options": ["x = 3", "x = 12", "x = 4", "x = 1/3"],
+              "answer": "0",
+              "explanation": "Multiply both sides by x: 6 = 2x, so x = 3."
+            },
+            {
+              "topic": "Extraneous solutions",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "While solving 1/(x - 2) = 3, a student gets x = 2. What is wrong?",
+              "options": ["x = 2 makes the denominator zero, so it must be rejected", "Nothing; x = 2 is correct", "The answer should be negative", "There is no solution method"],
+              "answer": "0",
+              "explanation": "x = 2 makes the original denominator x - 2 equal zero, so it is extraneous. (The real solution is x = 2 + 1/3 = 7/3.)"
+            }
+          ]
+        },
+        {
+          "title": "Coordinate Geometry",
+          "description": "The straight line in the coordinate plane and the conic sections: circle, parabola, ellipse, and hyperbola.",
+          "lessons": [
+            {
+              "title": "Straight Lines and Conic Sections",
+              "summary": "Use slope and the equation of a straight line, then recognise and write the equations of the four conic sections: circle, parabola, ellipse, and hyperbola.",
+              "estimatedMinutes": 40,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Shapes Described by Equations",
+                  "body": "When a satellite dish in a village near Hawassa is built, its cross-section is a **parabola** — a special curve that focuses signals to one point. The path of a planet is an **ellipse**, and the shape of a ripple on a pond is a **circle**. All of these curves can be described by simple equations using `x` and `y`.\n\nThese curves — the **circle**, **parabola**, **ellipse**, and **hyperbola** — are called **conic sections** because each one is formed by slicing a cone at a different angle."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Find the **slope** and **equation** of a straight line.\n- Write and recognise the equation of a **circle**.\n- Recognise the standard forms of the **parabola**, **ellipse**, and **hyperbola**.\n- Identify a conic from its equation."
+                },
+                {
+                  "type": "theory",
+                  "title": "Lines and the Four Conics",
+                  "body": "**Straight line.** The **slope** between points `(x₁, y₁)` and `(x₂, y₂)` is `m = (y₂ - y₁)/(x₂ - x₁)`, the 'steepness' of the line. *Why it matters:* slope tells you how fast `y` changes as `x` changes. The most useful equation is the **slope-intercept form** `y = mx + c`, where `c` is the **y-intercept** (where the line crosses the y-axis).\n\n**Conic sections** (standard forms centred at the origin):\n- **Circle:** `x² + y² = r²`. Every point is the same distance `r` (the **radius**) from the centre.\n- **Parabola:** `y = ax²` (or `x = ay²`). Every point is equally far from a fixed point (**focus**) and a fixed line (**directrix**).\n- **Ellipse:** `x²/a² + y²/b² = 1`. A stretched circle; the sum of distances to two fixed points (**foci**) is constant.\n- **Hyperbola:** `x²/a² - y²/b² = 1`. Two opening curves; the *difference* of distances to two foci is constant.\n\n*Why the `+` and `-` matter:* in the ellipse the squared terms are **added**, giving a closed curve; in the hyperbola they are **subtracted**, giving two open branches. This single sign is the quickest way to tell them apart."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Equation of a Line and a Circle",
+                  "body": "**Part A — Line through two points.** Find the equation of the line through `(1, 2)` and `(3, 8)`.\n\n**Step 1 — Find the slope.** `m = (8 - 2)/(3 - 1) = 6/2 = 3`.\n\n**Step 2 — Use `y = mx + c` with one point.** Put `(1, 2)`: `2 = 3(1) + c`, so `c = -1`.\n\n**Step 3 — Write the equation.** `y = 3x - 1`.\n\n---\n\n**Part B — Circle.** Write the equation of a circle with centre `(0, 0)` and radius `5`.\n\nUse `x² + y² = r²` with `r = 5`:\n`x² + y² = 25`.\n\n**Check:** the point `(3, 4)` should lie on it: `3² + 4² = 9 + 16 = 25`. Correct."
+                },
+                {
+                  "type": "visual",
+                  "title": "Plotting Points on the Coordinate Plane",
+                  "body": "Three points of the line `y = 3x - 1` are shown on the coordinate plane: `(0, -1)`, `(1, 2)`, and `(2, 5)`. Joining them gives a straight line with slope 3 (it rises 3 units for every 1 unit to the right).",
+                  "visual": {
+                    "kind": "coordinate-plane",
+                    "data": {
+                      "xLabel": "x",
+                      "yLabel": "y",
+                      "points": [
+                        {"label": "A (0, -1)", "x": 0, "y": -1},
+                        {"label": "B (1, 2)", "x": 1, "y": 2},
+                        {"label": "C (2, 5)", "x": 2, "y": 5}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Slope formula upside down.** Slope is *rise over run*: `(y₂ - y₁)/(x₂ - x₁)`, not the other way round.\n- **Subtracting in different orders.** Use the *same* order for both the `y`'s and the `x`'s in the slope formula.\n- **Confusing ellipse and hyperbola.** Added squares (`+`) → ellipse (closed); subtracted squares (`-`) → hyperbola (open).\n- **Forgetting to square the radius.** A circle of radius 5 is `x² + y² = 25`, not `x² + y² = 5`."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **\"Rise over Run\"** for slope — say it every time.\n- **Circle = `x² + y² = r²`:** both terms positive, equal, and equal to the radius squared.\n- **Plus is closed, minus is open:** `+` between squares → ellipse; `-` → hyperbola.\n- **`y = mx + c`:** `m` is the **m**ove (slope), `c` is the **c**rossing of the y-axis."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Find the slope of the line through `(2, 1)` and `(6, 9)`.\n2. Write the equation of the line with slope 2 and y-intercept -3.\n3. Write the equation of a circle, centre origin, radius 7.\n4. Is `x²/9 + y²/4 = 1` an ellipse or a hyperbola?\n\n**Answers:**\n1. `m = (9 - 1)/(6 - 2) = 8/4 = 2`.\n2. `y = 2x - 3`.\n3. `x² + y² = 49`.\n4. An ellipse (the squared terms are added)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **Slope** `m = (y₂ - y₁)/(x₂ - x₁)`; line equation `y = mx + c`.\n- **Circle:** `x² + y² = r²` (centre origin, radius `r`).\n- **Parabola:** `y = ax²` — a U-shaped focusing curve.\n- **Ellipse:** `x²/a² + y²/b² = 1` (added squares, closed).\n- **Hyperbola:** `x²/a² - y²/b² = 1` (subtracted squares, two open branches)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Slope",
+                      "definition": "A measure of the steepness of a line, equal to rise over run."
+                    },
+                    {
+                      "term": "Conic section",
+                      "definition": "A curve formed by slicing a cone: a circle, parabola, ellipse, or hyperbola."
+                    },
+                    {
+                      "term": "Circle",
+                      "definition": "The set of all points at a fixed distance (radius) from a centre; x² + y² = r² when centred at the origin."
+                    },
+                    {
+                      "term": "Ellipse",
+                      "definition": "A closed oval curve with equation x²/a² + y²/b² = 1; the squared terms are added."
+                    },
+                    {
+                      "term": "Hyperbola",
+                      "definition": "A curve of two open branches with equation x²/a² - y²/b² = 1; the squared terms are subtracted."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What is the slope formula?",
+                  "back": "m = (y₂ - y₁)/(x₂ - x₁), the rise divided by the run."
+                },
+                {
+                  "front": "Equation of a circle centred at the origin?",
+                  "back": "x² + y² = r², where r is the radius."
+                },
+                {
+                  "front": "How do you tell an ellipse from a hyperbola?",
+                  "back": "Ellipse has added squared terms (+) and is closed; hyperbola has subtracted squared terms (-) and is open."
+                },
+                {
+                  "front": "What does c mean in y = mx + c?",
+                  "back": "The y-intercept — the point where the line crosses the y-axis."
+                },
+                {
+                  "front": "What is a parabola?",
+                  "back": "A U-shaped conic such as y = ax²; every point is equidistant from a focus and a directrix."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Slope",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the slope of the line through (0, 0) and (2, 6)?",
+              "options": ["3", "2", "1/3", "6"],
+              "answer": "0",
+              "explanation": "Slope = (6 - 0)/(2 - 0) = 6/2 = 3."
+            },
+            {
+              "topic": "Equation of a line",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which line has slope 4 and y-intercept 1?",
+              "options": ["y = 4x + 1", "y = x + 4", "y = 4x - 1", "y = 1x + 4"],
+              "answer": "0",
+              "explanation": "In y = mx + c, m = 4 and c = 1 gives y = 4x + 1."
+            },
+            {
+              "topic": "Circle",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the radius of the circle x² + y² = 36?",
+              "options": ["6", "36", "18", "12"],
+              "answer": "0",
+              "explanation": "Since x² + y² = r², we have r² = 36, so r = 6."
+            },
+            {
+              "topic": "Identifying conics",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which equation represents a hyperbola?",
+              "options": ["x²/4 - y²/9 = 1", "x²/4 + y²/9 = 1", "x² + y² = 4", "y = x²"],
+              "answer": "0",
+              "explanation": "A hyperbola has subtracted squared terms. x²/4 - y²/9 = 1 has a minus sign, so it is a hyperbola."
+            },
+            {
+              "topic": "Points on a circle",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Does the point (3, 4) lie on the circle x² + y² = 25?",
+              "options": ["Yes, because 9 + 16 = 25", "No, it lies outside", "No, it lies inside", "Cannot be determined"],
+              "answer": "0",
+              "explanation": "Substitute: 3² + 4² = 9 + 16 = 25, which equals the right side, so the point is on the circle."
+            },
+            {
+              "topic": "Equation of a line through two points",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "What is the equation of the line through (0, 5) and (2, 9)?",
+              "options": ["y = 2x + 5", "y = 4x + 5", "y = 2x + 9", "y = 5x + 2"],
+              "answer": "0",
+              "explanation": "Slope = (9 - 5)/(2 - 0) = 2. The y-intercept is 5 (from the point (0, 5)), so y = 2x + 5."
+            }
+          ]
+        },
+        {
+          "title": "Mathematical Reasoning",
+          "description": "The language of logic — statements, connectives, truth tables — and how to test the validity of arguments.",
+          "lessons": [
+            {
+              "title": "Logic, Truth Tables, and Valid Arguments",
+              "summary": "Learn the building blocks of logic: statements, the connectives AND, OR, NOT, and implication, how to build truth tables, and how to decide whether an argument is valid.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Thinking Clearly with Logic",
+                  "body": "Every day we reason: *\"If it rains, then the road to school is muddy.\"* Mathematics turns this everyday reasoning into a precise tool called **logic**. Logic lets us combine simple true-or-false statements and decide, with certainty, whether a conclusion really follows.\n\nThis is the foundation of all proof in mathematics, and it sharpens the way you argue in any subject."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Identify a **statement** (proposition) and its **truth value**.\n- Use the connectives **NOT (¬)**, **AND (∧)**, **OR (∨)**, and **implication (⇒)**.\n- Build a **truth table**.\n- Decide whether an **argument** is **valid**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Statements, Connectives, and Validity",
+                  "body": "A **statement** (or **proposition**) is a sentence that is either **true (T)** or **false (F)**, but not both. *\"5 is greater than 2\"* is a statement; *\"Close the door\"* is not.\n\n**Connectives** join statements `p` and `q`:\n- **Negation `¬p`** (NOT): true exactly when `p` is false.\n- **Conjunction `p ∧ q`** (AND): true **only** when *both* are true.\n- **Disjunction `p ∨ q`** (OR): true when *at least one* is true.\n- **Implication `p ⇒ q`** (IF...THEN): false **only** when `p` is true but `q` is false; true in every other case.\n\n*Why implication is tricky:* `p ⇒ q` is considered true whenever the 'if' part `p` is false. The promise *\"if it rains, the road is muddy\"* is only broken if it rains and the road stays dry.\n\nA **truth table** lists every possible combination of T and F for the statements and shows the result. With `n` statements there are `2ⁿ` rows.\n\nAn **argument** has **premises** and a **conclusion**. It is **valid** if, whenever *all* the premises are true, the conclusion is *also* true. *Why this matters:* validity is about the *form* of reasoning, not whether the statements happen to be true."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Building a Truth Table for Implication",
+                  "body": "**Problem:** Build the truth table for `p ⇒ q`.\n\n**Step 1 — List all combinations.** Two statements give `2² = 4` rows: (T,T), (T,F), (F,T), (F,F).\n\n**Step 2 — Apply the rule.** `p ⇒ q` is false **only** when `p` is T and `q` is F.\n\n| p | q | p ⇒ q |\n|---|---|-------|\n| T | T | T |\n| T | F | F |\n| F | T | T |\n| F | F | T |\n\n**Step 3 — Read the result.** Only the second row (T, F) gives F. Every other row gives T.\n\n---\n\n**Validity example (Modus Ponens):** Premises: `p ⇒ q` and `p`. Conclusion: `q`. Whenever both premises are true, `p` is true, so the second row cannot happen and `q` must be true. The argument is **valid**."
+                },
+                {
+                  "type": "visual",
+                  "title": "Truth Table for AND, OR, and Implication",
+                  "body": "This table compares the three main connectives side by side. Notice that **AND** is true in only one row, **OR** is false in only one row, and **implication** is false in only one row.",
+                  "visual": {
+                    "kind": "geometry",
+                    "data": {
+                      "description": "A four-row truth table. Columns: p, q, p AND q, p OR q, p implies q. Row 1: T, T, T, T, T. Row 2: T, F, F, T, F. Row 3: F, T, F, T, T. Row 4: F, F, F, F, T."
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Misreading implication.** `p ⇒ q` is true whenever `p` is false. It is false only in the single case T ⇒ F.\n- **Treating OR as exclusive.** In logic, `p ∨ q` is true even when *both* are true. 'Or' does not mean 'one or the other but not both'.\n- **Confusing truth with validity.** An argument can be valid even if its premises are false; validity is about the *structure* of the reasoning.\n- **Forgetting rows.** With `n` statements you need exactly `2ⁿ` rows — do not leave any combination out."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **AND is strict:** **A**ll must be true (only one T row).\n- **OR is generous:** only **F**alse when both are false.\n- **Implication breaks only on \"True then False\":** T ⇒ F is the one and only F.\n- **Rows = 2ⁿ:** double the rows for each extra statement (1 statement → 2, 2 → 4, 3 → 8)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Is *\"x + 1 = 3\"* a statement? Is *\"What time is it?\"* a statement?\n2. If `p` is true and `q` is false, what is `p ∧ q`? What is `p ∨ q`?\n3. For what single case is `p ⇒ q` false?\n4. How many rows does a truth table with 3 statements have?\n\n**Answers:**\n1. *\"x + 1 = 3\"* becomes a statement once `x` is known; *\"What time is it?\"* is not a statement (it is a question).\n2. `p ∧ q` is false; `p ∨ q` is true.\n3. Only when `p` is true and `q` is false.\n4. `2³ = 8` rows."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- A **statement** is true or false, not both.\n- **¬** reverses; **∧ (AND)** is true only if both are true; **∨ (OR)** is true if at least one is true.\n- **Implication `p ⇒ q`** is false **only** when `p` is true and `q` is false.\n- A **truth table** has `2ⁿ` rows for `n` statements.\n- An **argument is valid** if true premises always force a true conclusion."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Statement (proposition)",
+                      "definition": "A sentence that is either true or false, but not both."
+                    },
+                    {
+                      "term": "Negation",
+                      "definition": "The connective NOT (¬); it reverses the truth value of a statement."
+                    },
+                    {
+                      "term": "Conjunction",
+                      "definition": "The connective AND (∧); true only when both statements are true."
+                    },
+                    {
+                      "term": "Implication",
+                      "definition": "The connective IF...THEN (⇒); false only when the first part is true and the second is false."
+                    },
+                    {
+                      "term": "Valid argument",
+                      "definition": "An argument in which true premises always lead to a true conclusion."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What is a statement in logic?",
+                  "back": "A sentence that is either true or false, but not both."
+                },
+                {
+                  "front": "When is p ∧ q (AND) true?",
+                  "back": "Only when both p and q are true."
+                },
+                {
+                  "front": "When is p ∨ q (OR) true?",
+                  "back": "When at least one of p and q is true (including when both are true)."
+                },
+                {
+                  "front": "When is the implication p ⇒ q false?",
+                  "back": "Only when p is true and q is false. In every other case it is true."
+                },
+                {
+                  "front": "How many rows does a truth table with n statements have?",
+                  "back": "2ⁿ rows — one for each combination of true and false."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Statements",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of the following is a statement (proposition)?",
+              "options": ["7 is a prime number", "Please sit down", "What is your name?", "How wonderful!"],
+              "answer": "0",
+              "explanation": "A statement must be true or false. '7 is a prime number' is true; the others are a command, a question, and an exclamation."
+            },
+            {
+              "topic": "Conjunction",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "If p is true and q is true, what is p ∧ q?",
+              "options": ["True", "False", "Sometimes true", "Undefined"],
+              "answer": "0",
+              "explanation": "AND is true only when both statements are true, which is the case here."
+            },
+            {
+              "topic": "Disjunction",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "If p is false and q is true, what is p ∨ q?",
+              "options": ["True", "False", "Both", "Neither"],
+              "answer": "0",
+              "explanation": "OR is true when at least one statement is true. Here q is true, so p ∨ q is true."
+            },
+            {
+              "topic": "Implication",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "For which case is p ⇒ q false?",
+              "options": ["p true, q false", "p true, q true", "p false, q true", "p false, q false"],
+              "answer": "0",
+              "explanation": "Implication is false only when the 'if' part is true and the 'then' part is false."
+            },
+            {
+              "topic": "Negation",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "If p is true, what is ¬p?",
+              "options": ["False", "True", "Both", "Undefined"],
+              "answer": "0",
+              "explanation": "Negation reverses the truth value. If p is true, then ¬p is false."
+            },
+            {
+              "topic": "Validity",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "An argument is valid when:",
+              "options": ["true premises always force a true conclusion", "the premises are interesting", "the conclusion is true by itself", "all statements are false"],
+              "answer": "0",
+              "explanation": "Validity means: whenever all the premises are true, the conclusion must also be true."
+            }
+          ]
+        },
+        {
+          "title": "Statistics and Probability",
+          "description": "Organising and summarising data with measures of centre and spread, and measuring the chance of events.",
+          "lessons": [
+            {
+              "title": "Summarising Data and Measuring Chance",
+              "summary": "Find the mean, median, and mode, measure how spread out data is, and calculate the probability of events using counting.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Making Sense of Numbers and Chance",
+                  "body": "Suppose a teacher in Mekelle records the test scores of 40 students. A long list of numbers is hard to understand. **Statistics** gives us a few summary numbers — like the **average** — that describe the whole class at a glance.\n\n**Probability** answers a different question: *how likely* is something? When you roll a die or check whether it will rain, probability puts a number between 0 and 1 on the chance of each outcome."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Calculate the **mean**, **median**, and **mode** of a data set.\n- Describe **spread** using the **range**.\n- Find the **probability** of a simple event.\n- Use the idea that probabilities of all outcomes add to **1**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Centre, Spread, and Probability",
+                  "body": "**Measures of central tendency** describe the 'middle' of data:\n- The **mean** is the sum of all values divided by how many there are. *Why useful:* it uses every value, giving a fair overall average.\n- The **median** is the middle value when the data is put in order. *Why useful:* it is not pulled off by a few very large or very small values.\n- The **mode** is the value that appears most often.\n\n**Measure of spread:**\n- The **range** = largest value − smallest value. It shows how spread out the data is.\n\n**Probability.** The **probability** of an event `E` is:\n`P(E) = (number of favourable outcomes)/(total number of equally likely outcomes)`.\n\n*Why the rules hold:*\n- `P(E)` is always between **0** (impossible) and **1** (certain).\n- The probabilities of all possible outcomes **add up to 1**, because one of them must happen.\n- The probability that `E` does **not** happen is `1 − P(E)` (the **complement**)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Average, Median, and a Probability",
+                  "body": "**Part A — Mean, median, mode.** Data: `4, 7, 7, 2, 10`.\n\n**Step 1 — Mean.** Sum = `4 + 7 + 7 + 2 + 10 = 30`. There are 5 values, so mean = `30 ÷ 5 = 6`.\n\n**Step 2 — Median.** Put in order: `2, 4, 7, 7, 10`. The middle (3rd) value is `7`.\n\n**Step 3 — Mode.** The value `7` appears twice — more than any other — so the mode is `7`.\n\n**Step 4 — Range.** `10 − 2 = 8`.\n\n---\n\n**Part B — Probability.** A fair die is rolled. Find `P(even number)`.\nFavourable outcomes: `2, 4, 6` (three of them). Total outcomes: `6`.\n`P(even) = 3/6 = 1/2`."
+                },
+                {
+                  "type": "visual",
+                  "title": "Probability on a Number Line",
+                  "body": "Every probability sits between 0 and 1. An impossible event is at 0, a certain event is at 1, and an even chance (like rolling an even number) is at 0.5 — exactly halfway.",
+                  "visual": {
+                    "kind": "number-line",
+                    "data": {
+                      "min": 0,
+                      "max": 1,
+                      "step": 0.25,
+                      "points": [
+                        {"value": 0, "label": "Impossible"},
+                        {"value": 0.5, "label": "Even chance"},
+                        {"value": 1, "label": "Certain"}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Finding the median without ordering.** Always put the data in order *first*.\n- **Giving a probability greater than 1.** A probability can never be more than 1 or less than 0; if you get such an answer, check your counting.\n- **Confusing mean and median.** The mean uses every value; the median is just the middle one.\n- **Forgetting all outcomes for probability.** The denominator must be the *total* number of equally likely outcomes."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Mean = aMEANt to share:** add everything, then share equally (divide).\n- **Median = the median of a road** is in the *middle* — order first, then take the centre.\n- **MOde = MOst often.**\n- **Probability is favourable over total**, and always between 0 and 1."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Find the mean of `3, 6, 9, 12`.\n2. Find the median of `5, 1, 9, 3, 7`.\n3. A bag has 2 red and 3 blue balls. What is `P(red)`?\n4. If `P(rain) = 0.3`, what is `P(no rain)`?\n\n**Answers:**\n1. `(3 + 6 + 9 + 12)/4 = 30/4 = 7.5`.\n2. Order: `1, 3, 5, 7, 9`; median = `5`.\n3. `P(red) = 2/5`.\n4. `1 − 0.3 = 0.7`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **Mean** = sum ÷ count; **median** = middle of ordered data; **mode** = most frequent value.\n- **Range** = largest − smallest, a measure of spread.\n- **Probability** `P(E)` = favourable ÷ total, always between **0 and 1**.\n- All outcome probabilities **add to 1**; `P(not E) = 1 − P(E)`."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Mean",
+                      "definition": "The average: the sum of all values divided by the number of values."
+                    },
+                    {
+                      "term": "Median",
+                      "definition": "The middle value when the data is arranged in order."
+                    },
+                    {
+                      "term": "Mode",
+                      "definition": "The value that occurs most often in a data set."
+                    },
+                    {
+                      "term": "Range",
+                      "definition": "The difference between the largest and smallest values."
+                    },
+                    {
+                      "term": "Probability",
+                      "definition": "A number between 0 and 1 giving the chance of an event: favourable outcomes divided by total outcomes."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "How do you find the mean?",
+                  "back": "Add all the values, then divide by how many values there are."
+                },
+                {
+                  "front": "How do you find the median?",
+                  "back": "Arrange the data in order, then take the middle value."
+                },
+                {
+                  "front": "What is the range?",
+                  "back": "The largest value minus the smallest value — a measure of spread."
+                },
+                {
+                  "front": "What is the formula for probability?",
+                  "back": "P(E) = number of favourable outcomes ÷ total number of equally likely outcomes."
+                },
+                {
+                  "front": "What is P(not E)?",
+                  "back": "1 − P(E), because all probabilities add up to 1."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Mean",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the mean of 2, 4, 6?",
+              "options": ["4", "6", "12", "2"],
+              "answer": "0",
+              "explanation": "Mean = (2 + 4 + 6)/3 = 12/3 = 4."
+            },
+            {
+              "topic": "Median",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the median of 8, 3, 5?",
+              "options": ["5", "3", "8", "16"],
+              "answer": "0",
+              "explanation": "In order: 3, 5, 8. The middle value is 5."
+            },
+            {
+              "topic": "Mode",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the mode of 2, 3, 3, 5, 7?",
+              "options": ["3", "5", "2", "7"],
+              "answer": "0",
+              "explanation": "The mode is the value that appears most often, which is 3 (it appears twice)."
+            },
+            {
+              "topic": "Probability",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A fair die is rolled. What is P(getting a 4)?",
+              "options": ["1/6", "1/4", "4/6", "1/2"],
+              "answer": "0",
+              "explanation": "There is one favourable outcome (4) out of six equally likely outcomes, so P = 1/6."
+            },
+            {
+              "topic": "Range",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the range of 10, 4, 15, 7?",
+              "options": ["11", "15", "4", "9"],
+              "answer": "0",
+              "explanation": "Range = largest - smallest = 15 - 4 = 11."
+            },
+            {
+              "topic": "Complement of an event",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "If the probability of passing a test is 0.85, what is the probability of not passing?",
+              "options": ["0.15", "0.85", "1.85", "0.5"],
+              "answer": "0",
+              "explanation": "P(not passing) = 1 - P(passing) = 1 - 0.85 = 0.15."
+            }
+          ]
+        },
+        {
+          "title": "Matrices and Determinants",
+          "description": "Matrices and their operations, determinants and their properties, inverses, and solving systems of equations including Cramer's rule.",
+          "lessons": [
+            {
+              "title": "Matrices, Determinants, and Solving Systems",
+              "summary": "Add and multiply matrices, find the determinant and inverse of a 2x2 matrix, and solve systems of linear equations using matrices and Cramer's rule.",
+              "estimatedMinutes": 40,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Organising Numbers in Rows and Columns",
+                  "body": "A shopkeeper in Dire Dawa tracks how many of three products she sells in each of four months. Writing the numbers in a neat grid of rows and columns makes them easy to handle. Such a grid is called a **matrix**.\n\nMatrices are more than tidy tables: we can add and multiply them, and they give a powerful way to **solve systems of equations** — like finding two unknown prices from two clues at once."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Identify the **order** of a matrix and **add** matrices.\n- **Multiply** two matrices.\n- Find the **determinant** of a 2×2 matrix.\n- Find the **inverse** of a 2×2 matrix and use **Cramer's rule** to solve a system."
+                },
+                {
+                  "type": "theory",
+                  "title": "Operations, Determinants, and Inverses",
+                  "body": "A **matrix** is a rectangular array of numbers arranged in **rows** and **columns**. Its **order** is written `rows × columns` (e.g. a 2×3 matrix has 2 rows and 3 columns).\n\n**Addition:** add matrices of the *same order* by adding corresponding entries.\n\n**Multiplication:** to multiply `A × B`, the number of *columns of A* must equal the number of *rows of B*. Each entry is a **row of A times a column of B** (multiply matching numbers and add). *Why the order rule:* each entry pairs one row with one column, so their lengths must match.\n\n**Determinant of a 2×2 matrix.** For `A = [[a, b], [c, d]]`, the determinant is:\n`det(A) = ad − bc`.\n*Why it matters:* the determinant tells you whether the matrix has an **inverse**. If `det(A) = 0`, no inverse exists.\n\n**Inverse of a 2×2 matrix.** When `det(A) ≠ 0`:\n`A⁻¹ = (1/(ad − bc)) · [[d, −b], [−c, a]]`.\nNotice: **swap** `a` and `d`, **negate** `b` and `c`, then divide by the determinant.\n\n**Cramer's rule** solves a system like `ax + by = e`, `cx + dy = f` using determinants:\n`x = Dₓ/D` and `y = Dᵧ/D`, where `D = ad − bc`, `Dₓ` replaces the x-column with `(e, f)`, and `Dᵧ` replaces the y-column with `(e, f)`."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Determinant, Inverse, and Cramer's Rule",
+                  "body": "**Part A — Determinant.** For `A = [[2, 3], [1, 4]]`:\n`det(A) = (2)(4) − (3)(1) = 8 − 3 = 5`.\n\n**Part B — Inverse.** Since `det(A) = 5 ≠ 0`:\n`A⁻¹ = (1/5)·[[4, −3], [−1, 2]] = [[4/5, −3/5], [−1/5, 2/5]]`.\n\n---\n\n**Part C — Cramer's rule.** Solve `2x + y = 7` and `x + y = 5`.\n\n**Step 1 — Main determinant.** `D = (2)(1) − (1)(1) = 2 − 1 = 1`.\n\n**Step 2 — Dₓ** (replace x-column with 7, 5): `Dₓ = (7)(1) − (1)(5) = 7 − 5 = 2`.\n\n**Step 3 — Dᵧ** (replace y-column with 7, 5): `Dᵧ = (2)(5) − (7)(1) = 10 − 7 = 3`.\n\n**Step 4 — Divide.** `x = Dₓ/D = 2/1 = 2`; `y = Dᵧ/D = 3/1 = 3`.\n\n**Check:** `2(2) + 3 = 7` ✓ and `2 + 3 = 5` ✓."
+                },
+                {
+                  "type": "visual",
+                  "title": "How to Compute a 2x2 Determinant",
+                  "body": "For a 2×2 matrix, multiply along the two diagonals: the main diagonal (top-left to bottom-right) gives `ad`, and the other diagonal gives `bc`. The determinant is `ad − bc`.",
+                  "visual": {
+                    "kind": "geometry",
+                    "data": {
+                      "description": "A 2x2 matrix [[a, b], [c, d]]. An arrow from a to d (main diagonal) labelled 'a×d'. An arrow from b to c (anti-diagonal) labelled 'b×c'. Below: determinant = ad - bc."
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Adding matrices of different orders.** You can only add matrices that have exactly the same number of rows and columns.\n- **Assuming `AB = BA`.** Matrix multiplication is *not* commutative; order matters.\n- **Sign error in the determinant.** It is `ad − bc`, with a **minus** between the two products.\n- **Forgetting to check `det = 0`.** If the determinant is 0, there is no inverse and Cramer's rule cannot be used."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Determinant = \"main minus other\":** main diagonal product `ad` minus the other diagonal product `bc`.\n- **Inverse of 2×2 — \"Swap, Negate, Divide\":** swap `a` and `d`, negate `b` and `c`, divide by the determinant.\n- **Multiplication rule — \"inner match\":** for `A×B`, the inner numbers of (rows×cols)(rows×cols) must be equal.\n- **Cramer's rule:** replace one column at a time with the answer column."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Add `[[1, 2], [3, 4]]` and `[[5, 6], [7, 8]]`.\n2. Find the determinant of `[[3, 2], [1, 5]]`.\n3. Does `[[2, 4], [1, 2]]` have an inverse?\n4. Use Cramer's rule to solve `x + y = 4`, `x − y = 2`.\n\n**Answers:**\n1. `[[6, 8], [10, 12]]`.\n2. `(3)(5) − (2)(1) = 15 − 2 = 13`.\n3. No: `det = (2)(2) − (4)(1) = 0`.\n4. `D = (1)(−1) − (1)(1) = −2`; `Dₓ = (4)(−1) − (1)(2) = −6`, `Dᵧ = (1)(2) − (4)(1) = −2`; so `x = −6/−2 = 3`, `y = −2/−2 = 1`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- A **matrix** is a grid of numbers; its **order** is `rows × columns`.\n- **Add** matrices of the same order entry by entry; **multiply** row-by-column (inner dimensions must match).\n- **Determinant** of `[[a, b], [c, d]]` is `ad − bc`.\n- **Inverse** exists only when `det ≠ 0`; it is `(1/det)·[[d, −b], [−c, a]]`.\n- **Cramer's rule** solves systems using `x = Dₓ/D`, `y = Dᵧ/D`."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Matrix",
+                      "definition": "A rectangular array of numbers arranged in rows and columns."
+                    },
+                    {
+                      "term": "Order of a matrix",
+                      "definition": "The size of a matrix, written as (number of rows) × (number of columns)."
+                    },
+                    {
+                      "term": "Determinant",
+                      "definition": "A single number from a square matrix; for a 2×2 matrix it equals ad − bc."
+                    },
+                    {
+                      "term": "Inverse matrix",
+                      "definition": "A matrix A⁻¹ such that A × A⁻¹ gives the identity matrix; it exists only when the determinant is not zero."
+                    },
+                    {
+                      "term": "Cramer's rule",
+                      "definition": "A method that uses determinants to solve a system of linear equations."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What is the order of a matrix?",
+                  "back": "Its size written as rows × columns. A 2×3 matrix has 2 rows and 3 columns."
+                },
+                {
+                  "front": "What is the determinant of [[a, b], [c, d]]?",
+                  "back": "ad − bc (main diagonal product minus the other diagonal product)."
+                },
+                {
+                  "front": "When does a 2×2 matrix have an inverse?",
+                  "back": "Only when its determinant ad − bc is not zero."
+                },
+                {
+                  "front": "How do you find the inverse of [[a, b], [c, d]]?",
+                  "back": "Swap a and d, negate b and c, then divide every entry by the determinant: (1/(ad−bc))·[[d, −b], [−c, a]]."
+                },
+                {
+                  "front": "What does Cramer's rule give?",
+                  "back": "x = Dₓ/D and y = Dᵧ/D, where each Dₓ or Dᵧ replaces one column with the answer column."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Order of a matrix",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the order of a matrix with 3 rows and 2 columns?",
+              "options": ["3 × 2", "2 × 3", "6", "5"],
+              "answer": "0",
+              "explanation": "Order is written as rows × columns, so 3 rows and 2 columns give 3 × 2."
+            },
+            {
+              "topic": "Matrix addition",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is [[1, 0], [2, 3]] + [[4, 1], [0, 2]]?",
+              "options": ["[[5, 1], [2, 5]]", "[[5, 1], [2, 6]]", "[[4, 0], [0, 6]]", "[[5, 0], [2, 5]]"],
+              "answer": "0",
+              "explanation": "Add corresponding entries: 1+4=5, 0+1=1, 2+0=2, 3+2=5."
+            },
+            {
+              "topic": "Determinant",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the determinant of [[4, 2], [3, 1]]?",
+              "options": ["-2", "10", "2", "-10"],
+              "answer": "0",
+              "explanation": "det = ad − bc = (4)(1) − (2)(3) = 4 − 6 = −2."
+            },
+            {
+              "topic": "Existence of inverse",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which matrix has NO inverse?",
+              "options": ["[[2, 4], [1, 2]]", "[[1, 0], [0, 1]]", "[[3, 1], [2, 4]]", "[[1, 2], [3, 5]]"],
+              "answer": "0",
+              "explanation": "[[2, 4], [1, 2]] has determinant (2)(2) − (4)(1) = 0, so it has no inverse."
+            },
+            {
+              "topic": "Matrix multiplication",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "For the product A × B to be defined, what must be true?",
+              "options": ["columns of A = rows of B", "rows of A = rows of B", "A and B are equal", "both are square"],
+              "answer": "0",
+              "explanation": "Multiplication pairs each row of A with each column of B, so the number of columns of A must equal the number of rows of B."
+            },
+            {
+              "topic": "Cramer's rule",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "In Cramer's rule, if D = 2 and Dₓ = 6, what is x?",
+              "options": ["3", "12", "1/3", "8"],
+              "answer": "0",
+              "explanation": "x = Dₓ/D = 6/2 = 3."
+            }
+          ]
+        },
+        {
+          "title": "The Set of Complex Numbers",
+          "description": "The imaginary unit and complex numbers, operations on them, the conjugate and modulus, and the Argand diagram.",
+          "lessons": [
+            {
+              "title": "Complex Numbers and the Argand Diagram",
+              "summary": "Understand the imaginary unit i, add, subtract, multiply, and divide complex numbers, find the conjugate and modulus, and plot complex numbers on the Argand diagram.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "When a Square Root Goes Beyond Real Numbers",
+                  "body": "You know that no real number squared gives a negative answer, so `√(−1)` has no real value. For a long time mathematicians stopped there. Then they invented a new number, called **`i`**, defined so that `i² = −1`.\n\nThis single idea opens up the **complex numbers**, which combine an ordinary (real) part and an imaginary part. They are used in electronics, engineering, and physics to describe waves and currents."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Use the **imaginary unit** `i` with `i² = −1`.\n- **Add, subtract, multiply, and divide** complex numbers.\n- Find the **conjugate** and **modulus** of a complex number.\n- Plot complex numbers on the **Argand diagram**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Complex Numbers, Conjugate, and Modulus",
+                  "body": "The **imaginary unit** is `i`, with `i² = −1`. A **complex number** has the form `z = a + bi`, where `a` is the **real part** and `b` is the **imaginary part**.\n\n**Operations:**\n- **Add/subtract:** combine real parts together and imaginary parts together: `(a + bi) + (c + di) = (a + c) + (b + d)i`.\n- **Multiply:** use the distributive law (FOIL) and replace `i²` with `−1`.\n- **Divide:** multiply top and bottom by the **conjugate** of the denominator. *Why this works:* the conjugate turns the denominator into a real number, because `(a + bi)(a − bi) = a² + b²`.\n\nThe **complex conjugate** of `z = a + bi` is `z̄ = a − bi` (the sign of the imaginary part is flipped).\n\nThe **modulus** of `z = a + bi` is `|z| = √(a² + b²)`. *Why:* it is the distance of the point `(a, b)` from the origin on the Argand diagram, by Pythagoras's theorem.\n\nThe **Argand diagram** is a coordinate plane where the horizontal axis is the **real part** and the vertical axis is the **imaginary part**. Every complex number `a + bi` is the point `(a, b)`."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Operations and Modulus",
+                  "body": "Let `z = 3 + 2i` and `w = 1 − 4i`.\n\n**Part A — Add.** `z + w = (3 + 1) + (2 − 4)i = 4 − 2i`.\n\n**Part B — Multiply.** `z·w = (3 + 2i)(1 − 4i)`.\nExpand: `3·1 + 3·(−4i) + 2i·1 + 2i·(−4i) = 3 − 12i + 2i − 8i²`.\nReplace `i² = −1`: `−8i² = +8`. So `= (3 + 8) + (−12 + 2)i = 11 − 10i`.\n\n**Part C — Conjugate.** `z̄ = 3 − 2i`.\n\n**Part D — Modulus.** `|z| = √(3² + 2²) = √(9 + 4) = √13`.\n\n---\n\n**Division example:** `(1)/(1 + i) = (1·(1 − i))/((1 + i)(1 − i)) = (1 − i)/(1 + 1) = (1 − i)/2`."
+                },
+                {
+                  "type": "visual",
+                  "title": "Complex Numbers on the Argand Diagram",
+                  "body": "On the Argand diagram, the real part is plotted horizontally and the imaginary part vertically. The number `3 + 2i` is the point `(3, 2)`, and its conjugate `3 − 2i` is the point `(3, −2)` — a reflection across the real axis.",
+                  "visual": {
+                    "kind": "coordinate-plane",
+                    "data": {
+                      "xLabel": "Real",
+                      "yLabel": "Imaginary",
+                      "points": [
+                        {"label": "3 + 2i", "x": 3, "y": 2},
+                        {"label": "3 - 2i (conjugate)", "x": 3, "y": -2},
+                        {"label": "-2 + i", "x": -2, "y": 1}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Forgetting `i² = −1`.** After multiplying, always replace `i²` with `−1`.\n- **Wrong conjugate.** The conjugate flips the sign of the *imaginary* part only: `a + bi → a − bi`.\n- **Dividing without the conjugate.** To divide, multiply top and bottom by the conjugate of the denominator.\n- **Forgetting the square root in the modulus.** `|z| = √(a² + b²)`, not `a² + b²`."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **`i² = −1`** is the heart of everything — memorise it first.\n- **Conjugate = flip the sign of `i`:** real part stays, imaginary part changes sign.\n- **Divide by multiplying by the conjugate** to make the bottom real.\n- **Modulus = Pythagoras:** `|a + bi| = √(a² + b²)`, the distance from the origin."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Simplify `i² + i⁴`. (Hint: `i⁴ = (i²)² `.)\n2. Add `(2 + 3i) + (4 − i)`.\n3. Find the conjugate and modulus of `z = 6 + 8i`.\n4. Multiply `(2 + i)(2 − i)`.\n\n**Answers:**\n1. `i² = −1`, `i⁴ = (−1)² = 1`, so `−1 + 1 = 0`.\n2. `6 + 2i`.\n3. Conjugate `6 − 8i`; modulus `√(36 + 64) = √100 = 10`.\n4. `4 − i² = 4 + 1 = 5`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- The **imaginary unit** satisfies `i² = −1`.\n- A **complex number** is `a + bi`, with real part `a` and imaginary part `b`.\n- **Add/subtract** part by part; **multiply** with FOIL and replace `i²`; **divide** using the conjugate.\n- The **conjugate** of `a + bi` is `a − bi`; the **modulus** is `√(a² + b²)`.\n- The **Argand diagram** plots `a + bi` as the point `(a, b)`."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Imaginary unit",
+                      "definition": "The number i, defined by i² = −1."
+                    },
+                    {
+                      "term": "Complex number",
+                      "definition": "A number of the form a + bi, where a is the real part and b is the imaginary part."
+                    },
+                    {
+                      "term": "Complex conjugate",
+                      "definition": "The number a − bi formed by changing the sign of the imaginary part of a + bi."
+                    },
+                    {
+                      "term": "Modulus",
+                      "definition": "The distance of a complex number from the origin: |a + bi| = √(a² + b²)."
+                    },
+                    {
+                      "term": "Argand diagram",
+                      "definition": "A plane where complex numbers are plotted, with the real part on the horizontal axis and the imaginary part on the vertical axis."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What is the value of i²?",
+                  "back": "i² = −1. This is the defining property of the imaginary unit."
+                },
+                {
+                  "front": "What is the conjugate of a + bi?",
+                  "back": "a − bi — the sign of the imaginary part is flipped."
+                },
+                {
+                  "front": "What is the modulus of a + bi?",
+                  "back": "√(a² + b²), the distance from the origin on the Argand diagram."
+                },
+                {
+                  "front": "How do you divide complex numbers?",
+                  "back": "Multiply the top and bottom by the conjugate of the denominator to make the bottom a real number."
+                },
+                {
+                  "front": "How is a + bi plotted on the Argand diagram?",
+                  "back": "As the point (a, b): real part on the horizontal axis, imaginary part on the vertical axis."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "The imaginary unit",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is i²?",
+              "options": ["-1", "1", "i", "0"],
+              "answer": "0",
+              "explanation": "By definition, the imaginary unit satisfies i² = −1."
+            },
+            {
+              "topic": "Adding complex numbers",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is (2 + 3i) + (1 + 4i)?",
+              "options": ["3 + 7i", "3 + 12i", "6 + 5i", "3 + i"],
+              "answer": "0",
+              "explanation": "Add real parts (2+1=3) and imaginary parts (3i+4i=7i): 3 + 7i."
+            },
+            {
+              "topic": "Conjugate",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the conjugate of 5 − 2i?",
+              "options": ["5 + 2i", "-5 + 2i", "5 − 2i", "-5 − 2i"],
+              "answer": "0",
+              "explanation": "The conjugate flips the sign of the imaginary part: 5 − 2i becomes 5 + 2i."
+            },
+            {
+              "topic": "Modulus",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the modulus of 3 + 4i?",
+              "options": ["5", "7", "25", "1"],
+              "answer": "0",
+              "explanation": "|3 + 4i| = √(3² + 4²) = √(9 + 16) = √25 = 5."
+            },
+            {
+              "topic": "Multiplying complex numbers",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "What is (1 + i)(1 − i)?",
+              "options": ["2", "0", "1 − i²", "2i"],
+              "answer": "0",
+              "explanation": "(1 + i)(1 − i) = 1 − i² = 1 − (−1) = 2."
+            },
+            {
+              "topic": "Powers of i",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "What is i⁴?",
+              "options": ["1", "-1", "i", "-i"],
+              "answer": "0",
+              "explanation": "i⁴ = (i²)² = (−1)² = 1."
+            }
+          ]
+        },
+        {
+          "title": "Vectors and Transformation of the Plane",
+          "description": "Vectors and scalars, representing vectors, the dot product, applications, and transformations such as reflection, rotation, and translation.",
+          "lessons": [
+            {
+              "title": "Vectors, the Dot Product, and Plane Transformations",
+              "summary": "Tell vectors apart from scalars, add vectors and compute the dot product, and describe transformations of the plane: translation, reflection, and rotation.",
+              "estimatedMinutes": 40,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Quantities with Direction",
+                  "body": "If you tell a friend in Gondar to walk *5 kilometres*, they will ask: *in which direction?* Quantities like displacement, velocity, and force need **both a size and a direction** — these are **vectors**. Quantities like mass or temperature need only a size — these are **scalars**.\n\nVectors also let us describe how shapes move: sliding, flipping, and turning. These movements are called **transformations** of the plane."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Tell the difference between a **vector** and a **scalar**.\n- **Add** vectors and find a vector's **magnitude**.\n- Compute the **dot product** of two vectors.\n- Describe **translation**, **reflection**, and **rotation** of points."
+                },
+                {
+                  "type": "theory",
+                  "title": "Vectors, Dot Product, and Transformations",
+                  "body": "A **vector** has **magnitude** (size) and **direction**; a **scalar** has magnitude only. In the plane a vector is written as components `v = (x, y)`.\n\n**Adding vectors:** add components: `(a, b) + (c, d) = (a + c, b + d)`. *Why:* moving by one vector and then another combines their horizontal and vertical effects separately.\n\n**Magnitude:** `|v| = √(x² + y²)` (Pythagoras), the length of the vector.\n\n**Dot product (scalar product):** for `u = (a, b)` and `v = (c, d)`:\n`u · v = ac + bd`.\nThe result is a *number*, not a vector. *Why it matters:* if `u · v = 0`, the two vectors are **perpendicular** (at right angles).\n\n**Transformations of the plane** move every point by a rule:\n- **Translation** slides every point the same distance in the same direction: `(x, y) → (x + a, y + b)`.\n- **Reflection** flips points across a line (a mirror). For example, reflection in the x-axis: `(x, y) → (x, −y)`.\n- **Rotation** turns points about a fixed centre by an angle. For example, a 90° turn about the origin: `(x, y) → (−y, x)`.\n\n*Why transformations matter:* they describe symmetry and motion, and they keep distances unchanged (the shape stays the same size)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Vector Sum, Dot Product, and a Reflection",
+                  "body": "Let `u = (3, 4)` and `v = (1, 2)`.\n\n**Part A — Add.** `u + v = (3 + 1, 4 + 2) = (4, 6)`.\n\n**Part B — Magnitude of u.** `|u| = √(3² + 4²) = √(9 + 16) = √25 = 5`.\n\n**Part C — Dot product.** `u · v = (3)(1) + (4)(2) = 3 + 8 = 11`.\n\n**Part D — Perpendicular check.** Are `(2, 3)` and `(3, −2)` perpendicular?\n`(2)(3) + (3)(−2) = 6 − 6 = 0`. Since the dot product is 0, **yes**, they are perpendicular.\n\n---\n\n**Transformation example:** Reflect the point `(5, 2)` in the x-axis. Rule `(x, y) → (x, −y)` gives `(5, −2)`."
+                },
+                {
+                  "type": "visual",
+                  "title": "Reflecting a Point in the x-axis",
+                  "body": "The point `(4, 3)` reflected in the x-axis becomes `(4, −3)`. The x-coordinate stays the same; the y-coordinate changes sign. The x-axis acts like a mirror.",
+                  "visual": {
+                    "kind": "coordinate-plane",
+                    "data": {
+                      "xLabel": "x",
+                      "yLabel": "y",
+                      "points": [
+                        {"label": "P (4, 3)", "x": 4, "y": 3},
+                        {"label": "P' (4, -3)", "x": 4, "y": -3}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Confusing vectors and scalars.** Speed is a scalar; velocity (speed with direction) is a vector.\n- **Thinking the dot product is a vector.** The dot product gives a single *number*.\n- **Wrong reflection rule.** Reflection in the x-axis changes the sign of `y`; reflection in the y-axis changes the sign of `x`.\n- **Forgetting the square root in magnitude.** `|v| = √(x² + y²)`."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Vector has a direction; scalar is just a number** ('scalar' = scale only).\n- **Dot product = \"multiply matching, then add\":** `ac + bd`, and it is a number.\n- **Dot product zero → perpendicular.**\n- **Reflection in x-axis:** *x stays, y flips* (x-axis is the mirror)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Is *force* a vector or a scalar? What about *temperature*?\n2. Add the vectors `(2, −1)` and `(3, 5)`.\n3. Find the dot product of `(1, 2)` and `(4, −2)`. Are they perpendicular?\n4. Translate the point `(1, 1)` by the vector `(3, 4)`.\n\n**Answers:**\n1. Force is a vector (has direction); temperature is a scalar.\n2. `(5, 4)`.\n3. `(1)(4) + (2)(−2) = 4 − 4 = 0`; yes, perpendicular.\n4. `(1 + 3, 1 + 4) = (4, 5)`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- A **vector** has magnitude and direction; a **scalar** has magnitude only.\n- **Add** vectors component by component; **magnitude** `|v| = √(x² + y²)`.\n- **Dot product** `u · v = ac + bd` is a number; it is **0 for perpendicular** vectors.\n- **Transformations:** translation slides, reflection flips, rotation turns — all keep size unchanged."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Vector",
+                      "definition": "A quantity with both magnitude (size) and direction."
+                    },
+                    {
+                      "term": "Scalar",
+                      "definition": "A quantity with magnitude only, such as mass or temperature."
+                    },
+                    {
+                      "term": "Dot product",
+                      "definition": "The scalar (number) ac + bd formed from vectors (a, b) and (c, d); zero when they are perpendicular."
+                    },
+                    {
+                      "term": "Reflection",
+                      "definition": "A transformation that flips every point across a line, as in a mirror."
+                    },
+                    {
+                      "term": "Rotation",
+                      "definition": "A transformation that turns every point about a fixed centre by a given angle."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What is the difference between a vector and a scalar?",
+                  "back": "A vector has magnitude AND direction; a scalar has magnitude only."
+                },
+                {
+                  "front": "How do you add two vectors?",
+                  "back": "Add their components: (a, b) + (c, d) = (a + c, b + d)."
+                },
+                {
+                  "front": "How do you compute the dot product of (a, b) and (c, d)?",
+                  "back": "u · v = ac + bd. The result is a single number."
+                },
+                {
+                  "front": "What does a dot product of 0 mean?",
+                  "back": "The two vectors are perpendicular (at right angles)."
+                },
+                {
+                  "front": "What is the rule for reflecting (x, y) in the x-axis?",
+                  "back": "(x, y) → (x, −y): the x-coordinate stays, the y-coordinate changes sign."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Vectors and scalars",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of these is a vector quantity?",
+              "options": ["Velocity", "Mass", "Temperature", "Time"],
+              "answer": "0",
+              "explanation": "Velocity has both size and direction, so it is a vector. Mass, temperature, and time are scalars."
+            },
+            {
+              "topic": "Vector addition",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is (1, 2) + (3, 4)?",
+              "options": ["(4, 6)", "(3, 8)", "(4, 8)", "(2, 2)"],
+              "answer": "0",
+              "explanation": "Add components: (1+3, 2+4) = (4, 6)."
+            },
+            {
+              "topic": "Magnitude",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the magnitude of the vector (6, 8)?",
+              "options": ["10", "14", "100", "48"],
+              "answer": "0",
+              "explanation": "|v| = √(6² + 8²) = √(36 + 64) = √100 = 10."
+            },
+            {
+              "topic": "Dot product",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the dot product of (2, 3) and (4, 1)?",
+              "options": ["11", "8", "14", "5"],
+              "answer": "0",
+              "explanation": "Dot product = (2)(4) + (3)(1) = 8 + 3 = 11."
+            },
+            {
+              "topic": "Perpendicular vectors",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Which pair of vectors is perpendicular?",
+              "options": ["(1, 2) and (2, -1)", "(1, 1) and (2, 2)", "(3, 0) and (5, 0)", "(1, 2) and (2, 4)"],
+              "answer": "0",
+              "explanation": "(1)(2) + (2)(−1) = 2 − 2 = 0. A dot product of 0 means the vectors are perpendicular."
+            },
+            {
+              "topic": "Transformations",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "After reflecting the point (3, 5) in the x-axis, what are its coordinates?",
+              "options": ["(3, -5)", "(-3, 5)", "(5, 3)", "(-3, -5)"],
+              "answer": "0",
+              "explanation": "Reflection in the x-axis keeps x and changes the sign of y: (3, 5) → (3, −5)."
+            }
+          ]
+        },
+        {
+          "title": "Further on Trigonometric Functions",
+          "description": "The reciprocal functions secant, cosecant, and cotangent, inverse trigonometric functions, their graphs, and applications.",
+          "lessons": [
+            {
+              "title": "Reciprocal and Inverse Trigonometric Functions",
+              "summary": "Define secant, cosecant, and cotangent, understand inverse trigonometric functions, recognise the graphs of sine and cosine, and apply trigonometry to real problems.",
+              "estimatedMinutes": 40,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Beyond Sine, Cosine, and Tangent",
+                  "body": "You already know **sine**, **cosine**, and **tangent**. Each of these has a partner found by turning it upside down (taking its reciprocal): **cosecant**, **secant**, and **cotangent**.\n\nTrigonometry is used to find heights and distances that are hard to measure directly — like the height of the obelisks at Axum from the length of their shadow. We will also meet the **inverse** trig functions, which find the *angle* when you know the ratio."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **secant**, **cosecant**, and **cotangent** as reciprocals.\n- Understand **inverse trigonometric functions** (finding an angle from a ratio).\n- Recognise the **graphs** of `y = sin x` and `y = cos x`.\n- Use trigonometry in simple **real-life problems**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Reciprocal and Inverse Functions",
+                  "body": "The three **reciprocal trigonometric functions** are:\n- **Cosecant:** `csc x = 1/(sin x)`\n- **Secant:** `sec x = 1/(cos x)`\n- **Cotangent:** `cot x = 1/(tan x) = (cos x)/(sin x)`\n\n*Why we need them:* they appear naturally in formulas and make some calculations simpler. They are **undefined** wherever the bottom function is zero (you cannot divide by zero).\n\n**Inverse trigonometric functions** answer the reverse question. While `sin 30° = 0.5`, the inverse asks: *which angle has a sine of 0.5?* We write `sin⁻¹(0.5) = 30°` (also written `arcsin`). *Why a restriction is needed:* many angles share the same sine, so the inverse is defined only on a limited range of angles to keep it a function.\n\n**Graphs of sine and cosine:** both are smooth **waves** that repeat every `360°` (we say they are **periodic** with period `360°`). The sine curve starts at `0`; the cosine curve starts at its maximum `1`. Both stay between `−1` and `1` (this is their **amplitude** of 1).\n\nThe basic identity you will use everywhere is `sin²x + cos²x = 1`."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Reciprocals, Inverses, and a Height",
+                  "body": "**Part A — Reciprocal values.** If `sin x = 1/2`, then `csc x = 1/(1/2) = 2`.\n\n**Part B — Inverse.** Find the angle whose cosine is `1/2`.\n`cos⁻¹(1/2) = 60°`, because `cos 60° = 1/2`.\n\n---\n\n**Part C — Real-life height.** A pole casts a shadow, and the angle from the tip of the shadow up to the top of the pole is `30°`. The shadow is `10 m` long. How tall is the pole?\n\n**Step 1 — Choose the ratio.** The height is *opposite* the angle and the shadow is *adjacent*, so use the tangent: `tan 30° = height/10`.\n\n**Step 2 — Solve.** `height = 10 × tan 30° = 10 × 0.577 ≈ 5.77 m`.\n\nSo the pole is about **5.8 metres** tall."
+                },
+                {
+                  "type": "visual",
+                  "title": "The Sine and Cosine Waves",
+                  "body": "Both `y = sin x` and `y = cos x` are smooth waves that oscillate between `−1` and `1` and repeat every `360°`. The cosine curve is the sine curve shifted `90°` to the left.",
+                  "visual": {
+                    "kind": "function-graph",
+                    "data": {
+                      "xLabel": "x (degrees)",
+                      "yLabel": "y",
+                      "series": [
+                        {
+                          "label": "y=sin x",
+                          "points": [[0, 0], [90, 1], [180, 0], [270, -1], [360, 0]]
+                        },
+                        {
+                          "label": "y=cos x",
+                          "points": [[0, 1], [90, 0], [180, -1], [270, 0], [360, 1]]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Mismatching reciprocals.** `sec x = 1/cos x` (not `1/sin x`). Secant pairs with cosine; cosecant pairs with sine.\n- **Confusing `sin⁻¹x` with `1/sin x`.** `sin⁻¹x` is the *inverse function* (an angle); `1/sin x` is the reciprocal `csc x`.\n- **Dividing by zero.** `tan 90°`, `sec 90°`, `csc 0°`, and `cot 0°` are undefined.\n- **Forgetting the range of values.** Both `sin x` and `cos x` always lie between `−1` and `1`."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **SOH-CAH-TOA:** Sine = Opposite/Hypotenuse, Cosine = Adjacent/Hypotenuse, Tangent = Opposite/Adjacent.\n- **Reciprocal pairs cross over:** **c**ose**c**ant ↔ **s**ine, **s**e**c**ant ↔ **c**osine (the third letter tells you the partner).\n- **`sin⁻¹` gives an angle**, the reciprocal `csc` gives a ratio.\n- **Waves stay in [−1, 1]** and repeat every 360°."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. If `cos x = 1/4`, what is `sec x`?\n2. What is `sin⁻¹(1)` in degrees?\n3. Why is `tan 90°` undefined?\n4. A ladder leans against a wall at `60°` to the ground. If its foot is `2 m` from the wall, how long is the ladder? (Use `cos 60° = 1/2`.)\n\n**Answers:**\n1. `sec x = 1/cos x = 4`.\n2. `90°`, because `sin 90° = 1`.\n3. Because `tan 90° = sin 90°/cos 90° = 1/0`, and division by zero is undefined.\n4. `cos 60° = 2/length`, so `length = 2/(1/2) = 4 m`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **Reciprocals:** `csc x = 1/sin x`, `sec x = 1/cos x`, `cot x = 1/tan x`.\n- **Inverse trig functions** find the *angle* from a ratio (e.g. `sin⁻¹`).\n- `y = sin x` and `y = cos x` are **waves** between `−1` and `1`, repeating every `360°`.\n- Key identity: `sin²x + cos²x = 1`.\n- Use trig (SOH-CAH-TOA) to find unknown heights and distances."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Cosecant (csc)",
+                      "definition": "The reciprocal of sine: csc x = 1/sin x."
+                    },
+                    {
+                      "term": "Secant (sec)",
+                      "definition": "The reciprocal of cosine: sec x = 1/cos x."
+                    },
+                    {
+                      "term": "Cotangent (cot)",
+                      "definition": "The reciprocal of tangent: cot x = 1/tan x = cos x/sin x."
+                    },
+                    {
+                      "term": "Inverse trigonometric function",
+                      "definition": "A function that gives the angle when a trigonometric ratio is known, such as sin⁻¹ (arcsin)."
+                    },
+                    {
+                      "term": "Periodic function",
+                      "definition": "A function whose values repeat at regular intervals; sine and cosine repeat every 360°."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What is csc x equal to?",
+                  "back": "csc x = 1/sin x (the reciprocal of sine)."
+                },
+                {
+                  "front": "What is sec x equal to?",
+                  "back": "sec x = 1/cos x (the reciprocal of cosine)."
+                },
+                {
+                  "front": "What does sin⁻¹ do?",
+                  "back": "It gives the angle whose sine is a given value. For example, sin⁻¹(0.5) = 30°."
+                },
+                {
+                  "front": "What is the period and range of y = sin x?",
+                  "back": "It repeats every 360° (period) and its values stay between −1 and 1 (range)."
+                },
+                {
+                  "front": "State the identity linking sin and cos.",
+                  "back": "sin²x + cos²x = 1."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Reciprocal functions",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is sec x equal to?",
+              "options": ["1/cos x", "1/sin x", "1/tan x", "cos x/sin x"],
+              "answer": "0",
+              "explanation": "Secant is the reciprocal of cosine: sec x = 1/cos x."
+            },
+            {
+              "topic": "Evaluating reciprocals",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "If sin x = 1/3, what is csc x?",
+              "options": ["3", "1/3", "-3", "1/9"],
+              "answer": "0",
+              "explanation": "csc x = 1/sin x = 1/(1/3) = 3."
+            },
+            {
+              "topic": "Inverse trig functions",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is sin⁻¹(1) in degrees?",
+              "options": ["90°", "0°", "45°", "180°"],
+              "answer": "0",
+              "explanation": "We need the angle whose sine is 1. Since sin 90° = 1, sin⁻¹(1) = 90°."
+            },
+            {
+              "topic": "Range of sine",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which value can NEVER equal sin x?",
+              "options": ["1.5", "0.5", "-1", "0"],
+              "answer": "0",
+              "explanation": "The sine of any angle is always between −1 and 1, so 1.5 is impossible."
+            },
+            {
+              "topic": "Undefined values",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Why is tan 90° undefined?",
+              "options": ["Because cos 90° = 0 and we cannot divide by zero", "Because sin 90° = 0", "Because 90° is too large", "Because tan is always undefined"],
+              "answer": "0",
+              "explanation": "tan x = sin x/cos x. At 90°, cos 90° = 0, so we would divide by zero, which is undefined."
+            },
+            {
+              "topic": "Applications",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A tree's shadow is 10 m long and the angle of elevation of the sun is 45°. How tall is the tree? (tan 45° = 1)",
+              "options": ["10 m", "5 m", "20 m", "45 m"],
+              "answer": "0",
+              "explanation": "tan 45° = height/10, so height = 10 × tan 45° = 10 × 1 = 10 m."
+            }
+          ]
+        },
+        {
+          "title": "Introduction to Linear Programming",
+          "description": "Graphing linear inequalities, finding feasible regions, and locating the maximum or minimum of an objective in real-life problems.",
+          "lessons": [
+            {
+              "title": "Linear Inequalities and Optimisation",
+              "summary": "Graph systems of linear inequalities to find a feasible region, then find the maximum or minimum value of an objective function at its corner points.",
+              "estimatedMinutes": 40,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Getting the Best Result Within Limits",
+                  "body": "A farmer near Jimma has only so much land, seed, and money. Within these **limits** (called **constraints**), she wants the **biggest possible profit**. This kind of problem — getting the best result while respecting limits — is solved by **linear programming**.\n\nIt is one of the most useful parts of mathematics in business and planning, because almost every real decision is made under limits."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Graph a **linear inequality** and shade the correct region.\n- Find the **feasible region** of a system of inequalities.\n- Identify the **corner points** (vertices) of that region.\n- Find the **maximum or minimum** of an **objective function**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Feasible Regions and the Corner-Point Method",
+                  "body": "A **linear inequality** such as `x + y ≤ 6` is graphed by first drawing the **boundary line** `x + y = 6`, then **shading** the side that satisfies the inequality. *Tip:* test a simple point like `(0, 0)`; if it makes the inequality true, shade that side.\n\nThe **feasible region** is the set of all points that satisfy **every** inequality at once — the overlap of all the shaded areas. *Why it matters:* only points in this region obey all the constraints, so the answer must lie here.\n\nThe **objective function** (e.g. `P = 3x + 2y`) is the quantity we want to make as large or as small as possible.\n\n**The corner-point principle:** the maximum or minimum of a linear objective function over a feasible region always occurs at a **corner point (vertex)** of the region. *Why this is true:* a linear function increases steadily in one direction, so its extreme value over a polygon is pushed all the way to a corner. This is why we only need to test the corners.\n\n**Method:**\n1. Graph all inequalities and find the feasible region.\n2. Find the coordinates of every corner point.\n3. Put each corner into the objective function.\n4. The largest result is the maximum; the smallest is the minimum."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Maximising Profit",
+                  "body": "**Problem:** Maximise `P = 3x + 2y` subject to `x + y ≤ 4`, `x ≥ 0`, `y ≥ 0`.\n\n**Step 1 — Find the corner points.** The region is a triangle bounded by the axes and the line `x + y = 4`. Its corners are:\n- `(0, 0)` (where the axes meet)\n- `(4, 0)` (where `x + y = 4` meets the x-axis)\n- `(0, 4)` (where `x + y = 4` meets the y-axis)\n\n**Step 2 — Test each corner in `P = 3x + 2y`.**\n- At `(0, 0)`: `P = 0`.\n- At `(4, 0)`: `P = 3(4) + 2(0) = 12`.\n- At `(0, 4)`: `P = 3(0) + 2(4) = 8`.\n\n**Step 3 — Choose the best.** The largest value is `12`, at the point `(4, 0)`.\n\n**Answer:** the maximum profit is **12**, achieved when `x = 4` and `y = 0`."
+                },
+                {
+                  "type": "visual",
+                  "title": "A Feasible Region and Its Corners",
+                  "body": "The feasible region for `x + y ≤ 4`, `x ≥ 0`, `y ≥ 0` is the shaded triangle with corner points `(0, 0)`, `(4, 0)`, and `(0, 4)`. The maximum of the objective function is found by testing these three corners.",
+                  "visual": {
+                    "kind": "coordinate-plane",
+                    "data": {
+                      "xLabel": "x",
+                      "yLabel": "y",
+                      "points": [
+                        {"label": "(0, 0)", "x": 0, "y": 0},
+                        {"label": "(4, 0)", "x": 4, "y": 0},
+                        {"label": "(0, 4)", "x": 0, "y": 4}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Shading the wrong side.** Always test a point (like `(0, 0)`) to decide which side to shade.\n- **Testing only some corners.** The best value can be at *any* corner, so test them *all*.\n- **Forgetting `x ≥ 0`, `y ≥ 0`.** In real problems quantities cannot be negative; these boundaries matter.\n- **Looking inside the region.** The maximum or minimum is always at a **corner**, never strictly inside."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **\"Corners win\":** the best value is always at a corner of the feasible region.\n- **Test `(0, 0)`** to find which side of a line to shade (when the line does not pass through the origin).\n- **Feasible region = overlap** of all shaded areas.\n- **List corners, test all, pick best** — a reliable four-step routine."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Which side of `x + y = 5` contains `(0, 0)` for the inequality `x + y ≤ 5`?\n2. List the corner points of the region `x ≥ 0`, `y ≥ 0`, `x + y ≤ 2`.\n3. For `P = x + 4y`, evaluate `P` at `(0, 2)` and `(2, 0)`.\n4. Which of those two points gives the larger `P`?\n\n**Answers:**\n1. The `(0, 0)` side, because `0 + 0 = 0 ≤ 5` is true.\n2. `(0, 0)`, `(2, 0)`, `(0, 2)`.\n3. At `(0, 2)`: `P = 8`. At `(2, 0)`: `P = 2`.\n4. `(0, 2)` gives the larger value (8)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- Graph a **linear inequality** by drawing the boundary line and shading the correct side (test a point).\n- The **feasible region** is where all inequalities overlap.\n- The **objective function** is what we maximise or minimise.\n- The optimum is always at a **corner point** — list all corners, test each, and pick the best."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Linear inequality",
+                      "definition": "An inequality such as x + y ≤ 6 whose boundary is a straight line."
+                    },
+                    {
+                      "term": "Constraint",
+                      "definition": "A limit on the variables, written as an inequality."
+                    },
+                    {
+                      "term": "Feasible region",
+                      "definition": "The set of all points that satisfy every constraint at the same time."
+                    },
+                    {
+                      "term": "Objective function",
+                      "definition": "The quantity (such as profit) that is to be maximised or minimised."
+                    },
+                    {
+                      "term": "Corner point (vertex)",
+                      "definition": "A point where two boundary lines of the feasible region meet; the optimum occurs here."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What is the feasible region?",
+                  "back": "The set of all points that satisfy every constraint at once — the overlap of all shaded areas."
+                },
+                {
+                  "front": "Where does the maximum or minimum of a linear objective occur?",
+                  "back": "At a corner point (vertex) of the feasible region."
+                },
+                {
+                  "front": "How do you decide which side of a line to shade?",
+                  "back": "Test a point such as (0, 0); if it satisfies the inequality, shade that side."
+                },
+                {
+                  "front": "What is an objective function?",
+                  "back": "The quantity to be maximised or minimised, such as P = 3x + 2y."
+                },
+                {
+                  "front": "What are the four steps of the corner-point method?",
+                  "back": "Graph the region, find all corners, test each corner in the objective, pick the best value."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Linear inequalities",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Does the point (0, 0) satisfy x + y ≤ 5?",
+              "options": ["Yes", "No", "Only if x = 5", "Cannot tell"],
+              "answer": "0",
+              "explanation": "Substitute: 0 + 0 = 0, and 0 ≤ 5 is true, so (0, 0) satisfies the inequality."
+            },
+            {
+              "topic": "Feasible region",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "The feasible region of a system of inequalities is:",
+              "options": ["where all the inequalities are satisfied at once", "the area under one line", "any shaded area", "the whole plane"],
+              "answer": "0",
+              "explanation": "The feasible region is the overlap where every inequality holds true simultaneously."
+            },
+            {
+              "topic": "Corner points",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Where does the maximum of an objective function occur?",
+              "options": ["At a corner of the feasible region", "At the centre of the region", "Outside the region", "At the origin always"],
+              "answer": "0",
+              "explanation": "For a linear objective over a feasible region, the optimum always occurs at a corner point."
+            },
+            {
+              "topic": "Evaluating the objective",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "For P = 2x + 3y, what is P at the corner (1, 2)?",
+              "options": ["8", "5", "7", "6"],
+              "answer": "0",
+              "explanation": "P = 2(1) + 3(2) = 2 + 6 = 8."
+            },
+            {
+              "topic": "Non-negativity constraints",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Why do real linear programming problems include x ≥ 0 and y ≥ 0?",
+              "options": ["Because quantities cannot be negative", "To make graphs prettier", "Because lines must be straight", "There is no reason"],
+              "answer": "0",
+              "explanation": "Real quantities such as number of items or amount of land cannot be negative, so we require x ≥ 0 and y ≥ 0."
+            },
+            {
+              "topic": "Finding the maximum",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Maximise P = x + 2y over corners (0, 0), (3, 0), (0, 3). What is the maximum?",
+              "options": ["6", "3", "0", "9"],
+              "answer": "0",
+              "explanation": "P at (0, 0) = 0; at (3, 0) = 3; at (0, 3) = 6. The largest is 6, at the point (0, 3)."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

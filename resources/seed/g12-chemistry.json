@@ -1,0 +1,869 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "chemistry",
+      "chapters": [
+        {
+          "title": "Solutions",
+          "description": "Mixtures, the solution process, solubility, concentration units, and colligative properties.",
+          "lessons": [
+            {
+              "title": "Understanding Solutions and Their Properties",
+              "summary": "Learn what solutions are, how solutes dissolve in solvents, how to express concentration, and how dissolved particles change the freezing and boiling points of a liquid.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Most materials around us are not pure substances; they are **mixtures**. A **mixture** is a combination of two or more substances where each keeps its own chemical identity. Sea water, the air you breathe, and brass coins are all mixtures.\n\nWhen a mixture is completely uniform, we call it a **solution**. The substance present in the smaller amount is the **solute**, and the substance present in the larger amount that does the dissolving is the **solvent**. For example, when you stir sugar into water, sugar is the solute and water is the solvent.\n\nIn this lesson you will learn why some things dissolve and others do not, how to measure how much solute is present, and how dissolved particles change the behaviour of the liquid."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Learning Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **mixture**, **solution**, **solute**, and **solvent**.\n- Distinguish between **homogeneous** and **heterogeneous** mixtures, and describe **suspensions** and **colloids**.\n- Explain the rule **\"like dissolves like\"** using inter-particle forces.\n- Describe a solution as **saturated**, **unsaturated**, or **supersaturated**.\n- Calculate concentration as **molarity**, **molality**, **mass percent**, and **mole fraction**.\n- Explain the four **colligative properties** and solve simple problems with them."
+                },
+                {
+                  "type": "theory",
+                  "title": "Why Substances Dissolve",
+                  "body": "A **homogeneous mixture** (a solution) is uniform throughout and has no visible boundaries, like salt water. A **heterogeneous mixture** has visible boundaries, like sand in water.\n\nBetween these are **colloids** (such as milk or fog), whose particles are large enough to scatter a beam of light (the **Tyndall effect**) but too small to settle out. **Suspensions** (such as muddy water) have even larger particles that do settle out.\n\n**Why does dissolving happen?** Three forces compete:\n\n- **solvent–solvent** attraction\n- **solute–solute** attraction\n- **solute–solvent** attraction\n\nIf the **solute–solvent** attraction is strong enough to overcome the other two, the substance dissolves. This is the reason behind the rule **\"like dissolves like\"**: polar solvents (like water) dissolve polar and ionic solutes, while non-polar solvents (like benzene) dissolve non-polar solutes. Water dissolves NaCl because the strong **ion–dipole** attraction between water and the ions overcomes the **lattice energy** holding the crystal together.\n\nThe energy absorbed or released when one mole of solute dissolves is the **heat of solution** (ΔH_sol). If solute–solvent attraction releases more energy than is needed to separate the particles, dissolving is **exothermic** (gets warm, ΔH_sol < 0); if not, it is **endothermic** (gets cold, ΔH_sol > 0).\n\n**Concentration** tells us how much solute is present:\n\n- **Molarity (M)** = moles of solute / litres of solution\n- **Molality (m)** = moles of solute / kilograms of solvent\n- **Mass percent** = (mass of solute / mass of solution) × 100\n- **Mole fraction (x)** = moles of one component / total moles\n\n**Colligative properties** depend only on the *number* of dissolved particles, not their identity: **vapour-pressure lowering**, **boiling-point elevation** (ΔTb = Kb·m), **freezing-point depression** (ΔTf = Kf·m), and **osmotic pressure** (π = MRT). This is why salt is spread on icy roads and why antifreeze protects a car engine."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Molarity and Freezing-Point Depression",
+                  "body": "**Problem:** Dissolve 11.7 g of sodium chloride (NaCl) in water to make 0.500 L of solution. (a) Find the molarity. (b) If instead 11.7 g of NaCl is dissolved in 1.00 kg of water, find the new freezing point. (Kf for water = 1.86 °C/m; NaCl gives 2 particles per formula unit.)\n\n**Step 1 — Moles of NaCl.**\nMolar mass of NaCl = 23.0 + 35.5 = 58.5 g/mol.\nmoles = 11.7 g ÷ 58.5 g/mol = **0.200 mol**.\n\n**Step 2 — (a) Molarity.**\nM = moles ÷ litres = 0.200 mol ÷ 0.500 L = **0.400 M**.\n\n**Step 3 — (b) Molality.**\nm = moles ÷ kg of solvent = 0.200 mol ÷ 1.00 kg = 0.200 m.\n\n**Step 4 — Account for dissociation.**\nNaCl → Na⁺ + Cl⁻, so the van't Hoff factor i = 2.\nEffective molality = i × m = 2 × 0.200 = 0.400 m.\n\n**Step 5 — Freezing-point depression.**\nΔTf = Kf × (i·m) = 1.86 × 0.400 = 0.744 °C.\n\n**Step 6 — New freezing point.**\nWater normally freezes at 0 °C, so the new freezing point = 0 − 0.744 = **−0.744 °C**.\n\n**Answer:** (a) 0.400 M; (b) the solution freezes at about −0.74 °C."
+                },
+                {
+                  "type": "visual",
+                  "title": "Visual: An Ionic Solid Dissolving in Water",
+                  "body": "The diagram shows how water molecules pull apart an ionic crystal. The positive (hydrogen) ends of water point toward the negative ion, and the negative (oxygen) ends point toward the positive ion. This **ion–dipole** attraction surrounds, or **hydrates**, each ion and carries it into solution.",
+                  "visual": {
+                    "type": "reaction",
+                    "reactants": ["NaCl(s)", "H2O(l)"],
+                    "products": ["Na+(aq)", "Cl-(aq)"],
+                    "equation": "NaCl(s) -> Na+(aq) + Cl-(aq)",
+                    "caption": "Water hydrates Na+ and Cl- ions, separating the crystal lattice."
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Confusing molarity and molality.** Molarity uses *litres of solution*; molality uses *kilograms of solvent*. They are not the same.\n- **Forgetting the van't Hoff factor (i).** Ionic compounds split into ions. NaCl gives 2 particles, CaCl₂ gives 3. Sugar (a molecule) gives only 1. Colligative effects scale with i.\n- **Mixing up solute and solvent.** The solute is the smaller amount; the solvent is the larger amount that does the dissolving.\n- **Thinking colloids are solutions.** Colloids scatter light (Tyndall effect); true solutions do not.\n- **Assuming all dissolving warms the mixture.** Dissolving NH₄NO₃ is endothermic and feels cold."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"Like dissolves like\"** — polar with polar, non-polar with non-polar.\n- **Molarity = Litres, Molality = Mass (kg).** Both start with the same letter as their denominator unit.\n- **\"Bigger goes up, Freezing goes down\"** — adding solute *raises* boiling point and *lowers* freezing point.\n- **CHILL = endothermic.** Cold packs use NH₄NO₃ because its heat of solution is positive (endothermic).\n- **Tyndall = Torch test.** Shine a torch: if the beam shows, it's a colloid."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "**Q1.** Is air a solution, a colloid, or a suspension? *(Answer: a solution — a homogeneous mixture of gases, mainly N₂ and O₂.)*\n\n**Q2.** Calculate the molarity of a solution made by dissolving 0.50 mol of glucose in enough water to make 250 mL of solution. *(Answer: 0.50 mol ÷ 0.250 L = 2.0 M.)*\n\n**Q3.** Which lowers the freezing point of water more per mole: sugar (C₁₂H₂₂O₁₁) or CaCl₂? Why? *(Answer: CaCl₂, because it dissociates into 3 ions (i = 3) while sugar stays as 1 particle (i = 1).)*\n\n**Q4.** A mixture of mud and water becomes clear after standing for an hour. What type of mixture is it? *(Answer: a suspension — its large particles settle out.)*"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- A **solution** is a **homogeneous mixture** of a **solute** dissolved in a **solvent**.\n- **Colloids** scatter light (Tyndall effect); **suspensions** settle out; solutions do neither.\n- Dissolving depends on three competing forces; **\"like dissolves like.\"**\n- The **heat of solution** can be exothermic or endothermic.\n- Concentration is measured as **molarity**, **molality**, **mass percent**, or **mole fraction**.\n- **Colligative properties** (vapour-pressure lowering, boiling-point elevation, freezing-point depression, osmotic pressure) depend only on the *number* of particles, scaled by the **van't Hoff factor i**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson are defined below.",
+                  "glossary": [
+                    {"term": "Solution", "definition": "A homogeneous mixture that is uniform throughout, with no visible boundaries."},
+                    {"term": "Solute", "definition": "The substance present in the smaller amount that gets dissolved."},
+                    {"term": "Solvent", "definition": "The substance present in the larger amount that does the dissolving."},
+                    {"term": "Molarity", "definition": "Concentration measured as moles of solute per litre of solution."},
+                    {"term": "Molality", "definition": "Concentration measured as moles of solute per kilogram of solvent."},
+                    {"term": "Colligative property", "definition": "A property (like freezing-point depression) that depends only on the number of dissolved particles, not their identity."},
+                    {"term": "Saturated solution", "definition": "A solution in dynamic equilibrium, holding the maximum solute it can dissolve at that temperature."},
+                    {"term": "Heat of solution", "definition": "The energy absorbed or released when one mole of solute dissolves."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "What is a solution?", "back": "A homogeneous mixture that is uniform throughout, made of a solute dissolved in a solvent."},
+                {"front": "State the rule that predicts solubility.", "back": "\"Like dissolves like\" — polar/ionic solutes dissolve in polar solvents; non-polar solutes dissolve in non-polar solvents."},
+                {"front": "Difference between molarity and molality?", "back": "Molarity = moles of solute per LITRE of solution; molality = moles of solute per KILOGRAM of solvent."},
+                {"front": "Name the four colligative properties.", "back": "Vapour-pressure lowering, boiling-point elevation, freezing-point depression, and osmotic pressure."},
+                {"front": "What is the van't Hoff factor (i)?", "back": "The number of particles a solute forms in solution; e.g. NaCl gives i = 2, CaCl₂ gives i = 3, sugar gives i = 1."}
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Types of mixtures",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of the following is a homogeneous mixture?",
+              "options": ["Sand in water", "Salt dissolved in water", "Oil and water", "Iron filings and sulphur"],
+              "answer": "1",
+              "explanation": "Salt water is uniform throughout with no visible boundaries, making it a homogeneous mixture (a solution). The others have visible separate components."
+            },
+            {
+              "topic": "Solubility rule",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Based on \"like dissolves like,\" which solvent will best dissolve table salt (NaCl)?",
+              "options": ["Benzene (non-polar)", "Octane (non-polar)", "Water (polar)", "Carbon tetrachloride (non-polar)"],
+              "answer": "2",
+              "explanation": "NaCl is ionic, so it dissolves best in a polar solvent. Water is polar and uses ion-dipole attraction to dissolve the ions."
+            },
+            {
+              "topic": "Concentration",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the molarity of a solution containing 0.25 mol of NaOH in 500 mL of solution?",
+              "options": ["0.125 M", "0.50 M", "1.0 M", "2.0 M"],
+              "answer": "1",
+              "explanation": "Molarity = moles / litres = 0.25 mol / 0.500 L = 0.50 M."
+            },
+            {
+              "topic": "Colligative properties",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Adding a non-volatile solute to water will:",
+              "options": ["Raise the freezing point and lower the boiling point", "Lower the freezing point and raise the boiling point", "Raise both the freezing and boiling points", "Have no effect on either"],
+              "answer": "1",
+              "explanation": "Dissolved particles lower the freezing point (freezing-point depression) and raise the boiling point (boiling-point elevation)."
+            },
+            {
+              "topic": "Heat of solution",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "When ammonium nitrate (NH₄NO₃) dissolves in water, the solution becomes cold. This means the dissolving process is:",
+              "options": ["Exothermic, ΔH_sol < 0", "Endothermic, ΔH_sol > 0", "At equilibrium with no heat change", "Exothermic, ΔH_sol > 0"],
+              "answer": "1",
+              "explanation": "A solution that becomes cold absorbs heat from its surroundings, so the process is endothermic and ΔH_sol is positive (greater than 0)."
+            },
+            {
+              "topic": "Freezing-point depression",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Equal molal amounts of glucose, NaCl, and CaCl₂ are dissolved in separate samples of water. Which solution has the LOWEST freezing point?",
+              "options": ["Glucose (i = 1)", "NaCl (i = 2)", "CaCl₂ (i = 3)", "All freeze at the same temperature"],
+              "answer": "2",
+              "explanation": "Freezing-point depression increases with the number of particles. CaCl₂ produces the most ions (i = 3), so it lowers the freezing point the most."
+            }
+          ]
+        },
+        {
+          "title": "Acid-Base Equilibrium",
+          "description": "Acid-base concepts, pH, weak acids and bases, buffers, salt hydrolysis, and indicators.",
+          "lessons": [
+            {
+              "title": "Acids, Bases, pH and Buffers",
+              "summary": "Understand the Arrhenius, Bronsted-Lowry, and Lewis definitions of acids and bases, learn to calculate pH, and see how buffers resist changes in acidity.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Acids and bases are everywhere: the citric acid in a lemon, the lactic acid in injera dough, the calcium hydroxide in whitewash, and the hydrochloric acid in your own stomach.\n\nAn **acid** is, in the simplest view, a substance that produces hydrogen ions (H⁺) in water, while a **base** produces hydroxide ions (OH⁻). The strength of an acid or base is measured on the **pH scale**, which runs from 0 (very acidic) through 7 (neutral) to 14 (very basic).\n\nIn this lesson you will learn three ways to define acids and bases, how to calculate pH, and how special mixtures called **buffers** keep the acidity of a solution almost constant."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Learning Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- State the **Arrhenius**, **Bronsted-Lowry**, and **Lewis** definitions of acids and bases.\n- Identify **conjugate acid-base pairs**.\n- Use the **ion product of water (Kw)** and calculate **pH** and **pOH**.\n- Distinguish **strong** from **weak** acids and bases using **Ka** and **Kb**.\n- Explain how a **buffer** works and why salts can make solutions acidic or basic (**hydrolysis**).\n- Describe how **acid-base indicators** show the end point of a titration."
+                },
+                {
+                  "type": "theory",
+                  "title": "Three Views of Acids and Bases",
+                  "body": "There are three increasingly general definitions:\n\n- **Arrhenius:** an acid releases **H⁺** in water; a base releases **OH⁻**. (e.g. HCl, NaOH)\n- **Bronsted-Lowry:** an acid is a **proton (H⁺) donor**; a base is a **proton acceptor**. This view introduces **conjugate pairs**: when HCl donates a proton it becomes Cl⁻ (its conjugate base). In the pair NH₃/NH₄⁺, NH₃ is the base and NH₄⁺ is its conjugate acid.\n- **Lewis:** an acid is an **electron-pair acceptor**; a base is an **electron-pair donor**. This is the broadest view and explains reactions with no H⁺ at all.\n\n**Water itself ionizes** slightly:\nH₂O ⇌ H⁺ + OH⁻, with **Kw = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴** at 25 °C.\n\nBecause of this, we define:\n- **pH = −log[H⁺]**\n- **pOH = −log[OH⁻]**\n- **pH + pOH = 14**\n\n**Strong acids** (HCl, HNO₃, H₂SO₄) ionize completely. **Weak acids** (CH₃COOH, the acetic acid in vinegar) ionize only partly; their strength is given by the **acid dissociation constant Ka**. A larger Ka means a stronger acid. Similarly, weak bases have a **Kb**.\n\nWhy does this matter? A **buffer** is a mixture of a **weak acid and its conjugate base** (e.g. CH₃COOH + CH₃COONa). It resists pH change: added acid is neutralised by the conjugate base, and added base is neutralised by the weak acid. Blood is buffered near pH 7.4 by the H₂CO₃/HCO₃⁻ system.\n\nFinally, salts can change pH through **hydrolysis**. A salt of a strong base and weak acid (like CH₃COONa) gives a **basic** solution; a salt of a strong acid and weak base (like NH₄Cl) gives an **acidic** solution."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Calculating pH",
+                  "body": "**Problem:** (a) Find the pH of 0.010 M HCl. (b) Find the pH of 0.010 M acetic acid (CH₃COOH), given Ka = 1.8 × 10⁻⁵.\n\n**Part (a) — strong acid (full ionization).**\nHCl is strong, so it fully ionizes: [H⁺] = 0.010 M = 1.0 × 10⁻² M.\npH = −log(1.0 × 10⁻²) = **2.0**.\n\n**Part (b) — weak acid (partial ionization).**\nLet x = [H⁺] formed.\nCH₃COOH ⇌ H⁺ + CH₃COO⁻\nKa = x² / (0.010 − x) ≈ x² / 0.010 (since x is small).\n\n**Step 1 — Solve for x.**\nx² = Ka × 0.010 = (1.8 × 10⁻⁵)(0.010) = 1.8 × 10⁻⁷.\nx = √(1.8 × 10⁻⁷) = 4.2 × 10⁻⁴ M.\n\n**Step 2 — Calculate pH.**\npH = −log(4.2 × 10⁻⁴) = **3.4**.\n\n**Conclusion:** Both solutions are 0.010 M, but the strong acid has pH 2.0 while the weak acid has pH 3.4. The weak acid is less acidic because it only partly ionizes."
+                },
+                {
+                  "type": "visual",
+                  "title": "Visual: A Conjugate Acid-Base Pair",
+                  "body": "When an acid donates a proton (H⁺), it turns into its conjugate base. The diagram shows ammonia accepting a proton from water: NH₃ becomes NH₄⁺ (its conjugate acid) and water becomes OH⁻ (its conjugate base).",
+                  "visual": {
+                    "type": "reaction",
+                    "reactants": ["NH3", "H2O"],
+                    "products": ["NH4+", "OH-"],
+                    "equation": "NH3 + H2O <=> NH4+ + OH-",
+                    "caption": "NH3/NH4+ and H2O/OH- are two conjugate acid-base pairs."
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Confusing \"strong\" with \"concentrated.\"** Strength is about how completely an acid ionizes; concentration is about how much is dissolved. A dilute strong acid can have a higher pH than a concentrated weak acid.\n- **Forgetting the minus sign in pH.** pH = −log[H⁺]. Leaving out the minus gives a negative pH.\n- **Using full ionization for weak acids.** For a weak acid you must use Ka and the equilibrium expression, not assume [H⁺] equals the starting concentration.\n- **Mixing up conjugate pairs.** The conjugate base has *one fewer* H⁺ than its acid (HCl → Cl⁻, not Cl₂).\n- **Thinking all salts are neutral.** NH₄Cl is acidic and CH₃COONa is basic because of hydrolysis."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"Acid Adds H⁺, Base Bonds H⁺\"** — Bronsted acid donates, base accepts a proton.\n- **pH 7 = neutral; below 7 acidic; above 7 basic.** Lower number = more acidic.\n- **pH + pOH = 14** — if you know one, subtract from 14 for the other.\n- **\"Lewis Lends/takes Lone pairs\"** — Lewis acids accept electron pairs, bases donate them.\n- **Buffer = weak acid + its salt.** Think \"bee + ahh\" pair that absorbs shocks of added acid or base."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "**Q1.** What is the conjugate base of H₂SO₄? *(Answer: HSO₄⁻ — remove one H⁺.)*\n\n**Q2.** A solution has [H⁺] = 1.0 × 10⁻⁵ M. What is its pH and is it acidic or basic? *(Answer: pH = 5, which is acidic.)*\n\n**Q3.** If pOH = 4, what is the pH? *(Answer: pH = 14 − 4 = 10.)*\n\n**Q4.** Will a solution of NH₄Cl be acidic, basic, or neutral? Why? *(Answer: acidic — NH₄⁺ is the conjugate acid of the weak base NH₃ and hydrolyses to release H⁺.)*"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Arrhenius:** acid → H⁺, base → OH⁻. **Bronsted-Lowry:** acid donates H⁺, base accepts H⁺. **Lewis:** acid accepts an electron pair, base donates one.\n- **Conjugate pairs** differ by one proton.\n- **Kw = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴**; **pH = −log[H⁺]**; **pH + pOH = 14**.\n- **Strong acids/bases** ionize fully; **weak** ones partly (measured by **Ka/Kb**).\n- A **buffer** (weak acid + conjugate base) resists pH change.\n- Salts can be acidic or basic through **hydrolysis**; **indicators** signal the titration end point."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson are defined below.",
+                  "glossary": [
+                    {"term": "Bronsted-Lowry acid", "definition": "A substance that donates a proton (H⁺)."},
+                    {"term": "Bronsted-Lowry base", "definition": "A substance that accepts a proton (H⁺)."},
+                    {"term": "Conjugate acid-base pair", "definition": "Two species that differ by a single proton, such as NH₄⁺ and NH₃."},
+                    {"term": "pH", "definition": "A measure of acidity equal to −log[H⁺]; values below 7 are acidic, above 7 are basic."},
+                    {"term": "Ka", "definition": "The acid dissociation constant; a larger Ka means a stronger weak acid."},
+                    {"term": "Buffer", "definition": "A mixture of a weak acid and its conjugate base that resists changes in pH."},
+                    {"term": "Hydrolysis of a salt", "definition": "The reaction of salt ions with water that can make a solution acidic or basic."},
+                    {"term": "Kw", "definition": "The ion product of water, [H⁺][OH⁻] = 1.0 × 10⁻¹⁴ at 25 °C."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "Bronsted-Lowry definition of an acid and a base?", "back": "An acid is a proton (H⁺) donor; a base is a proton (H⁺) acceptor."},
+                {"front": "Write the formula for pH.", "back": "pH = −log[H⁺]. Also pH + pOH = 14."},
+                {"front": "What is the value of Kw at 25 °C?", "back": "Kw = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴."},
+                {"front": "What is a buffer made of?", "back": "A weak acid and its conjugate base (or a weak base and its conjugate acid); it resists pH change."},
+                {"front": "Is a solution of CH₃COONa acidic, basic, or neutral?", "back": "Basic — it is the salt of a strong base and a weak acid, so it hydrolyses to give OH⁻."}
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Acid-base definitions",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "According to the Bronsted-Lowry theory, an acid is a substance that:",
+              "options": ["Accepts a proton", "Donates a proton", "Donates an electron pair", "Produces OH⁻ ions only"],
+              "answer": "1",
+              "explanation": "A Bronsted-Lowry acid is a proton (H⁺) donor. Accepting a proton describes a base."
+            },
+            {
+              "topic": "pH scale",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A solution with a pH of 3 is best described as:",
+              "options": ["Strongly basic", "Neutral", "Acidic", "Weakly basic"],
+              "answer": "2",
+              "explanation": "A pH below 7 is acidic. A pH of 3 is well below 7, so the solution is acidic."
+            },
+            {
+              "topic": "Conjugate pairs",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the conjugate base of the ammonium ion (NH₄⁺)?",
+              "options": ["NH₃", "NH₂⁻", "N₂H₄", "NH₄OH"],
+              "answer": "0",
+              "explanation": "A conjugate base is formed by removing one H⁺. Removing H⁺ from NH₄⁺ gives NH₃."
+            },
+            {
+              "topic": "pH calculation",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the pH of a 0.0010 M solution of HCl (a strong acid)?",
+              "options": ["1", "2", "3", "4"],
+              "answer": "2",
+              "explanation": "HCl fully ionizes, so [H⁺] = 1.0 × 10⁻³ M. pH = −log(10⁻³) = 3."
+            },
+            {
+              "topic": "Buffers",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Which mixture would act as a buffer solution?",
+              "options": ["HCl and NaCl", "CH₃COOH and CH₃COONa", "NaOH and NaCl", "HCl and NaOH"],
+              "answer": "1",
+              "explanation": "A buffer needs a weak acid and its conjugate base. Acetic acid (CH₃COOH) with its salt sodium acetate (CH₃COONa) forms a buffer."
+            },
+            {
+              "topic": "Salt hydrolysis",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "An aqueous solution of which salt will be acidic?",
+              "options": ["NaCl", "CH₃COONa", "NH₄Cl", "KNO₃"],
+              "answer": "2",
+              "explanation": "NH₄Cl comes from the strong acid HCl and the weak base NH₃. The NH₄⁺ ion hydrolyses to release H⁺, making the solution acidic. NaCl and KNO₃ are neutral; CH₃COONa is basic."
+            }
+          ]
+        },
+        {
+          "title": "Introduction to Chemical Thermodynamics",
+          "description": "Thermodynamic terms, the first law, thermochemistry, enthalpy, entropy, and the second law.",
+          "lessons": [
+            {
+              "title": "Energy, Enthalpy and Spontaneous Change",
+              "summary": "Learn the basic terms of thermodynamics, the first law of energy conservation, how to measure heat of reaction (enthalpy), and how entropy and free energy decide whether a reaction happens on its own.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Thermodynamics** is the study of energy and its changes during chemical and physical processes. Every reaction either releases energy (like burning charcoal) or absorbs it (like a cold pack).\n\nUnderstanding energy lets us answer two big questions: *How much energy does a reaction give out or take in?* and *Will a reaction happen by itself?*\n\nIn this lesson you will meet the key terms (**system**, **surroundings**, **enthalpy**), the **first law of thermodynamics** (energy is conserved), and the ideas of **entropy** and **Gibbs free energy** that predict whether a change is **spontaneous**."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Learning Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **system**, **surroundings**, **internal energy**, and **enthalpy (H)**.\n- State the **first law of thermodynamics**.\n- Distinguish **exothermic** from **endothermic** reactions using the sign of **ΔH**.\n- Use **Hess's law** to calculate enthalpy changes.\n- Define **entropy (S)** and state the **second law of thermodynamics**.\n- Use **Gibbs free energy (ΔG = ΔH − TΔS)** to predict whether a reaction is **spontaneous**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Energy, Heat, and Why Reactions Happen",
+                  "body": "First, some vocabulary. The **system** is the part we study (the reaction); the **surroundings** are everything else. The **internal energy (U)** is the total energy stored in the system.\n\nThe **first law of thermodynamics** states that **energy can be neither created nor destroyed, only converted from one form to another**. In equation form, ΔU = q + w, where q is heat and w is work.\n\nMost reactions occur at constant pressure, so chemists use **enthalpy (H)**, the heat content. The change is **ΔH**:\n\n- **Exothermic** reaction: releases heat, ΔH is **negative** (e.g. combustion).\n- **Endothermic** reaction: absorbs heat, ΔH is **positive** (e.g. photosynthesis).\n\n**Hess's law** says the total enthalpy change of a reaction is the same whether it happens in one step or many. This lets us add enthalpies of known steps to find an unknown one.\n\nBut enthalpy alone does not decide whether a reaction is **spontaneous** (happens on its own). We also need **entropy (S)**, a measure of **disorder** or the number of ways energy can spread out. The **second law of thermodynamics** says that in any spontaneous process the **total entropy of the universe increases**.\n\nThe two ideas combine in the **Gibbs free energy**:\n\n**ΔG = ΔH − TΔS**\n\n- If **ΔG < 0**, the reaction is **spontaneous** (it can happen by itself).\n- If **ΔG > 0**, it is **non-spontaneous**.\n- If **ΔG = 0**, the system is at **equilibrium**.\n\nThis single equation explains why ice melts above 0 °C (entropy wins) but water freezes below it (enthalpy wins)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Hess's Law and Gibbs Free Energy",
+                  "body": "**Problem:** For a reaction, ΔH = −92 kJ and ΔS = −0.20 kJ/K. (a) Is the reaction exothermic or endothermic? (b) Calculate ΔG at 298 K and state whether it is spontaneous. (c) Above what temperature does it become non-spontaneous?\n\n**Part (a) — sign of ΔH.**\nΔH = −92 kJ is negative, so the reaction is **exothermic** (releases heat).\n\n**Part (b) — Gibbs free energy at 298 K.**\nΔG = ΔH − TΔS\nΔG = (−92) − (298)(−0.20)\nΔG = −92 − (−59.6)\nΔG = −92 + 59.6 = **−32.4 kJ**.\nSince ΔG < 0, the reaction is **spontaneous** at 298 K.\n\n**Part (c) — temperature where ΔG = 0.**\nSet ΔG = 0:\n0 = ΔH − TΔS\nT = ΔH / ΔS = (−92) / (−0.20) = 460 K.\n\nAbove **460 K** the −TΔS term becomes large enough that ΔG turns positive, so the reaction becomes **non-spontaneous**.\n\n**Conclusion:** The reaction releases heat and runs by itself at room temperature, but heating it above 460 K stops it from being spontaneous."
+                },
+                {
+                  "type": "visual",
+                  "title": "Visual: An Exothermic Reaction",
+                  "body": "The diagram shows the combustion of methane. The bonds in the products are more stable (lower energy) than those in the reactants, so energy is released as heat. This is why ΔH is negative for combustion.",
+                  "visual": {
+                    "type": "reaction",
+                    "reactants": ["CH4", "2 O2"],
+                    "products": ["CO2", "2 H2O"],
+                    "equation": "CH4 + 2 O2 -> CO2 + 2 H2O   (ΔH < 0)",
+                    "caption": "Combustion of methane releases heat: an exothermic reaction."
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Getting the sign of ΔH backwards.** Exothermic = negative ΔH (heat out); endothermic = positive ΔH (heat in).\n- **Forgetting to convert temperature to kelvin.** ΔG = ΔH − TΔS requires T in **kelvin** (K = °C + 273).\n- **Mismatched units in ΔG.** ΔH is often in kJ but ΔS in J/K. Convert ΔS to kJ/K (or ΔH to J) before subtracting.\n- **Thinking exothermic always means spontaneous.** Spontaneity depends on ΔG, which includes entropy, not just ΔH.\n- **Confusing entropy with energy.** Entropy measures disorder (how spread out energy is), not the amount of energy itself."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **EXO = EXit** — exothermic energy **exits** the system, so ΔH is negative.\n- **ENDO = ENter** — endothermic energy **enters**, so ΔH is positive.\n- **\"Goblins Hate Toasty Surroundings\"** for **ΔG = ΔH − TΔS**.\n- **Negative ΔG = Naturally Goes** (spontaneous).\n- **Entropy = Spreading Out** — gases and dissolving increase disorder (positive ΔS)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "**Q1.** A reaction releases 200 kJ of heat. What is the sign of ΔH? *(Answer: negative; it is exothermic.)*\n\n**Q2.** State the first law of thermodynamics in one sentence. *(Answer: Energy cannot be created or destroyed, only changed from one form to another.)*\n\n**Q3.** A reaction has ΔH = +50 kJ and ΔS = +0.15 kJ/K. Is it spontaneous at 400 K? *(Answer: ΔG = 50 − (400)(0.15) = 50 − 60 = −10 kJ; ΔG < 0, so yes, it is spontaneous.)*\n\n**Q4.** Does entropy increase or decrease when a solid sublimes to a gas? *(Answer: increases — a gas is far more disordered than a solid.)*"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Thermodynamics** studies energy changes; the **system** reacts while the **surroundings** are everything else.\n- The **first law**: energy is conserved (ΔU = q + w).\n- **Enthalpy (ΔH)**: negative = **exothermic**, positive = **endothermic**.\n- **Hess's law**: total ΔH is independent of the path.\n- **Entropy (S)** measures disorder; the **second law** says total entropy of the universe increases in any spontaneous change.\n- **Gibbs free energy ΔG = ΔH − TΔS**: ΔG < 0 means **spontaneous**, ΔG = 0 means **equilibrium**, ΔG > 0 means **non-spontaneous**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson are defined below.",
+                  "glossary": [
+                    {"term": "System", "definition": "The specific part of the universe being studied, such as the reaction mixture."},
+                    {"term": "Enthalpy (H)", "definition": "The heat content of a system at constant pressure; its change is ΔH."},
+                    {"term": "Exothermic", "definition": "A process that releases heat, giving a negative ΔH."},
+                    {"term": "Endothermic", "definition": "A process that absorbs heat, giving a positive ΔH."},
+                    {"term": "Hess's law", "definition": "The total enthalpy change of a reaction is the same regardless of the number of steps."},
+                    {"term": "Entropy (S)", "definition": "A measure of disorder or the number of ways energy can be spread out."},
+                    {"term": "Gibbs free energy (ΔG)", "definition": "ΔG = ΔH − TΔS; a negative value means the reaction is spontaneous."},
+                    {"term": "Spontaneous process", "definition": "A change that occurs by itself without continuous outside help (ΔG < 0)."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "State the first law of thermodynamics.", "back": "Energy can be neither created nor destroyed, only converted from one form to another."},
+                {"front": "What does the sign of ΔH tell you?", "back": "Negative ΔH = exothermic (heat released); positive ΔH = endothermic (heat absorbed)."},
+                {"front": "Write the Gibbs free energy equation.", "back": "ΔG = ΔH − TΔS, where T is in kelvin."},
+                {"front": "When is a reaction spontaneous?", "back": "When ΔG < 0 (negative). ΔG = 0 means equilibrium; ΔG > 0 means non-spontaneous."},
+                {"front": "What is entropy?", "back": "A measure of disorder or the number of ways energy and matter can be arranged; it increases in spontaneous processes."}
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Thermodynamic terms",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "In thermodynamics, the part of the universe being studied is called the:",
+              "options": ["Surroundings", "System", "Boundary", "Universe"],
+              "answer": "1",
+              "explanation": "The system is the part under study (the reaction); everything else is the surroundings."
+            },
+            {
+              "topic": "Enthalpy sign",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "An exothermic reaction is one in which:",
+              "options": ["Heat is absorbed and ΔH is positive", "Heat is released and ΔH is negative", "No heat change occurs", "Heat is released and ΔH is positive"],
+              "answer": "1",
+              "explanation": "Exothermic reactions release heat to the surroundings, so ΔH is negative."
+            },
+            {
+              "topic": "First law",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "The first law of thermodynamics is essentially a statement of the:",
+              "options": ["Conservation of energy", "Increase of entropy", "Conservation of mass", "Conservation of charge"],
+              "answer": "0",
+              "explanation": "The first law states that energy cannot be created or destroyed, which is the law of conservation of energy."
+            },
+            {
+              "topic": "Entropy",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which change is expected to have a positive entropy change (ΔS > 0)?",
+              "options": ["Water freezing to ice", "Steam condensing to water", "Solid sugar dissolving in water", "A gas being compressed"],
+              "answer": "2",
+              "explanation": "Dissolving a solid spreads particles out into a more disordered state, increasing entropy (ΔS > 0). The other choices decrease disorder."
+            },
+            {
+              "topic": "Gibbs free energy",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A reaction has ΔH = −40 kJ and ΔS = +0.10 kJ/K. At 300 K, what is ΔG and is the reaction spontaneous?",
+              "options": ["−70 kJ, spontaneous", "−10 kJ, spontaneous", "+70 kJ, non-spontaneous", "+10 kJ, non-spontaneous"],
+              "answer": "0",
+              "explanation": "ΔG = ΔH − TΔS = −40 − (300)(0.10) = −40 − 30 = −70 kJ. Since ΔG is negative, the reaction is spontaneous."
+            },
+            {
+              "topic": "Spontaneity and temperature",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A reaction has ΔH > 0 and ΔS > 0. Under what conditions is it spontaneous?",
+              "options": ["At all temperatures", "At no temperature", "Only at high temperatures", "Only at low temperatures"],
+              "answer": "2",
+              "explanation": "With ΔH positive and ΔS positive, ΔG = ΔH − TΔS becomes negative only when T is large enough that TΔS exceeds ΔH. So the reaction is spontaneous only at high temperatures."
+            }
+          ]
+        },
+        {
+          "title": "Electrochemistry",
+          "description": "Redox reactions, electrolysis, Faraday's laws, and galvanic (voltaic) cells.",
+          "lessons": [
+            {
+              "title": "Redox Reactions, Electrolysis and Galvanic Cells",
+              "summary": "Understand oxidation and reduction, learn how electrolysis uses electricity to drive reactions, apply Faraday's laws, and see how galvanic cells turn chemical energy into electricity.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Electrochemistry** links chemistry and electricity. It explains how batteries power a torch, how metals are extracted and purified, and how iron rusts.\n\nAt the heart of it are **redox reactions** — reactions where electrons move from one substance to another. When electrons flow, they can do useful electrical work (a **galvanic cell**, like a battery), or electricity can be used to force a reaction to happen (**electrolysis**, used to purify copper or extract aluminium).\n\nIn this lesson you will learn to recognise **oxidation** and **reduction**, balance redox equations, use **Faraday's laws** to calculate amounts of product, and understand how a **galvanic cell** generates voltage."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Learning Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **oxidation**, **reduction**, **oxidizing agent**, and **reducing agent**.\n- Assign **oxidation numbers** and identify what is oxidized and reduced.\n- Describe **electrolysis** and identify reactions at the **anode** and **cathode**.\n- Use **Faraday's laws** to calculate the mass of substance produced.\n- Explain how a **galvanic (voltaic) cell** works and calculate its **cell potential (E°cell)**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Losing and Gaining Electrons",
+                  "body": "A **redox reaction** has two halves happening together:\n\n- **Oxidation** is the **loss** of electrons (oxidation number increases).\n- **Reduction** is the **gain** of electrons (oxidation number decreases).\n\nA helpful memory aid is **OIL RIG**: *Oxidation Is Loss, Reduction Is Gain* (of electrons). The substance that *causes* oxidation by accepting electrons is the **oxidizing agent** (it is itself reduced); the substance that *causes* reduction by donating electrons is the **reducing agent** (it is itself oxidized).\n\nThere are two main types of electrochemical cell:\n\n**1. Electrolytic cell (electrolysis).** Electrical energy from an outside source forces a *non-spontaneous* reaction. At the **cathode** (negative electrode) reduction occurs; at the **anode** (positive electrode) oxidation occurs. This is used to extract reactive metals (like aluminium from bauxite) and to electroplate or purify metals.\n\n**Faraday's laws** govern how much is produced:\n- *First law:* the mass deposited is proportional to the **quantity of charge (Q = I × t)** passed.\n- *Second law:* equal charges deposit amounts proportional to their **equivalent masses**.\n- One mole of electrons carries **96,500 coulombs** (one **faraday, F**).\n\n**2. Galvanic (voltaic) cell.** A *spontaneous* redox reaction produces electricity (a battery). Two **half-cells** are connected by a **salt bridge**. Electrons flow through the wire from the anode (oxidation) to the cathode (reduction). The voltage produced is the **cell potential**:\n\n**E°cell = E°cathode − E°anode**\n\nA positive E°cell means the reaction is spontaneous. The classic **Daniel cell** uses Zn and Cu: zinc (more reactive) is oxidized at the anode and copper ions are reduced at the cathode."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Faraday's Law (Mass of Copper Deposited)",
+                  "body": "**Problem:** A current of 5.0 A is passed through a solution of copper(II) sulphate (CuSO₄) for 1 hour during electrolysis. How much copper is deposited at the cathode? (Molar mass of Cu = 63.5 g/mol; F = 96,500 C/mol.)\n\n**Step 1 — Write the cathode half-reaction.**\nCu²⁺ + 2e⁻ → Cu\nSo **2 moles of electrons** deposit 1 mole of copper.\n\n**Step 2 — Calculate the total charge (Q).**\nFirst convert time to seconds: 1 hour = 3600 s.\nQ = I × t = 5.0 A × 3600 s = 18,000 C.\n\n**Step 3 — Convert charge to moles of electrons.**\nmoles of e⁻ = Q ÷ F = 18,000 ÷ 96,500 = 0.1865 mol.\n\n**Step 4 — Convert moles of electrons to moles of copper.**\nSince 2 e⁻ give 1 Cu:\nmoles of Cu = 0.1865 ÷ 2 = 0.0933 mol.\n\n**Step 5 — Convert to mass.**\nmass = moles × molar mass = 0.0933 × 63.5 = **5.9 g**.\n\n**Answer:** About **5.9 g of copper** is deposited on the cathode."
+                },
+                {
+                  "type": "visual",
+                  "title": "Visual: A Galvanic (Voltaic) Cell Reaction",
+                  "body": "The diagram shows the spontaneous reaction in a zinc-copper (Daniel) cell. Zinc loses electrons (oxidation, anode) and copper ions gain them (reduction, cathode). The electrons travel through the external wire, producing an electric current.",
+                  "visual": {
+                    "type": "reaction",
+                    "reactants": ["Zn(s)", "Cu2+(aq)"],
+                    "products": ["Zn2+(aq)", "Cu(s)"],
+                    "equation": "Zn(s) + Cu2+(aq) -> Zn2+(aq) + Cu(s)",
+                    "caption": "Zinc is oxidized; copper ion is reduced. Electrons flow from anode to cathode."
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Mixing up oxidation and reduction.** Remember **OIL RIG**: Oxidation Is Loss, Reduction Is Gain of electrons.\n- **Swapping anode and cathode.** In *both* cell types, oxidation is at the **anode** and reduction is at the **cathode**. Only the *charges* of the electrodes differ between the cell types.\n- **Forgetting to convert time to seconds.** Q = I × t needs time in seconds, not minutes or hours.\n- **Ignoring the number of electrons.** Cu²⁺ needs 2 electrons; Al³⁺ needs 3. Divide the moles of electrons accordingly.\n- **Confusing oxidizing agent with oxidized species.** The oxidizing agent is the one that gets reduced."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **OIL RIG** — **O**xidation **I**s **L**oss, **R**eduction **I**s **G**ain (of electrons).\n- **\"An Ox, a Red Cat\"** — **An**ode = **Ox**idation; **Red**uction = **Cat**hode.\n- **F = 96,500 C** for one mole of electrons — memorise this number.\n- **Q = I × t** — \"Quantity of charge = Current × time (seconds).\"\n- **E°cell = Cathode − Anode** — \"Cat eats the Anode\" (subtract anode from cathode)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "**Q1.** In the reaction Zn → Zn²⁺ + 2e⁻, is zinc oxidized or reduced? *(Answer: oxidized — it loses electrons.)*\n\n**Q2.** At which electrode does reduction always occur? *(Answer: the cathode.)*\n\n**Q3.** How many coulombs are needed to deposit 1 mole of silver from Ag⁺ + e⁻ → Ag? *(Answer: 96,500 C, since only 1 electron is needed per Ag.)*\n\n**Q4.** If E°cathode = +0.34 V and E°anode = −0.76 V, what is E°cell? *(Answer: 0.34 − (−0.76) = +1.10 V; positive, so spontaneous.)*"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- A **redox reaction** transfers electrons: **oxidation** is loss, **reduction** is gain (**OIL RIG**).\n- The **oxidizing agent** is reduced; the **reducing agent** is oxidized.\n- **Electrolysis** uses electricity to force a non-spontaneous reaction; oxidation at the **anode**, reduction at the **cathode**.\n- **Faraday's laws**: mass produced ∝ charge (Q = I × t); one mole of electrons = **96,500 C**.\n- A **galvanic (voltaic) cell** produces electricity from a spontaneous reaction; **E°cell = E°cathode − E°anode**, and a positive value means spontaneous."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson are defined below.",
+                  "glossary": [
+                    {"term": "Oxidation", "definition": "The loss of electrons by a substance; its oxidation number increases."},
+                    {"term": "Reduction", "definition": "The gain of electrons by a substance; its oxidation number decreases."},
+                    {"term": "Oxidizing agent", "definition": "The species that accepts electrons and is itself reduced."},
+                    {"term": "Reducing agent", "definition": "The species that donates electrons and is itself oxidized."},
+                    {"term": "Electrolysis", "definition": "Using electrical energy to drive a non-spontaneous redox reaction."},
+                    {"term": "Faraday constant (F)", "definition": "The charge carried by one mole of electrons, equal to 96,500 coulombs."},
+                    {"term": "Galvanic (voltaic) cell", "definition": "A cell that produces electricity from a spontaneous redox reaction, like a battery."},
+                    {"term": "Cell potential (E°cell)", "definition": "The voltage of a cell, equal to E°cathode − E°anode; positive means spontaneous."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "What does OIL RIG stand for?", "back": "Oxidation Is Loss, Reduction Is Gain — of electrons."},
+                {"front": "At which electrodes do oxidation and reduction occur?", "back": "Oxidation at the anode, reduction at the cathode (in both galvanic and electrolytic cells)."},
+                {"front": "What is the value of the Faraday constant?", "back": "96,500 coulombs per mole of electrons (1 F)."},
+                {"front": "Write the formula for charge in electrolysis.", "back": "Q = I × t (charge in coulombs = current in amperes × time in seconds)."},
+                {"front": "How do you calculate cell potential?", "back": "E°cell = E°cathode − E°anode; a positive value means the reaction is spontaneous."}
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Redox basics",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Oxidation is best defined as the:",
+              "options": ["Gain of electrons", "Loss of electrons", "Gain of protons", "Loss of neutrons"],
+              "answer": "1",
+              "explanation": "Oxidation Is Loss of electrons (OIL RIG). Gain of electrons is reduction."
+            },
+            {
+              "topic": "Electrodes",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "In any electrochemical cell, reduction takes place at the:",
+              "options": ["Anode", "Cathode", "Salt bridge", "Wire"],
+              "answer": "1",
+              "explanation": "Reduction always occurs at the cathode (Red Cat). Oxidation occurs at the anode."
+            },
+            {
+              "topic": "Oxidizing agent",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "In the reaction Zn + Cu²⁺ → Zn²⁺ + Cu, the oxidizing agent is:",
+              "options": ["Zn", "Cu²⁺", "Zn²⁺", "Cu"],
+              "answer": "1",
+              "explanation": "Cu²⁺ gains electrons (is reduced to Cu), so it causes oxidation of zinc. The species that is reduced is the oxidizing agent."
+            },
+            {
+              "topic": "Faraday's law",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "How much charge is required to deposit 1 mole of aluminium from Al³⁺ + 3e⁻ → Al?",
+              "options": ["96,500 C", "193,000 C", "289,500 C", "32,167 C"],
+              "answer": "2",
+              "explanation": "Each Al needs 3 electrons, so charge = 3 × 96,500 = 289,500 C."
+            },
+            {
+              "topic": "Cell potential",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A galvanic cell has E°cathode = +0.80 V and E°anode = +0.34 V. What is E°cell, and is the reaction spontaneous?",
+              "options": ["+1.14 V, spontaneous", "+0.46 V, spontaneous", "−0.46 V, non-spontaneous", "+0.46 V, non-spontaneous"],
+              "answer": "1",
+              "explanation": "E°cell = E°cathode − E°anode = 0.80 − 0.34 = +0.46 V. A positive cell potential means the reaction is spontaneous."
+            },
+            {
+              "topic": "Quantitative electrolysis",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A current of 2.0 A flows for 965 seconds through molten NaCl. How many moles of electrons pass through the cell?",
+              "options": ["0.010 mol", "0.020 mol", "0.10 mol", "0.20 mol"],
+              "answer": "1",
+              "explanation": "Q = I × t = 2.0 × 965 = 1930 C. Moles of electrons = Q ÷ F = 1930 ÷ 96,500 = 0.020 mol."
+            }
+          ]
+        },
+        {
+          "title": "Some Elements in Nature and Industry",
+          "description": "Occurrence and extraction of important elements, and key industrial chemical processes.",
+          "lessons": [
+            {
+              "title": "Extraction of Elements and Industrial Processes",
+              "summary": "Learn how elements occur in nature as ores, the principles of extracting metals like iron and aluminium, and important industrial processes such as the manufacture of ammonia and sulphuric acid.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Almost everything made of metal — from farm tools to corrugated roofing sheets — begins as a rock dug from the earth. A **mineral** is a naturally occurring compound of an element, and a **mineral that is worth mining for profit** is called an **ore**.\n\nGetting a pure metal from its ore is called **extraction (metallurgy)**, and it almost always involves a **redox reaction**. Some elements occur **native** (uncombined, like gold), but most must be chemically freed from their compounds.\n\nIn this lesson you will learn how elements occur in nature, the general steps of extracting metals such as **iron** and **aluminium**, and important **industrial processes** like the **Haber process** for ammonia and the **Contact process** for sulphuric acid that are vital to fertilisers and many other products."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Learning Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **mineral**, **ore**, **metallurgy**, and **native element**.\n- Explain why the **method of extraction** depends on the metal's **reactivity**.\n- Describe the extraction of **iron** in the blast furnace and **aluminium** by electrolysis.\n- Outline the **Haber process** (ammonia) and the **Contact process** (sulphuric acid).\n- State some uses of these elements and compounds in industry and agriculture."
+                },
+                {
+                  "type": "theory",
+                  "title": "From Ore to Pure Element",
+                  "body": "Elements occur in nature in two ways: **native** (free and uncombined, like gold, platinum, and some silver) or, far more often, **combined** in compounds such as oxides, sulphides, and carbonates.\n\nThe **method of extraction depends on how reactive the metal is** (its position in the reactivity series):\n\n- **Very reactive metals** (Na, K, Mg, Al) hold their compounds tightly, so they are extracted by **electrolysis** of the molten compound.\n- **Moderately reactive metals** (Fe, Zn, Pb) are extracted by **reduction with carbon** (coke), which is cheap.\n- **Unreactive metals** (Au, Ag) are often found native and need little or no chemical extraction.\n\n**Extraction of iron (blast furnace).** Iron ore (mainly **haematite, Fe₂O₃**) is reduced by carbon monoxide:\n**Fe₂O₃ + 3CO → 2Fe + 3CO₂.**\nLimestone (CaCO₃) is added to remove sandy impurities as **slag**.\n\n**Extraction of aluminium (electrolysis).** Aluminium is too reactive for carbon reduction, so purified **alumina (Al₂O₃)** is dissolved in molten cryolite and electrolysed. At the cathode: **Al³⁺ + 3e⁻ → Al**.\n\nTwo key **industrial processes** make compounds essential to agriculture and industry:\n\n- **Haber process** makes **ammonia** for fertilisers:\n**N₂ + 3H₂ ⇌ 2NH₃**, carried out at about 200 atm, 450 °C, with an iron catalyst.\n- **Contact process** makes **sulphuric acid**. The key step converts sulphur dioxide to sulphur trioxide over a vanadium(V) oxide catalyst:\n**2SO₂ + O₂ ⇌ 2SO₃.**\n\nThese processes show how chemistry feeds industry: ammonia becomes fertiliser that boosts crop yields, and sulphuric acid is used in fertilisers, batteries, and countless manufacturing steps."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Mass of Iron from Haematite",
+                  "body": "**Problem:** In a blast furnace, how many tonnes of pure iron can be obtained from 160 tonnes of haematite (Fe₂O₃), assuming the reaction goes to completion? (Molar masses: Fe = 56, O = 16, so Fe₂O₃ = 160.)\n\n**Step 1 — Write the balanced reduction equation.**\nFe₂O₃ + 3CO → 2Fe + 3CO₂\n\n**Step 2 — Read the mole ratio.**\n1 mole of Fe₂O₃ produces 2 moles of Fe.\n\n**Step 3 — Find the mass ratio.**\nMass of Fe₂O₃ = 160 g/mol.\nMass of 2 Fe = 2 × 56 = 112 g.\nSo 160 g of Fe₂O₃ gives 112 g of Fe.\n\n**Step 4 — Scale up to tonnes (the ratio stays the same).**\n160 tonnes Fe₂O₃ × (112 / 160) = 112 tonnes of Fe.\n\n**Answer:** **112 tonnes of iron** can be obtained from 160 tonnes of haematite.\n\n*(Note: because Fe₂O₃ here has a molar mass of exactly 160, the numbers work out cleanly — 160 tonnes of ore gives 112 tonnes of metal.)*"
+                },
+                {
+                  "type": "visual",
+                  "title": "Visual: Reduction of Iron Ore",
+                  "body": "The diagram shows the central reaction of the blast furnace, where carbon monoxide reduces haematite to molten iron. The iron loses oxygen (is reduced) while carbon monoxide gains it to become carbon dioxide.",
+                  "visual": {
+                    "type": "reaction",
+                    "reactants": ["Fe2O3", "3 CO"],
+                    "products": ["2 Fe", "3 CO2"],
+                    "equation": "Fe2O3 + 3 CO -> 2 Fe + 3 CO2",
+                    "caption": "Carbon monoxide reduces iron(III) oxide to iron in the blast furnace."
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Confusing mineral and ore.** Every ore is a mineral, but only minerals worth mining for profit are called ores.\n- **Using carbon to extract reactive metals.** Carbon cannot reduce Na, Mg, or Al — they need electrolysis.\n- **Forgetting to balance the equation first.** Stoichiometry calculations fail if the equation is not balanced (e.g. Fe₂O₃ + **3**CO → **2**Fe + **3**CO₂).\n- **Mixing up the two industrial processes.** Haber makes **ammonia** (N₂ + H₂); Contact makes **sulphuric acid** (via SO₃).\n- **Thinking the reaction at the cathode is oxidation.** In aluminium extraction, Al³⁺ gains electrons at the cathode — that is reduction."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"Reactive needs Electricity\"** — very reactive metals (Na, Mg, Al) are extracted by **electrolysis**.\n- **\"Middle metals meet Carbon\"** — moderately reactive metals (Fe, Zn) are reduced by **carbon**.\n- **Haber = ammoniH** (N₂ + 3H₂ → 2NH₃) — Haber for ammonia.\n- **Contact = aCid** — the Contact process makes sulphuric **acid**.\n- **Haematite = Hard iron ore (Fe₂O₃).**"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "**Q1.** Which method is used to extract a very reactive metal like aluminium? *(Answer: electrolysis of the molten/dissolved compound.)*\n\n**Q2.** Write the balanced equation for reducing haematite with carbon monoxide. *(Answer: Fe₂O₃ + 3CO → 2Fe + 3CO₂.)*\n\n**Q3.** What is the main product of the Haber process and what is it used for? *(Answer: ammonia (NH₃), used mainly to make fertilisers.)*\n\n**Q4.** Name the catalyst used in the Contact process step 2SO₂ + O₂ → 2SO₃. *(Answer: vanadium(V) oxide, V₂O₅.)*"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- A **mineral** is a natural compound of an element; an **ore** is a mineral mined for profit.\n- **Extraction (metallurgy)** usually involves **redox**, and the method depends on **reactivity**.\n- **Reactive metals** (Na, Mg, Al) → **electrolysis**; **moderately reactive** (Fe, Zn) → **carbon reduction**; **unreactive** (Au) → found native.\n- **Iron** is made in the **blast furnace**: Fe₂O₃ + 3CO → 2Fe + 3CO₂.\n- **Aluminium** is made by **electrolysis** of alumina.\n- **Haber process** makes **ammonia** (fertilisers); **Contact process** makes **sulphuric acid**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson are defined below.",
+                  "glossary": [
+                    {"term": "Mineral", "definition": "A naturally occurring compound of one or more elements found in the earth."},
+                    {"term": "Ore", "definition": "A mineral from which a metal can be extracted profitably."},
+                    {"term": "Metallurgy", "definition": "The science and process of extracting metals from their ores."},
+                    {"term": "Native element", "definition": "An element found in nature in its free, uncombined state, such as gold."},
+                    {"term": "Blast furnace", "definition": "A tall furnace used to extract iron by reducing its ore with carbon monoxide."},
+                    {"term": "Haber process", "definition": "The industrial process that makes ammonia from nitrogen and hydrogen using an iron catalyst."},
+                    {"term": "Contact process", "definition": "The industrial process that makes sulphuric acid, converting SO₂ to SO₃ over a V₂O₅ catalyst."},
+                    {"term": "Slag", "definition": "The waste material (mainly calcium silicate) removed from a blast furnace."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "Difference between a mineral and an ore?", "back": "A mineral is any natural compound of an element; an ore is a mineral that can be mined profitably for its metal."},
+                {"front": "How are very reactive metals (Na, Mg, Al) extracted?", "back": "By electrolysis of their molten or dissolved compounds, because carbon cannot reduce them."},
+                {"front": "Write the blast-furnace reaction for iron.", "back": "Fe₂O₃ + 3CO → 2Fe + 3CO₂."},
+                {"front": "What does the Haber process make, and from what?", "back": "Ammonia (NH₃) from nitrogen and hydrogen: N₂ + 3H₂ ⇌ 2NH₃, using an iron catalyst."},
+                {"front": "What is the catalyst in the Contact process?", "back": "Vanadium(V) oxide, V₂O₅, used to convert SO₂ to SO₃."}
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Ores and minerals",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A mineral from which a metal can be extracted profitably is called a/an:",
+              "options": ["Alloy", "Ore", "Slag", "Catalyst"],
+              "answer": "1",
+              "explanation": "An ore is a mineral that contains enough metal to be extracted at a profit."
+            },
+            {
+              "topic": "Native elements",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which metal is most likely to be found native (uncombined) in nature?",
+              "options": ["Sodium", "Aluminium", "Gold", "Iron"],
+              "answer": "2",
+              "explanation": "Gold is very unreactive, so it is found uncombined (native). Reactive metals like sodium and aluminium are always found in compounds."
+            },
+            {
+              "topic": "Extraction method",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Aluminium is extracted from its ore by electrolysis rather than carbon reduction because:",
+              "options": ["Aluminium is cheaper that way", "Aluminium is too reactive to be reduced by carbon", "Carbon is not available", "Aluminium ore is a liquid"],
+              "answer": "1",
+              "explanation": "Aluminium is high in the reactivity series, so carbon cannot reduce it. Electrolysis is needed to free the very reactive metal."
+            },
+            {
+              "topic": "Iron extraction",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "In the blast furnace, the main reducing agent that converts iron oxide to iron is:",
+              "options": ["Oxygen", "Carbon monoxide", "Limestone", "Water"],
+              "answer": "1",
+              "explanation": "Carbon monoxide (CO) reduces Fe₂O₃ to iron: Fe₂O₃ + 3CO → 2Fe + 3CO₂."
+            },
+            {
+              "topic": "Industrial processes",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "The Haber process is used to manufacture ammonia. Which conditions are typically used?",
+              "options": ["Low pressure, low temperature, no catalyst", "High pressure, moderate temperature, iron catalyst", "Low pressure, high temperature, platinum catalyst", "High pressure, very low temperature, nickel catalyst"],
+              "answer": "1",
+              "explanation": "The Haber process uses high pressure (about 200 atm), a moderate temperature (about 450 °C), and an iron catalyst to make ammonia."
+            },
+            {
+              "topic": "Stoichiometry of extraction",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "According to Fe₂O₃ + 3CO → 2Fe + 3CO₂, how many moles of CO are needed to produce 4 moles of iron?",
+              "options": ["3 moles", "4 moles", "6 moles", "8 moles"],
+              "answer": "2",
+              "explanation": "The ratio is 3 CO to 2 Fe. For 4 moles of Fe, CO needed = (3/2) × 4 = 6 moles."
+            }
+          ]
+        },
+        {
+          "title": "Polymers",
+          "description": "Structure and types of polymers, polymerization reactions, and synthetic and natural polymers.",
+          "lessons": [
+            {
+              "title": "Polymers: Building Giant Molecules",
+              "summary": "Learn what polymers are, how monomers join through addition and condensation polymerization, and compare synthetic polymers like polythene with natural polymers like proteins and starch.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Polymers** are giant molecules that make up much of the modern world and of living things alike: plastic buckets, nylon rope, rubber tyres, and also the proteins, starch, and DNA inside every cell.\n\nA **polymer** is a very large molecule built by joining together many small repeating units called **monomers**, like beads on a string. The word comes from Greek: *poly* (many) and *meros* (parts).\n\nIn this lesson you will learn the two main ways monomers join (**addition** and **condensation polymerization**), and you will compare **synthetic polymers** (made in factories, like polythene and PVC) with **natural polymers** (made by living things, like proteins, starch, and cellulose)."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Learning Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **polymer**, **monomer**, and **polymerization**.\n- Distinguish **addition polymerization** from **condensation polymerization**.\n- Give examples of important **synthetic polymers** (polythene, PVC, nylon) and their uses.\n- Describe important **natural polymers** (proteins, carbohydrates, nucleic acids) and their monomers.\n- Explain the difference between **thermoplastic** and **thermosetting** polymers."
+                },
+                {
+                  "type": "theory",
+                  "title": "How Monomers Become Polymers",
+                  "body": "A **monomer** is a small molecule that can join to others; a **polymer** is the long chain that results. The joining reaction is **polymerization**. There are two main types:\n\n**1. Addition polymerization.** Monomers that contain a **carbon-carbon double bond (C=C)** add together one after another with **no atoms left over** — nothing is lost. For example, many ethene molecules join to form **polythene (polyethene)**:\nn(CH₂=CH₂) → —(CH₂—CH₂)ₙ—\nOther examples are **PVC** (from chloroethene) and **polystyrene**. The key sign is an unsaturated (double-bond) monomer.\n\n**2. Condensation polymerization.** Monomers join and a **small molecule (usually water)** is lost at each link. The monomers must have **two reactive groups** (such as —OH, —COOH, or —NH₂). For example, **nylon** forms from a diamine and a dicarboxylic acid, releasing water. Natural **proteins** form the same way, linking amino acids and releasing water.\n\nWhy does this matter? The structure controls the properties:\n\n- **Thermoplastic** polymers (like polythene) soften when heated and can be re-shaped and recycled.\n- **Thermosetting** polymers (like Bakelite) set permanently when first heated and cannot be re-melted.\n\n**Natural polymers** are built from biological monomers:\n- **Proteins** = many **amino acids** joined by **peptide bonds**.\n- **Carbohydrates** like **starch** and **cellulose** = many **glucose** units.\n- **Nucleic acids** (DNA, RNA) = many **nucleotides**.\n\nSo the same simple idea — monomers linking into chains — explains both factory plastics and the molecules of life."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Identifying the Type of Polymerization",
+                  "body": "**Problem:** For each monomer, decide whether it undergoes addition or condensation polymerization and explain why.\n(a) Ethene, CH₂=CH₂\n(b) A monomer with both an —OH group and a —COOH group\n\n**Step 1 — Look for a C=C double bond (addition clue).**\n(a) Ethene has a **carbon-carbon double bond (C=C)**. Monomers with a double bond join by **addition polymerization**, breaking the double bond to link up with no atoms lost.\n→ Ethene undergoes **addition** polymerization to form polythene:\nn(CH₂=CH₂) → —(CH₂—CH₂)ₙ—\n\n**Step 2 — Look for two reactive functional groups (condensation clue).**\n(b) This monomer has **two different reactive groups (—OH and —COOH)**. When such groups react, they join and **release a small molecule (water)**.\n→ It undergoes **condensation** polymerization, forming an ester link and losing H₂O at each step.\n\n**Conclusion:**\n- (a) Addition — driven by the C=C double bond, no by-product.\n- (b) Condensation — driven by two reactive groups, water is released.\n\nThe quick test: **double bond → addition; reactive end-groups losing water → condensation.**"
+                },
+                {
+                  "type": "visual",
+                  "title": "Visual: Addition Polymerization of Ethene",
+                  "body": "The diagram shows ethene monomers joining by addition polymerization. The carbon-carbon double bonds open up and link together to form the long chain of polythene, with no atoms lost.",
+                  "visual": {
+                    "type": "reaction",
+                    "reactants": ["n CH2=CH2 (ethene)"],
+                    "products": ["-(CH2-CH2)n- (polythene)"],
+                    "equation": "n CH2=CH2 -> -(CH2-CH2)n-",
+                    "caption": "Many ethene monomers add together to form polythene (addition polymerization)."
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Confusing monomer and polymer.** The monomer is the small repeating unit; the polymer is the long chain made of many monomers.\n- **Mixing up the two polymerization types.** Addition needs a **C=C double bond** and loses nothing; condensation loses a **small molecule (water)**.\n- **Thinking all polymers are man-made.** Proteins, starch, cellulose, and DNA are all natural polymers.\n- **Confusing thermoplastic and thermosetting.** Thermoplastics soften and re-melt; thermosets set permanently and cannot be re-melted.\n- **Forgetting the 'n'.** Polymer formulas use a subscript n to show that the unit repeats many times."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"Addition = Add up, lose nothing\"** — monomers with a double bond just join.\n- **\"Condensation = Condense out water\"** — a small molecule (water) drips out at each link.\n- **\"Mono = one, Poly = many\"** — one monomer, many in a polymer.\n- **Thermo-PLASTIC = PLIABLE again** — softens when reheated.\n- **Thermo-SET = SET for good** — hardens permanently.\n- **Natural polymers: \"Proteins, Starch, DNA\"** — amino acids, glucose, nucleotides."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "**Q1.** What is the monomer of polythene? *(Answer: ethene, CH₂=CH₂.)*\n\n**Q2.** Which type of polymerization releases water as a by-product? *(Answer: condensation polymerization.)*\n\n**Q3.** Name the monomer units that make up proteins. *(Answer: amino acids.)*\n\n**Q4.** Is polythene a thermoplastic or a thermosetting polymer? *(Answer: thermoplastic — it softens when heated and can be re-shaped.)*"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- A **polymer** is a giant molecule made of many small repeating **monomers** joined by **polymerization**.\n- **Addition polymerization**: unsaturated monomers (with **C=C**) join with **no atoms lost** (e.g. polythene, PVC).\n- **Condensation polymerization**: monomers with two reactive groups join and **release water** (e.g. nylon, proteins).\n- **Thermoplastics** soften and re-melt; **thermosets** set permanently.\n- **Natural polymers** include **proteins** (amino acids), **starch/cellulose** (glucose), and **nucleic acids** (nucleotides)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson are defined below.",
+                  "glossary": [
+                    {"term": "Polymer", "definition": "A very large molecule made by joining many small repeating units (monomers)."},
+                    {"term": "Monomer", "definition": "A small molecule that joins with others to build a polymer."},
+                    {"term": "Polymerization", "definition": "The chemical reaction in which monomers join to form a polymer."},
+                    {"term": "Addition polymerization", "definition": "Polymerization of monomers containing a C=C double bond, with no by-product lost."},
+                    {"term": "Condensation polymerization", "definition": "Polymerization in which monomers join and a small molecule, usually water, is released."},
+                    {"term": "Thermoplastic", "definition": "A polymer that softens when heated and can be re-shaped or recycled."},
+                    {"term": "Thermosetting polymer", "definition": "A polymer that sets permanently when first heated and cannot be re-melted."},
+                    {"term": "Natural polymer", "definition": "A polymer made by living things, such as protein, starch, cellulose, or DNA."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "What is a polymer?", "back": "A giant molecule made by joining many small repeating units called monomers."},
+                {"front": "What feature must a monomer have for addition polymerization?", "back": "A carbon-carbon double bond (C=C); the monomers join with no atoms lost."},
+                {"front": "What by-product is released in condensation polymerization?", "back": "A small molecule, usually water (H₂O), at each link."},
+                {"front": "Give the monomers of proteins and of starch.", "back": "Proteins are made of amino acids; starch is made of glucose units."},
+                {"front": "Difference between thermoplastic and thermosetting polymers?", "back": "Thermoplastics soften and can be re-melted/re-shaped; thermosets set permanently and cannot be re-melted."}
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Polymer basics",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "The small repeating units that join together to form a polymer are called:",
+              "options": ["Isotopes", "Monomers", "Isomers", "Ions"],
+              "answer": "1",
+              "explanation": "Monomers are the small molecules that link together to make a polymer."
+            },
+            {
+              "topic": "Types of polymerization",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Polythene is formed from ethene by which process?",
+              "options": ["Condensation polymerization", "Addition polymerization", "Hydrolysis", "Neutralization"],
+              "answer": "1",
+              "explanation": "Ethene has a C=C double bond, so it joins by addition polymerization to form polythene with no atoms lost."
+            },
+            {
+              "topic": "Condensation polymers",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which small molecule is usually released during condensation polymerization?",
+              "options": ["Carbon dioxide", "Water", "Hydrogen", "Oxygen"],
+              "answer": "1",
+              "explanation": "In condensation polymerization, a small molecule (usually water) is eliminated as each link forms."
+            },
+            {
+              "topic": "Natural polymers",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which of the following is a natural polymer?",
+              "options": ["PVC", "Nylon", "Starch", "Polystyrene"],
+              "answer": "2",
+              "explanation": "Starch is a natural polymer made of glucose units. PVC, nylon, and polystyrene are synthetic polymers."
+            },
+            {
+              "topic": "Polymer properties",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A plastic that softens on heating and can be remoulded many times is classified as:",
+              "options": ["Thermosetting", "Thermoplastic", "An elastomer only", "A condensation polymer only"],
+              "answer": "1",
+              "explanation": "Thermoplastics soften when heated and can be reshaped repeatedly. Thermosetting plastics set permanently and cannot be remoulded."
+            },
+            {
+              "topic": "Identifying polymerization type",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A monomer has the structure CH₂=CHCl. The polymer it forms is most likely produced by:",
+              "options": ["Condensation polymerization, releasing HCl", "Addition polymerization, with no by-product", "Condensation polymerization, releasing water", "Hydrolysis of the double bond"],
+              "answer": "1",
+              "explanation": "CH₂=CHCl (chloroethene) contains a C=C double bond, so it undergoes addition polymerization to form PVC with no by-product released."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

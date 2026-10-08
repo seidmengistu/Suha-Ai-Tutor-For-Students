@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "mathematics",
+      "questions": [
+        {
+          "topic": "Inverse of a relation",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the inverse of the relation `R = {(2, 7), (3, 8)}`?",
+          "options": ["`{(7, 2), (8, 3)}`", "`{(2, 7), (3, 8)}`", "`{(7, 3), (8, 2)}`", "`{(-7, 2), (-8, 3)}`"],
+          "answer": "0",
+          "explanation": "Swap each ordered pair: `(2, 7)` becomes `(7, 2)` and `(3, 8)` becomes `(8, 3)`."
+        },
+        {
+          "topic": "Composition of functions",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "If `f(x) = x + 5` and `g(x) = 3x`, what is `(f ∘ g)(2)`?",
+          "options": ["11", "21", "15", "16"],
+          "answer": "0",
+          "explanation": "Apply `g` first: `g(2) = 6`. Then `f(6) = 6 + 5 = 11`."
+        },
+        {
+          "topic": "Power functions",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following is a power function?",
+          "options": ["`f(x) = 7x⁴`", "`f(x) = 4^x`", "`f(x) = 2^x - 3`", "`f(x) = log₂ x`"],
+          "answer": "0",
+          "explanation": "A power function has the form `a·xʳ` with a fixed exponent. `7x⁴` fits; `4^x` and `2^x` are exponential."
+        },
+        {
+          "topic": "Excluded values",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "For which value of `x` is `(x + 9)/(x - 7)` undefined?",
+          "options": ["`x = 7`", "`x = -9`", "`x = 9`", "`x = 0`"],
+          "answer": "0",
+          "explanation": "The expression is undefined where the denominator is zero: `x - 7 = 0`, so `x = 7`."
+        },
+        {
+          "topic": "Mode",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the mode of the data set `6, 8, 8, 8, 11, 13`?",
+          "options": ["8", "11", "6", "13"],
+          "answer": "0",
+          "explanation": "The mode is the value that appears most often; `8` appears three times, more than any other."
+        },
+        {
+          "topic": "Inverse of a function",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the inverse of `f(x) = 4x + 8`?",
+          "options": ["`f⁻¹(x) = (x - 8)/4`", "`f⁻¹(x) = (x + 8)/4`", "`f⁻¹(x) = 4x - 8`", "`f⁻¹(x) = 1/(4x + 8)`"],
+          "answer": "0",
+          "explanation": "Swap to get `x = 4y + 8`, so `4y = x - 8`, giving `y = (x - 8)/4`."
+        },
+        {
+          "topic": "Composition of functions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If `f(x) = x²` and `g(x) = x - 3`, what is `(f ∘ g)(x)`?",
+          "options": ["`x² - 6x + 9`", "`x² - 3`", "`x² + 9`", "`x² - 9`"],
+          "answer": "0",
+          "explanation": "Apply `g` first, then `f`: `f(g(x)) = (x - 3)² = x² - 6x + 9`."
+        },
+        {
+          "topic": "Simplifying rational expressions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Simplify `(x² - 16)/(x - 4)`.",
+          "options": ["`x + 4`", "`x - 4`", "`x + 16`", "`x - 16`"],
+          "answer": "0",
+          "explanation": "Factor the top: `x² - 16 = (x - 4)(x + 4)`. Cancel `(x - 4)` to get `x + 4` (with `x ≠ 4`)."
+        },
+        {
+          "topic": "Solving rational equations",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Solve `10/x = 4`.",
+          "options": ["`x = 5/2`", "`x = 40`", "`x = 2/5`", "`x = 6`"],
+          "answer": "0",
+          "explanation": "Multiply both sides by `x`: `10 = 4x`, so `x = 10/4 = 5/2`."
+        },
+        {
+          "topic": "Equation of a line",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which line has slope -2 and y-intercept 6?",
+          "options": ["`y = -2x + 6`", "`y = 2x + 6`", "`y = -2x - 6`", "`y = 6x - 2`"],
+          "answer": "0",
+          "explanation": "In `y = mx + c`, `m = -2` and `c = 6` give `y = -2x + 6`."
+        },
+        {
+          "topic": "Disjunction",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If `p` is false and `q` is false, what is `p ∨ q`?",
+          "options": ["False", "True", "Both", "Undefined"],
+          "answer": "0",
+          "explanation": "OR is true when at least one statement is true. Here both are false, so `p ∨ q` is false."
+        },
+        {
+          "topic": "Median",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the median of `14, 9, 21, 6`?",
+          "options": ["11.5", "9", "14", "10"],
+          "answer": "0",
+          "explanation": "In order: `6, 9, 14, 21`. With four values, the median is the average of the two middle ones: `(9 + 14)/2 = 11.5`."
+        },
+        {
+          "topic": "Determinant of a 2x2 matrix",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the determinant of `[[6, 1], [2, 5]]`?",
+          "options": ["28", "32", "-28", "11"],
+          "answer": "0",
+          "explanation": "`det = ad - bc = (6)(5) - (1)(2) = 30 - 2 = 28`."
+        },
+        {
+          "topic": "Conjugate of a complex number",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the conjugate of `-3 + 7i`?",
+          "options": ["`-3 - 7i`", "`3 - 7i`", "`-3 + 7i`", "`3 + 7i`"],
+          "answer": "0",
+          "explanation": "The conjugate flips the sign of the imaginary part only: `-3 + 7i` becomes `-3 - 7i`."
+        },
+        {
+          "topic": "Vector addition",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is `(5, -3) + (-2, 8)`?",
+          "options": ["`(3, 5)`", "`(7, 5)`", "`(3, 11)`", "`(7, -11)`"],
+          "answer": "0",
+          "explanation": "Add components: `(5 + (-2), -3 + 8) = (3, 5)`."
+        },
+        {
+          "topic": "Reciprocal trig functions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If `cos x = 1/5`, what is `sec x`?",
+          "options": ["5", "`1/5`", "-5", "`1/25`"],
+          "answer": "0",
+          "explanation": "`sec x = 1/cos x = 1/(1/5) = 5`."
+        },
+        {
+          "topic": "One-to-one functions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which of these functions is one-to-one over all real numbers?",
+          "options": ["`f(x) = x³ + 1`", "`f(x) = x² + 4`", "`f(x) = |x| - 2`", "`f(x) = x⁴`"],
+          "answer": "0",
+          "explanation": "`x³ + 1` gives a different output for every input. The others map two different inputs (such as `3` and `-3`) to the same output."
+        },
+        {
+          "topic": "Horizontal asymptote",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the horizontal asymptote of `f(x) = (8x + 3)/(4x - 7)`?",
+          "options": ["`y = 2`", "`y = 0`", "`y = 8`", "`y = -3/7`"],
+          "answer": "0",
+          "explanation": "Degrees of top and bottom are equal, so the asymptote is the ratio of leading coefficients, `8/4 = 2`."
+        },
+        {
+          "topic": "Points on a circle",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Does the point `(6, 8)` lie on the circle `x² + y² = 100`?",
+          "options": ["Yes, because 36 + 64 = 100", "No, it lies outside", "No, it lies inside", "Cannot be determined"],
+          "answer": "0",
+          "explanation": "Substitute: `6² + 8² = 36 + 64 = 100`, which equals the right side, so the point is on the circle."
+        },
+        {
+          "topic": "Identifying conics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which equation represents a hyperbola?",
+          "options": ["`y²/25 - x²/9 = 1`", "`x²/25 + y²/9 = 1`", "`x² + y² = 25`", "`x = 3y²`"],
+          "answer": "0",
+          "explanation": "A hyperbola has subtracted squared terms. `y²/25 - x²/9 = 1` has a minus sign between the squares, so it is a hyperbola."
+        },
+        {
+          "topic": "Matrix multiplication",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is `[[2, 1], [3, 0]] × [[4], [5]]`?",
+          "options": ["`[[13], [12]]`", "`[[12], [13]]`", "`[[9], [15]]`", "`[[13], [15]]`"],
+          "answer": "0",
+          "explanation": "Row 1: `(2)(4) + (1)(5) = 13`. Row 2: `(3)(4) + (0)(5) = 12`. The product is `[[13], [12]]`."
+        },
+        {
+          "topic": "Multiplying complex numbers",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is `(3 + 2i)(2 - i)`?",
+          "options": ["`8 + i`", "`6 - 2i`", "`4 + i`", "`8 - i`"],
+          "answer": "0",
+          "explanation": "Expand: `6 - 3i + 4i - 2i² = 6 + i + 2 = 8 + i` (using `i² = -1`)."
+        },
+        {
+          "topic": "Modulus of a complex number",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the modulus of `8 + 15i`?",
+          "options": ["17", "23", "13", "289"],
+          "answer": "0",
+          "explanation": "`|8 + 15i| = √(8² + 15²) = √(64 + 225) = √289 = 17`."
+        },
+        {
+          "topic": "Perpendicular vectors",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which pair of vectors is perpendicular?",
+          "options": ["`(3, 4)` and `(8, -6)`", "`(2, 3)` and `(4, 6)`", "`(1, 0)` and `(2, 0)`", "`(5, 1)` and `(1, 5)`"],
+          "answer": "0",
+          "explanation": "`(3)(8) + (4)(-6) = 24 - 24 = 0`. A dot product of `0` means the vectors are perpendicular."
+        },
+        {
+          "topic": "Undefined trig values",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why is `csc 0°` undefined?",
+          "options": ["Because sin 0° = 0 and we cannot divide by zero", "Because cos 0° = 1", "Because 0° is too small", "Because csc is always undefined"],
+          "answer": "0",
+          "explanation": "`csc x = 1/sin x`. At `0°`, `sin 0° = 0`, so we would divide by zero, which is undefined."
+        },
+        {
+          "topic": "Linear programming",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Maximise `P = 5x + 3y` over the corners `(0, 0)`, `(8, 0)`, `(0, 6)`, and `(4, 4)`. What is the maximum?",
+          "options": ["40", "32", "18", "44"],
+          "answer": "0",
+          "explanation": "`P` values: `(0,0) → 0`; `(8,0) → 40`; `(0,6) → 18`; `(4,4) → 20 + 12 = 32`. The largest is `40` at `(8, 0)`."
+        },
+        {
+          "topic": "Probability",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A box contains 5 white, 4 black, and 6 red pens. If one pen is drawn at random, what is `P(not red)`?",
+          "options": ["`9/15`", "`6/15`", "`5/15`", "`4/15`"],
+          "answer": "0",
+          "explanation": "Total pens `= 5 + 4 + 6 = 15`. Not red means white or black `= 5 + 4 = 9`, so `P(not red) = 9/15`."
+        },
+        {
+          "topic": "Finding an inverse function",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "What is the inverse of `f(x) = (x + 6)/3`?",
+          "options": ["`f⁻¹(x) = 3x - 6`", "`f⁻¹(x) = 3x + 6`", "`f⁻¹(x) = (x - 6)/3`", "`f⁻¹(x) = 3/(x + 6)`"],
+          "answer": "0",
+          "explanation": "Swap `x` and `y`: `x = (y + 6)/3`. Multiply by 3: `3x = y + 6`. Subtract 6: `y = 3x - 6`."
+        },
+        {
+          "topic": "Extraneous solutions",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "While solving `1/(x - 5) = 2`, a student gets `x = 5`. What is wrong?",
+          "options": ["`x = 5` makes the denominator zero, so it must be rejected", "Nothing; `x = 5` is correct", "The answer should be negative", "There is no solution method"],
+          "answer": "0",
+          "explanation": "`x = 5` makes the original denominator `x - 5` equal zero, so it is extraneous. (The real solution is `x = 5 + 1/2 = 11/2`.)"
+        },
+        {
+          "topic": "Equation of a line through two points",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "What is the equation of the line through `(0, 3)` and `(4, 15)`?",
+          "options": ["`y = 3x + 3`", "`y = 4x + 3`", "`y = 3x + 15`", "`y = 12x + 3`"],
+          "answer": "0",
+          "explanation": "Slope `= (15 - 3)/(4 - 0) = 12/4 = 3`. The y-intercept is `3` (from the point `(0, 3)`), so `y = 3x + 3`."
+        },
+        {
+          "topic": "Validity of arguments",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "If `p` is true and `q` is true, what is `(p ∧ q) ⇒ ¬p`?",
+          "options": ["False", "True", "Both", "Undefined"],
+          "answer": "0",
+          "explanation": "`p ∧ q` is true and `¬p` is false, so `true ⇒ false` is false."
+        },
+        {
+          "topic": "Complement of an event",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "If the probability that a seed germinates is `0.72`, what is the probability that it does not germinate?",
+          "options": ["0.28", "0.72", "1.72", "0.5"],
+          "answer": "0",
+          "explanation": "`P(not germinating) = 1 - P(germinating) = 1 - 0.72 = 0.28`."
+        },
+        {
+          "topic": "Cramer's rule",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Using Cramer's rule for `2x + 3y = 13` and `x + y = 5`, what is `x`?",
+          "options": ["2", "3", "5", "1"],
+          "answer": "0",
+          "explanation": "`D = (2)(1) - (3)(1) = -1`. `Dₓ = (13)(1) - (3)(5) = -2`. So `x = Dₓ/D = -2/-1 = 2`."
+        },
+        {
+          "topic": "Powers of i",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is `i⁶`?",
+          "options": ["-1", "1", "i", "-i"],
+          "answer": "0",
+          "explanation": "`i⁶ = (i²)³ = (-1)³ = -1`."
+        },
+        {
+          "topic": "Rotation of a point",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "After a 180° rotation about the origin using `(x, y) → (-x, -y)`, where does `(4, -7)` go?",
+          "options": ["`(-4, 7)`", "`(4, 7)`", "`(-7, 4)`", "`(7, -4)`"],
+          "answer": "0",
+          "explanation": "Apply the rule: `(x, y) → (-x, -y)` sends `(4, -7)` to `(-4, 7)`."
+        },
+        {
+          "topic": "Applications of trigonometry",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A flagpole casts a shadow 12 m long when the angle of elevation of the sun is 60°. How tall is the flagpole? (`tan 60° = √3 ≈ 1.732`)",
+          "options": ["About 20.8 m", "About 12 m", "About 6.9 m", "About 36 m"],
+          "answer": "0",
+          "explanation": "`tan 60° = height/12`, so `height = 12 × 1.732 ≈ 20.8 m`."
+        }
+      ]
+    }
+  ]
+}

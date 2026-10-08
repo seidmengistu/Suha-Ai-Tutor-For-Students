@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Question words",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: '______ do you go to the library, by bus or on foot?'",
+          "options": ["How", "Who", "When", "What"],
+          "answer": "0",
+          "explanation": "'How' asks about the manner or way of doing something, such as the way you travel."
+        },
+        {
+          "topic": "Present simple spelling",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["My aunt carrys water from the river.", "My aunt carries water from the river.", "My aunt carry water from the river.", "My aunt carrying water from the river."],
+          "answer": "1",
+          "explanation": "With 'he/she/it' a verb ending in consonant + y changes the y to i and adds -es: carries."
+        },
+        {
+          "topic": "Vocabulary: synonyms",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which word means almost the same as 'big'?",
+          "options": ["narrow", "empty", "cheap", "large"],
+          "answer": "3",
+          "explanation": "'Large' is a synonym of 'big'; the other words have different meanings."
+        },
+        {
+          "topic": "Demonstratives",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: 'Look at ______ mountains far away on the horizon.'",
+          "options": ["this", "that", "those", "these"],
+          "answer": "2",
+          "explanation": "'Those' is the plural demonstrative used for things that are far away, like distant mountains."
+        },
+        {
+          "topic": "Vocabulary: food",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of these is a vegetable?",
+          "options": ["mango", "carrot", "banana", "orange"],
+          "answer": "1",
+          "explanation": "A carrot is a vegetable; the other three are fruits."
+        },
+        {
+          "topic": "Pronouns",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Replace the underlined words: 'Selam and I walk to school.' '______ walk to school.'",
+          "options": ["They", "You", "She", "We"],
+          "answer": "3",
+          "explanation": "'Selam and I' includes the speaker, so the correct subject pronoun is 'we'."
+        },
+        {
+          "topic": "Superlatives",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'The Danakil Depression is one of ______ places on Earth.'",
+          "options": ["the hotter", "the hottest", "hotter", "hottest"],
+          "answer": "1",
+          "explanation": "A superlative needs 'the' and the -est ending, doubling the t: 'the hottest'."
+        },
+        {
+          "topic": "Prepositions of place",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'The new clinic is ______ the school and the market.'",
+          "options": ["among", "between", "above", "across"],
+          "answer": "1",
+          "explanation": "'Between' is used for a position with one thing on each side, here the school and the market."
+        },
+        {
+          "topic": "Gerunds after prepositions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["She is interested in learn French.", "She is interested in to learn French.", "She is interested in learned French.", "She is interested in learning French."],
+          "answer": "3",
+          "explanation": "After the preposition 'in' we use the -ing form: 'interested in learning'."
+        },
+        {
+          "topic": "Quantifiers",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'How ______ money do you need for the school trip?'",
+          "options": ["many", "much", "few", "a few"],
+          "answer": "1",
+          "explanation": "'Money' is uncountable, so we use 'much' to ask about the amount."
+        },
+        {
+          "topic": "Simple past tense",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the past tense of 'teach'?",
+          "options": ["teached", "teach", "teaches", "taught"],
+          "answer": "3",
+          "explanation": "'Teach' is irregular; its simple past is 'taught'."
+        },
+        {
+          "topic": "Present continuous tense",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Make a negative: 'They are working today.'",
+          "options": ["They not are working today.", "They don't working today.", "They isn't working today.", "They aren't working today."],
+          "answer": "3",
+          "explanation": "To make the present continuous negative, add 'not' after 'are': 'aren't working'."
+        },
+        {
+          "topic": "Future with will",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Make a question: 'The city will have more parks.'",
+          "options": ["Will the city have more parks?", "Will the city has more parks?", "Does the city will have more parks?", "The city will have more parks?"],
+          "answer": "0",
+          "explanation": "For a future question we put 'will' before the subject and use the base verb: 'Will the city have...?'"
+        },
+        {
+          "topic": "Vocabulary: media",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What do we call the short title printed in large letters at the top of a news story?",
+          "options": ["caption", "footnote", "preface", "headline"],
+          "answer": "3",
+          "explanation": "A 'headline' is the large-print title at the top of a newspaper story."
+        },
+        {
+          "topic": "Adverbs of frequency",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["My father always is busy on market days.", "My father is always busy on market days.", "My father is busy always on market days.", "Always my father is busy on market days."],
+          "answer": "1",
+          "explanation": "Adverbs of frequency such as 'always' come after the verb 'be': 'is always busy'."
+        },
+        {
+          "topic": "Future with 'going to'",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'Look at those dark clouds! It ______ rain soon.'",
+          "options": ["is going to", "goes to", "will going to", "go to"],
+          "answer": "0",
+          "explanation": "We use 'be going to' for a prediction based on present evidence: 'It is going to rain.'"
+        },
+        {
+          "topic": "Order of adjectives",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the sentence with the correct adjective order.",
+          "options": ["a leather small old bag", "a small old leather bag", "an old small leather bag", "a leather old small bag"],
+          "answer": "1",
+          "explanation": "Adjective order is size, then age, then material: 'small (size) old (age) leather (material) bag'."
+        },
+        {
+          "topic": "Modal verbs: ability",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'Before the lessons, Abebe ______ swim, but now he can swim very well.'",
+          "options": ["couldn't", "can't", "mustn't", "shouldn't"],
+          "answer": "0",
+          "explanation": "Past inability is shown with 'couldn't'; the contrast with 'now he can' makes the past tense correct."
+        },
+        {
+          "topic": "Present perfect with 'for' and 'since'",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'We have lived in Adama ______ 2015.'",
+          "options": ["for", "during", "from", "since"],
+          "answer": "3",
+          "explanation": "'Since' is used with a point in time such as a year, while 'for' is used with a length of time."
+        },
+        {
+          "topic": "Relative clauses",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["The house where I was born is near the river.", "The house which I was born is near the river.", "The house who I was born is near the river.", "The house when I was born is near the river."],
+          "answer": "0",
+          "explanation": "We use the relative adverb 'where' to refer to a place: 'the house where I was born'."
+        },
+        {
+          "topic": "Passive voice",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Change to the passive: 'People speak Amharic in many regions.'",
+          "options": ["Amharic speaks in many regions.", "Amharic is spoken in many regions.", "Amharic was spoken in many regions.", "Amharic has spoken in many regions."],
+          "answer": "1",
+          "explanation": "The present simple passive uses 'is/are' + the past participle: 'Amharic is spoken'."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'The instructions were so vague that no one knew what to do.' What does 'vague' mean here?",
+          "options": ["Clear", "Loud", "Short", "Unclear"],
+          "answer": "3",
+          "explanation": "Because no one knew what to do, 'vague' means unclear or not exact."
+        },
+        {
+          "topic": "Conjunctions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: '______ it was raining heavily, the farmers continued working in the fields.'",
+          "options": ["Because", "Although", "So", "Therefore"],
+          "answer": "1",
+          "explanation": "'Although' introduces a contrast: the rain did not stop them from working."
+        },
+        {
+          "topic": "Comparatives with 'the ... the'",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'The more you practise, ______ you become.'",
+          "options": ["the good", "the better", "the best", "better the"],
+          "answer": "1",
+          "explanation": "The double comparative structure 'the more..., the better...' shows two things changing together."
+        },
+        {
+          "topic": "Reported commands",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Report: The teacher said, 'Open your books.'",
+          "options": ["The teacher said to open our books.", "The teacher said us open your books.", "The teacher told to open your books.", "The teacher told us to open our books."],
+          "answer": "3",
+          "explanation": "A reported command uses 'told' + object + 'to' + base verb: 'told us to open our books'."
+        },
+        {
+          "topic": "Phrasal verbs",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'I don't know this word, so I will ______ it ______ in the dictionary.'",
+          "options": ["look / after", "look / up", "look / for", "look / out"],
+          "answer": "1",
+          "explanation": "'Look up' means to find information in a reference book such as a dictionary."
+        },
+        {
+          "topic": "Word formation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete with the correct form: 'The team worked ______ to finish the project on time.' (success)",
+          "options": ["success", "successful", "successfully", "succeed"],
+          "answer": "2",
+          "explanation": "An adverb is needed to describe how they worked; the adverb from 'success' is 'successfully'."
+        },
+        {
+          "topic": "Reading comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'The shop was about to close, so Hana hurried to pay before the cashier locked the door.' Why did Hana hurry?",
+          "options": ["She was tired.", "The shop was closing.", "She forgot her money.", "The door was open."],
+          "answer": "1",
+          "explanation": "The passage says the shop was about to close, which is why Hana hurried to pay."
+        },
+        {
+          "topic": "Articles",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["The sun rises in a east.", "Sun rises in the east.", "The sun rises in the east.", "A sun rises in an east."],
+          "answer": "2",
+          "explanation": "We use 'the' before unique things like 'the sun' and fixed directions like 'the east'."
+        },
+        {
+          "topic": "Spelling and homophones",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correctly spelled sentence.",
+          "options": ["Its time to feed the dog its food.", "It's time to feed the dog its food.", "Its time to feed the dog it's food.", "It's time to feed the dog it's food."],
+          "answer": "1",
+          "explanation": "'It's' means 'it is', while 'its' is the possessive form, so 'It's time ... its food' is correct."
+        },
+        {
+          "topic": "Modal verbs of deduction",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Complete: 'The lights are on and I can hear voices, so someone ______ be at home.'",
+          "options": ["can't", "must", "needn't", "shouldn't"],
+          "answer": "1",
+          "explanation": "'Must' shows a logical conclusion based on evidence; the lights and voices mean someone is surely home."
+        },
+        {
+          "topic": "Third conditional",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Complete: 'If she ______ harder, she would have passed the exam.'",
+          "options": ["studied", "had studied", "studies", "would study"],
+          "answer": "1",
+          "explanation": "The third conditional uses 'had' + past participle in the if-part: 'If she had studied'."
+        },
+        {
+          "topic": "Reported questions",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Report: 'Are you coming to the festival?' she asked me.",
+          "options": ["She asked me if I was coming to the festival.", "She asked me if I am coming to the festival.", "She asked me am I coming to the festival.", "She asked me if was I coming to the festival."],
+          "answer": "0",
+          "explanation": "A yes/no question is reported with 'if', statement word order, and a backshifted verb: 'if I was coming'."
+        },
+        {
+          "topic": "Mixed tenses",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Complete: 'While I ______ dinner, the electricity suddenly ______.'",
+          "options": ["cooked / was going off", "was cooking / went off", "cook / goes off", "was cooking / was going off"],
+          "answer": "1",
+          "explanation": "The longer background action uses the past continuous (was cooking) and the sudden action uses the simple past (went off)."
+        },
+        {
+          "topic": "Subject-verb agreement",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["The news about the floods are worrying.", "The news about the floods is worrying.", "The news about the floods were worrying.", "The news about the floods have been worrying."],
+          "answer": "1",
+          "explanation": "'News' is an uncountable singular noun and takes a singular verb: 'The news ... is worrying.'"
+        },
+        {
+          "topic": "Linking words of result",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Complete: 'The drought was severe; ______, many farmers lost their crops.'",
+          "options": ["however", "as a result", "although", "in contrast"],
+          "answer": "1",
+          "explanation": "'As a result' introduces a consequence; the severe drought caused the loss of crops."
+        }
+      ]
+    }
+  ]
+}

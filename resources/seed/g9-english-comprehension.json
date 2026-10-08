@@ -1,0 +1,333 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nHoney bees are among the hardest workers in nature. Inside a single hive, thousands of bees divide the labour so that the colony can survive. Young bees clean the cells and feed the larvae, while older bees fly out to gather nectar from flowers. When a bee discovers a rich patch of blossoms, it returns home and performs a special movement called the waggle dance. The angle and length of this dance tell the other bees the direction and distance of the food. Through this silent language, the whole colony learns where to find nectar without a single spoken word. The bees then turn the nectar into honey, which feeds them during the cold months when few flowers bloom. In this way, cooperation keeps the entire hive alive.\n\nQuestion: What is the main idea of the passage?",
+          "options": [
+            "Cooperation and communication help a bee colony survive",
+            "Bees are dangerous insects that sting people",
+            "Flowers cannot grow without the help of bees",
+            "Honey is the sweetest food made by animals"
+          ],
+          "answer": "0",
+          "explanation": "The passage repeatedly stresses how shared work and the waggle dance keep the whole hive alive."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nHoney bees are among the hardest workers in nature. Inside a single hive, thousands of bees divide the labour so that the colony can survive. Young bees clean the cells and feed the larvae, while older bees fly out to gather nectar from flowers. When a bee discovers a rich patch of blossoms, it returns home and performs a special movement called the waggle dance. The angle and length of this dance tell the other bees the direction and distance of the food. Through this silent language, the whole colony learns where to find nectar without a single spoken word. The bees then turn the nectar into honey, which feeds them during the cold months when few flowers bloom. In this way, cooperation keeps the entire hive alive.\n\nQuestion: According to the passage, what job do young bees do?",
+          "options": [
+            "They fly far away to gather nectar",
+            "They clean the cells and feed the larvae",
+            "They perform the waggle dance for the colony",
+            "They guard the hive against other insects"
+          ],
+          "answer": "1",
+          "explanation": "The passage states that young bees clean the cells and feed the larvae, while older bees gather nectar."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nHoney bees are among the hardest workers in nature. Inside a single hive, thousands of bees divide the labour so that the colony can survive. Young bees clean the cells and feed the larvae, while older bees fly out to gather nectar from flowers. When a bee discovers a rich patch of blossoms, it returns home and performs a special movement called the waggle dance. The angle and length of this dance tell the other bees the direction and distance of the food. Through this silent language, the whole colony learns where to find nectar without a single spoken word. The bees then turn the nectar into honey, which feeds them during the cold months when few flowers bloom. In this way, cooperation keeps the entire hive alive.\n\nQuestion: What can we infer about why bees store honey?",
+          "options": [
+            "They store honey to sell it to other colonies",
+            "They store honey because larvae refuse to eat nectar",
+            "They store honey to survive when flowers are scarce in cold months",
+            "They store honey only to attract more bees to the hive"
+          ],
+          "answer": "2",
+          "explanation": "The passage says honey feeds them during the cold months when few flowers bloom, implying it is a food reserve."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nHoney bees are among the hardest workers in nature. Inside a single hive, thousands of bees divide the labour so that the colony can survive. Young bees clean the cells and feed the larvae, while older bees fly out to gather nectar from flowers. When a bee discovers a rich patch of blossoms, it returns home and performs a special movement called the waggle dance. The angle and length of this dance tell the other bees the direction and distance of the food. Through this silent language, the whole colony learns where to find nectar without a single spoken word. The bees then turn the nectar into honey, which feeds them during the cold months when few flowers bloom. In this way, cooperation keeps the entire hive alive.\n\nQuestion: In this passage, the word \"labour\" most nearly means",
+          "options": [
+            "rest",
+            "work",
+            "danger",
+            "travel"
+          ],
+          "answer": "1",
+          "explanation": "\"Divide the labour\" means the bees share out the work among themselves."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nHoney bees are among the hardest workers in nature. Inside a single hive, thousands of bees divide the labour so that the colony can survive. Young bees clean the cells and feed the larvae, while older bees fly out to gather nectar from flowers. When a bee discovers a rich patch of blossoms, it returns home and performs a special movement called the waggle dance. The angle and length of this dance tell the other bees the direction and distance of the food. Through this silent language, the whole colony learns where to find nectar without a single spoken word. The bees then turn the nectar into honey, which feeds them during the cold months when few flowers bloom. In this way, cooperation keeps the entire hive alive.\n\nQuestion: What is the author's main purpose in writing this passage?",
+          "options": [
+            "To warn readers about the danger of bee stings",
+            "To persuade readers to start beekeeping as a business",
+            "To explain how bees work together to keep their colony alive",
+            "To compare honey bees with other flying insects"
+          ],
+          "answer": "2",
+          "explanation": "The passage is informative, describing how the division of work and communication keep the colony alive."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nHoney bees are among the hardest workers in nature. Inside a single hive, thousands of bees divide the labour so that the colony can survive. Young bees clean the cells and feed the larvae, while older bees fly out to gather nectar from flowers. When a bee discovers a rich patch of blossoms, it returns home and performs a special movement called the waggle dance. The angle and length of this dance tell the other bees the direction and distance of the food. Through this silent language, the whole colony learns where to find nectar without a single spoken word. The bees then turn the nectar into honey, which feeds them during the cold months when few flowers bloom. In this way, cooperation keeps the entire hive alive.\n\nQuestion: In the sentence \"it returns home and performs a special movement,\" the word \"it\" refers to",
+          "options": [
+            "the hive",
+            "a bee that has found blossoms",
+            "the waggle dance",
+            "the colony"
+          ],
+          "answer": "1",
+          "explanation": "\"It\" refers back to the bee that discovers a rich patch of blossoms and then returns home."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe Ethiopian highlands are home to one of the world's most famous drinks: coffee. According to a well-loved story, a goatherd named Kaldi noticed that his goats became lively after eating the red berries of a certain bush. Curious, he tried the berries himself and felt unusually awake. Whether or not the tale is true, coffee has been part of Ethiopian life for centuries. Today, the coffee ceremony remains a treasured tradition. A host roasts green beans over hot coals, fills the room with rich smoke, and grinds the beans by hand. The coffee is then brewed in a clay pot called a jebena and served in small cups, often three rounds in a row. More than a drink, the ceremony is a time for neighbours and family to gather, talk, and strengthen their bonds.\n\nQuestion: What is the passage mainly about?",
+          "options": [
+            "The importance of coffee and the coffee ceremony in Ethiopian life",
+            "How to grow coffee bushes in the highlands",
+            "The life story of a goatherd named Kaldi",
+            "The different clay pots used for cooking in Ethiopia"
+          ],
+          "answer": "0",
+          "explanation": "The passage centres on coffee's long history in Ethiopia and the cultural importance of the coffee ceremony."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe Ethiopian highlands are home to one of the world's most famous drinks: coffee. According to a well-loved story, a goatherd named Kaldi noticed that his goats became lively after eating the red berries of a certain bush. Curious, he tried the berries himself and felt unusually awake. Whether or not the tale is true, coffee has been part of Ethiopian life for centuries. Today, the coffee ceremony remains a treasured tradition. A host roasts green beans over hot coals, fills the room with rich smoke, and grinds the beans by hand. The coffee is then brewed in a clay pot called a jebena and served in small cups, often three rounds in a row. More than a drink, the ceremony is a time for neighbours and family to gather, talk, and strengthen their bonds.\n\nQuestion: According to the passage, what is a jebena?",
+          "options": [
+            "A type of red berry eaten by goats",
+            "A clay pot used to brew coffee",
+            "A small cup for serving guests",
+            "A tool used to grind the beans"
+          ],
+          "answer": "1",
+          "explanation": "The passage clearly states that coffee is brewed in a clay pot called a jebena."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe Ethiopian highlands are home to one of the world's most famous drinks: coffee. According to a well-loved story, a goatherd named Kaldi noticed that his goats became lively after eating the red berries of a certain bush. Curious, he tried the berries himself and felt unusually awake. Whether or not the tale is true, coffee has been part of Ethiopian life for centuries. Today, the coffee ceremony remains a treasured tradition. A host roasts green beans over hot coals, fills the room with rich smoke, and grinds the beans by hand. The coffee is then brewed in a clay pot called a jebena and served in small cups, often three rounds in a row. More than a drink, the ceremony is a time for neighbours and family to gather, talk, and strengthen their bonds.\n\nQuestion: What can we infer about the coffee ceremony from the passage?",
+          "options": [
+            "It is done quickly so that people can return to work",
+            "It is valued mainly because it brings people together socially",
+            "It is performed only on special national holidays",
+            "It is disliked by most young Ethiopians today"
+          ],
+          "answer": "1",
+          "explanation": "The final sentence says the ceremony is a time for family and neighbours to gather and strengthen their bonds."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe Ethiopian highlands are home to one of the world's most famous drinks: coffee. According to a well-loved story, a goatherd named Kaldi noticed that his goats became lively after eating the red berries of a certain bush. Curious, he tried the berries himself and felt unusually awake. Whether or not the tale is true, coffee has been part of Ethiopian life for centuries. Today, the coffee ceremony remains a treasured tradition. A host roasts green beans over hot coals, fills the room with rich smoke, and grinds the beans by hand. The coffee is then brewed in a clay pot called a jebena and served in small cups, often three rounds in a row. More than a drink, the ceremony is a time for neighbours and family to gather, talk, and strengthen their bonds.\n\nQuestion: In this passage, the word \"lively\" most nearly means",
+          "options": [
+            "full of energy",
+            "sleepy and slow",
+            "frightened",
+            "hungry"
+          ],
+          "answer": "0",
+          "explanation": "The goats became lively after eating the berries, and Kaldi then felt unusually awake, so \"lively\" means full of energy."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe Ethiopian highlands are home to one of the world's most famous drinks: coffee. According to a well-loved story, a goatherd named Kaldi noticed that his goats became lively after eating the red berries of a certain bush. Curious, he tried the berries himself and felt unusually awake. Whether or not the tale is true, coffee has been part of Ethiopian life for centuries. Today, the coffee ceremony remains a treasured tradition. A host roasts green beans over hot coals, fills the room with rich smoke, and grinds the beans by hand. The coffee is then brewed in a clay pot called a jebena and served in small cups, often three rounds in a row. More than a drink, the ceremony is a time for neighbours and family to gather, talk, and strengthen their bonds.\n\nQuestion: What is the author's tone when describing the coffee ceremony?",
+          "options": [
+            "Critical and disapproving",
+            "Appreciative and respectful",
+            "Worried and fearful",
+            "Bored and uninterested"
+          ],
+          "answer": "1",
+          "explanation": "Words like \"treasured tradition\" and \"more than a drink\" show the author admires and respects the ceremony."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe Ethiopian highlands are home to one of the world's most famous drinks: coffee. According to a well-loved story, a goatherd named Kaldi noticed that his goats became lively after eating the red berries of a certain bush. Curious, he tried the berries himself and felt unusually awake. Whether or not the tale is true, coffee has been part of Ethiopian life for centuries. Today, the coffee ceremony remains a treasured tradition. A host roasts green beans over hot coals, fills the room with rich smoke, and grinds the beans by hand. The coffee is then brewed in a clay pot called a jebena and served in small cups, often three rounds in a row. More than a drink, the ceremony is a time for neighbours and family to gather, talk, and strengthen their bonds.\n\nQuestion: In the sentence \"he tried the berries himself,\" the word \"he\" refers to",
+          "options": [
+            "a neighbour",
+            "Kaldi the goatherd",
+            "the host of the ceremony",
+            "a coffee seller"
+          ],
+          "answer": "1",
+          "explanation": "\"He\" refers to Kaldi, the goatherd who first noticed his goats eating the berries."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWhen Almaz finished secondary school, she dreamed of becoming an engineer, but her village had no electricity and few books. Instead of giving up, she walked an hour each evening to a small reading centre powered by a single solar lamp. There she studied old science magazines until the light grew dim. The other students laughed at her, saying a girl from a farming family could never build bridges. Almaz said nothing, but she kept her notebook close and her goal closer. Years later, she returned to that same village, not as a student, but as the engineer who designed its first water pump. The children who gathered to watch did not laugh. They asked her how they, too, could learn. Almaz smiled and handed the youngest girl her old, worn notebook.\n\nQuestion: What is the main message of this story?",
+          "options": [
+            "Villages should not build water pumps",
+            "Determination can help a person overcome hardship and doubt",
+            "Engineers should never return to their home villages",
+            "Solar lamps are better than electricity"
+          ],
+          "answer": "1",
+          "explanation": "Almaz overcomes poverty and mockery through persistence, showing that determination can defeat hardship and doubt."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWhen Almaz finished secondary school, she dreamed of becoming an engineer, but her village had no electricity and few books. Instead of giving up, she walked an hour each evening to a small reading centre powered by a single solar lamp. There she studied old science magazines until the light grew dim. The other students laughed at her, saying a girl from a farming family could never build bridges. Almaz said nothing, but she kept her notebook close and her goal closer. Years later, she returned to that same village, not as a student, but as the engineer who designed its first water pump. The children who gathered to watch did not laugh. They asked her how they, too, could learn. Almaz smiled and handed the youngest girl her old, worn notebook.\n\nQuestion: What did Almaz study at the reading centre?",
+          "options": [
+            "Old science magazines",
+            "Cooking recipes",
+            "History novels",
+            "Music lessons"
+          ],
+          "answer": "0",
+          "explanation": "The passage states that she studied old science magazines until the light grew dim."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWhen Almaz finished secondary school, she dreamed of becoming an engineer, but her village had no electricity and few books. Instead of giving up, she walked an hour each evening to a small reading centre powered by a single solar lamp. There she studied old science magazines until the light grew dim. The other students laughed at her, saying a girl from a farming family could never build bridges. Almaz said nothing, but she kept her notebook close and her goal closer. Years later, she returned to that same village, not as a student, but as the engineer who designed its first water pump. The children who gathered to watch did not laugh. They asked her how they, too, could learn. Almaz smiled and handed the youngest girl her old, worn notebook.\n\nQuestion: Why does Almaz give the youngest girl her old notebook at the end?",
+          "options": [
+            "Because the notebook is no longer useful to anyone",
+            "To pass on hope and encourage the next generation to learn",
+            "Because she wants to forget her past struggles",
+            "To prove that she is wealthier than the villagers"
+          ],
+          "answer": "1",
+          "explanation": "The notebook symbolises her journey; giving it away passes on the same hope and encouragement to a new learner."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWhen Almaz finished secondary school, she dreamed of becoming an engineer, but her village had no electricity and few books. Instead of giving up, she walked an hour each evening to a small reading centre powered by a single solar lamp. There she studied old science magazines until the light grew dim. The other students laughed at her, saying a girl from a farming family could never build bridges. Almaz said nothing, but she kept her notebook close and her goal closer. Years later, she returned to that same village, not as a student, but as the engineer who designed its first water pump. The children who gathered to watch did not laugh. They asked her how they, too, could learn. Almaz smiled and handed the youngest girl her old, worn notebook.\n\nQuestion: In this passage, the phrase \"the light grew dim\" suggests that",
+          "options": [
+            "Almaz was losing interest in her studies",
+            "evening was turning into night and the lamp was fading",
+            "the reading centre was on fire",
+            "Almaz had become blind"
+          ],
+          "answer": "1",
+          "explanation": "The single solar lamp faded as night came, so \"the light grew dim\" describes the lamp weakening in the evening."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWhen Almaz finished secondary school, she dreamed of becoming an engineer, but her village had no electricity and few books. Instead of giving up, she walked an hour each evening to a small reading centre powered by a single solar lamp. There she studied old science magazines until the light grew dim. The other students laughed at her, saying a girl from a farming family could never build bridges. Almaz said nothing, but she kept her notebook close and her goal closer. Years later, she returned to that same village, not as a student, but as the engineer who designed its first water pump. The children who gathered to watch did not laugh. They asked her how they, too, could learn. Almaz smiled and handed the youngest girl her old, worn notebook.\n\nQuestion: What is the author's main purpose in telling this story?",
+          "options": [
+            "To explain how water pumps are designed",
+            "To inspire readers by showing the reward of perseverance",
+            "To describe the geography of an Ethiopian village",
+            "To warn students against walking at night"
+          ],
+          "answer": "1",
+          "explanation": "The narrative is motivational, using Almaz's success to inspire readers about the value of perseverance."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWhen Almaz finished secondary school, she dreamed of becoming an engineer, but her village had no electricity and few books. Instead of giving up, she walked an hour each evening to a small reading centre powered by a single solar lamp. There she studied old science magazines until the light grew dim. The other students laughed at her, saying a girl from a farming family could never build bridges. Almaz said nothing, but she kept her notebook close and her goal closer. Years later, she returned to that same village, not as a student, but as the engineer who designed its first water pump. The children who gathered to watch did not laugh. They asked her how they, too, could learn. Almaz smiled and handed the youngest girl her old, worn notebook.\n\nQuestion: In the sentence \"They asked her how they, too, could learn,\" the word \"They\" refers to",
+          "options": [
+            "the other students who laughed",
+            "the children who gathered to watch",
+            "the engineers in the city",
+            "Almaz's parents"
+          ],
+          "answer": "1",
+          "explanation": "\"They\" refers to the children who gathered to watch and did not laugh at Almaz."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery student should take part in protecting the environment, and recycling is one of the simplest ways to begin. When we throw plastic, paper, and metal into one bin, these materials are buried in the ground, where some take hundreds of years to break down. By separating our waste instead, we allow much of it to be reused. A single recycled bottle saves energy and reduces the pollution created when new bottles are made. Schools can lead the way by placing clearly labelled bins in every classroom and rewarding the cleanest grade each month. Some may argue that recycling takes too much effort, but the small act of sorting rubbish costs us only a moment. If each of us recycles today, we protect the rivers, the soil, and the air for the generations who will come after us.\n\nQuestion: What is the main idea of this passage?",
+          "options": [
+            "New bottles are always better than recycled ones",
+            "Students should recycle because it is an easy way to protect the environment",
+            "Schools should remove all bins from classrooms",
+            "Plastic breaks down quickly when buried"
+          ],
+          "answer": "1",
+          "explanation": "The passage argues that recycling is a simple action students can take to protect the environment."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery student should take part in protecting the environment, and recycling is one of the simplest ways to begin. When we throw plastic, paper, and metal into one bin, these materials are buried in the ground, where some take hundreds of years to break down. By separating our waste instead, we allow much of it to be reused. A single recycled bottle saves energy and reduces the pollution created when new bottles are made. Schools can lead the way by placing clearly labelled bins in every classroom and rewarding the cleanest grade each month. Some may argue that recycling takes too much effort, but the small act of sorting rubbish costs us only a moment. If each of us recycles today, we protect the rivers, the soil, and the air for the generations who will come after us.\n\nQuestion: According to the passage, how can schools encourage recycling?",
+          "options": [
+            "By burying all waste in one large bin",
+            "By placing labelled bins in classrooms and rewarding the cleanest grade",
+            "By banning students from bringing bottles",
+            "By making new bottles in the classroom"
+          ],
+          "answer": "1",
+          "explanation": "The passage says schools can lead by placing clearly labelled bins in every classroom and rewarding the cleanest grade each month."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery student should take part in protecting the environment, and recycling is one of the simplest ways to begin. When we throw plastic, paper, and metal into one bin, these materials are buried in the ground, where some take hundreds of years to break down. By separating our waste instead, we allow much of it to be reused. A single recycled bottle saves energy and reduces the pollution created when new bottles are made. Schools can lead the way by placing clearly labelled bins in every classroom and rewarding the cleanest grade each month. Some may argue that recycling takes too much effort, but the small act of sorting rubbish costs us only a moment. If each of us recycles today, we protect the rivers, the soil, and the air for the generations who will come after us.\n\nQuestion: What can we infer about the author's view of the effort recycling requires?",
+          "options": [
+            "The author believes the effort is too great for students",
+            "The author believes the effort is small compared with the benefits",
+            "The author believes recycling is impossible in schools",
+            "The author believes only adults should recycle"
+          ],
+          "answer": "1",
+          "explanation": "The author answers the objection by saying sorting rubbish costs only a moment, implying the effort is small next to the benefits."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery student should take part in protecting the environment, and recycling is one of the simplest ways to begin. When we throw plastic, paper, and metal into one bin, these materials are buried in the ground, where some take hundreds of years to break down. By separating our waste instead, we allow much of it to be reused. A single recycled bottle saves energy and reduces the pollution created when new bottles are made. Schools can lead the way by placing clearly labelled bins in every classroom and rewarding the cleanest grade each month. Some may argue that recycling takes too much effort, but the small act of sorting rubbish costs us only a moment. If each of us recycles today, we protect the rivers, the soil, and the air for the generations who will come after us.\n\nQuestion: In this passage, the word \"separating\" most nearly means",
+          "options": [
+            "burning",
+            "sorting into different groups",
+            "selling for money",
+            "hiding from view"
+          ],
+          "answer": "1",
+          "explanation": "\"Separating our waste\" means sorting plastic, paper, and metal into different groups so they can be reused."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery student should take part in protecting the environment, and recycling is one of the simplest ways to begin. When we throw plastic, paper, and metal into one bin, these materials are buried in the ground, where some take hundreds of years to break down. By separating our waste instead, we allow much of it to be reused. A single recycled bottle saves energy and reduces the pollution created when new bottles are made. Schools can lead the way by placing clearly labelled bins in every classroom and rewarding the cleanest grade each month. Some may argue that recycling takes too much effort, but the small act of sorting rubbish costs us only a moment. If each of us recycles today, we protect the rivers, the soil, and the air for the generations who will come after us.\n\nQuestion: What is the author's main purpose in writing this passage?",
+          "options": [
+            "To persuade students to recycle for the good of the environment",
+            "To explain how plastic bottles are manufactured",
+            "To entertain readers with a story about a school",
+            "To describe the history of rubbish bins"
+          ],
+          "answer": "0",
+          "explanation": "The passage uses persuasive language and answers an objection in order to convince students to recycle."
+        }
+      ]
+    }
+  ]
+}

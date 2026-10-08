@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "Characteristics of living things",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following is a life process carried out by ALL living things?",
+          "options": ["Producing electricity", "Respiration to release energy", "Rusting in the rain", "Floating on water"],
+          "answer": "1",
+          "explanation": "All living things respire to release energy. Rusting and floating are not life processes, and producing electricity is not common to all organisms."
+        },
+        {
+          "topic": "Observation in science",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is usually the FIRST step a biologist takes when studying something new in nature?",
+          "options": ["Publishing a journal article", "Making careful observations", "Selling the results", "Forgetting about it"],
+          "answer": "1",
+          "explanation": "Science usually begins with careful observation. From observations a scientist forms a hypothesis that can then be tested."
+        },
+        {
+          "topic": "Ethiopian research institutions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The Armauer Hansen Research Institute (AHRI) in Ethiopia began with research into which disease?",
+          "options": ["Leprosy", "Diabetes", "Asthma", "Colour blindness"],
+          "answer": "0",
+          "explanation": "AHRI was founded to study leprosy (named after the scientist who discovered the leprosy bacterium) and later expanded to other diseases."
+        },
+        {
+          "topic": "Why scientists repeat experiments",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why is it important that other scientists can repeat an experiment and get the same result?",
+          "options": ["To waste more chemicals", "To show the result is reliable and not an accident", "To make the experiment secret", "To use up extra time"],
+          "answer": "1",
+          "explanation": "When an experiment can be repeated with the same result, it shows the finding is reliable rather than a one-off accident or mistake."
+        },
+        {
+          "topic": "Aklilu Lemma and the environment",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "One reason Endod was considered safer than many factory-made chemicals for killing snails is that Endod:",
+          "options": ["Lasts forever in the water", "Breaks down naturally after a couple of days", "Cannot kill snails at all", "Is more expensive to make"],
+          "answer": "1",
+          "explanation": "Endod breaks down naturally in the water within about two days, so it does not build up and harm the environment like some long-lasting factory chemicals."
+        },
+        {
+          "topic": "Technology in biology",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A research team wants to study the tiny internal details of a single bacterium. Which tool would be MOST suitable, and why?",
+          "options": ["A hand lens, because it is cheap", "An electron microscope, because of its very high resolution", "A telescope, because it sees far away", "The naked eye, because bacteria are large"],
+          "answer": "1",
+          "explanation": "An electron microscope has very high resolution and magnification, so it can reveal the fine internal structure of something as tiny as a single bacterium."
+        },
+        {
+          "topic": "Nucleus function",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which part of a cell acts as the control centre and contains the genetic material?",
+          "options": ["Vacuole", "Nucleus", "Cell wall", "Cell membrane"],
+          "answer": "1",
+          "explanation": "The nucleus controls the cell's activities and contains the genetic material that directs how the cell works."
+        },
+        {
+          "topic": "Comparing cell structures",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A cell is examined and found to have a nucleus and a cell membrane but no cell wall and no chloroplasts. What type of cell is it most likely to be?",
+          "options": ["A bacterial cell", "An animal cell", "A leaf cell of a plant", "A virus"],
+          "answer": "1",
+          "explanation": "Having a nucleus and membrane but lacking a cell wall and chloroplasts is typical of an animal cell. Plant cells have a wall and chloroplasts, and bacteria have no true nucleus."
+        },
+        {
+          "topic": "Cell wall function",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the main job of the cell wall in a plant cell?",
+          "options": ["To trap sunlight", "To give the cell shape and support", "To control the cell", "To store food only"],
+          "answer": "1",
+          "explanation": "The cell wall is a tough outer layer that gives the plant cell its shape and provides support and strength."
+        },
+        {
+          "topic": "Diffusion of smell",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When food is cooking in one room, the smell soon spreads to the next room. Which process best explains this?",
+          "options": ["Osmosis", "Diffusion of gas particles", "Active transport", "Photosynthesis"],
+          "answer": "1",
+          "explanation": "The smell spreads because gas particles move from where they are concentrated to where there are fewer of them. This spreading is diffusion."
+        },
+        {
+          "topic": "Total magnification calculation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A student sees a cell at a total magnification of 600. If the eyepiece lens is x15, what is the magnification of the objective lens?",
+          "options": ["x10", "x40", "x4", "x60"],
+          "answer": "1",
+          "explanation": "Total magnification = eyepiece x objective, so objective = 600 / 15 = 40. The objective lens is x40."
+        },
+        {
+          "topic": "Osmosis in food preservation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Meat can be preserved by covering it in salt. Why does this help stop bacteria from spoiling the meat?",
+          "options": ["Salt gives bacteria more water", "Salt draws water out of the bacteria by osmosis, so they cannot grow", "Salt makes the meat colder", "Salt feeds the bacteria"],
+          "answer": "1",
+          "explanation": "The salty surroundings have less water than inside the bacteria, so water leaves the bacterial cells by osmosis. Without enough water the bacteria cannot grow and spoil the meat."
+        },
+        {
+          "topic": "Vitamin deficiency",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Eating fruits and vegetables is important mainly because they provide:",
+          "options": ["Mostly fat", "Vitamins and minerals", "Only water", "No useful nutrients"],
+          "answer": "1",
+          "explanation": "Fruits and vegetables are important sources of vitamins and minerals, which help keep the body healthy and working properly."
+        },
+        {
+          "topic": "Surface area for absorption",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The inside of the small intestine is folded and covered with millions of tiny finger-like bumps. How does this help the body?",
+          "options": ["It makes food travel faster", "It increases the surface area so more digested food is absorbed", "It produces more saliva", "It pumps blood to the heart"],
+          "answer": "1",
+          "explanation": "The folds and finger-like projections greatly increase the surface area of the small intestine, allowing more digested food to be absorbed into the blood."
+        },
+        {
+          "topic": "Heart structure",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the main function of the heart in the circulatory system?",
+          "options": ["To make blood cells", "To pump blood around the body", "To digest food", "To exchange gases"],
+          "answer": "1",
+          "explanation": "The heart is a muscular pump that pushes blood through the blood vessels so it can travel around the whole body."
+        },
+        {
+          "topic": "Veins",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Blood vessels that carry blood back TOWARDS the heart are called:",
+          "options": ["Arteries", "Veins", "Alveoli", "Nephrons"],
+          "answer": "1",
+          "explanation": "Veins carry blood back towards the heart. Arteries carry blood away from the heart, and capillaries link the two in the tissues."
+        },
+        {
+          "topic": "Products of respiration",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "During cellular respiration, which two substances are produced as waste in addition to energy?",
+          "options": ["Glucose and oxygen", "Carbon dioxide and water", "Protein and starch", "Nitrogen and salt"],
+          "answer": "1",
+          "explanation": "Cellular respiration uses glucose and oxygen and releases energy, producing carbon dioxide and water as waste products."
+        },
+        {
+          "topic": "Effect of blocked airway",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "If the alveoli in the lungs were damaged, which body process would be affected FIRST?",
+          "options": ["Digestion of protein", "Exchange of oxygen and carbon dioxide", "Pumping of blood by the heart", "Storage of fat"],
+          "answer": "1",
+          "explanation": "Gas exchange takes place in the alveoli. If they are damaged, the body would struggle to take in oxygen and remove carbon dioxide."
+        },
+        {
+          "topic": "Balanced diet and deficiency",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A child's diet contains plenty of injera and oil but very little beans, meat, eggs, or lentils. Which problem is this child MOST likely to develop?",
+          "options": ["Too much protein", "Poor growth and repair due to lack of protein", "Too much fibre", "Faster bone growth"],
+          "answer": "1",
+          "explanation": "Beans, meat, eggs, and lentils are protein sources used for growth and repair. A diet low in these can lead to poor growth and slow healing."
+        },
+        {
+          "topic": "Useful bacteria in soil",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following is a USEFUL role of some micro-organisms?",
+          "options": ["Breaking down dead matter in the soil", "Causing tuberculosis", "Spreading malaria", "Causing the common cold"],
+          "answer": "0",
+          "explanation": "Some micro-organisms are decomposers that break down dead matter and recycle nutrients in the soil. The other options are harmful effects."
+        },
+        {
+          "topic": "Virus structure",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why are viruses unable to multiply on their own outside a living body?",
+          "options": ["They are too large", "They can only reproduce inside living cells", "They make their own food", "They are a type of plant"],
+          "answer": "1",
+          "explanation": "Viruses are not fully living and have no machinery to reproduce by themselves. They can only multiply inside the living cells of a host."
+        },
+        {
+          "topic": "Water-borne disease",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Drinking water that is contaminated with sewage can spread diseases such as cholera. The best way to prevent this is to:",
+          "options": ["Leave water uncovered", "Provide clean, safe drinking water and good sanitation", "Share cups with sick people", "Drink more contaminated water"],
+          "answer": "1",
+          "explanation": "Cholera and similar diseases spread through dirty water. Providing clean drinking water and proper sanitation breaks the route by which the germs reach people."
+        },
+        {
+          "topic": "Vaccination",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How does a vaccine help protect a person from a disease?",
+          "options": ["It feeds the germs that cause the disease", "It prepares the body's defences so it can fight the germ quickly later", "It removes the need to ever wash", "It cures every disease instantly"],
+          "answer": "1",
+          "explanation": "A vaccine trains the body's immune system in advance, so if the real germ enters later the body can recognise and fight it quickly."
+        },
+        {
+          "topic": "Preventing the spread of HIV",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which of the following is an effective way to reduce the spread of HIV?",
+          "options": ["Sharing needles", "Using sterile (clean, unused) needles for injections", "Hugging fewer people", "Avoiding all food"],
+          "answer": "1",
+          "explanation": "HIV can spread through infected blood on shared needles. Using sterile, unused needles is an effective way to prevent this route of infection."
+        },
+        {
+          "topic": "Distinguishing pathogens",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A patient has a viral infection. Why would a doctor NOT give antibiotics to treat it?",
+          "options": ["Antibiotics make viruses stronger food", "Antibiotics only work against bacteria, not viruses", "Antibiotics are only for plants", "Antibiotics cure everything except colds"],
+          "answer": "1",
+          "explanation": "Antibiotics act against bacteria. They have no effect on viruses, so they would not help cure a viral infection."
+        },
+        {
+          "topic": "Classifying a new organism",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A scientist discovers a green, many-celled organism that is rooted in soil and makes its own food. Before naming the species, into which kingdom should it first be placed?",
+          "options": ["Animals", "Plants", "Monera", "Protista"],
+          "answer": "1",
+          "explanation": "A green, many-celled organism that is rooted and makes its own food by photosynthesis has the key features of the Plant kingdom."
+        },
+        {
+          "topic": "Reasons for classification",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "One benefit of giving each organism a scientific name is that:",
+          "options": ["It makes organisms taste better", "Scientists everywhere can identify exactly the same organism", "It changes the organism's colour", "It makes the organism larger"],
+          "answer": "1",
+          "explanation": "A shared scientific name means scientists in different countries and languages can all refer to exactly the same organism without confusion."
+        },
+        {
+          "topic": "Binomial naming",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In the two-part scientific name of an organism, what does the FIRST part tell you?",
+          "options": ["The colour of the organism", "The larger group (genus) it belongs to", "Where it was found", "How old it is"],
+          "answer": "1",
+          "explanation": "In the binomial system, the first part of the name is the genus, the larger group, and the second part identifies the particular species."
+        },
+        {
+          "topic": "Comparing kingdoms",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which feature is shared by organisms in BOTH the Plant and Animal kingdoms?",
+          "options": ["Making food by photosynthesis", "Being made of many cells", "Having no nucleus", "Being single-celled only"],
+          "answer": "1",
+          "explanation": "Both plants and animals are many-celled organisms. Only plants make food by photosynthesis, and both have cells with a true nucleus."
+        },
+        {
+          "topic": "Monera vs Protista",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the key difference between organisms in the kingdom Monera and those in the kingdom Protista?",
+          "options": ["Monera are green; Protista are not", "Monera have no true nucleus, while Protista have a true nucleus", "Monera are many-celled; Protista are many-celled", "Monera move; Protista never move"],
+          "answer": "1",
+          "explanation": "Both are mostly single-celled, but Monera (bacteria) have no true nucleus, whereas Protista do have a true nucleus."
+        },
+        {
+          "topic": "Placing an organism",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "You find a many-celled organism that does not move, has no chlorophyll, and feeds on dead leaves. To which kingdom does it most likely belong?",
+          "options": ["Plants", "Fungi", "Animals", "Monera"],
+          "answer": "1",
+          "explanation": "It cannot be a plant because it has no chlorophyll, and not an animal because it does not move. Feeding on dead matter without chlorophyll points to the Fungi kingdom."
+        },
+        {
+          "topic": "Habitat versus ecosystem",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the difference between a habitat and an ecosystem?",
+          "options": ["They mean exactly the same thing", "A habitat is the place an organism lives; an ecosystem includes all living things and their non-living surroundings", "A habitat has no living things", "An ecosystem is smaller than a single habitat"],
+          "answer": "1",
+          "explanation": "A habitat is the particular place where an organism lives, while an ecosystem is the wider system of all the living things in an area together with their non-living surroundings."
+        },
+        {
+          "topic": "Omnivore",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An animal that eats BOTH plants and other animals is called a/an:",
+          "options": ["Herbivore", "Omnivore", "Producer", "Decomposer"],
+          "answer": "1",
+          "explanation": "An omnivore eats both plants and animals. A herbivore eats only plants and a carnivore eats only other animals."
+        },
+        {
+          "topic": "Energy loss along a food chain",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why are there usually fewer carnivores at the end of a food chain than producers at the start?",
+          "options": ["Carnivores are always smaller", "Energy is lost at each step, so less is available higher up the chain", "Producers eat the carnivores", "Carnivores do not need energy"],
+          "answer": "1",
+          "explanation": "Energy is lost at each feeding stage, for example through respiration, so there is less energy available to support organisms higher up the chain, meaning fewer of them."
+        },
+        {
+          "topic": "Nutrient recycling",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "If all the decomposers in an ecosystem suddenly disappeared, what would most likely happen over time?",
+          "options": ["Dead matter would pile up and nutrients would not return to the soil", "Plants would grow faster than ever", "The Sun would stop providing energy", "Nothing would change"],
+          "answer": "0",
+          "explanation": "Decomposers break down dead organisms and recycle nutrients into the soil. Without them, dead matter would build up and the soil would lose the nutrients that plants need."
+        },
+        {
+          "topic": "Adaptation to environment",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Animals living in very cold mountain areas of Ethiopia often have thick fur. How does this adaptation help them survive?",
+          "options": ["It helps them make their own food", "It reduces heat loss and keeps the body warm", "It lets them breathe underwater", "It attracts more predators"],
+          "answer": "1",
+          "explanation": "Thick fur traps a layer of warm air and reduces heat loss from the body, helping the animal stay warm and survive in a cold environment."
+        }
+      ]
+    }
+  ]
+}

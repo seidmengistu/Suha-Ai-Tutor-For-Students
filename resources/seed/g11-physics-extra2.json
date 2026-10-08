@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "physics",
+      "questions": [
+        {
+          "topic": "SI prefixes",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A wavelength is written as 650 nm. Expressed in metres this is:",
+          "options": ["6.5 × 10⁻⁷ m", "6.5 × 10⁻⁹ m", "650 × 10⁻³ m", "6.5 × 10⁻⁵ m"],
+          "answer": "0",
+          "explanation": "The prefix nano- means ×10⁻⁹, so 650 nm = 650 × 10⁻⁹ m = 6.5 × 10⁻⁷ m."
+        },
+        {
+          "topic": "Scalars and vectors",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following is a scalar quantity?",
+          "options": ["Displacement", "Acceleration", "Speed", "Force"],
+          "answer": "2",
+          "explanation": "Speed has magnitude only, so it is a scalar. Displacement, acceleration and force all have direction and are vectors."
+        },
+        {
+          "topic": "Newton's third law",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A book rests on a table. The book pushes down on the table with 12 N. By Newton's third law, the table pushes on the book with a force of:",
+          "options": ["12 N upward", "6 N upward", "0 N", "24 N upward"],
+          "answer": "0",
+          "explanation": "Newton's third law gives an equal and opposite reaction, so the table pushes up on the book with 12 N."
+        },
+        {
+          "topic": "Power",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A machine does 900 J of work in 3.0 minutes. What is its power output?",
+          "options": ["5.0 W", "300 W", "2700 W", "0.2 W"],
+          "answer": "0",
+          "explanation": "Time must be in seconds: 3.0 min = 180 s. P = W/t = 900 / 180 = 5.0 W."
+        },
+        {
+          "topic": "Density",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A block has a mass of 240 g and a volume of 30 cm³. What is its density?",
+          "options": ["0.125 g/cm³", "8.0 g/cm³", "270 g/cm³", "7200 g/cm³"],
+          "answer": "1",
+          "explanation": "Density = mass / volume = 240 / 30 = 8.0 g/cm³."
+        },
+        {
+          "topic": "Combining uncertainties",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The area of a rectangle is found from length × width. If the length has 1.5 % uncertainty and the width has 2.5 % uncertainty, the percentage uncertainty in the area is:",
+          "options": ["1.0 %", "3.75 %", "4.0 %", "2.0 %"],
+          "answer": "2",
+          "explanation": "When quantities are multiplied, the percentage uncertainties add: 1.5 % + 2.5 % = 4.0 %."
+        },
+        {
+          "topic": "Vector subtraction",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A car's velocity changes from 8.0 m/s east to 6.0 m/s north. What is the magnitude of the change in velocity?",
+          "options": ["2.0 m/s", "7.0 m/s", "14 m/s", "10 m/s"],
+          "answer": "3",
+          "explanation": "Δv = v_final − v_initial. The components are (−8.0) east and (+6.0) north, so |Δv| = √(8.0² + 6.0²) = √100 = 10 m/s."
+        },
+        {
+          "topic": "Average velocity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A runner covers 100 m east in 20 s, then 100 m back west in 30 s. What is the magnitude of the average velocity for the whole trip?",
+          "options": ["0 m/s", "4.0 m/s", "5.0 m/s", "200 m/s"],
+          "answer": "0",
+          "explanation": "Average velocity = total displacement / total time. The runner returns to the start, so displacement = 0 and average velocity = 0 m/s (though average speed is 4.0 m/s)."
+        },
+        {
+          "topic": "Acceleration",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A train decelerates uniformly from 30 m/s to 12 m/s in 6.0 s. What is its acceleration?",
+          "options": ["−7.0 m/s²", "+3.0 m/s²", "−18 m/s²", "−3.0 m/s²"],
+          "answer": "3",
+          "explanation": "a = (v − u)/t = (12 − 30)/6.0 = −18/6.0 = −3.0 m/s² (negative means deceleration)."
+        },
+        {
+          "topic": "Impulse",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A constant force of 15 N acts on a trolley for 4.0 s. What impulse does the force deliver?",
+          "options": ["3.75 N·s", "19 N·s", "60 N·s", "11 N·s"],
+          "answer": "2",
+          "explanation": "Impulse = F × t = 15 × 4.0 = 60 N·s."
+        },
+        {
+          "topic": "Kinetic energy",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A 1200 kg car travels at 10 m/s. What is its kinetic energy?",
+          "options": ["6000 J", "12 000 J", "60 000 J", "120 000 J"],
+          "answer": "2",
+          "explanation": "KE = ½mv² = ½ × 1200 × 10² = ½ × 1200 × 100 = 60 000 J."
+        },
+        {
+          "topic": "Power and velocity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A car engine exerts a constant driving force of 800 N while the car moves at a steady 25 m/s. What power is the engine delivering?",
+          "options": ["32 W", "775 W", "20 000 W", "825 W"],
+          "answer": "2",
+          "explanation": "For a force moving at speed v, P = Fv = 800 × 25 = 20 000 W (20 kW)."
+        },
+        {
+          "topic": "Torque",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A force of 50 N is applied to a door at 0.90 m from the hinge, but at 30° to the door. What is the torque about the hinge? (sin 30° = 0.5)",
+          "options": ["22.5 N·m", "45 N·m", "39 N·m", "90 N·m"],
+          "answer": "0",
+          "explanation": "τ = rF sin θ = 0.90 × 50 × sin 30° = 45 × 0.5 = 22.5 N·m."
+        },
+        {
+          "topic": "Angular velocity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A fan blade completes 300 revolutions per minute. What is its angular velocity in rad/s? (Use 2π ≈ 6.28)",
+          "options": ["5.0 rad/s", "31.4 rad/s", "300 rad/s", "1885 rad/s"],
+          "answer": "1",
+          "explanation": "300 rev/min = 5.0 rev/s. ω = 5.0 × 2π = 5.0 × 6.28 = 31.4 rad/s."
+        },
+        {
+          "topic": "Strain",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A wire of original length 2.0 m stretches by 4.0 mm under load. What is the tensile strain?",
+          "options": ["2.0 × 10⁻³", "8.0 × 10⁻³", "2.0 × 10⁻²", "0.5"],
+          "answer": "0",
+          "explanation": "Strain = extension / original length = (4.0 × 10⁻³ m) / 2.0 m = 2.0 × 10⁻³ (a dimensionless ratio)."
+        },
+        {
+          "topic": "Thermal expansion",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A 50 m steel cable (α = 1.2 × 10⁻⁵ /°C) is heated by 40 °C. By how much does it lengthen?",
+          "options": ["0.012 m", "0.024 m", "0.060 m", "2.4 m"],
+          "answer": "1",
+          "explanation": "ΔL = αL₀ΔT = 1.2 × 10⁻⁵ × 50 × 40 = 0.024 m (2.4 cm)."
+        },
+        {
+          "topic": "Free fall",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A ball is dropped from rest and falls a distance of 45 m. Taking g = 10 m/s², how long does it take to reach the ground?",
+          "options": ["2.1 s", "3.0 s", "4.5 s", "9.0 s"],
+          "answer": "1",
+          "explanation": "Using s = ½gt²: 45 = ½ × 10 × t² → t² = 9.0 → t = 3.0 s."
+        },
+        {
+          "topic": "Projectile motion",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A ball is launched at 20 m/s at 30° above the horizontal. Taking g = 10 m/s², how long is it in the air before returning to launch height? (sin 30° = 0.5)",
+          "options": ["1.0 s", "2.0 s", "3.5 s", "4.0 s"],
+          "answer": "1",
+          "explanation": "Time of flight T = 2u sin θ / g = (2 × 20 × 0.5) / 10 = 20/10 = 2.0 s."
+        },
+        {
+          "topic": "Equations of motion",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A motorbike accelerates uniformly from 5.0 m/s to 23 m/s over a distance of 70 m. What is its acceleration?",
+          "options": ["1.8 m/s²", "3.6 m/s²", "0.26 m/s²", "7.2 m/s²"],
+          "answer": "1",
+          "explanation": "Using v² = u² + 2as: 23² = 5.0² + 2a(70) → 529 = 25 + 140a → 140a = 504 → a = 3.6 m/s²."
+        },
+        {
+          "topic": "Conservation of momentum",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A 60 kg skater throws a 4.0 kg ball at 15 m/s. Ignoring friction, what is the skater's recoil speed?",
+          "options": ["0.25 m/s", "3.75 m/s", "60 m/s", "1.0 m/s"],
+          "answer": "3",
+          "explanation": "Total momentum starts at zero: 0 = (4.0 × 15) + (60 × v) → 60v = −60 → v = −1.0 m/s, so the recoil speed is 1.0 m/s."
+        },
+        {
+          "topic": "Banked / circular motion",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A 0.30 kg stone on a string moves in a horizontal circle of radius 0.60 m, completing 2.0 revolutions per second. What is the centripetal force? (Use 2π ≈ 6.28)",
+          "options": ["28 N", "4.5 N", "0.72 N", "14 N"],
+          "answer": "0",
+          "explanation": "ω = 2.0 × 2π = 12.56 rad/s. F = mω²r = 0.30 × 12.56² × 0.60 = 0.30 × 157.8 × 0.60 ≈ 28 N."
+        },
+        {
+          "topic": "Work-energy theorem",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A 3.0 kg block moving at 4.0 m/s is brought to rest by friction over 2.0 m. What is the average friction force?",
+          "options": ["6.0 N", "24 N", "12 N", "48 N"],
+          "answer": "2",
+          "explanation": "Work-energy theorem: friction work = ΔKE. ½ × 3.0 × 4.0² = 24 J must be removed over 2.0 m, so F = 24 / 2.0 = 12 N."
+        },
+        {
+          "topic": "Conservation of energy",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A pendulum bob is released from a height of 0.45 m above its lowest point. Taking g = 10 m/s², what is its speed at the bottom (ignore air resistance)?",
+          "options": ["1.5 m/s", "4.5 m/s", "9.0 m/s", "3.0 m/s"],
+          "answer": "3",
+          "explanation": "mgh = ½mv² → v = √(2gh) = √(2 × 10 × 0.45) = √9.0 = 3.0 m/s. The mass cancels."
+        },
+        {
+          "topic": "Rotational dynamics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A net torque of 12 N·m acts on a wheel of moment of inertia 3.0 kg·m². What is its angular acceleration?",
+          "options": ["0.25 rad/s²", "9.0 rad/s²", "36 rad/s²", "4.0 rad/s²"],
+          "answer": "3",
+          "explanation": "The rotational form of Newton's second law is τ = Iα, so α = τ/I = 12 / 3.0 = 4.0 rad/s²."
+        },
+        {
+          "topic": "Rotational kinetic energy",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A solid disc of moment of inertia 0.50 kg·m² spins at 10 rad/s. What is its rotational kinetic energy?",
+          "options": ["2.5 J", "5.0 J", "25 J", "50 J"],
+          "answer": "2",
+          "explanation": "KE_rot = ½Iω² = ½ × 0.50 × 10² = ½ × 0.50 × 100 = 25 J."
+        },
+        {
+          "topic": "Young's modulus",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A wire under a stress of 4.0 × 10⁷ Pa shows a strain of 2.0 × 10⁻⁴. What is its Young's modulus?",
+          "options": ["8.0 × 10³ Pa", "2.0 × 10¹¹ Pa", "8.0 × 10¹¹ Pa", "5.0 × 10¹⁰ Pa"],
+          "answer": "1",
+          "explanation": "Young's modulus = stress / strain = (4.0 × 10⁷) / (2.0 × 10⁻⁴) = 2.0 × 10¹¹ Pa."
+        },
+        {
+          "topic": "Hydraulic press",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a hydraulic press, a 20 N force is applied to a small piston of area 5.0 cm². The large piston has area 40 cm². What output force can it produce? (Pascal's principle)",
+          "options": ["2.5 N", "55 N", "8.0 N", "160 N"],
+          "answer": "3",
+          "explanation": "Pressure is equal: F₁/A₁ = F₂/A₂, so F₂ = F₁ × (A₂/A₁) = 20 × (40/5.0) = 20 × 8.0 = 160 N."
+        },
+        {
+          "topic": "Continuity of flow",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Water flows at 2.0 m/s through a pipe of cross-sectional area 0.060 m². The pipe narrows to 0.020 m². What is the new flow speed?",
+          "options": ["0.67 m/s", "2.0 m/s", "6.0 m/s", "0.060 m/s"],
+          "answer": "2",
+          "explanation": "Continuity: A₁v₁ = A₂v₂, so v₂ = (A₁v₁)/A₂ = (0.060 × 2.0)/0.020 = 0.12/0.020 = 6.0 m/s."
+        },
+        {
+          "topic": "Equilibrium and tension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A 10 kg lamp hangs from two ropes that each make 30° with the horizontal ceiling. Taking g = 10 m/s² and sin 30° = 0.5, what is the tension in each rope?",
+          "options": ["100 N", "50 N", "200 N", "87 N"],
+          "answer": "0",
+          "explanation": "The two vertical components support the weight: 2T sin 30° = mg → 2T(0.5) = 100 → T = 100 N."
+        },
+        {
+          "topic": "Significant figures",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A rectangle measures 2.5 m by 3.42 m. Expressed to the correct number of significant figures, its area is:",
+          "options": ["8.55 m²", "8.6 m²", "8.550 m²", "9 m²"],
+          "answer": "1",
+          "explanation": "2.5 m has 2 significant figures (the least precise value), so the answer 8.55 m² must be rounded to 2 s.f., giving 8.6 m²."
+        },
+        {
+          "topic": "Projectile motion",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A ball is kicked horizontally off a 20 m high platform at 9.0 m/s. Taking g = 10 m/s², how far from the base does it land?",
+          "options": ["9.0 m", "20 m", "36 m", "18 m"],
+          "answer": "3",
+          "explanation": "Time to fall: 20 = ½ × 10 × t² → t² = 4.0 → t = 2.0 s. Horizontal range = u × t = 9.0 × 2.0 = 18 m."
+        },
+        {
+          "topic": "Elastic collision",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A 2.0 kg ball at 6.0 m/s strikes a stationary 4.0 kg ball head-on in a perfectly inelastic collision. What fraction of the original kinetic energy is lost?",
+          "options": ["0", "1/3", "2/3", "1"],
+          "answer": "2",
+          "explanation": "Common velocity v = (2.0 × 6.0)/(2.0 + 4.0) = 2.0 m/s. KE before = ½ × 2.0 × 6.0² = 36 J; KE after = ½ × 6.0 × 2.0² = 12 J. Lost = 24/36 = 2/3."
+        },
+        {
+          "topic": "Conservation of energy with friction",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A 1.0 kg block slides from rest down a frictionless slope through a vertical drop of 5.0 m, then crosses a rough flat surface and stops after losing all its kinetic energy to friction. Taking g = 10 m/s², how much heat is generated by friction?",
+          "options": ["5.0 J", "10 J", "50 J", "100 J"],
+          "answer": "2",
+          "explanation": "All the gravitational PE becomes KE, then all KE becomes heat: Q = mgh = 1.0 × 10 × 5.0 = 50 J."
+        },
+        {
+          "topic": "Principle of moments",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A uniform 4.0 m plank weighing 200 N rests on a pivot 1.0 m from its left end. What downward force at the left end is needed to keep it balanced?",
+          "options": ["100 N", "300 N", "400 N", "200 N"],
+          "answer": "3",
+          "explanation": "The weight acts at the centre, 2.0 m from the left end, i.e. 1.0 m right of the pivot. Taking moments about the pivot: F × 1.0 = 200 × 1.0, so F = 200 N."
+        },
+        {
+          "topic": "Conservation of angular momentum",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A skater spinning at 2.0 rad/s with moment of inertia 6.0 kg·m² pulls in her arms, reducing her moment of inertia to 1.5 kg·m². What is her new angular speed?",
+          "options": ["0.5 rad/s", "2.0 rad/s", "8.0 rad/s", "12 rad/s"],
+          "answer": "2",
+          "explanation": "Angular momentum is conserved: I₁ω₁ = I₂ω₂ → 6.0 × 2.0 = 1.5 × ω₂ → ω₂ = 12/1.5 = 8.0 rad/s."
+        },
+        {
+          "topic": "Buoyancy and floating",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A block of wood (density 600 kg/m³) floats in water (density 1000 kg/m³). What fraction of its volume is submerged?",
+          "options": ["0.40", "0.60", "1.0", "1.67"],
+          "answer": "1",
+          "explanation": "A floating object sinks until the weight of displaced water equals its weight: fraction submerged = ρ_object / ρ_fluid = 600/1000 = 0.60."
+        }
+      ]
+    }
+  ]
+}

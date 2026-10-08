@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "mathematics",
+      "questions": [
+        {
+          "topic": "Degree of a polynomial",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the degree of the polynomial $p(x) = 4x^2 - x^7 + 9x + 3$?",
+          "options": ["2", "3", "7", "9"],
+          "answer": "2",
+          "explanation": "The degree is the highest power of $x$ present, which is $x^7$, so the degree is $7$."
+        },
+        {
+          "topic": "Laws of exponents",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Simplify $y^3 \\cdot y^5$.",
+          "options": ["$y^8$", "$y^{15}$", "$y^2$", "$y^{35}$"],
+          "answer": "0",
+          "explanation": "Multiplying powers with the same base means adding exponents: $3 + 5 = 8$, so $y^8$."
+        },
+        {
+          "topic": "Absolute value inequalities",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the solution of $|x| < 6$?",
+          "options": ["$x < 6$", "$-6 < x < 6$", "$x < -6 \\text{ or } x > 6$", "$x > 6$"],
+          "answer": "1",
+          "explanation": "$|x| < 6$ means $x$ is within 6 units of zero, giving the single interval $-6 < x < 6$."
+        },
+        {
+          "topic": "Midpoint",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the midpoint of the points $(4, 2)$ and $(10, 8)$?",
+          "options": ["$(14, 10)$", "$(6, 6)$", "$(7, 5)$", "$(5, 7)$"],
+          "answer": "2",
+          "explanation": "Average each coordinate: $\\left(\\frac{4+10}{2}, \\frac{2+8}{2}\\right) = (7, 5)$."
+        },
+        {
+          "topic": "Basic trigonometric ratios",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In a right triangle, the side opposite angle $\\theta$ is 8 and the hypotenuse is 17. What is $\\sin\\theta$?",
+          "options": ["$\\frac{8}{17}$", "$\\frac{17}{8}$", "$\\frac{15}{17}$", "$\\frac{8}{15}$"],
+          "answer": "0",
+          "explanation": "$\\sin\\theta = \\dfrac{\\text{opposite}}{\\text{hypotenuse}} = \\dfrac{8}{17}$."
+        },
+        {
+          "topic": "Triangle angle sum",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Two angles of a triangle measure $35^\\circ$ and $85^\\circ$. What is the third angle?",
+          "options": ["$50^\\circ$", "$60^\\circ$", "$70^\\circ$", "$120^\\circ$"],
+          "answer": "1",
+          "explanation": "The angles sum to $180^\\circ$, so the third is $180^\\circ - 35^\\circ - 85^\\circ = 60^\\circ$."
+        },
+        {
+          "topic": "Subtraction of polynomials",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If $f(x) = 2x^2 + 3x - 1$ and $g(x) = 2x^2 - 3x + 4$, find $f(x) - g(x)$.",
+          "options": ["$6x - 5$", "$6x + 3$", "$4x^2 - 5$", "$-6x + 5$"],
+          "answer": "0",
+          "explanation": "Subtract term by term: $(2x^2-2x^2) + (3x-(-3x)) + (-1-4) = 6x - 5$."
+        },
+        {
+          "topic": "Meaning of logarithm",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the value of $\\log_3 81$?",
+          "options": ["3", "4", "9", "27"],
+          "answer": "1",
+          "explanation": "$\\log_3 81$ asks to what power 3 must be raised to get 81. Since $3^4 = 81$, the answer is 4."
+        },
+        {
+          "topic": "Solving exponential equations",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Solve $2^{x+2} = 32$.",
+          "options": ["$x = 2$", "$x = 3$", "$x = 4$", "$x = 5$"],
+          "answer": "1",
+          "explanation": "Since $32 = 2^5$, we have $2^{x+2} = 2^5$, so $x + 2 = 5$, giving $x = 3$."
+        },
+        {
+          "topic": "Quadratic inequalities",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Solve $(x - 1)(x - 5) < 0$.",
+          "options": ["$x < 1 \\text{ or } x > 5$", "$1 < x < 5$", "$x < 1$", "$x > 5$"],
+          "answer": "1",
+          "explanation": "The product is negative between the roots. Testing $x = 3$ gives $(2)(-2) = -4 < 0$, so the solution is $1 < x < 5$."
+        },
+        {
+          "topic": "Slope of a line",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Find the slope of the line passing through $(2, 3)$ and $(6, 11)$.",
+          "options": ["$\\frac{1}{2}$", "2", "4", "8"],
+          "answer": "1",
+          "explanation": "$m = \\dfrac{11 - 3}{6 - 2} = \\dfrac{8}{4} = 2$."
+        },
+        {
+          "topic": "Trigonometric identities",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If $\\cos\\theta = \\frac{3}{5}$, what is $\\sin^2\\theta$?",
+          "options": ["$\\frac{9}{25}$", "$\\frac{16}{25}$", "$\\frac{4}{5}$", "$\\frac{3}{5}$"],
+          "answer": "1",
+          "explanation": "Using $\\sin^2\\theta + \\cos^2\\theta = 1$: $\\sin^2\\theta = 1 - \\frac{9}{25} = \\frac{16}{25}$."
+        },
+        {
+          "topic": "Polygon angles",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the sum of the interior angles of an octagon (8 sides)?",
+          "options": ["$900^\\circ$", "$1080^\\circ$", "$1260^\\circ$", "$1440^\\circ$"],
+          "answer": "1",
+          "explanation": "$(n - 2) \\times 180^\\circ = (8 - 2) \\times 180^\\circ = 1080^\\circ$."
+        },
+        {
+          "topic": "Cylinder volume",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Find the volume of a cylinder with radius 7 cm and height 4 cm (use $\\pi \\approx \\frac{22}{7}$).",
+          "options": ["$616 \\text{ cm}^3$", "$176 \\text{ cm}^3$", "$308 \\text{ cm}^3$", "$1232 \\text{ cm}^3$"],
+          "answer": "0",
+          "explanation": "$V = \\pi r^2 h = \\frac{22}{7} \\times 49 \\times 4 = 22 \\times 7 \\times 4 = 616 \\text{ cm}^3$."
+        },
+        {
+          "topic": "Remainder theorem",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the remainder when $x^3 + 2x^2 - 5x + 1$ is divided by $x - 2$?",
+          "options": ["1", "7", "11", "$-1$"],
+          "answer": "1",
+          "explanation": "By the remainder theorem, substitute $x = 2$: $2^3 + 2(2^2) - 5(2) + 1 = 8 + 8 - 10 + 1 = 7$."
+        },
+        {
+          "topic": "Laws of logarithms",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which expression is equal to $\\log(x^3)$?",
+          "options": ["$3 + \\log x$", "$3 \\log x$", "$(\\log x)^3$", "$\\log 3 \\cdot \\log x$"],
+          "answer": "1",
+          "explanation": "The power law lets the exponent come down to the front: $\\log(x^3) = 3 \\log x$."
+        },
+        {
+          "topic": "Perpendicular lines",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the slope of a line perpendicular to a line with slope $\\frac{4}{5}$?",
+          "options": ["$\\frac{4}{5}$", "$-\\frac{4}{5}$", "$\\frac{5}{4}$", "$-\\frac{5}{4}$"],
+          "answer": "3",
+          "explanation": "Perpendicular slopes multiply to $-1$, so the slope is the negative reciprocal: $-\\frac{5}{4}$."
+        },
+        {
+          "topic": "Quadratic inequalities",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Solve $x^2 - 7x + 12 \\geq 0$.",
+          "options": ["$3 \\leq x \\leq 4$", "$x \\leq 3 \\text{ or } x \\geq 4$", "$x \\leq 4$ only", "$3 < x < 4$"],
+          "answer": "1",
+          "explanation": "Factor: $x^2 - 7x + 12 = (x - 3)(x - 4)$, roots 3 and 4. The upward parabola is $\\geq 0$ outside the roots: $x \\leq 3$ or $x \\geq 4$."
+        },
+        {
+          "topic": "Cube volume",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A cube has a volume of $64 \\text{ cm}^3$. What is the length of one edge?",
+          "options": ["4 cm", "8 cm", "16 cm", "6 cm"],
+          "answer": "0",
+          "explanation": "Volume of a cube $= \\text{edge}^3$. Since $4^3 = 64$, the edge is 4 cm."
+        },
+        {
+          "topic": "Pythagorean identity",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "For any angle $\\theta$, the value of $\\sin^2\\theta + \\cos^2\\theta$ is:",
+          "options": ["0", "1", "$2\\sin\\theta\\cos\\theta$", "depends on $\\theta$"],
+          "answer": "1",
+          "explanation": "The Pythagorean identity states $\\sin^2\\theta + \\cos^2\\theta = 1$ for every angle $\\theta$."
+        },
+        {
+          "topic": "Equation of a line",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which is the equation of the line with slope 3 passing through the point $(2, 5)$?",
+          "options": ["$y = 3x + 5$", "$y = 3x - 1$", "$y = 3x + 1$", "$y = 2x + 3$"],
+          "answer": "1",
+          "explanation": "Using $y - y_1 = m(x - x_1)$: $y - 5 = 3(x - 2)$, so $y = 3x - 6 + 5 = 3x - 1$."
+        },
+        {
+          "topic": "Regular polygons",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Each exterior angle of a regular polygon is $40^\\circ$. How many sides does it have?",
+          "options": ["8", "9", "10", "12"],
+          "answer": "1",
+          "explanation": "Number of sides $= \\dfrac{360^\\circ}{\\text{exterior angle}} = \\dfrac{360^\\circ}{40^\\circ} = 9$."
+        },
+        {
+          "topic": "Cone volume",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Find the volume of a cone with radius 6 cm and height 7 cm (use $\\pi \\approx \\frac{22}{7}$).",
+          "options": ["$132 \\text{ cm}^3$", "$264 \\text{ cm}^3$", "$792 \\text{ cm}^3$", "$88 \\text{ cm}^3$"],
+          "answer": "1",
+          "explanation": "$V = \\frac{1}{3}\\pi r^2 h = \\frac{1}{3} \\times \\frac{22}{7} \\times 36 \\times 7 = \\frac{1}{3} \\times 22 \\times 36 = \\frac{792}{3} = 264 \\text{ cm}^3$."
+        },
+        {
+          "topic": "Exponential growth",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A colony of bacteria triples every hour, starting with 200 cells. Which expression gives the number of cells after $t$ hours?",
+          "options": ["$200 + 3t$", "$200 \\cdot 3^t$", "$200^t$", "$3 \\cdot 200t$"],
+          "answer": "1",
+          "explanation": "Tripling each hour is exponential growth: multiply by 3 every hour, giving $200 \\cdot 3^t$."
+        }
+      ]
+    }
+  ]
+}

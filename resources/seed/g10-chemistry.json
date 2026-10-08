@@ -1,0 +1,371 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "chemistry",
+      "chapters": [
+        {
+          "title": "Introduction to Organic Chemistry",
+          "description": "Carbon compounds, hydrocarbons (alkanes, alkenes, alkynes), benzene, alcohols, isomerism and the uses of organic compounds.",
+          "lessons": [
+            {
+              "title": "Organic Chemistry, Hydrocarbons and Functional Groups",
+              "summary": "Discover why carbon forms millions of compounds, learn to name and write formulas for alkanes, alkenes and alkynes, and meet the functional groups that define alcohols, acids and more.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "What is organic chemistry?",
+                  "body": "Look around you. The **kerosene** in a lamp, the **ethanol** in a thermometer, the **sugar** in your tea and the **rubber** in a tyre are all built mainly from one element: **carbon**.\n\n**Organic chemistry** is the branch of chemistry that studies **carbon compounds**. Long ago people believed organic compounds could only be made by living things through a mysterious *life force*. In **1828** the German chemist **Friedrich Wöhler** made **urea** (found in urine) in a test tube from a simple mineral salt. This proved carbon compounds can be made in the laboratory and destroyed the *life force* idea.\n\nWhy are there **millions** of carbon compounds but only thousands of all the others combined? The secret is **catenation** — carbon's special ability to bond to other carbon atoms forming long chains and rings."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Define **organic chemistry** and **catenation**.\n- Define a **hydrocarbon** and tell **saturated** from **unsaturated** hydrocarbons.\n- Write the general formulas of **alkanes** (CnH2n+2), **alkenes** (CnH2n) and **alkynes** (CnH2n-2).\n- Name straight-chain and simple branched alkanes using **IUPAC** rules.\n- Explain **isomerism** and draw isomers of butane.\n- Identify the main **functional groups** (alcohol, aldehyde, ketone, acid, ester)."
+                },
+                {
+                  "type": "theory",
+                  "title": "Hydrocarbons, homologous series and functional groups",
+                  "body": "A **hydrocarbon** is an organic compound made of **only carbon and hydrogen**. Hydrocarbons split into two groups by the kind of carbon-to-carbon bond they contain.\n\n- **Saturated hydrocarbons** have only **single** C–C bonds. Every carbon holds as many hydrogen atoms as possible — it is *saturated* (full). These are the **alkanes**.\n- **Unsaturated hydrocarbons** have at least one **double** (C=C) or **triple** (C≡C) bond. These are the **alkenes** and **alkynes**.\n\n**Why does carbon behave this way?** A carbon atom has **4 valence electrons**, so it forms **4 covalent bonds**. This lets carbon link to several other carbons and to hydrogen at the same time, giving endless chains and rings.\n\n**General formulas** (where n = number of carbons):\n\n| Family | Bond type | General formula | Example |\n|---|---|---|---|\n| Alkane | single C–C | **CnH2n+2** | CH4, C2H6 |\n| Alkene | one C=C | **CnH2n** | C2H4 |\n| Alkyne | one C≡C | **CnH2n-2** | C2H2 |\n\nA **homologous series** is a family of compounds where each member differs from the next by **–CH2–**. Members share the **same general formula** and similar chemical properties. The first four alkanes (methane, ethane, propane, butane) are **gases**; the next ones are **liquids**, and large ones are **solids**, because **intermolecular (Van der Waals) forces** grow stronger as the molecules get bigger.\n\nA **functional group** is the reactive part of a molecule that decides its chemical behaviour. The same functional group always behaves in a similar way:\n\n| Family | Functional group | Example |\n|---|---|---|\n| Alcohol | –OH | ethanol, C2H5OH |\n| Aldehyde | –CHO | ethanal |\n| Ketone | –CO– | propanone |\n| Carboxylic acid | –COOH | ethanoic acid |\n| Ester | –COO– | ethyl ethanoate |\n\n**Isomerism** is when two or more compounds share the **same molecular formula** but have **different structures** (different arrangement of atoms), and so different properties. Compounds with 4 or more carbons can have isomers."
+                },
+                {
+                  "type": "visual",
+                  "title": "Combustion of methane",
+                  "body": "Methane (natural gas / biogas) burns in oxygen to give carbon dioxide and water, releasing heat. This balanced equation is the fuel reaction used in Ethiopian biogas stoves made from cow dung.",
+                  "visual": {"kind": "reaction", "data": {"equation": "CH4 + 2O2 -> CO2 + 2H2O"}}
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: formula and naming",
+                  "body": "**Question:** (a) Write the molecular formula of the alkane with 5 carbon atoms. (b) Name the straight-chain alkane CH3–CH2–CH2–CH3.\n\n**Step 1 — Use the alkane general formula for (a).** Alkanes are **CnH2n+2**. Here n = 5.\nHydrogen atoms = (2 × 5) + 2 = **12**.\nSo the formula is **C5H12** (pentane).\n\n**Step 2 — Count the carbons for (b).** CH3–CH2–CH2–CH3 has **4 carbons** in one continuous chain.\n\n**Step 3 — Choose the prefix.** Four carbons → prefix **but-**.\n\n**Step 4 — Add the alkane suffix.** All alkanes end in **-ane**.\nprefix + suffix = but + ane = **butane**.\n\n**Answer:** (a) C5H12, (b) butane."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Wrong general formula.** Alkane = CnH2n+2, alkene = CnH2n, alkyne = CnH2n-2. Mixing the +2 and -2 is the top error.\n- **Calling every carbon compound organic.** Oxides of carbon (CO, CO2), carbonates and cyanides are counted as **inorganic**.\n- **Thinking isomers are the same compound.** They share a molecular formula but are **different substances** with different boiling points.\n- **Numbering the chain from the wrong end.** Always number so the branch gets the **lowest** number.\n- **Forgetting hydrogen.** A carbon in a chain still needs enough H to make **4 bonds** total."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- First ten carbon prefixes: **\"Met Eth Prop But, Pent Hex Hept, Oct Non Dec\"** → 1,2,3,4,5,6,7,8,9,10. A common chant is **\"Monkeys Eat Peanut Butter, Period\"** for Meth-Eth-Prop-But-Pent.\n- Endings tell the bond: **-ane = single, -ene = double (E for doublE), -yne = triple (Y... \"why three?\")**.\n- **Saturated = full of hydrogen** (like a wet sponge that can hold no more). Unsaturated = room for more.\n- General formula trick: alkane has the **most** H (+2), alkyne the **least** (-2); the alkene sits in the middle (2n)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** Write the molecular formula of the alkane with 7 carbon atoms.\n**Q2.** Name the alkane CH3–CH2–CH3.\n**Q3.** How many structural isomers does butane (C4H10) have?\n\n**Answers:**\n1. CnH2n+2 with n = 7 → H = (2×7)+2 = 16, so **C7H16** (heptane).\n2. Three carbons → prefix **prop-**, suffix **-ane** → **propane**.\n3. **Two** — n-butane (straight chain) and isobutane (2-methylpropane, branched)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Organic chemistry** is the study of **carbon compounds**; Wöhler's synthesis of urea (1828) ended the *life force* theory.\n- **Catenation** (carbon bonding to carbon) explains the millions of organic compounds.\n- **Hydrocarbons** contain only C and H: **saturated** (alkanes, single bonds) or **unsaturated** (alkenes/alkynes, multiple bonds).\n- General formulas: alkane **CnH2n+2**, alkene **CnH2n**, alkyne **CnH2n-2**.\n- A **homologous series** differs by –CH2– and shares a general formula.\n- A **functional group** controls a compound's chemistry (–OH, –CHO, –CO–, –COOH, –COO–).\n- **Isomers** share a molecular formula but differ in structure and properties."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Organic chemistry", "definition": "The branch of chemistry that studies compounds of carbon."},
+                    {"term": "Catenation", "definition": "The ability of carbon atoms to bond to one another forming chains and rings."},
+                    {"term": "Hydrocarbon", "definition": "An organic compound made of only carbon and hydrogen."},
+                    {"term": "Saturated hydrocarbon", "definition": "A hydrocarbon with only single carbon-carbon bonds (an alkane)."},
+                    {"term": "Unsaturated hydrocarbon", "definition": "A hydrocarbon with one or more double or triple carbon-carbon bonds."},
+                    {"term": "Alkane", "definition": "A saturated hydrocarbon with the general formula CnH2n+2."},
+                    {"term": "Homologous series", "definition": "A family of compounds whose members differ by a –CH2– unit and share a general formula."},
+                    {"term": "Functional group", "definition": "The reactive part of a molecule that determines its chemical properties."},
+                    {"term": "Isomerism", "definition": "The existence of compounds with the same molecular formula but different structures."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "General formula of an alkane?", "back": "CnH2n+2"},
+                {"front": "What is catenation?", "back": "Carbon's ability to bond to other carbon atoms forming chains and rings."},
+                {"front": "What is a hydrocarbon?", "back": "An organic compound made of only carbon and hydrogen."},
+                {"front": "Functional group of an alcohol?", "back": "The hydroxyl group, –OH."},
+                {"front": "Who disproved the 'life force' theory and how?", "back": "Friedrich Wöhler, by synthesising urea in 1828."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "History of organic chemistry", "difficulty": "beginner", "type": "mcq", "prompt": "Which compound did Friedrich Wöhler synthesise in 1828, disproving the 'life force' theory?", "options": ["Methane", "Urea", "Ethanol", "Benzene"], "answer": "1", "explanation": "Wöhler made urea from an inorganic salt, proving organic compounds can be made in the laboratory."},
+            {"topic": "Hydrocarbons", "difficulty": "beginner", "type": "mcq", "prompt": "A hydrocarbon is a compound made of only which two elements?", "options": ["Carbon and oxygen", "Carbon and nitrogen", "Carbon and hydrogen", "Hydrogen and oxygen"], "answer": "2", "explanation": "By definition a hydrocarbon contains only carbon and hydrogen atoms."},
+            {"topic": "General formulas", "difficulty": "medium", "type": "mcq", "prompt": "What is the molecular formula of the alkane containing 4 carbon atoms?", "options": ["C4H8", "C4H10", "C4H6", "C4H4"], "answer": "1", "explanation": "Alkane formula is CnH2n+2; with n = 4, H = (2×4)+2 = 10, giving C4H10."},
+            {"topic": "Functional groups", "difficulty": "medium", "type": "mcq", "prompt": "Which functional group is found in carboxylic acids?", "options": ["–OH", "–CHO", "–COOH", "–CO–"], "answer": "2", "explanation": "Carboxylic acids contain the carboxyl group –COOH; –OH is an alcohol, –CHO an aldehyde, –CO– a ketone."},
+            {"topic": "Isomerism", "difficulty": "difficult", "type": "mcq", "prompt": "Which statement about isomers is correct?", "options": ["They have different molecular formulas", "They are the same compound", "They have the same molecular formula but different structures", "They always have identical boiling points"], "answer": "2", "explanation": "Isomers share a molecular formula but differ in the arrangement of atoms, so they are different compounds with different properties."},
+            {"topic": "Unsaturated hydrocarbons", "difficulty": "exam", "type": "mcq", "prompt": "An unknown hydrocarbon has the formula C3H4. To which family does it belong?", "options": ["Alkane", "Alkene", "Alkyne", "Aromatic"], "answer": "2", "explanation": "CnH2n-2 with n = 3 gives C3H4, the alkyne general formula (it contains a triple bond)."}
+          ]
+        },
+        {
+          "title": "Important Inorganic Compounds",
+          "description": "The properties, naming and reactions of oxides, acids, bases and salts, including neutralisation and the pH scale.",
+          "lessons": [
+            {
+              "title": "Oxides, Acids, Bases and Salts",
+              "summary": "Learn how oxides form, what makes a substance an acid or a base, how to read the pH scale, and how acids and bases neutralise each other to make salts and water.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Acids and bases all around us",
+                  "body": "The sour taste of a **lemon** comes from an **acid**. The slippery feel of **soap** comes from a **base**. The **table salt** on your *injera* is made when an acid and a base react.\n\nThese substances belong to the most important families of **inorganic compounds**: **oxides, acids, bases and salts**. Understanding them helps explain rusting iron, sour milk, soda ash from Ethiopia's Lake Abijata, and the antacid tablets people take for stomach pain.\n\nIn this lesson we learn what each family is, how to recognise it, and how acids and bases react together in a key reaction called **neutralisation**."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Define an **oxide** and classify oxides as **acidic**, **basic**, **amphoteric** or **neutral**.\n- Define **acids** and **bases** (Arrhenius idea: H+ and OH- ions).\n- List the general **properties** of acids and bases.\n- Read the **pH scale** and use **indicators** like litmus.\n- Write and balance a **neutralisation** reaction and name the **salt** formed."
+                },
+                {
+                  "type": "theory",
+                  "title": "Oxides, acids, bases, pH and salts",
+                  "body": "An **oxide** is a compound of an element with **oxygen**. Oxides are grouped by how they behave with water and with acids/bases:\n\n- **Basic oxides** are metal oxides (e.g. CaO, Na2O) that react with acids to give salt + water.\n- **Acidic oxides** are non-metal oxides (e.g. CO2, SO2) that react with bases.\n- **Amphoteric oxides** (e.g. Al2O3, ZnO) react with **both** acids and bases.\n- **Neutral oxides** (e.g. CO, H2O) react with neither.\n\nAn **acid** is a substance that releases **hydrogen ions (H+)** in water. A **base** is a substance that releases **hydroxide ions (OH-)** in water; a base that dissolves in water is called an **alkali**.\n\n**Why do they behave so differently?** It all comes down to ions. Extra **H+** makes a solution acidic; extra **OH-** makes it basic. When they meet, H+ and OH- join to form water (H2O), cancelling each other.\n\n**Properties:**\n\n| Acids | Bases |\n|---|---|\n| Sour taste | Bitter taste, slippery feel |\n| Turn blue litmus **red** | Turn red litmus **blue** |\n| pH **less than 7** | pH **greater than 7** |\n| React with metals to give H2 gas | React with acids to give salt + water |\n\nThe **pH scale** runs from **0 to 14** and measures how acidic or basic a solution is:\n\n- pH **< 7** → acidic (lower = stronger acid)\n- pH **= 7** → neutral (pure water)\n- pH **> 7** → basic/alkaline (higher = stronger base)\n\nAn **indicator** is a dye that changes colour with pH (for example **litmus**, or universal indicator).\n\n**Neutralisation** is the reaction between an acid and a base to form a **salt + water**:\n\n**acid + base → salt + water**\n\nA **salt** is the ionic compound formed when the H+ of an acid is replaced by a metal ion. For example, hydrochloric acid + sodium hydroxide gives common salt (sodium chloride) and water."
+                },
+                {
+                  "type": "visual",
+                  "title": "Neutralisation reaction",
+                  "body": "Hydrochloric acid reacts with sodium hydroxide. The acidic H+ and basic OH- combine to form water, while the sodium and chloride ions form the salt sodium chloride. This is the classic acid + base → salt + water pattern.",
+                  "visual": {"kind": "reaction", "data": {"equation": "HCl + NaOH -> NaCl + H2O"}}
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: neutralisation and naming the salt",
+                  "body": "**Question:** Sulphuric acid (H2SO4) reacts with potassium hydroxide (KOH). Write the balanced equation and name the salt.\n\n**Step 1 — Recall the pattern.** acid + base → salt + water.\n\n**Step 2 — Identify the salt's parts.** The metal comes from the base: **potassium (K+)**. The rest of the acid (after losing H+) is the **sulphate ion (SO4^2-)**. So the salt is **potassium sulphate, K2SO4**.\n\n**Step 3 — Write the skeleton equation.**\nH2SO4 + KOH → K2SO4 + H2O\n\n**Step 4 — Balance it.** H2SO4 has 2 hydrogens to neutralise, so we need **2 KOH**. That gives 2 water molecules.\nH2SO4 + **2**KOH → K2SO4 + **2**H2O\n\n**Step 5 — Check.** K: 2 = 2 ✓  S: 1 = 1 ✓  O: 4+2 = 6 = 4+2 ✓  H: 2+2 = 4 = 4 ✓\n\n**Answer:** H2SO4 + 2KOH → K2SO4 + 2H2O. The salt is **potassium sulphate**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Litmus colours reversed.** Acids turn **blue litmus red**; bases turn **red litmus blue**. Remember: **A**cid → **R**ed.\n- **Thinking high pH means strong acid.** It is the opposite — **low** pH is acidic, **high** pH is basic.\n- **Forgetting water in neutralisation.** The products are **salt AND water**, not salt alone.\n- **Not balancing the equation.** A diprotic acid like H2SO4 needs **two** moles of base.\n- **Confusing base and alkali.** All alkalis are bases, but only **water-soluble** bases are alkalis."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- **\"Acid → Add H\"**: acids give H+. **Bases → OH** (bases give OH-).\n- Litmus: **\"Acid makes blue go Red\"** (A and... think of a red warning).\n- pH: **Low = sour (acid), High = soap (base), 7 = pure water**.\n- Neutralisation word equation rhyme: **\"Acid plus base, salt and water take their place.\"**\n- **Amphoteric = both** (\"amphi\" means both, like an amphibian living in water and on land)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** A solution has pH 3. Is it acidic, neutral or basic?\n**Q2.** Name the salt formed when HCl reacts with NaOH.\n**Q3.** Classify the oxide CO2 as acidic, basic or neutral.\n\n**Answers:**\n1. pH 3 is **less than 7**, so the solution is **acidic**.\n2. The metal Na+ with the chloride from HCl gives **sodium chloride (NaCl)**.\n3. CO2 is a **non-metal oxide**, so it is an **acidic oxide**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- An **oxide** is an element combined with oxygen: **basic** (metal), **acidic** (non-metal), **amphoteric** (both) or **neutral**.\n- An **acid** releases **H+** in water; a **base** releases **OH-**; a soluble base is an **alkali**.\n- Acids: sour, turn blue litmus red, pH < 7. Bases: bitter/slippery, turn red litmus blue, pH > 7.\n- The **pH scale** runs 0–14: < 7 acidic, 7 neutral, > 7 basic.\n- **Neutralisation**: acid + base → **salt + water**.\n- A **salt** forms when the metal ion of a base replaces the H+ of an acid."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Oxide", "definition": "A compound formed between an element and oxygen."},
+                    {"term": "Acid", "definition": "A substance that releases hydrogen ions (H+) when dissolved in water."},
+                    {"term": "Base", "definition": "A substance that releases hydroxide ions (OH-) or neutralises an acid."},
+                    {"term": "Alkali", "definition": "A base that dissolves in water."},
+                    {"term": "Amphoteric oxide", "definition": "An oxide that reacts with both acids and bases (e.g. Al2O3, ZnO)."},
+                    {"term": "pH scale", "definition": "A scale from 0 to 14 that measures how acidic or basic a solution is."},
+                    {"term": "Indicator", "definition": "A dye that changes colour depending on the pH of a solution."},
+                    {"term": "Neutralisation", "definition": "The reaction of an acid with a base to form a salt and water."},
+                    {"term": "Salt", "definition": "An ionic compound formed when the hydrogen of an acid is replaced by a metal ion."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "Acid + base → ?", "back": "Salt + water (neutralisation)."},
+                {"front": "What ion makes a solution acidic?", "back": "The hydrogen ion, H+."},
+                {"front": "What does an acid do to blue litmus?", "back": "Turns it red."},
+                {"front": "pH of a neutral solution?", "back": "7 (pure water)."},
+                {"front": "What is an amphoteric oxide?", "back": "An oxide that reacts with both acids and bases, e.g. Al2O3 or ZnO."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Acids and bases", "difficulty": "beginner", "type": "mcq", "prompt": "Which ion is released when an acid dissolves in water?", "options": ["OH-", "H+", "Na+", "Cl-"], "answer": "1", "explanation": "Acids release hydrogen ions (H+) in water; bases release hydroxide ions (OH-)."},
+            {"topic": "Indicators", "difficulty": "beginner", "type": "mcq", "prompt": "What colour does an acid turn blue litmus paper?", "options": ["Green", "Red", "Blue", "Yellow"], "answer": "1", "explanation": "Acids turn blue litmus red. Bases turn red litmus blue."},
+            {"topic": "pH scale", "difficulty": "medium", "type": "mcq", "prompt": "A solution has a pH of 11. The solution is:", "options": ["Strongly acidic", "Neutral", "Basic (alkaline)", "Exactly the same as pure water"], "answer": "2", "explanation": "A pH greater than 7 means the solution is basic; pH 11 is strongly basic."},
+            {"topic": "Classifying oxides", "difficulty": "medium", "type": "mcq", "prompt": "Which of the following is a basic oxide?", "options": ["CO2", "SO2", "CaO", "NO2"], "answer": "2", "explanation": "CaO is a metal oxide and is basic. CO2, SO2 and NO2 are non-metal (acidic) oxides."},
+            {"topic": "Neutralisation", "difficulty": "difficult", "type": "mcq", "prompt": "What are the products when nitric acid (HNO3) reacts with sodium hydroxide (NaOH)?", "options": ["Sodium nitrate and hydrogen", "Sodium nitrate and water", "Sodium oxide and water", "Sodium chloride and water"], "answer": "1", "explanation": "Acid + base → salt + water. HNO3 + NaOH → NaNO3 (sodium nitrate) + H2O."},
+            {"topic": "Balancing neutralisation", "difficulty": "exam", "type": "mcq", "prompt": "How many moles of NaOH are needed to fully neutralise one mole of H2SO4?", "options": ["1", "2", "3", "4"], "answer": "1", "explanation": "H2SO4 has two acidic hydrogens, so it needs 2 moles of NaOH: H2SO4 + 2NaOH → Na2SO4 + 2H2O."}
+          ]
+        },
+        {
+          "title": "Electrochemistry",
+          "description": "Electrical conductivity, electrolysis, galvanic (voltaic) cells and the industrial uses of electrolysis.",
+          "lessons": [
+            {
+              "title": "Electrolysis and Galvanic Cells",
+              "summary": "Find out how electricity and chemical reactions are linked: how electrolytes conduct, how electrolysis splits compounds, and how galvanic cells turn chemical energy into electricity.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Chemistry that makes and uses electricity",
+                  "body": "The **battery** in a torch, the **electroplated** spoons in a shop, and the pure **aluminium** in a cooking pot all come from **electrochemistry** — the study of how **chemical reactions** and **electricity** are connected.\n\nThere are two big ideas. In **electrolysis**, we *use* electricity to force a chemical change (for example, splitting water or extracting a metal). In a **galvanic (voltaic) cell**, a chemical reaction *produces* electricity — this is how a battery works.\n\nThis lesson shows how charged particles called **ions** carry current, and how the two kinds of electrochemical cells work."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Tell **electrolytes** from **non-electrolytes** and explain why electrolytes conduct.\n- Define **electrolysis** and name the **anode** and **cathode**.\n- State what **oxidation** and **reduction** mean (loss/gain of electrons).\n- Describe a **galvanic (voltaic) cell** and how it makes electricity.\n- Give industrial uses such as **electroplating** and metal extraction."
+                },
+                {
+                  "type": "theory",
+                  "title": "Conductivity, electrolysis and galvanic cells",
+                  "body": "An **electrolyte** is a substance that **conducts electricity when molten or dissolved in water** because it contains free-moving **ions** (charged particles). Acids, bases and salts are electrolytes. A **non-electrolyte** (like sugar or pure water) does not conduct because it has no free ions.\n\n**Why do ions matter?** Electric current is a flow of charge. In metals the charge is carried by electrons; in solutions it is carried by **moving ions**. No free ions means no current.\n\n**Electrolysis** is the breaking down of an electrolyte using electricity. The set-up has two **electrodes** dipped in the electrolyte:\n\n- The **cathode** is the **negative** electrode. Positive ions (**cations**) move to it and **gain electrons** — this is **reduction**.\n- The **anode** is the **positive** electrode. Negative ions (**anions**) move to it and **lose electrons** — this is **oxidation**.\n\nTwo key terms:\n- **Oxidation** = **loss** of electrons.\n- **Reduction** = **gain** of electrons.\n(Remember **OIL RIG**: Oxidation Is Loss, Reduction Is Gain.)\n\nA **galvanic (voltaic) cell** does the opposite of electrolysis. A spontaneous chemical reaction releases energy as **electricity**. It has two metals (electrodes) in solutions, joined by a wire and a **salt bridge**. In a galvanic cell:\n\n- The **anode** is where **oxidation** happens; it is the **negative** terminal.\n- The **cathode** is where **reduction** happens; it is the **positive** terminal.\n\n(Note: oxidation is always at the anode and reduction always at the cathode in both kinds of cell — but the *signs* of the terminals swap.)\n\n**Industrial uses of electrolysis:**\n- **Electroplating** — coating a cheap metal with a thin layer of a better one (e.g. silver-plating jewellery).\n- **Extraction of reactive metals** like aluminium from molten ore.\n- **Purifying metals** such as copper.\n- **Producing gases and chemicals** (e.g. chlorine, hydrogen, sodium hydroxide)."
+                },
+                {
+                  "type": "visual",
+                  "title": "Electrolysis of water",
+                  "body": "When water is electrolysed (with a little acid to help it conduct), it splits into hydrogen gas at the cathode and oxygen gas at the anode. Twice as much hydrogen is produced as oxygen, as the balanced equation shows.",
+                  "visual": {"kind": "reaction", "data": {"equation": "2H2O -> 2H2 + O2"}}
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: labelling an electrolysis cell",
+                  "body": "**Question:** Molten sodium chloride (NaCl) is electrolysed. State which electrode the Na+ ions move to, what happens to them, and whether it is oxidation or reduction.\n\n**Step 1 — Identify the ions.** Molten NaCl contains **Na+** (cations) and **Cl-** (anions).\n\n**Step 2 — Match ion to electrode.** Positive ions are attracted to the **negative** electrode, which is the **cathode**. So Na+ moves to the **cathode**.\n\n**Step 3 — Decide what happens there.** At the cathode, Na+ **gains an electron**:\nNa+ + e- → Na.\n\n**Step 4 — Name the process.** Gaining electrons is **reduction** (Reduction Is Gain).\n\n**Answer:** Na+ moves to the **cathode**, gains one electron to form sodium metal, and this is **reduction**. (Meanwhile Cl- moves to the anode and is oxidised to chlorine gas.)"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Mixing up oxidation and reduction.** Use **OIL RIG**: Oxidation Is Loss, Reduction Is Gain (of electrons).\n- **Thinking the cathode is always negative.** It is negative in **electrolysis**, but positive in a **galvanic cell**. What never changes: reduction happens at the cathode.\n- **Saying sugar solution conducts.** Sugar dissolves but does **not** form ions, so it is a non-electrolyte.\n- **Forgetting the salt bridge** in a galvanic cell — without it the circuit is not complete.\n- **Confusing the products of electrolysing water** — you get **2 volumes of H2 to 1 of O2**."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- **OIL RIG** — **O**xidation **I**s **L**oss, **R**eduction **I**s **G**ain of electrons.\n- **\"Red Cat, An Ox\"** — **Red**uction at the **Cat**hode; the **An**ode is for **Ox**idation. True for both cell types.\n- **Cations go to the cathode** (both start with the same sound, and cations are positive going to the negative cathode).\n- Galvanic vs electrolytic: **G**alvanic **G**ives electricity; electro**lysis** uses electricity to bring **loss/split**."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** Is molten table salt an electrolyte or a non-electrolyte?\n**Q2.** At which electrode does reduction always occur?\n**Q3.** In electrolysis, does oxidation mean an ion gains or loses electrons?\n\n**Answers:**\n1. It is an **electrolyte** — molten salt has free-moving ions that carry current.\n2. **Reduction** always occurs at the **cathode** (Red Cat).\n3. Oxidation means **losing** electrons (Oxidation Is Loss)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Electrochemistry** links chemical reactions and electricity.\n- **Electrolytes** (acids, bases, salts) conduct when molten or dissolved because they have free **ions**; **non-electrolytes** do not.\n- **Electrolysis** uses electricity to break down an electrolyte; **cations** go to the **cathode**, **anions** to the **anode**.\n- **Oxidation** = loss of electrons (at the anode); **reduction** = gain of electrons (at the cathode) — **OIL RIG**.\n- A **galvanic (voltaic) cell** makes electricity from a spontaneous reaction; anode is negative, cathode is positive.\n- Industrial uses: **electroplating**, **metal extraction** (e.g. aluminium), **metal purification**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Electrolyte", "definition": "A substance that conducts electricity when molten or dissolved because it contains free ions."},
+                    {"term": "Non-electrolyte", "definition": "A substance that does not conduct electricity because it has no free ions (e.g. sugar)."},
+                    {"term": "Electrolysis", "definition": "The breaking down of an electrolyte by passing electricity through it."},
+                    {"term": "Electrode", "definition": "A conductor through which current enters or leaves an electrolyte."},
+                    {"term": "Cathode", "definition": "The electrode where reduction occurs; cations move toward it."},
+                    {"term": "Anode", "definition": "The electrode where oxidation occurs; anions move toward it."},
+                    {"term": "Oxidation", "definition": "The loss of electrons by an atom or ion."},
+                    {"term": "Reduction", "definition": "The gain of electrons by an atom or ion."},
+                    {"term": "Galvanic (voltaic) cell", "definition": "A device that produces electricity from a spontaneous chemical reaction."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "What does OIL RIG mean?", "back": "Oxidation Is Loss, Reduction Is Gain (of electrons)."},
+                {"front": "At which electrode does reduction occur?", "back": "The cathode (Red Cat)."},
+                {"front": "What is an electrolyte?", "back": "A substance that conducts electricity when molten or dissolved because it has free ions."},
+                {"front": "What does a galvanic cell do?", "back": "Produces electricity from a spontaneous chemical reaction (like a battery)."},
+                {"front": "Name one industrial use of electrolysis.", "back": "Electroplating, or extracting metals like aluminium, or purifying copper."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Electrolytes", "difficulty": "beginner", "type": "mcq", "prompt": "Which of the following is a non-electrolyte?", "options": ["Sodium chloride solution", "Dilute hydrochloric acid", "Sugar solution", "Sodium hydroxide solution"], "answer": "2", "explanation": "Sugar dissolves but does not form ions, so it cannot conduct electricity. Salts, acids and bases form ions and are electrolytes."},
+            {"topic": "Electrodes", "difficulty": "beginner", "type": "mcq", "prompt": "In electrolysis, the negative electrode is called the:", "options": ["Anode", "Cathode", "Salt bridge", "Electrolyte"], "answer": "1", "explanation": "In electrolysis the cathode is the negative electrode; positive cations move toward it."},
+            {"topic": "Oxidation and reduction", "difficulty": "medium", "type": "mcq", "prompt": "Reduction is best defined as the:", "options": ["Loss of electrons", "Gain of electrons", "Loss of protons", "Gain of protons"], "answer": "1", "explanation": "Reduction Is Gain of electrons (OIL RIG). Oxidation is the loss of electrons."},
+            {"topic": "Electrolysis of water", "difficulty": "medium", "type": "mcq", "prompt": "When water is electrolysed, which gas forms at the cathode?", "options": ["Oxygen", "Hydrogen", "Chlorine", "Carbon dioxide"], "answer": "1", "explanation": "Hydrogen gas forms at the cathode (reduction of H+), while oxygen forms at the anode. Twice as much hydrogen is produced."},
+            {"topic": "Galvanic cells", "difficulty": "difficult", "type": "mcq", "prompt": "In a galvanic (voltaic) cell, oxidation takes place at the:", "options": ["Cathode, which is positive", "Anode, which is negative", "Salt bridge", "Cathode, which is negative"], "answer": "1", "explanation": "In a galvanic cell oxidation occurs at the anode, which is the negative terminal; reduction occurs at the positive cathode."},
+            {"topic": "Industrial applications", "difficulty": "exam", "type": "mcq", "prompt": "Aluminium is extracted from its ore on a large scale by which process?", "options": ["Neutralisation", "Fractional distillation", "Electrolysis of the molten ore", "Filtration"], "answer": "2", "explanation": "Aluminium is very reactive, so it is extracted by electrolysis of its molten ore rather than by chemical reduction."}
+          ]
+        },
+        {
+          "title": "Chemistry in Industry and Environmental Pollution",
+          "description": "Natural resources and industry, production of important metals and non-metals, key Ethiopian industries, and environmental pollution.",
+          "lessons": [
+            {
+              "title": "Industrial Chemistry and Protecting the Environment",
+              "summary": "See how raw materials become useful products, how important metals and non-metals are produced, the main industries in Ethiopia, and how to reduce air, water and soil pollution.",
+              "estimatedMinutes": 28,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "From raw materials to useful products",
+                  "body": "The **cement** in a new building, the **sugar** from a factory near Wonji, the **steel** in a corrugated roof and the **fertiliser** spread on farms all come from **chemical industries**. These industries turn **natural resources** (raw materials) into products people need.\n\nBut industry has a cost. Smoke, waste water and rubbish can cause **environmental pollution**, harming air, water, soil and health.\n\nThis lesson explains how some metals and non-metals are produced, looks at important **industries in Ethiopia**, and shows how we can enjoy the benefits of industry while protecting the environment."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will learn",
+                  "body": "By the end of this lesson you will be able to:\n\n- Define **natural resources** and a **raw material**.\n- Outline how an important metal (e.g. **iron**) and a non-metal product are produced.\n- Name some major **industries in Ethiopia** and their raw materials.\n- Define **environmental pollution** and its three main types (**air, water, soil**).\n- Suggest ways to **reduce pollution** (reduce, reuse, recycle, treat waste)."
+                },
+                {
+                  "type": "theory",
+                  "title": "Industry, metal production and pollution",
+                  "body": "A **natural resource** is any useful material that comes from nature, such as water, minerals, forests and air. A **raw material** is the starting substance an industry processes into a finished product (for example **limestone** for cement).\n\n**Producing metals — the example of iron.** Most metals are found combined in **ores**. Iron is extracted from iron ore (mainly iron oxide) in a **blast furnace** using **carbon** (coke) to remove the oxygen — a **reduction** reaction:\n\niron oxide + carbon → iron + carbon dioxide.\n\n**Why carbon?** Carbon is cheap and is more reactive than iron toward oxygen, so it 'pulls' the oxygen away, leaving the metal behind. Very reactive metals like **aluminium** cannot be reduced by carbon and are produced by **electrolysis** instead.\n\n**Producing non-metals.** Non-metals and their compounds are also made industrially — for example **ammonia** (for fertilisers) is made from nitrogen and hydrogen, and **sulphuric acid** from sulphur.\n\n**Some industries in Ethiopia:**\n\n| Industry | Main raw material | Product |\n|---|---|---|\n| Cement | Limestone, clay | Cement |\n| Sugar | Sugar cane | Sugar |\n| Tannery | Animal hides | Leather |\n| Textile | Cotton | Cloth |\n| Soft drinks / brewery | Water, sugar, grain | Beverages |\n\n**Environmental pollution** is the addition of harmful substances (**pollutants**) to the environment. There are three main types:\n\n- **Air pollution** — gases and smoke such as CO, SO2, CO2 from burning fuels and factories. SO2 and oxides of nitrogen cause **acid rain**.\n- **Water pollution** — factory waste, sewage and chemicals that poison rivers and lakes.\n- **Soil (land) pollution** — solid waste, plastics and over-use of pesticides.\n\n**Reducing pollution:** treat factory waste before releasing it, use filters on chimneys, and follow the **3 Rs** — **Reduce, Reuse, Recycle** — to cut waste."
+                },
+                {
+                  "type": "visual",
+                  "title": "Reduction of iron ore in a blast furnace",
+                  "body": "In the blast furnace, iron(III) oxide is reduced by carbon monoxide (made from coke) to give molten iron and carbon dioxide. This is the key reaction in iron and steel making.",
+                  "visual": {"kind": "reaction", "data": {"equation": "Fe2O3 + 3CO -> 2Fe + 3CO2"}}
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: choosing an extraction method",
+                  "body": "**Question:** Explain why iron can be extracted using carbon, but aluminium must be extracted by electrolysis.\n\n**Step 1 — Recall the reactivity idea.** A metal can be removed from its ore by a substance **more reactive** than itself toward oxygen.\n\n**Step 2 — Place the metals on the reactivity series.** Aluminium is **more reactive** than carbon. Iron is **less reactive** than carbon.\n\n**Step 3 — Apply it to iron.** Because carbon is more reactive than iron, carbon can take the oxygen away from iron oxide:\nFe2O3 + 3CO → 2Fe + 3CO2. This works, so iron is extracted with carbon in a blast furnace.\n\n**Step 4 — Apply it to aluminium.** Carbon is **less** reactive than aluminium, so it cannot pull oxygen from aluminium oxide. A stronger method, **electrolysis** (using electricity), is needed.\n\n**Answer:** Iron is below carbon in reactivity, so carbon reduces its ore; aluminium is above carbon, so only electrolysis can extract it."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes",
+                  "body": "- **Saying all metals are extracted with carbon.** Reactive metals (aluminium, magnesium, sodium) need **electrolysis**.\n- **Confusing the reactivity logic.** The reducing agent must be **more** reactive than the metal in the ore.\n- **Thinking only air can be polluted.** There is also **water** and **soil** pollution.\n- **Mixing up reduce/reuse/recycle.** *Reduce* = use less; *reuse* = use again; *recycle* = make into something new.\n- **Forgetting CO2 is a product** of reducing ore with carbon, and a greenhouse gas."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tips",
+                  "body": "- **3 Rs**: **R**educe, **R**euse, **R**ecycle — say them in that order (best to worst case is to reduce first).\n- Extraction rule: **\"Above carbon? Use a current.\"** Metals above carbon in reactivity need **electrolysis**; metals below carbon can be reduced by carbon.\n- Three pollutions = **\"A-W-S\"**: **A**ir, **W**ater, **S**oil — the three parts of our environment.\n- **Acid rain** comes mainly from **S**O2 and NOx — link **S** for **S**ulphur to **S**our (acid)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** Name the raw material used to make cement.\n**Q2.** Which gas released by factories and cars is a major cause of acid rain?\n**Q3.** Why is aluminium not extracted using carbon?\n\n**Answers:**\n1. **Limestone** (with clay) is the main raw material for cement.\n2. **Sulphur dioxide (SO2)** (along with oxides of nitrogen) causes acid rain.\n3. Aluminium is **more reactive than carbon**, so carbon cannot remove the oxygen; **electrolysis** is used instead."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Industries** turn **natural resources** (raw materials) into useful products.\n- Most metals come from **ores**; **iron** is reduced by **carbon** in a blast furnace, but reactive metals like **aluminium** need **electrolysis**.\n- The reducing agent must be **more reactive** than the metal being extracted.\n- Major Ethiopian industries include **cement, sugar, tannery, textile and beverages**.\n- **Environmental pollution** has three main types: **air, water and soil**; SO2 causes acid rain.\n- Cut pollution by treating waste and following the **3 Rs** — Reduce, Reuse, Recycle."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms for this lesson.",
+                  "glossary": [
+                    {"term": "Natural resource", "definition": "Any useful material obtained from nature, such as minerals, water or forests."},
+                    {"term": "Raw material", "definition": "The starting substance that an industry processes into a finished product."},
+                    {"term": "Ore", "definition": "A naturally occurring rock or mineral from which a metal can be extracted profitably."},
+                    {"term": "Reduction (extraction)", "definition": "Removing oxygen from a metal oxide to obtain the free metal."},
+                    {"term": "Blast furnace", "definition": "A large furnace used to extract iron from its ore using carbon."},
+                    {"term": "Environmental pollution", "definition": "The addition of harmful substances (pollutants) to the air, water or soil."},
+                    {"term": "Pollutant", "definition": "A harmful substance released into the environment."},
+                    {"term": "Acid rain", "definition": "Rain made acidic by dissolved gases such as sulphur dioxide and oxides of nitrogen."},
+                    {"term": "Recycling", "definition": "Processing used materials into new products to reduce waste."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "What is a raw material?", "back": "The starting substance an industry processes into a finished product."},
+                {"front": "How is iron extracted from its ore?", "back": "By reduction with carbon in a blast furnace."},
+                {"front": "Why is aluminium extracted by electrolysis, not carbon?", "back": "Aluminium is more reactive than carbon, so carbon cannot remove the oxygen."},
+                {"front": "What are the three main types of pollution?", "back": "Air pollution, water pollution and soil (land) pollution."},
+                {"front": "What are the 3 Rs?", "back": "Reduce, Reuse, Recycle."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Raw materials", "difficulty": "beginner", "type": "mcq", "prompt": "Which raw material is mainly used to produce cement?", "options": ["Cotton", "Limestone", "Sugar cane", "Animal hides"], "answer": "1", "explanation": "Cement is made mainly from limestone (with clay). Cotton makes cloth, sugar cane makes sugar, and hides make leather."},
+            {"topic": "Pollution types", "difficulty": "beginner", "type": "mcq", "prompt": "Smoke and harmful gases from factories mainly cause which type of pollution?", "options": ["Soil pollution", "Air pollution", "Noise pollution", "Water pollution"], "answer": "1", "explanation": "Gases and smoke released into the atmosphere cause air pollution."},
+            {"topic": "Metal extraction", "difficulty": "medium", "type": "mcq", "prompt": "Iron is extracted from its ore in a blast furnace by reaction with:", "options": ["Water", "Oxygen", "Carbon", "Sodium"], "answer": "2", "explanation": "Carbon (as coke/CO) reduces iron oxide to iron in the blast furnace, removing the oxygen."},
+            {"topic": "Acid rain", "difficulty": "medium", "type": "mcq", "prompt": "Which gas is the main cause of acid rain?", "options": ["Oxygen", "Nitrogen", "Sulphur dioxide", "Helium"], "answer": "2", "explanation": "Sulphur dioxide (SO2), together with oxides of nitrogen, dissolves in rain water to form acids, causing acid rain."},
+            {"topic": "Reactivity and extraction", "difficulty": "difficult", "type": "mcq", "prompt": "Why must aluminium be extracted by electrolysis rather than by heating with carbon?", "options": ["Aluminium is cheaper than carbon", "Aluminium is less reactive than carbon", "Aluminium is more reactive than carbon", "Aluminium has no ore"], "answer": "2", "explanation": "Aluminium is more reactive than carbon, so carbon cannot displace it from its oxide; electrolysis of the molten ore is required."},
+            {"topic": "Reducing pollution", "difficulty": "exam", "type": "mcq", "prompt": "Which set of actions best helps reduce solid waste in the environment?", "options": ["Reduce, Reuse, Recycle", "Burn, Bury, Dump", "Heat, Cool, Filter", "Mix, Stir, Pour"], "answer": "0", "explanation": "The 3 Rs — Reduce, Reuse, Recycle — are the standard strategy for cutting down solid waste and pollution."}
+          ]
+        }
+      ]
+    }
+  ]
+}

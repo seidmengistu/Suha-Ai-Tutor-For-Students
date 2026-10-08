@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "chemistry",
+      "questions": [
+        {
+          "topic": "Significant figures in calculation",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A student measures a length as 12.0 cm. How many significant figures does this value have?",
+          "options": ["1", "2", "3", "4"],
+          "answer": "2",
+          "explanation": "The digits 1 and 2 are significant, and the trailing zero after the decimal point is also significant, giving 3 significant figures."
+        },
+        {
+          "topic": "SI prefixes",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The prefix 'milli' represents which factor?",
+          "options": ["10³", "10⁻²", "10⁻³", "10⁻⁶"],
+          "answer": "2",
+          "explanation": "'Milli' means one thousandth, which is 10⁻³. The factor 10³ is 'kilo' and 10⁻⁶ is 'micro'."
+        },
+        {
+          "topic": "Density calculation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A liquid has a density of 0.80 g/cm³. What is the mass of 50 cm³ of this liquid?",
+          "options": ["40 g", "50 g", "62.5 g", "0.016 g"],
+          "answer": "0",
+          "explanation": "Mass = density × volume = 0.80 g/cm³ × 50 cm³ = 40 g."
+        },
+        {
+          "topic": "Unit conversion",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A medicine dose is 250 mg. What is this mass in grams?",
+          "options": ["0.025 g", "0.25 g", "2.5 g", "250000 g"],
+          "answer": "1",
+          "explanation": "Since 1 g = 1000 mg, dividing 250 mg by 1000 gives 0.25 g."
+        },
+        {
+          "topic": "Subatomic particles",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which subatomic particle has the smallest mass?",
+          "options": ["proton", "neutron", "electron", "they are all equal"],
+          "answer": "2",
+          "explanation": "The electron is about 1/1836 the mass of a proton or neutron, so it is by far the lightest of the three."
+        },
+        {
+          "topic": "Isotopes",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Two atoms are isotopes of each other. They must have the same number of protons but a different number of:",
+          "options": ["electrons", "neutrons", "energy levels", "outer-shell electrons"],
+          "answer": "1",
+          "explanation": "Isotopes are atoms of the same element (same protons) that differ only in the number of neutrons, which changes their mass number."
+        },
+        {
+          "topic": "Electron configuration",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An element has the electron configuration 2, 8, 1. In which group of the periodic table is it found?",
+          "options": ["Group 1", "Group 2", "Group 7", "Group 8"],
+          "answer": "0",
+          "explanation": "The element has 1 electron in its outer shell, which places it in Group 1 (the alkali metals)."
+        },
+        {
+          "topic": "Periodic trends",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Across a period from left to right, the atomic radius of the elements generally:",
+          "options": ["increases", "decreases", "stays the same", "first increases then decreases"],
+          "answer": "1",
+          "explanation": "Across a period the nuclear charge increases while electrons enter the same shell, so the stronger pull shrinks the atom and the radius decreases."
+        },
+        {
+          "topic": "Ions and charge",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "An atom that has lost two electrons will have a charge of:",
+          "options": ["2⁻", "1⁻", "1⁺", "2⁺"],
+          "answer": "3",
+          "explanation": "Losing two negative electrons leaves the atom with two more protons than electrons, giving a 2⁺ charge (a cation)."
+        },
+        {
+          "topic": "Covalent molecules",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "How many electrons are shared in total in a single covalent bond?",
+          "options": ["1", "2", "4", "8"],
+          "answer": "1",
+          "explanation": "A single covalent bond is formed by one shared pair of electrons, which is 2 electrons in total."
+        },
+        {
+          "topic": "Ionic formulas",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the correct formula of the ionic compound formed from aluminium ions (Al³⁺) and oxide ions (O²⁻)?",
+          "options": ["AlO", "Al₂O₃", "Al₃O₂", "AlO₃"],
+          "answer": "1",
+          "explanation": "To balance charges, the lowest common multiple of 3 and 2 is 6: two Al³⁺ give +6 and three O²⁻ give −6, so the formula is Al₂O₃."
+        },
+        {
+          "topic": "Bonding and properties",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A substance is a gas at room temperature and does not conduct electricity. What type of bonding does it most likely have?",
+          "options": ["ionic", "metallic", "simple covalent (molecular)", "giant ionic lattice"],
+          "answer": "2",
+          "explanation": "Simple covalent (molecular) substances have weak forces between molecules, so they are often gases or liquids and have no free charges to conduct electricity."
+        },
+        {
+          "topic": "Reaction rate factors",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following will slow down a chemical reaction?",
+          "options": ["raising the temperature", "lowering the temperature", "increasing the surface area", "increasing the concentration"],
+          "answer": "1",
+          "explanation": "Lowering the temperature reduces particle energy and the frequency of successful collisions, so the reaction slows down."
+        },
+        {
+          "topic": "Activation energy",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Adding a catalyst to a reaction changes the activation energy by:",
+          "options": ["raising it", "lowering it", "removing it completely", "doubling it"],
+          "answer": "1",
+          "explanation": "A catalyst provides an alternative pathway with a lower activation energy, allowing more collisions to succeed without being used up."
+        },
+        {
+          "topic": "Collision theory",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Increasing the concentration of a reactant increases the reaction rate because it increases the:",
+          "options": ["activation energy", "frequency of collisions between particles", "temperature of the reaction", "mass of the products"],
+          "answer": "1",
+          "explanation": "More particles in the same volume collide more often, so the frequency of successful collisions rises and the reaction speeds up."
+        },
+        {
+          "topic": "Rate calculation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a reaction, 0.60 g of magnesium is completely used up in 30 seconds. What is the average rate of consumption of magnesium?",
+          "options": ["0.002 g/s", "0.02 g/s", "0.2 g/s", "18 g/s"],
+          "answer": "1",
+          "explanation": "Average rate = amount used ÷ time = 0.60 g ÷ 30 s = 0.02 g/s."
+        },
+        {
+          "topic": "Equilibrium constant",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "For the reaction H₂(g) + I₂(g) ⇌ 2HI(g), which is the correct expression for Kc?",
+          "options": ["[HI]² ÷ ([H₂][I₂])", "([H₂][I₂]) ÷ [HI]²", "[HI] ÷ ([H₂][I₂])", "[H₂][I₂][HI]"],
+          "answer": "0",
+          "explanation": "Kc is products over reactants, each raised to its coefficient: [HI]² ÷ ([H₂][I₂])."
+        },
+        {
+          "topic": "Le Chatelier - concentration",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "For the equilibrium 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), removing some SO₃ from the system will shift the equilibrium:",
+          "options": ["to the left (toward reactants)", "to the right (toward products)", "it will not move", "the reaction stops completely"],
+          "answer": "1",
+          "explanation": "Removing a product causes the equilibrium to shift forward (to the right) to replace the SO₃ that was taken away."
+        },
+        {
+          "topic": "Le Chatelier - pressure",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "For the equilibrium 2NO₂(g) ⇌ N₂O₄(g), increasing the pressure will shift the equilibrium toward:",
+          "options": ["NO₂ (the reactant side)", "N₂O₄ (the product side)", "neither side", "it depends on the catalyst"],
+          "answer": "1",
+          "explanation": "There are 2 gas molecules on the left and 1 on the right. Higher pressure shifts the equilibrium toward the side with fewer gas molecules, which is N₂O₄."
+        },
+        {
+          "topic": "Le Chatelier - temperature",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "The forward reaction N₂O₄(g) ⇌ 2NO₂(g) is endothermic. What happens to the amount of NO₂ when the temperature is increased?",
+          "options": ["it increases", "it decreases", "it stays exactly the same", "the reaction reverses permanently"],
+          "answer": "0",
+          "explanation": "For an endothermic forward reaction, heat behaves like a reactant, so adding heat shifts the equilibrium forward and increases the amount of NO₂."
+        },
+        {
+          "topic": "Carboxylic acids",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A carboxylic acid reacts with sodium carbonate. Which gas is released, providing a simple test for the acid?",
+          "options": ["hydrogen", "oxygen", "carbon dioxide", "ammonia"],
+          "answer": "2",
+          "explanation": "Carboxylic acids react with carbonates to release carbon dioxide gas, which turns limewater milky and confirms the presence of the acid."
+        },
+        {
+          "topic": "Esterification naming",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Ethanol reacts with methanoic acid in an esterification reaction. What is the name of the ester formed?",
+          "options": ["methyl ethanoate", "ethyl methanoate", "ethyl ethanoate", "methyl methanoate"],
+          "answer": "1",
+          "explanation": "The ester is named with the alcohol part first (ethyl, from ethanol) then the acid part (methanoate, from methanoic acid), giving ethyl methanoate."
+        },
+        {
+          "topic": "Saturated vs unsaturated",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Bromine water is added to two samples: a saturated fat and an unsaturated oil. Which observation correctly identifies the unsaturated oil?",
+          "options": ["it has no effect on either sample", "the bromine water is decolourised by the oil but not the fat", "the bromine water is decolourised by the fat but not the oil", "both samples turn the bromine water blue"],
+          "answer": "1",
+          "explanation": "Unsaturated oils contain C=C double bonds that react with bromine and decolourise bromine water, while saturated fats have no double bonds and do not."
+        },
+        {
+          "topic": "Fats and oils",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How many fatty acid molecules combine with one molecule of glycerol to form a triglyceride?",
+          "options": ["one", "two", "three", "four"],
+          "answer": "2",
+          "explanation": "Glycerol has three -OH groups, so it joins with three fatty acid molecules to form a triglyceride (a fat or oil)."
+        }
+      ]
+    }
+  ]
+}

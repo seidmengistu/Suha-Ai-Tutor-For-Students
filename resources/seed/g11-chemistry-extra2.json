@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "chemistry",
+      "questions": [
+        {
+          "topic": "Scientific method",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In the scientific method, a testable proposed explanation for an observation is called a:",
+          "options": ["hypothesis", "law", "conclusion", "theory"],
+          "answer": "0",
+          "explanation": "A hypothesis is a testable, tentative explanation. A law describes a consistent pattern, while a theory is a well-tested broad explanation."
+        },
+        {
+          "topic": "Derived units",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An object has a mass of 2.4 kg and a volume of 0.0008 m³. What is its density in kg/m³?",
+          "options": ["300 kg/m³", "1920 kg/m³", "3000 kg/m³", "0.00033 kg/m³"],
+          "answer": "2",
+          "explanation": "Density = mass ÷ volume = 2.4 kg ÷ 0.0008 m³ = 3000 kg/m³."
+        },
+        {
+          "topic": "Significant figures in calculation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A rectangle measures 4.50 cm by 2.0 cm. Reporting the area to the correct number of significant figures gives:",
+          "options": ["9.00 cm²", "9.0 cm²", "9 cm²", "9.000 cm²"],
+          "answer": "1",
+          "explanation": "Area = 4.50 × 2.0 = 9.0 cm². In multiplication the answer takes the fewest significant figures of the inputs; 2.0 has 2, so the area is 9.0 cm²."
+        },
+        {
+          "topic": "Unit conversion",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A car travels at 72 km/h. What is this speed in metres per second (m/s)?",
+          "options": ["20 m/s", "200 m/s", "25 m/s", "2.0 m/s"],
+          "answer": "0",
+          "explanation": "72 km/h × (1000 m ÷ 1 km) × (1 h ÷ 3600 s) = 72000 ÷ 3600 = 20 m/s."
+        },
+        {
+          "topic": "Accuracy vs precision",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Three students measure a mass whose true value is 50.0 g and obtain 49.9 g, 50.1 g, and 50.0 g. Their results are best described as:",
+          "options": ["precise but not accurate", "neither accurate nor precise", "accurate and precise", "accurate but not precise"],
+          "answer": "2",
+          "explanation": "The values are close to one another (precise) and close to the true value of 50.0 g (accurate), so they are both accurate and precise."
+        },
+        {
+          "topic": "Measurement uncertainty",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A balance reads to the nearest 0.01 g and shows 7.36 g. The mass is correctly reported as:",
+          "options": ["7.4 g", "7 g", "(7.36 ± 1) g", "(7.36 ± 0.01) g"],
+          "answer": "3",
+          "explanation": "The smallest division is 0.01 g, so the uncertainty is ±0.01 g and the value is written as (7.36 ± 0.01) g."
+        },
+        {
+          "topic": "Quantum numbers",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In an atom, the maximum number of electrons that the third principal energy level (n = 3) can hold is:",
+          "options": ["8", "32", "2", "18"],
+          "answer": "3",
+          "explanation": "The maximum number of electrons in a level is 2n². For n = 3 this is 2 × 3² = 18."
+        },
+        {
+          "topic": "Electron configuration (s, p, d)",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Using the Aufbau order, what is the full electron configuration of a neutral calcium atom (Z = 20)?",
+          "options": ["1s² 2s² 2p⁶ 3s² 3p⁶ 3d²", "1s² 2s² 2p⁶ 3s² 3p⁶ 4s²", "1s² 2s² 2p⁶ 3s² 3p⁸", "1s² 2s² 2p⁶ 3s² 3p⁶ 4p²"],
+          "answer": "1",
+          "explanation": "Following the Aufbau order, 4s fills before 3d, so calcium is 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² (20 electrons)."
+        },
+        {
+          "topic": "Periodic trends - ionisation energy",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which element has the highest first ionisation energy?",
+          "options": ["sodium", "magnesium", "argon", "aluminium"],
+          "answer": "2",
+          "explanation": "Ionisation energy generally increases across a period. Argon, a noble gas at the right of the period, has a full stable shell and the highest first ionisation energy of these elements."
+        },
+        {
+          "topic": "Relative atomic mass",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Chlorine exists as 75% ³⁵Cl and 25% ³⁷Cl. What is its relative atomic mass?",
+          "options": ["36.0", "35.0", "35.5", "37.0"],
+          "answer": "2",
+          "explanation": "Relative atomic mass = (0.75 × 35) + (0.25 × 37) = 26.25 + 9.25 = 35.5."
+        },
+        {
+          "topic": "Periodic table classification",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Elements in Group 18 (Group 0) of the periodic table are known as the:",
+          "options": ["alkali metals", "halogens", "noble gases", "transition metals"],
+          "answer": "2",
+          "explanation": "Group 18 contains the noble gases (helium, neon, argon, etc.), which are very unreactive because they have full outer shells."
+        },
+        {
+          "topic": "Ions and isoelectronic species",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which ion has the same electron configuration as a neon atom (10 electrons)?",
+          "options": ["Cl⁻", "K⁺", "Ca²⁺", "Na⁺"],
+          "answer": "3",
+          "explanation": "Sodium (Z = 11) loses one electron to form Na⁺ with 10 electrons, matching neon. The others have 18 electrons (argon configuration)."
+        },
+        {
+          "topic": "VSEPR shapes",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "According to VSEPR theory, the shape of a methane (CH₄) molecule is:",
+          "options": ["tetrahedral", "trigonal planar", "linear", "bent"],
+          "answer": "0",
+          "explanation": "Carbon in CH₄ has four bonding pairs and no lone pairs, which repel to give a tetrahedral shape with bond angles of about 109.5°."
+        },
+        {
+          "topic": "Bond polarity",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A covalent bond between two atoms of very different electronegativity is described as:",
+          "options": ["nonpolar covalent", "metallic", "purely ionic with no sharing", "polar covalent"],
+          "answer": "3",
+          "explanation": "When bonded atoms differ in electronegativity, electrons are shared unequally, producing a polar covalent bond with partial charges."
+        },
+        {
+          "topic": "Intermolecular forces",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Water has an unusually high boiling point for such a small molecule mainly because of:",
+          "options": ["ionic bonding", "hydrogen bonding between molecules", "metallic bonding", "weak London dispersion forces only"],
+          "answer": "1",
+          "explanation": "Water molecules form strong hydrogen bonds (O–H···O) between molecules, which require extra energy to break, raising the boiling point."
+        },
+        {
+          "topic": "Lewis structures",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "How many lone pairs of electrons are on the nitrogen atom in an ammonia (NH₃) molecule?",
+          "options": ["1", "0", "2", "3"],
+          "answer": "0",
+          "explanation": "Nitrogen has 5 valence electrons; three form bonds to hydrogen, leaving one non-bonding (lone) pair on nitrogen."
+        },
+        {
+          "topic": "Giant covalent structures",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Diamond and graphite are both made only of carbon, yet graphite conducts electricity while diamond does not. This is because in graphite:",
+          "options": ["each carbon has a delocalised electron free to move", "the carbon atoms carry an ionic charge", "graphite contains metal impurities", "diamond has no carbon-carbon bonds"],
+          "answer": "0",
+          "explanation": "In graphite each carbon bonds to only three others, leaving one delocalised electron per atom free to move and carry charge. In diamond all four electrons are locked in bonds."
+        },
+        {
+          "topic": "Ionic compound naming",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the correct formula of calcium nitrate, formed from Ca²⁺ and NO₃⁻ ions?",
+          "options": ["CaNO₃", "Ca₂NO₃", "Ca(NO₃)₂", "Ca₂(NO₃)₃"],
+          "answer": "2",
+          "explanation": "One Ca²⁺ (+2) needs two NO₃⁻ (each −1) to balance the charge, so the formula is Ca(NO₃)₂."
+        },
+        {
+          "topic": "Rate from a graph",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "On a graph of product mass against time, the reaction rate at any moment is shown by the:",
+          "options": ["area under the curve", "slope (gradient) of the curve", "value on the time axis", "highest point on the curve"],
+          "answer": "1",
+          "explanation": "The rate of reaction is how fast product forms over time, which is the slope (gradient) of the curve at that point."
+        },
+        {
+          "topic": "Order of reaction",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A reaction has the rate law rate = k[A]². If the concentration of A is tripled, the rate will increase by a factor of:",
+          "options": ["no change", "3", "6", "9"],
+          "answer": "3",
+          "explanation": "For a second-order reaction the rate depends on [A]². Tripling [A] multiplies the rate by 3² = 9."
+        },
+        {
+          "topic": "Activation energy and catalysts",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "On an energy profile diagram, adding a catalyst changes the curve by:",
+          "options": ["raising the energy of the products", "lowering the activation energy peak", "raising the energy of the reactants", "lowering the energy of the products only"],
+          "answer": "1",
+          "explanation": "A catalyst provides a lower-energy pathway, so the activation energy peak on the profile is lower. The energies of reactants and products are unchanged."
+        },
+        {
+          "topic": "Maxwell-Boltzmann distribution",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Raising the temperature speeds up a reaction mostly because it greatly increases the number of particles that have:",
+          "options": ["a charge", "energy equal to or above the activation energy", "the same colour", "a larger size"],
+          "answer": "1",
+          "explanation": "A higher temperature shifts the distribution so that a much larger fraction of particles have at least the activation energy, sharply increasing the number of successful collisions."
+        },
+        {
+          "topic": "Average rate calculation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A gas reaction produces 48 cm³ of CO₂ in 24 seconds. What is the average rate of gas production?",
+          "options": ["0.5 cm³/s", "2 cm³/s", "24 cm³/s", "1152 cm³/s"],
+          "answer": "1",
+          "explanation": "Average rate = volume ÷ time = 48 cm³ ÷ 24 s = 2 cm³/s."
+        },
+        {
+          "topic": "Reaction mechanism",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In a multi-step reaction, the overall rate is controlled by the:",
+          "options": ["fastest step", "step with the most products", "first step only, regardless of speed", "slowest (rate-determining) step"],
+          "answer": "3",
+          "explanation": "A reaction can go no faster than its slowest step, so the slowest step is called the rate-determining step and it controls the overall rate."
+        },
+        {
+          "topic": "Equilibrium constant expression",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "For the equilibrium 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), the correct expression for Kc is:",
+          "options": ["[SO₃]² ÷ ([SO₂]²[O₂])", "([SO₂]²[O₂]) ÷ [SO₃]²", "[SO₃] ÷ ([SO₂][O₂])", "[SO₂]²[O₂][SO₃]²"],
+          "answer": "0",
+          "explanation": "Kc is products over reactants, each concentration raised to its coefficient: [SO₃]² ÷ ([SO₂]²[O₂])."
+        },
+        {
+          "topic": "Kc calculation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "For H₂(g) + I₂(g) ⇌ 2HI(g) at equilibrium, [H₂] = 0.20 mol/L, [I₂] = 0.20 mol/L and [HI] = 1.6 mol/L. What is Kc?",
+          "options": ["8", "16", "40", "64"],
+          "answer": "3",
+          "explanation": "Kc = [HI]² ÷ ([H₂][I₂]) = (1.6)² ÷ (0.20 × 0.20) = 2.56 ÷ 0.04 = 64."
+        },
+        {
+          "topic": "Le Chatelier - temperature",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "The forward reaction 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) is exothermic. To increase the yield of SO₃, the temperature should be:",
+          "options": ["increased strongly", "decreased", "kept extremely high", "it has no effect on yield"],
+          "answer": "1",
+          "explanation": "For an exothermic forward reaction, lowering the temperature shifts the equilibrium forward (heat behaves like a product), increasing the yield of SO₃."
+        },
+        {
+          "topic": "Le Chatelier - inert gas",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "An equilibrium of gases is held in a rigid container of fixed volume. Adding an inert gas (which does not react) at constant volume will:",
+          "options": ["shift the equilibrium toward the products", "shift the equilibrium toward the reactants", "not shift the equilibrium position", "stop the reaction"],
+          "answer": "2",
+          "explanation": "At fixed volume the partial pressures and concentrations of the reacting gases are unchanged, so adding an inert gas does not shift the equilibrium position."
+        },
+        {
+          "topic": "Effect of catalyst on equilibrium",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Adding a catalyst to a system at equilibrium will:",
+          "options": ["increase the amount of product formed", "shift the equilibrium to the right", "help equilibrium be reached faster without changing its position", "shift the equilibrium to the left"],
+          "answer": "2",
+          "explanation": "A catalyst speeds up the forward and backward reactions equally, so equilibrium is reached sooner but the position and amounts of product are unchanged."
+        },
+        {
+          "topic": "Phase equilibrium",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a sealed bottle of water at constant temperature, the water level stops falling even though evaporation continues. This is because:",
+          "options": ["evaporation has completely stopped", "the rate of evaporation equals the rate of condensation", "all the water has turned to vapour", "condensation is faster than evaporation"],
+          "answer": "1",
+          "explanation": "A liquid-vapour equilibrium is dynamic: molecules keep evaporating and condensing, but at equal rates, so the amount of liquid stays constant."
+        },
+        {
+          "topic": "Le Chatelier - pressure",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "For the equilibrium H₂(g) + I₂(g) ⇌ 2HI(g), increasing the total pressure will:",
+          "options": ["shift it toward the reactants", "shift it toward the products", "have no effect on the position", "stop the forward reaction"],
+          "answer": "2",
+          "explanation": "There are 2 gas molecules on each side, so a change in pressure does not favour either side and the equilibrium position does not move."
+        },
+        {
+          "topic": "Naming carboxylic acids",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the IUPAC name of the carboxylic acid with the formula CH₃CH₂COOH?",
+          "options": ["ethanoic acid", "propanoic acid", "methanoic acid", "butanoic acid"],
+          "answer": "1",
+          "explanation": "The molecule has three carbon atoms in total (including the carboxyl carbon), so it is propanoic acid."
+        },
+        {
+          "topic": "Esterification - reactants",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The ester propyl ethanoate is produced by reacting which alcohol with which acid?",
+          "options": ["ethanol and propanoic acid", "propanol and ethanoic acid", "methanol and propanoic acid", "propanol and methanoic acid"],
+          "answer": "1",
+          "explanation": "In an ester name the alcohol part comes first: 'propyl' comes from propanol and 'ethanoate' comes from ethanoic acid."
+        },
+        {
+          "topic": "Properties of carboxylic acids",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "When a carboxylic acid reacts with a reactive metal such as magnesium, the gas produced is:",
+          "options": ["hydrogen", "oxygen", "carbon dioxide", "chlorine"],
+          "answer": "0",
+          "explanation": "Like other acids, carboxylic acids react with reactive metals to release hydrogen gas and form a salt (e.g. a magnesium carboxylate)."
+        },
+        {
+          "topic": "Hydrogenation of oils",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Liquid vegetable oils can be turned into solid margarine by reacting them with hydrogen. This process works by:",
+          "options": ["adding water across the double bonds", "removing carbon atoms", "adding hydrogen across the C=C double bonds to make them saturated", "breaking the molecules into fatty acids"],
+          "answer": "2",
+          "explanation": "Hydrogenation adds hydrogen across the carbon-carbon double bonds, making the chains saturated and straighter so they pack tightly and solidify."
+        },
+        {
+          "topic": "Soap and saponification",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Soap is made by heating fats or oils with sodium hydroxide. This reaction, which produces soap and glycerol, is called:",
+          "options": ["esterification", "saponification", "hydrogenation", "neutralisation"],
+          "answer": "1",
+          "explanation": "Saponification is the alkaline hydrolysis of a fat or oil (a triglyceride) with NaOH, giving soap (fatty acid salts) and glycerol."
+        }
+      ]
+    }
+  ]
+}

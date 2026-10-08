@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "mathematics",
+      "questions": [
+        {
+          "topic": "Classifying numbers",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following numbers is **rational**?",
+          "options": ["$\\sqrt{11}$", "$\\pi$", "$0.25$", "$\\sqrt{3}$"],
+          "answer": "2",
+          "explanation": "$0.25$ is a terminating decimal equal to $1/4$, so it is rational; the others never end and never repeat."
+        },
+        {
+          "topic": "Number sets",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "To which smallest set does $-7$ belong?",
+          "options": ["Natural numbers", "Whole numbers", "Integers", "Irrational numbers"],
+          "answer": "2",
+          "explanation": "$-7$ is a negative whole number, so the smallest set containing it is the integers $\\mathbb{Z}$."
+        },
+        {
+          "topic": "Set membership",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "If $B = \\{x \\mid x \\text{ is an even number and } 0 < x < 10\\}$, how many elements does $B$ have?",
+          "options": ["3", "4", "5", "8"],
+          "answer": "1",
+          "explanation": "$B = \\{2, 4, 6, 8\\}$, which contains exactly $4$ elements."
+        },
+        {
+          "topic": "Scalars and vectors",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following is a **vector** quantity?",
+          "options": ["Temperature", "Distance", "Velocity", "Mass"],
+          "answer": "2",
+          "explanation": "Velocity has both magnitude and direction, so it is a vector; the others have magnitude only."
+        },
+        {
+          "topic": "Evaluating functions",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "If $f(x) = 4x - 5$, what is $f(3)$?",
+          "options": ["$7$", "$12$", "$2$", "$17$"],
+          "answer": "0",
+          "explanation": "$f(3) = 4(3) - 5 = 12 - 5 = 7$."
+        },
+        {
+          "topic": "Circle parts",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A circle has a diameter of $18$ cm. What is its radius?",
+          "options": ["$36$ cm", "$9$ cm", "$6$ cm", "$324$ cm"],
+          "answer": "1",
+          "explanation": "The radius is half the diameter: $r = 18 \\div 2 = 9$ cm."
+        },
+        {
+          "topic": "Decimals to fractions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Write the repeating decimal $0.\\overline{6}$ (that is, $0.666\\ldots$) as a fraction in simplest form.",
+          "options": ["$\\dfrac{6}{10}$", "$\\dfrac{2}{3}$", "$\\dfrac{3}{5}$", "$\\dfrac{6}{99}$"],
+          "answer": "1",
+          "explanation": "Let $d = 0.666\\ldots$; then $10d = 6.666\\ldots$, so $9d = 6$ and $d = 6/9 = 2/3$."
+        },
+        {
+          "topic": "Solving quadratics by factorization",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What are the solutions of $x^2 - 2x - 15 = 0$?",
+          "options": ["$x = 3$ or $x = 5$", "$x = -3$ or $x = 5$", "$x = 3$ or $x = -5$", "$x = -3$ or $x = -5$"],
+          "answer": "1",
+          "explanation": "Two numbers multiplying to $-15$ and adding to $-2$ are $-5$ and $3$: $(x-5)(x+3)=0$, so $x = 5$ or $x = -3$."
+        },
+        {
+          "topic": "Systems of equations",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Solve the system $2x + y = 11$ and $x - y = 1$. What is the value of $y$?",
+          "options": ["$3$", "$4$", "$5$", "$7$"],
+          "answer": "0",
+          "explanation": "Adding the equations gives $3x = 12$, so $x = 4$; then $y = x - 1 = 3$."
+        },
+        {
+          "topic": "Union of sets",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If $A = \\{1, 3, 5, 7\\}$ and $B = \\{2, 3, 4, 5\\}$, what is $A \\cup B$?",
+          "options": ["$\\{3, 5\\}$", "$\\{1, 2, 3, 4, 5, 7\\}$", "$\\{1, 7\\}$", "$\\{1, 2, 4, 7\\}$"],
+          "answer": "1",
+          "explanation": "The union lists every element appearing in either set, each once: $\\{1, 2, 3, 4, 5, 7\\}$."
+        },
+        {
+          "topic": "Adding vectors",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is $(2, -3) + (-5, 4)$?",
+          "options": ["$(-3, 1)$", "$(7, -7)$", "$(-3, 7)$", "$(3, 1)$"],
+          "answer": "0",
+          "explanation": "Add matching components: $(2 + (-5),\\; -3 + 4) = (-3, 1)$."
+        },
+        {
+          "topic": "Identifying functions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which relation is **NOT** a function?",
+          "options": ["$\\{(1, 2), (2, 3), (3, 4)\\}$", "$\\{(0, 5), (1, 5), (2, 5)\\}$", "$\\{(4, 1), (4, 2), (5, 3)\\}$", "$\\{(-1, 0), (0, 1), (1, 2)\\}$"],
+          "answer": "2",
+          "explanation": "In $\\{(4,1),(4,2),(5,3)\\}$ the input $4$ gives two outputs ($1$ and $2$), so it is not a function."
+        },
+        {
+          "topic": "Statistics: median",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Find the median of the data set $7, 2, 9, 4, 6, 1$.",
+          "options": ["$4$", "$5$", "$6$", "$6.5$"],
+          "answer": "1",
+          "explanation": "Ordered: $1, 2, 4, 6, 7, 9$. With six values, the median is the average of the middle two: $(4+6)/2 = 5$."
+        },
+        {
+          "topic": "Polygon angles",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the sum of the interior angles of a regular pentagon (5 sides)?",
+          "options": ["$360^\\circ$", "$540^\\circ$", "$720^\\circ$", "$900^\\circ$"],
+          "answer": "1",
+          "explanation": "Using $(n-2)\\times 180^\\circ$ with $n=5$: $(5-2)\\times 180^\\circ = 3 \\times 180^\\circ = 540^\\circ$."
+        },
+        {
+          "topic": "Simplifying radicals",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Simplify $\\sqrt{50}$ to its simplest radical form.",
+          "options": ["$25\\sqrt{2}$", "$5\\sqrt{2}$", "$2\\sqrt{5}$", "$10\\sqrt{5}$"],
+          "answer": "1",
+          "explanation": "$\\sqrt{50} = \\sqrt{25 \\times 2} = \\sqrt{25}\\,\\sqrt{2} = 5\\sqrt{2}$."
+        },
+        {
+          "topic": "Repeating decimals",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Express the repeating decimal $0.\\overline{18}$ (that is, $0.181818\\ldots$) as a fraction in simplest form.",
+          "options": ["$\\dfrac{18}{100}$", "$\\dfrac{2}{11}$", "$\\dfrac{1}{6}$", "$\\dfrac{18}{99}$"],
+          "answer": "1",
+          "explanation": "Let $d = 0.1818\\ldots$; then $100d = 18.1818\\ldots$, so $99d = 18$ and $d = 18/99 = 2/11$."
+        },
+        {
+          "topic": "Discriminant",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How many real solutions does $3x^2 - 5x + 2 = 0$ have?",
+          "options": ["None", "One", "Two", "Three"],
+          "answer": "2",
+          "explanation": "The discriminant is $b^2 - 4ac = (-5)^2 - 4(3)(2) = 25 - 24 = 1 > 0$, so there are two real solutions."
+        },
+        {
+          "topic": "Vector magnitude",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the magnitude of the vector $(5, 12)$?",
+          "options": ["$17$", "$13$", "$\\sqrt{17}$", "$60$"],
+          "answer": "1",
+          "explanation": "$|v| = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$."
+        },
+        {
+          "topic": "Circle area",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Find the area of a circle with radius $3$ cm (use $\\pi \\approx 3.14$).",
+          "options": ["$18.84\\ \\text{cm}^2$", "$28.26\\ \\text{cm}^2$", "$9.42\\ \\text{cm}^2$", "$28.26\\ \\text{cm}$"],
+          "answer": "1",
+          "explanation": "Area $= \\pi r^2 = 3.14 \\times 3^2 = 3.14 \\times 9 = 28.26\\ \\text{cm}^2$."
+        },
+        {
+          "topic": "Counting subsets",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How many subsets does the set $\\{a, b, c\\}$ have (including the empty set and itself)?",
+          "options": ["$3$", "$6$", "$8$", "$9$"],
+          "answer": "2",
+          "explanation": "A set with $n$ elements has $2^n$ subsets; here $2^3 = 8$."
+        },
+        {
+          "topic": "Sets: inclusion–exclusion",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In a class of $42$ students, $25$ play football, $20$ play basketball, and $8$ play both. How many students play **neither** sport?",
+          "options": ["$5$", "$37$", "$3$", "$10$"],
+          "answer": "0",
+          "explanation": "At least one sport $= 25 + 20 - 8 = 37$; neither $= 42 - 37 = 5$."
+        },
+        {
+          "topic": "Quadratic formula",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Using the quadratic formula, solve $2x^2 + 7x + 3 = 0$.",
+          "options": ["$x = -\\dfrac{1}{2}$ or $x = -3$", "$x = \\dfrac{1}{2}$ or $x = 3$", "$x = -1$ or $x = -3$", "$x = -\\dfrac{1}{2}$ or $x = 3$"],
+          "answer": "0",
+          "explanation": "Here $a=2, b=7, c=3$; discriminant $= 49 - 24 = 25$. $x = \\dfrac{-7 \\pm 5}{4}$, giving $x = -\\dfrac{1}{2}$ or $x = -3$."
+        },
+        {
+          "topic": "Regular polygon angles",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Each interior angle of a regular polygon measures $150^\\circ$. How many sides does it have?",
+          "options": ["$10$", "$12$", "$15$", "$8$"],
+          "answer": "1",
+          "explanation": "Set $\\dfrac{(n-2)\\times 180^\\circ}{n} = 150^\\circ$: $180n - 360 = 150n$, so $30n = 360$ and $n = 12$."
+        },
+        {
+          "topic": "Vector between two points",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Point $P$ has position vector $(-1, 3)$ and point $Q$ has position vector $(2, -1)$. What is the magnitude of the vector $\\overrightarrow{PQ}$?",
+          "options": ["$5$", "$7$", "$\\sqrt{7}$", "$25$"],
+          "answer": "0",
+          "explanation": "$\\overrightarrow{PQ} = Q - P = (2-(-1),\\, -1-3) = (3, -4)$, so $|\\overrightarrow{PQ}| = \\sqrt{3^2 + (-4)^2} = \\sqrt{25} = 5$."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Present simple and continuous",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence: 'Listen! Grandmother ______ a story to the children.'",
+          "options": ["tells", "is telling", "tell", "telling"],
+          "answer": "1",
+          "explanation": "The word 'Listen!' shows the action is happening now, so we use the present continuous: 'is telling'."
+        },
+        {
+          "topic": "Vocabulary: culture",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What does 'heritage' mean?",
+          "options": ["A new building made in a city.", "The history, traditions, and culture that a people inherit from the past.", "A modern song that becomes popular.", "A type of farming tool."],
+          "answer": "1",
+          "explanation": "'Heritage' is the history, traditions, and culture passed down to people from earlier generations."
+        },
+        {
+          "topic": "Modal verbs",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence about a rule in the library.",
+          "options": ["You must to be silent.", "You must be silent.", "You must being silent.", "You must silent."],
+          "answer": "1",
+          "explanation": "After the modal 'must' we use the base verb with no 'to': 'must be silent'."
+        },
+        {
+          "topic": "Articles",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct article: 'My uncle is ______ honest farmer.'",
+          "options": ["a", "an", "the", "no article"],
+          "answer": "1",
+          "explanation": "'Honest' begins with a vowel sound (the 'h' is silent), so we use 'an'."
+        },
+        {
+          "topic": "Prepositions of place",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct preposition: 'The market is ______ the church and the school.'",
+          "options": ["among", "between", "in", "on"],
+          "answer": "1",
+          "explanation": "We use 'between' for two things; 'among' is used for three or more."
+        },
+        {
+          "topic": "Vocabulary: sport",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What does 'victory' mean?",
+          "options": ["A loss in a game.", "A success in a game, competition, or contest.", "A break between two games.", "The crowd that watches a match."],
+          "answer": "1",
+          "explanation": "'Victory' means a success or win in a game, competition, or contest."
+        },
+        {
+          "topic": "Countable and uncountable nouns",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["I need a few salt for the soup.", "I need a little salt for the soup.", "I need few salt for the soup.", "I need many salt for the soup."],
+          "answer": "1",
+          "explanation": "'Salt' is uncountable, so we use 'a little'. 'A few' and 'many' are used with countable nouns."
+        },
+        {
+          "topic": "Modal verbs",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the modal that shows the speaker is almost sure: 'The lights are on, so someone ______ be at home.'",
+          "options": ["might", "must", "could", "should"],
+          "answer": "1",
+          "explanation": "'Must' shows a strong logical conclusion. The evidence (the lights) makes the speaker almost certain."
+        },
+        {
+          "topic": "Comparatives and superlatives",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'Of all the students in the class, Selam works ______.'",
+          "options": ["harder", "the hardest", "more hard", "hardly"],
+          "answer": "1",
+          "explanation": "Comparing one person with all others uses the superlative: 'the hardest'. 'Hardly' means 'almost not', a different word."
+        },
+        {
+          "topic": "Past simple and past continuous",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence: 'While I ______ dinner, the electricity went off.'",
+          "options": ["cooked", "was cooking", "cook", "have cooked"],
+          "answer": "1",
+          "explanation": "A longer background action interrupted by a sudden one uses the past continuous: 'was cooking', with 'went off' in the past simple."
+        },
+        {
+          "topic": "Passive voice",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Change to the passive: 'They will announce the results tomorrow.'",
+          "options": ["The results will announced tomorrow.", "The results will be announced tomorrow.", "The results are announced tomorrow.", "The results will being announced tomorrow."],
+          "answer": "1",
+          "explanation": "The future passive is formed with 'will be' + past participle: 'will be announced'."
+        },
+        {
+          "topic": "Present perfect",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["I have already eaten my lunch.", "I have eaten already my lunch.", "I already have eaten my lunch.", "I have eaten my lunch already eaten."],
+          "answer": "0",
+          "explanation": "'Already' usually goes between 'have' and the past participle: 'have already eaten'."
+        },
+        {
+          "topic": "Relative clauses",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct relative pronoun: 'The teacher ______ helped me has retired.'",
+          "options": ["which", "who", "whose", "where"],
+          "answer": "1",
+          "explanation": "We use 'who' to refer to a person who is the subject of the clause."
+        },
+        {
+          "topic": "Phrasal verbs",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What does 'give up' mean in: 'After many failures, he refused to give up.'?",
+          "options": ["To hand something to someone.", "To stop trying.", "To return home.", "To shout loudly."],
+          "answer": "1",
+          "explanation": "'Give up' means to stop trying or to quit something."
+        },
+        {
+          "topic": "Question tags",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct question tag: 'Your sister speaks French, ______'",
+          "options": ["doesn't she?", "does she?", "isn't she?", "won't she?"],
+          "answer": "0",
+          "explanation": "A positive statement takes a negative tag. The present simple uses 'do', so the tag is 'doesn't she?'"
+        },
+        {
+          "topic": "Adverbs of frequency",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["My father is usually at home in the evening.", "My father usually is at home in the evening.", "My father is at home usually in the evening.", "Usually my father is at home is in the evening."],
+          "answer": "0",
+          "explanation": "Adverbs of frequency go after the verb 'be': 'is usually at home'."
+        },
+        {
+          "topic": "Vocabulary: media",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What does 'audience' mean?",
+          "options": ["A person who writes the news.", "The people who watch, read, or listen to something.", "A title printed in large letters.", "A radio programme."],
+          "answer": "1",
+          "explanation": "An 'audience' is the group of people who watch, read, or listen to something."
+        },
+        {
+          "topic": "Prepositions of time",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct preposition: 'The meeting is ______ Monday ______ nine o'clock.'",
+          "options": ["in / on", "on / at", "at / in", "on / in"],
+          "answer": "1",
+          "explanation": "We use 'on' with days ('on Monday') and 'at' with clock times ('at nine o'clock')."
+        },
+        {
+          "topic": "Reported speech",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Change to reported speech: He said, 'I bought a new phone yesterday.'",
+          "options": ["He said that he buys a new phone the day before.", "He said that he had bought a new phone the day before.", "He said that he bought a new phone yesterday.", "He said that he has bought a new phone the day before."],
+          "answer": "1",
+          "explanation": "The past simple steps back to the past perfect ('had bought'), and 'yesterday' becomes 'the day before'."
+        },
+        {
+          "topic": "Reading comprehension: inference",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'Hana checked her watch for the third time, tapped her foot, and kept glancing at the door of the cafe.' What can we infer about Hana?",
+          "options": ["She was bored with the cafe food.", "She was waiting impatiently for someone.", "She was about to fall asleep.", "She was angry with the waiter."],
+          "answer": "1",
+          "explanation": "Checking the watch repeatedly, tapping her foot, and watching the door all suggest she was waiting impatiently for someone."
+        },
+        {
+          "topic": "Word formation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete with the correct word form: 'The villagers worked together with great ______ to build the road.'",
+          "options": ["cooperate", "cooperative", "cooperation", "cooperatively"],
+          "answer": "2",
+          "explanation": "After 'great' we need a noun. The noun form of 'cooperate' is 'cooperation'."
+        },
+        {
+          "topic": "Second conditional",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct second conditional sentence.",
+          "options": ["If I had more time, I would learn to swim.", "If I have more time, I would learn to swim.", "If I had more time, I will learn to swim.", "If I would have more time, I learn to swim."],
+          "answer": "0",
+          "explanation": "The second conditional uses 'if' + past simple ('had') and 'would' + base verb ('would learn') for an unreal present situation."
+        },
+        {
+          "topic": "Subject-verb agreement",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["Neither the teacher nor the students was ready.", "Neither the teacher nor the students were ready.", "Neither the teacher nor the students is ready.", "Neither the teacher nor the students been ready."],
+          "answer": "1",
+          "explanation": "With 'neither ... nor', the verb agrees with the nearer subject. 'Students' is plural, so we use 'were'."
+        },
+        {
+          "topic": "Tense contrast",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence with the correct mix of tenses.",
+          "options": ["By the time we arrived, the bus already left.", "By the time we arrived, the bus had already left.", "By the time we arrive, the bus had already left.", "By the time we arrived, the bus has already left."],
+          "answer": "1",
+          "explanation": "An action completed before another past action uses the past perfect: 'had already left' happened before 'we arrived'."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'The new policy was met with widespread approval from the public.' What does 'approval' mean here?",
+          "options": ["Strong dislike.", "A feeling that something is good or acceptable.", "A long delay.", "A difficult question."],
+          "answer": "1",
+          "explanation": "'Approval' means a positive feeling that something is good or acceptable, which fits 'widespread' support."
+        },
+        {
+          "topic": "Conjunctions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct linking word: 'He studied very hard; ______, he passed the exam easily.'",
+          "options": ["however", "therefore", "although", "because"],
+          "answer": "1",
+          "explanation": "Hard study causes the result of passing, so we use 'therefore' to show a result. 'However' shows contrast, not result."
+        },
+        {
+          "topic": "Quantifiers",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["There is too much traffic and too many noise in the city.", "There is too many traffic and too much noise in the city.", "There is too much traffic and too much noise in the city.", "There are too much traffic and too many noise in the city."],
+          "answer": "2",
+          "explanation": "'Traffic' and 'noise' are both uncountable, so each takes 'too much'."
+        },
+        {
+          "topic": "Gerunds and infinitives",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct form: 'She enjoys ______ but wants ______ a new instrument this year.'",
+          "options": ["to sing / learning", "singing / to learn", "sing / learn", "singing / learning"],
+          "answer": "1",
+          "explanation": "'Enjoy' is followed by a gerund ('singing'), while 'want' is followed by the infinitive ('to learn')."
+        },
+        {
+          "topic": "Reading comprehension: detail",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'The library opens at eight in the morning on weekdays but stays closed on Sundays. On Saturdays it opens late, at ten.' On which day can you NOT use the library?",
+          "options": ["Monday.", "Saturday.", "Sunday.", "Friday."],
+          "answer": "2",
+          "explanation": "The text states the library 'stays closed on Sundays', so you cannot use it on Sunday."
+        },
+        {
+          "topic": "Error identification",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence that contains NO grammatical error.",
+          "options": ["She is married with a doctor since five years.", "She has been married to a doctor for five years.", "She is married to a doctor since five years.", "She has married with a doctor for five years."],
+          "answer": "1",
+          "explanation": "We say 'married to' (not 'married with'), use 'for' with a length of time, and the present perfect for a state continuing to now."
+        },
+        {
+          "topic": "Reported speech (commands)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Report this command: 'Close the window,' the teacher told the boy.",
+          "options": ["The teacher told the boy that he closes the window.", "The teacher told the boy to close the window.", "The teacher told the boy close the window.", "The teacher told the boy closing the window."],
+          "answer": "1",
+          "explanation": "Commands are reported with 'told' + person + 'to' + base verb: 'told the boy to close the window'."
+        },
+        {
+          "topic": "Sentence transformation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence that keeps the same meaning as: 'He is too young to drive a car.'",
+          "options": ["He is so young that he can drive a car.", "He is not old enough to drive a car.", "He is old enough to drive a car.", "He is young enough to drive a car."],
+          "answer": "1",
+          "explanation": "'Too young to' means the same as 'not old enough to'; both say he cannot drive because of his age."
+        },
+        {
+          "topic": "Passive voice",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the passive sentence that keeps the same meaning as: 'People have planted millions of trees this year.'",
+          "options": ["Millions of trees have planted this year.", "Millions of trees have been planted this year.", "Millions of trees were planted this year.", "Millions of trees are being planted this year."],
+          "answer": "1",
+          "explanation": "The active verb is present perfect ('have planted'), so its passive is 'have been planted'."
+        },
+        {
+          "topic": "Reading comprehension: main idea",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read: 'Reading every day improves your vocabulary, sharpens your thinking, and helps you write more clearly. It is one of the simplest habits a student can build for success.' What is the main idea?",
+          "options": ["Writing is more important than reading.", "Daily reading brings several valuable benefits to students.", "Vocabulary is difficult to learn.", "Students rarely have time to read."],
+          "answer": "1",
+          "explanation": "The paragraph lists the benefits of daily reading and recommends it as a habit, which is its main idea."
+        },
+        {
+          "topic": "Conditionals",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence with NO error.",
+          "options": ["If she had studied harder, she would passed the exam.", "If she had studied harder, she would have passed the exam.", "If she would study harder, she would have passed the exam.", "If she studied harder, she would have passed the exam."],
+          "answer": "1",
+          "explanation": "The third conditional uses 'if' + past perfect ('had studied') and 'would have' + past participle ('would have passed')."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read: 'Despite the heavy rain, the farmers remained optimistic about the harvest.' What does 'optimistic' mean?",
+          "options": ["Expecting good things to happen.", "Feeling very tired.", "Expecting the worst.", "Completely confused."],
+          "answer": "0",
+          "explanation": "'Optimistic' means hopeful and expecting good outcomes, which contrasts with the difficulty of heavy rain."
+        }
+      ]
+    }
+  ]
+}

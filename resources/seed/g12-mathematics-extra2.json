@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "mathematics",
+      "questions": [
+        {
+          "topic": "Sequences and Series",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the 7th term of the arithmetic sequence $-5, -1, 3, 7, \\dots$?",
+          "options": ["$23$", "$27$", "$21$", "$19$"],
+          "answer": "3",
+          "explanation": "Here $A_1 = -5$ and $d = 4$, so $A_7 = -5 + 6(4) = -5 + 24 = 19$."
+        },
+        {
+          "topic": "Sequences and Series",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The 3rd term of a geometric sequence is $20$ and the 5th term is $80$. Taking the ratio positive, find the first term $G_1$.",
+          "options": ["$10$", "$4$", "$5$", "$8$"],
+          "answer": "2",
+          "explanation": "$\\frac{G_5}{G_3} = r^2 = \\frac{80}{20} = 4$, so $r = 2$. Then $G_3 = G_1 r^2$ gives $20 = 4G_1$, so $G_1 = 5$."
+        },
+        {
+          "topic": "Sequences and Series",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Evaluate the sum $\\displaystyle\\sum_{k=1}^{12} (3k - 1)$.",
+          "options": ["$222$", "$234$", "$210$", "$228$"],
+          "answer": "0",
+          "explanation": "This is arithmetic with $A_1 = 2$, $A_{12} = 35$. $S_{12} = \\frac{12}{2}(2 + 35) = 6 \\times 37 = 222$."
+        },
+        {
+          "topic": "Sequences and Series",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A patient takes a drug whose amount in the body falls to $\\tfrac{1}{4}$ of its value every 6 hours. If the first dose is $80$ mg and no further doses are taken, what total amount (in mg-hours of the geometric series of remaining amounts measured every 6 hours, i.e. $80 + 20 + 5 + \\dots$) does the infinite series sum to?",
+          "options": ["$\\tfrac{320}{3}$", "$100$", "$\\tfrac{280}{3}$", "$120$"],
+          "answer": "0",
+          "explanation": "Geometric with $G_1 = 80$, $r = \\tfrac{1}{4}$: $S_\\infty = \\frac{80}{1 - 1/4} = \\frac{80}{3/4} = \\frac{320}{3}$."
+        },
+        {
+          "topic": "Introduction to Limits and Continuity",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Evaluate $\\lim_{x \\to -1} (x^2 + 4x - 2)$.",
+          "options": ["$3$", "$-2$", "$-6$", "$-5$"],
+          "answer": "3",
+          "explanation": "Substitute directly: $(-1)^2 + 4(-1) - 2 = 1 - 4 - 2 = -5$."
+        },
+        {
+          "topic": "Introduction to Limits and Continuity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Evaluate $\\lim_{x \\to 5} \\dfrac{x^2 - 7x + 10}{x - 5}$.",
+          "options": ["$5$", "$2$", "$3$", "$7$"],
+          "answer": "2",
+          "explanation": "Factor: $\\frac{(x-5)(x-2)}{x-5} = x - 2$. Substituting $x = 5$ gives $3$."
+        },
+        {
+          "topic": "Introduction to Limits and Continuity",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Evaluate $\\lim_{x \\to 9} \\dfrac{\\sqrt{x} - 3}{x - 9}$.",
+          "options": ["$\\tfrac{1}{3}$", "$3$", "$\\tfrac{1}{6}$", "$0$"],
+          "answer": "2",
+          "explanation": "Since $x - 9 = (\\sqrt{x}-3)(\\sqrt{x}+3)$, the expression is $\\frac{1}{\\sqrt{x}+3}$. At $x = 9$ this is $\\frac{1}{3+3} = \\frac{1}{6}$."
+        },
+        {
+          "topic": "Introduction to Limits and Continuity",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The function $f(x) = \\begin{cases} x + 2 & x < 3 \\\\ 2x - 1 & x \\ge 3 \\end{cases}$ is examined at $x = 3$. Which statement is correct?",
+          "options": ["$f$ is continuous at $x = 3$ since both pieces give $5$", "$f$ is discontinuous because the left limit is $4$ but $f(3) = 5$", "$f$ is discontinuous because $f(3)$ is undefined", "the limit at $x = 3$ equals $4$"],
+          "answer": "0",
+          "explanation": "Left limit: $3 + 2 = 5$; right value: $2(3) - 1 = 5$; and $f(3) = 5$. All three agree, so $f$ is continuous at $x = 3$."
+        },
+        {
+          "topic": "Introduction to Differential Calculus",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the derivative of $y = 4x^5$?",
+          "options": ["$4x^4$", "$9x^4$", "$20x^4$", "$20x^5$"],
+          "answer": "2",
+          "explanation": "Power rule with constant multiple: $\\frac{dy}{dx} = 4 \\cdot 5x^4 = 20x^4$."
+        },
+        {
+          "topic": "Introduction to Differential Calculus",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Differentiate $y = \\dfrac{6}{x^2}$ with respect to $x$.",
+          "options": ["$\\dfrac{12}{x^3}$", "$-\\dfrac{6}{x^3}$", "$-\\dfrac{12}{x}$", "$-\\dfrac{12}{x^3}$"],
+          "answer": "3",
+          "explanation": "Write $y = 6x^{-2}$. Then $\\frac{dy}{dx} = 6(-2)x^{-3} = -12x^{-3} = -\\frac{12}{x^3}$."
+        },
+        {
+          "topic": "Introduction to Differential Calculus",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Use the quotient rule to differentiate $y = \\dfrac{x}{x + 2}$.",
+          "options": ["$\\dfrac{1}{(x+2)^2}$", "$\\dfrac{2}{(x+2)^2}$", "$\\dfrac{-2}{(x+2)^2}$", "$\\dfrac{x}{(x+2)^2}$"],
+          "answer": "1",
+          "explanation": "With $f = x$, $g = x+2$: $\\frac{f'g - fg'}{g^2} = \\frac{1\\cdot(x+2) - x\\cdot 1}{(x+2)^2} = \\frac{2}{(x+2)^2}$."
+        },
+        {
+          "topic": "Introduction to Differential Calculus",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Differentiate $y = (x^2 + 1)^4$ using the chain rule.",
+          "options": ["$4(x^2 + 1)^3$", "$2x(x^2 + 1)^3$", "$8x(x^2 + 1)^3$", "$8x^2(x^2 + 1)^3$"],
+          "answer": "2",
+          "explanation": "Chain rule: $4(x^2 + 1)^3$ times the inside derivative $2x$ gives $8x(x^2 + 1)^3$."
+        },
+        {
+          "topic": "Applications of Differential Calculus",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Classify the critical point of $f(x) = -x^2 + 8x - 1$.",
+          "options": ["minimum at $x = 4$", "maximum at $x = 4$", "maximum at $x = 8$", "minimum at $x = -4$"],
+          "answer": "1",
+          "explanation": "$f'(x) = -2x + 8 = 0$ gives $x = 4$, and $f''(x) = -2 < 0$, so it is a maximum at $x = 4$."
+        },
+        {
+          "topic": "Applications of Differential Calculus",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An open-top box is made from a square base of side $x$ and height $h$, with fixed volume $x^2 h = 32$. Which expression gives the surface area $S$ (base plus four sides) to be minimised, in terms of $x$ alone?",
+          "options": ["$x^2 + \\dfrac{128}{x}$", "$x^2 + \\dfrac{32}{x}$", "$x^2 + 128x$", "$2x^2 + \\dfrac{128}{x}$"],
+          "answer": "0",
+          "explanation": "Surface area $= x^2 + 4xh$. From $x^2 h = 32$, $h = \\frac{32}{x^2}$, so $4xh = \\frac{128}{x}$, giving $S = x^2 + \\frac{128}{x}$."
+        },
+        {
+          "topic": "Applications of Differential Calculus",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "For $f(x) = x^3 - 6x^2 + 9x + 2$, on which interval is $f$ decreasing?",
+          "options": ["$x < 1$", "$1 < x < 3$", "$x > 3$", "$x < 0$"],
+          "answer": "1",
+          "explanation": "$f'(x) = 3x^2 - 12x + 9 = 3(x-1)(x-3)$, which is negative between its roots, so $f$ decreases on $1 < x < 3$."
+        },
+        {
+          "topic": "Applications of Differential Calculus",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A spherical balloon is inflated so its volume increases at $100\\ \\text{cm}^3/\\text{s}$. Given $V = \\tfrac{4}{3}\\pi r^3$, how fast is the radius increasing when $r = 5$ cm?",
+          "options": ["$\\dfrac{1}{\\pi}\\ \\text{cm/s}$", "$\\dfrac{100}{\\pi}\\ \\text{cm/s}$", "$\\dfrac{1}{4\\pi}\\ \\text{cm/s}$", "$\\dfrac{4}{\\pi}\\ \\text{cm/s}$"],
+          "answer": "0",
+          "explanation": "$\\frac{dV}{dt} = 4\\pi r^2 \\frac{dr}{dt}$. At $r = 5$: $100 = 4\\pi(25)\\frac{dr}{dt} = 100\\pi \\frac{dr}{dt}$, so $\\frac{dr}{dt} = \\frac{1}{\\pi}$ cm/s."
+        },
+        {
+          "topic": "Introduction to Integral Calculus",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Find $\\displaystyle\\int 5x^4\\, dx$.",
+          "options": ["$20x^3 + C$", "$x^5 + C$", "$5x^5 + C$", "$\\tfrac{5}{5}x^3 + C$"],
+          "answer": "1",
+          "explanation": "$\\int 5x^4\\,dx = 5 \\cdot \\frac{x^5}{5} + C = x^5 + C$."
+        },
+        {
+          "topic": "Introduction to Integral Calculus",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Find $\\displaystyle\\int \\left(3x^2 - \\dfrac{1}{x^2}\\right)\\, dx$.",
+          "options": ["$x^3 + \\dfrac{1}{x} + C$", "$x^3 - \\dfrac{1}{x} + C$", "$x^3 - \\dfrac{2}{x^3} + C$", "$6x + \\dfrac{2}{x^3} + C$"],
+          "answer": "0",
+          "explanation": "$\\int 3x^2\\,dx = x^3$ and $\\int -x^{-2}\\,dx = -\\frac{x^{-1}}{-1} = x^{-1} = \\frac{1}{x}$, so the result is $x^3 + \\frac{1}{x} + C$."
+        },
+        {
+          "topic": "Introduction to Integral Calculus",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Evaluate $\\displaystyle\\int_{0}^{2} (3x^2 - 4x + 1)\\, dx$.",
+          "options": ["$4$", "$0$", "$6$", "$2$"],
+          "answer": "3",
+          "explanation": "Antiderivative $x^3 - 2x^2 + x$. At $2$: $8 - 8 + 2 = 2$; at $0$: $0$. So the integral is $2 - 0 = 2$."
+        },
+        {
+          "topic": "Introduction to Integral Calculus",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Find the area of the region enclosed between the curve $y = 6x - x^2$ and the x-axis.",
+          "options": ["$18$ square units", "$36$ square units", "$30$ square units", "$27$ square units"],
+          "answer": "1",
+          "explanation": "The curve meets the x-axis at $x = 0$ and $x = 6$. $\\int_0^6 (6x - x^2)\\,dx = [3x^2 - \\frac{x^3}{3}]_0^6 = 108 - 72 = 36$ square units."
+        },
+        {
+          "topic": "Three Dimensional Geometry and Vectors in Space",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Compute the dot product of $\\mathbf{u} = (2, -1, 3)$ and $\\mathbf{v} = (4, 5, -2)$.",
+          "options": ["$-3$", "$3$", "$9$", "$-9$"],
+          "answer": "0",
+          "explanation": "$\\mathbf{u}\\cdot\\mathbf{v} = (2)(4) + (-1)(5) + (3)(-2) = 8 - 5 - 6 = -3$."
+        },
+        {
+          "topic": "Three Dimensional Geometry and Vectors in Space",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Find a scalar $k$ so that the vectors $(2, k, 6)$ and $(1, 4, 3)$ are perpendicular.",
+          "options": ["$5$", "$-8$", "$8$", "$-5$"],
+          "answer": "3",
+          "explanation": "Perpendicular means dot product $= 0$: $(2)(1) + 4k + (6)(3) = 2 + 4k + 18 = 0$, so $4k = -20$ and $k = -5$."
+        },
+        {
+          "topic": "Three Dimensional Geometry and Vectors in Space",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A sphere has equation $x^2 + y^2 + z^2 - 4x + 6y - 2z + 5 = 0$. What is its radius?",
+          "options": ["$5$", "$\\sqrt{14}$", "$3$", "$9$"],
+          "answer": "2",
+          "explanation": "Complete the square: $(x-2)^2 + (y+3)^2 + (z-1)^2 = 4 + 9 + 1 - 5 = 9$, so $r = \\sqrt{9} = 3$."
+        },
+        {
+          "topic": "Three Dimensional Geometry and Vectors in Space",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Find the cosine of the angle between $\\mathbf{a} = (1, 0, 1)$ and $\\mathbf{b} = (0, 1, 1)$.",
+          "options": ["$0$", "$\\tfrac{1}{2}$", "$\\tfrac{1}{\\sqrt{2}}$", "$1$"],
+          "answer": "1",
+          "explanation": "$\\cos\\theta = \\frac{\\mathbf{a}\\cdot\\mathbf{b}}{|\\mathbf{a}||\\mathbf{b}|} = \\frac{0+0+1}{\\sqrt{2}\\cdot\\sqrt{2}} = \\frac{1}{2}$."
+        },
+        {
+          "topic": "Mathematical Proofs",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which statement is the contrapositive of \"If $n$ is even, then $n^2$ is even\"?",
+          "options": ["If $n^2$ is even, then $n$ is even", "If $n$ is odd, then $n^2$ is odd", "If $n^2$ is odd, then $n$ is odd", "If $n^2$ is even, then $n$ is odd"],
+          "answer": "2",
+          "explanation": "The contrapositive of \"if $p$ then $q$\" is \"if not $q$ then not $p$\": if $n^2$ is odd (not even), then $n$ is odd (not even)."
+        },
+        {
+          "topic": "Mathematical Proofs",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In proving $1 + 3 + 5 + \\dots + (2n-1) = n^2$ by induction, the inductive step adds $(2(k+1)-1)$ to the assumed sum $k^2$. This gives:",
+          "options": ["$k^2 + 2k + 1 = (k+1)^2$", "$k^2 + 2k - 1$", "$k^2 + k + 1$", "$(k+1)^2 + 1$"],
+          "answer": "0",
+          "explanation": "$k^2 + (2(k+1)-1) = k^2 + 2k + 1 = (k+1)^2$, which is exactly $P(k+1)$."
+        },
+        {
+          "topic": "Mathematical Proofs",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A proof by induction shows $7^n - 1$ is divisible by $6$ for all $n \\ge 1$. Writing $7^{k+1} - 1 = 7(7^k - 1) + 6$ helps because:",
+          "options": ["$7^{k+1}$ is even", "$7$ is divisible by $6$", "the base case is enough on its own", "$7^k - 1$ is divisible by $6$ by hypothesis and $6$ is divisible by $6$"],
+          "answer": "3",
+          "explanation": "By the inductive hypothesis $6 \\mid (7^k - 1)$, so $6 \\mid 7(7^k - 1)$; adding the multiple of $6$ keeps the sum divisible by $6$, proving $P(k+1)$."
+        },
+        {
+          "topic": "Mathematical Proofs",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "To prove $\\sqrt{3}$ is irrational by contradiction, one assumes $\\sqrt{3} = \\tfrac{a}{b}$ in lowest terms and derives $a^2 = 3b^2$. The key contradiction is that:",
+          "options": ["$a$ and $b$ are both even", "$3$ divides both $a$ and $b$, contradicting lowest terms", "$a^2$ is negative", "$b = 0$"],
+          "answer": "1",
+          "explanation": "$a^2 = 3b^2$ forces $3 \\mid a$, so $a = 3c$ and $9c^2 = 3b^2$ gives $b^2 = 3c^2$, so $3 \\mid b$ too. Then $3$ divides both, contradicting that $\\tfrac{a}{b}$ is in lowest terms."
+        },
+        {
+          "topic": "Further on Statistics",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the range of the data set $14, 6, 21, 9, 17$?",
+          "options": ["$21$", "$6$", "$15$", "$13$"],
+          "answer": "2",
+          "explanation": "Range $=$ largest $-$ smallest $= 21 - 6 = 15$."
+        },
+        {
+          "topic": "Further on Statistics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the median of the data set $12, 7, 15, 9, 20, 11$?",
+          "options": ["$11$", "$12$", "$11.5$", "$10$"],
+          "answer": "2",
+          "explanation": "Ordered: $7, 9, 11, 12, 15, 20$. With $6$ values, the median is the average of the 3rd and 4th: $\\frac{11 + 12}{2} = 11.5$."
+        },
+        {
+          "topic": "Further on Statistics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A teacher wants a sample of students in which every student has an equal chance of selection. This is best described as:",
+          "options": ["convenience sampling", "simple random sampling", "quota sampling", "voluntary sampling"],
+          "answer": "1",
+          "explanation": "Simple random sampling is exactly the method where every member of the population has an equal chance of being chosen, avoiding bias."
+        },
+        {
+          "topic": "Further on Statistics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "For the data set $4, 6, 8, 10, 12$ with mean $8$, what is the standard deviation?",
+          "options": ["$8$", "$\\sqrt{8}$", "$\\sqrt{40}$", "$2\\sqrt{2}$"],
+          "answer": "3",
+          "explanation": "Deviations: $-4, -2, 0, 2, 4$; squares sum to $40$. Variance $= 40/5 = 8$, so standard deviation $= \\sqrt{8} = 2\\sqrt{2}$."
+        },
+        {
+          "topic": "Mathematical Applications for Business and Consumers",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A jacket is reduced by $20\\%$ in a sale, and a loyalty card then takes a further $10\\%$ off the reduced price. What single percentage discount is equivalent to these two reductions?",
+          "options": ["$30\\%$", "$28\\%$", "$25\\%$", "$32\\%$"],
+          "answer": "1",
+          "explanation": "The price becomes $0.80 \\times 0.90 = 0.72$ of the original, i.e. $72\\%$, which is a single discount of $100\\% - 72\\% = 28\\%$."
+        },
+        {
+          "topic": "Mathematical Applications for Business and Consumers",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "After a $30\\%$ discount, a phone sells for Birr $4{,}200$. What was its original price?",
+          "options": ["Birr $5{,}460$", "Birr $6{,}000$", "Birr $5{,}040$", "Birr $7{,}000$"],
+          "answer": "1",
+          "explanation": "The sale price is $70\\%$ of the original: $0.70 \\times P = 4{,}200$, so $P = 4{,}200 / 0.70 = \\text{Birr } 6{,}000$."
+        },
+        {
+          "topic": "Mathematical Applications for Business and Consumers",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Birr $8{,}000$ is invested at $5\\%$ per year compounded annually. What is the amount after $2$ years?",
+          "options": ["Birr $8{,}800$", "Birr $8{,}820$", "Birr $8{,}400$", "Birr $9{,}000$"],
+          "answer": "1",
+          "explanation": "$A = 8000(1.05)^2 = 8000 \\times 1.1025 = \\text{Birr } 8{,}820$."
+        },
+        {
+          "topic": "Mathematical Applications for Business and Consumers",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A worker is paid a base salary of Birr $3{,}000$ per month plus $4\\%$ commission on sales. In a month with sales of Birr $150{,}000$, what is the total pay?",
+          "options": ["Birr $6{,}000$", "Birr $3{,}600$", "Birr $9{,}000$", "Birr $7{,}500$"],
+          "answer": "2",
+          "explanation": "Commission $= 0.04 \\times 150{,}000 = 6{,}000$. Total $= 3{,}000 + 6{,}000 = \\text{Birr } 9{,}000$."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "biology",
+      "chapters": [
+        {
+          "title": "Biotechnology",
+          "description": "How people use micro-organisms such as yeast and bacteria to make food, drinks, medicine and fuel, from traditional injera and irgo to modern genetic engineering.",
+          "lessons": [
+            {
+              "title": "Using Micro-organisms: Traditional and Modern Biotechnology",
+              "summary": "Biotechnology means using tiny living things to make products people want. This lesson covers fermentation in injera, tej, irgo and ayib, plus modern uses in farming, medicine and biogas.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "What is biotechnology?",
+                  "body": "Every time your family makes **injera**, **irgo** (yoghurt) or **tej**, you are doing biotechnology without even thinking about it. **Biotechnology** is the use of **micro-organisms** to make things that people want, often on a large industrial scale.\n\nBiotechnology is based on **microbiology**, the study of tiny living things (micro-organisms) that are usually too small to see with your eyes. The main micro-organisms used are **bacteria** and **fungi** (such as **yeast** and moulds). Although it feels modern, people have used micro-organisms to make food and drink for thousands of years."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **biotechnology** and explain why it matters.\n- Describe how **yeast** is used to make injera, tej and other drinks.\n- Explain how **bacteria** are used to make irgo (yoghurt) and ayib (cheese).\n- Compare **aerobic** and **anaerobic respiration** in yeast.\n- Describe modern uses of biotechnology in agriculture, food, medicine and energy."
+                },
+                {
+                  "type": "theory",
+                  "title": "Yeast, respiration and fermentation",
+                  "body": "**Yeast** is a single-celled fungus. Each cell has a **nucleus**, **cytoplasm**, a **cell membrane** and a **cell wall**. Yeast reproduces by **budding** (splitting to form new cells). Just one gram of yeast holds about 25 billion cells!\n\nWhy is yeast so useful? Because it can respire in two ways:\n\n- **Aerobic respiration** (with oxygen): sugar + oxygen → carbon dioxide + water + lots of energy.\n- **Anaerobic respiration** (without oxygen): sugar → ethanol + carbon dioxide + a little energy.\n\nThe anaerobic respiration of yeast is called **fermentation**. This is the key idea: the **carbon dioxide** gas makes bread rise, while the **ethanol** (alcohol) is what we want in drinks.\n\n**Bacteria** are different. In milk, helpful bacteria break down **lactose** (milk sugar) into **lactic acid**. The acid makes the milk thicken and gives it a sharp, tangy taste. This is called **lactic fermentation**."
+                },
+                {
+                  "type": "visual",
+                  "title": "Inside a yeast cell",
+                  "body": "Yeast is a simple cell, but it does powerful chemistry. Notice it has a true **nucleus**, so it is a fungus, not a bacterium. The diagram shows the main parts you should be able to label.",
+                  "visual": {
+                    "kind": "cell",
+                    "data": {
+                      "type": "plant",
+                      "parts": [
+                        { "label": "Cell wall", "x": 0.5, "y": 0.12 },
+                        { "label": "Cell membrane", "x": 0.5, "y": 0.22 },
+                        { "label": "Cytoplasm", "x": 0.72, "y": 0.5 },
+                        { "label": "Nucleus", "x": 0.5, "y": 0.5 },
+                        { "label": "Bud (new cell forming)", "x": 0.85, "y": 0.2 }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Walkthrough: why injera has holes",
+                  "body": "Let us follow what happens, step by step, when you make **injera** from teff flour.\n\n**Step 1 — Mix.** You grind **teff**, add water, and mix to make a batter (dough). Wild **yeast** (locally called *ershoo*) is naturally present.\n\n**Step 2 — Leave to ferment (about 2 days).** The yeast feeds on sugar in the flour and respires. At first there is oxygen, so it respires **aerobically**. As the oxygen runs out, it switches to **anaerobic respiration** (fermentation).\n\n**Step 3 — Gas forms.** Respiration produces **carbon dioxide** gas. The gas is trapped in the thick batter, so the mixture rises a little and gets a tangy flavour.\n\n**Step 4 — Cook.** On the hot *mitad*, the trapped bubbles of carbon dioxide **expand** in the heat. This makes the many small holes (the 'eyes') that give injera its soft, spongy texture — perfect for soaking up wot. The high heat **kills the yeast**.\n\n**Conclusion:** The holes in injera are simply trapped carbon dioxide gas made by yeast during fermentation."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Saying yeast is a bacterium.** Yeast is a **fungus**. It has a nucleus; bacteria do not.\n- **Mixing up the products.** In bread/injera making, the useful product is **carbon dioxide** (makes it rise). In drink making, the useful product is **ethanol**. Both reactions make both gases — but for different reasons.\n- **Thinking fermentation needs oxygen.** Fermentation is **anaerobic** — it happens *without* oxygen.\n- **Confusing yeast and bacteria roles.** Yeast makes injera and tej; **bacteria** make irgo and ayib.\n- **Saying biotechnology is brand new.** It is thousands of years old; only genetic engineering is new."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy ways to remember",
+                  "body": "- **\"Air = Energy.\"** **A**erobic respiration uses **a**ir and gives a lot of energy.\n- **\"No O, get the alcohol-O.\"** No **O**xygen → yeast makes ethan**ol** (alcohol). Anaerobic = no air = alcohol.\n- **\"Bread Breathes, Drinks get Drunk.\"** Bread/injera wants the gas (rises); drinks want the alcohol.\n- **\"Bacteria = milk; Yeast = dough & drinks.\"** Sort the micro-organisms by the food.\n- **Lactose → Lactic acid.** Both start with **L** — bacteria turn milk sugar into the sour acid in irgo."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check your answers.\n\n**Q1.** Name the gas that makes injera dough rise.\n\n**Q2.** Yeast is making ethanol. Is there oxygen present or not?\n\n**Q3.** Which micro-organism (yeast or bacteria) is used to make irgo, and what acid does it produce?\n\n**Q4.** Give one modern use of biotechnology in medicine.\n\n---\n\n**Answers**\n\n**A1.** Carbon dioxide.\n\n**A2.** No oxygen — ethanol is made by anaerobic respiration (fermentation).\n\n**A3.** Bacteria; they produce lactic acid from lactose.\n\n**A4.** Making human insulin (or vaccines, or penicillin) using genetically engineered bacteria or moulds."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points to remember",
+                  "body": "- **Biotechnology** = using micro-organisms (mainly **bacteria** and **fungi**) to make useful products.\n- **Yeast** is a single-celled fungus that respires **aerobically** (→ CO₂ + water) or **anaerobically** (→ **ethanol** + CO₂). Anaerobic respiration is called **fermentation**.\n- Carbon dioxide makes **injera** and bread rise; ethanol is the alcohol in **tej**, tella and wine.\n- **Bacteria** turn **lactose** into **lactic acid** to make **irgo** (yoghurt) and **ayib** (cheese).\n- Modern biotechnology uses **genetic engineering**: cutting a gene from one organism and putting it into another (e.g. bacteria making human **insulin**).\n- Other modern uses: better crops (teff at EIAR), the antibiotic **penicillin**, and **biogas** (mainly methane) and **ethanol fuel** for energy."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Learn these terms — they appear in exams.",
+                  "glossary": [
+                    { "term": "Biotechnology", "definition": "The use of micro-organisms to make things that people want, often involving industrial production." },
+                    { "term": "Microbiology", "definition": "The study of micro-organisms and how they affect humans." },
+                    { "term": "Yeast", "definition": "A single-celled fungus used to make injera, bread and alcoholic drinks." },
+                    { "term": "Fermentation", "definition": "Anaerobic respiration in yeast that breaks down sugar to make ethanol and carbon dioxide." },
+                    { "term": "Aerobic respiration", "definition": "Releasing energy from sugar using oxygen, producing carbon dioxide and water." },
+                    { "term": "Anaerobic respiration", "definition": "Releasing energy from sugar without oxygen." },
+                    { "term": "Lactic acid", "definition": "The acid made when bacteria break down lactose; it thickens milk into yoghurt." },
+                    { "term": "Genetic engineering", "definition": "Moving genes from one organism into another to give it new characteristics." },
+                    { "term": "Biogas", "definition": "A flammable mixture of gases (mostly methane) made when bacteria break down waste without oxygen." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is biotechnology?", "back": "The use of micro-organisms to make things that people want, often on an industrial scale." },
+                { "front": "What two things does yeast make during anaerobic respiration (fermentation)?", "back": "Ethanol and carbon dioxide." },
+                { "front": "Why does injera have holes?", "back": "Trapped carbon dioxide gas (made by yeast) expands when the batter is cooked." },
+                { "front": "Which micro-organism makes irgo (yoghurt) and what does it produce?", "back": "Bacteria; they turn lactose into lactic acid." },
+                { "front": "Give one modern medical use of genetic engineering.", "back": "Making human insulin using genetically engineered bacteria." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Definition of biotechnology",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which statement about biotechnology is NOT true?",
+              "options": [
+                "It uses micro-organisms to make useful products",
+                "It is a completely new, modern idea only",
+                "It is based on microbiology",
+                "It is one of the fastest-growing industries"
+              ],
+              "answer": "1",
+              "explanation": "Biotechnology is thousands of years old (making injera, tej, irgo). Only genetic engineering is new, so saying it is a completely new idea is false."
+            },
+            {
+              "topic": "Yeast respiration",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which gas made by yeast causes injera dough to rise?",
+              "options": [
+                "Oxygen",
+                "Carbon dioxide",
+                "Hydrogen",
+                "Methane"
+              ],
+              "answer": "1",
+              "explanation": "Yeast respiration produces carbon dioxide gas, which is trapped in the dough and expands during cooking to make injera's holes."
+            },
+            {
+              "topic": "Anaerobic respiration",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "When yeast respires WITHOUT oxygen, the two products are:",
+              "options": [
+                "Sugar and oxygen",
+                "Carbon dioxide and water",
+                "Ethanol and carbon dioxide",
+                "Lactic acid and water"
+              ],
+              "answer": "2",
+              "explanation": "Anaerobic respiration in yeast (fermentation) breaks sugar into ethanol and carbon dioxide. Lactic acid is made by bacteria, not yeast."
+            },
+            {
+              "topic": "Lactic fermentation",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "How do bacteria turn milk into irgo (yoghurt)?",
+              "options": [
+                "They turn ethanol into vinegar",
+                "They break down lactose into lactic acid",
+                "They add oxygen to the milk",
+                "They break down fat into sugar"
+              ],
+              "answer": "1",
+              "explanation": "Bacteria carry out lactic fermentation: they break down lactose (milk sugar) into lactic acid, which thickens the milk and gives it a tangy taste."
+            },
+            {
+              "topic": "Genetic engineering",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Genetically engineered bacteria are used to make human insulin. Why is this method better than taking insulin from pigs and cattle?",
+              "options": [
+                "It is cheaper because no sugar is needed",
+                "It makes exactly human insulin in a pure, reliable supply",
+                "Bacteria do not need any genetic material",
+                "It removes the need to grow the bacteria at all"
+              ],
+              "answer": "1",
+              "explanation": "A human insulin gene is inserted into bacteria, so they make the exact human protein in pure form and large amounts, unlike the slightly different animal insulin with a variable supply."
+            },
+            {
+              "topic": "Biogas and energy",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A family builds a biogas generator using cow dung. Which is the MAIN gas produced, and under what conditions?",
+              "options": [
+                "Oxygen, produced in aerobic conditions",
+                "Methane, produced by bacteria in anaerobic conditions",
+                "Ethanol vapour, produced by yeast with oxygen",
+                "Carbon dioxide only, produced by burning the dung"
+              ],
+              "answer": "1",
+              "explanation": "Biogas is mainly methane, made when bacteria break down waste in anaerobic (no oxygen) conditions. It can be burned for cooking, lighting or refrigeration."
+            }
+          ]
+        },
+        {
+          "title": "Heredity",
+          "description": "How characteristics pass from parents to offspring through chromosomes, DNA and genes, including mitosis, meiosis, Mendel's work and the breeding of crops and farm animals.",
+          "lessons": [
+            {
+              "title": "Chromosomes, DNA, Cell Division and Inheritance",
+              "summary": "Heredity is the passing of features from parents to children. This lesson explains DNA, genes and chromosomes, compares mitosis and meiosis, and introduces Mendel's laws and selective breeding.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Why do you look like your parents?",
+                  "body": "You may have your mother's eyes or your father's height. This passing of features from parents to offspring is called **heredity** (or inheritance). The instructions are carried inside the **nucleus** of nearly every cell.\n\nInside the nucleus are thread-like structures called **chromosomes**. Chromosomes are made of a chemical called **DNA**, and short sections of DNA are called **genes**. Genes are the instructions that decide your characteristics. In this lesson we learn how these instructions are stored, copied and passed on."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **heredity**, **chromosome**, **DNA** and **gene**.\n- Describe the structure of DNA (the **double helix** and its four **bases**).\n- Define and compare **mitosis** and **meiosis**.\n- Explain how **sex** is determined by the **X** and **Y** chromosomes.\n- Describe **Mendel's** work and the meaning of **selective breeding**."
+                },
+                {
+                  "type": "theory",
+                  "title": "DNA, genes and chromosomes",
+                  "body": "Think of three sizes, from big to small:\n\n- **Chromosome** — a long thread of DNA in the nucleus. Humans have **46** chromosomes, arranged in **23 pairs** (called **homologous pairs**). You get one of each pair from each parent.\n- **Gene** — a short section of a chromosome that codes for one characteristic.\n- **DNA** (deoxyribonucleic acid) — the chemical that genes and chromosomes are made of.\n\n**DNA structure.** DNA is a **double helix** — two strands twisted like a ladder. The 'sides' are made of **sugar** and **phosphate**. The 'rungs' are pairs of four **bases**: **adenine (A)**, **thymine (T)**, **guanine (G)** and **cytosine (C)**. The pairing rule is fixed: **A pairs with T**, and **C pairs with G**. The order of bases is the code that tells the cell how to build **proteins**.\n\n**Sex chromosomes.** Of the 23 pairs, 22 are **autosomes**. The last pair are the **sex chromosomes**: **XX** = female, **XY** = male. The mother always gives an X; the father gives X or Y, so the father determines the baby's sex."
+                },
+                {
+                  "type": "visual",
+                  "title": "Comparing mitosis and meiosis",
+                  "body": "Both are types of cell division, but they have very different jobs and results. Mitosis makes 2 identical cells for growth and repair. Meiosis makes 4 different sex cells with half the chromosomes.",
+                  "visual": {
+                    "kind": "bar-chart",
+                    "data": {
+                      "title": "Number of daughter cells produced",
+                      "unit": "cells",
+                      "bars": [
+                        { "label": "Mitosis", "value": 2 },
+                        { "label": "Meiosis", "value": 4 }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Walkthrough: mitosis vs meiosis",
+                  "body": "Let us follow what happens to a body cell with a simple example. Imagine a cell with just **4 chromosomes** (2 pairs).\n\n**MITOSIS — for growth and repair (makes identical copies)**\n\n1. **Copy.** Before dividing, the cell copies every chromosome. Each chromosome now has two identical halves called **chromatids**.\n2. **Line up.** The chromosomes line up in the middle of the cell.\n3. **Split.** The chromatids are pulled apart to opposite ends.\n4. **Divide.** The cell splits into **2 daughter cells**, each with **4 chromosomes** — exactly the same as the parent cell.\n\n**Result:** 2 identical cells. Used to grow, replace skin cells, and repair wounds. This is also how asexual reproduction works.\n\n**MEIOSIS — for making sex cells (makes variety)**\n\n1. **Copy** the chromosomes (as above).\n2. The cell divides **twice**, not once.\n3. The chromosome number is **halved**.\n\n**Result:** **4 sex cells** (sperm or egg), each with only **2 chromosomes** (half of 4). When a sperm joins an egg at fertilisation, the full number (4) is restored. This is why children are a mix of both parents."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Mixing up the order of sizes.** From big to small it is: **chromosome → gene → DNA base**. DNA is the material; a gene is a piece of it.\n- **Wrong base pairs.** Remember only **A–T** and **C–G**. You will never see A with G.\n- **Saying meiosis makes 2 cells.** Meiosis makes **4** cells; mitosis makes **2**.\n- **Saying mitosis halves the chromosome number.** Mitosis keeps the number the **same**. **Meiosis** halves it.\n- **Thinking the mother decides the baby's sex.** The **father** decides it (he gives X or Y); the mother always gives X."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy ways to remember",
+                  "body": "- **\"Mit-TWO-sis\":** miTOsis makes **TWO** identical cells.\n- **\"Meiosis = More cells, less chromosomes\":** **4** cells, each with **half** the chromosomes.\n- **Base pairs: \"Apple in the Tree, Car in the Garage.\"** **A–T** and **C–G**.\n- **\"XX = girl, XY = boy.\"** Two of the same = female; one of each = male.\n- **\"Dad Decides.\"** The father's sperm (X or Y) determines the baby's sex."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check your answers.\n\n**Q1.** How many chromosomes does a human body cell contain, and how many pairs is that?\n\n**Q2.** In DNA, which base pairs with cytosine (C)?\n\n**Q3.** Which type of cell division makes sex cells: mitosis or meiosis?\n\n**Q4.** A father gives a Y chromosome to the baby. Will the baby be a boy or a girl?\n\n---\n\n**Answers**\n\n**A1.** 46 chromosomes, which is 23 pairs.\n\n**A2.** Guanine (G).\n\n**A3.** Meiosis.\n\n**A4.** A boy (XY)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points to remember",
+                  "body": "- **Heredity** is the passing of characteristics from parents to offspring.\n- Order from big to small: **chromosome → gene → DNA**. A **gene** is a section of DNA that codes for one feature.\n- DNA is a **double helix**; its bases pair as **A–T** and **C–G**. The base order is a code for making proteins.\n- Humans have **46** chromosomes (**23 pairs**); 22 pairs are **autosomes**, one pair are **sex chromosomes** (**XX** female, **XY** male).\n- **Mitosis** makes **2 identical** cells (growth, repair, asexual reproduction). **Meiosis** makes **4 different** sex cells with **half** the chromosomes.\n- **Mendel** studied pea plants and discovered the rules of inheritance.\n- **Selective breeding** is choosing parents with wanted features (e.g. higher milk yield, disease-resistant teff) and breeding from them."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Learn these terms — they appear in exams.",
+                  "glossary": [
+                    { "term": "Heredity", "definition": "The passing of characteristics from parents to their offspring." },
+                    { "term": "Chromosome", "definition": "A thread-like structure of DNA in the nucleus that carries genes." },
+                    { "term": "DNA", "definition": "Deoxyribonucleic acid, the chemical that carries the genetic instructions of living things." },
+                    { "term": "Gene", "definition": "A short section of DNA on a chromosome that codes for one characteristic." },
+                    { "term": "Double helix", "definition": "The twisted-ladder shape of the DNA molecule made of two strands." },
+                    { "term": "Homologous chromosomes", "definition": "A matching pair of chromosomes, one from each parent, carrying the same genes." },
+                    { "term": "Mitosis", "definition": "Cell division that makes two identical daughter cells for growth and repair." },
+                    { "term": "Meiosis", "definition": "Cell division that makes four sex cells, each with half the number of chromosomes." },
+                    { "term": "Selective breeding", "definition": "Choosing parents with desirable characteristics and breeding from them over generations." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is a gene?", "back": "A short section of DNA on a chromosome that codes for one characteristic." },
+                { "front": "What are the DNA base pairing rules?", "back": "A pairs with T, and C pairs with G." },
+                { "front": "How many chromosomes are in a human body cell?", "back": "46 chromosomes, arranged in 23 pairs." },
+                { "front": "How do mitosis and meiosis differ in the cells they make?", "back": "Mitosis makes 2 identical cells; meiosis makes 4 cells with half the chromosomes." },
+                { "front": "Which chromosomes make a person male?", "back": "XY (one X and one Y). XX is female." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "DNA and genes",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which list goes correctly from the LARGEST structure to the smallest?",
+              "options": [
+                "Gene, chromosome, DNA base",
+                "Chromosome, gene, DNA base",
+                "DNA base, gene, chromosome",
+                "Chromosome, DNA base, gene"
+              ],
+              "answer": "1",
+              "explanation": "A chromosome is the long thread; a gene is a section of it; the bases are the smallest units that make up DNA."
+            },
+            {
+              "topic": "DNA structure",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "In a DNA molecule, adenine (A) always pairs with which base?",
+              "options": [
+                "Guanine",
+                "Cytosine",
+                "Thymine",
+                "Another adenine"
+              ],
+              "answer": "2",
+              "explanation": "The fixed pairing rules are A with T and C with G."
+            },
+            {
+              "topic": "Chromosome number",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "How many pairs of chromosomes are in a normal human body cell?",
+              "options": [
+                "46 pairs",
+                "23 pairs",
+                "12 pairs",
+                "2 pairs"
+              ],
+              "answer": "1",
+              "explanation": "Humans have 46 chromosomes in total, which form 23 homologous pairs (one of each pair from each parent)."
+            },
+            {
+              "topic": "Cell division",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which statement correctly describes meiosis?",
+              "options": [
+                "It makes 2 identical cells for repair",
+                "It makes 4 cells, each with half the chromosome number",
+                "It keeps the chromosome number the same",
+                "It only happens in skin cells"
+              ],
+              "answer": "1",
+              "explanation": "Meiosis produces four sex cells, each with half the chromosomes, so that fertilisation restores the full number. Mitosis makes two identical cells."
+            },
+            {
+              "topic": "Sex determination",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A mother always passes an X chromosome to her child. What decides whether the baby is a boy or a girl?",
+              "options": [
+                "Whether the mother's egg carries X or Y",
+                "Whether the father's sperm carries X or Y",
+                "The total number of chromosomes",
+                "The amount of DNA in the egg"
+              ],
+              "answer": "1",
+              "explanation": "The mother only gives X. The father's sperm carries either X (→ girl, XX) or Y (→ boy, XY), so the father determines the baby's sex."
+            },
+            {
+              "topic": "Selective breeding",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "An Ethiopian farmer wants cattle that give more milk. Over several generations he keeps only the highest-milk cows and bulls from high-milk families to breed. This method is called:",
+              "options": [
+                "Genetic engineering",
+                "Selective breeding",
+                "Mitosis",
+                "Fermentation"
+              ],
+              "answer": "1",
+              "explanation": "Choosing parents with a wanted feature (high milk yield) and breeding from them over generations is selective breeding. It is slower than genetic engineering."
+            }
+          ]
+        },
+        {
+          "title": "Human Biology and Health",
+          "description": "How the human body works and stays healthy, focusing on the cell as the basic unit, body systems working together, and how to prevent communicable and non-communicable diseases.",
+          "lessons": [
+            {
+              "title": "The Human Body, Its Systems and Staying Healthy",
+              "summary": "The body is built from cells that form tissues, organs and systems. This lesson covers the main body systems, how they cooperate, and how diseases spread and can be prevented.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "One body, many systems",
+                  "body": "Your body does many things at once: it breathes, digests injera, pumps blood and fights germs. It can do all this because it is organised. The smallest living unit is the **cell**. Many cells of the same kind form a **tissue**; tissues form an **organ** (like the heart); and organs that work together form an **organ system** (like the circulatory system).\n\nGood **health** is not just the absence of disease. It is a state of full physical, mental and social well-being. In this lesson we look at the main body systems and at how to stay healthy and avoid disease."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Describe the levels of organisation: **cell → tissue → organ → system**.\n- Name the main body systems and their jobs.\n- Explain how systems work **together** (for example, the digestive, respiratory and circulatory systems).\n- Define **communicable** and **non-communicable** diseases.\n- List ways to **prevent** the spread of communicable diseases."
+                },
+                {
+                  "type": "theory",
+                  "title": "Body systems and how they cooperate",
+                  "body": "Each system has a clear job:\n\n- **Digestive system** — breaks food into small molecules (e.g. glucose) the body can absorb.\n- **Respiratory system** — takes in **oxygen** and removes **carbon dioxide**.\n- **Circulatory system** — the heart pumps **blood** to carry oxygen, glucose and wastes around the body.\n- **Nervous system** — the brain and nerves sense the world and control the body quickly.\n- **Excretory system** — the kidneys remove liquid wastes (urine) from the blood.\n- **Skeletal and muscular systems** — bones support the body; muscles pull on bones to move it.\n\n**The big idea: systems cooperate.** No system works alone. To release energy in a muscle cell, the **digestive** system supplies glucose, the **respiratory** system supplies oxygen, and the **circulatory** system delivers both to the cell and carries away the carbon dioxide. This is **aerobic respiration** happening inside the cell:\n\nglucose + oxygen → carbon dioxide + water + energy"
+                },
+                {
+                  "type": "visual",
+                  "title": "Inside an animal (human) cell",
+                  "body": "Every body system is built from cells like this one. Notice the **mitochondria**, where respiration releases energy — busy cells such as muscle cells have many of them.",
+                  "visual": {
+                    "kind": "cell",
+                    "data": {
+                      "type": "animal",
+                      "parts": [
+                        { "label": "Cell membrane", "x": 0.5, "y": 0.1 },
+                        { "label": "Cytoplasm", "x": 0.72, "y": 0.62 },
+                        { "label": "Nucleus", "x": 0.5, "y": 0.5 },
+                        { "label": "Mitochondria", "x": 0.3, "y": 0.4 }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Walkthrough: how a cup of milk gives you energy",
+                  "body": "Let us trace one glass of milk and follow how four systems cooperate to power your muscles.\n\n**Step 1 — Digestive system.** In the gut, enzymes break the milk's sugar and protein into small molecules such as **glucose**. Glucose is absorbed through the small intestine wall into the **blood**.\n\n**Step 2 — Respiratory system.** When you breathe in, the lungs take **oxygen** from the air into the blood, and remove carbon dioxide.\n\n**Step 3 — Circulatory system.** The **heart** pumps blood, carrying glucose and oxygen, to every cell — including a muscle cell in your leg.\n\n**Step 4 — Inside the cell.** In the cell's **mitochondria**, aerobic respiration takes place:\nglucose + oxygen → carbon dioxide + water + **energy**.\nThe energy lets the muscle contract so you can walk.\n\n**Step 5 — Removing waste.** The blood carries the **carbon dioxide** back to the lungs to be breathed out, and water/waste to the kidneys.\n\n**Conclusion:** A simple action like walking needs the digestive, respiratory, circulatory and muscular systems to cooperate."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Mixing up the order of organisation.** It is **cell → tissue → organ → system**, not the reverse.\n- **Saying the lungs pump blood.** The **heart** pumps blood; the **lungs** exchange gases.\n- **Thinking respiration means breathing.** **Breathing** is moving air in and out. **Respiration** is the chemical release of energy inside cells.\n- **Confusing the disease types.** **Communicable** diseases spread from person to person (e.g. TB, malaria, cholera). **Non-communicable** diseases do not spread (e.g. diabetes).\n- **Thinking health just means 'not sick'.** Health includes physical, mental and social well-being."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy ways to remember",
+                  "body": "- **\"Cells Together Organise Systems\":** **C**ell → **T**issue → **O**rgan → **S**ystem.\n- **\"Heart pumps, Lungs swap.\"** Heart = pump; lungs = gas exchange.\n- **\"Communicable = Comes to you.\"** It can spread from one person to another.\n- **\"Glucose + Oxygen = Go!\"** These two are needed for respiration that gives energy.\n- **Mitochondria = the 'power station'** of the cell, where energy is released."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check your answers.\n\n**Q1.** Put these in order from smallest to largest: organ, cell, system, tissue.\n\n**Q2.** Which system takes oxygen into the body and removes carbon dioxide?\n\n**Q3.** Is malaria a communicable or a non-communicable disease?\n\n**Q4.** Write the word equation for aerobic respiration.\n\n---\n\n**Answers**\n\n**A1.** Cell → tissue → organ → system.\n\n**A2.** The respiratory system.\n\n**A3.** Communicable (it spreads through mosquito bites).\n\n**A4.** Glucose + oxygen → carbon dioxide + water + energy."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points to remember",
+                  "body": "- The body is organised as **cell → tissue → organ → system**.\n- Main systems: **digestive** (breaks down food), **respiratory** (gas exchange), **circulatory** (transport), **nervous** (control), **excretory** (removes waste), **skeletal/muscular** (support and movement).\n- Systems **cooperate**: respiration in a cell needs glucose (digestive), oxygen (respiratory) and transport (circulatory).\n- **Respiration** (energy release in cells) is different from **breathing** (moving air).\n- **Communicable** diseases spread between people (TB, malaria, cholera, HIV/AIDS); **non-communicable** diseases do not (diabetes).\n- Prevent the spread of disease by **clean water**, hand washing, safe food, **vaccination**, using bed nets against malaria, and good sanitation."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Learn these terms — they appear in exams.",
+                  "glossary": [
+                    { "term": "Cell", "definition": "The smallest living unit that makes up all living things." },
+                    { "term": "Tissue", "definition": "A group of similar cells working together to do one job." },
+                    { "term": "Organ", "definition": "A structure made of different tissues working together, such as the heart." },
+                    { "term": "Organ system", "definition": "A group of organs that work together to carry out a major function." },
+                    { "term": "Respiration", "definition": "The chemical release of energy from glucose inside cells." },
+                    { "term": "Breathing", "definition": "The physical movement of air into and out of the lungs." },
+                    { "term": "Communicable disease", "definition": "A disease that can spread from one person to another, such as tuberculosis." },
+                    { "term": "Non-communicable disease", "definition": "A disease that cannot spread between people, such as diabetes." },
+                    { "term": "Vaccination", "definition": "Giving a vaccine to make the body able to fight a disease before infection." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the correct order of organisation in the body?", "back": "Cell → tissue → organ → organ system." },
+                { "front": "What is the difference between breathing and respiration?", "back": "Breathing moves air in and out; respiration releases energy from glucose inside cells." },
+                { "front": "Which system transports oxygen and glucose around the body?", "back": "The circulatory system (heart and blood vessels)." },
+                { "front": "Give two examples of communicable diseases.", "back": "Malaria and tuberculosis (also cholera, HIV/AIDS)." },
+                { "front": "Write the word equation for aerobic respiration.", "back": "Glucose + oxygen → carbon dioxide + water + energy." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Levels of organisation",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which order shows the levels of organisation from smallest to largest?",
+              "options": [
+                "Organ, tissue, cell, system",
+                "Cell, tissue, organ, system",
+                "System, organ, tissue, cell",
+                "Tissue, cell, system, organ"
+              ],
+              "answer": "1",
+              "explanation": "Cells join to form tissues, tissues form organs, and organs form organ systems."
+            },
+            {
+              "topic": "Body systems",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which organ pumps blood around the body?",
+              "options": [
+                "The lungs",
+                "The heart",
+                "The kidney",
+                "The stomach"
+              ],
+              "answer": "1",
+              "explanation": "The heart is the pump of the circulatory system. The lungs handle gas exchange, not pumping."
+            },
+            {
+              "topic": "Breathing vs respiration",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the main difference between breathing and respiration?",
+              "options": [
+                "They are exactly the same process",
+                "Breathing moves air; respiration releases energy in cells",
+                "Respiration only happens in the lungs",
+                "Breathing makes energy and respiration moves air"
+              ],
+              "answer": "1",
+              "explanation": "Breathing is the physical movement of air in and out of the lungs. Respiration is the chemical reaction inside cells that releases energy from glucose."
+            },
+            {
+              "topic": "Disease types",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which of these is a NON-communicable disease?",
+              "options": [
+                "Tuberculosis",
+                "Malaria",
+                "Diabetes",
+                "Cholera"
+              ],
+              "answer": "2",
+              "explanation": "Diabetes does not spread from person to person, so it is non-communicable. TB, malaria and cholera all spread between people or via a vector."
+            },
+            {
+              "topic": "Systems working together",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A muscle cell needs to release energy. Which combination of systems supplies the glucose and oxygen it needs?",
+              "options": [
+                "Nervous and skeletal systems",
+                "Digestive, respiratory and circulatory systems",
+                "Excretory and muscular systems only",
+                "Respiratory system alone"
+              ],
+              "answer": "1",
+              "explanation": "The digestive system provides glucose, the respiratory system provides oxygen, and the circulatory system delivers both to the cell for respiration."
+            },
+            {
+              "topic": "Disease prevention",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A village has many cases of cholera. Which action would BEST help prevent the disease from spreading?",
+              "options": [
+                "Providing clean, safe drinking water and good sanitation",
+                "Asking everyone to exercise more",
+                "Giving everyone insulin",
+                "Telling people to breathe deeply"
+              ],
+              "answer": "0",
+              "explanation": "Cholera spreads through dirty water and poor sanitation, so clean water, safe food and proper sanitation are the best prevention. Insulin treats diabetes, not cholera."
+            }
+          ]
+        },
+        {
+          "title": "Food Making and Growth in Plants",
+          "description": "How green plants make their own food by photosynthesis, how they transport and use it, and the conditions and processes that control plant growth.",
+          "lessons": [
+            {
+              "title": "Photosynthesis and How Plants Grow",
+              "summary": "Plants make food using sunlight, carbon dioxide and water in a process called photosynthesis. This lesson explains the process, the role of leaves, transport in plants, and the factors that affect growth.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Plants: nature's food factories",
+                  "body": "All the food on your table starts with plants. Teff, maize, vegetables and fruit all grow because green plants can do something animals cannot: make their own food. This food-making process is called **photosynthesis**.\n\nPlants capture energy from **sunlight** using a green pigment called **chlorophyll**, found inside tiny structures called **chloroplasts** in the leaf. Using this energy, they turn simple raw materials into **glucose** (sugar). In this lesson we look at how photosynthesis works and what plants need to grow well."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **photosynthesis** and write its word equation.\n- Explain the role of **chlorophyll**, **sunlight**, **carbon dioxide** and **water**.\n- Describe how the **leaf** is suited to its job.\n- Explain how water and food are **transported** in a plant.\n- List the **factors** that affect the rate of photosynthesis and plant growth."
+                },
+                {
+                  "type": "theory",
+                  "title": "The photosynthesis reaction",
+                  "body": "**Photosynthesis** is the process by which green plants make glucose using light energy. The word equation is:\n\n**carbon dioxide + water → glucose + oxygen** (in the presence of **light** and **chlorophyll**)\n\nWhere does each raw material come from?\n\n- **Carbon dioxide** enters the leaf from the air through tiny holes called **stomata**.\n- **Water** is taken up by the **roots** and carried up to the leaves.\n- **Light** is captured by **chlorophyll** inside the **chloroplasts**.\n\nThe products are useful:\n\n- **Glucose** is used for energy (in respiration) or stored as **starch**, or used to build the plant.\n- **Oxygen** is released into the air — the oxygen we breathe.\n\n**Transport in plants.** Plants have two transport tubes: **xylem** carries water and minerals **up** from the roots, and **phloem** carries dissolved food (glucose) from the leaves to the rest of the plant."
+                },
+                {
+                  "type": "visual",
+                  "title": "What changes the rate of photosynthesis?",
+                  "body": "Photosynthesis speeds up when conditions improve, up to a limit. This chart shows the relative effect of three key factors when each is increased from low to high.",
+                  "visual": {
+                    "kind": "bar-chart",
+                    "data": {
+                      "title": "Relative rate of photosynthesis as each factor increases",
+                      "unit": "relative rate",
+                      "bars": [
+                        { "label": "More light", "value": 9 },
+                        { "label": "More CO₂", "value": 8 },
+                        { "label": "Warmer temperature", "value": 7 }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Walkthrough: testing a leaf for starch",
+                  "body": "A famous experiment shows that a leaf makes starch only where it gets light. Let us follow the steps and the reasoning.\n\n**Step 1 — Destarch the plant.** Keep the plant in the dark for 1–2 days. *Why?* So it uses up any stored starch. Now any new starch must come from new photosynthesis.\n\n**Step 2 — Cover part of a leaf.** Put black paper or foil over part of one leaf, then put the plant in sunlight for a few hours. *Why?* The covered part gets no light; the uncovered part does.\n\n**Step 3 — Boil the leaf in water.** This kills the leaf and breaks down its cells. \n\n**Step 4 — Boil the leaf in alcohol (ethanol).** *Why?* The alcohol removes the green **chlorophyll** so colour changes are easy to see. (Note: do this away from a flame because alcohol catches fire.)\n\n**Step 5 — Add iodine solution.** Iodine is the **test for starch**: it turns from brown to **blue-black** where starch is present.\n\n**Result:** The part that **had light** turns **blue-black** (starch made). The **covered** part stays brown (no starch).\n\n**Conclusion:** Light is needed for photosynthesis, because starch only forms where the leaf received light."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Reversing the equation.** Photosynthesis takes **in** carbon dioxide and gives **out** oxygen — the opposite of respiration.\n- **Saying plants do not respire.** Plants **also** respire, all the time, to release energy. Photosynthesis happens only in light; respiration happens day and night.\n- **Confusing the gases.** In photosynthesis, **oxygen** is the product; **carbon dioxide** is a raw material.\n- **Mixing up the transport tubes.** **Xylem = water up** (from roots). **Phloem = food** (from leaves).\n- **Forgetting chlorophyll.** Without **chlorophyll**, the plant cannot trap light energy, so no photosynthesis happens (that is why white parts of leaves make no starch)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy ways to remember",
+                  "body": "- **\"Photo = light.\"** Photosynthesis needs light. No light, no photosynthesis.\n- **\"Iodine → Inky blue for starch.\"** Iodine turns blue-black when starch is there.\n- **\"Xylem = wateX up; Phloem = Food.\"** Xylem carries water up; phloem carries food.\n- **Opposite reactions:** Photosynthesis stores energy and makes oxygen; respiration releases energy and makes carbon dioxide.\n- **\"CrLOW\":** the raw materials are **C**arbon dioxide, ch**L**orophyll, **O**xygen out, **W**ater — light powers it all."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check your answers.\n\n**Q1.** Write the word equation for photosynthesis.\n\n**Q2.** Which gas do plants take in for photosynthesis, and which do they release?\n\n**Q3.** What is the chemical test for starch, and what colour shows a positive result?\n\n**Q4.** Which tube carries water from the roots up to the leaves?\n\n---\n\n**Answers**\n\n**A1.** Carbon dioxide + water → glucose + oxygen (using light and chlorophyll).\n\n**A2.** Takes in carbon dioxide; releases oxygen.\n\n**A3.** Iodine solution; it turns blue-black if starch is present.\n\n**A4.** The xylem."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points to remember",
+                  "body": "- **Photosynthesis** lets green plants make their own food using light energy.\n- Word equation: **carbon dioxide + water → glucose + oxygen** (needs **light** and **chlorophyll**).\n- **Carbon dioxide** enters through **stomata**, **water** comes from the **roots**, and **chlorophyll** in **chloroplasts** traps light.\n- **Glucose** is used in respiration, stored as **starch**, or used to grow; **oxygen** is released.\n- **Iodine** is the test for starch (turns **blue-black**).\n- **Xylem** carries water up from roots; **phloem** carries food from leaves.\n- Photosynthesis (and plant growth) speeds up with more **light**, more **carbon dioxide** and a **warmer temperature**, up to a limit.\n- Plants also **respire** day and night to release energy."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Learn these terms — they appear in exams.",
+                  "glossary": [
+                    { "term": "Photosynthesis", "definition": "The process by which green plants make glucose from carbon dioxide and water using light energy." },
+                    { "term": "Chlorophyll", "definition": "The green pigment in plants that absorbs light energy for photosynthesis." },
+                    { "term": "Chloroplast", "definition": "The structure inside leaf cells that contains chlorophyll and where photosynthesis happens." },
+                    { "term": "Stomata", "definition": "Tiny holes in the leaf that let carbon dioxide in and oxygen and water vapour out." },
+                    { "term": "Glucose", "definition": "The sugar made in photosynthesis, used for energy or stored as starch." },
+                    { "term": "Starch", "definition": "The stored form of glucose in plants; it turns iodine blue-black." },
+                    { "term": "Xylem", "definition": "The tubes that carry water and minerals up from the roots to the leaves." },
+                    { "term": "Phloem", "definition": "The tubes that carry dissolved food from the leaves to the rest of the plant." },
+                    { "term": "Respiration", "definition": "The release of energy from glucose, which happens in plant cells day and night." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "Write the word equation for photosynthesis.", "back": "Carbon dioxide + water → glucose + oxygen (using light and chlorophyll)." },
+                { "front": "What is the job of chlorophyll?", "back": "It absorbs light energy so the plant can carry out photosynthesis." },
+                { "front": "What is the test for starch and the positive result?", "back": "Iodine solution; it turns blue-black if starch is present." },
+                { "front": "What do xylem and phloem each carry?", "back": "Xylem carries water up from the roots; phloem carries food from the leaves." },
+                { "front": "Name three factors that increase the rate of photosynthesis.", "back": "More light, more carbon dioxide, and a warmer temperature (up to a limit)." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Photosynthesis equation",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which raw materials does a plant use for photosynthesis?",
+              "options": [
+                "Glucose and oxygen",
+                "Carbon dioxide and water",
+                "Oxygen and starch",
+                "Nitrogen and water"
+              ],
+              "answer": "1",
+              "explanation": "Photosynthesis uses carbon dioxide and water (with light and chlorophyll) to make glucose and oxygen."
+            },
+            {
+              "topic": "Products of photosynthesis",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which gas is released by plants during photosynthesis?",
+              "options": [
+                "Carbon dioxide",
+                "Nitrogen",
+                "Oxygen",
+                "Hydrogen"
+              ],
+              "answer": "2",
+              "explanation": "Oxygen is a product of photosynthesis and is released into the air. Carbon dioxide is a raw material, not a product."
+            },
+            {
+              "topic": "Chlorophyll and chloroplasts",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Why can a white (colourless) part of a leaf NOT make starch?",
+              "options": [
+                "It has no stomata",
+                "It has no chlorophyll to trap light energy",
+                "It has too much water",
+                "It is too far from the roots"
+              ],
+              "answer": "1",
+              "explanation": "Photosynthesis needs chlorophyll to absorb light. Parts without chlorophyll cannot photosynthesise, so they make no starch."
+            },
+            {
+              "topic": "Transport in plants",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which tissue carries water and minerals up from the roots to the leaves?",
+              "options": [
+                "Phloem",
+                "Xylem",
+                "Stomata",
+                "Chloroplast"
+              ],
+              "answer": "1",
+              "explanation": "Xylem carries water and minerals upward from the roots. Phloem carries dissolved food from the leaves."
+            },
+            {
+              "topic": "Testing a leaf for starch",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "In the starch test, why is the leaf boiled in alcohol (ethanol)?",
+              "options": [
+                "To add starch to the leaf",
+                "To remove the green chlorophyll so colour changes are clearly seen",
+                "To make the leaf produce oxygen",
+                "To cool the leaf quickly"
+              ],
+              "answer": "1",
+              "explanation": "Boiling in alcohol removes the chlorophyll, leaving the leaf pale so the blue-black iodine colour change for starch is easy to see."
+            },
+            {
+              "topic": "Rate of photosynthesis",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A farmer grows vegetables in a greenhouse. On a bright, warm day the plants still grow slowly. Adding which of these would MOST likely increase the rate of photosynthesis?",
+              "options": [
+                "Less water",
+                "More carbon dioxide in the air",
+                "Less light",
+                "Cooler temperature"
+              ],
+              "answer": "1",
+              "explanation": "If light and warmth are already high, carbon dioxide may be the limiting factor, so adding more carbon dioxide would increase the rate of photosynthesis."
+            }
+          ]
+        },
+        {
+          "title": "Conservation of Natural Resources",
+          "description": "Why natural resources such as soil, water, forests and wildlife must be protected, the causes of their loss, and the ways people in Ethiopia can conserve them for the future.",
+          "lessons": [
+            {
+              "title": "Protecting Soil, Water, Forests and Wildlife",
+              "summary": "Natural resources support all life but can be damaged or used up. This lesson explains renewable and non-renewable resources, threats like deforestation and soil erosion, and how to conserve them.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "The resources that keep us alive",
+                  "body": "Everything we use comes from nature: the **soil** that grows teff, the **water** we drink, the **forests** that give wood and clean air, and the **wildlife** that makes up Ethiopia's rich biodiversity. These are called **natural resources**.\n\nSome resources can be replaced if we are careful; others cannot. **Conservation** means using and protecting natural resources wisely so they are not destroyed and so they will still be there for future generations. In this lesson we learn the threats to our resources and how to protect them."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **natural resource** and **conservation**.\n- Explain the difference between **renewable** and **non-renewable** resources.\n- Describe major threats: **deforestation**, **soil erosion**, **pollution** and loss of **biodiversity**.\n- Explain why these threats matter, especially in Ethiopia.\n- List practical ways to **conserve** soil, water, forests and wildlife."
+                },
+                {
+                  "type": "theory",
+                  "title": "Renewable and non-renewable resources, and the threats",
+                  "body": "Natural resources are of two main types:\n\n- **Renewable resources** can be replaced naturally within a short time if used carefully — for example, **water**, **forests**, **soil** and **wildlife** (but only if we do not destroy them faster than they recover).\n- **Non-renewable resources** cannot be replaced once used up, or take millions of years to form — for example **coal**, **oil** and natural gas.\n\n**Why resources are under threat (and why it matters):**\n\n- **Deforestation** (cutting down forests) removes tree roots that hold the soil. This leads to **soil erosion**, less rainfall, loss of habitats and more carbon dioxide in the air.\n- **Soil erosion** is when fertile **topsoil** is washed or blown away. Without topsoil, crops like teff and maize grow poorly, threatening food supply.\n- **Pollution** of water, air and land harms living things and makes water unsafe to drink.\n- **Loss of biodiversity** means species of plants and animals disappear, which can break food chains and damage whole ecosystems.\n\nEthiopia has worked hard on this — for example through tree-planting campaigns and protected areas such as the Simien Mountains National Park, home to the rare **Walia ibex** and **Gelada baboon**."
+                },
+                {
+                  "type": "visual",
+                  "title": "Loss of forest cover over time",
+                  "body": "Forests have shrunk in many regions as land is cleared for farming and firewood. This timeline shows the kind of decline conservation efforts aim to reverse, and the recent push to replant.",
+                  "visual": {
+                    "kind": "timeline",
+                    "data": {
+                      "title": "Forest cover and conservation milestones (illustrative)",
+                      "events": [
+                        { "date": "Early 1900s", "label": "Large areas of natural forest cover the highlands" },
+                        { "date": "Late 1900s", "label": "Forests shrink due to farming, firewood and grazing" },
+                        { "date": "2000s", "label": "Soil erosion and water shortages increase" },
+                        { "date": "Today", "label": "Tree-planting drives and protected parks help forests recover" }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Walkthrough: how deforestation leads to hunger",
+                  "body": "Let us trace, step by step, how cutting trees on a hillside can end in crop failure. This shows why the parts of nature are connected.\n\n**Step 1 — Trees are cut.** People clear a forested hillside for farmland and firewood. The protective tree cover is gone.\n\n**Step 2 — Roots no longer hold the soil.** Tree roots used to grip the soil and soak up rain. Without them, the ground is bare and loose.\n\n**Step 3 — Rain washes the soil away.** When the heavy rains come, water runs straight down the slope and carries the fertile **topsoil** with it. This is **soil erosion**.\n\n**Step 4 — The land becomes poor.** The topsoil holds the nutrients plants need. Once it is gone, the soil is thin and infertile.\n\n**Step 5 — Crops fail.** Teff and maize grow poorly in the poor soil. Harvests fall, and families may face food shortage.\n\n**Conclusion:** Cutting trees does not just remove wood — it can cause soil erosion, poor harvests and hunger. This is why **conservation** methods like **terracing** and **reforestation** matter so much."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Calling all resources renewable.** **Coal, oil and gas are non-renewable** — once used, they are gone.\n- **Thinking forests only give wood.** Forests also hold soil, store water, give oxygen, and provide habitats for wildlife.\n- **Confusing conservation with using nothing.** Conservation means using resources **wisely and sustainably**, not never using them.\n- **Saying soil erosion only loses 'dirt'.** It loses the fertile **topsoil**, which is hard to replace and vital for crops.\n- **Forgetting the links.** Cutting trees can cause erosion, water shortage and lost wildlife — the problems are connected."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy ways to remember",
+                  "body": "- **\"Renewable Returns.\"** Renewable resources can come back (water, forests) if cared for.\n- **\"Coal, Oil, Gas — Can't come back.\"** The three main non-renewable fuels.\n- **\"No trees → No topsoil.\"** Trees hold soil; remove them and erosion follows.\n- **\"Conserve = use Carefully.\"** Conservation is wise use, not no use.\n- **\"SWFW\":** the four resources to protect — **S**oil, **W**ater, **F**orests, **W**ildlife."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check your answers.\n\n**Q1.** Give one renewable and one non-renewable resource.\n\n**Q2.** What is soil erosion, and what valuable layer does it remove?\n\n**Q3.** How does planting trees (reforestation) help reduce soil erosion?\n\n**Q4.** Define conservation in one sentence.\n\n---\n\n**Answers**\n\n**A1.** Renewable: water (or forests, soil, wildlife). Non-renewable: coal (or oil, natural gas).\n\n**A2.** Soil erosion is the washing or blowing away of soil; it removes the fertile topsoil.\n\n**A3.** Tree roots hold the soil in place and soak up rainwater, so less soil is washed away.\n\n**A4.** Conservation is the wise use and protection of natural resources so they last for the future."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points to remember",
+                  "body": "- **Natural resources** include **soil, water, forests and wildlife**.\n- **Renewable** resources can be replaced (water, forests, soil) if used carefully; **non-renewable** ones cannot (coal, oil, gas).\n- Major threats: **deforestation**, **soil erosion**, **pollution** and **loss of biodiversity** — and they are linked.\n- **Deforestation** removes roots that hold soil, leading to **erosion**, poor crops and lost habitats.\n- **Conservation** is using and protecting resources wisely so they remain for the future.\n- Ways to conserve: **reforestation** (planting trees), **terracing** slopes to stop erosion, protecting water, reducing pollution, and creating **national parks** (e.g. Simien Mountains, protecting the Walia ibex).\n- Caring for nature protects food supply, clean water and Ethiopia's biodiversity."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Learn these terms — they appear in exams.",
+                  "glossary": [
+                    { "term": "Natural resource", "definition": "Something useful from nature, such as soil, water, forests, wildlife or minerals." },
+                    { "term": "Conservation", "definition": "The wise use and protection of natural resources so they last for the future." },
+                    { "term": "Renewable resource", "definition": "A resource that can be replaced naturally in a short time if used carefully, such as water or forests." },
+                    { "term": "Non-renewable resource", "definition": "A resource that cannot be replaced once used up, such as coal, oil or natural gas." },
+                    { "term": "Deforestation", "definition": "The cutting down or clearing of forests." },
+                    { "term": "Soil erosion", "definition": "The washing or blowing away of fertile topsoil." },
+                    { "term": "Topsoil", "definition": "The upper, fertile layer of soil where most plant nutrients are found." },
+                    { "term": "Biodiversity", "definition": "The variety of different living species in an area." },
+                    { "term": "Reforestation", "definition": "Planting trees to replace forests that have been lost." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is conservation?", "back": "The wise use and protection of natural resources so they last for the future." },
+                { "front": "Give one renewable and one non-renewable resource.", "back": "Renewable: water or forests. Non-renewable: coal, oil or natural gas." },
+                { "front": "What is soil erosion?", "back": "The washing or blowing away of fertile topsoil." },
+                { "front": "How does deforestation cause soil erosion?", "back": "Removing trees removes the roots that hold the soil, so rain washes the topsoil away." },
+                { "front": "Name one way to conserve forests and soil.", "back": "Reforestation (planting trees) and terracing slopes to stop erosion." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Natural resources",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of the following is a NON-renewable resource?",
+              "options": [
+                "Water",
+                "Forests",
+                "Coal",
+                "Soil"
+              ],
+              "answer": "2",
+              "explanation": "Coal cannot be replaced once used up (it takes millions of years to form), so it is non-renewable. Water, forests and soil can be renewed if managed carefully."
+            },
+            {
+              "topic": "Conservation meaning",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What does conservation of natural resources mean?",
+              "options": [
+                "Never using any natural resource at all",
+                "Using and protecting resources wisely so they last",
+                "Using resources as fast as possible",
+                "Selling all resources to other countries"
+              ],
+              "answer": "1",
+              "explanation": "Conservation is the wise, sustainable use and protection of resources so they remain available for the future."
+            },
+            {
+              "topic": "Deforestation",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which problem is most directly caused by cutting down forests on a hillside?",
+              "options": [
+                "More fertile topsoil",
+                "Increased soil erosion",
+                "More rainfall everywhere",
+                "Stronger tree roots"
+              ],
+              "answer": "1",
+              "explanation": "Removing trees removes the roots that hold the soil, so rain washes the soil away, increasing soil erosion."
+            },
+            {
+              "topic": "Soil erosion",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Why is the loss of topsoil through erosion a serious problem for farmers?",
+              "options": [
+                "Topsoil is the layer richest in nutrients for crops",
+                "Topsoil has no use for plants",
+                "Topsoil stops plants from getting water",
+                "Topsoil is easy to replace in one day"
+              ],
+              "answer": "0",
+              "explanation": "Topsoil holds most of the nutrients plants need. When it is eroded, the soil becomes infertile and crops grow poorly, threatening food supply."
+            },
+            {
+              "topic": "Biodiversity",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Ethiopia created the Simien Mountains National Park partly to protect the rare Walia ibex. This is mainly an example of conserving:",
+              "options": [
+                "Non-renewable fuels",
+                "Biodiversity and wildlife",
+                "Air pollution",
+                "Industrial machines"
+              ],
+              "answer": "1",
+              "explanation": "Protecting a rare animal species in a national park conserves wildlife and biodiversity (the variety of living species)."
+            },
+            {
+              "topic": "Conservation methods",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A community on a steep, eroding hillside wants to keep their soil and grow better crops. Which TWO actions would help most?",
+              "options": [
+                "Planting trees and building terraces on the slope",
+                "Cutting all remaining trees and burning the grass",
+                "Removing all plants and leaving the soil bare",
+                "Letting more animals overgraze the land"
+              ],
+              "answer": "0",
+              "explanation": "Reforestation (tree roots hold soil) and terracing (slows water running down a slope) both reduce soil erosion and protect fertile topsoil. The other options would make erosion worse."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

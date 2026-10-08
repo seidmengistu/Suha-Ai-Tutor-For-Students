@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "chemistry",
+      "questions": [
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Where in the atom are the protons and neutrons found?",
+          "options": ["In the nucleus", "In the electron cloud", "Spread evenly throughout the atom", "Outside the atom"],
+          "answer": "0",
+          "explanation": "Protons and neutrons are packed together in the small, dense nucleus at the centre of the atom."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which subatomic particle has no electric charge?",
+          "options": ["Proton", "Electron", "Neutron", "Ion"],
+          "answer": "2",
+          "explanation": "The neutron is electrically neutral. The proton is positive and the electron is negative."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A horizontal row in the periodic table is called a:",
+          "options": ["Group", "Period", "Family", "Block"],
+          "answer": "1",
+          "explanation": "A horizontal row is a period; a vertical column is a group."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "How do atoms reach a stable arrangement in a covalent bond?",
+          "options": ["By sharing electrons", "By transferring electrons completely", "By losing protons", "By gaining neutrons"],
+          "answer": "0",
+          "explanation": "In a covalent bond, atoms share one or more pairs of electrons to gain a stable outer shell."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In a chemical equation, the substances written on the left of the arrow are the:",
+          "options": ["Products", "Reactants", "Catalysts", "Coefficients"],
+          "answer": "1",
+          "explanation": "Reactants are the starting substances, written on the left of the arrow; products are formed and written on the right."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In which state of matter are the particles the farthest apart?",
+          "options": ["Solid", "Liquid", "Gas", "They are equally spaced in all states"],
+          "answer": "2",
+          "explanation": "Gas particles are spread far apart with large empty spaces between them, much more than in solids or liquids."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A neutral atom of aluminium has 13 protons. How many electrons does it have?",
+          "options": ["13", "14", "27", "26"],
+          "answer": "0",
+          "explanation": "A neutral atom has equal numbers of protons and electrons, so aluminium has 13 electrons."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An atom of fluorine has 9 protons and 10 neutrons. What is its mass number?",
+          "options": ["9", "10", "19", "1"],
+          "answer": "2",
+          "explanation": "Mass number = protons + neutrons = 9 + 10 = 19."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An element is in Group 2 of the periodic table. How many valence (outer) electrons does it have?",
+          "options": ["1", "2", "8", "0"],
+          "answer": "1",
+          "explanation": "For the main groups, the group number gives the number of valence electrons, so a Group 2 element has 2."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which group of elements is known for being very unreactive (the noble gases)?",
+          "options": ["Group 1", "Group 2", "Group 17", "Group 18"],
+          "answer": "3",
+          "explanation": "Group 18 elements are the noble gases. Their full outer shells make them very unreactive."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When a metal atom forms an ionic bond, it usually becomes a:",
+          "options": ["Positive ion (cation)", "Negative ion (anion)", "Neutral atom", "Larger atom"],
+          "answer": "0",
+          "explanation": "A metal loses electrons in an ionic bond, leaving more protons than electrons, so it becomes a positive ion (cation)."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which pair of elements is most likely to form a covalent bond?",
+          "options": ["Sodium and chlorine", "Magnesium and oxygen", "Oxygen and oxygen", "Potassium and fluorine"],
+          "answer": "2",
+          "explanation": "Covalent bonds form between non-metals. Oxygen and oxygen are both non-metals, so they share electrons covalently."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "What coefficient is needed in front of O2 to balance: CH4 + __ O2 -> CO2 + 2H2O ?",
+          "options": ["1", "2", "3", "4"],
+          "answer": "1",
+          "explanation": "The right side has 2 oxygen atoms in CO2 and 2 in 2H2O, giving 4 oxygen atoms. Since each O2 has 2 atoms, 2 O2 molecules are needed."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A reaction in which two or more substances combine to form a single new substance is called a:",
+          "options": ["Decomposition reaction", "Combination reaction", "Displacement reaction", "Double displacement reaction"],
+          "answer": "1",
+          "explanation": "A combination (synthesis) reaction joins two or more reactants into one product."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The change of state directly from a gas to a liquid is called:",
+          "options": ["Melting", "Evaporation", "Condensation", "Freezing"],
+          "answer": "2",
+          "explanation": "Condensation is the change from gas to liquid, which happens when heat is removed and particles slow down."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What causes the pressure exerted by a gas on the walls of its container?",
+          "options": ["The weight of the gas only", "Gas particles colliding with the walls", "The particles staying still", "The container shrinking"],
+          "answer": "1",
+          "explanation": "Gas pressure comes from the fast-moving gas particles constantly colliding with the walls of the container."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Carbon-12 and carbon-14 are isotopes. Which statement about them is correct?",
+          "options": ["They have different numbers of protons", "They have the same number of neutrons", "They have different numbers of neutrons but the same number of protons", "They are different elements"],
+          "answer": "2",
+          "explanation": "Isotopes share the same number of protons (6 for carbon) but differ in neutrons: carbon-12 has 6 and carbon-14 has 8."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Comparing magnesium (Group 2, Period 3) and calcium (Group 2, Period 4), which is true?",
+          "options": ["Calcium has a larger atomic radius than magnesium", "Magnesium has more valence electrons than calcium", "Calcium has a higher ionisation energy than magnesium", "They have completely different chemical properties"],
+          "answer": "0",
+          "explanation": "Calcium is below magnesium in the same group, so it has an extra electron shell, giving it a larger atomic radius."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Ionic compounds such as sodium chloride usually have high melting points because:",
+          "options": ["The forces between their ions are weak", "Strong attractions between oppositely charged ions need a lot of energy to break", "They are made only of gases", "Their particles do not attract each other"],
+          "answer": "1",
+          "explanation": "The strong electrostatic attraction between oppositely charged ions requires a large amount of energy to overcome, giving high melting points."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In the reaction Zn + CuSO4 -> ZnSO4 + Cu, zinc loses two electrons. Zinc is therefore:",
+          "options": ["Reduced", "Oxidised", "Acting as a catalyst", "Unchanged"],
+          "answer": "1",
+          "explanation": "Loss of electrons is oxidation (OIL RIG: Oxidation Is Loss). Zinc loses electrons, so it is oxidised."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "When ice melts into liquid water, the substance:",
+          "options": ["Changes into a new substance", "Stays the same substance but its particles gain energy and move more freely", "Loses its particles", "Becomes a gas immediately"],
+          "answer": "1",
+          "explanation": "Melting is a physical change. The water particles stay the same but gain energy and move more freely as the solid becomes a liquid."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A magnesium ion is written as Mg with a 2+ charge and has a mass number of 24 and atomic number 12. How many protons, electrons, and neutrons does it have?",
+          "options": ["12 protons, 12 electrons, 12 neutrons", "12 protons, 10 electrons, 12 neutrons", "12 protons, 14 electrons, 12 neutrons", "10 protons, 10 electrons, 14 neutrons"],
+          "answer": "1",
+          "explanation": "Protons = atomic number = 12. The 2+ charge means it lost 2 electrons, so electrons = 12 - 2 = 10. Neutrons = 24 - 12 = 12."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "An element has the electron arrangement 2, 8, 7. In which group and period of the periodic table is it found?",
+          "options": ["Group 7, Period 2", "Group 17, Period 3", "Group 2, Period 8", "Group 18, Period 3"],
+          "answer": "1",
+          "explanation": "The number of shells (3) gives the period, and the 7 outer electrons place it in Group 17, so it is in Group 17, Period 3."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In the balanced reaction N2 + 3H2 -> 2NH3, if 6 molecules of H2 react completely, how many molecules of NH3 are produced?",
+          "options": ["2", "3", "4", "6"],
+          "answer": "2",
+          "explanation": "The ratio of H2 to NH3 is 3 to 2. With 6 molecules of H2, NH3 = 6 divided by 3, times 2 = 4 molecules."
+        }
+      ]
+    }
+  ]
+}

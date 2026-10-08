@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Future with going to",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Selam has already chosen her subject and registered. Which sentence best reports her settled plan?",
+          "options": ["She is going to study agriculture.", "She studies agriculture tomorrow.", "She will studying agriculture.", "She going to study agriculture."],
+          "answer": "0",
+          "explanation": "A plan decided before the moment of speaking uses 'be going to': 'She is going to study agriculture.'"
+        },
+        {
+          "topic": "Modals of advice",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Your friend has a bad cough. Which sentence gives gentle advice?",
+          "options": ["You ought to see a doctor.", "You ought see a doctor.", "You ought to seeing a doctor.", "You oughts to see a doctor."],
+          "answer": "0",
+          "explanation": "'Ought to' is followed by the base verb: 'You ought to see a doctor.' The other options break the fixed form."
+        },
+        {
+          "topic": "Relative pronouns",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct word: 'A nurse is a person ______ cares for sick people.'",
+          "options": ["who", "which", "where", "whose"],
+          "answer": "0",
+          "explanation": "We use 'who' for people: 'a person who cares for sick people.'"
+        },
+        {
+          "topic": "For and since",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: 'My uncle has owned the bakery ______ ten years.'",
+          "options": ["for", "since", "ago", "during"],
+          "answer": "0",
+          "explanation": "We use 'for' with a length of time: 'for ten years.' 'Since' is used with a starting point."
+        },
+        {
+          "topic": "Vocabulary: environment",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What does 'pollution' mean?",
+          "options": ["Harmful materials that damage air, water, or land", "The planting of new forests", "Careful use of natural resources", "A long period without rain"],
+          "answer": "0",
+          "explanation": "Pollution is harmful material, such as smoke or waste, that damages the air, water, or land."
+        },
+        {
+          "topic": "Similes",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which sentence is a simile?",
+          "options": ["The baby slept as peacefully as an angel.", "The baby was a little angel.", "The night smiled upon the village.", "The sleeping baby looked calm."],
+          "answer": "0",
+          "explanation": "A simile compares using 'like' or 'as': 'as peacefully as an angel.' The second is a metaphor and the third is personification."
+        },
+        {
+          "topic": "Present continuous for future",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The appointment is confirmed in the diary. Choose the most natural form: 'I ______ the careers adviser at nine tomorrow.'",
+          "options": ["am seeing", "will see", "see", "would see"],
+          "answer": "0",
+          "explanation": "A fixed arrangement with a definite time uses the present continuous: 'I am seeing the careers adviser at nine tomorrow.'"
+        },
+        {
+          "topic": "Prohibition vs no obligation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A sign in the laboratory reads: 'Open flames are strictly banned.' Which sentence reports this correctly?",
+          "options": ["You mustn't light a flame in here.", "You don't have to light a flame in here.", "You needn't light a flame in here.", "You shouldn't to light a flame in here."],
+          "answer": "0",
+          "explanation": "A ban means it is forbidden, so we use 'mustn't'. 'Don't have to' and 'needn't' would wrongly mean it is simply not necessary."
+        },
+        {
+          "topic": "Passive voice: present simple",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Rewrite in the passive: 'Engineers test the new bridge every month.'",
+          "options": ["The new bridge is tested every month.", "The new bridge tests every month.", "The new bridge is test every month.", "The new bridge was tested every month."],
+          "answer": "0",
+          "explanation": "Present simple passive is 'is/are + past participle', and the time stays present: 'The new bridge is tested every month.'"
+        },
+        {
+          "topic": "Second conditional",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct second conditional: 'If our town ______ a bus service, fewer people ______ to walk for hours.'",
+          "options": ["had / would have", "has / will have", "would have / had", "had / will have"],
+          "answer": "0",
+          "explanation": "The second conditional is 'If + past simple, ... would + base verb': 'If our town had a bus service, fewer people would have to walk.'"
+        },
+        {
+          "topic": "Reported questions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Report this question: \"Are you watching the debate tonight?\" the reporter asked me.",
+          "options": ["The reporter asked me whether I was watching the debate that night.", "The reporter asked me whether was I watching the debate that night.", "The reporter asked me whether I am watching the debate tonight.", "The reporter asked me whether I was watching the debate that night?"],
+          "answer": "0",
+          "explanation": "A reported yes/no question uses 'whether', normal word order, backshift ('are' to 'was'), 'tonight' to 'that night', and no question mark."
+        },
+        {
+          "topic": "Ordering past events",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The reading happened first, then the visit. Choose the correct sentence.",
+          "options": ["She had read about Lalibela before she travelled there.", "She read about Lalibela before she had travelled there.", "She has read about Lalibela before she travelled there.", "She had read about Lalibela before she had travelled there."],
+          "answer": "0",
+          "explanation": "The earlier action takes the past perfect and the later one the past simple: 'She had read... before she travelled there.'"
+        },
+        {
+          "topic": "Vocabulary: media",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A news report describes a claim as 'unverified'. What does this most likely mean?",
+          "options": ["It has not yet been checked or proven true", "It has been proven completely false", "It was printed in large letters", "It was broadcast on the radio"],
+          "answer": "0",
+          "explanation": "'Unverified' means the information has not yet been checked or confirmed as true."
+        },
+        {
+          "topic": "Reading comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read: 'Although the harvest had been poor, the cooperative still managed to repay its loan, mainly because its members had saved carefully throughout the year.' Why was the cooperative able to repay the loan?",
+          "options": ["Its members had saved carefully during the year", "The harvest had been very good", "The bank cancelled most of the loan", "The cooperative borrowed more money"],
+          "answer": "0",
+          "explanation": "The passage states the loan was repaid 'mainly because its members had saved carefully throughout the year.'"
+        },
+        {
+          "topic": "Future forms",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which response best fits? Ribka: 'I can't open this jar.' Dawit: '______'",
+          "options": ["Don't worry, I'll open it for you.", "Don't worry, I'm going to open it for you.", "Don't worry, I open it for you.", "Don't worry, I'm opening it for you."],
+          "answer": "0",
+          "explanation": "An offer or decision made at the moment of speaking uses 'will': 'I'll open it for you.'"
+        },
+        {
+          "topic": "Modals of deduction",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The lights are off and the gate is locked. Choose the best deduction.",
+          "options": ["The clinic must be closed.", "The clinic can be closed.", "The clinic must to be closed.", "The clinic should being closed."],
+          "answer": "0",
+          "explanation": "When evidence makes us almost certain, we use 'must' for deduction: 'The clinic must be closed.'"
+        },
+        {
+          "topic": "Passive voice: modal",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Rewrite in the passive: 'People should protect ancient monuments.'",
+          "options": ["Ancient monuments should be protected.", "Ancient monuments should protected.", "Ancient monuments should be protect.", "Ancient monuments are should protected."],
+          "answer": "0",
+          "explanation": "A modal passive is 'modal + be + past participle': 'Ancient monuments should be protected.'"
+        },
+        {
+          "topic": "Mixed conditionals",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["If the factory had used filters, the river would not be so polluted today.", "If the factory used filters, the river would not have been so polluted today.", "If the factory had used filters, the river would not been so polluted today.", "If the factory has used filters, the river would not be so polluted today."],
+          "answer": "0",
+          "explanation": "A past condition ('had used') with a present result ('would not be') is a mixed conditional and is correctly formed here."
+        },
+        {
+          "topic": "Reported speech: commands",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Report the instruction: \"Please don't share unconfirmed news,\" the editor told the team.",
+          "options": ["The editor told the team not to share unconfirmed news.", "The editor told the team don't share unconfirmed news.", "The editor told the team to not sharing unconfirmed news.", "The editor said the team not to share unconfirmed news."],
+          "answer": "0",
+          "explanation": "Negative commands are reported with 'told + someone + not to + base verb': 'told the team not to share...'."
+        },
+        {
+          "topic": "Figurative language",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Identify the device: 'The crowded market was a beehive, buzzing from dawn until dusk.'",
+          "options": ["Metaphor", "Simile", "Personification", "Hyperbole only"],
+          "answer": "0",
+          "explanation": "Saying the market 'was a beehive' directly equates one thing with another without 'like' or 'as', so it is a metaphor."
+        },
+        {
+          "topic": "Linking words",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the linking word that best completes the argument: 'Renewable energy is clean and increasingly cheap; ______, it should receive far greater investment.'",
+          "options": ["consequently", "nevertheless", "whereas", "although"],
+          "answer": "0",
+          "explanation": "The second clause is a logical result of the first, so a result connector fits: 'consequently'. The others signal contrast."
+        },
+        {
+          "topic": "Non-defining clauses",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the correctly punctuated sentence.",
+          "options": ["The Green Legacy programme, which began in 2019, has planted billions of seedlings.", "The Green Legacy programme which began in 2019 has planted billions of seedlings.", "The Green Legacy programme, that began in 2019, has planted billions of seedlings.", "The Green Legacy programme, which began in 2019 has planted billions of seedlings."],
+          "answer": "0",
+          "explanation": "A non-defining clause needs a comma on both sides and uses 'which' (not 'that') for things."
+        },
+        {
+          "topic": "Tense consistency",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence with correct and consistent verb tenses.",
+          "options": ["By the time the results were released, the candidates had waited for three anxious weeks.", "By the time the results were released, the candidates have waited for three anxious weeks.", "By the time the results released, the candidates had waited for three anxious weeks.", "By the time the results were released, the candidates waited for three anxious weeks already."],
+          "answer": "0",
+          "explanation": "The waiting was completed before the past event of release, so the earlier action takes the past perfect ('had waited') with the later in the past simple."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the word closest in meaning to 'advocate' in: 'She is a tireless advocate for girls' education.'",
+          "options": ["supporter", "opponent", "spectator", "critic"],
+          "answer": "0",
+          "explanation": "An 'advocate' for a cause is someone who publicly supports it, so 'supporter' is closest in meaning."
+        }
+      ]
+    }
+  ]
+}

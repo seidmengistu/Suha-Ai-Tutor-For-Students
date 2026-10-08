@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "The Science of Biology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is an organism?",
+          "options": [
+            "A living thing made of one or more cells",
+            "A non-living chemical found in soil",
+            "A tool used to view tiny objects",
+            "A type of scientific report"
+          ],
+          "answer": "0",
+          "explanation": "An organism is a living thing, which may be made of a single cell (like bacteria) or many cells (like plants and animals)."
+        },
+        {
+          "topic": "The Science of Biology",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A scientist makes a prediction before doing an experiment. How does a prediction differ from a hypothesis?",
+          "options": [
+            "A prediction is the final conclusion, while a hypothesis is the result",
+            "They are exactly the same and can be used interchangeably",
+            "A hypothesis explains an observation, while a prediction states what the experiment should show",
+            "A prediction must be true, but a hypothesis is always false"
+          ],
+          "answer": "2",
+          "explanation": "A hypothesis is a testable explanation for an observation; a prediction is the specific outcome you expect the experiment to produce if the hypothesis is correct."
+        },
+        {
+          "topic": "The Science of Biology",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Long ago people believed maggots appeared from rotting meat by themselves. Careful experiments by Redi and Pasteur disproved this idea. What was this false idea called?",
+          "options": [
+            "Spontaneous generation",
+            "Natural selection",
+            "The cell theory",
+            "Photosynthesis"
+          ],
+          "answer": "0",
+          "explanation": "Spontaneous generation was the false idea that living things arise from non-living matter. Controlled experiments showed that maggots come from eggs laid by flies, not from the meat itself."
+        },
+        {
+          "topic": "The Science of Biology",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A student tests whether warmer water makes sugar dissolve faster. She uses one cup at 20 degrees Celsius and one at 50 degrees Celsius, but accidentally adds twice as much sugar to the warmer cup. Why are her results not valid?",
+          "options": [
+            "She used water in both cups",
+            "She repeated the test too many times",
+            "Temperature has no effect on dissolving",
+            "More than one variable was changed, so the cause cannot be identified"
+          ],
+          "answer": "3",
+          "explanation": "A fair test changes only the independent variable. Because both the temperature and the amount of sugar differed, any difference in dissolving time cannot be linked to temperature alone."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which of these is the main source of quick energy in the body?",
+          "options": [
+            "Carbohydrates",
+            "Nucleic acids",
+            "Mineral salts",
+            "Water"
+          ],
+          "answer": "0",
+          "explanation": "Carbohydrates, such as the starch in injera, are broken down to glucose and used for quick energy."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which element is found at the centre of every organic molecule, allowing long chains and rings to form?",
+          "options": [
+            "Iron",
+            "Carbon",
+            "Calcium",
+            "Sodium"
+          ],
+          "answer": "1",
+          "explanation": "Organic molecules are built around carbon. Each carbon atom can bond to four other atoms, so it can form long chains and rings."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A nutritionist studies a molecule that the body uses mainly for long-term energy storage and insulation under the skin. Which group of organic molecules is this, and what are its building blocks?",
+          "options": [
+            "Proteins, built from nucleotides",
+            "Carbohydrates, built from amino acids",
+            "Lipids, built from fatty acids and glycerol",
+            "Nucleic acids, built from simple sugars"
+          ],
+          "answer": "2",
+          "explanation": "Lipids (fats and oils) are the body's long-term energy store and provide insulation. Their building blocks are fatty acids and glycerol."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "DNA carries the genetic instructions of a cell. To which group of organic molecules does DNA belong, and what is its monomer?",
+          "options": [
+            "Nucleic acid, with nucleotides as its monomer",
+            "Carbohydrate, with glucose as its monomer",
+            "Lipid, with glycerol as its monomer",
+            "Protein, with amino acids as its monomer"
+          ],
+          "answer": "0",
+          "explanation": "DNA is a nucleic acid. It is a polymer made of many smaller units called nucleotides."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "When the body builds a large protein, many amino acids are joined together and a small molecule is released at each join. Which molecule is released, and what is this type of reaction called?",
+          "options": [
+            "Oxygen is released, in a reaction called hydrolysis",
+            "Carbon dioxide is released, in a reaction called respiration",
+            "Glucose is released, in a reaction called digestion",
+            "Water is released, in a reaction called condensation"
+          ],
+          "answer": "3",
+          "explanation": "Joining monomers into a polymer is a condensation reaction, which releases a water molecule each time a bond forms."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the specially shaped part of an enzyme where the substrate fits?",
+          "options": [
+            "The active site",
+            "The nucleus",
+            "The cell wall",
+            "The product"
+          ],
+          "answer": "0",
+          "explanation": "The active site is the pocket on the enzyme with an exact shape that the substrate fits into, like a key fitting a lock."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A reaction normally needs a lot of energy to get started. How does an enzyme make the reaction happen faster at body temperature?",
+          "options": [
+            "It raises the temperature of the cell",
+            "It adds extra glucose to the reaction",
+            "It lowers the amount of energy needed to start the reaction",
+            "It removes all the water from the cell"
+          ],
+          "answer": "2",
+          "explanation": "Enzymes work by lowering the energy needed to start a reaction, so the reaction can proceed quickly even at the body's normal temperature."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The enzyme amylase breaks down starch but cannot break down protein. What does this tell you about enzymes?",
+          "options": [
+            "Enzymes can act on any molecule they meet",
+            "Each enzyme is specific and acts on only one type of substrate",
+            "Enzymes are made of carbohydrate",
+            "Enzymes work better in protein than in starch"
+          ],
+          "answer": "1",
+          "explanation": "Because the active site has an exact shape, each enzyme is specific: it acts only on the substrate that fits its active site, so amylase works on starch but not protein."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An enzyme works best at pH 8. A student tests it at pH 4, pH 8, and pH 11. At which pH values would the enzyme work poorly?",
+          "options": [
+            "Only at pH 8",
+            "At all three pH values equally",
+            "At pH 4 and pH 11, because they are far from the optimum",
+            "Only at pH 11, because high pH is always harmless"
+          ],
+          "answer": "2",
+          "explanation": "An enzyme works fastest at its optimum pH (here pH 8). Both pH 4 and pH 11 are far from the optimum, so the enzyme's shape is affected and it works poorly."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A student adds drops of acid to a tube of enzyme until the reaction stops completely. She then adds alkali to bring the tube back to the enzyme's optimum pH, but the reaction does not restart. What is the best explanation?",
+          "options": [
+            "The enzyme ran out because it was used up",
+            "The substrate turned into an enzyme",
+            "Adding alkali always stops enzymes",
+            "The extreme acid denatured the enzyme, permanently destroying its active site"
+          ],
+          "answer": "3",
+          "explanation": "An extreme pH denatures the enzyme by permanently changing the shape of its active site. Returning to the optimum pH cannot restore that shape, so the enzyme stays inactive."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which organelle controls the cell and contains its DNA?",
+          "options": [
+            "The vacuole",
+            "The nucleus",
+            "The ribosome",
+            "The cell wall"
+          ],
+          "answer": "1",
+          "explanation": "The nucleus is the control centre of the cell and holds the DNA, which carries the instructions for everything the cell does."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which row correctly matches an organelle with its function?",
+          "options": [
+            "Mitochondria - make proteins",
+            "Chloroplasts - control the cell",
+            "Ribosomes - build proteins",
+            "Vacuole - release energy by respiration"
+          ],
+          "answer": "2",
+          "explanation": "Ribosomes are the organelles that build proteins. Mitochondria release energy, chloroplasts carry out photosynthesis, and the nucleus controls the cell."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Both a plant cell and a bacterial cell have a cell wall, but only the plant cell has a nucleus. Which type of cell is the bacterium?",
+          "options": [
+            "Eukaryotic",
+            "An animal cell",
+            "Prokaryotic",
+            "A fungal cell"
+          ],
+          "answer": "2",
+          "explanation": "A bacterium is a prokaryotic cell. It has a cell wall but no true nucleus; its genetic material floats freely in the cell."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A leaf cell from a green plant is observed to be packed with small green structures near its surface. What is the most likely reason this cell has so many of them?",
+          "options": [
+            "It needs to pump blood",
+            "It must store large amounts of waste",
+            "It needs to break down protein quickly",
+            "It carries out a lot of photosynthesis to make food"
+          ],
+          "answer": "3",
+          "explanation": "The green structures are chloroplasts, which carry out photosynthesis. A surface leaf cell receives plenty of light, so it has many chloroplasts to make food efficiently."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why must most cells be very small, only a few micrometres across, rather than very large?",
+          "options": [
+            "Small cells contain more DNA",
+            "A small cell has a large surface compared with its volume, so substances move in and out quickly enough",
+            "Large cells cannot contain a nucleus",
+            "Small cells do not need any energy"
+          ],
+          "answer": "1",
+          "explanation": "Smaller cells have a larger surface area relative to their volume, allowing oxygen, food, and waste to move in and out fast enough to keep the cell alive."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A student is given two unlabelled eukaryotic cells. Cell X has chloroplasts, a cell wall, and a large central vacuole. Cell Y has none of these but does have a nucleus and mitochondria. What can the student correctly conclude?",
+          "options": [
+            "Both cells are bacteria",
+            "Cell X is an animal cell and Cell Y is a plant cell",
+            "Neither cell is alive",
+            "Cell X is a plant cell and Cell Y is an animal cell"
+          ],
+          "answer": "3",
+          "explanation": "Chloroplasts, a cell wall, and a large permanent vacuole are features unique to plant cells, so Cell X is a plant cell and Cell Y, lacking them, is an animal cell."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In which organelle does respiration take place to release energy?",
+          "options": [
+            "The chloroplast",
+            "The mitochondria",
+            "The nucleus",
+            "The cell wall"
+          ],
+          "answer": "1",
+          "explanation": "Respiration takes place in the mitochondria, which release the energy stored in glucose. They are known as the powerhouse of the cell."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which two raw materials does a green plant combine during photosynthesis to make glucose?",
+          "options": [
+            "Oxygen and glucose",
+            "Nitrogen and water",
+            "Carbon dioxide and water",
+            "Carbon dioxide and oxygen"
+          ],
+          "answer": "2",
+          "explanation": "Photosynthesis combines carbon dioxide (from the air) and water (from the soil), using light energy, to produce glucose and oxygen."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "During a hard sprint, an athlete's muscles cannot get enough oxygen and begin to ache. Which product of respiration is responsible for this ache?",
+          "options": [
+            "Ethanol",
+            "Lactic acid",
+            "Chlorophyll",
+            "Glucose"
+          ],
+          "answer": "1",
+          "explanation": "When oxygen runs low, muscle cells carry out anaerobic respiration, which produces lactic acid. The build-up of lactic acid causes the aching feeling."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A plant is kept in a sealed clear box in bright sunlight all day. Which statement best describes the gases over the whole day?",
+          "options": [
+            "The plant only respires and uses up all the oxygen",
+            "The plant stops respiring during the day",
+            "The plant takes in oxygen and gives out no carbon dioxide at all",
+            "The plant photosynthesises and respires, but in bright light it makes more oxygen than it uses"
+          ],
+          "answer": "3",
+          "explanation": "Plants respire all the time, but in bright light photosynthesis is faster than respiration, so overall the plant takes in carbon dioxide and gives out more oxygen than it uses."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Explain why aerobic respiration releases far more energy from one glucose molecule than anaerobic respiration does.",
+          "options": [
+            "Aerobic respiration happens in the chloroplast",
+            "With oxygen, glucose is broken down completely, releasing all its stored energy",
+            "Anaerobic respiration uses extra oxygen",
+            "Aerobic respiration makes ethanol, which stores energy"
+          ],
+          "answer": "1",
+          "explanation": "Oxygen allows glucose to be broken down completely into carbon dioxide and water, releasing all its energy. Without oxygen, glucose is only partly broken down, so far less energy is freed."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is an allele?",
+          "options": [
+            "A whole chromosome",
+            "A type of cell",
+            "A different version of the same gene",
+            "A small organelle"
+          ],
+          "answer": "2",
+          "explanation": "An allele is a different version of a gene, such as a round allele or a wrinkled allele for the seed-shape gene. You inherit one allele from each parent."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "How many chromosomes are there in a normal human body cell?",
+          "options": [
+            "23",
+            "46",
+            "92",
+            "2"
+          ],
+          "answer": "1",
+          "explanation": "A normal human body cell contains 46 chromosomes, arranged as 23 pairs, with one chromosome of each pair inherited from each parent."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In cattle, the allele for a hornless head (H) is dominant over the allele for horns (h). What is the genotype of a horned cow?",
+          "options": [
+            "HH",
+            "Hh",
+            "hh",
+            "It cannot be determined at all"
+          ],
+          "answer": "2",
+          "explanation": "Horns are recessive, so a horned cow must have two recessive alleles (hh). With even one H allele it would be hornless."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A homozygous round-seeded pea plant (RR) is crossed with a wrinkled-seeded plant (rr). What will the offspring be like?",
+          "options": [
+            "All wrinkled",
+            "All round, with genotype Rr",
+            "Half round and half wrinkled",
+            "All round, with genotype RR"
+          ],
+          "answer": "1",
+          "explanation": "Each offspring receives R from one parent and r from the other, giving the genotype Rr. Because round (R) is dominant, all offspring have round seeds."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a cross between a heterozygous tall pea plant (Tt) and a short pea plant (tt), what phenotype ratio of tall to short is expected in the offspring?",
+          "options": [
+            "3 tall : 1 short",
+            "1 tall : 1 short",
+            "All tall",
+            "All short"
+          ],
+          "answer": "1",
+          "explanation": "A Tt x tt cross gives genotypes Tt, Tt, tt, tt, which is two tall to two short, a 1:1 phenotype ratio."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A breeder has a black guinea pig (black B is dominant over white b) but does not know if it is BB or Bb. She crosses it with a white guinea pig (bb). Some offspring are white. What does this tell her about the black parent?",
+          "options": [
+            "The black parent must be BB",
+            "The white parent must be Bb",
+            "Nothing can be concluded from the offspring",
+            "The black parent must be Bb, because it passed on a recessive b allele"
+          ],
+          "answer": "3",
+          "explanation": "A white offspring (bb) must receive a b allele from each parent. Since the black parent produced a b allele, it must carry one, so its genotype is Bb."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is an adaptation?",
+          "options": [
+            "A sudden change an animal makes during its lifetime by choice",
+            "An inherited feature that helps an organism survive in its environment",
+            "A disease that spreads between animals",
+            "A tool used by scientists"
+          ],
+          "answer": "1",
+          "explanation": "An adaptation is an inherited feature that improves an organism's chance of surviving and reproducing in its environment, such as camouflage colouring."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which of the following is a correct definition of a species?",
+          "options": [
+            "Any group of animals that live in the same area",
+            "All the plants in one country",
+            "A group of similar organisms that can breed together to produce fertile offspring",
+            "Organisms that look slightly different from one another"
+          ],
+          "answer": "2",
+          "explanation": "A species is a group of similar organisms that can interbreed and produce fertile offspring, which is the standard biological definition."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Giraffes that happened to have slightly longer necks could reach more leaves, survived droughts better, and had more offspring, so over many generations the average neck length increased. Which statement about this process is correct?",
+          "options": [
+            "Each giraffe stretched its own neck and passed on the stretch",
+            "The longer-neck variation already existed, and the environment selected for it over generations",
+            "The giraffes decided to grow longer necks",
+            "Only the strongest giraffes survived, regardless of neck length"
+          ],
+          "answer": "1",
+          "explanation": "Natural selection acts on existing variation. Giraffes with the longer-neck variation survived and reproduced more, so that feature became more common over generations. Individuals do not change their own bodies and pass that change on."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "The fossil 'Lucy' (Dinkinesh), found in the Afar region of Ethiopia, is important to the study of evolution mainly because fossils:",
+          "options": [
+            "Are living organisms that show evolution happening today",
+            "Prove that species never change",
+            "Provide preserved evidence of organisms from the past, showing how life forms have changed over time",
+            "Are the building blocks of all cells"
+          ],
+          "answer": "2",
+          "explanation": "Fossils are preserved remains or traces of organisms that lived long ago. They are key evidence for evolution because they show how life forms, including human ancestors like Lucy, have changed over time."
+        },
+        {
+          "topic": "Human Biology and Health",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "After a meal of injera, glucose is absorbed into the blood in the small intestine. Why must the food first be digested into glucose before it can be absorbed?",
+          "options": [
+            "Because glucose is poisonous and must be removed",
+            "Because only small, soluble molecules can pass through the gut wall into the blood",
+            "Because the blood cannot carry any sugar",
+            "Because large molecules give no energy"
+          ],
+          "answer": "1",
+          "explanation": "Large food molecules like starch are too big to cross the gut wall. Digestion breaks them into small, soluble molecules such as glucose, which can then be absorbed into the blood."
+        }
+      ]
+    }
+  ]
+}

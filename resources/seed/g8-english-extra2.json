@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 8,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "going to (future)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: 'We ____ plant trees in the school yard on Saturday.'",
+          "options": [
+            "are going to",
+            "is going to",
+            "going to",
+            "am going to"
+          ],
+          "answer": "0",
+          "explanation": "'We' takes 'are', so the planned action is 'are going to plant'."
+        },
+        {
+          "topic": "Simple present tense",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence about a timetable.",
+          "options": [
+            "The bus leave at seven o'clock.",
+            "The bus leaves at seven o'clock.",
+            "The bus leaving at seven o'clock.",
+            "The bus is leave at seven o'clock."
+          ],
+          "answer": "1",
+          "explanation": "'The bus' is third person singular, so the simple present verb takes -s: leaves. We use the simple present for fixed timetables."
+        },
+        {
+          "topic": "Comparative adjectives",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: 'A bicycle is ____ than a car.'",
+          "options": [
+            "cheapest",
+            "more cheap",
+            "cheaper",
+            "more cheaper"
+          ],
+          "answer": "2",
+          "explanation": "'Cheap' is a short adjective, so the comparative adds -er: cheaper. We use 'than' to compare two things."
+        },
+        {
+          "topic": "Past simple (regular verbs)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: 'Last night the children ____ their homework before dinner.'",
+          "options": [
+            "finish",
+            "finishes",
+            "finishing",
+            "finished"
+          ],
+          "answer": "3",
+          "explanation": "'Finish' is a regular verb, so the past simple adds -ed: finished. 'Last night' shows a finished past time."
+        },
+        {
+          "topic": "Imperatives",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which sentence is a correct instruction (imperative)?",
+          "options": [
+            "You closing the window.",
+            "Close the window, please.",
+            "To close the window.",
+            "You should closing the window."
+          ],
+          "answer": "1",
+          "explanation": "An imperative uses the base verb with no subject: 'Close the window, please.'"
+        },
+        {
+          "topic": "Vocabulary (health)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The word 'hygiene' means:",
+          "options": [
+            "a long running race",
+            "keeping yourself and your surroundings clean",
+            "a plant used as medicine",
+            "money earned from selling goods"
+          ],
+          "answer": "1",
+          "explanation": "'Hygiene' means keeping yourself and your surroundings clean in order to stay healthy."
+        },
+        {
+          "topic": "Countable/uncountable nouns",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which word is a countable noun?",
+          "options": [
+            "honey",
+            "rice",
+            "pencil",
+            "information"
+          ],
+          "answer": "2",
+          "explanation": "'Pencil' can be counted and made plural (one pencil, two pencils), so it is countable. Honey, rice and information are uncountable."
+        },
+        {
+          "topic": "Vocabulary (coffee)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "To 'export' a product means to:",
+          "options": [
+            "sell and send it to another country",
+            "throw it away as waste",
+            "grow it on a small farm",
+            "boil it in a clay pot"
+          ],
+          "answer": "0",
+          "explanation": "To 'export' means to sell and send goods to another country, as Ethiopia does with coffee."
+        },
+        {
+          "topic": "First conditional",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'If you water the seeds every day, they ____ quickly.'",
+          "options": [
+            "grew",
+            "will grow",
+            "grow",
+            "will grew"
+          ],
+          "answer": "1",
+          "explanation": "In the first conditional the if-clause uses the present tense ('water') and the result clause uses 'will' + base verb: 'will grow'."
+        },
+        {
+          "topic": "will (simple future)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the best sentence for a promise made at the moment of speaking.",
+          "options": [
+            "I am going to carrying your bag.",
+            "I carry your bag.",
+            "I will carry your bag.",
+            "I will to carry your bag."
+          ],
+          "answer": "2",
+          "explanation": "We use 'will' + base verb for an offer or promise decided at the moment of speaking: 'I will carry your bag.'"
+        },
+        {
+          "topic": "Superlative adjectives",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'The cheetah is ____ land animal in the world.'",
+          "options": [
+            "the fastest",
+            "the most fast",
+            "the faster",
+            "fastest"
+          ],
+          "answer": "0",
+          "explanation": "'Fast' is a short adjective, so the superlative adds -est, and superlatives take 'the': 'the fastest'."
+        },
+        {
+          "topic": "Connectors of contrast",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'Daniel enjoys mathematics, ____ his sister prefers history.'",
+          "options": [
+            "so",
+            "while",
+            "because",
+            "therefore"
+          ],
+          "answer": "1",
+          "explanation": "'While' shows a contrast between two different ideas. 'So', 'because' and 'therefore' show reason or result, not contrast."
+        },
+        {
+          "topic": "Past simple (negatives)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct negative sentence in the past simple.",
+          "options": [
+            "She not visited the museum.",
+            "She didn't visited the museum.",
+            "She didn't visit the museum.",
+            "She don't visit the museum."
+          ],
+          "answer": "2",
+          "explanation": "A past simple negative uses 'didn't' + base verb: 'She didn't visit the museum.'"
+        },
+        {
+          "topic": "Adverbs of manner",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'The old man walked ____ down the steep path.'",
+          "options": [
+            "slow",
+            "slowly",
+            "slower",
+            "more slow"
+          ],
+          "answer": "1",
+          "explanation": "We need an adverb to describe how he walked. The adverb of 'slow' is 'slowly' (adjective + -ly)."
+        },
+        {
+          "topic": "Modal verbs (should)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the best advice: 'You look tired. You ____ go to bed early.'",
+          "options": [
+            "should",
+            "should to",
+            "shoulds",
+            "are should"
+          ],
+          "answer": "0",
+          "explanation": "We give advice with 'should' + base verb, with no 'to': 'You should go to bed early.'"
+        },
+        {
+          "topic": "Passive voice (present)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Change to the passive: 'Workers build new roads every year.'",
+          "options": [
+            "New roads is built every year.",
+            "New roads are built every year.",
+            "New roads are build every year.",
+            "New roads built every year."
+          ],
+          "answer": "1",
+          "explanation": "The passive is 'be + past participle'. 'Roads' is plural, so we use 'are', and the past participle of 'build' is 'built': 'are built'."
+        },
+        {
+          "topic": "Present perfect (form)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct present perfect sentence.",
+          "options": [
+            "They have taken many photographs of the festival.",
+            "They have took many photographs of the festival.",
+            "They has taken many photographs of the festival.",
+            "They have take many photographs of the festival."
+          ],
+          "answer": "0",
+          "explanation": "The present perfect uses 'have/has + past participle'. 'They' takes 'have', and the past participle of 'take' is 'taken'."
+        },
+        {
+          "topic": "Sequence connectors",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete the first step of a recipe: '____, wash the vegetables carefully.'",
+          "options": [
+            "Finally",
+            "However",
+            "First",
+            "Although"
+          ],
+          "answer": "2",
+          "explanation": "'First' introduces the first step in a process. 'Finally' is the last step, and 'however' and 'although' do not show order."
+        },
+        {
+          "topic": "Vocabulary (city and countryside)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The word 'urban' describes something connected with:",
+          "options": [
+            "a town or city",
+            "the open farmland",
+            "a running race",
+            "a clay cooking pot"
+          ],
+          "answer": "0",
+          "explanation": "'Urban' means connected with a town or city. The opposite, 'rural', refers to the countryside."
+        },
+        {
+          "topic": "Quantifiers (much/many)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'How ____ students are there in your class?'",
+          "options": [
+            "much",
+            "many",
+            "amount of",
+            "little"
+          ],
+          "answer": "1",
+          "explanation": "'Students' is a countable noun, so we use 'many': 'How many students...?'"
+        },
+        {
+          "topic": "First conditional (unless)",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'Unless you hurry, you ____ the early bus.'",
+          "options": [
+            "will miss",
+            "miss",
+            "missed",
+            "will missed"
+          ],
+          "answer": "0",
+          "explanation": "'Unless' means 'if... not', and the result clause uses 'will' + base verb: 'you will miss the early bus.'"
+        },
+        {
+          "topic": "Comparatives (irregular)",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": [
+            "Today the traffic is more bad than yesterday.",
+            "Today the traffic is worse than yesterday.",
+            "Today the traffic is worst than yesterday.",
+            "Today the traffic is badder than yesterday."
+          ],
+          "answer": "1",
+          "explanation": "'Bad' is irregular: bad → worse → the worst. The comparative is 'worse than'."
+        },
+        {
+          "topic": "Past simple (irregular verbs)",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence that is completely correct in the past simple.",
+          "options": [
+            "She buyed a new dress and weared it to the wedding.",
+            "She bought a new dress and wore it to the wedding.",
+            "She bought a new dress and weared it to the wedding.",
+            "She buy a new dress and wear it to the wedding."
+          ],
+          "answer": "1",
+          "explanation": "Both verbs are irregular: buy → bought and wear → wore. The other options use incorrect forms like 'buyed' or 'weared'."
+        },
+        {
+          "topic": "Adverbs vs adjectives",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": [
+            "The team played good and won easy.",
+            "The team played well and won easily.",
+            "The team played well and won easy.",
+            "The team played good and won easily."
+          ],
+          "answer": "1",
+          "explanation": "We need adverbs to describe the actions: the adverb of 'good' is 'well', and the adverb of 'easy' is 'easily'."
+        },
+        {
+          "topic": "Modal verbs (mustn't vs don't have to)",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence that means something is forbidden.",
+          "options": [
+            "You don't have to touch the wet paint.",
+            "You mustn't touch the wet paint.",
+            "You should touch the wet paint.",
+            "You don't need to touch the wet paint."
+          ],
+          "answer": "1",
+          "explanation": "'Mustn't' shows that something is forbidden. 'Don't have to' and 'don't need to' mean it is simply not necessary."
+        },
+        {
+          "topic": "Passive voice (past)",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct past passive sentence.",
+          "options": [
+            "The bridge was build in 1965.",
+            "The bridge was built in 1965.",
+            "The bridge were built in 1965.",
+            "The bridge is built in 1965."
+          ],
+          "answer": "1",
+          "explanation": "'The bridge' is singular and the time is past, so we use 'was' + past participle 'built': 'was built in 1965.'"
+        },
+        {
+          "topic": "Present perfect (yet/already)",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": [
+            "Have you finished your project already?",
+            "Have you finished your project yet?",
+            "Have you yet finished your project?",
+            "Did you finished your project yet?"
+          ],
+          "answer": "1",
+          "explanation": "We use 'yet' at the end of present perfect questions and negatives: 'Have you finished your project yet?'"
+        },
+        {
+          "topic": "Quantifiers (some/any)",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence that uses 'some' and 'any' correctly.",
+          "options": [
+            "There aren't some chairs, but I can find some tables.",
+            "There aren't any chairs, but I can find some tables.",
+            "There aren't any chairs, but I can find any tables.",
+            "There isn't some chairs, but I can find any tables."
+          ],
+          "answer": "1",
+          "explanation": "We use 'any' in negatives ('aren't any chairs') and 'some' in positive sentences ('find some tables')."
+        },
+        {
+          "topic": "Reading comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'Selam wakes up at five o'clock every morning. Before school she helps her mother fetch water and feed the goats. She is never late for class, and her teachers praise her hard work.' What can we tell about Selam?",
+          "options": [
+            "She is lazy and often late.",
+            "She is hard-working and responsible.",
+            "She does not like helping at home.",
+            "She lives in a big city centre."
+          ],
+          "answer": "1",
+          "explanation": "Selam wakes early, helps at home, is never late, and is praised for hard work, so she is hard-working and responsible."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'The medicinal leaves were boiled to make a drink for the sick traveller.' The word 'medicinal' is closest in meaning to:",
+          "options": [
+            "tasty",
+            "healing",
+            "poisonous",
+            "expensive"
+          ],
+          "answer": "1",
+          "explanation": "'Medicinal' means used as medicine to treat illness, so it is closest in meaning to 'healing'."
+        },
+        {
+          "topic": "Mixed tenses (future and conditional)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which sentence is completely correct?",
+          "options": [
+            "If the rains come early, the farmers will harvest a better crop this year.",
+            "If the rains will come early, the farmers harvest a better crop this year.",
+            "If the rains come early, the farmers harvest a better crop this year.",
+            "If the rains came early, the farmers will harvested a better crop this year."
+          ],
+          "answer": "0",
+          "explanation": "The first conditional uses the present tense after 'if' ('come') and 'will' + base verb in the result clause ('will harvest')."
+        },
+        {
+          "topic": "Comparison and contrast (mixed)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which sentence is grammatically correct?",
+          "options": [
+            "The market is busier than the library, whereas the library is the quietest place in town.",
+            "The market is more busier than the library, whereas the library is quietest place in town.",
+            "The market is busier then the library, whereas the library is the most quiet place in town.",
+            "The market is busiest than the library, whereas the library is the more quiet place in town."
+          ],
+          "answer": "0",
+          "explanation": "'Busier than' is the correct comparative, 'the quietest' is the correct superlative with 'the', and 'whereas' shows contrast. The other options misuse 'more busier', 'then' or double forms."
+        },
+        {
+          "topic": "Modals and imperatives (mixed)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the best completion for a health notice: '____ your hands before meals, and you ____ share cups with a sick person.'",
+          "options": [
+            "Wash / shouldn't",
+            "Washing / shouldn't to",
+            "To wash / not should",
+            "You washing / shouldn't"
+          ],
+          "answer": "0",
+          "explanation": "An imperative uses the base verb ('Wash'), and advice uses 'shouldn't' + base verb ('shouldn't share')."
+        },
+        {
+          "topic": "Passive and quantifiers (mixed)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which sentence is completely correct?",
+          "options": [
+            "A lot of teff is grown in the highlands, and much of it is sold in local markets.",
+            "A lot of teff are grown in the highlands, and many of it is sold in local markets.",
+            "A lot of teffs is grown in the highlands, and much of it are sold in local markets.",
+            "A lot of teff is grow in the highlands, and much of it is sell in local markets."
+          ],
+          "answer": "0",
+          "explanation": "'Teff' is uncountable (is grown, much of it), and the passive needs the past participles 'grown' and 'sold': 'is grown... is sold'."
+        },
+        {
+          "topic": "Present perfect and past simple (mixed)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which sentence is completely correct?",
+          "options": [
+            "Ethiopia has won many medals, and Derartu Tulu won her first gold in 1992.",
+            "Ethiopia has won many medals, and Derartu Tulu has won her first gold in 1992.",
+            "Ethiopia have won many medals, and Derartu Tulu won her first gold in 1992.",
+            "Ethiopia has win many medals, and Derartu Tulu winned her first gold in 1992."
+          ],
+          "answer": "0",
+          "explanation": "The present perfect 'has won' suits an experience up to now, while the past simple 'won' is correct with the finished time '1992'."
+        },
+        {
+          "topic": "Reading comprehension and inference",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read: 'When the new clinic opened in the village, fewer children fell ill during the rainy season. Mothers no longer had to walk for hours to reach a doctor, and many serious diseases were treated early.' What can we infer from the passage?",
+          "options": [
+            "The clinic made little difference to the village.",
+            "The clinic improved health and saved people long journeys.",
+            "The children preferred to stay ill at home.",
+            "Mothers still had to travel for hours to see a doctor."
+          ],
+          "answer": "1",
+          "explanation": "Fewer children fell ill, mothers no longer walked for hours, and diseases were treated early, so the clinic improved health and saved long journeys."
+        }
+      ]
+    }
+  ]
+}

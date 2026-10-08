@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "Biotechnology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The traditional Ethiopian drink 'tella' is produced by a process in which microorganisms break down sugars. This process is called:",
+          "options": ["Distillation", "Fermentation", "Filtration", "Evaporation"],
+          "answer": "1",
+          "explanation": "Tella is made by fermentation, in which yeast and other microbes break down the sugars in the grain to make alcohol and carbon dioxide."
+        },
+        {
+          "topic": "Biotechnology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A vector in genetic engineering is best described as something that:",
+          "options": ["Carries a gene into a host cell", "Cuts DNA into small pieces", "Kills unwanted bacteria", "Measures temperature"],
+          "answer": "0",
+          "explanation": "A vector, such as a plasmid, is the carrier used to transport a chosen gene into a host cell so the gene can be taken up and expressed."
+        },
+        {
+          "topic": "Biotechnology applications",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "DNA fingerprinting can be used to settle a disputed case of parentage because every person (except identical twins) has a:",
+          "options": ["Different blood temperature", "Different number of bones", "Unique pattern in their DNA", "Unique fingerprint colour"],
+          "answer": "2",
+          "explanation": "Each individual has a unique DNA profile, so comparing DNA patterns of a child and possible parents can confirm or rule out a biological relationship."
+        },
+        {
+          "topic": "Biotechnology in medicine",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "'Gene therapy' aims to treat certain inherited diseases by:",
+          "options": ["Removing all of the patient's blood", "Giving the patient extra vitamins only", "Replacing the patient's skeleton", "Inserting a working copy of a faulty gene into the patient's cells"],
+          "answer": "3",
+          "explanation": "Gene therapy introduces a healthy, working gene into a patient's cells to replace or compensate for a faulty gene that causes a genetic disease."
+        },
+        {
+          "topic": "Genetic engineering reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Engineered bacteria are often preferred over yeast or animal cells for making a simple protein because bacteria:",
+          "options": ["Reproduce very quickly and cheaply in large tanks", "Are the only cells that contain DNA", "Cannot be infected by anything", "Naturally make every human protein"],
+          "answer": "0",
+          "explanation": "Bacteria divide rapidly and grow cheaply in large fermenters, so huge numbers can be produced quickly to make large amounts of the protein at low cost."
+        },
+        {
+          "topic": "Biotechnology reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A crop is genetically modified to contain extra vitamin A. The MAIN intended benefit of this modification is to:",
+          "options": ["Make the crop grow taller", "Help reduce vitamin A deficiency in people who eat it", "Stop the crop from needing soil", "Make the crop change colour each day"],
+          "answer": "1",
+          "explanation": "Adding genes for extra vitamin A is intended to improve nutrition and reduce vitamin A deficiency in populations that rely heavily on that crop."
+        },
+        {
+          "topic": "Biotechnology ethics",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which statement best describes a balanced view of modern biotechnology?",
+          "options": ["It has only benefits and no risks", "It has only risks and no benefits", "It offers real benefits but also raises safety and ethical concerns to manage", "It has no effect on human life at all"],
+          "answer": "2",
+          "explanation": "Biotechnology brings clear benefits (medicines, better crops, cleaner environment) but also genuine safety and ethical concerns, so it must be used responsibly."
+        },
+        {
+          "topic": "Microorganisms",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which instrument is needed to see individual bacteria?",
+          "options": ["A telescope", "A barometer", "A microscope", "A thermometer"],
+          "answer": "2",
+          "explanation": "Bacteria are far too small to see with the naked eye, so a microscope is required to view individual cells."
+        },
+        {
+          "topic": "Microorganisms and disease",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Tuberculosis (TB), a serious lung disease, is caused by a:",
+          "options": ["Bacterium", "Virus", "Protozoan", "Fungus"],
+          "answer": "0",
+          "explanation": "Tuberculosis is caused by a bacterium (Mycobacterium tuberculosis) and is usually treated with a long course of antibiotics."
+        },
+        {
+          "topic": "Disease transmission",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Covering your mouth when you cough and washing your hands help control the spread of disease mainly by reducing the transfer of:",
+          "options": ["Heat between people", "Light in a room", "Salt in food", "Pathogens between people"],
+          "answer": "3",
+          "explanation": "Coughs and dirty hands carry pathogens; covering coughs and washing hands lowers how many disease-causing microbes pass from one person to another."
+        },
+        {
+          "topic": "Microorganisms reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Yoghurt can be made by adding a spoon of old yoghurt to warm milk and keeping it warm. The old yoghurt works as a 'starter' mainly because it:",
+          "options": ["Contains live bacteria that multiply and ferment the milk", "Makes the milk colder", "Adds sugar to the milk", "Removes all microbes from the milk"],
+          "answer": "0",
+          "explanation": "The old yoghurt supplies live lactic-acid bacteria that multiply in the warm milk and ferment its sugar, turning the fresh milk into yoghurt."
+        },
+        {
+          "topic": "Microorganisms reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why does the same antibiotic sometimes fail to cure an infection that it cured easily a few years earlier?",
+          "options": ["The patient has grown taller", "Antibiotics expire and turn into sugar", "The bacteria have evolved resistance through natural selection", "The infection has become a virus"],
+          "answer": "2",
+          "explanation": "Repeated antibiotic use selects for resistant bacteria; over time the resistant strains become common, so the drug no longer works well against them."
+        },
+        {
+          "topic": "Microorganisms overview",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which of the following is a helpful role of microorganisms rather than a harmful one?",
+          "options": ["Causing malaria in humans", "Spoiling stored grain", "Decomposing dead leaves to recycle soil nutrients", "Spreading cholera through water"],
+          "answer": "2",
+          "explanation": "Decomposing dead matter to recycle nutrients is a vital helpful role; the other options describe harmful effects of certain microbes."
+        },
+        {
+          "topic": "Genetics terms",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The physical, visible characteristics of an organism, such as flower colour, are together called its:",
+          "options": ["Phenotype", "Genotype", "Allele", "Chromosome"],
+          "answer": "0",
+          "explanation": "The phenotype is the set of visible or measurable features of an organism, which results from its genotype and the environment."
+        },
+        {
+          "topic": "Inheritance",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A child receives one allele for each gene from each parent. This is because the parents pass on their alleles through:",
+          "options": ["Skin contact", "Shared food", "Their gametes (sex cells)", "Breathing the same air"],
+          "answer": "2",
+          "explanation": "Each parent contributes one allele per gene through their gamete (egg or sperm), so the offspring inherits two alleles for each gene, one from each parent."
+        },
+        {
+          "topic": "Monohybrid cross",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In guinea pigs, black coat (B) is dominant over white coat (b). A cross of Bb x bb is expected to give what ratio of black to white offspring?",
+          "options": ["3 black : 1 white", "1 black : 1 white", "All black", "All white"],
+          "answer": "1",
+          "explanation": "Bb x bb produces Bb and bb in equal numbers, so half the offspring are black (Bb) and half are white (bb), a 1:1 ratio."
+        },
+        {
+          "topic": "Genetics reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A carrier of a recessive genetic disease is a person who:",
+          "options": ["Has one recessive allele but is not affected", "Has two recessive alleles and is affected", "Has no alleles for the disease", "Always passes the disease to every child"],
+          "answer": "0",
+          "explanation": "A carrier is heterozygous: they have one recessive allele hidden by a dominant allele, so they are healthy but can pass the recessive allele to offspring."
+        },
+        {
+          "topic": "Multiple alleles reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A father with blood group A and a mother with blood group B have a child with blood group O. This is possible only if both parents are:",
+          "options": ["Homozygous for their blood group", "Each carrying a hidden O allele", "Unable to have children", "Both group O themselves"],
+          "answer": "1",
+          "explanation": "Group O needs two O alleles. The father must be AO and the mother BO, each carrying a hidden recessive O allele that they both pass to the child."
+        },
+        {
+          "topic": "Genetics reasoning",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In pea plants, round seed (R) is dominant over wrinkled (r). A round-seeded plant of unknown genotype is crossed with a wrinkled plant, and about half the offspring are wrinkled. The unknown round parent must be:",
+          "options": ["Homozygous RR", "Heterozygous Rr", "Homozygous rr", "A different species"],
+          "answer": "1",
+          "explanation": "Wrinkled offspring (rr) must receive an r from each parent. Since the wrinkled parent gives r, the round parent must also carry r, so it is Rr (heterozygous)."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The preserved remains or traces of organisms that lived long ago are called:",
+          "options": ["Minerals", "Crystals", "Fossils", "Cells"],
+          "answer": "2",
+          "explanation": "Fossils are the preserved remains or traces of past organisms; they provide direct evidence of how life has changed over time."
+        },
+        {
+          "topic": "Natural selection",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "For natural selection to act on a population, the individuals must first show:",
+          "options": ["Exactly identical features", "No reproduction", "Equal survival in all cases", "Inherited variation"],
+          "answer": "3",
+          "explanation": "Natural selection needs inherited variation; without differences between individuals, there is nothing for the environment to select for or against."
+        },
+        {
+          "topic": "Adaptation reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Animals living in very cold regions often have small ears and a rounded body shape. This is an adaptation that mainly helps them to:",
+          "options": ["Lose heat quickly to stay cool", "Hear sounds from far away", "Reduce heat loss and stay warm", "Swim faster in warm water"],
+          "answer": "2",
+          "explanation": "Smaller extremities and a rounded shape reduce the surface area through which body heat escapes, helping animals conserve warmth in cold climates."
+        },
+        {
+          "topic": "Evolution reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two unrelated animals, a shark (a fish) and a dolphin (a mammal), both have a streamlined body and fins. These similar features evolved separately because both live in water. Such features are:",
+          "options": ["Inherited from a recent common ancestor", "The result of similar environments selecting similar shapes", "Proof they are the same species", "Caused by the animals choosing to look alike"],
+          "answer": "1",
+          "explanation": "Similar living conditions favoured a streamlined shape in both, even though they are not closely related; this is convergent evolution producing analogous features."
+        },
+        {
+          "topic": "Evolution overview",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which sequence correctly orders these events from earliest to most recent in the history of life on Earth?",
+          "options": ["Dinosaurs, simple bacteria, early humans", "Simple bacteria, dinosaurs, early humans", "Early humans, dinosaurs, simple bacteria", "Dinosaurs, early humans, simple bacteria"],
+          "answer": "1",
+          "explanation": "Simple bacteria appeared first (billions of years ago), dinosaurs much later, and early humans only a few million years ago, so the order is bacteria, dinosaurs, humans."
+        },
+        {
+          "topic": "Animal behaviour",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A behaviour that an animal is born able to perform, without any learning, is described as:",
+          "options": ["Learned", "Conditioned", "Innate", "Copied"],
+          "answer": "2",
+          "explanation": "Innate (inborn) behaviour is present from birth and does not need to be learned, such as a newborn baby gripping or a spider spinning a web."
+        },
+        {
+          "topic": "Learned behaviour",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A young monkey learns to crack open a nut by watching an older monkey do it. This type of learning is best called:",
+          "options": ["A reflex", "Imprinting", "Observational learning (imitation)", "Habituation"],
+          "answer": "2",
+          "explanation": "Learning a skill by watching and copying another individual is observational learning (imitation), a form of learned behaviour."
+        },
+        {
+          "topic": "Behaviour reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A snail pulls its body into its shell when touched, but after being touched gently many times with no harm, it stops withdrawing. This change in response is an example of:",
+          "options": ["Imprinting", "Habituation", "A new reflex forming", "Instinct"],
+          "answer": "1",
+          "explanation": "The snail learns that the repeated, harmless touch is not a threat and stops responding; ignoring a repeated harmless stimulus is habituation."
+        },
+        {
+          "topic": "Behaviour reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Worker bees, ants, and termites live in large cooperative groups with shared tasks. The main advantage of this social behaviour is that it:",
+          "options": ["Makes each individual live alone", "Stops the colony from finding food", "Improves survival and care of the colony as a whole", "Prevents the queen from reproducing"],
+          "answer": "2",
+          "explanation": "Living socially lets individuals share tasks such as finding food, defence, and caring for young, which improves the survival and success of the whole colony."
+        },
+        {
+          "topic": "Behaviour overview",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which statement about innate and learned behaviour is CORRECT?",
+          "options": ["Innate behaviour develops only through training", "Learned behaviour is the same in every member from birth", "Innate behaviour is inherited, while learned behaviour develops through experience", "Learned behaviour cannot change once formed"],
+          "answer": "2",
+          "explanation": "Innate behaviour is genetically inherited and present from birth, whereas learned behaviour develops and can change as a result of an animal's experience."
+        },
+        {
+          "topic": "Human biology",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which component of blood is mainly responsible for carrying oxygen, and what substance lets it do so?",
+          "options": ["White blood cells, using antibodies", "Red blood cells, using haemoglobin", "Platelets, using clotting factors", "Plasma, using dissolved salts"],
+          "answer": "1",
+          "explanation": "Red blood cells carry oxygen using the protein haemoglobin, which binds oxygen in the lungs and releases it to body tissues."
+        },
+        {
+          "topic": "Human biology",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "During hard exercise, your breathing rate increases mainly to:",
+          "options": ["Cool the blood down", "Add water to the lungs", "Supply more oxygen and remove more carbon dioxide", "Stop the heart from beating"],
+          "answer": "2",
+          "explanation": "Exercising muscles need more oxygen for respiration and produce more carbon dioxide, so faster breathing brings in extra oxygen and removes the extra waste gas."
+        },
+        {
+          "topic": "Human biology reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "When you feel cold, tiny muscles make your body shiver. Shivering helps keep the body warm because the rapid muscle movements:",
+          "options": ["Cool the muscles down", "Release heat as a by-product", "Stop blood from flowing", "Remove water from the body"],
+          "answer": "1",
+          "explanation": "Shivering is rapid involuntary muscle contraction; like all muscle activity it releases heat, which raises body temperature back toward normal."
+        },
+        {
+          "topic": "Human biology reasoning",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "On a hot day a person drinks little water and sweats a lot. To keep water balance, the kidneys respond by producing urine that is:",
+          "options": ["Large in amount and very pale", "Small in amount and more concentrated", "Replaced by extra sweat", "The same as always"],
+          "answer": "1",
+          "explanation": "To conserve water when the body is short of it, the kidneys reabsorb more water and produce a smaller volume of more concentrated urine."
+        },
+        {
+          "topic": "Ecology",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In an ecosystem, the maximum number of individuals of a species that the environment can support over time is called its:",
+          "options": ["Food chain", "Habitat", "Niche", "Carrying capacity"],
+          "answer": "3",
+          "explanation": "Carrying capacity is the largest population size an environment can sustain given its available food, water, space, and other resources."
+        },
+        {
+          "topic": "Ecology reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two species of birds in the same area both feed only on the very same type of seed. According to ecological principles, these species will most likely:",
+          "options": ["Help each other find more seeds", "Combine into one new species", "Compete with each other for that food", "Stop eating altogether"],
+          "answer": "2",
+          "explanation": "When two species rely on the same limited resource, they compete for it; this competition can affect the population size of one or both species."
+        },
+        {
+          "topic": "Conservation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Why does protecting a wide variety of crop plant species help food security for the future?",
+          "options": ["It guarantees crops never need water", "It stops all plants from reproducing", "It removes the need for farming", "Greater variety means some types may resist new pests or climate change"],
+          "answer": "3",
+          "explanation": "A diverse range of crop species and varieties means that if conditions change or a new pest appears, some types are likely to cope, protecting the food supply."
+        }
+      ]
+    }
+  ]
+}

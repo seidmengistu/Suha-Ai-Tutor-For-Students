@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Vocabulary: education",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is a 'qualification'?",
+          "options": ["A subject you dislike at school", "An official record showing you have passed an exam or course", "A building where lessons take place", "A teacher who marks your work"],
+          "answer": "1",
+          "explanation": "A qualification is an official record, such as a certificate or degree, that shows you have passed an exam or course."
+        },
+        {
+          "topic": "Spelling",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which word is spelled correctly?",
+          "options": ["recieve", "receive", "receeve", "receve"],
+          "answer": "1",
+          "explanation": "The rule 'i before e except after c' gives 'receive', with 'ei' following the letter c."
+        },
+        {
+          "topic": "Vocabulary: health",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What does 'symptom' mean?",
+          "options": ["A medicine that cures a disease", "A doctor who treats patients", "A sign of an illness, such as a fever or a cough", "A clean and tidy hospital"],
+          "answer": "2",
+          "explanation": "A symptom is a sign of an illness, such as a fever, a cough, or pain."
+        },
+        {
+          "topic": "Prepositions of time",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct preposition: 'The new term begins ______ September.'",
+          "options": ["in", "at", "on", "to"],
+          "answer": "0",
+          "explanation": "We use 'in' with months: 'in September.' We use 'on' for days and dates and 'at' for clock times."
+        },
+        {
+          "topic": "Plural nouns",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the correct plural of 'child'?",
+          "options": ["childs", "childes", "children", "childrens"],
+          "answer": "2",
+          "explanation": "'Child' has an irregular plural, 'children'. There is no such form as 'childs' or 'childrens'."
+        },
+        {
+          "topic": "So and such",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["It was such a difficult exam that many students failed.", "It was so difficult exam that many students failed.", "It was such difficult exam that many students failed.", "It was so a difficult exam that many students failed."],
+          "answer": "0",
+          "explanation": "Before 'a/an + adjective + noun' we use 'such': 'such a difficult exam.' 'So' is used directly before an adjective with no noun (so difficult)."
+        },
+        {
+          "topic": "Too and enough",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["The water was enough hot to make tea.", "The water was hot enough to make tea.", "The water was too hot enough to make tea.", "The water was enough hotly to make tea."],
+          "answer": "1",
+          "explanation": "'Enough' comes after an adjective: 'hot enough'. It comes before a noun, but never before the adjective it modifies."
+        },
+        {
+          "topic": "Order of adjectives",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the sentence with the natural order of adjectives.",
+          "options": ["She wore a cotton beautiful long dress.", "She wore a long beautiful cotton dress.", "She wore a beautiful long cotton dress.", "She wore a long cotton beautiful dress."],
+          "answer": "2",
+          "explanation": "English adjective order is opinion, then size, then material: 'a beautiful (opinion) long (size) cotton (material) dress.'"
+        },
+        {
+          "topic": "Embedded questions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct indirect question.",
+          "options": ["Could you tell me where is the station?", "Could you tell me where the station is?", "Could you tell me where does the station is?", "Could you tell me where is station?"],
+          "answer": "1",
+          "explanation": "An indirect (embedded) question uses statement word order: 'where the station is', not 'where is the station'."
+        },
+        {
+          "topic": "Countable and uncountable nouns",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["Can you give me an advice about my studies?", "Can you give me some advice about my studies?", "Can you give me some advices about my studies?", "Can you give me few advice about my studies?"],
+          "answer": "1",
+          "explanation": "'Advice' is uncountable: it has no plural and takes no 'an'. We say 'some advice', not 'an advice' or 'advices'."
+        },
+        {
+          "topic": "Vocabulary: synonyms",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the word closest in meaning to 'enormous'.",
+          "options": ["tiny", "huge", "narrow", "empty"],
+          "answer": "1",
+          "explanation": "'Enormous' means extremely large, so 'huge' is the closest synonym. 'Tiny' is its opposite."
+        },
+        {
+          "topic": "Prefixes",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which prefix correctly forms the opposite of 'possible'?",
+          "options": ["un-", "im-", "dis-", "non-"],
+          "answer": "1",
+          "explanation": "The opposite of 'possible' is 'impossible'. Before words beginning with 'p', the negative prefix 'in-' becomes 'im-'."
+        },
+        {
+          "topic": "Verb patterns: make and let",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["The teacher made us to copy the notes.", "The teacher made us copy the notes.", "The teacher made us copying the notes.", "The teacher made we copy the notes."],
+          "answer": "1",
+          "explanation": "After 'make' (and 'let'), we use the object plus the base verb with no 'to': 'made us copy the notes.'"
+        },
+        {
+          "topic": "Reading comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read: 'Mobile money spread fastest in remote districts, where the nearest bank was often a full day's walk away.' Why did mobile money spread fastest in those districts?",
+          "options": ["Because banks there offered lower fees", "Because reaching a real bank was very difficult", "Because the districts had the most phones", "Because the government built banks there"],
+          "answer": "1",
+          "explanation": "The passage links the fast spread to the bank being 'a full day's walk away', meaning reaching a bank was very hard."
+        },
+        {
+          "topic": "Confusing words: their/there/they're",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["There going to repair they're roof over their.", "They're going to repair their roof over there.", "Their going to repair there roof over they're.", "They're going to repair there roof over their."],
+          "answer": "1",
+          "explanation": "'They're' = they are, 'their' = belonging to them, 'there' = in that place: 'They're going to repair their roof over there.'"
+        },
+        {
+          "topic": "Zero conditional",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct zero conditional, used for general facts that are always true.",
+          "options": ["If you will heat ice, it melts.", "If you heat ice, it will melt.", "If you heat ice, it melts.", "If you heated ice, it would melt."],
+          "answer": "2",
+          "explanation": "The zero conditional uses the present simple in both clauses for facts that are always true: 'If you heat ice, it melts.'"
+        },
+        {
+          "topic": "Causative: have something done",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct causative sentence (someone else does the work for you).",
+          "options": ["She had her car repaired at the garage.", "She had repaired her car at the garage.", "She had her car repair at the garage.", "She had her car to repair at the garage."],
+          "answer": "0",
+          "explanation": "The causative 'have something done' uses 'have + object + past participle': 'She had her car repaired.'"
+        },
+        {
+          "topic": "Wish and unreal past",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence expressing a regret about the present.",
+          "options": ["I wish I have more time to revise.", "I wish I had more time to revise.", "I wish I will have more time to revise.", "I wish I am having more time to revise."],
+          "answer": "1",
+          "explanation": "To express a wish about an unreal present situation, we use 'wish + past simple': 'I wish I had more time to revise.'"
+        },
+        {
+          "topic": "Reflexive pronouns",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["The children prepared the meal theirselves.", "The children prepared the meal themself.", "The children prepared the meal themselves.", "The children prepared the meal theirself."],
+          "answer": "2",
+          "explanation": "The correct reflexive pronoun for 'the children' is 'themselves'. 'Theirselves' and 'theirself' are not standard English."
+        },
+        {
+          "topic": "Reported speech: time expressions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Report: \"We finished the project last week,\" the manager said.",
+          "options": ["The manager said they had finished the project last week.", "The manager said they finished the project the week before.", "The manager said they had finished the project the week before.", "The manager said they have finished the project last week."],
+          "answer": "2",
+          "explanation": "Past simple 'finished' backshifts to past perfect 'had finished', and 'last week' becomes 'the week before'."
+        },
+        {
+          "topic": "Conjunctions: neither/either",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["You can choose neither the red one and the blue one.", "You can choose either the red one or the blue one.", "You can choose either the red one nor the blue one.", "You can choose neither the red one or the blue one."],
+          "answer": "1",
+          "explanation": "'Either' pairs with 'or'; 'neither' pairs with 'nor'. The correct pairing here is 'either the red one or the blue one.'"
+        },
+        {
+          "topic": "Phrasal verbs",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the phrasal verb that best completes: 'I don't know this word, so I'll ______ it ______ in a dictionary.'",
+          "options": ["look / after", "look / up", "look / into", "look / out"],
+          "answer": "1",
+          "explanation": "'Look up' means to search for information, such as a word in a dictionary. The others mean care for, investigate, or be careful."
+        },
+        {
+          "topic": "Collocations",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct collocation: 'The students worked hard to ______ their goals.'",
+          "options": ["reach", "make", "do", "win"],
+          "answer": "0",
+          "explanation": "We 'reach' (or 'achieve') a goal. 'Make', 'do', and 'win' do not collocate naturally with 'goals' in this sense."
+        },
+        {
+          "topic": "Determiners: few/little",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence with a positive meaning (some, enough).",
+          "options": ["There is little hope of finishing on time.", "There are few volunteers, so the work is slow.", "We still have a few options left to consider.", "I had little money, so I could buy nothing."],
+          "answer": "2",
+          "explanation": "'A few' has a positive meaning (some, enough): 'a few options left.' 'Few' and 'little' (without 'a') stress a lack."
+        },
+        {
+          "topic": "Word formation: nouns",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the correct noun form: 'The government praised the ______ of the new policy.'",
+          "options": ["succeed", "successful", "successfully", "success"],
+          "answer": "3",
+          "explanation": "After 'the' and before 'of', a noun is needed: 'the success of the new policy.' 'Succeed' is a verb, 'successful' an adjective, 'successfully' an adverb."
+        },
+        {
+          "topic": "Past habits: used to",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct question form about a past habit.",
+          "options": ["Did you used to walk to school?", "Did you use to walk to school?", "Used you to walk to school?", "Do you used to walk to school?"],
+          "answer": "1",
+          "explanation": "In questions with 'did', we use the base form: 'Did you use to walk to school?' The 'd' of 'used' is dropped after 'did'."
+        },
+        {
+          "topic": "Reading comprehension: inference",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'Almaz checked her watch for the third time, tapping her foot and glancing at the door.' What can we infer about Almaz?",
+          "options": ["She was feeling sleepy and bored", "She was waiting impatiently for someone", "She was angry with the door", "She had lost her watch"],
+          "answer": "1",
+          "explanation": "Repeatedly checking the time, tapping a foot, and glancing at the door suggest she was waiting impatiently."
+        },
+        {
+          "topic": "Modals: past possibility",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence that expresses uncertainty about a past action.",
+          "options": ["She might have missed the bus.", "She might miss the bus yesterday.", "She must to have missed the bus.", "She might have missing the bus."],
+          "answer": "0",
+          "explanation": "To express past possibility we use 'might have + past participle': 'She might have missed the bus.'"
+        },
+        {
+          "topic": "Comparatives: as ... as",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["This phone is not as expensive than that one.", "This phone is not so expensive than that one.", "This phone is not as expensive as that one.", "This phone is not expensive as that one."],
+          "answer": "2",
+          "explanation": "Equality and its negative use 'as ... as': 'not as expensive as that one.' We do not mix 'as' with 'than'."
+        },
+        {
+          "topic": "Subject-verb agreement",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["The news about the floods were very worrying.", "The news about the floods was very worrying.", "The news about the floods are very worrying.", "The news about the floods have been worrying."],
+          "answer": "1",
+          "explanation": "'News' is an uncountable noun that takes a singular verb: 'The news ... was very worrying.'"
+        },
+        {
+          "topic": "Conditionals: unless",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence that has the same meaning as 'If you do not water the plants, they will die.'",
+          "options": ["Unless you water the plants, they will die.", "Unless you do not water the plants, they will die.", "Unless you water the plants, they will not die.", "If you water the plants, they will die."],
+          "answer": "0",
+          "explanation": "'Unless' means 'if not', so it already contains the negative: 'Unless you water the plants, they will die.'"
+        },
+        {
+          "topic": "Punctuation: apostrophes",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence with correct apostrophe use.",
+          "options": ["The girls' uniforms were left in the teachers office.", "The girl's uniforms were left in the teachers' office.", "The girls' uniforms were left in the teachers' office.", "The girls uniform's were left in the teacher's office."],
+          "answer": "2",
+          "explanation": "For plural nouns ending in 's' the apostrophe goes after the 's': 'girls' uniforms' (the uniforms of the girls) and 'teachers' office' (the office of the teachers)."
+        },
+        {
+          "topic": "Cleft sentences for emphasis",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the correctly formed cleft sentence that emphasises the person.",
+          "options": ["It was Mr Tadesse who first suggested the idea.", "It was Mr Tadesse which first suggested the idea.", "It is Mr Tadesse who first suggesting the idea.", "It was Mr Tadesse whom first suggested the idea."],
+          "answer": "0",
+          "explanation": "A cleft sentence emphasising a person uses 'It was + person + who': 'It was Mr Tadesse who first suggested the idea.'"
+        },
+        {
+          "topic": "Linking words: purpose",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the connector that best shows purpose: 'The clinic opened a night service ______ patients could be treated at any hour.'",
+          "options": ["because", "so that", "although", "whereas"],
+          "answer": "1",
+          "explanation": "'So that' introduces a purpose (the reason for opening the service). 'Because' gives a cause, and the others show contrast."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the word closest in meaning to 'reluctant' in: 'The villagers were reluctant to leave their homes before the flood.'",
+          "options": ["eager", "unwilling", "ready", "able"],
+          "answer": "1",
+          "explanation": "'Reluctant' means unwilling or hesitant to do something, so 'unwilling' is closest. 'Eager' and 'ready' are opposites."
+        },
+        {
+          "topic": "Concession clauses",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["However the budget was small, the project succeeded.", "Despite the budget was small, the project succeeded.", "Although the budget was small, the project succeeded but.", "Although the budget was small, the project still succeeded."],
+          "answer": "3",
+          "explanation": "'Although' introduces a full clause and is not paired with 'but': 'Although the budget was small, the project still succeeded.' 'Despite' takes a noun or -ing, and 'however' here is wrong."
+        }
+      ]
+    }
+  ]
+}

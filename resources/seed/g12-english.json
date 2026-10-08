@@ -1,0 +1,1301 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "english",
+      "chapters": [
+        {
+          "title": "Education and the Future",
+          "description": "Reading about education, the future tenses for plans and predictions, and writing a formal motivation letter.",
+          "lessons": [
+            {
+              "title": "Talking About the Future: Plans, Predictions and Intentions",
+              "summary": "Learn the difference between 'will', 'going to', and the present continuous for the future, and use them to talk about your studies and career plans. Build vocabulary about education and ambition.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "After Grade 12, you must make important choices. You will sit the **Ethiopian University Entrance Examination (EUEE)**, and then you may study at a university such as **Addis Ababa University** or **Hawassa University**.\n\nTo talk about these plans, you need to use the **future** correctly. English has several ways to talk about the future, and each one has a different meaning. In this unit you will learn when to use **will**, **going to**, and the **present continuous** for future arrangements."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use **will** for predictions, promises, and quick decisions.\n- Use **going to** for plans and intentions you have already made.\n- Use the **present continuous** for fixed future arrangements.\n- Choose the correct future form for university and career topics.\n- Use new **vocabulary** about education and ambition."
+                },
+                {
+                  "type": "theory",
+                  "title": "Three Ways to Talk About the Future",
+                  "body": "**1. will + base verb**\n\nWe use **will** for:\n- **Predictions** (what we think will happen): *I think she **will pass** the exam.*\n- **Promises**: *I **will help** you study tonight.*\n- **Quick decisions** made at the moment of speaking: *The phone is ringing. I **will answer** it.*\n\nNegative: *will not* = **won't**. *He **won't** be late.*\n\n**2. be going to + base verb**\n\nWe use **going to** for:\n- **Plans and intentions** decided before now: *I **am going to study** medicine.*\n- **Predictions based on evidence we can see**: *Look at those clouds. It **is going to rain**.*\n\n**Form:** am / is / are + **going to** + base verb.\n\n**3. Present continuous (am/is/are + verb-ing) for the future**\n\nWe use this for **fixed arrangements**, often with a time and place: *I **am meeting** my teacher at 4 o'clock tomorrow.* / *We **are taking** the exam on Monday.*\n\n**Quick guide:** *will* = decide now or predict; *going to* = already decided plan; *present continuous* = a fixed appointment with time/place."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read this short conversation and notice each future form.\n\nAbebe: What **are you going to do** after Grade 12? *(plan / intention)*\n\nSara: I **am going to apply** to university. I think I **will study** engineering. *(plan, then a prediction)*\n\nAbebe: When is the entrance exam?\n\nSara: I **am taking** it next month. *(fixed arrangement with a time)*\n\nAbebe: Don't worry. You **will pass**! I **will help** you revise. *(prediction and a promise)*\n\nNotice: Sara has already **decided** to apply, so she uses *going to*. She only *thinks* she will study engineering, so that is a prediction with *will*. The exam date is fixed, so she uses the present continuous."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "ESL learners often make these mistakes:\n\n- **Using present simple for the future:** Incorrect: *Tomorrow I go to university.* Correct: *Tomorrow I **am going to** the university* (arrangement) or *...I **will go**...*\n- **Forgetting 'be' with 'going to':** Incorrect: *I going to study tonight.* Correct: *I **am going** to study tonight.*\n- **Using 'will' for a clear plan:** It is more natural to say *I **am going to** visit my uncle next week* (already planned) than *I **will** visit*.\n- **Double future:** Incorrect: *I will going to study.* Correct: *I **will study**.* OR *I **am going to** study.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **will = a coin you flip now** — a decision or guess made at this moment.\n- **going to = a plan in your pocket** — you decided earlier and you are carrying the plan.\n- **present continuous = a ticket in your hand** — the time and place are already booked.\n- Remember the rhyme: **\"Plan in the past, 'going to' it lasts; decide on the spot, 'will' hits the dot.\"**"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose the best future form (will, going to, or present continuous).\n\n1. I have already decided. I ______ (become) a nurse.\n2. Look at that car! It ______ (crash)!\n3. I promise I ______ (call) you after the exam.\n4. We ______ (meet) the headmaster at 10 a.m. tomorrow — it is arranged.\n5. The bag is heavy. — Don't worry, I ______ (carry) it for you.\n\n**Answers:**\n1. am going to become\n2. is going to crash\n3. will call\n4. are meeting\n5. will carry"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- Use **will** for predictions, promises, and quick decisions made now.\n- Use **be going to** for plans and intentions already decided, and for predictions with visible evidence.\n- Use the **present continuous** for fixed arrangements with a time and place.\n- Form *going to* as **am/is/are + going to + base verb**.\n- Choosing the right form makes you sound natural and helps in the **EUEE** writing and grammar sections."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words from this unit about education and the future.",
+                  "glossary": [
+                    { "term": "ambition", "definition": "A strong wish to achieve something, such as success in your studies or career." },
+                    { "term": "career", "definition": "The work or profession a person does for a long part of their life." },
+                    { "term": "entrance examination", "definition": "An important test you must pass to enter a university or college." },
+                    { "term": "qualification", "definition": "An official record (like a certificate or degree) that shows you have passed an exam or course." },
+                    { "term": "scholarship", "definition": "Money given to a student to help pay for their education." },
+                    { "term": "graduate", "definition": "(verb) to finish your studies and receive a degree; (noun) a person who has done this." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "When do we use 'will' for the future?", "back": "For predictions, promises, and quick decisions made now. Example: I think it will rain. / I will help you." },
+                { "front": "When do we use 'be going to'?", "back": "For plans/intentions already decided, and predictions with visible evidence. Example: I am going to study medicine." },
+                { "front": "When do we use the present continuous for the future?", "back": "For fixed arrangements with a time and place. Example: I am meeting the teacher at 4 p.m. tomorrow." },
+                { "front": "How do we form 'going to'?", "back": "am / is / are + going to + base verb. Example: They are going to travel." },
+                { "front": "What does 'ambition' mean?", "back": "A strong wish to achieve something in your studies, work, or life." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Future with going to",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence for a plan you have already decided.",
+              "options": ["I will study medicine next year, I decided yesterday.", "I am going to study medicine next year.", "I study medicine next year.", "I going to study medicine next year."],
+              "answer": "1",
+              "explanation": "For a plan decided before now we use 'be going to': 'I am going to study medicine.' Option 3 wrongly uses the present simple, and option 4 leaves out 'am'."
+            },
+            {
+              "topic": "Future with will",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "The phone is ringing. Which sentence shows a quick decision made now?",
+              "options": ["I am answering it.", "I answer it.", "I will answer it.", "I am going to answer it."],
+              "answer": "2",
+              "explanation": "A decision made at the moment of speaking uses 'will': 'I will answer it.'"
+            },
+            {
+              "topic": "Present continuous for future",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the best form: 'We ______ the entrance exam on Monday — the date is fixed.'",
+              "options": ["will take", "take", "are taking", "takes"],
+              "answer": "2",
+              "explanation": "A fixed arrangement with a clear time uses the present continuous: 'are taking'."
+            },
+            {
+              "topic": "Predictions with evidence",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Look at the dark clouds. Which sentence is most natural?",
+              "options": ["It will rain, I just decided.", "It is going to rain.", "It rains.", "It is raining tomorrow."],
+              "answer": "1",
+              "explanation": "A prediction based on evidence we can see (the clouds) uses 'going to': 'It is going to rain.'"
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is a 'scholarship'?",
+              "options": ["A school subject", "Money given to a student to help pay for education", "A type of examination", "A university building"],
+              "answer": "1",
+              "explanation": "A scholarship is money given to a student to help pay for their education."
+            },
+            {
+              "topic": "Future forms",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Choose the grammatically correct sentence.",
+              "options": ["I will going to graduate in June.", "I am go to graduate in June.", "I am going to graduate in June.", "I graduating in June will."],
+              "answer": "2",
+              "explanation": "The correct structure is 'am/is/are + going to + base verb': 'I am going to graduate in June.' You cannot combine 'will' and 'going to'."
+            }
+          ]
+        },
+        {
+          "title": "Health and Well-being",
+          "description": "Reading about health and disease, using modal verbs of advice and obligation, and giving health advice.",
+          "lessons": [
+            {
+              "title": "Giving Advice and Talking About Rules: Modal Verbs",
+              "summary": "Learn how to use modal verbs such as should, must, have to, and ought to for advice, obligation, and prohibition. Build vocabulary about health and well-being.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Good health is the foundation of a good life. In Ethiopia, **health extension workers** teach families about clean water, vaccination, and good food.\n\nTo talk about health, we often give **advice** ('You should rest') and talk about **rules** ('You must not smoke here'). For this we use small but powerful words called **modal verbs**: *should, must, have to, ought to, could, might*. This unit shows you how to use them clearly."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use **should** and **ought to** to give advice.\n- Use **must** and **have to** to talk about obligation (strong rules).\n- Use **must not** and **don't have to** correctly (they are very different!).\n- Give clear health advice.\n- Use new **vocabulary** about health and well-being."
+                },
+                {
+                  "type": "theory",
+                  "title": "Modal Verbs of Advice and Obligation",
+                  "body": "A **modal verb** is a helping verb that shows how sure, necessary, or advisable something is. Modal verbs are always followed by the **base verb** (no *to*, except *ought to* and *have to*).\n\n**1. Advice — should / ought to**\n- *You **should** drink more water.* (good advice)\n- *You **ought to** see a doctor.* (slightly more formal advice)\n- Negative: *You **shouldn't** eat so much sugar.*\n\n**2. Obligation — must / have to**\n- **must** = a strong rule, often from the speaker: *Patients **must** wash their hands.*\n- **have to** = a strong rule, often from outside (the law, the school): *You **have to** wear a mask in the clinic.*\n- *have to* changes form: *he **has to**, they **have to**.*\n\n**3. Prohibition vs no obligation — be careful!**\n- **must not (mustn't)** = it is forbidden: *You **mustn't** smoke here.*\n- **don't have to** = it is NOT necessary (but you can if you want): *You **don't have to** pay; it is free.*\n\nThese two are opposites in meaning, so do not mix them up."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "A nurse is talking to a patient. Notice each modal verb.\n\nNurse: You have a fever. You **should** rest at home. *(advice)*\n\nPatient: Can I go to work?\n\nNurse: No, you **must** stay home for two days. *(strong rule from the speaker)* And you **have to** take this medicine three times a day. *(instruction)*\n\nPatient: Do I need to come back?\n\nNurse: You **don't have to** come back if you feel better — but you **ought to** drink plenty of fluids. *(no obligation, then advice)* And please, you **mustn't** stop the medicine early. *(prohibition)*\n\nNotice the contrast: *don't have to* (not necessary) vs *mustn't* (forbidden)."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "ESL learners often make these mistakes:\n\n- **Adding 'to' after should/must:** Incorrect: *You should to rest.* Correct: *You **should rest**.*\n- **Adding -s to a modal:** Incorrect: *She musts go.* Correct: *She **must** go.* (Modals never change.)\n- **Confusing 'mustn't' and 'don't have to':** *You mustn't be late* (it is forbidden) is very different from *You don't have to be early* (it is not necessary).\n- **Using 'have to' as a modal in negatives wrongly:** Use *do/does*: *He **doesn't have to** come*, not *He hasn't to come.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **should = a friend's suggestion** (soft).\n- **must = a wall** (hard, no choice).\n- Remember: **\"mustn't = a red light (STOP, forbidden); don't have to = a green light you may ignore (free choice).\"**\n- Modals are 'lazy verbs' — they never take **-s** and never take **to** (except the two with *to* built into them: *ought to*, *have to*)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Complete with the best modal verb.\n\n1. You look tired. You ______ go to bed early. (advice)\n2. In a hospital, visitors ______ make noise. (it is forbidden)\n3. The medicine is free, so you ______ pay for it. (not necessary)\n4. To stay healthy, you ______ eat fruit and vegetables. (advice)\n5. Drivers ______ wear a seatbelt; it is the law. (obligation)\n\n**Answers:**\n1. should\n2. mustn't (must not)\n3. don't have to\n4. should / ought to\n5. have to / must"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Modal verbs** are helping verbs followed by the base verb.\n- Use **should** and **ought to** for advice.\n- Use **must** and **have to** for strong obligation.\n- **mustn't** = forbidden; **don't have to** = not necessary (opposite meanings).\n- Modals never add **-s** and (except *ought to* / *have to*) never take **to**.\n- These verbs appear often in **EUEE** grammar and reading questions."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words from this unit about health and well-being.",
+                  "glossary": [
+                    { "term": "well-being", "definition": "The state of being healthy, happy, and comfortable." },
+                    { "term": "symptom", "definition": "A sign of an illness, such as a fever, a cough, or pain." },
+                    { "term": "prevention", "definition": "Action taken to stop a disease or problem before it happens." },
+                    { "term": "vaccination", "definition": "Giving a medicine (usually by injection) to protect a person from a disease." },
+                    { "term": "nutrition", "definition": "The food a person eats and how it helps the body stay healthy." },
+                    { "term": "hygiene", "definition": "Keeping yourself and your surroundings clean to stay healthy." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "Which modal verbs give advice?", "back": "should and ought to. Example: You should rest. / You ought to see a doctor." },
+                { "front": "What is the difference between 'must' and 'have to'?", "back": "Both mean strong obligation. 'Must' often comes from the speaker; 'have to' often comes from an outside rule or law." },
+                { "front": "What does 'mustn't' mean?", "back": "It is forbidden / not allowed. Example: You mustn't smoke here." },
+                { "front": "What does 'don't have to' mean?", "back": "It is not necessary (but you may if you wish). Example: You don't have to pay; it is free." },
+                { "front": "What does 'symptom' mean?", "back": "A sign of an illness, such as a fever, cough, or pain." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Modals of advice",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence to give advice.",
+              "options": ["You should to rest.", "You should rest.", "You shoulds rest.", "You should resting."],
+              "answer": "1",
+              "explanation": "A modal verb is followed by the base verb with no 'to': 'You should rest.'"
+            },
+            {
+              "topic": "Modals of obligation",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Complete: 'It is the law. Drivers ______ wear a seatbelt.'",
+              "options": ["should", "have to", "don't have to", "might"],
+              "answer": "1",
+              "explanation": "A rule from the law is a strong obligation, so we use 'have to' (or 'must'). 'Should' is only advice."
+            },
+            {
+              "topic": "Prohibition vs no obligation",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which sentence means 'it is forbidden'?",
+              "options": ["You don't have to enter.", "You mustn't enter.", "You should enter.", "You don't need to enter."],
+              "answer": "1",
+              "explanation": "'Mustn't' means it is forbidden. 'Don't have to' / 'don't need to' mean it is simply not necessary."
+            },
+            {
+              "topic": "Modal form",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": ["She musts take the medicine.", "She must takes the medicine.", "She must take the medicine.", "She must to take the medicine."],
+              "answer": "2",
+              "explanation": "Modal verbs never change form and are followed by the base verb: 'She must take the medicine.'"
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What does 'prevention' mean?",
+              "options": ["Curing a disease after it appears", "Action taken to stop a disease before it happens", "A sign of illness", "A type of food"],
+              "answer": "1",
+              "explanation": "Prevention means action taken to stop a disease or problem before it happens, like vaccination or good hygiene."
+            },
+            {
+              "topic": "Modals in context",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Read: 'The clinic is free of charge.' Which sentence follows correctly?",
+              "options": ["So you mustn't pay anything.", "So you have to pay anything.", "So you don't have to pay anything.", "So you should pay anything."],
+              "answer": "2",
+              "explanation": "Because the clinic is free, paying is not necessary, so we use 'don't have to'. 'Mustn't pay' would wrongly mean paying is forbidden."
+            }
+          ]
+        },
+        {
+          "title": "Science and Technology",
+          "description": "Reading about science and technology, using the passive voice to describe processes, and explaining how things work.",
+          "lessons": [
+            {
+              "title": "Describing Processes: The Passive Voice",
+              "summary": "Learn how and when to use the passive voice, especially to describe processes and discoveries where the action matters more than who did it. Build vocabulary about science and technology.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Science and technology are changing Ethiopia quickly. **Mobile money** lets people send money by phone, and the country uses **satellites** and large projects like dams to produce electricity.\n\nWhen we describe how something is made or how a process works, we often do not know — or do not care — *who* does the action. For this, English uses the **passive voice**. For example: *Coffee **is grown** in many regions of Ethiopia.* In this unit you will learn how to form and use the passive voice."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Understand the difference between the **active** and **passive** voice.\n- Form the passive with **be + past participle**.\n- Use the passive to describe **processes** and **discoveries**.\n- Use **by** to show the doer when it is important.\n- Use new **vocabulary** about science and technology."
+                },
+                {
+                  "type": "theory",
+                  "title": "Active and Passive Voice",
+                  "body": "In the **active voice**, the subject does the action:\n*Farmers **grow** coffee.* (Subject = farmers; they do the action.)\n\nIn the **passive voice**, the subject receives the action:\n*Coffee **is grown** by farmers.* (Subject = coffee; the action happens to it.)\n\n**Form of the passive:** the correct tense of **be** + **past participle** (the third form of the verb, like *made, grown, written, built*).\n\n| Tense | Active | Passive |\n|---|---|---|\n| Present simple | They **make** cars. | Cars **are made**. |\n| Past simple | They **built** the dam. | The dam **was built**. |\n| Present perfect | They **have finished** the road. | The road **has been finished**. |\n\n**When do we use the passive?**\n- When we do **not know** who did the action: *My phone **was stolen**.*\n- When the doer is **not important**: *The bridge **was built** in 2019.*\n- In **science and processes**: *Water **is heated** until it boils.*\n\n**The 'by' phrase:** add *by + doer* only when it is useful: *The lamp **was invented by** Edison.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us change active sentences into the passive.\n\n**Active:** Farmers **pick** the coffee beans by hand.\n**Passive:** The coffee beans **are picked** by hand. *(present simple: are + picked)*\n\n**Active:** Workers **washed** the beans.\n**Passive:** The beans **were washed**. *(past simple: were + washed)*\n\n**Active:** They **have dried** the beans in the sun.\n**Passive:** The beans **have been dried** in the sun. *(present perfect: have been + dried)*\n\nNotice how, in describing a process, the passive keeps the focus on the **coffee**, not on the changing workers. This is why science and process descriptions use the passive so often."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "ESL learners often make these mistakes:\n\n- **Forgetting 'be':** Incorrect: *The car made in Japan.* Correct: *The car **is made** in Japan.*\n- **Using the wrong participle:** Incorrect: *The letter was wrote.* Correct: *The letter was **written**.* (Learn irregular past participles: write–wrote–**written**.)\n- **Wrong tense of 'be':** Incorrect: *The dam is built in 2019.* Correct: *The dam **was built** in 2019.* (past time = was)\n- **Using 'by' when it is not needed:** *English is spoken here* is better than *English is spoken by people here.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- The passive recipe is always the same: **be + 3rd form (past participle)**. Only the form of *be* changes for the tense.\n- Ask: **\"Who cares who did it?\"** If the answer is 'no', the passive is a good choice.\n- To find the past participle, think of the verb after *have*: *I have **eaten**, I have **seen**, I have **made**.* That word is your participle.\n- **Active = actor first; Passive = patient first** (the thing the action happens to)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Change these active sentences into the passive.\n\n1. People speak Amharic in Ethiopia.\n2. They built the Grand Ethiopian Renaissance Dam on the Blue Nile.\n3. Scientists have discovered a new medicine.\n4. A machine washes the bottles.\n5. The teacher will mark the exams.\n\n**Answers:**\n1. Amharic is spoken in Ethiopia.\n2. The Grand Ethiopian Renaissance Dam was built on the Blue Nile.\n3. A new medicine has been discovered.\n4. The bottles are washed by a machine.\n5. The exams will be marked (by the teacher)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **active voice** puts the doer first; the **passive voice** puts the receiver first.\n- Form the passive with **be + past participle**.\n- Only the form of **be** changes for the tense (is/are, was/were, has been, will be).\n- Use the passive when the doer is unknown or unimportant, and to describe **processes**.\n- Add **by + doer** only when it matters.\n- The passive is common in **science texts** and the **EUEE** reading and grammar sections."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words from this unit about science and technology.",
+                  "glossary": [
+                    { "term": "technology", "definition": "The use of scientific knowledge to make tools, machines, and systems." },
+                    { "term": "invention", "definition": "A new thing or idea that someone has made for the first time." },
+                    { "term": "experiment", "definition": "A scientific test done to discover or check something." },
+                    { "term": "process", "definition": "A series of steps taken to make or do something." },
+                    { "term": "device", "definition": "A tool or machine made for a particular purpose, such as a phone." },
+                    { "term": "innovation", "definition": "A new idea, method, or product that improves how we do things." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "How do we form the passive voice?", "back": "be + past participle. Only 'be' changes for the tense. Example: Coffee is grown. / The dam was built." },
+                { "front": "When do we use the passive voice?", "back": "When the doer is unknown or unimportant, and to describe processes. Example: The bridge was built in 2019." },
+                { "front": "Make the passive: 'They make cars in Japan.'", "back": "Cars are made in Japan." },
+                { "front": "What is a 'past participle'?", "back": "The third form of a verb, used after 'be' or 'have'. Example: write–wrote–written; build–built–built." },
+                { "front": "What does 'innovation' mean?", "back": "A new idea, method, or product that improves how we do things." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Passive formation",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct passive sentence.",
+              "options": ["Cars made in Japan.", "Cars is made in Japan.", "Cars are made in Japan.", "Cars are make in Japan."],
+              "answer": "2",
+              "explanation": "The passive needs 'be + past participle'. 'Cars' is plural, so we use 'are made': 'Cars are made in Japan.'"
+            },
+            {
+              "topic": "Passive past simple",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Complete: 'The dam ______ in 2019.'",
+              "options": ["is built", "was built", "was build", "built"],
+              "answer": "1",
+              "explanation": "Past time (2019) needs the past form of 'be' plus the past participle: 'was built'."
+            },
+            {
+              "topic": "Active to passive",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Change to passive: 'Scientists have discovered a new planet.'",
+              "options": ["A new planet is discovered.", "A new planet has been discovered.", "A new planet was discover.", "A new planet have discovered."],
+              "answer": "1",
+              "explanation": "Present perfect passive = 'has/have been + past participle'. With singular 'a new planet' we use 'has been discovered'."
+            },
+            {
+              "topic": "Past participle",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which sentence uses the correct past participle?",
+              "options": ["The letter was wrote yesterday.", "The letter was written yesterday.", "The letter was writed yesterday.", "The letter was write yesterday."],
+              "answer": "1",
+              "explanation": "The past participle of 'write' is 'written': 'The letter was written yesterday.'"
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is a 'process'?",
+              "options": ["A new invention", "A series of steps taken to make or do something", "A scientific tool", "A type of machine"],
+              "answer": "1",
+              "explanation": "A process is a series of steps taken to make or do something, such as making coffee."
+            },
+            {
+              "topic": "Passive voice use",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which sentence is the most natural way to describe a process in a science report?",
+              "options": ["Somebody heats the water until it boils.", "The water is heated until it boils.", "Water you heat until it boils.", "The water heating until it boils."],
+              "answer": "1",
+              "explanation": "In science reports we focus on the process, not the person, so the passive is most natural: 'The water is heated until it boils.'"
+            }
+          ]
+        },
+        {
+          "title": "The Environment and Climate Change",
+          "description": "Reading about the environment, using the first and second conditionals, and writing about causes and effects.",
+          "lessons": [
+            {
+              "title": "Talking About Possibilities: The First and Second Conditionals",
+              "summary": "Learn the difference between the first conditional (real future possibilities) and the second conditional (unreal or imaginary situations), and use them to discuss the environment. Build vocabulary about climate and conservation.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Ethiopia is working hard to protect its **environment**. Through the **Green Legacy** campaign, millions of trees are planted every year to stop **deforestation** and fight **climate change**.\n\nWhen we talk about causes and results — 'If we plant trees, the land will improve' — we use **conditional sentences**. This unit teaches the **first conditional** (for real, possible situations) and the **second conditional** (for unreal or imaginary ones)."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Form and use the **first conditional** for real future possibilities.\n- Form and use the **second conditional** for unreal or imaginary situations.\n- Know which tense goes in each part of the sentence.\n- Talk about the causes and effects of climate change.\n- Use new **vocabulary** about the environment and conservation."
+                },
+                {
+                  "type": "theory",
+                  "title": "First and Second Conditionals",
+                  "body": "A **conditional sentence** has two parts: the **if-clause** (the condition) and the **main clause** (the result).\n\n**First conditional — real and possible future**\nWe use it for things that can really happen.\n**Form:** If + present simple, ... will + base verb.\n- *If we **plant** trees, the soil **will improve**.*\n- *If it **rains** tomorrow, the farmers **will be** happy.*\n\n**Second conditional — unreal, imaginary, or unlikely**\nWe use it for dreams, imaginary situations, or things that are not true now.\n**Form:** If + past simple, ... would + base verb.\n- *If I **were** the Prime Minister, I **would protect** the forests.* (I am not the PM — imaginary.)\n- *If everyone **recycled**, there **would be** less rubbish.*\n\n**Important:** in the second conditional, we often use **were** for all subjects: *If I **were** you, I would...* This is correct formal English.\n\n**Remember:** if the if-clause comes first, we use a comma. If it comes second, no comma: *The soil will improve if we plant trees.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Compare the two conditionals about the same topic.\n\n**First conditional (a real plan):**\n*If our school **starts** a tree-planting club, more students **will join** the Green Legacy.*\n- This is realistic. The school really might start a club.\n\n**Second conditional (imaginary):**\n*If our town **had** more money, it **would build** a recycling centre.*\n- The town does not have the money now, so this is imaginary.\n\n**Giving advice with the second conditional:**\n*If I **were** you, I **would walk** to school instead of taking a taxi to reduce pollution.*\n\nNotice the verb pattern: **first** = present + will; **second** = past + would."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "ESL learners often make these mistakes:\n\n- **Using 'will' in the if-clause:** Incorrect: *If it will rain, we will stay home.* Correct: *If it **rains**, we will stay home.*\n- **Mixing the two conditionals:** Incorrect: *If I had money, I will travel.* Correct: *If I **had** money, I **would** travel.* (second conditional)\n- **Using 'would' in the if-clause:** Incorrect: *If I would be rich...* Correct: *If I **were** rich...*\n- **Forgetting the comma** when the if-clause comes first: *If we recycle**,** the city will be cleaner.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **First conditional = a real road** you might take: present + **will**.\n- **Second conditional = a dream cloud**: past + **would**.\n- Golden rule: **no 'will' or 'would' after 'if'.** Keep them in the result part only.\n- For advice, memorise the fixed phrase: **\"If I were you, I would...\"**"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose first or second conditional and complete the sentence.\n\n1. If we ______ (cut) down all the trees, the land ______ (become) desert. (real warning)\n2. If I ______ (be) the mayor, I ______ (ban) plastic bags. (imaginary)\n3. If people ______ (use) less water, rivers ______ (stay) full. (real)\n4. If everyone ______ (own) an electric car, the air ______ (be) cleaner. (imaginary now)\n5. If it ______ (not rain) soon, the crops ______ (die). (real possibility)\n\n**Answers:**\n1. cut; will become\n2. were; would ban\n3. use; will stay\n4. owned; would be\n5. doesn't rain; will die"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- Use the **first conditional** for real, possible future situations: **If + present, ... will + base verb.**\n- Use the **second conditional** for unreal or imaginary situations: **If + past, ... would + base verb.**\n- Never use **will** or **would** directly after **if**.\n- Use **were** for all subjects in the second conditional, especially in advice: *If I were you...*\n- Conditionals are very common in **EUEE** grammar and in writing about causes and effects."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words from this unit about the environment.",
+                  "glossary": [
+                    { "term": "environment", "definition": "The natural world around us: air, water, land, plants, and animals." },
+                    { "term": "climate change", "definition": "Long-term changes in weather patterns, mainly caused by human activity." },
+                    { "term": "deforestation", "definition": "The cutting down of large areas of forest." },
+                    { "term": "conservation", "definition": "Protecting nature and using resources carefully so they last." },
+                    { "term": "pollution", "definition": "Harmful materials, such as smoke or waste, that damage air, water, or land." },
+                    { "term": "sustainable", "definition": "Able to continue for a long time without harming the environment." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the form of the first conditional?", "back": "If + present simple, ... will + base verb. Example: If we plant trees, the soil will improve." },
+                { "front": "What is the form of the second conditional?", "back": "If + past simple, ... would + base verb. Example: If I were rich, I would help." },
+                { "front": "Can we use 'will' after 'if'?", "back": "No. Keep 'will' and 'would' in the result clause only. Say 'If it rains...', not 'If it will rain...'." },
+                { "front": "How do we give advice with the second conditional?", "back": "Use 'If I were you, I would...'. Example: If I were you, I would walk to school." },
+                { "front": "What does 'sustainable' mean?", "back": "Able to continue for a long time without harming the environment." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "First conditional",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct first conditional sentence.",
+              "options": ["If it will rain, the crops will grow.", "If it rains, the crops will grow.", "If it rains, the crops grow will.", "If it rain, the crops will grow."],
+              "answer": "1",
+              "explanation": "First conditional = 'If + present simple, ... will + base verb'. We do not use 'will' after 'if': 'If it rains, the crops will grow.'"
+            },
+            {
+              "topic": "Second conditional",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Complete: 'If I ______ the President, I would protect the forests.'",
+              "options": ["am", "will be", "were", "be"],
+              "answer": "2",
+              "explanation": "The second conditional uses the past form, and 'were' is used for all subjects: 'If I were the President...'."
+            },
+            {
+              "topic": "Conditional choice",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which sentence describes a real, possible situation?",
+              "options": ["If we had a recycling centre, the town would be cleaner.", "If we build a recycling centre, the town will be cleaner.", "If we would build a centre, the town will be cleaner.", "If we building a centre, the town clean."],
+              "answer": "1",
+              "explanation": "A real, possible plan uses the first conditional: 'If we build a recycling centre, the town will be cleaner.'"
+            },
+            {
+              "topic": "Conditional errors",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which sentence is correct?",
+              "options": ["If I would have time, I would plant trees.", "If I had time, I would plant trees.", "If I had time, I will plant trees.", "If I have time, I would plant trees."],
+              "answer": "1",
+              "explanation": "The second conditional is 'If + past, ... would + base verb'. We never use 'would' after 'if': 'If I had time, I would plant trees.'"
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What does 'deforestation' mean?",
+              "options": ["Planting new trees", "The cutting down of large areas of forest", "Protecting forests", "A type of pollution"],
+              "answer": "1",
+              "explanation": "Deforestation means the cutting down of large areas of forest."
+            },
+            {
+              "topic": "Conditionals",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Choose the grammatically correct sentence.",
+              "options": ["If everyone recycled, there will be less rubbish.", "If everyone recycles, there would be less rubbish.", "If everyone recycled, there would be less rubbish.", "If everyone will recycle, there would be less rubbish."],
+              "answer": "2",
+              "explanation": "This is an imaginary situation, so use the second conditional throughout: past simple + would. 'If everyone recycled, there would be less rubbish.'"
+            }
+          ]
+        },
+        {
+          "title": "Reported Speech and the Media",
+          "description": "Reading about news and the media, reporting what others said, and changing direct speech into reported speech.",
+          "lessons": [
+            {
+              "title": "Reporting What People Say: Direct and Reported Speech",
+              "summary": "Learn how to change direct speech into reported (indirect) speech, including changes to tenses, pronouns, and time words. Build vocabulary about the news and the media.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Every day we hear and read the news. In Ethiopia, people follow the radio, television, and websites to learn what leaders and reporters say.\n\nWhen we tell someone what another person said, we usually do not repeat their exact words. Instead, we use **reported speech** (also called **indirect speech**). For example, if a minister says, *'We will build new roads,'* we report: *The minister said that they **would** build new roads.* This unit shows you how to make these changes correctly."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Tell the difference between **direct** and **reported speech**.\n- Change the **tense** correctly (this is called 'backshift').\n- Change **pronouns** and **time/place words**.\n- Report **statements** and simple **questions**.\n- Use new **vocabulary** about the news and the media."
+                },
+                {
+                  "type": "theory",
+                  "title": "Direct and Reported Speech",
+                  "body": "**Direct speech** gives the exact words inside quotation marks: *She said, \"I **am** tired.\"*\n\n**Reported speech** tells the same idea without quotation marks, and the verb usually moves one tense back: *She said that she **was** tired.*\n\n**1. Tense backshift** (when the reporting verb is in the past, like *said* or *told*):\n\n| Direct | Reported |\n|---|---|\n| present simple (work) | past simple (worked) |\n| present continuous (am working) | past continuous (was working) |\n| past simple (worked) | past perfect (had worked) |\n| will | would |\n| can | could |\n\n**2. Pronoun changes:** *\"**I** am happy,\" he said* → *He said that **he** was happy.*\n\n**3. Time and place words change:**\n- *now* → *then*\n- *today* → *that day*\n- *tomorrow* → *the next day*\n- *yesterday* → *the day before*\n- *here* → *there*\n\n**Reporting questions:** use *asked* + question word (or *if/whether*), and use normal word order (no question mark): *\"Where do you live?\"* → *She asked where I **lived**.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us report what a news reporter said.\n\n**Direct:** The reporter said, \"The president **is visiting** the new factory **today**.\"\n**Reported:** The reporter said that the president **was visiting** the new factory **that day**.\n- present continuous → past continuous; *today* → *that day*.\n\n**Direct:** She said, \"We **will announce** the results **tomorrow**.\"\n**Reported:** She said that they **would announce** the results **the next day**.\n- *will* → *would*; *we* → *they*; *tomorrow* → *the next day*.\n\n**Reporting a question:**\n**Direct:** \"**Do** you **watch** the news?\" he asked.\n**Reported:** He asked **whether** I **watched** the news.\n- Use *whether/if*, normal word order, and backshift the verb."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "ESL learners often make these mistakes:\n\n- **Forgetting to backshift:** Incorrect: *He said he is tired.* Correct: *He said he **was** tired.* (when reporting later)\n- **Keeping question word order:** Incorrect: *She asked where did I live.* Correct: *She asked where I **lived**.*\n- **Keeping the question mark:** A reported question is a statement, so it ends with a full stop, not '?'.\n- **Confusing 'say' and 'tell':** We *tell* **someone** (*He told **me**...*) but we *say* something (*He said that...*). Incorrect: *He said me.* Correct: *He **told** me.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Backshift = take one step back in time.** Present steps back to past; past steps back to past perfect.\n- Remember: **\"TELL needs a person, SAY does not.\"** (tell + me/him; say + that)\n- For reported questions, **straighten the sentence**: turn the question into a normal statement order and drop the '?'.\n- Time words **travel back too**: *today → that day, tomorrow → the next day, yesterday → the day before.*"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Change to reported speech.\n\n1. \"I am reading the newspaper,\" she said.\n2. \"We will publish the story tomorrow,\" the editor said.\n3. \"I saw the news yesterday,\" he said.\n4. \"Do you trust the media?\" she asked me.\n5. \"Where is the radio station?\" the visitor asked.\n\n**Answers:**\n1. She said (that) she was reading the newspaper.\n2. The editor said (that) they would publish the story the next day.\n3. He said (that) he had seen the news the day before.\n4. She asked me whether/if I trusted the media.\n5. The visitor asked where the radio station was."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Direct speech** gives the exact words in quotation marks; **reported speech** does not.\n- When the reporting verb is in the past, the tense usually moves **one step back** (backshift).\n- Change **pronouns** and **time/place words** to fit the new speaker.\n- Report questions with **asked + question word or if/whether**, normal word order, and no '?'.\n- Use **tell + someone** but **say + that**.\n- Reported speech is common in **EUEE** grammar and in news writing."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words from this unit about the news and media.",
+                  "glossary": [
+                    { "term": "media", "definition": "The means of mass communication, such as TV, radio, newspapers, and the internet." },
+                    { "term": "journalist", "definition": "A person who collects and writes news for newspapers, TV, radio, or websites." },
+                    { "term": "headline", "definition": "The title of a news story, printed in large letters at the top." },
+                    { "term": "broadcast", "definition": "To send out a programme on radio or television." },
+                    { "term": "reliable", "definition": "Able to be trusted; giving correct and true information." },
+                    { "term": "rumour", "definition": "A piece of information passed around that may not be true." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What happens to the verb tense in reported speech (after a past reporting verb)?", "back": "It moves one step back (backshift). Present > past; 'will' > 'would'. Example: 'I am tired' > She said she was tired." },
+                { "front": "How do we report a yes/no question?", "back": "Use 'asked + if/whether', normal word order, no question mark. Example: He asked if I watched the news." },
+                { "front": "What is the difference between 'say' and 'tell'?", "back": "We 'tell' someone (tell + me/him), but we 'say' something (say + that). Example: He told me; he said that..." },
+                { "front": "How does 'tomorrow' change in reported speech?", "back": "tomorrow > the next day. Also: today > that day; yesterday > the day before." },
+                { "front": "What does 'reliable' mean?", "back": "Able to be trusted; giving correct and true information." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Reported statements",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Report: She said, \"I am happy.\"",
+              "options": ["She said that she is happy.", "She said that she was happy.", "She said that I was happy.", "She said she happy."],
+              "answer": "1",
+              "explanation": "After the past verb 'said', the present 'am' moves back to 'was', and 'I' becomes 'she': 'She said that she was happy.'"
+            },
+            {
+              "topic": "Say vs tell",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": ["He said me the news.", "He told me the news.", "He told the news me.", "He say me the news."],
+              "answer": "1",
+              "explanation": "We use 'tell + someone': 'He told me the news.' 'Say' is not followed directly by a person."
+            },
+            {
+              "topic": "Backshift",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Report: \"We will publish the story tomorrow,\" the editor said.",
+              "options": ["The editor said they will publish the story tomorrow.", "The editor said they would publish the story the next day.", "The editor said they would publish the story tomorrow.", "The editor said we would publish the story the next day."],
+              "answer": "1",
+              "explanation": "'Will' becomes 'would', 'we' becomes 'they', and 'tomorrow' becomes 'the next day'."
+            },
+            {
+              "topic": "Reported questions",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Report: \"Where do you live?\" she asked.",
+              "options": ["She asked where do I live.", "She asked where I lived.", "She asked where did I live?", "She asked where I live?"],
+              "answer": "1",
+              "explanation": "A reported question uses normal word order, backshift, and no question mark: 'She asked where I lived.'"
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is a 'journalist'?",
+              "options": ["A person who reads the news at home", "A person who collects and writes news", "The title of a news story", "A radio programme"],
+              "answer": "1",
+              "explanation": "A journalist is a person who collects and writes news for newspapers, TV, radio, or websites."
+            },
+            {
+              "topic": "Reported speech",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Choose the correct reported form: He said, \"I saw the report yesterday.\"",
+              "options": ["He said he saw the report yesterday.", "He said he had seen the report the day before.", "He said he has seen the report yesterday.", "He said I had seen the report the day before."],
+              "answer": "1",
+              "explanation": "Past simple 'saw' backshifts to past perfect 'had seen', and 'yesterday' becomes 'the day before'."
+            }
+          ]
+        },
+        {
+          "title": "Gender Equality and Society",
+          "description": "Reading about gender and society, using relative clauses to give more information, and writing argumentative paragraphs.",
+          "lessons": [
+            {
+              "title": "Adding Information: Relative Clauses",
+              "summary": "Learn how to join ideas and add information using relative clauses with who, which, that, where, and whose. Build vocabulary about gender equality and society.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Society works best when everyone has equal chances. **Gender equality** means that women and men have the same rights and opportunities — in school, at work, and in leadership. Ethiopia has had women leaders, such as ministers and judges, who serve as role models.\n\nWhen we talk about people and things, we often add information to describe them: *the woman **who** became a minister*, *the law **that** protects equal rights*. We do this with **relative clauses**. This unit teaches you how to use them."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use the relative pronouns **who, which, that, where, whose**.\n- Use relative clauses to **add information** to a noun.\n- Tell the difference between **defining** and **non-defining** clauses.\n- Join two short sentences into one clear sentence.\n- Use new **vocabulary** about gender equality and society."
+                },
+                {
+                  "type": "theory",
+                  "title": "Relative Clauses and Pronouns",
+                  "body": "A **relative clause** gives more information about a noun. It begins with a **relative pronoun**:\n\n- **who** — for people: *The girl **who** won the prize is my sister.*\n- **which** — for things and animals: *The book **which** I read was about equality.*\n- **that** — for people or things (in defining clauses): *The teacher **that** helped me is kind.*\n- **where** — for places: *This is the school **where** I study.*\n- **whose** — to show possession: *The man **whose** daughter is a doctor is proud.*\n\n**Defining relative clauses** give essential information. Without them, the sentence is unclear. We do **not** use commas: *People **who work hard** succeed.*\n\n**Non-defining relative clauses** give extra information that is not essential. We use **commas**, and we cannot use *that*: *My mother, **who is a teacher**, supports equality.*\n\n**Tip:** in defining clauses, we can often leave out the pronoun if it is the object: *The book (**which/that**) I read was good.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us join two sentences using a relative clause.\n\n**Two sentences:** The woman is a judge. She fights for equal rights.\n**Joined:** The woman **who** fights for equal rights is a judge.\n- We use *who* because we are describing a person (the woman).\n\n**Two sentences:** This is the office. My mother works there.\n**Joined:** This is the office **where** my mother works.\n- We use *where* because we are describing a place.\n\n**Two sentences:** That is the student. Her essay won a prize.\n**Joined:** That is the student **whose** essay won a prize.\n- We use *whose* to show that the essay belongs to the student.\n\n**Non-defining example (extra information):** Saba, **who studied law in Addis Ababa**, is now a judge. (The commas show this is extra information.)"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "ESL learners often make these mistakes:\n\n- **Using 'which' for people:** Incorrect: *The man which helped me.* Correct: *The man **who** helped me.*\n- **Using 'who' for things:** Incorrect: *The car who is red.* Correct: *The car **which/that** is red.*\n- **Adding an extra pronoun:** Incorrect: *The book that I read **it** was good.* Correct: *The book that I read was good.* (Do not repeat the object.)\n- **Using 'that' with commas:** Incorrect: *My sister, that is a nurse, ...* Correct: *My sister, **who** is a nurse, ...* (Use *who/which*, not *that*, in non-defining clauses.)"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **who = human; which = things; where = wherever (place); whose = who owns.**\n- Think: **\"People get WHO, objects get WHICH, and to own you need WHOSE.\"**\n- **Commas = extra, can remove.** If the clause only adds a 'by the way' detail, put it between commas.\n- Never repeat the noun with a pronoun inside the clause — one mention is enough."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Complete with who, which, where, or whose.\n\n1. The woman ______ leads the company is very clever.\n2. This is the village ______ I was born.\n3. The phone ______ I bought stopped working.\n4. The boy ______ father is a doctor wants to study medicine.\n5. Equality is a goal ______ benefits everyone.\n\n**Answers:**\n1. who\n2. where\n3. which (or that)\n4. whose\n5. which (or that)"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- A **relative clause** adds information about a noun.\n- Use **who** for people, **which** for things, **where** for places, and **whose** to show possession.\n- **Defining** clauses give essential information and take **no commas**.\n- **Non-defining** clauses give extra information, take **commas**, and cannot use **that**.\n- Do not repeat the noun with an extra pronoun inside the clause.\n- Relative clauses help you write longer, clearer sentences in the **EUEE**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words from this unit about gender and society.",
+                  "glossary": [
+                    { "term": "equality", "definition": "The state of everyone having the same rights and opportunities." },
+                    { "term": "gender", "definition": "The state of being male or female, and the social roles linked to it." },
+                    { "term": "discrimination", "definition": "Treating a person unfairly because of their group, such as their sex or background." },
+                    { "term": "opportunity", "definition": "A chance to do something, such as to study or to work." },
+                    { "term": "empower", "definition": "To give someone the power or confidence to take control of their life." },
+                    { "term": "role model", "definition": "A person others admire and want to be like." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "Which relative pronoun do we use for people?", "back": "who (or 'that' in defining clauses). Example: The woman who leads the company." },
+                { "front": "Which relative pronoun do we use for things?", "back": "which (or 'that' in defining clauses). Example: The book which I read." },
+                { "front": "When do we use 'whose'?", "back": "To show possession. Example: The boy whose father is a doctor." },
+                { "front": "What is the difference between defining and non-defining clauses?", "back": "Defining clauses give essential information (no commas). Non-defining clauses give extra information (commas, no 'that')." },
+                { "front": "What does 'empower' mean?", "back": "To give someone the power or confidence to take control of their life." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Relative pronouns",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct relative pronoun: 'The woman ______ leads the company is clever.'",
+              "options": ["which", "who", "where", "whose"],
+              "answer": "1",
+              "explanation": "'Who' is used for people: 'The woman who leads the company.'"
+            },
+            {
+              "topic": "Relative pronouns",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct relative pronoun: 'This is the school ______ I study.'",
+              "options": ["who", "which", "where", "whose"],
+              "answer": "2",
+              "explanation": "'Where' is used for places: 'the school where I study.'"
+            },
+            {
+              "topic": "Possession with whose",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Complete: 'The student ______ essay won the prize is here.'",
+              "options": ["who", "which", "whose", "where"],
+              "answer": "2",
+              "explanation": "'Whose' shows possession (the essay belongs to the student): 'the student whose essay won.'"
+            },
+            {
+              "topic": "Relative clause errors",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which sentence is correct?",
+              "options": ["The book that I read it was good.", "The book that I read was good.", "The book who I read was good.", "The book where I read was good."],
+              "answer": "1",
+              "explanation": "We do not repeat the object with an extra pronoun ('it'), and we use 'that/which' for things: 'The book that I read was good.'"
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What does 'discrimination' mean?",
+              "options": ["Giving everyone equal chances", "Treating a person unfairly because of their group", "Admiring a role model", "Having an opportunity"],
+              "answer": "1",
+              "explanation": "Discrimination means treating a person unfairly because of their group, such as their sex or background."
+            },
+            {
+              "topic": "Non-defining clauses",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Choose the correct non-defining relative clause.",
+              "options": ["My mother that is a teacher supports equality.", "My mother, who is a teacher, supports equality.", "My mother which is a teacher supports equality.", "My mother, that is a teacher, supports equality."],
+              "answer": "1",
+              "explanation": "Non-defining clauses use commas and use 'who' (not 'that') for people: 'My mother, who is a teacher, supports equality.'"
+            }
+          ]
+        },
+        {
+          "title": "Ethiopian History and Heritage",
+          "description": "Reading about Ethiopian history and heritage, using the past simple and past perfect to order past events, and writing a narrative.",
+          "lessons": [
+            {
+              "title": "Telling the Past in Order: Past Simple and Past Perfect",
+              "summary": "Learn how to use the past simple for finished actions and the past perfect for an earlier past action, so you can tell stories and describe history clearly. Build vocabulary about history and heritage.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Ethiopia has a long and proud history. The country was never colonised, and it has famous **heritage** sites such as the rock-hewn churches of **Lalibela**, the obelisks of **Aksum**, and the castles of **Gondar**.\n\nTo tell history and stories clearly, we must put events **in order**. The **past simple** tells what happened, and the **past perfect** tells what had happened *before* that. This unit shows you how to use both tenses together."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use the **past simple** for completed past actions.\n- Use the **past perfect** for an action that happened **before** another past action.\n- Order two past events correctly.\n- Use time words like *after, before, by the time, when*.\n- Use new **vocabulary** about history and heritage."
+                },
+                {
+                  "type": "theory",
+                  "title": "Past Simple and Past Perfect",
+                  "body": "**1. Past simple** — for a finished action at a known past time.\n**Form:** verb + **-ed** (regular) or the special past form (irregular).\n- *The kings **built** the castles of Gondar.* (build > built)\n- *The empire **lasted** for many centuries.*\n\n**2. Past perfect** — for an action completed **before** another past action.\n**Form:** **had** + past participle.\n- *By the time the visitors arrived, the guide **had explained** the history.* (The explaining happened first.)\n\n**Using both together:**\nWhen we tell two past events, the **earlier** one uses the past perfect and the **later** one uses the past simple:\n- *When we **reached** Lalibela, the sun **had already set**.* (First the sun set; then we reached.)\n\n**Useful time words:**\n- **before / after**: *After he **had finished** school, he **travelled** to Aksum.*\n- **by the time**: *By the time the war **ended**, many things **had changed**.*\n- **already, just, never** often go with the past perfect: *I **had never seen** such old churches before.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read this short narrative and notice the two tenses.\n\n*Last year, our class **visited** Aksum. Before we **went**, our teacher **had told** us about the ancient kingdom. When we **arrived**, we **saw** the tall obelisks. I **had read** about them in a book, but I **had never seen** them with my own eyes. By the time we **left**, we **had learned** a lot about our heritage.*\n\nNotice the order:\n- *had told*, *had read*, *had never seen*, *had learned* = the **earlier** actions (past perfect).\n- *visited, went, arrived, saw, left* = the **main story** actions in order (past simple).\n\nThe past perfect helps the reader know which action came first."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "ESL learners often make these mistakes:\n\n- **Using the past perfect for everything:** The past perfect is only for the **earlier** action. Incorrect: *Yesterday I had gone to school.* Correct: *Yesterday I **went** to school.*\n- **Wrong past participle:** Incorrect: *She had wrote a letter.* Correct: *She **had written** a letter.*\n- **Using past simple for both actions when order matters:** *When I arrived, the film started* (at the same time) is different from *When I arrived, the film **had started*** (it began before I arrived).\n- **Forgetting irregular past forms:** *go > went, see > saw, build > built, become > became.* Learn these by heart."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Past perfect = the 'past of the past'.** It is the action that happened first, deeper in time.\n- Picture a timeline: **had done ----> did ----> now.** The 'had' action is furthest left.\n- Remember the helper: **\"HAD + 3rd form for the earlier act.\"**\n- Words like **before, after, by the time, already** often signal that two times are involved — a good moment to use the past perfect."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Put the verbs in the past simple or past perfect.\n\n1. When we ______ (arrive), the ceremony ______ (already / begin).\n2. After she ______ (finish) her degree, she ______ (work) as a guide in Lalibela.\n3. I ______ (not see) the castles before I ______ (visit) Gondar.\n4. By the time the rain ______ (stop), the tourists ______ (leave).\n5. He ______ (tell) us a story that he ______ (hear) from his grandfather.\n\n**Answers:**\n1. arrived; had already begun\n2. had finished; worked\n3. had not seen; visited\n4. stopped; had left\n5. told; had heard"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- Use the **past simple** for finished past actions: verb + **-ed** or the irregular past form.\n- Use the **past perfect** (**had + past participle**) for an action that happened **before** another past action.\n- In a story, the **earlier** action takes the past perfect; the **later** action takes the past simple.\n- Time words like **before, after, by the time, already** often show two past times.\n- These tenses are essential for narrative writing and appear in the **EUEE**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words from this unit about history and heritage.",
+                  "glossary": [
+                    { "term": "heritage", "definition": "Important traditions, buildings, and culture passed down from the past." },
+                    { "term": "ancient", "definition": "Belonging to the very distant past; very old." },
+                    { "term": "empire", "definition": "A group of countries or peoples ruled by one powerful government or king." },
+                    { "term": "monument", "definition": "A structure built to remember a person or an important event." },
+                    { "term": "civilisation", "definition": "An advanced and organised society with cities, writing, and culture." },
+                    { "term": "preserve", "definition": "To keep something safe and in good condition for the future." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "When do we use the past simple?", "back": "For finished past actions at a known time. Example: The kings built the castles." },
+                { "front": "When do we use the past perfect?", "back": "For an action that happened before another past action. Form: had + past participle. Example: By the time we arrived, the sun had set." },
+                { "front": "In a story, which action takes the past perfect?", "back": "The earlier action (the one that happened first). The later action takes the past simple." },
+                { "front": "What is the past participle of 'write'?", "back": "written. Example: She had written a letter. (write – wrote – written)" },
+                { "front": "What does 'heritage' mean?", "back": "Important traditions, buildings, and culture passed down from the past." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Past simple",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct past simple sentence.",
+              "options": ["Yesterday I had visited Aksum.", "Yesterday I visited Aksum.", "Yesterday I have visited Aksum.", "Yesterday I visit Aksum."],
+              "answer": "1",
+              "explanation": "A single finished action at a known past time ('yesterday') uses the past simple: 'I visited Aksum.'"
+            },
+            {
+              "topic": "Past perfect",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Complete: 'By the time we arrived, the ceremony ______.'",
+              "options": ["already begins", "had already begun", "begin already", "is already beginning"],
+              "answer": "1",
+              "explanation": "The ceremony began before we arrived, so we use the past perfect: 'had already begun.'"
+            },
+            {
+              "topic": "Ordering past events",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence: the studying happened first, then the work.",
+              "options": ["After she finished her degree, she worked as a guide.", "After she had finished her degree, she worked as a guide.", "After she finished her degree, she had worked as a guide.", "After she has finished her degree, she works as a guide."],
+              "answer": "1",
+              "explanation": "The earlier action (finishing the degree) takes the past perfect, and the later action takes the past simple: 'After she had finished her degree, she worked as a guide.'"
+            },
+            {
+              "topic": "Past participle",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which sentence is correct?",
+              "options": ["She had wrote a letter before she left.", "She had written a letter before she left.", "She had write a letter before she left.", "She has wrote a letter before she left."],
+              "answer": "1",
+              "explanation": "The past perfect uses 'had + past participle'. The participle of 'write' is 'written': 'She had written a letter.'"
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What does 'preserve' mean?",
+              "options": ["To destroy something old", "To keep something safe for the future", "To build a new monument", "To visit a heritage site"],
+              "answer": "1",
+              "explanation": "Preserve means to keep something safe and in good condition for the future."
+            },
+            {
+              "topic": "Mixed past tenses",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Choose the grammatically correct sentence.",
+              "options": ["When the tourists arrived, the guide already explained the history.", "When the tourists arrived, the guide had already explained the history.", "When the tourists had arrived, the guide already explained the history.", "When the tourists arrive, the guide had already explain the history."],
+              "answer": "1",
+              "explanation": "The explaining happened before the tourists arrived, so the earlier action uses the past perfect: 'had already explained', with the later action in the past simple ('arrived')."
+            }
+          ]
+        },
+        {
+          "title": "Work and the Economy",
+          "description": "Reading about work and the economy, using the present perfect and present perfect continuous, and writing a CV and cover letter.",
+          "lessons": [
+            {
+              "title": "Connecting Past and Present: The Present Perfect Tenses",
+              "summary": "Learn how to use the present perfect and present perfect continuous to talk about experiences and actions that connect the past to now. Build vocabulary about work and the economy.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "The economy is about how people produce, sell, and use goods and services. In Ethiopia, many people work in **agriculture**, while others work in factories, shops, banks, and new businesses called **start-ups**.\n\nWhen we talk about work experience — 'I **have worked** here for three years' — we use the **present perfect**. This tense connects the **past** to **now**. This unit teaches the present perfect and the present perfect continuous."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Form and use the **present perfect** (have/has + past participle).\n- Form and use the **present perfect continuous** (have/has been + verb-ing).\n- Use **for** and **since** correctly.\n- Tell the difference between the present perfect and the past simple.\n- Use new **vocabulary** about work and the economy."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Present Perfect Tenses",
+                  "body": "**1. Present perfect** — connects past and present.\n**Form:** **have / has + past participle**.\nWe use it for:\n- **Experiences** (at no specific time): *I **have visited** the capital city.*\n- **Actions that started in the past and continue now**: *She **has worked** at the bank for five years.* (She still works there.)\n- **Recent actions with a result now**: *He **has lost** his job.* (So he has no job now.)\n\n**2. Present perfect continuous** — focus on the **activity** and its **length**.\n**Form:** **have / has been + verb-ing**.\n- *I **have been looking** for a job all week.* (The focus is on the long activity.)\n\n**For and since:**\n- **for** + a length of time: *for two years, for a long time.*\n- **since** + a starting point: *since 2020, since Monday, since I left school.*\n\n**Present perfect vs past simple:**\n- Present perfect = no exact past time, connected to now: *I **have eaten** injera.*\n- Past simple = a finished time in the past: *I **ate** injera **yesterday**.*\n- Use the past simple with finished-time words: *yesterday, last year, in 2019, ago.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read this short job interview and notice the tenses.\n\nManager: **Have** you ever **worked** in a shop? *(experience — present perfect)*\n\nApplicant: Yes, I **have worked** in a clothes shop **for** two years. *(continues to now — present perfect with 'for')*\n\nManager: What **have** you **been doing** recently? *(activity over time — present perfect continuous)*\n\nApplicant: I **have been studying** business **since** January, and I **have just finished** a short course. *(activity since a point; recent completed action)*\n\nManager: When did you finish school?\n\nApplicant: I **finished** school **in 2024**. *(finished past time — past simple)*\n\nNotice: 'in 2024' is a finished time, so we switch to the past simple."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "ESL learners often make these mistakes:\n\n- **Using past simple with 'since/for' (still true now):** Incorrect: *I work here for three years.* Correct: *I **have worked** here for three years.*\n- **Mixing up for and since:** Incorrect: *since two years.* Correct: *for two years* OR *since 2022.*\n- **Using present perfect with a finished time:** Incorrect: *I have seen him yesterday.* Correct: *I **saw** him yesterday.*\n- **Wrong past participle:** Incorrect: *She has went to work.* Correct: *She **has gone** to work.* (go > went > gone)"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Present perfect = a bridge** from the past to NOW. If the action touches the present, use it.\n- **FOR = a length** (for 3 years); **SINCE = a start point** (since 2020). Think: *\"FOR how long, SINCE when.\"*\n- If you can add **yesterday, last week, in 2019, or 'ago'**, switch to the **past simple**.\n- Present perfect **continuous** = the camera stays on the **action** (the doing), not the finished result."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose the correct form (present perfect, present perfect continuous, or past simple).\n\n1. She ______ (work) at the bank since 2019.\n2. I ______ (start) my first job last year.\n3. They ______ (look) for new customers all morning.\n4. ______ you ever ______ (run) a small business?\n5. He ______ (just / finish) the report.\n\n**Answers:**\n1. has worked\n2. started\n3. have been looking\n4. Have ... run\n5. has just finished"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **present perfect** (have/has + past participle) connects the past to **now**: experiences, recent results, and unfinished actions.\n- The **present perfect continuous** (have/has been + verb-ing) focuses on the **activity** and how long it lasts.\n- Use **for** with a length of time and **since** with a starting point.\n- Use the **past simple** with finished-time words (*yesterday, in 2019, ago*).\n- These tenses are very common in the **EUEE** and in writing a CV or cover letter."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words from this unit about work and the economy.",
+                  "glossary": [
+                    { "term": "economy", "definition": "The system by which a country produces, sells, and uses goods and money." },
+                    { "term": "employment", "definition": "The state of having a paid job." },
+                    { "term": "income", "definition": "The money a person or business receives, usually from work." },
+                    { "term": "entrepreneur", "definition": "A person who starts and runs their own business." },
+                    { "term": "industry", "definition": "The making of goods in factories; also a group of similar businesses." },
+                    { "term": "unemployment", "definition": "The state of not having a job when one wants to work." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "How do we form the present perfect?", "back": "have / has + past participle. Example: I have worked here for two years." },
+                { "front": "How do we form the present perfect continuous?", "back": "have / has been + verb-ing. Example: I have been looking for a job all week." },
+                { "front": "What is the difference between 'for' and 'since'?", "back": "'For' + a length of time (for two years); 'since' + a starting point (since 2020)." },
+                { "front": "When do we use the past simple instead of the present perfect?", "back": "With finished-time words like yesterday, last year, in 2019, or 'ago'. Example: I saw him yesterday." },
+                { "front": "What is an 'entrepreneur'?", "back": "A person who starts and runs their own business." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Present perfect",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence (the action continues now).",
+              "options": ["I work here for three years.", "I have worked here for three years.", "I worked here for three years.", "I am working here for three years."],
+              "answer": "1",
+              "explanation": "An action that started in the past and continues now uses the present perfect with 'for': 'I have worked here for three years.'"
+            },
+            {
+              "topic": "For and since",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Complete: 'She has run the shop ______ 2020.'",
+              "options": ["for", "since", "from", "during"],
+              "answer": "1",
+              "explanation": "We use 'since' with a starting point (a year): 'since 2020.' 'For' is used with a length of time."
+            },
+            {
+              "topic": "Present perfect vs past simple",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which sentence is correct?",
+              "options": ["I have seen him yesterday.", "I saw him yesterday.", "I have saw him yesterday.", "I seen him yesterday."],
+              "answer": "1",
+              "explanation": "'Yesterday' is a finished past time, so we use the past simple: 'I saw him yesterday.'"
+            },
+            {
+              "topic": "Present perfect continuous",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Complete: 'They ______ for new customers all morning.'",
+              "options": ["have looked", "have been looking", "looked", "are looking"],
+              "answer": "1",
+              "explanation": "The focus is on the long activity over the morning, so we use the present perfect continuous: 'have been looking.'"
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What does 'unemployment' mean?",
+              "options": ["Having a well-paid job", "The state of not having a job when one wants to work", "Starting a business", "The money received from work"],
+              "answer": "1",
+              "explanation": "Unemployment is the state of not having a job when one wants to work."
+            },
+            {
+              "topic": "Present perfect forms",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Choose the grammatically correct sentence.",
+              "options": ["She has went to work early today.", "She has gone to work early today.", "She have gone to work early today.", "She has go to work early today."],
+              "answer": "1",
+              "explanation": "The present perfect is 'has + past participle'. The participle of 'go' is 'gone': 'She has gone to work early today.'"
+            }
+          ]
+        },
+        {
+          "title": "Literature and the Power of Stories",
+          "description": "Reading short stories and poems, using descriptive language and figurative speech, and writing a short narrative.",
+          "lessons": [
+            {
+              "title": "Bringing Words to Life: Descriptive and Figurative Language",
+              "summary": "Learn how writers use adjectives, adverbs, similes, metaphors, and personification to create vivid pictures, and practise using them in your own writing. Build vocabulary about literature.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Stories and poems are powerful. Ethiopia has a rich tradition of storytelling, from folk tales told by elders to written works by famous authors. Literature helps us understand life, feelings, and other people.\n\nGood writers use special tools to make their words come alive. They choose strong **adjectives** and **adverbs**, and they use **figurative language** such as **similes**, **metaphors**, and **personification**. This unit teaches you these tools so you can understand stories better and write more vividly."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use strong **adjectives** and **adverbs** to describe.\n- Understand and use **similes** (comparisons with *like* or *as*).\n- Understand and use **metaphors** (direct comparisons).\n- Recognise **personification** (giving human qualities to things).\n- Use new **vocabulary** about literature."
+                },
+                {
+                  "type": "theory",
+                  "title": "Descriptive and Figurative Language",
+                  "body": "**1. Adjectives and adverbs**\n- **Adjectives** describe nouns: *a **bright** sun, a **brave** girl, an **ancient** church.*\n- **Adverbs** describe verbs (often ending in *-ly*): *She spoke **softly**. He ran **quickly**.*\nStrong, specific words paint a clearer picture than weak ones (*good, nice, big*).\n\n**2. Simile** — a comparison using **like** or **as**.\n- *Her smile was **as bright as** the sun.*\n- *He is **like a lion** when he is angry.*\n\n**3. Metaphor** — a comparison that says one thing **is** another (no *like* or *as*).\n- *Time **is** a river.* (Time is not really a river, but it flows like one.)\n- *The classroom **was a zoo**.* (It was very noisy and wild.)\n\n**4. Personification** — giving **human** qualities to non-human things.\n- *The wind **whispered** through the trees.*\n- *The old house **groaned** in the storm.*\n\nThese tools create strong images and feelings in the reader's mind. This is called **imagery**."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us turn a plain sentence into a vivid one.\n\n**Plain:** The girl walked to the market. It was hot.\n\n**Step 1 — add adjectives and adverbs:** The **tired** girl walked **slowly** to the **crowded** market. It was **terribly** hot.\n\n**Step 2 — add a simile:** It was **as hot as an oven**.\n\n**Step 3 — add personification:** The sun **beat down** on her, and the dust **danced** at her feet.\n\n**Final vivid sentence:** *The tired girl walked slowly to the crowded market. The sun beat down on her like an oven, and the dust danced at her feet.*\n\nNotice how the figurative language makes the reader **see** and **feel** the scene, rather than just reading plain facts."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "ESL learners often make these mistakes:\n\n- **Confusing adjectives and adverbs:** Incorrect: *She sings beautiful.* Correct: *She sings **beautifully**.* (an adverb describes the verb 'sings')\n- **Mixing up simile and metaphor:** A **simile** uses *like/as* (*as cold as ice*); a **metaphor** does not (*He is ice*).\n- **Overusing weak words:** *nice, good, very big* are weak. Choose stronger words like *kind, excellent, enormous.*\n- **Forgetting that personification needs a human action:** *The car was fast* is not personification, but *The car **screamed** down the road* is."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Simile has the letter 'L' for 'like'** — similes often use *like* (or *as*).\n- **Metaphor is more direct** — it says X **is** Y, with no *like*.\n- **Personification = person** — it gives a thing a human action (whisper, dance, cry).\n- To improve writing, ask: **\"Can the reader SEE it, HEAR it, FEEL it?\"** If not, add stronger describing words."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Name the technique (simile, metaphor, or personification) in each sentence.\n\n1. The stars danced in the night sky.\n2. Her eyes were as blue as the sea.\n3. My brother is a rock; he is always strong.\n4. The thunder grumbled in the distance.\n5. He was as quiet as a mouse.\n\n**Answers:**\n1. personification\n2. simile\n3. metaphor\n4. personification\n5. simile"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Adjectives** describe nouns; **adverbs** (often -ly) describe verbs.\n- A **simile** compares using **like** or **as** (*as brave as a lion*).\n- A **metaphor** says one thing **is** another (*Time is a river*).\n- **Personification** gives **human** qualities to non-human things (*the wind whispered*).\n- Together these create strong **imagery**.\n- This language appears in **EUEE** reading-comprehension and helps you write better essays and stories."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words from this unit about literature.",
+                  "glossary": [
+                    { "term": "simile", "definition": "A comparison of two things using 'like' or 'as'." },
+                    { "term": "metaphor", "definition": "A comparison that says one thing is another, without 'like' or 'as'." },
+                    { "term": "personification", "definition": "Giving human qualities or actions to non-human things." },
+                    { "term": "imagery", "definition": "Descriptive language that creates pictures in the reader's mind." },
+                    { "term": "narrator", "definition": "The person or voice that tells a story." },
+                    { "term": "theme", "definition": "The main idea or message of a story or poem." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is a simile?", "back": "A comparison using 'like' or 'as'. Example: as brave as a lion; her smile was like sunshine." },
+                { "front": "What is a metaphor?", "back": "A comparison that says one thing IS another, without 'like' or 'as'. Example: Time is a river." },
+                { "front": "What is personification?", "back": "Giving human qualities to non-human things. Example: The wind whispered through the trees." },
+                { "front": "What is the difference between an adjective and an adverb?", "back": "An adjective describes a noun (a brave girl); an adverb describes a verb, often ending in -ly (she spoke softly)." },
+                { "front": "What does 'theme' mean in literature?", "back": "The main idea or message of a story or poem." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Similes",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which sentence is a simile?",
+              "options": ["The sun is a ball of fire.", "Her smile was as bright as the sun.", "The sun smiled down on us.", "The bright sun rose."],
+              "answer": "1",
+              "explanation": "A simile compares using 'like' or 'as': 'as bright as the sun.' Option 1 is a metaphor, and option 3 is personification."
+            },
+            {
+              "topic": "Adjectives and adverbs",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": ["She sings beautiful.", "She sings beautifully.", "She sing beautifully.", "She beautifully sings beautiful."],
+              "answer": "1",
+              "explanation": "An adverb describes the verb 'sings', and most adverbs end in -ly: 'She sings beautifully.'"
+            },
+            {
+              "topic": "Metaphors",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which sentence is a metaphor?",
+              "options": ["He is as strong as a rock.", "He is a rock; he never gives up.", "He runs like a cheetah.", "He is very strong."],
+              "answer": "1",
+              "explanation": "A metaphor says one thing IS another, without 'like' or 'as': 'He is a rock.'"
+            },
+            {
+              "topic": "Personification",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which sentence uses personification?",
+              "options": ["The car was very fast.", "The thunder grumbled in the distance.", "The car was as fast as the wind.", "The loud thunder frightened me."],
+              "answer": "1",
+              "explanation": "Personification gives a human action to a non-human thing: thunder 'grumbled.'"
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What does 'imagery' mean?",
+              "options": ["The person who tells a story", "Descriptive language that creates pictures in the reader's mind", "The main message of a story", "A comparison using 'like'"],
+              "answer": "1",
+              "explanation": "Imagery is descriptive language that creates pictures in the reader's mind."
+            },
+            {
+              "topic": "Figurative language",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Identify the technique: 'The old house groaned and sighed in the wind.'",
+              "options": ["Simile", "Metaphor", "Personification", "Adjective"],
+              "answer": "2",
+              "explanation": "Giving the house human actions ('groaned and sighed') is personification."
+            }
+          ]
+        },
+        {
+          "title": "Global Citizenship and Communication",
+          "description": "Reading about global issues, using linking words to build cohesive arguments, and writing a persuasive essay.",
+          "lessons": [
+            {
+              "title": "Joining Ideas Clearly: Linking Words and Cohesion",
+              "summary": "Learn how to connect sentences and ideas using linking words for addition, contrast, cause, and result, so your writing flows and persuades. Build vocabulary about global issues.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Today the world is connected. A **global citizen** cares not only about their own town but also about people everywhere — about peace, poverty, and the planet. To share ideas with the world, we must communicate **clearly**.\n\nGood writing does not jump from one idea to the next. It uses **linking words** (also called **connectors** or **transitions**) to join ideas smoothly. Words like *however, because, therefore,* and *in addition* guide the reader. This unit teaches you to use them, which is essential for the essay part of the **EUEE** and university study."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use linking words for **addition**, **contrast**, **cause**, and **result**.\n- Connect two sentences smoothly.\n- Make your writing **cohesive** (well joined together).\n- Build a clear, persuasive paragraph.\n- Use new **vocabulary** about global issues and communication."
+                },
+                {
+                  "type": "theory",
+                  "title": "Linking Words by Function",
+                  "body": "**Linking words** show the relationship between ideas. Here are the main groups:\n\n**1. Addition (and / also):**\n- *in addition, furthermore, moreover, as well as*\n- *Education reduces poverty. **Furthermore**, it improves health.*\n\n**2. Contrast (but / opposite):**\n- *however, although, even though, on the other hand, whereas*\n- *Many people have phones. **However**, not everyone has the internet.*\n- Note: *although* joins two clauses in one sentence: ***Although** it was raining, we went out.*\n\n**3. Cause / reason (why):**\n- *because, since, as, due to*\n- *Prices rose **because** the harvest was poor.*\n\n**4. Result (so / therefore):**\n- *therefore, as a result, so, consequently*\n- *The road was closed. **Therefore**, we took another way.*\n\n**Punctuation tip:** many connectors at the start of a sentence are followed by a **comma**: ***However**, ...* / ***In addition**, ...* / ***Therefore**, ...*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us join short, choppy sentences into a smooth paragraph.\n\n**Choppy:** The internet is useful. It helps students learn. It can be dangerous. People should be careful. We must teach digital skills.\n\n**With linking words:** *The internet is very useful **because** it helps students learn. **However**, it can also be dangerous. **Therefore**, people should be careful online. **In addition**, we must teach digital skills to everyone.*\n\nNotice how each linking word shows the relationship:\n- **because** = reason\n- **however** = contrast\n- **therefore** = result\n- **in addition** = adding a new point\n\nThe paragraph now flows and is easy to follow — exactly what an examiner wants to see."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "ESL learners often make these mistakes:\n\n- **Confusing 'because' and 'so':** *because* gives the **reason**; *so* gives the **result**. Incorrect: *It was raining so I stayed home because.* Correct: *It was raining, **so** I stayed home* OR *I stayed home **because** it was raining.*\n- **Using 'although' and 'but' together:** Incorrect: *Although it was hard, but I tried.* Correct: ***Although** it was hard, I tried.* (Use only one.)\n- **Forgetting the comma:** Incorrect: *However I disagree.* Correct: ***However**, I disagree.*\n- **Overusing 'and':** Joining everything with 'and' makes writing weak. Use varied connectors instead."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- Sort connectors into **four boxes**: **ADD** (also, moreover), **BUT** (however, although), **WHY** (because, since), **SO** (therefore, as a result).\n- Remember: **\"BECAUSE looks back to the reason; SO looks forward to the result.\"**\n- Never put **although** and **but** in the same sentence — pick one.\n- A connector at the **start** of a sentence usually wants a **comma** right after it."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose the best linking word.\n\n1. He studied hard, ______ he passed the exam. (result)\n2. ______ she was tired, she finished her work. (contrast)\n3. We must save water ______ it is becoming scarce. (reason)\n4. The plan is good. ______, it is cheap. (addition)\n5. Many cars cause pollution. ______, we should walk more. (result)\n\n**Answers:**\n1. so / therefore\n2. Although / Even though\n3. because / since\n4. In addition / Furthermore / Moreover\n5. Therefore / As a result"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Linking words** join ideas and make writing **cohesive**.\n- Use **addition** words (also, furthermore) to add points.\n- Use **contrast** words (however, although) to show difference.\n- Use **cause** words (because, since) to give reasons.\n- Use **result** words (therefore, so) to show results.\n- Many connectors at the start of a sentence take a **comma**.\n- Strong linking words are essential for the **EUEE essay** and academic writing."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words from this unit about global issues and communication.",
+                  "glossary": [
+                    { "term": "global citizen", "definition": "A person who feels responsible for the whole world, not just their own country." },
+                    { "term": "communication", "definition": "The sharing of information, ideas, or feelings between people." },
+                    { "term": "cohesion", "definition": "The way the parts of a text are joined together so it flows smoothly." },
+                    { "term": "argument", "definition": "A set of reasons given to support an idea or opinion." },
+                    { "term": "persuade", "definition": "To make someone agree with you or do something by giving good reasons." },
+                    { "term": "cooperation", "definition": "Working together with others to reach a shared goal." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "Which linking words show contrast?", "back": "however, although, even though, on the other hand, whereas. Example: However, not everyone agrees." },
+                { "front": "What is the difference between 'because' and 'so'?", "back": "'Because' gives the reason; 'so' gives the result. Example: I stayed home because it rained. / It rained, so I stayed home." },
+                { "front": "Can we use 'although' and 'but' in the same sentence?", "back": "No. Use only one. Correct: Although it was hard, I tried. (not 'Although... but...')" },
+                { "front": "Which words show addition?", "back": "in addition, furthermore, moreover, also, as well as. Example: Furthermore, it is cheap." },
+                { "front": "What does 'cohesion' mean?", "back": "The way the parts of a text are joined together so it flows smoothly." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Result connectors",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the best word: 'He studied hard, ______ he passed the exam.'",
+              "options": ["because", "so", "although", "but"],
+              "answer": "1",
+              "explanation": "We need a result connector here: 'so he passed.' 'Because' would give a reason, not a result."
+            },
+            {
+              "topic": "Contrast connectors",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the best word: '______ she was tired, she finished her work.'",
+              "options": ["Because", "So", "Although", "Therefore"],
+              "answer": "2",
+              "explanation": "'Although' shows contrast and joins two clauses: 'Although she was tired, she finished her work.'"
+            },
+            {
+              "topic": "Cause connectors",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the best word: 'We must save water ______ it is becoming scarce.'",
+              "options": ["because", "therefore", "however", "in addition"],
+              "answer": "1",
+              "explanation": "'Because' gives the reason why we must save water."
+            },
+            {
+              "topic": "Connector errors",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which sentence is correct?",
+              "options": ["Although it was hard, but I tried.", "Although it was hard, I tried.", "Because it was hard so I tried.", "However it was hard, I tried."],
+              "answer": "1",
+              "explanation": "We use only one connector. 'Although it was hard, I tried' is correct; we do not add 'but' as well."
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What does 'persuade' mean?",
+              "options": ["To share information", "To make someone agree with you by giving good reasons", "To work together", "To join ideas smoothly"],
+              "answer": "1",
+              "explanation": "Persuade means to make someone agree with you or do something by giving good reasons."
+            },
+            {
+              "topic": "Linking words",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Choose the best linking word: 'Many cars cause pollution. ______, we should walk more often.'",
+              "options": ["Because", "Although", "Therefore", "Whereas"],
+              "answer": "2",
+              "explanation": "The second sentence is a result of the first, so we use a result connector: 'Therefore, we should walk more often.'"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

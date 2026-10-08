@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Question words",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: '______ are you wearing your coat? It is cold outside.'",
+          "options": ["Where", "Why", "Who", "Which"],
+          "answer": "1",
+          "explanation": "'Why' asks for a reason, and 'because it is cold' is a reason."
+        },
+        {
+          "topic": "Present simple spelling",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["My neighbour wash her clothes on Sunday.", "My neighbour washes her clothes on Sunday.", "My neighbour washs her clothes on Sunday.", "My neighbour washing her clothes on Sunday."],
+          "answer": "1",
+          "explanation": "With he/she/it a verb ending in -sh adds -es: wash becomes washes."
+        },
+        {
+          "topic": "Vocabulary: opposites",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which word is the opposite of 'expensive'?",
+          "options": ["heavy", "rich", "wide", "cheap"],
+          "answer": "3",
+          "explanation": "'Expensive' means costing a lot of money, so its opposite is 'cheap'."
+        },
+        {
+          "topic": "Vocabulary: food",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which word describes food that is good for your body?",
+          "options": ["healthy", "lazy", "noisy", "empty"],
+          "answer": "0",
+          "explanation": "'Healthy' food is good for the body; the other words do not describe food."
+        },
+        {
+          "topic": "Possessive adjectives",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: 'Selam and Abel are doing ______ homework together.'",
+          "options": ["his", "her", "our", "their"],
+          "answer": "3",
+          "explanation": "'Selam and Abel' is plural (they), so the possessive adjective is 'their'."
+        },
+        {
+          "topic": "Imperatives",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which sentence is a polite instruction?",
+          "options": ["You closing the door.", "Please close the door.", "You closes the door.", "To close the door."],
+          "answer": "1",
+          "explanation": "An imperative uses the base verb, and 'please' makes it polite: 'Please close the door.'"
+        },
+        {
+          "topic": "Comparatives",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'A bicycle is ______ than a car for short trips in the town.'",
+          "options": ["most convenient", "conveniently", "more convenient", "convenient"],
+          "answer": "2",
+          "explanation": "'Convenient' is a long adjective, so the comparative uses 'more': 'more convenient ... than'."
+        },
+        {
+          "topic": "Prepositions of place",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'The cat is hiding ______ the table, so we cannot see it.'",
+          "options": ["under", "on", "over", "along"],
+          "answer": "0",
+          "explanation": "'Under' shows a position below something, which is why the cat cannot be seen."
+        },
+        {
+          "topic": "Gerund vs infinitive",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["We hope visiting Lalibela next year.", "We hope visit Lalibela next year.", "We hope visited Lalibela next year.", "We hope to visit Lalibela next year."],
+          "answer": "3",
+          "explanation": "The verb 'hope' is followed by the infinitive with 'to': 'hope to visit'."
+        },
+        {
+          "topic": "Quantifiers",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'We don't need ______ bread; one loaf is enough for today.'",
+          "options": ["many", "much", "few", "a lot"],
+          "answer": "1",
+          "explanation": "Bread is uncountable, so in this negative sentence we use 'much'."
+        },
+        {
+          "topic": "Simple past tense",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the past tense of 'bring'?",
+          "options": ["bringed", "brang", "brought", "brung"],
+          "answer": "2",
+          "explanation": "'Bring' is irregular; its simple past is 'brought'."
+        },
+        {
+          "topic": "Present continuous tense",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'Right now my mother ______ injera in the kitchen.'",
+          "options": ["makes", "make", "is making", "made"],
+          "answer": "2",
+          "explanation": "'Right now' signals an action happening at this moment, so we use the present continuous 'is making'."
+        },
+        {
+          "topic": "Object pronouns",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Replace the underlined words: 'I saw Hana and Dawit at the market.' 'I saw ______ at the market.'",
+          "options": ["they", "them", "their", "theirs"],
+          "answer": "1",
+          "explanation": "After the verb 'saw' we need the object pronoun 'them' to replace 'Hana and Dawit'."
+        },
+        {
+          "topic": "Future with will",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'Don't worry about the heavy bag. I ______ carry it for you.'",
+          "options": ["am carrying", "will", "will carry", "carry"],
+          "answer": "2",
+          "explanation": "An offer to help made at the moment of speaking uses 'will' + the base verb: 'will carry'."
+        },
+        {
+          "topic": "Vocabulary: media",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What do we call a person who reads the news on television?",
+          "options": ["author", "newsreader", "painter", "tailor"],
+          "answer": "1",
+          "explanation": "A 'newsreader' is the person who reads the news on TV or radio."
+        },
+        {
+          "topic": "Comparison with 'as ... as'",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'Today is just ______ hot ______ yesterday.'",
+          "options": ["so / as", "as / as", "more / than", "as / than"],
+          "answer": "1",
+          "explanation": "To show two things are equal in degree we use 'as ... as': 'as hot as'."
+        },
+        {
+          "topic": "Word formation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete with the correct form: 'My teacher is very ______ and explains things calmly.' (patience)",
+          "options": ["patience", "patient", "patiently", "patiences"],
+          "answer": "1",
+          "explanation": "An adjective is needed after 'is' to describe the teacher; the adjective from 'patience' is 'patient'."
+        },
+        {
+          "topic": "Reading comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read: 'Tariku had studied all week, so he felt confident as he entered the exam hall.' How did Tariku feel?",
+          "options": ["Afraid", "Bored", "Sure of himself", "Sleepy"],
+          "answer": "2",
+          "explanation": "'Confident' means sure of oneself, which is what studying all week made him feel."
+        },
+        {
+          "topic": "Relative clauses",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["This is the dictionary who I borrowed from the library.", "This is the dictionary whose I borrowed from the library.", "This is the dictionary which I borrowed from the library.", "This is the dictionary where I borrowed from the library."],
+          "answer": "2",
+          "explanation": "We use 'which' to refer to a thing: 'the dictionary which I borrowed'."
+        },
+        {
+          "topic": "Passive voice",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Change to the passive: 'The carpenter made this table.'",
+          "options": ["This table makes by the carpenter.", "This table was made by the carpenter.", "This table is made by the carpenter.", "This table has made by the carpenter."],
+          "answer": "1",
+          "explanation": "The past simple passive uses 'was/were' + the past participle: 'was made by the carpenter'."
+        },
+        {
+          "topic": "Present perfect tense",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'She ______ already ______ her lunch, so she is not hungry.'",
+          "options": ["have / eaten", "has / ate", "had / eat", "has / eaten"],
+          "answer": "3",
+          "explanation": "The present perfect with 'she' uses 'has' + the past participle 'eaten'."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'The plan was sensible, so the whole committee agreed to it at once.' What does 'sensible' mean here?",
+          "options": ["Foolish", "Reasonable", "Expensive", "Secret"],
+          "answer": "1",
+          "explanation": "Because the committee agreed at once, 'sensible' means reasonable or wise."
+        },
+        {
+          "topic": "Conjunctions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'You can pay with cash ______ you can use a card; both are accepted.'",
+          "options": ["but", "so", "or", "because"],
+          "answer": "2",
+          "explanation": "'Or' joins two alternatives, here two ways of paying that are both possible."
+        },
+        {
+          "topic": "Second conditional",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'If I had more free time, I ______ learn to play the krar.'",
+          "options": ["will", "will be", "would", "am"],
+          "answer": "2",
+          "explanation": "The second conditional uses 'would' + the base verb in the result of an imaginary situation."
+        },
+        {
+          "topic": "Phrasal verbs",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'It was dark, so she ______ the lights when she came home.'",
+          "options": ["turned on", "turned into", "turned down", "turned up"],
+          "answer": "0",
+          "explanation": "'Turn on' means to make a light or machine start working."
+        },
+        {
+          "topic": "Adverbs of manner",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'The driver drove ______ through the busy market street.'",
+          "options": ["careful", "carefully", "more careful", "careless"],
+          "answer": "1",
+          "explanation": "An adverb of manner is needed to describe how he drove; the adverb of 'careful' is 'carefully'."
+        },
+        {
+          "topic": "Reported speech",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Report: 'I am cleaning my room,' Hana said.",
+          "options": ["Hana said that she is cleaning her room.", "Hana said that I was cleaning my room.", "Hana told that she was cleaning her room.", "Hana said that she was cleaning her room."],
+          "answer": "3",
+          "explanation": "The present continuous backshifts to the past continuous (was cleaning), and 'I/my' become 'she/her'."
+        },
+        {
+          "topic": "Spelling and homophones",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correctly spelled sentence.",
+          "options": ["We past the new shop on our way home.", "We passed the new shop on our way home.", "We passt the new shop on our way home.", "We pased the new shop on our way home."],
+          "answer": "1",
+          "explanation": "'Passed' is the past tense of the verb 'pass', while 'past' is a different word for time or position."
+        },
+        {
+          "topic": "Tag questions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'She can speak three languages, ______?'",
+          "options": ["can she", "can't she", "doesn't she", "isn't she"],
+          "answer": "1",
+          "explanation": "A positive statement with 'can' takes the negative tag 'can't she'."
+        },
+        {
+          "topic": "Word order and adjectives",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence with the correct adjective order.",
+          "options": ["a round large wooden plate", "a large round wooden plate", "a wooden large round plate", "a round wooden large plate"],
+          "answer": "1",
+          "explanation": "Adjective order is size, then shape, then material: 'large (size) round (shape) wooden (material) plate'."
+        },
+        {
+          "topic": "Modal verbs of deduction",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Complete: 'He has not eaten since morning, so he ______ be very hungry by now.'",
+          "options": ["can't", "needn't", "must", "mustn't"],
+          "answer": "2",
+          "explanation": "'Must' shows a logical conclusion from evidence; not eating all day means he is surely hungry."
+        },
+        {
+          "topic": "Third conditional",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Complete: 'If we ______ earlier, we would not have missed the bus.'",
+          "options": ["leave", "left", "had left", "would leave"],
+          "answer": "2",
+          "explanation": "The third conditional uses 'had' + the past participle in the if-part: 'If we had left'."
+        },
+        {
+          "topic": "Reported questions",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Report: 'What time does the shop open?' he asked.",
+          "options": ["He asked what time does the shop open.", "He asked what time did the shop open.", "He asked what time the shop opens?", "He asked what time the shop opened."],
+          "answer": "3",
+          "explanation": "A reported question uses statement word order and a backshifted verb: 'what time the shop opened'."
+        },
+        {
+          "topic": "Mixed tenses",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Complete: 'By the time the guests arrived, my mother ______ all the food.'",
+          "options": ["cooks", "has cooked", "had cooked", "is cooking"],
+          "answer": "2",
+          "explanation": "The past perfect 'had cooked' shows the cooking finished before another past action (the guests arriving)."
+        },
+        {
+          "topic": "Subject-verb agreement",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["There is many books on the shelf.", "There are many books on the shelf.", "There be many books on the shelf.", "There was many books on the shelf."],
+          "answer": "1",
+          "explanation": "'Books' is plural, so the verb must be plural: 'There are many books.'"
+        },
+        {
+          "topic": "Linking words of contrast",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Complete: 'The team trained very hard; ______, they lost the final match.'",
+          "options": ["therefore", "however", "as a result", "moreover"],
+          "answer": "1",
+          "explanation": "'However' introduces a contrast: hard training did not lead to a win."
+        }
+      ]
+    }
+  ]
+}

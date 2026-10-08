@@ -1,0 +1,821 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "english",
+      "chapters": [
+        {
+          "title": "Saving for the Future",
+          "description": "Reading about personal finance and practising the present and past simple tenses.",
+          "lessons": [
+            {
+              "title": "Talking and Writing About Saving Money",
+              "summary": "Learn vocabulary for money and saving, and use the present simple and past simple tenses correctly. You will read a short text and write sentences about your own saving habits.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Many families in Ethiopia save money for important goals, such as school fees, a wedding, or starting a small business. Some people join a traditional saving group called an **iqub**, where members give money every week and take turns receiving the total.\n\nIn this lesson, you will learn useful **vocabulary** about money and saving. You will also practise two important verb tenses: the **present simple** (for habits and facts) and the **past simple** (for finished actions in the past)."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use at least eight new **words about money and saving**.\n- Form correct sentences in the **present simple** tense.\n- Form correct sentences in the **past simple** tense.\n- Read a short text and answer questions about it.\n- Write five sentences about your own saving habits."
+                },
+                {
+                  "type": "theory",
+                  "title": "Grammar: Present Simple and Past Simple",
+                  "body": "A **tense** tells us *when* an action happens.\n\n**Present simple** is used for habits, routines, and facts that are generally true.\n- Add **-s** or **-es** to the verb with *he*, *she*, and *it*.\n- Examples: *I **save** ten birr every week.* / *She **saves** money in the bank.* / *Banks **keep** our money safe.*\n\nWe make negatives and questions with **do** and **does**:\n- *I **do not (don't) spend** money on sweets.*\n- ***Does** he **save** money?*\n\n**Past simple** is used for an action that started and finished in the past.\n- For **regular verbs**, add **-ed**: *save → saved*, *want → wanted*, *open → opened*.\n- *Last year I **saved** money for a bicycle.*\n\n**Irregular verbs** change their form completely. You must learn them:\n- *go → went*, *buy → bought*, *take → took*, *keep → kept*, *give → gave*.\n- *Yesterday she **went** to the bank and **kept** her money there.*\n\nWe make negatives and questions in the past with **did**:\n- *I **did not (didn't) buy** new shoes.*\n- ***Did** you **save** any money last month?*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: A Short Paragraph",
+                  "body": "Read this model paragraph. Notice the **present simple** verbs (in habits) and the **past simple** verbs (in finished actions).\n\n> *My name is Hanna. Every month I **save** a little money. I **put** it in a small box at home. Last year I **wanted** a new schoolbag. I **saved** for three months and then I **bought** it. Now I **feel** proud because I **reached** my goal.*\n\n**Why these tenses?**\n- *save, put, feel* describe her **habits and feelings now** → present simple.\n- *wanted, saved, bought, reached* describe **finished past actions** → past simple."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "ESL learners often make these errors. Avoid them:\n\n- **Forgetting -s in the present simple.** Wrong: *She save money.* Correct: *She **saves** money.*\n- **Using the past form after 'did'.** Wrong: *Did you saved money?* Correct: *Did you **save** money?* (Use the base verb after *did*.)\n- **Mixing tenses in one idea.** Wrong: *Yesterday I go to the bank.* Correct: *Yesterday I **went** to the bank.*\n- **Confusing 'money' as plural.** Wrong: *moneys* / *many money*. Correct: *money* is uncountable → *much money*, *a lot of money*.\n- **Saying 'spend' for 'save'.** *Spend* means to use money; *save* means to keep money. They are opposites."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"He, she, it — add an s to it!\"** Remember to add **-s** to the verb with *he/she/it* in the present simple.\n- **\"-ed for the past, but not too fast.\"** Most past verbs take **-ed**, but check for irregular verbs first.\n- To remember **save vs. spend**: **S**ave = **S**tore it; **S**pend = it's **S**pent (gone).\n- After **do/does/did**, the main verb is always the **base form** (no -s, no -ed)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose the correct verb form.\n\n1. Every day she ______ (save / saves) some birr.\n2. Last week we ______ (open / opened) a bank account.\n3. ______ you ______ (Did / save) money last year? (fill both blanks)\n4. He ______ (don't / doesn't) spend money on games.\n5. Two years ago they ______ (buy / bought) a cow with their savings.\n\n**Answers:**\n1. saves  2. opened  3. Did ... save  4. doesn't  5. bought"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- Use the **present simple** for habits and facts; add **-s/-es** for *he/she/it*.\n- Use the **past simple** for finished past actions; regular verbs take **-ed**.\n- Learn **irregular verbs** by heart (*go → went*, *buy → bought*).\n- After **do/does/did**, use the **base verb**.\n- *Money* is **uncountable**: use *much* and *a lot of*, not *many*."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Study these key words about money and saving.",
+                  "glossary": [
+                    { "term": "save", "definition": "To keep money to use later instead of spending it now." },
+                    { "term": "spend", "definition": "To use money to buy things." },
+                    { "term": "budget", "definition": "A plan that shows how much money you have and how you will use it." },
+                    { "term": "account", "definition": "A record of money kept in a bank in your name." },
+                    { "term": "income", "definition": "The money a person receives, usually from work." },
+                    { "term": "iqub", "definition": "A traditional Ethiopian saving group where members contribute money regularly and take turns receiving it." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What tense do we use for habits and facts?", "back": "The present simple tense (e.g. *She saves money every week*)." },
+                { "front": "How do regular verbs form the past simple?", "back": "By adding -ed (e.g. *want → wanted*, *open → opened*)." },
+                { "front": "What is the past simple of 'buy'?", "back": "Bought (it is an irregular verb)." },
+                { "front": "After 'did', which verb form do we use?", "back": "The base form (e.g. *Did you save?*, not *Did you saved?*)." },
+                { "front": "Is 'money' countable or uncountable?", "back": "Uncountable. Use *much money* and *a lot of money*, not *many money*." }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Present simple", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["She save money every week.", "She saves money every week.", "She saving money every week.", "She saved money every week (as a habit now)."], "answer": "1", "explanation": "In the present simple, verbs take -s with he/she/it: 'She saves money'." },
+            { "topic": "Past simple", "difficulty": "beginner", "type": "mcq", "prompt": "What is the past simple of 'open'?", "options": ["opens", "opening", "opened", "openned"], "answer": "2", "explanation": "'Open' is a regular verb, so we add -ed to make 'opened'." },
+            { "topic": "Questions in past simple", "difficulty": "medium", "type": "mcq", "prompt": "Choose the correct question.", "options": ["Did you saved money last year?", "Do you saved money last year?", "Did you save money last year?", "Did you saving money last year?"], "answer": "2", "explanation": "After 'did', we use the base verb: 'Did you save...?'" },
+            { "topic": "Vocabulary", "difficulty": "medium", "type": "mcq", "prompt": "Which word means 'to keep money to use later'?", "options": ["spend", "save", "borrow", "waste"], "answer": "1", "explanation": "'Save' means to keep money for the future; 'spend' is its opposite." },
+            { "topic": "Uncountable nouns", "difficulty": "difficult", "type": "mcq", "prompt": "Choose the correct phrase.", "options": ["many money", "many moneys", "much money", "a money"], "answer": "2", "explanation": "'Money' is uncountable, so we use 'much money', not 'many money'." },
+            { "topic": "Reading comprehension", "difficulty": "exam", "type": "mcq", "prompt": "Read: 'Last year Hanna wanted a new schoolbag. She saved for three months and bought it.' How long did Hanna save?", "options": ["One month", "Two months", "Three months", "A year"], "answer": "2", "explanation": "The text says 'She saved for three months', so the answer is three months." }
+          ]
+        },
+        {
+          "title": "Tourism in Ethiopia",
+          "description": "Describing famous places using adjectives and the comparative and superlative forms.",
+          "lessons": [
+            {
+              "title": "Describing Places with Comparatives and Superlatives",
+              "summary": "Learn how to compare places and things using comparative and superlative adjectives. You will describe Ethiopian tourist sites such as Lalibela, the Simien Mountains, and Lake Tana.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Ethiopia is a beautiful country with many famous places. Tourists visit the rock churches of **Lalibela**, the high **Simien Mountains**, the ancient city of **Axum**, and the wide **Lake Tana**.\n\nWhen we talk about tourism, we often **compare** places: which mountain is higher, which lake is bigger, which city is the oldest. In this lesson you will learn how to use **comparative** and **superlative** adjectives to describe and compare places."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use **adjectives** to describe places.\n- Form **comparative** adjectives (e.g. *bigger*, *more beautiful*).\n- Form **superlative** adjectives (e.g. *the biggest*, *the most beautiful*).\n- Compare two or more Ethiopian tourist sites in correct sentences."
+                },
+                {
+                  "type": "theory",
+                  "title": "Grammar: Comparatives and Superlatives",
+                  "body": "An **adjective** is a word that describes a noun: *a **high** mountain*, *an **old** church*.\n\n**Comparative** adjectives compare **two** things. We often use the word **than**.\n- **Short adjectives** (one syllable): add **-er**. *high → higher*, *old → older*. *The Simien Mountains are **higher than** the Bale Mountains.*\n- Adjectives ending in **-y**: change *y* to *i* and add **-er**. *easy → easier*, *busy → busier*.\n- **Long adjectives** (two or more syllables): use **more** before the adjective. *beautiful → more beautiful*. *Lalibela is **more famous than** my village.*\n\n**Superlative** adjectives compare **three or more** things and show the top one. We usually use **the**.\n- **Short adjectives**: add **-est**. *high → the highest*, *old → the oldest*. *Ras Dashen is **the highest** mountain in Ethiopia.*\n- **Long adjectives**: use **the most**. *the most beautiful*. *Lalibela is **the most famous** place in the region.*\n\n**Irregular adjectives** (learn these):\n- *good → better → the best*\n- *bad → worse → the worst*\n- *far → farther/further → the farthest/furthest*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us compare three places.\n\n- **Lake Tana** is large. **Lake Abaya** is larger. But which is **the largest**?\n- Sentence (comparative): *Lake Tana is **larger than** Lake Ziway.*\n- Sentence (superlative): *Lake Tana is **the largest** lake in Ethiopia.*\n\nNow with a long adjective:\n- *Axum is **more interesting than** a new town because it is very old.*\n- *Many people think Lalibela is **the most interesting** place in Ethiopia.*\n\n**Tip:** If the adjective is short, change the word itself (*-er / -est*). If it is long, add a helper word (*more / the most*)."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Using 'more' with -er together.** Wrong: *more higher*. Correct: ***higher*** *than* OR *more famous than* (never both).\n- **Forgetting 'than' in comparisons.** Wrong: *The mountain is higher the hill.* Correct: *The mountain is higher **than** the hill.*\n- **Forgetting 'the' with superlatives.** Wrong: *It is highest mountain.* Correct: *It is **the** highest mountain.*\n- **Wrong irregular forms.** Wrong: *gooder*, *more good*, *the goodest*. Correct: *better*, *the best*.\n- **Spelling errors when doubling letters.** *big → bigger* (double the *g*); *hot → hotter* (double the *t*)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"Short and snappy? Add -er, -est.\"** Short adjectives change form. **\"Long and slow? Use more, most.\"**\n- **Two = -er + than. Three or more = the + -est.** (2 things compare with *than*; the top of many uses *the*.)\n- Remember the irregulars with a chant: *good–better–best, bad–worse–worst.*\n- When an adjective ends in a short vowel + consonant, **double the last letter** before *-er/-est*: *big → bigger*."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Complete each sentence with the correct form.\n\n1. The Simien Mountains are ______ (high) than the hills near my home.\n2. Lalibela is one of the ______ (famous) places in Ethiopia.\n3. This road is ______ (bad) than the old one.\n4. Lake Tana is ______ (big) than Lake Ziway.\n5. Axum is the ______ (old) city in this story.\n\n**Answers:**\n1. higher  2. most famous  3. worse  4. bigger  5. oldest"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Comparatives** compare two things and often use **than**.\n- **Superlatives** show the top of three or more and usually use **the**.\n- **Short adjectives** take **-er / -est**; **long adjectives** use **more / the most**.\n- Learn **irregular** forms: *good → better → best*; *bad → worse → worst*.\n- Double the final consonant in words like *big → bigger*, *hot → hottest*."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Useful words for talking about tourism and places.",
+                  "glossary": [
+                    { "term": "tourist", "definition": "A person who travels to visit places for pleasure." },
+                    { "term": "destination", "definition": "The place a traveller is going to." },
+                    { "term": "ancient", "definition": "Very old; from a long time ago." },
+                    { "term": "scenery", "definition": "The natural features of an area, such as mountains and lakes, that are nice to look at." },
+                    { "term": "heritage", "definition": "Important traditions, buildings, and culture passed down from the past." },
+                    { "term": "comparative", "definition": "The form of an adjective used to compare two things (e.g. bigger, more beautiful)." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "How do we form comparatives of short adjectives?", "back": "Add -er and usually use 'than' (e.g. *higher than*)." },
+                { "front": "How do we form superlatives of long adjectives?", "back": "Use 'the most' before the adjective (e.g. *the most beautiful*)." },
+                { "front": "Comparative and superlative of 'good'?", "back": "good → better → the best (irregular)." },
+                { "front": "Why is 'more higher' wrong?", "back": "Never use 'more' with an -er adjective. Say 'higher' OR 'more famous', not both." },
+                { "front": "Spell the comparative of 'big'.", "back": "bigger — double the final consonant after a short vowel." }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Comparatives", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["This mountain is high than that one.", "This mountain is higher than that one.", "This mountain is more high than that one.", "This mountain is the higher than that one."], "answer": "1", "explanation": "Short adjectives add -er and use 'than': 'higher than'." },
+            { "topic": "Superlatives", "difficulty": "beginner", "type": "mcq", "prompt": "Complete: 'Ras Dashen is ______ mountain in Ethiopia.'", "options": ["the higher", "highest", "the highest", "more high"], "answer": "2", "explanation": "Superlatives of short adjectives use 'the' + -est: 'the highest'." },
+            { "topic": "Long adjectives", "difficulty": "medium", "type": "mcq", "prompt": "Choose the correct comparative of 'beautiful'.", "options": ["beautifuler", "more beautiful", "beautifulest", "most beautiful"], "answer": "1", "explanation": "'Beautiful' is a long adjective, so we use 'more beautiful' for the comparative." },
+            { "topic": "Irregular adjectives", "difficulty": "medium", "type": "mcq", "prompt": "What is the superlative of 'bad'?", "options": ["the baddest", "the worse", "the worst", "the most bad"], "answer": "2", "explanation": "'Bad' is irregular: bad → worse → the worst." },
+            { "topic": "Spelling", "difficulty": "difficult", "type": "mcq", "prompt": "Choose the correct comparative spelling.", "options": ["biger", "bigger", "more big", "biggerer"], "answer": "1", "explanation": "Double the final consonant after a short vowel: big → bigger." },
+            { "topic": "Comprehension", "difficulty": "exam", "type": "mcq", "prompt": "Read: 'Lalibela is the most famous tourist site in the region.' This means Lalibela is...", "options": ["less famous than other sites", "more famous than only one site", "the number one most famous site there", "not famous at all"], "answer": "2", "explanation": "'The most famous' is a superlative; it means it is the top, number-one famous site." }
+          ]
+        },
+        {
+          "title": "Globalization and Communication",
+          "description": "Reading about the connected world and using the present perfect tense.",
+          "lessons": [
+            {
+              "title": "The Connected World: Present Perfect Tense",
+              "summary": "Learn how globalization connects people and how to use the present perfect tense to talk about experiences and recent changes. Practise with 'have/has + past participle'.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Globalization** means that countries around the world are now closely connected through trade, travel, and technology. A farmer in Ethiopia can sell coffee to people in another country. A student in Addis Ababa can talk to a friend in Europe using a mobile phone.\n\nWhen we describe these changes and our experiences, we often use the **present perfect** tense. This lesson will teach you how to form and use it."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Explain what **globalization** means in simple words.\n- Form the **present perfect** tense (*have/has + past participle*).\n- Use **just, already, yet, ever,** and **never** correctly.\n- Talk about your own experiences using the present perfect."
+                },
+                {
+                  "type": "theory",
+                  "title": "Grammar: The Present Perfect Tense",
+                  "body": "The **present perfect** connects the **past** to the **now**. We form it with **have/has + past participle**.\n- Use **has** with *he, she, it*; use **have** with *I, you, we, they*.\n- The **past participle** of regular verbs is the same as the past simple (*-ed*): *travel → travelled*. Irregular verbs have special forms: *go → gone*, *see → seen*, *do → done*, *be → been*.\n\n**When do we use it?**\n1. For **experiences** in your life (time not important): *I **have visited** Addis Ababa.*\n2. For **recent actions** with a result now: *Technology **has changed** our lives.*\n3. For actions that started in the past and **continue now** (with *for/since*): *I **have lived** here **for** ten years.*\n\n**Signal words:**\n- **ever / never** (experiences): *Have you **ever** used the internet?* / *I have **never** travelled by plane.*\n- **just** (very recently): *She **has just** sent a message.*\n- **already** (sooner than expected): *They **have already** finished.*\n- **yet** (in questions and negatives): *Have they arrived **yet**?* / *I haven't started **yet**.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Look at how the present perfect shows a link to now.\n\n> *Globalization **has changed** the world. Ethiopian coffee **has become** popular in many countries. I **have used** a mobile phone since 2018. My sister **has never** travelled abroad, but she **has already** made online friends in three countries.*\n\n**Notice:**\n- *has changed / has become* → recent changes with results now.\n- *have used ... since 2018* → started in the past, still true now.\n- *has never travelled* → an experience (or lack of it) in her life.\n- *has already made* → completed sooner than expected."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Using the past simple with 'since/for'.** Wrong: *I live here for ten years.* Correct: *I **have lived** here for ten years.*\n- **Wrong helper verb.** Wrong: *She have finished.* Correct: *She **has** finished.*\n- **Using a finished time (yesterday, last year) with present perfect.** Wrong: *I have seen him yesterday.* Correct: *I **saw** him yesterday.* (Use past simple with a finished time.)\n- **Wrong past participle.** Wrong: *I have went.* Correct: *I have **gone**.*\n- **Putting 'yet' in a positive statement.** Wrong: *I have finished yet.* Correct: *I have **already** finished.* (Use *yet* in questions/negatives.)"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Present perfect = past + present.** The action happened before now, but it still matters **now**.\n- **\"Has\" goes with he/she/it; \"have\" with the rest.**\n- Learn three forms of irregular verbs together: *go – went – gone*, *see – saw – seen*, *do – did – done*.\n- **Finished time word? Use past simple.** (yesterday, in 2019, last week) **No exact time? Present perfect is fine.**\n- *Yet* and *never* often sit at the **end** or before the main verb; *already* and *just* go **before** the participle."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Complete with the present perfect or correct word.\n\n1. She ______ (visit) three countries this year.\n2. We ______ (live) in this town since 2015.\n3. Have you ______ (ever) used a computer?\n4. They have ______ (already / yet) finished their homework.\n5. I ______ (not / see) that film yet.\n\n**Answers:**\n1. has visited  2. have lived  3. ever  4. already  5. have not seen (haven't seen)"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- Form the **present perfect** with **have/has + past participle**.\n- Use it for **life experiences**, **recent changes with a result now**, and actions continuing from the past (with **for/since**).\n- Use **has** for *he/she/it*, **have** for others.\n- Use **past simple** (not present perfect) with a **finished time** like *yesterday*.\n- **Yet** appears in questions/negatives; **already** and **just** appear in positives."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words about globalization and communication.",
+                  "glossary": [
+                    { "term": "globalization", "definition": "The process by which countries become more connected through trade, travel, and technology." },
+                    { "term": "trade", "definition": "The buying and selling of goods between people or countries." },
+                    { "term": "technology", "definition": "Machines and tools, especially computers and phones, that make work and communication easier." },
+                    { "term": "export", "definition": "To sell goods to another country (e.g. Ethiopia exports coffee)." },
+                    { "term": "communication", "definition": "The sharing of information between people through speech, writing, or technology." },
+                    { "term": "past participle", "definition": "The third form of a verb used in perfect tenses (e.g. gone, seen, done)." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "How do we form the present perfect?", "back": "have/has + past participle (e.g. *She has travelled*)." },
+                { "front": "When do we use 'has' vs 'have'?", "back": "Use 'has' with he/she/it; use 'have' with I/you/we/they." },
+                { "front": "Which tense goes with 'yesterday' or 'last year'?", "back": "The past simple, not the present perfect (e.g. *I saw him yesterday*)." },
+                { "front": "Give the three forms of 'go'.", "back": "go – went – gone." },
+                { "front": "Where do we use 'yet'?", "back": "In questions and negatives (e.g. *Have you finished yet? / I haven't finished yet*)." }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Present perfect form", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["She have visited Axum.", "She has visited Axum.", "She has visit Axum.", "She have visit Axum."], "answer": "1", "explanation": "Use 'has' with she + past participle 'visited': 'She has visited Axum'." },
+            { "topic": "Past participle", "difficulty": "beginner", "type": "mcq", "prompt": "What is the past participle of 'go'?", "options": ["goed", "went", "gone", "going"], "answer": "2", "explanation": "'Go' is irregular: go – went – gone. The past participle is 'gone'." },
+            { "topic": "Signal words", "difficulty": "medium", "type": "mcq", "prompt": "Choose the correct word: 'Have you ______ used the internet?'", "options": ["already", "yet", "ever", "just"], "answer": "2", "explanation": "'Ever' is used in questions about life experiences: 'Have you ever used...?'" },
+            { "topic": "For and since", "difficulty": "medium", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["I live here for ten years.", "I have lived here for ten years.", "I am living here for ten years.", "I lived here for ten years (and still do)."], "answer": "1", "explanation": "Actions continuing from the past to now with 'for/since' use the present perfect." },
+            { "topic": "Past vs present perfect", "difficulty": "difficult", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["I have seen him yesterday.", "I saw him yesterday.", "I have saw him yesterday.", "I seen him yesterday."], "answer": "1", "explanation": "With a finished time word like 'yesterday', use the past simple: 'I saw him yesterday'." },
+            { "topic": "Comprehension", "difficulty": "exam", "type": "mcq", "prompt": "Read: 'Ethiopian coffee has become popular in many countries.' This sentence tells us that...", "options": ["coffee was popular only in the past", "coffee will be popular in the future", "the change happened and coffee is popular now", "coffee is not popular anywhere"], "answer": "2", "explanation": "The present perfect shows a past change with a result that is true now: coffee is popular now." }
+          ]
+        },
+        {
+          "title": "Gender Equality and Education",
+          "description": "Reading about equal rights and using modal verbs of obligation and advice.",
+          "lessons": [
+            {
+              "title": "Rights and Duties: Modal Verbs",
+              "summary": "Learn to talk about rights, rules, and advice using modal verbs such as must, have to, should, and can. The theme is gender equality and equal access to education.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Gender equality** means that boys and girls, women and men, should have the same rights and chances. For example, every child **should** be able to go to school, whether they are a girl or a boy.\n\nWhen we talk about rules, duties, and advice, we use small helping words called **modal verbs**: *must, have to, should, can, may*. This lesson will teach you how to use them clearly."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use **must** and **have to** to talk about strong rules and obligations.\n- Use **should** to give **advice**.\n- Use **can / may** to talk about **permission** and ability.\n- Write sentences about rights and duties related to gender equality."
+                },
+                {
+                  "type": "theory",
+                  "title": "Grammar: Modal Verbs",
+                  "body": "A **modal verb** is a helping verb that adds meaning such as obligation, advice, or permission. The main verb after a modal is always in the **base form** (no -s, no -ed, no *to*, except after *have to*).\n\n**Obligation (something necessary):**\n- **must** = a strong rule, often from the speaker. *Everyone **must** respect others' rights.*\n- **have to / has to** = a rule, often from outside (a law, a school). *Children **have to** attend school.*\n- **must not (mustn't)** = it is forbidden. *We **must not** treat girls unfairly.*\n- **don't have to** = it is NOT necessary (this is different from *mustn't*). *You **don't have to** pay; school is free.*\n\n**Advice:**\n- **should / shouldn't** = a good or bad idea. *Parents **should** send their daughters to school.* / *We **shouldn't** stop girls from learning.*\n\n**Permission and ability:**\n- **can / can't** = ability or informal permission. *She **can** read and write.* / *Students **can** ask questions.*\n- **may** = polite or formal permission. *You **may** leave the classroom.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read this short paragraph about equal education.\n\n> *In our country, every child **has to** go to primary school. Parents **should** encourage both their sons and daughters to study. We **must not** think that only boys can succeed. Girls **can** become doctors, engineers, and leaders. Teachers **should** treat all students equally.*\n\n**Why these modals?**\n- *has to go* → a rule from outside (the law).\n- *should encourage / should treat* → advice (a good idea).\n- *must not think* → something we are strongly told not to do.\n- *can become* → ability (it is possible)."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Adding 'to' after most modals.** Wrong: *She must to go.* Correct: *She **must go**.* (But: *She **has to** go* — *have to* keeps the *to*.)\n- **Adding -s to a modal.** Wrong: *He shoulds study.* Correct: *He **should** study.*\n- **Confusing 'mustn't' and 'don't have to'.** *Mustn't* = forbidden; *don't have to* = not necessary. *You **mustn't** cheat* (forbidden) vs *You **don't have to** come early* (it is optional).\n- **Using a past form after a modal.** Wrong: *She can went.* Correct: *She **can go**.*\n- **Double modals.** Wrong: *She can must go.* Correct: use only **one** modal."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Modal + base verb.** After a modal, never add *to*, *-s*, or *-ed* (the only exception is the phrase *have to*).\n- **\"Should = good idea.\"** Use *should* for advice.\n- **mustn't = NO! (forbidden); don't have to = it's okay either way.** Remember they are very different.\n- **One modal at a time.** You cannot put two modals together.\n- **must** feels personal/strong; **have to** feels like an outside rule."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose the best modal verb.\n\n1. Every child ______ (should / must to) have the right to learn.\n2. You ______ (mustn't / don't have to) stop a girl from going to school. (It is forbidden.)\n3. Students ______ (can / cans) ask their teachers questions.\n4. Parents ______ (should / shoulds) treat sons and daughters equally.\n5. You ______ (don't have to / mustn't) wear a uniform on Sundays; it is optional.\n\n**Answers:**\n1. should  2. mustn't  3. can  4. should  5. don't have to"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Modal verbs** add meaning like obligation, advice, or permission.\n- After a modal, use the **base verb** (exception: *have to*).\n- **must / have to** = obligation; **mustn't** = forbidden; **don't have to** = not necessary.\n- **should** = advice; **can/may** = ability or permission.\n- Never add **-s** to a modal and never use **two modals** together."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Key words about gender equality and rights.",
+                  "glossary": [
+                    { "term": "equality", "definition": "The state of being equal, with the same rights and chances for everyone." },
+                    { "term": "gender", "definition": "Whether a person is male or female and the roles a society links to that." },
+                    { "term": "rights", "definition": "Things that every person is allowed to have or do by law or fairness." },
+                    { "term": "obligation", "definition": "Something you must do because of a rule, law, or duty." },
+                    { "term": "discrimination", "definition": "Treating a person unfairly because of their gender, religion, or other group." },
+                    { "term": "modal verb", "definition": "A helping verb (such as must, should, can) that shows obligation, advice, or permission." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What verb form follows a modal verb?", "back": "The base form (e.g. *She must go*, not *She must to go*)." },
+                { "front": "What is the difference between 'mustn't' and 'don't have to'?", "back": "'Mustn't' = forbidden; 'don't have to' = not necessary/optional." },
+                { "front": "Which modal do we use for advice?", "back": "'Should' (e.g. *You should study hard*)." },
+                { "front": "Why is 'He shoulds study' wrong?", "back": "Modal verbs never take -s. Correct: *He should study*." },
+                { "front": "Can you use two modals together, like 'can must'?", "back": "No. Use only one modal verb at a time." }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Modal form", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["She must to study.", "She must study.", "She musts study.", "She must studies."], "answer": "1", "explanation": "After a modal like 'must', use the base verb with no 'to': 'She must study'." },
+            { "topic": "Advice", "difficulty": "beginner", "type": "mcq", "prompt": "Which modal gives advice?", "options": ["must", "should", "may", "can"], "answer": "1", "explanation": "'Should' is used to give advice (a good idea), e.g. 'You should study'." },
+            { "topic": "Permission", "difficulty": "medium", "type": "mcq", "prompt": "Choose the correct sentence for ability.", "options": ["She can reads.", "She can read.", "She cans read.", "She can to read."], "answer": "1", "explanation": "After 'can', use the base verb: 'She can read'." },
+            { "topic": "Obligation", "difficulty": "medium", "type": "mcq", "prompt": "'You mustn't stop a girl from learning' means...", "options": ["it is optional", "it is forbidden", "it is necessary", "it is allowed"], "answer": "1", "explanation": "'Mustn't' means something is forbidden or not allowed." },
+            { "topic": "Mustn't vs don't have to", "difficulty": "difficult", "type": "mcq", "prompt": "Choose the sentence that means 'it is not necessary'.", "options": ["You mustn't come early.", "You don't have to come early.", "You must come early.", "You should come early."], "answer": "1", "explanation": "'Don't have to' means it is not necessary (optional); 'mustn't' means forbidden." },
+            { "topic": "Comprehension", "difficulty": "exam", "type": "mcq", "prompt": "Read: 'Parents should encourage both sons and daughters to study.' The writer is giving...", "options": ["a strict law", "a forbidden action", "advice", "a permission"], "answer": "2", "explanation": "'Should' here gives advice — a recommendation about what is a good idea to do." }
+          ]
+        },
+        {
+          "title": "Cultural Diversity in Ethiopia",
+          "description": "Reading about Ethiopia's many cultures and using relative clauses to add information.",
+          "lessons": [
+            {
+              "title": "Connecting Ideas with Relative Clauses",
+              "summary": "Learn to join two ideas and add detail using relative pronouns: who, which, that, where, and whose. The theme is Ethiopia's rich cultural and linguistic diversity.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Ethiopia is a country of great **cultural diversity**. It has more than eighty ethnic groups, each with its own language, food, music, and traditions. For example, the **Timket** festival is a celebration that many people enjoy.\n\nWhen we describe people, places, and things, we often add extra information using **relative clauses**. These start with words like *who, which, that, where,* and *whose*. This lesson will show you how to use them to make richer sentences."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Identify a **relative clause** in a sentence.\n- Choose the correct **relative pronoun** (*who, which, that, where, whose*).\n- Join two short sentences into one using a relative clause.\n- Describe cultural festivals and groups with more detail."
+                },
+                {
+                  "type": "theory",
+                  "title": "Grammar: Relative Clauses",
+                  "body": "A **relative clause** gives more information about a noun. It begins with a **relative pronoun**.\n\n**Which pronoun to use:**\n- **who** → for **people**. *The woman **who** sells injera is my aunt.*\n- **which** → for **things or animals**. *Timket is a festival **which** happens in January.*\n- **that** → for people or things (common in everyday English). *The house **that** we visited is very old.*\n- **where** → for **places**. *Lalibela is the town **where** the rock churches are.*\n- **whose** → for **possession** (belonging to someone). *The boy **whose** father is a farmer lives near me.*\n\n**How it works:** The relative clause comes **right after** the noun it describes.\n- Two sentences: *I met a man. He speaks five languages.*\n- Joined: *I met a man **who** speaks five languages.*\n\n**Note:** When *who/which/that* is the object, we can sometimes leave it out: *The food (that) we ate was delicious.* But when it is the subject, we **keep** it: *The man **who** cooks is here* (not *the man cooks is here*)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us combine sentences.\n\n1. *Ethiopia has many ethnic groups. They speak different languages.*\n   → *Ethiopia has many ethnic groups **who** speak different languages.*\n\n2. *Injera is a food. People eat it every day.*\n   → *Injera is a food **which/that** people eat every day.*\n\n3. *Axum is a city. Ancient kings lived there.*\n   → *Axum is a city **where** ancient kings lived.*\n\n4. *I know a girl. Her mother is a singer.*\n   → *I know a girl **whose** mother is a singer.*\n\n**Notice** how the relative pronoun replaces the repeated word (*they, it, there, her*) and joins the two ideas smoothly."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Using 'which' for people.** Wrong: *The man which helped me.* Correct: *The man **who** helped me.*\n- **Repeating the noun or pronoun.** Wrong: *The book that I read it was good.* Correct: *The book that I read was good.* (Do not add *it*.)\n- **Confusing 'whose' and 'who's'.** *Whose* shows possession; *who's* = *who is*. Wrong: *The girl who's bag is red.* Correct: *The girl **whose** bag is red.*\n- **Using 'where' for things.** Wrong: *the festival where we like.* Correct: *the festival **which/that** we like.* Use **where** only for places.\n- **Wrong word order.** The relative clause must come **directly after** the noun it describes."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **WHO = people, WHICH = things, WHERE = places.** Say it as a little rhyme to remember.\n- **WHOSE = belongs to someone** (think: *whose bag?* → ownership).\n- **THAT** is the friendly all-rounder: it can replace *who* or *which* in everyday sentences.\n- Don't say the noun **twice**. If you already used *which/that*, don't add *it* again.\n- The clause hugs the noun: put it **right after** the word it describes."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose the correct relative pronoun.\n\n1. The teacher ______ (who / which) speaks Amharic and Oromo is very kind.\n2. Timket is a festival ______ (who / which) takes place in January.\n3. Gondar is the city ______ (where / which) the old castles are.\n4. I have a friend ______ (whose / who's) family comes from Tigray.\n5. The song ______ (that / where) we sang was beautiful.\n\n**Answers:**\n1. who  2. which  3. where  4. whose  5. that"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- A **relative clause** adds information about a noun and starts with a relative pronoun.\n- Use **who** for people, **which** for things, **where** for places, **whose** for possession.\n- **That** can replace *who* or *which* in everyday English.\n- Place the clause **right after** the noun it describes.\n- Do **not** repeat the noun with an extra pronoun like *it* or *they*."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words about culture and diversity.",
+                  "glossary": [
+                    { "term": "culture", "definition": "The customs, beliefs, food, music, and way of life of a group of people." },
+                    { "term": "diversity", "definition": "The state of having many different kinds of people or things together." },
+                    { "term": "ethnic group", "definition": "A group of people who share a common language, history, and culture." },
+                    { "term": "tradition", "definition": "A custom or belief passed from older to younger people over time." },
+                    { "term": "festival", "definition": "A special day or period when people celebrate, often with food, music, and ceremonies." },
+                    { "term": "relative pronoun", "definition": "A word (who, which, that, where, whose) that introduces a relative clause." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "Which relative pronoun do we use for people?", "back": "'Who' (e.g. *the man who helped me*)." },
+                { "front": "Which relative pronoun do we use for things?", "back": "'Which' (or 'that'), e.g. *a festival which happens in January*." },
+                { "front": "Which relative pronoun shows possession?", "back": "'Whose' (e.g. *the girl whose bag is red*)." },
+                { "front": "Which relative pronoun do we use for places?", "back": "'Where' (e.g. *the town where I live*)." },
+                { "front": "What is wrong with 'The book that I read it was good'?", "back": "Do not repeat the object. Correct: *The book that I read was good*." }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Relative pronouns", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["The man which helped me is kind.", "The man who helped me is kind.", "The man where helped me is kind.", "The man whose helped me is kind."], "answer": "1", "explanation": "Use 'who' for people: 'The man who helped me'." },
+            { "topic": "Relative pronouns", "difficulty": "beginner", "type": "mcq", "prompt": "Complete: 'Injera is a food ______ many Ethiopians eat.'", "options": ["who", "where", "which", "whose"], "answer": "2", "explanation": "Use 'which' (or 'that') for things: 'a food which many Ethiopians eat'." },
+            { "topic": "Place clauses", "difficulty": "medium", "type": "mcq", "prompt": "Choose the correct word: 'Gondar is the city ______ the castles are.'", "options": ["which", "who", "where", "whose"], "answer": "2", "explanation": "Use 'where' for places: 'the city where the castles are'." },
+            { "topic": "Possession", "difficulty": "medium", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["I know a girl who's mother sings.", "I know a girl whose mother sings.", "I know a girl which mother sings.", "I know a girl where mother sings."], "answer": "1", "explanation": "'Whose' shows possession; 'who's' means 'who is', so 'whose mother' is correct." },
+            { "topic": "Combining sentences", "difficulty": "difficult", "type": "mcq", "prompt": "Join: 'This is the book. I read it last week.' Best combined sentence:", "options": ["This is the book which I read it last week.", "This is the book that I read last week.", "This is the book where I read last week.", "This is the book who I read last week."], "answer": "1", "explanation": "Do not repeat 'it'. Use 'that' (or 'which') for the thing: 'the book that I read last week'." },
+            { "topic": "Comprehension", "difficulty": "exam", "type": "mcq", "prompt": "Read: 'Ethiopia has many ethnic groups who speak different languages.' The relative clause 'who speak different languages' gives more information about...", "options": ["Ethiopia", "many ethnic groups", "different languages", "the verb speak"], "answer": "1", "explanation": "A relative clause describes the noun just before it, here 'many ethnic groups'." }
+          ]
+        },
+        {
+          "title": "Science and Technology",
+          "description": "Reading about modern inventions and using the passive voice to describe processes.",
+          "lessons": [
+            {
+              "title": "Describing Processes with the Passive Voice",
+              "summary": "Learn how and when to use the passive voice (be + past participle) to describe processes and inventions in science and technology, where the action matters more than the doer.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Science and technology** change our lives every day. Mobile phones are used everywhere, electricity is produced from rivers, and medicines are made in factories.\n\nDid you notice the sentences above? *Phones **are used**, electricity **is produced**, medicines **are made**.* These are **passive voice** sentences. We use the passive when the **action** is more important than the person who does it. This lesson will teach you how to form and use the passive voice."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Explain the difference between **active** and **passive** sentences.\n- Form the **passive voice** with *be + past participle*.\n- Use the passive in the **present** and **past** tense.\n- Describe a simple **process** (such as making coffee) using the passive."
+                },
+                {
+                  "type": "theory",
+                  "title": "Grammar: The Passive Voice",
+                  "body": "In an **active** sentence, the subject does the action: *Farmers **grow** coffee.*\nIn a **passive** sentence, the subject **receives** the action: *Coffee **is grown** by farmers.*\n\n**How to form the passive:** **be + past participle**. The form of *be* changes with the tense.\n- **Present simple passive:** *am/is/are + past participle*. *Coffee **is exported** to many countries.*\n- **Past simple passive:** *was/were + past participle*. *The bridge **was built** in 1960.*\n\n**When do we use the passive?**\n1. When we **do not know** who did the action: *My phone **was stolen**.*\n2. When the **doer is not important**: *Tea **is grown** in the highlands.*\n3. To describe **processes** and scientific facts: *Water **is heated** until it boils.*\n\n**The 'by' phrase:** If we want to say who did it, we use **by**: *The lamp **was invented** by Edison.* Often we leave it out when it is obvious or unknown."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: A Process",
+                  "body": "Here is how to describe the process of making Ethiopian coffee, using the passive.\n\n> *First, the green coffee beans **are washed**. Then they **are roasted** over a fire until they turn brown. The beans **are ground** into powder. Finally, hot water **is added**, and the coffee **is served** to the guests.*\n\n**Why passive?** In a process, we care about **what is done**, not who does it. Each step uses **is/are + past participle**: *are washed, are roasted, are ground, is added, is served.*\n\n**Active to passive (past):**\n- Active: *People built the church 800 years ago.*\n- Passive: *The church **was built** 800 years ago.*"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Forgetting the verb 'be'.** Wrong: *Coffee grown in Ethiopia.* Correct: *Coffee **is grown** in Ethiopia.*\n- **Using the past simple instead of the past participle.** Wrong: *The house was build.* Correct: *The house was **built**.*\n- **Wrong form of 'be' for the tense.** Wrong: *The bridge is built in 1960.* Correct: *The bridge **was built** in 1960.* (past time → *was*).\n- **Using 'by' wrongly.** *By* introduces the doer: *written **by** a student* (not *written from a student*).\n- **Making everything passive.** Use the passive only when the doer is unknown or unimportant; otherwise the active voice is clearer."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Passive = BE + past participle.** Always include a form of *be* (*is, are, was, were*).\n- **Match the 'be' to the time:** present → *is/are*; past → *was/were*.\n- Ask: **\"Who cares who did it?\"** If the doer is unknown or unimportant, the passive fits.\n- The **object** of the active sentence becomes the **subject** of the passive sentence.\n- Use **by** to add the doer, but only if it is useful."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Change to the passive or choose the correct form.\n\n1. (Present) People speak Amharic in Ethiopia. → Amharic ______ in Ethiopia.\n2. (Past) They built the road last year. → The road ______ last year.\n3. Coffee ______ (is / are) grown in the highlands.\n4. The letters ______ (was / were) sent yesterday.\n5. The machine ______ (is repaired / is repair) every month.\n\n**Answers:**\n1. is spoken  2. was built  3. is  4. were  5. is repaired"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **passive voice** = **be + past participle**.\n- Use it when the **action** matters more than the **doer**.\n- Present passive: *am/is/are + past participle*; past passive: *was/were + past participle*.\n- The **object** of an active sentence becomes the **subject** of the passive.\n- Add the doer with **by**, but only when it is useful."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Useful words for science and technology.",
+                  "glossary": [
+                    { "term": "invention", "definition": "A new thing or idea that someone has made for the first time." },
+                    { "term": "process", "definition": "A series of steps taken to make or do something." },
+                    { "term": "produce", "definition": "To make or grow something." },
+                    { "term": "device", "definition": "A machine or tool made for a particular purpose, such as a phone." },
+                    { "term": "experiment", "definition": "A scientific test done to find out or prove something." },
+                    { "term": "passive voice", "definition": "A sentence form (be + past participle) used when the subject receives the action." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "How do we form the passive voice?", "back": "be + past participle (e.g. *Coffee is grown*)." },
+                { "front": "When do we use the passive voice?", "back": "When the action matters more than the doer, or the doer is unknown/unimportant." },
+                { "front": "Make passive (past): 'They built the road.'", "back": "*The road was built.*" },
+                { "front": "What word introduces the doer in a passive sentence?", "back": "'By' (e.g. *The lamp was invented by Edison*)." },
+                { "front": "What is wrong with 'The house was build'?", "back": "Use the past participle, not the past simple: *The house was built*." }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Passive form", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct passive sentence.", "options": ["Coffee grown in Ethiopia.", "Coffee is grown in Ethiopia.", "Coffee is grow in Ethiopia.", "Coffee growing in Ethiopia."], "answer": "1", "explanation": "Passive = be + past participle: 'Coffee is grown in Ethiopia'." },
+            { "topic": "Active vs passive", "difficulty": "beginner", "type": "mcq", "prompt": "Which sentence is in the passive voice?", "options": ["Farmers grow coffee.", "Coffee is grown by farmers.", "Farmers are growing coffee.", "Farmers will grow coffee."], "answer": "1", "explanation": "In the passive, the subject receives the action: 'Coffee is grown by farmers'." },
+            { "topic": "Past passive", "difficulty": "medium", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["The bridge is built in 1960.", "The bridge was built in 1960.", "The bridge was build in 1960.", "The bridge built in 1960 by."], "answer": "1", "explanation": "Past time needs 'was' + past participle 'built': 'The bridge was built in 1960'." },
+            { "topic": "Subject-verb agreement", "difficulty": "medium", "type": "mcq", "prompt": "Choose the correct form: 'The letters ______ sent yesterday.'", "options": ["was", "were", "is", "are"], "answer": "1", "explanation": "'Letters' is plural and the time is past, so use 'were': 'The letters were sent'." },
+            { "topic": "Past participle", "difficulty": "difficult", "type": "mcq", "prompt": "Choose the correct passive: 'They made the medicine in a factory.'", "options": ["The medicine was make in a factory.", "The medicine was made in a factory.", "The medicine is made in a factory yesterday.", "The medicine made in a factory."], "answer": "1", "explanation": "Past passive uses 'was' + past participle 'made': 'The medicine was made in a factory'." },
+            { "topic": "Comprehension", "difficulty": "exam", "type": "mcq", "prompt": "Read: 'The beans are roasted and then are ground into powder.' The writer uses the passive because...", "options": ["the doer is the most important part", "the steps of the process matter more than who does them", "it is a question", "it is about the future"], "answer": "1", "explanation": "In describing a process, the passive focuses on the actions (the steps), not on who performs them." }
+          ]
+        },
+        {
+          "title": "Health and Well-being",
+          "description": "Reading about healthy living and using the first conditional to talk about results.",
+          "lessons": [
+            {
+              "title": "Cause and Result: The First Conditional",
+              "summary": "Learn to talk about real future possibilities and their results using the first conditional (If + present simple, will + base verb). The theme is health, hygiene, and disease prevention.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Good **health** depends on simple daily habits: eating clean food, washing our hands, drinking safe water, and exercising. These habits help us prevent diseases such as cholera and malaria.\n\nWhen we talk about a **cause and its result** in the future, we use the **first conditional**. For example: *If you **wash** your hands, you **will stay** healthier.* This lesson will teach you how to build these useful sentences."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Understand what a **conditional sentence** is.\n- Form the **first conditional** correctly.\n- Talk about real future results using *if*.\n- Give health advice using cause-and-result sentences."
+                },
+                {
+                  "type": "theory",
+                  "title": "Grammar: The First Conditional",
+                  "body": "A **conditional sentence** has two parts: a **condition** (the *if* part) and a **result**.\n\nThe **first conditional** talks about a **real or likely** situation in the future and its result.\n\n**Structure:** **If + present simple, ... will + base verb.**\n- *If you **drink** dirty water, you **will get** sick.*\n- *If we **exercise** every day, we **will feel** stronger.*\n\nNotice the two clauses:\n- The **if-clause** uses the **present simple** (*drink*, *exercise*) — even though it talks about the future.\n- The **result clause** uses **will + base verb** (*will get*, *will feel*).\n\n**Order can change.** Both of these are correct:\n- *If it **rains**, the crops **will grow**.*\n- *The crops **will grow** if it **rains**.*\n(When the *if* part comes first, we put a **comma** after it.)\n\n**We can also use other words in the result:** *can*, *may*, *should*. *If you feel sick, you **should** see a doctor.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read these health sentences and find the two parts.\n\n> *If you **wash** your hands before eating, you **will avoid** many germs. If a person **drinks** clean water, they **will not get** cholera. If we **sleep** well, our bodies **will repair** themselves.*\n\n**Breaking down the first sentence:**\n- Condition (if-clause): *If you wash your hands before eating* → **present simple** (*wash*).\n- Result: *you will avoid many germs* → **will + base verb** (*will avoid*).\n\n**Common pattern:** *If* + something we do now/regularly → a future result that follows."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Using 'will' in the if-clause.** Wrong: *If you will drink dirty water...* Correct: *If you **drink** dirty water, you will get sick.*\n- **Forgetting 'will' in the result.** Wrong: *If you exercise, you feel stronger* (for a future result). Correct: *If you exercise, you **will feel** stronger.*\n- **Wrong verb after 'will'.** Wrong: *you will gets sick.* Correct: *you **will get** sick* (base form after *will*).\n- **Forgetting the comma** when *if* comes first. Correct: *If it rains**,** the crops will grow.*\n- **Confusing the first conditional with the second.** The first conditional is for **real/likely** future situations; do not use *would* here."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"No will in the if!\"** The *if*-clause uses the **present simple**, never *will*.\n- **\"Will in the result\"** — the other half uses **will + base verb**.\n- Think: **present now → will future.** The condition is in the present; the result is in the future.\n- **Comma rule:** if the sentence **starts with 'If'**, put a **comma** in the middle.\n- First conditional = **real** possibility. (Save *would* for imaginary situations in the second conditional.)"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Complete the first conditional sentences.\n\n1. If you ______ (eat) clean food, you ______ (stay) healthy.\n2. If we ______ (not / wash) our hands, germs ______ (spread).\n3. You will feel tired if you ______ (not / sleep) enough.\n4. If a child ______ (drink) safe water, they ______ (avoid) many diseases.\n5. If it ______ (rain), mosquitoes ______ (increase).\n\n**Answers:**\n1. eat / will stay  2. do not wash / will spread  3. do not sleep  4. drinks / will avoid  5. rains / will increase"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **first conditional** talks about a **real future result** of a condition.\n- Structure: **If + present simple, will + base verb.**\n- Never use **will** in the **if-clause**.\n- After **will**, use the **base verb** (no -s, no -ed).\n- Put a **comma** when the sentence begins with the **if-clause**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words about health and well-being.",
+                  "glossary": [
+                    { "term": "hygiene", "definition": "Keeping yourself and your surroundings clean to stay healthy." },
+                    { "term": "prevent", "definition": "To stop something bad, such as a disease, from happening." },
+                    { "term": "disease", "definition": "An illness that affects the body or mind." },
+                    { "term": "nutrition", "definition": "The food a body needs to grow and stay healthy." },
+                    { "term": "infection", "definition": "An illness caused by germs entering the body." },
+                    { "term": "conditional", "definition": "A sentence that shows a condition and its result, often using 'if'." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the structure of the first conditional?", "back": "If + present simple, will + base verb (e.g. *If you rest, you will recover*)." },
+                { "front": "Can we use 'will' in the if-clause?", "back": "No. The if-clause uses the present simple, not 'will'." },
+                { "front": "What verb form comes after 'will'?", "back": "The base verb (e.g. *will get*, not *will gets*)." },
+                { "front": "When do we need a comma in a conditional sentence?", "back": "When the sentence begins with the 'If' clause (e.g. *If it rains, we will stay*)." },
+                { "front": "Is the first conditional for real or imaginary situations?", "back": "Real or likely future situations." }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "First conditional", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["If you will drink dirty water, you get sick.", "If you drink dirty water, you will get sick.", "If you drink dirty water, you get sick (future).", "If you drinking dirty water, you will get sick."], "answer": "1", "explanation": "First conditional: 'If' + present simple, 'will' + base verb. So 'If you drink..., you will get sick'." },
+            { "topic": "If-clause", "difficulty": "beginner", "type": "mcq", "prompt": "Complete: 'If we ______ our hands, we will stay healthy.'", "options": ["will wash", "wash", "washed", "washing"], "answer": "1", "explanation": "The if-clause uses the present simple: 'If we wash our hands...'." },
+            { "topic": "Result clause", "difficulty": "medium", "type": "mcq", "prompt": "Complete: 'If you exercise, you ______ stronger.'", "options": ["feel", "will feel", "felt", "will feels"], "answer": "1", "explanation": "The result clause of the first conditional uses 'will' + base verb: 'will feel'." },
+            { "topic": "Verb after will", "difficulty": "medium", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["If she rests, she will recovers quickly.", "If she rests, she will recover quickly.", "If she will rest, she recover quickly.", "If she rest, she will recover quickly."], "answer": "1", "explanation": "Use the base verb after 'will' ('recover') and present simple in the if-clause ('rests')." },
+            { "topic": "Punctuation", "difficulty": "difficult", "type": "mcq", "prompt": "Which sentence is punctuated correctly?", "options": ["If it rains the mosquitoes will increase.", "If it rains, the mosquitoes will increase.", "If it rains; the mosquitoes will increase.", "If it rains. The mosquitoes will increase."], "answer": "1", "explanation": "When the sentence begins with the if-clause, put a comma after it." },
+            { "topic": "Comprehension", "difficulty": "exam", "type": "mcq", "prompt": "Read: 'If a person drinks clean water, they will not get cholera.' What does this sentence express?", "options": ["A past event", "A real cause and its future result", "An imaginary, impossible situation", "A command"], "answer": "1", "explanation": "The first conditional expresses a real, likely condition (clean water) and its future result (no cholera)." }
+          ]
+        },
+        {
+          "title": "The World of Work",
+          "description": "Reading about jobs and careers and using the future tense to make plans and predictions.",
+          "lessons": [
+            {
+              "title": "Plans and Predictions: Talking About the Future",
+              "summary": "Learn to talk about future plans, decisions, and predictions using 'will', 'be going to', and the present continuous. The theme is jobs, careers, and the world of work.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Choosing a **career** is an important part of life. Some students want to become teachers, nurses, engineers, or business owners. To talk about our future jobs and plans, we use different ways to express the **future** in English.\n\nIn this lesson, you will learn three common future forms: **will**, **be going to**, and the **present continuous**. Each one is used in a slightly different situation."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use **will** for predictions and quick decisions.\n- Use **be going to** for plans and intentions.\n- Use the **present continuous** for fixed arrangements.\n- Talk about your own future career plans."
+                },
+                {
+                  "type": "theory",
+                  "title": "Grammar: Three Ways to Talk About the Future",
+                  "body": "**1. will + base verb** — for predictions, promises, and decisions made at the moment of speaking.\n- Prediction: *I think she **will become** a doctor.*\n- Quick decision: *The phone is ringing. I **will answer** it.*\n- Promise: *I **will help** you with your work.*\n\n**2. be going to + base verb** — for **plans and intentions** decided before now, and for predictions based on what we can see.\n- Plan: *I **am going to study** medicine next year.*\n- Evidence-based prediction: *Look at those dark clouds. It **is going to rain**.*\n\n**3. present continuous (am/is/are + -ing)** — for **fixed arrangements** with a definite time, often with another person.\n- *I **am meeting** the manager at 9 o'clock tomorrow.*\n- *We **are starting** the new job on Monday.*\n\n**Quick comparison:**\n- *I **will call** you* (decided now) vs *I **am going to call** you* (already planned).\n- *It **will be** sunny* (just a guess) vs *It **is going to be** sunny* (I can see clear skies)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read this short text about a student's future.\n\n> *Sara **is going to finish** school this year — that is her plan. She **is meeting** a career adviser on Friday at 10 a.m. She thinks she **will become** an engineer one day. When her brother asked for help with maths, she said, \"I **will help** you tonight.\"*\n\n**Why each form?**\n- *is going to finish* → a **plan** decided before now.\n- *is meeting ... on Friday* → a **fixed arrangement** with a time.\n- *will become* → a **prediction** about the future.\n- *will help* → a **decision made at the moment** of speaking."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Using present simple for future plans.** Wrong: *I study medicine next year.* Better: *I **am going to study** medicine next year.*\n- **Adding -s or -ing after 'will'.** Wrong: *She will becomes / will becoming.* Correct: *She **will become**.*\n- **Forgetting 'be' in 'going to'.** Wrong: *I going to work.* Correct: *I **am going to** work.*\n- **Using 'will' for a fixed arrangement with a time.** Less natural: *I will meet him at 9 tomorrow.* Better: *I **am meeting** him at 9 tomorrow.*\n- **'will' vs 'going to' confusion:** Use **going to** for plans you already made; use **will** for decisions you make right now."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **WILL = decide now / predict.** (A sudden thought or a guess.)\n- **GOING TO = already planned / I can see it coming.** (Intention or evidence.)\n- **Present continuous = diary plan** (a fixed time and often another person).\n- After **will**, always use the **base verb** (no -s, no -ing).\n- Don't drop the **be** in *am/is/are going to*."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose the best future form.\n\n1. Look at the clock! We ______ (will be / are going to be) late.\n2. I think robots ______ (will / are going to) do many jobs in the future.\n3. She ______ (is meeting / will meet) her new boss at 8 a.m. tomorrow.\n4. \"The bag is heavy.\" \"I ______ (will / am going to) carry it for you.\"\n5. Next year I ______ (am going to / will) train as a nurse; it is my plan.\n\n**Answers:**\n1. are going to be  2. will  3. is meeting  4. will  5. am going to"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- Use **will** for **predictions, promises,** and **on-the-spot decisions**.\n- Use **be going to** for **plans/intentions** and predictions based on **evidence**.\n- Use the **present continuous** for **fixed arrangements** with a time.\n- After **will**, use the **base verb**.\n- Do not forget **be** in *am/is/are going to*."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Useful words about the world of work.",
+                  "glossary": [
+                    { "term": "career", "definition": "The series of jobs a person does during their working life." },
+                    { "term": "employee", "definition": "A person who is paid to work for someone else." },
+                    { "term": "employer", "definition": "A person or company that pays others to work." },
+                    { "term": "skill", "definition": "An ability to do something well, learned through practice." },
+                    { "term": "interview", "definition": "A meeting in which someone is asked questions to decide if they are right for a job." },
+                    { "term": "prediction", "definition": "A statement about what you think will happen in the future." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "Which future form is used for a plan decided before now?", "back": "'Be going to' (e.g. *I am going to study medicine*)." },
+                { "front": "Which future form is used for a quick decision made now?", "back": "'Will' (e.g. *I will answer the phone*)." },
+                { "front": "Which form is best for a fixed arrangement with a time?", "back": "The present continuous (e.g. *I am meeting him at 9 tomorrow*)." },
+                { "front": "What verb form comes after 'will'?", "back": "The base verb (e.g. *will become*, not *will becomes*)." },
+                { "front": "What is wrong with 'I going to work tomorrow'?", "back": "It is missing 'be'. Correct: *I am going to work tomorrow*." }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Will", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["She will becomes a teacher.", "She will become a teacher.", "She will becoming a teacher.", "She will to become a teacher."], "answer": "1", "explanation": "After 'will', use the base verb: 'She will become a teacher'." },
+            { "topic": "Going to", "difficulty": "beginner", "type": "mcq", "prompt": "Complete: 'I ______ study medicine next year. It is my plan.'", "options": ["will", "am going to", "going to", "am go to"], "answer": "1", "explanation": "Use 'be going to' for a plan decided before now: 'I am going to study'." },
+            { "topic": "Predictions with evidence", "difficulty": "medium", "type": "mcq", "prompt": "Choose the best sentence: 'Look at those dark clouds!'", "options": ["It will rain.", "It is going to rain.", "It rains.", "It rained."], "answer": "1", "explanation": "When there is present evidence (dark clouds), we use 'be going to': 'It is going to rain'." },
+            { "topic": "Arrangements", "difficulty": "medium", "type": "mcq", "prompt": "Choose the most natural sentence for a fixed plan with a time.", "options": ["I meet the manager at 9 tomorrow.", "I am meeting the manager at 9 tomorrow.", "I will meeting the manager at 9 tomorrow.", "I going to meet the manager at 9 tomorrow."], "answer": "1", "explanation": "The present continuous is natural for fixed arrangements with a time: 'I am meeting the manager at 9 tomorrow'." },
+            { "topic": "Will vs going to", "difficulty": "difficult", "type": "mcq", "prompt": "\"This box is heavy.\" Which reply shows a decision made at that moment?", "options": ["I am going to help you.", "I will help you.", "I help you.", "I am helping you later."], "answer": "1", "explanation": "A decision made at the moment of speaking uses 'will': 'I will help you'." },
+            { "topic": "Comprehension", "difficulty": "exam", "type": "mcq", "prompt": "Read: 'Sara is going to finish school this year and is meeting a career adviser on Friday.' What is true?", "options": ["Finishing school is her plan and the meeting is a fixed arrangement.", "Both actions are sudden decisions made now.", "Both actions happened in the past.", "She has no plans for the future."], "answer": "1", "explanation": "'Is going to finish' shows a plan; 'is meeting on Friday' shows a fixed arrangement with a time." }
+          ]
+        },
+        {
+          "title": "Entrepreneurship and Small Business",
+          "description": "Reading about starting a business and using countable and uncountable nouns with quantifiers.",
+          "lessons": [
+            {
+              "title": "Counting Resources: Countable and Uncountable Nouns",
+              "summary": "Learn the difference between countable and uncountable nouns and how to use quantifiers like some, any, much, many, a few, and a little. The theme is small business and entrepreneurship.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "An **entrepreneur** is a person who starts a business and takes risks to make a profit. To run a small business, such as a shop or a café, you need to count and measure your **resources**: money, goods, customers, time, and equipment.\n\nIn English, some nouns can be counted (like *customers*) and some cannot (like *money*). This lesson teaches you the difference between **countable** and **uncountable** nouns and how to use the right **quantifiers** with each."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Tell the difference between **countable** and **uncountable** nouns.\n- Use **a/an, some,** and **any** correctly.\n- Use **much, many, a few,** and **a little** correctly.\n- Describe the resources of a small business in correct English."
+                },
+                {
+                  "type": "theory",
+                  "title": "Grammar: Countable and Uncountable Nouns",
+                  "body": "**Countable nouns** are things we can count. They have a singular and a plural form.\n- *one customer → two customers*, *a shop → three shops*.\n- We can use **a/an** and numbers: *a product, an idea, five birr coins*.\n\n**Uncountable nouns** are things we cannot count one by one. They have **no plural** form.\n- *money, advice, information, equipment, rice, water*.\n- We do **not** use *a/an* or numbers directly: not *a money*, not *two advices*.\n- To count them we use a **container or measure**: *a piece of advice, a kilo of rice, some information*.\n\n**Quantifiers** (words that show amount):\n- **many** + countable: ***many** customers*.\n- **much** + uncountable: *How **much** money do you have?*\n- **a few** + countable (a small number): *I have **a few** ideas.*\n- **a little** + uncountable (a small amount): *I have **a little** money.*\n- **some** (positive sentences) and **any** (questions/negatives) with both: *I need **some** capital.* / *Do you have **any** customers?* / *We don't have **any** stock.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read this paragraph about starting a small shop.\n\n> *To open a small shop, you need **some money** and **a few products** to sell. At first you will have only **a little experience**, but you will gain **many skills** quickly. Do not borrow too **much money**. Ask **some** friends for **a little advice**, because good **information** is very useful.*\n\n**Why these quantifiers?**\n- *some money, a little experience, much money, a little advice, information* → these are **uncountable** (no plural; use *much, a little, some*).\n- *a few products, many skills* → these are **countable** (plural; use *a few, many*)."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Making uncountable nouns plural.** Wrong: *informations, advices, equipments, moneys.* Correct: *information, advice, equipment, money* (always singular).\n- **Using 'a/an' with uncountable nouns.** Wrong: *a money, an advice.* Correct: *some money, a piece of advice.*\n- **Using 'many' with uncountable nouns.** Wrong: *many money.* Correct: *much money* or *a lot of money*.\n- **Using 'much' with countable nouns.** Wrong: *much customers.* Correct: *many customers*.\n- **Confusing 'a few' and 'a little'.** *A few* → countable (*a few coins*); *a little* → uncountable (*a little water*)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Can you count it one-by-one?** Yes → countable (use *many, a few*). No → uncountable (use *much, a little*).\n- **MANY for things you can count; MUCH for things you measure.**\n- **a FEW = a few coins (countable); a LITTLE = a little salt (uncountable).**\n- Common **uncountable** words to memorize: *money, advice, information, news, furniture, equipment, water, rice, work*.\n- **A lot of** works with **both** — use it when you are unsure."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose the correct word.\n\n1. How ______ (much / many) money do you need to start?\n2. We have ______ (a few / a little) customers today.\n3. She gave me some good ______ (advice / advices).\n4. There isn't ______ (much / many) stock left.\n5. I have ______ (a few / a little) experience in selling.\n\n**Answers:**\n1. much  2. a few  3. advice  4. much  5. a little"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Countable nouns** can be counted and have plurals; use **many, a few, a/an, numbers**.\n- **Uncountable nouns** cannot be counted and have **no plural**; use **much, a little, some**.\n- Never add **a/an** or **-s** to uncountable nouns like *money, advice, information*.\n- Use **much/a little** with uncountable nouns; **many/a few** with countable nouns.\n- **A lot of** works with both kinds of nouns."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words about entrepreneurship and business.",
+                  "glossary": [
+                    { "term": "entrepreneur", "definition": "A person who starts a business and takes risks to make a profit." },
+                    { "term": "profit", "definition": "The money you gain after you take away your costs." },
+                    { "term": "capital", "definition": "The money you need to start or run a business." },
+                    { "term": "customer", "definition": "A person who buys goods or services from a business." },
+                    { "term": "goods", "definition": "Products that are made or sold (this noun is usually plural)." },
+                    { "term": "uncountable noun", "definition": "A noun that cannot be counted one by one and has no plural form (e.g. money, advice)." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the difference between countable and uncountable nouns?", "back": "Countable nouns can be counted and have plurals; uncountable nouns cannot be counted and have no plural." },
+                { "front": "Do we use 'much' or 'many' with 'money'?", "back": "'Much', because 'money' is uncountable (e.g. *much money*)." },
+                { "front": "Is 'advice' countable or uncountable?", "back": "Uncountable. Say 'some advice' or 'a piece of advice', never 'advices'." },
+                { "front": "When do we use 'a few' vs 'a little'?", "back": "'A few' with countable nouns (a few coins); 'a little' with uncountable nouns (a little water)." },
+                { "front": "Which quantifier works with both countable and uncountable nouns?", "back": "'A lot of' (e.g. *a lot of customers*, *a lot of money*)." }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Quantifiers", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["How many money do you have?", "How much money do you have?", "How many moneys do you have?", "How much moneys do you have?"], "answer": "1", "explanation": "'Money' is uncountable, so we use 'much': 'How much money do you have?'" },
+            { "topic": "Uncountable nouns", "difficulty": "beginner", "type": "mcq", "prompt": "Which word is uncountable?", "options": ["customer", "shop", "advice", "product"], "answer": "2", "explanation": "'Advice' is uncountable (no plural form). The others can be counted." },
+            { "topic": "Many vs much", "difficulty": "medium", "type": "mcq", "prompt": "Complete: 'We have too ______ customers to serve today.'", "options": ["much", "many", "a little", "a much"], "answer": "1", "explanation": "'Customers' is countable, so we use 'many': 'too many customers'." },
+            { "topic": "A few vs a little", "difficulty": "medium", "type": "mcq", "prompt": "Complete: 'She has ______ experience, so she is still learning.'", "options": ["a few", "a little", "many", "few number of"], "answer": "1", "explanation": "'Experience' is uncountable here, so we use 'a little': 'a little experience'." },
+            { "topic": "Articles with nouns", "difficulty": "difficult", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["He gave me an advice.", "He gave me a piece of advice.", "He gave me advices.", "He gave me an advices."], "answer": "1", "explanation": "'Advice' is uncountable; to count it we say 'a piece of advice'." },
+            { "topic": "Comprehension", "difficulty": "exam", "type": "mcq", "prompt": "Read: 'You need some money and a few products to start a shop.' Which noun is countable?", "options": ["money", "products", "experience", "advice"], "answer": "1", "explanation": "'Products' is countable (it has a plural and uses 'a few'); 'money' is uncountable." }
+          ]
+        },
+        {
+          "title": "Protecting Our Environment",
+          "description": "Reading about environmental care and using the second conditional to imagine results.",
+          "lessons": [
+            {
+              "title": "Imagining Solutions: The Second Conditional",
+              "summary": "Learn to talk about imaginary or unlikely situations and their results using the second conditional (If + past simple, would + base verb). The theme is environmental protection.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Our **environment** — the air, water, soil, forests, and animals — needs our care. Problems like **pollution**, cutting down trees (**deforestation**), and rubbish harm nature. Ethiopia has started big projects, such as the **Green Legacy** tree-planting programme, to protect the environment.\n\nWhen we imagine a different situation and its result, we use the **second conditional**. For example: *If everyone **planted** trees, the air **would be** cleaner.* This lesson teaches you how to make these sentences."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Understand the **second conditional** and when to use it.\n- Form sentences with **If + past simple, would + base verb**.\n- See the difference between the **first** and **second** conditional.\n- Imagine solutions to environmental problems in correct English."
+                },
+                {
+                  "type": "theory",
+                  "title": "Grammar: The Second Conditional",
+                  "body": "The **second conditional** talks about situations that are **imaginary, unlikely, or untrue now**, and their results.\n\n**Structure:** **If + past simple, ... would + base verb.**\n- *If I **had** a lot of money, I **would build** a school.*\n- *If people **stopped** polluting, rivers **would become** clean.*\n\nEven though we use the **past simple** in the *if*-clause, we are **not** talking about the past — we are imagining the **present or future**.\n\n**Compare with the first conditional:**\n- **First (real/likely):** *If it **rains**, the plants **will grow**.* (This may really happen.)\n- **Second (imaginary/unlikely):** *If it **rained** every day, the desert **would become** a forest.* (This is just imagination.)\n\n**Special note on 'be':** In careful English, we use **were** for all subjects in the second conditional.\n- *If I **were** the leader, I **would protect** the forests.* (not *was*)\n- *If she **were** here, she **would help**.*\n\n**We can use 'could' or 'might'** instead of *would* to show possibility: *If we recycled, we **could** save money.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read these imaginary ideas about the environment.\n\n> *If everyone **planted** a tree, our country **would be** greener. If factories **did not pollute** the rivers, the fish **would survive**. If I **were** the mayor, I **would ban** plastic bags.*\n\n**Breaking down the first sentence:**\n- If-clause: *If everyone planted a tree* → **past simple** (*planted*), but it describes an **imagined** present.\n- Result: *our country would be greener* → **would + base verb** (*would be*).\n\nThese situations are **not real now** — we are imagining what would happen *if* they were true."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Using 'would' in the if-clause.** Wrong: *If I would have money...* Correct: *If I **had** money, I would help.*\n- **Using 'will' instead of 'would'** for imaginary situations. Wrong: *If I had wings, I will fly.* Correct: *If I had wings, I **would fly**.*\n- **Adding -s or -ed after 'would'.** Wrong: *would helps / would helped.* Correct: *would **help*** (base verb).\n- **Using 'was' instead of 'were' (in careful English).** Preferred: *If I **were** you, I would recycle.*\n- **Mixing up first and second conditional.** First = real future (*will*); second = imaginary (*would*)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Second conditional = a dream or imagination.** It is not real now.\n- **\"If + past, would + base.\"** Past simple in the *if*-clause, *would* + base verb in the result.\n- **No 'will' and no 'would' in the if-clause** — keep *would* only in the result.\n- **\"If I were you...\"** Remember **were** (not *was*) for advice and imagined situations.\n- Quick test: **real and likely → first conditional (*will*); imaginary or unlikely → second conditional (*would*).**"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Complete the second conditional sentences.\n\n1. If we ______ (recycle) more, we ______ (reduce) waste.\n2. If I ______ (be) the leader, I ______ (plant) many trees.\n3. The air ______ (be) cleaner if fewer cars ______ (use) petrol.\n4. If people ______ (not / cut) the forests, animals ______ (have) homes.\n5. If she ______ (have) time, she ______ (join) the clean-up.\n\n**Answers:**\n1. recycled / would reduce  2. were / would plant  3. would be / used  4. did not cut / would have  5. had / would join"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **second conditional** describes **imaginary or unlikely** situations and their results.\n- Structure: **If + past simple, would + base verb.**\n- The past simple here means an **imagined present/future**, not the real past.\n- Use **would** (or *could/might*) only in the **result** clause, never in the *if*-clause.\n- Use **were** for all subjects in careful English (*If I were you...*)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Key words about the environment.",
+                  "glossary": [
+                    { "term": "environment", "definition": "The natural world around us, including air, water, land, plants, and animals." },
+                    { "term": "pollution", "definition": "Harmful substances that make air, water, or land dirty and unsafe." },
+                    { "term": "deforestation", "definition": "The cutting down of large numbers of trees in an area." },
+                    { "term": "recycle", "definition": "To treat used materials so they can be used again." },
+                    { "term": "conservation", "definition": "The protection and careful use of nature and natural resources." },
+                    { "term": "second conditional", "definition": "A sentence form (If + past simple, would + base verb) used for imaginary or unlikely situations." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the structure of the second conditional?", "back": "If + past simple, would + base verb (e.g. *If I had money, I would help*)." },
+                { "front": "Is the second conditional about real or imaginary situations?", "back": "Imaginary, unlikely, or untrue situations in the present or future." },
+                { "front": "Can we use 'would' in the if-clause?", "back": "No. Use the past simple in the if-clause; keep 'would' in the result." },
+                { "front": "Which form of 'be' is preferred in the second conditional?", "back": "'Were' for all subjects (e.g. *If I were you...*)." },
+                { "front": "How does the second conditional differ from the first?", "back": "First = real/likely future (will); second = imaginary/unlikely (would)." }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Second conditional", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["If I had money, I will build a school.", "If I had money, I would build a school.", "If I would have money, I build a school.", "If I have money, I would build a school."], "answer": "1", "explanation": "Second conditional: 'If' + past simple, 'would' + base verb: 'If I had money, I would build a school'." },
+            { "topic": "Verb after would", "difficulty": "beginner", "type": "mcq", "prompt": "Complete: 'If we recycled, we ______ less waste.'", "options": ["would produce", "would produces", "will produce", "would produced"], "answer": "1", "explanation": "After 'would', use the base verb: 'would produce'." },
+            { "topic": "If-clause", "difficulty": "medium", "type": "mcq", "prompt": "Complete: 'If people ______ trees, the air would be cleaner.'", "options": ["will plant", "would plant", "planted", "plant"], "answer": "2", "explanation": "The if-clause of the second conditional uses the past simple: 'If people planted trees'." },
+            { "topic": "Were for advice", "difficulty": "medium", "type": "mcq", "prompt": "Choose the preferred sentence.", "options": ["If I was you, I would recycle.", "If I were you, I would recycle.", "If I am you, I would recycle.", "If I were you, I will recycle."], "answer": "1", "explanation": "In careful English, use 'were' for all subjects: 'If I were you, I would recycle'." },
+            { "topic": "First vs second conditional", "difficulty": "difficult", "type": "mcq", "prompt": "Which sentence describes an imaginary, unlikely situation?", "options": ["If it rains tomorrow, we will stay home.", "If I had wings, I would fly to school.", "If you heat ice, it melts.", "If you study, you will pass."], "answer": "1", "explanation": "Having wings is imaginary, so the second conditional is used: 'If I had wings, I would fly'." },
+            { "topic": "Comprehension", "difficulty": "exam", "type": "mcq", "prompt": "Read: 'If everyone planted a tree, our country would be greener.' What does the writer suggest?", "options": ["Everyone has already planted a tree.", "This is an imagined result that is not happening yet.", "Trees make the country less green.", "This definitely will happen tomorrow."], "answer": "1", "explanation": "The second conditional imagines a situation that is not real now and its possible result." }
+          ]
+        }
+      ]
+    }
+  ]
+}

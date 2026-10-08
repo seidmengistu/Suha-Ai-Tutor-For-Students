@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 7,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery school day, Sara wakes up before sunrise. She helps her mother carry water from the well and then prepares her books for class. Her favourite subject is science because she loves learning how plants grow. After the long walk to school, Sara feels tired, but she always smiles when she sees her friends at the gate. She believes that hard work today will give her a brighter future tomorrow.\n\nQuestion: What is the passage mainly about?",
+          "options": [
+            "Sara's daily routine and her hope for the future",
+            "How to carry water from a well",
+            "The plants that grow near Sara's school",
+            "A description of Sara's classroom"
+          ],
+          "answer": "0",
+          "explanation": "The passage describes Sara's morning routine and ends with her belief in a brighter future, so the main idea is her daily life and hope."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery school day, Sara wakes up before sunrise. She helps her mother carry water from the well and then prepares her books for class. Her favourite subject is science because she loves learning how plants grow. After the long walk to school, Sara feels tired, but she always smiles when she sees her friends at the gate. She believes that hard work today will give her a brighter future tomorrow.\n\nQuestion: What is Sara's favourite subject?",
+          "options": [
+            "Mathematics",
+            "Science",
+            "History",
+            "English"
+          ],
+          "answer": "1",
+          "explanation": "The passage states that her favourite subject is science because she loves learning how plants grow."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery school day, Sara wakes up before sunrise. She helps her mother carry water from the well and then prepares her books for class. Her favourite subject is science because she loves learning how plants grow. After the long walk to school, Sara feels tired, but she always smiles when she sees her friends at the gate. She believes that hard work today will give her a brighter future tomorrow.\n\nQuestion: What can we infer about Sara from the passage?",
+          "options": [
+            "She dislikes going to school",
+            "She is hard-working and hopeful",
+            "She lives very close to her school",
+            "She has no friends at school"
+          ],
+          "answer": "1",
+          "explanation": "Sara helps at home, walks a long way despite feeling tired, and believes in a brighter future, which shows she is hard-working and hopeful."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery school day, Sara wakes up before sunrise. She helps her mother carry water from the well and then prepares her books for class. Her favourite subject is science because she loves learning how plants grow. After the long walk to school, Sara feels tired, but she always smiles when she sees her friends at the gate. She believes that hard work today will give her a brighter future tomorrow.\n\nQuestion: In this passage, the word \"prepares\" is closest in meaning to which word?",
+          "options": [
+            "Hides",
+            "Gets ready",
+            "Sells",
+            "Forgets"
+          ],
+          "answer": "1",
+          "explanation": "Sara prepares her books for class, meaning she gets them ready, so \"prepares\" means gets ready."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery school day, Sara wakes up before sunrise. She helps her mother carry water from the well and then prepares her books for class. Her favourite subject is science because she loves learning how plants grow. After the long walk to school, Sara feels tired, but she always smiles when she sees her friends at the gate. She believes that hard work today will give her a brighter future tomorrow.\n\nQuestion: What is the author's main purpose in writing this passage?",
+          "options": [
+            "To warn students about the dangers of walking to school",
+            "To explain the science of how plants grow",
+            "To show a determined student who values effort and education",
+            "To complain about the difficulty of carrying water"
+          ],
+          "answer": "2",
+          "explanation": "The author presents Sara's effort, positive attitude, and belief in the future to show a determined student who values education."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery school day, Sara wakes up before sunrise. She helps her mother carry water from the well and then prepares her books for class. Her favourite subject is science because she loves learning how plants grow. After the long walk to school, Sara feels tired, but she always smiles when she sees her friends at the gate. She believes that hard work today will give her a brighter future tomorrow.\n\nQuestion: In the sentence \"she always smiles when she sees her friends,\" the word \"she\" refers to whom?",
+          "options": [
+            "Sara's mother",
+            "Sara",
+            "Sara's teacher",
+            "One of Sara's friends"
+          ],
+          "answer": "1",
+          "explanation": "The whole passage is about Sara, so the pronoun \"she\" refers to Sara."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe honeybee is a small but very useful insect. Bees live together in a group called a colony, where each bee has a special job. Worker bees fly from flower to flower to collect a sweet liquid called nectar. As they move, they carry tiny grains of pollen from one flower to another. This helps the plants make seeds and fruit. Without bees, many of the foods we enjoy, such as apples and beans, would be much harder to grow.\n\nQuestion: What is the main idea of this passage?",
+          "options": [
+            "Bees are dangerous insects that should be avoided",
+            "Honeybees are useful insects that help plants grow",
+            "Apples and beans grow on the same plant",
+            "Bees prefer to live alone"
+          ],
+          "answer": "1",
+          "explanation": "The passage explains how bees help plants make seeds and fruit, showing that honeybees are useful insects."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe honeybee is a small but very useful insect. Bees live together in a group called a colony, where each bee has a special job. Worker bees fly from flower to flower to collect a sweet liquid called nectar. As they move, they carry tiny grains of pollen from one flower to another. This helps the plants make seeds and fruit. Without bees, many of the foods we enjoy, such as apples and beans, would be much harder to grow.\n\nQuestion: What do worker bees collect from flowers?",
+          "options": [
+            "Seeds",
+            "Water",
+            "Nectar",
+            "Leaves"
+          ],
+          "answer": "2",
+          "explanation": "The passage states that worker bees fly from flower to flower to collect a sweet liquid called nectar."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe honeybee is a small but very useful insect. Bees live together in a group called a colony, where each bee has a special job. Worker bees fly from flower to flower to collect a sweet liquid called nectar. As they move, they carry tiny grains of pollen from one flower to another. This helps the plants make seeds and fruit. Without bees, many of the foods we enjoy, such as apples and beans, would be much harder to grow.\n\nQuestion: What can we infer would happen if all the bees disappeared?",
+          "options": [
+            "Plants would grow faster than before",
+            "Growing certain fruits and foods would become more difficult",
+            "Flowers would produce more nectar",
+            "People would no longer need water"
+          ],
+          "answer": "1",
+          "explanation": "The passage says that without bees many foods would be harder to grow, so losing bees would make producing certain foods more difficult."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe honeybee is a small but very useful insect. Bees live together in a group called a colony, where each bee has a special job. Worker bees fly from flower to flower to collect a sweet liquid called nectar. As they move, they carry tiny grains of pollen from one flower to another. This helps the plants make seeds and fruit. Without bees, many of the foods we enjoy, such as apples and beans, would be much harder to grow.\n\nQuestion: In this passage, the word \"colony\" means a group of bees that —",
+          "options": [
+            "fight against each other",
+            "live and work together",
+            "travel to faraway countries",
+            "sleep through the winter"
+          ],
+          "answer": "1",
+          "explanation": "The passage describes a colony as a group where each bee has a special job, so it means bees that live and work together."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe honeybee is a small but very useful insect. Bees live together in a group called a colony, where each bee has a special job. Worker bees fly from flower to flower to collect a sweet liquid called nectar. As they move, they carry tiny grains of pollen from one flower to another. This helps the plants make seeds and fruit. Without bees, many of the foods we enjoy, such as apples and beans, would be much harder to grow.\n\nQuestion: Why did the author most likely write this passage?",
+          "options": [
+            "To teach readers how to keep bees as pets",
+            "To inform readers about the important role bees play in nature",
+            "To frighten readers about bee stings",
+            "To describe how honey is made into food"
+          ],
+          "answer": "1",
+          "explanation": "The passage gives facts about how bees help plants and food production, so its purpose is to inform readers about the role of bees."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe honeybee is a small but very useful insect. Bees live together in a group called a colony, where each bee has a special job. Worker bees fly from flower to flower to collect a sweet liquid called nectar. As they move, they carry tiny grains of pollen from one flower to another. This helps the plants make seeds and fruit. Without bees, many of the foods we enjoy, such as apples and beans, would be much harder to grow.\n\nQuestion: In the sentence \"As they move, they carry tiny grains of pollen,\" the word \"they\" refers to —",
+          "options": [
+            "the flowers",
+            "the worker bees",
+            "the seeds",
+            "the fruits"
+          ],
+          "answer": "1",
+          "explanation": "The sentence describes worker bees moving from flower to flower, so \"they\" refers to the worker bees."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe coffee plant has a special place in Ethiopian life. Many families grow it on small farms in the green highlands. When guests arrive, it is common to hold a coffee ceremony. The host first roasts the green beans over hot coals until they turn dark and shiny. Then the beans are ground and boiled in a clay pot. The rich smell fills the room as the coffee is served in small cups. The ceremony is more than a drink; it is a sign of friendship and respect.\n\nQuestion: What is the passage mainly about?",
+          "options": [
+            "How to build a clay pot",
+            "The importance of the coffee ceremony in Ethiopian life",
+            "The price of coffee beans in the market",
+            "Different colours of coffee cups"
+          ],
+          "answer": "1",
+          "explanation": "The passage describes the coffee ceremony and calls it a sign of friendship and respect, so it is mainly about its importance in Ethiopian life."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe coffee plant has a special place in Ethiopian life. Many families grow it on small farms in the green highlands. When guests arrive, it is common to hold a coffee ceremony. The host first roasts the green beans over hot coals until they turn dark and shiny. Then the beans are ground and boiled in a clay pot. The rich smell fills the room as the coffee is served in small cups. The ceremony is more than a drink; it is a sign of friendship and respect.\n\nQuestion: According to the passage, what does the host do first in the ceremony?",
+          "options": [
+            "Grinds the beans",
+            "Serves the coffee in small cups",
+            "Roasts the green beans over hot coals",
+            "Boils the beans in a clay pot"
+          ],
+          "answer": "2",
+          "explanation": "The passage states that the host first roasts the green beans over hot coals until they turn dark and shiny."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe coffee plant has a special place in Ethiopian life. Many families grow it on small farms in the green highlands. When guests arrive, it is common to hold a coffee ceremony. The host first roasts the green beans over hot coals until they turn dark and shiny. Then the beans are ground and boiled in a clay pot. The rich smell fills the room as the coffee is served in small cups. The ceremony is more than a drink; it is a sign of friendship and respect.\n\nQuestion: What can we infer about how Ethiopians feel about the coffee ceremony?",
+          "options": [
+            "They see it as a waste of time",
+            "They value it as an important social tradition",
+            "They only hold it when they are alone",
+            "They believe it is bad for guests"
+          ],
+          "answer": "1",
+          "explanation": "Because the ceremony welcomes guests and shows friendship and respect, we can infer Ethiopians value it as an important social tradition."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe coffee plant has a special place in Ethiopian life. Many families grow it on small farms in the green highlands. When guests arrive, it is common to hold a coffee ceremony. The host first roasts the green beans over hot coals until they turn dark and shiny. Then the beans are ground and boiled in a clay pot. The rich smell fills the room as the coffee is served in small cups. The ceremony is more than a drink; it is a sign of friendship and respect.\n\nQuestion: In this passage, the word \"host\" refers to a person who —",
+          "options": [
+            "sells coffee in a shop",
+            "welcomes and serves the guests",
+            "grows coffee on a large farm",
+            "visits another family's home"
+          ],
+          "answer": "1",
+          "explanation": "The host roasts and serves the coffee to guests, so a host is a person who welcomes and serves the guests."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe coffee plant has a special place in Ethiopian life. Many families grow it on small farms in the green highlands. When guests arrive, it is common to hold a coffee ceremony. The host first roasts the green beans over hot coals until they turn dark and shiny. Then the beans are ground and boiled in a clay pot. The rich smell fills the room as the coffee is served in small cups. The ceremony is more than a drink; it is a sign of friendship and respect.\n\nQuestion: Which sentence best shows the author's respectful tone toward the tradition?",
+          "options": [
+            "\"Many families grow it on small farms in the green highlands.\"",
+            "\"Then the beans are ground and boiled in a clay pot.\"",
+            "\"The ceremony is more than a drink; it is a sign of friendship and respect.\"",
+            "\"The host first roasts the green beans over hot coals.\""
+          ],
+          "answer": "2",
+          "explanation": "The final sentence raises the ceremony above an ordinary drink, showing the author's respectful tone toward the tradition."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe coffee plant has a special place in Ethiopian life. Many families grow it on small farms in the green highlands. When guests arrive, it is common to hold a coffee ceremony. The host first roasts the green beans over hot coals until they turn dark and shiny. Then the beans are ground and boiled in a clay pot. The rich smell fills the room as the coffee is served in small cups. The ceremony is more than a drink; it is a sign of friendship and respect.\n\nQuestion: In the phrase \"until they turn dark and shiny,\" the word \"they\" refers to —",
+          "options": [
+            "the guests",
+            "the green beans",
+            "the small cups",
+            "the hot coals"
+          ],
+          "answer": "1",
+          "explanation": "The host roasts the green beans until they turn dark and shiny, so \"they\" refers to the green beans."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nDawit had always been afraid to speak in front of his class. When the teacher announced a poetry contest, his stomach turned. Still, he wrote a poem about the river near his village and practised it every night. On the day of the contest, his hands shook as he stood up. He took a deep breath and began. To his surprise, the words came out clearly, and the class listened closely. When he finished, everyone clapped. Dawit walked back to his seat with a wide smile, feeling braver than ever before.\n\nQuestion: What is the main lesson of this story?",
+          "options": [
+            "Writing poems is easy for everyone",
+            "Facing your fears can lead to success",
+            "Rivers are good subjects for poems",
+            "Contests should be avoided at school"
+          ],
+          "answer": "1",
+          "explanation": "Dawit was afraid but practised and spoke anyway, and his success shows that facing your fears can lead to success."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nDawit had always been afraid to speak in front of his class. When the teacher announced a poetry contest, his stomach turned. Still, he wrote a poem about the river near his village and practised it every night. On the day of the contest, his hands shook as he stood up. He took a deep breath and began. To his surprise, the words came out clearly, and the class listened closely. When he finished, everyone clapped. Dawit walked back to his seat with a wide smile, feeling braver than ever before.\n\nQuestion: What was Dawit's poem about?",
+          "options": [
+            "His school",
+            "The river near his village",
+            "His teacher",
+            "A poetry contest"
+          ],
+          "answer": "1",
+          "explanation": "The passage states that he wrote a poem about the river near his village."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nDawit had always been afraid to speak in front of his class. When the teacher announced a poetry contest, his stomach turned. Still, he wrote a poem about the river near his village and practised it every night. On the day of the contest, his hands shook as he stood up. He took a deep breath and began. To his surprise, the words came out clearly, and the class listened closely. When he finished, everyone clapped. Dawit walked back to his seat with a wide smile, feeling braver than ever before.\n\nQuestion: What can we infer from the phrase \"his stomach turned\"?",
+          "options": [
+            "Dawit was very hungry",
+            "Dawit felt nervous and worried",
+            "Dawit was excited and proud",
+            "Dawit was feeling sleepy"
+          ],
+          "answer": "1",
+          "explanation": "The phrase appears when Dawit, who fears speaking, hears about the contest, so it shows he felt nervous and worried."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nDawit had always been afraid to speak in front of his class. When the teacher announced a poetry contest, his stomach turned. Still, he wrote a poem about the river near his village and practised it every night. On the day of the contest, his hands shook as he stood up. He took a deep breath and began. To his surprise, the words came out clearly, and the class listened closely. When he finished, everyone clapped. Dawit walked back to his seat with a wide smile, feeling braver than ever before.\n\nQuestion: In this passage, the word \"practised\" is closest in meaning to —",
+          "options": [
+            "rehearsed many times",
+            "threw away",
+            "forgot completely",
+            "read once quickly"
+          ],
+          "answer": "0",
+          "explanation": "Dawit practised his poem every night before the contest, so \"practised\" means rehearsed many times."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nDawit had always been afraid to speak in front of his class. When the teacher announced a poetry contest, his stomach turned. Still, he wrote a poem about the river near his village and practised it every night. On the day of the contest, his hands shook as he stood up. He took a deep breath and began. To his surprise, the words came out clearly, and the class listened closely. When he finished, everyone clapped. Dawit walked back to his seat with a wide smile, feeling braver than ever before.\n\nQuestion: How does the mood of the story change from the beginning to the end?",
+          "options": [
+            "From joyful to angry",
+            "From fearful to confident",
+            "From calm to frightened",
+            "From bored to sleepy"
+          ],
+          "answer": "1",
+          "explanation": "At first Dawit is afraid and shaking, but by the end he smiles and feels braver, so the mood changes from fearful to confident."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nDawit had always been afraid to speak in front of his class. When the teacher announced a poetry contest, his stomach turned. Still, he wrote a poem about the river near his village and practised it every night. On the day of the contest, his hands shook as he stood up. He took a deep breath and began. To his surprise, the words came out clearly, and the class listened closely. When he finished, everyone clapped. Dawit walked back to his seat with a wide smile, feeling braver than ever before.\n\nQuestion: In the sentence \"To his surprise, the words came out clearly,\" the word \"his\" refers to —",
+          "options": [
+            "the teacher",
+            "Dawit",
+            "a classmate",
+            "the poet of another poem"
+          ],
+          "answer": "1",
+          "explanation": "The story follows Dawit speaking his poem, so \"his\" refers to Dawit."
+        }
+      ]
+    }
+  ]
+}

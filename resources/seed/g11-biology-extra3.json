@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "The Science of Biology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "When a scientist looks carefully at something happening in nature and notes what they see, this first step is called making an:",
+          "options": [
+            "Observation",
+            "Conclusion",
+            "Average",
+            "Equation"
+          ],
+          "answer": "0",
+          "explanation": "An observation is the careful noting of what is seen in nature, and it usually leads to the question that starts an investigation."
+        },
+        {
+          "topic": "The Science of Biology",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A student records the mass of seedlings on a balance and draws a line graph of mass against time. The graph and the recorded masses are best described as the experiment's:",
+          "options": [
+            "Hypothesis",
+            "Data",
+            "Independent variable",
+            "Control group"
+          ],
+          "answer": "1",
+          "explanation": "The recorded measurements and the graph drawn from them are the data, the evidence later used to draw a conclusion."
+        },
+        {
+          "topic": "The Science of Biology",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A team tests a medicine by giving real pills to one group and identical-looking sugar pills to another, with neither group told which they received. The main purpose of the sugar pills is to:",
+          "options": [
+            "Make the study cheaper to run",
+            "Increase the number of people who recover",
+            "Act as a control so any effect of the real medicine can be separated from belief alone",
+            "Replace the need to repeat the test"
+          ],
+          "answer": "2",
+          "explanation": "The dummy (placebo) pills are a control group; comparing them with the treated group shows whether the medicine itself, not just the expectation of treatment, caused any change."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "About what fraction of the mass of a living human body is made up of water?",
+          "options": [
+            "About one tenth",
+            "About two thirds",
+            "Almost none",
+            "Exactly all of it"
+          ],
+          "answer": "1",
+          "explanation": "Water makes up roughly two thirds of the mass of the human body, which is why it is so important for life."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Two simple sugar units are joined together by a condensation reaction. The molecule formed is best described as a:",
+          "options": [
+            "Polysaccharide",
+            "Single amino acid",
+            "Fatty acid",
+            "Disaccharide"
+          ],
+          "answer": "3",
+          "explanation": "Two sugar units joined together form a disaccharide; many joined together would form a polysaccharide."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which statement correctly compares the building blocks of lipids and proteins?",
+          "options": [
+            "Lipids are built from fatty acids and glycerol, while proteins are built from amino acids",
+            "Both are built only from glucose units",
+            "Lipids are built from amino acids, while proteins are built from nucleotides",
+            "Both are built from mineral ions"
+          ],
+          "answer": "0",
+          "explanation": "Lipids are made from fatty acids and glycerol, whereas proteins are polymers of amino acids; the two groups have different building blocks."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the name for the new substance that is formed after an enzyme has acted on its substrate?",
+          "options": [
+            "The catalyst",
+            "The active site",
+            "The product",
+            "The solvent"
+          ],
+          "answer": "2",
+          "explanation": "The product is the new substance made when an enzyme converts its substrate during a reaction."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why is it correct to say an enzyme is denatured rather than killed when it is destroyed by heat?",
+          "options": [
+            "Because enzymes are not alive, so they cannot be killed; heat instead destroys their shape",
+            "Because enzymes turn into living cells when heated",
+            "Because killed and denatured mean exactly the same thing",
+            "Because heat makes enzymes reproduce too quickly"
+          ],
+          "answer": "0",
+          "explanation": "Enzymes are proteins, not living organisms, so they cannot be killed; heat permanently destroys the enzyme's shape, which is called denaturation."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An enzyme reaction speeds up steadily as more substrate is added, but eventually the rate stops rising even though more substrate is still being added. The best explanation is that:",
+          "options": [
+            "All the enzyme active sites are already busy, so adding more substrate cannot speed things up further",
+            "The substrate has been denatured",
+            "The enzyme has turned into substrate",
+            "Substrate slows enzymes down at high amounts"
+          ],
+          "answer": "0",
+          "explanation": "Once every active site is occupied, the enzymes are working as fast as they can, so extra substrate must wait and the rate levels off."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A food company wants an enzyme to keep working inside a hot industrial tank at 80 degrees Celsius, where ordinary human enzymes would fail. The most suitable source of such an enzyme would be an organism that:",
+          "options": [
+            "Lives only in ice",
+            "Lives at normal human body temperature",
+            "Naturally lives in very hot springs",
+            "Has no enzymes at all"
+          ],
+          "answer": "2",
+          "explanation": "Enzymes are adapted to the temperature of their organism's environment, so a microbe from hot springs is likely to have enzymes whose shape survives high temperatures."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the jelly-like material inside a cell where many chemical reactions take place?",
+          "options": [
+            "The cell wall",
+            "The chloroplast",
+            "The nucleus",
+            "The cytoplasm"
+          ],
+          "answer": "3",
+          "explanation": "The cytoplasm is the jelly-like substance filling the cell, and it is where many of the cell's chemical reactions occur."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which feature is shared by a bacterial cell and a plant cell but is absent from a typical animal cell?",
+          "options": [
+            "A true nucleus",
+            "Chloroplasts",
+            "A cell wall",
+            "Many large mitochondria"
+          ],
+          "answer": "2",
+          "explanation": "Both bacterial and plant cells have a cell wall, while animal cells do not; bacteria lack a true nucleus, which plant cells have, so that is not shared."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A large permanent vacuole in a plant cell is mainly responsible for:",
+          "options": [
+            "Trapping light for photosynthesis",
+            "Building proteins",
+            "Storing the cell's DNA",
+            "Storing cell sap and helping keep the cell firm"
+          ],
+          "answer": "3",
+          "explanation": "The large vacuole stores cell sap and, when full, presses outward to help keep the plant cell firm and the plant upright."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A scientist measures a cell and finds it is only about two micrometres across and contains no membrane-bound organelles. The cell is most likely:",
+          "options": [
+            "A bacterial (prokaryotic) cell",
+            "A large plant cell",
+            "An animal muscle cell",
+            "A fungal cell with a nucleus"
+          ],
+          "answer": "0",
+          "explanation": "Very small size and the absence of membrane-bound organelles are typical of prokaryotic cells such as bacteria, which are much smaller and simpler than eukaryotic cells."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A root hair cell takes in water and dissolved minerals from the soil but does not photosynthesise. Which statement about its likely structure is most reasonable?",
+          "options": [
+            "It is packed with chloroplasts to make food",
+            "It has a cell wall and cell membrane but few or no chloroplasts, since it gets no light underground",
+            "It has no cell membrane so water can flood in freely",
+            "It is a prokaryotic cell with no nucleus"
+          ],
+          "answer": "1",
+          "explanation": "As a plant cell it still has a cell wall, membrane, and nucleus, but because it grows underground in the dark it gains nothing from chloroplasts, so it has few or none."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which green pigment inside chloroplasts traps the light energy used in photosynthesis?",
+          "options": [
+            "Pepsin",
+            "Chlorophyll",
+            "Glucose",
+            "Haemoglobin"
+          ],
+          "answer": "1",
+          "explanation": "Chlorophyll is the green pigment in chloroplasts that absorbs light energy to drive photosynthesis."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which raw material for photosynthesis is taken up by a plant mainly from the soil rather than from the air?",
+          "options": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Light",
+            "Water"
+          ],
+          "answer": "3",
+          "explanation": "Water is absorbed from the soil through the roots, while carbon dioxide comes from the air; light is energy, not a material taken from the soil."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "After a long-distance run, a person keeps breathing heavily for several minutes even though they have stopped moving. This extra oxygen is mainly needed to:",
+          "options": [
+            "Break down the lactic acid that built up during the run",
+            "Make more lactic acid in the muscles",
+            "Stop the heart from beating",
+            "Turn glucose into chlorophyll"
+          ],
+          "answer": "0",
+          "explanation": "During hard exercise muscles respire anaerobically and build up lactic acid; afterwards extra oxygen is taken in to break this lactic acid down, so breathing stays heavy for a while."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A potted plant is sealed in a clear box and kept in bright light. Over several hours the amount of carbon dioxide in the box falls. The best explanation is that:",
+          "options": [
+            "The plant has stopped respiring completely",
+            "Carbon dioxide has turned into nitrogen",
+            "Respiration in the plant is producing oxygen",
+            "Photosynthesis is using up carbon dioxide faster than respiration releases it"
+          ],
+          "answer": "3",
+          "explanation": "In bright light photosynthesis runs faster than respiration, so the plant takes in more carbon dioxide than it releases, and the level in the box falls."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which row correctly states where each process happens and whether it releases or stores energy?",
+          "options": [
+            "Photosynthesis in mitochondria, releases energy; respiration in chloroplasts, stores energy",
+            "Both happen only in the nucleus and both store energy",
+            "Photosynthesis in chloroplasts, stores energy in glucose; respiration in mitochondria, releases energy from glucose",
+            "Respiration in chloroplasts releases energy; photosynthesis in mitochondria releases energy"
+          ],
+          "answer": "2",
+          "explanation": "Photosynthesis occurs in chloroplasts and stores the Sun's energy in glucose, while respiration occurs in mitochondria and releases that stored energy for the cell to use."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A normal human body cell has 46 chromosomes arranged in pairs. How many pairs of chromosomes is this, and where in the cell are they found?",
+          "options": [
+            "46 pairs, found in the cytoplasm",
+            "12 pairs, found in the cell membrane",
+            "23 pairs, found in the nucleus",
+            "92 pairs, found in the mitochondria"
+          ],
+          "answer": "2",
+          "explanation": "Forty-six chromosomes form 23 pairs, and they are held inside the nucleus, which controls the cell."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An organism that has two identical alleles for a gene, such as TT or tt, is described as:",
+          "options": [
+            "Heterozygous",
+            "Homozygous",
+            "A hybrid",
+            "Dominant only"
+          ],
+          "answer": "1",
+          "explanation": "Homozygous means the two alleles for a gene are the same (TT or tt); heterozygous would mean they are different, such as Tt."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A homozygous tall pea plant (TT) is crossed with a short pea plant (tt), where tall is dominant. What are the offspring expected to be?",
+          "options": [
+            "All short (tt)",
+            "Half tall and half short",
+            "All tall and homozygous (TT)",
+            "All tall and heterozygous (Tt)"
+          ],
+          "answer": "3",
+          "explanation": "Every offspring receives a T from one parent and a t from the other, so all are Tt; because tall is dominant, they all appear tall."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A farmer wants to know whether a black bull (black is dominant) is homozygous BB or heterozygous Bb. The most useful cross to find out is to mate it with cows that are:",
+          "options": [
+            "Homozygous black (BB)",
+            "Homozygous recessive white (bb)",
+            "Always heterozygous (Bb)",
+            "Of a completely different species"
+          ],
+          "answer": "1",
+          "explanation": "Crossing the bull with white (bb) cows reveals its genotype: if any calves are white, the bull must carry a recessive b allele and is heterozygous; if all calves are black, he is likely homozygous."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In a plant, red flower colour (R) is dominant over white (r). A grower crosses a heterozygous red plant (Rr) with a white plant (rr). What ratio of red to white flowers is expected in the offspring?",
+          "options": [
+            "3 red : 1 white",
+            "1 red : 1 white",
+            "All red",
+            "All white"
+          ],
+          "answer": "1",
+          "explanation": "An Rr by rr cross gives half Rr (red) and half rr (white), a 1 red : 1 white ratio."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A horse and a donkey can mate, but their offspring (a mule) is almost always unable to have young of its own. Using the biological meaning of a species, this tells us that horses and donkeys are:",
+          "options": [
+            "Exactly the same species",
+            "Not living things at all",
+            "Members of the same population",
+            "Two different species, because their offspring are not fertile"
+          ],
+          "answer": "3",
+          "explanation": "A species is a group that can breed together to produce fertile offspring; because the mule is infertile, the horse and donkey count as two separate species."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A feature that has been inherited and helps an organism survive in its environment, such as a thick coat in a cold place, is called an:",
+          "options": [
+            "Adaptation",
+            "Extinction",
+            "Enzyme",
+            "Organelle"
+          ],
+          "answer": "0",
+          "explanation": "An adaptation is an inherited feature that improves an organism's chance of surviving and reproducing in its particular environment."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "When the last individual of a species dies and the species no longer exists anywhere, this is called:",
+          "options": [
+            "Variation",
+            "Adaptation",
+            "Extinction",
+            "Inheritance"
+          ],
+          "answer": "2",
+          "explanation": "Extinction is the permanent loss of a species, which happens when none of its members survive to reproduce."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Many different mammals, such as a human arm, a whale flipper, and a bat wing, share the same basic arrangement of bones even though they are used for different jobs. Biologists use this as evidence that these animals:",
+          "options": [
+            "Were all created at exactly the same moment",
+            "Share a common ancestor from which they evolved",
+            "Cannot be related in any way",
+            "Have no bones at all"
+          ],
+          "answer": "1",
+          "explanation": "A shared underlying bone pattern despite different uses suggests the animals inherited it from a common ancestor and then evolved in different directions."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "On an island, a long drought kills most plants except those with deep roots that reach water. After several generations, deep-rooted plants dominate the island. Which sequence best describes how natural selection produced this result?",
+          "options": [
+            "Variation in root depth already existed; deep-rooted plants survived the drought and passed on the helpful alleles, so they became common",
+            "The drought forced each plant to deliberately grow deeper roots within its own lifetime",
+            "The plants moved to find water and changed species",
+            "All plants on the island were identical, so chance alone decided"
+          ],
+          "answer": "0",
+          "explanation": "Natural selection acts on existing variation: plants that already had deeper roots survived and reproduced, passing the advantageous alleles on, so the trait spread through the population."
+        },
+        {
+          "topic": "Human Biology and Health",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "The stomach contains muscle tissue, lining tissue, and nerve tissue all working together to digest food. Using the levels of organisation, the stomach itself is best described as an:",
+          "options": [
+            "Single cell",
+            "Tissue",
+            "Organ system on its own",
+            "Organ made of several tissues"
+          ],
+          "answer": "3",
+          "explanation": "Several different tissues working together form an organ, so the stomach is an organ; many organs together (like those of digestion) form an organ system."
+        },
+        {
+          "topic": "Human Biology and Health",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which part of a balanced diet is needed in large amounts mainly to help food move through the gut and prevent constipation, even though it is not digested for energy?",
+          "options": [
+            "Fibre",
+            "Protein",
+            "Fat",
+            "Sugar"
+          ],
+          "answer": "0",
+          "explanation": "Dietary fibre is not digested for energy, but it adds bulk that helps food move smoothly through the digestive system and prevents constipation."
+        },
+        {
+          "topic": "Human Biology and Health",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In the human body, which organ has the main job of cleaning the blood by removing dissolved wastes to form urine?",
+          "options": [
+            "The heart",
+            "The lungs",
+            "The kidney",
+            "The stomach"
+          ],
+          "answer": "2",
+          "explanation": "The kidneys filter the blood and remove dissolved waste substances as urine; the heart only pumps blood and does not clean it."
+        },
+        {
+          "topic": "Human Biology and Health",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Tiny air sacs in the lungs are surrounded by very many small blood vessels and have extremely thin walls. The main advantage of this structure is that it:",
+          "options": [
+            "Makes the lungs heavier",
+            "Stops air from entering the lungs",
+            "Produces glucose for the body",
+            "Speeds up the exchange of oxygen and carbon dioxide between air and blood"
+          ],
+          "answer": "3",
+          "explanation": "Thin walls and a rich blood supply give a large surface and a short distance for gases to cross, so oxygen and carbon dioxide are exchanged quickly between air and blood."
+        },
+        {
+          "topic": "Human Biology and Health",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Vaccination protects a person from a disease by:",
+          "options": [
+            "Giving the body energy to fight any illness",
+            "Killing every type of germ in the body permanently",
+            "Training the body's defences to recognise and fight a particular germ quickly if it appears",
+            "Replacing the blood with clean water"
+          ],
+          "answer": "2",
+          "explanation": "A vaccine exposes the body's defence system to a harmless form or part of a germ, so the body learns to recognise it and can respond fast if the real germ ever invades."
+        },
+        {
+          "topic": "Human Biology and Health",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In a village, many children fall ill after drinking from a shared water source. Which single action would most directly reduce the spread of this water-borne disease?",
+          "options": [
+            "Encouraging the children to sleep longer",
+            "Boiling or otherwise treating the water before drinking it",
+            "Giving everyone extra sugar in their food",
+            "Asking the children to exercise more"
+          ],
+          "answer": "1",
+          "explanation": "Water-borne diseases spread through contaminated water, so treating the water by boiling or other means kills the germs and most directly breaks the chain of infection."
+        }
+      ]
+    }
+  ]
+}

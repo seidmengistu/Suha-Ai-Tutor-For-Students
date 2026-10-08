@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "chemistry",
+      "questions": [
+        {
+          "topic": "Solute and solvent",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "When a small amount of sugar is stirred into a large amount of water, the water is acting as the:",
+          "options": ["Solute", "Solvent", "Suspension", "Colloid"],
+          "answer": "1",
+          "explanation": "The solvent is the substance present in the larger amount that does the dissolving, so here the water is the solvent."
+        },
+        {
+          "topic": "Identifying colloids",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A beam of light passed through a glass of milk is clearly visible as it scatters off the particles. This scattering is called the:",
+          "options": ["Tyndall effect", "Brownian motion", "Diffusion effect", "Osmosis"],
+          "answer": "0",
+          "explanation": "Colloid particles are large enough to scatter light, producing a visible beam known as the Tyndall effect."
+        },
+        {
+          "topic": "Mass percent",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the mass percent of NaOH in a solution made by dissolving 20 g of NaOH in 80 g of water?",
+          "options": ["16%", "20%", "25%", "80%"],
+          "answer": "1",
+          "explanation": "Mass percent = mass of solute / mass of solution x 100 = 20 / (20 + 80) x 100 = 20%."
+        },
+        {
+          "topic": "Boiling-point elevation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the boiling point of a 1.0 m aqueous solution of glucose (a non-electrolyte)? (Kb for water = 0.512 C/m)",
+          "options": ["99.488 C", "100.00 C", "100.512 C", "101.024 C"],
+          "answer": "2",
+          "explanation": "Glucose does not dissociate (i = 1), so dTb = Kb x m = 0.512 x 1.0 = 0.512 C, giving a boiling point of 100.512 C."
+        },
+        {
+          "topic": "Lewis acids and bases",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "According to the Lewis theory, a base is a substance that:",
+          "options": ["Donates a proton", "Accepts a proton", "Donates an electron pair", "Accepts an electron pair"],
+          "answer": "2",
+          "explanation": "A Lewis base donates a lone (electron) pair, while a Lewis acid accepts an electron pair."
+        },
+        {
+          "topic": "pOH and hydroxide concentration",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A solution has a hydroxide ion concentration [OH-] = 1.0 x 10^-3 M. What is its pH at 25 C?",
+          "options": ["3", "7", "11", "14"],
+          "answer": "2",
+          "explanation": "pOH = -log(1.0 x 10^-3) = 3, and pH = 14 - pOH = 14 - 3 = 11."
+        },
+        {
+          "topic": "pH of a strong base",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the pH of a 0.010 M solution of NaOH, a strong base?",
+          "options": ["2", "10", "12", "13"],
+          "answer": "2",
+          "explanation": "NaOH fully ionizes, so [OH-] = 0.010 M, pOH = -log(10^-2) = 2, and pH = 14 - 2 = 12."
+        },
+        {
+          "topic": "pH of a weak acid",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Calculate the pH of a 0.10 M solution of a weak acid HA with Ka = 1.0 x 10^-5.",
+          "options": ["1", "3", "5", "7"],
+          "answer": "1",
+          "explanation": "[H+] = sqrt(Ka x C) = sqrt(1.0 x 10^-5 x 0.10) = sqrt(1.0 x 10^-6) = 1.0 x 10^-3 M, so pH = 3."
+        },
+        {
+          "topic": "Internal energy",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Everything outside the system that can exchange energy with it is called the:",
+          "options": ["Surroundings", "Boundary", "Reactants", "Catalyst"],
+          "answer": "0",
+          "explanation": "The surroundings are everything outside the system that can exchange energy or matter with it."
+        },
+        {
+          "topic": "Sign of entropy change",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "For the reaction 2 H2(g) + O2(g) -> 2 H2O(l), the entropy change is expected to be:",
+          "options": ["Positive, because gases are produced", "Negative, because gas moles decrease and a liquid forms", "Zero, because mass is conserved", "Positive, because water is more ordered"],
+          "answer": "1",
+          "explanation": "Three moles of gas become a liquid, so disorder decreases and the entropy change (dS) is negative."
+        },
+        {
+          "topic": "Gibbs free energy",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A reaction has dH = -100 kJ and dS = -0.20 kJ/K. What is dG at 300 K, and is the reaction spontaneous?",
+          "options": ["-160 kJ, spontaneous", "-40 kJ, spontaneous", "+40 kJ, non-spontaneous", "+160 kJ, non-spontaneous"],
+          "answer": "1",
+          "explanation": "dG = dH - TdS = -100 - (300)(-0.20) = -100 + 60 = -40 kJ. A negative dG means the reaction is spontaneous."
+        },
+        {
+          "topic": "Spontaneity and temperature",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A reaction has dH < 0 and dS < 0. Under what temperature conditions is it spontaneous?",
+          "options": ["At all temperatures", "At no temperature", "Only at low temperatures", "Only at high temperatures"],
+          "answer": "2",
+          "explanation": "With dH negative and dS negative, dG = dH - TdS stays negative only when T is small enough that TdS does not outweigh dH, so it is spontaneous only at low temperatures."
+        },
+        {
+          "topic": "Oxidation number",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the oxidation number of sulphur in sulphuric acid, H2SO4?",
+          "options": ["+2", "+4", "+6", "-2"],
+          "answer": "2",
+          "explanation": "With H at +1 (total +2) and O at -2 (total -8), sulphur must be +6 so the charges sum to zero: 2 + S - 8 = 0, S = +6."
+        },
+        {
+          "topic": "Reducing agent",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In the reaction Mg + 2 HCl -> MgCl2 + H2, which species is the reducing agent?",
+          "options": ["Mg", "HCl", "MgCl2", "H2"],
+          "answer": "0",
+          "explanation": "Magnesium loses electrons (is oxidized from 0 to +2), so it donates electrons and acts as the reducing agent."
+        },
+        {
+          "topic": "Faraday's law calculation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A current of 2.0 A is passed through a silver nitrate solution for 1930 s. What mass of silver (Ag+ + e- -> Ag) is deposited? (Ag = 108 g/mol; F = 96,500 C/mol)",
+          "options": ["1.08 g", "2.16 g", "4.32 g", "8.64 g"],
+          "answer": "2",
+          "explanation": "Q = I x t = 2.0 x 1930 = 3860 C; moles of e- = 3860 / 96,500 = 0.040 mol; since 1 e- gives 1 Ag, mass = 0.040 x 108 = 4.32 g."
+        },
+        {
+          "topic": "Charge in electrolysis",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How much charge is needed to deposit 2 moles of copper from a Cu2+ solution (Cu2+ + 2e- -> Cu)? (F = 96,500 C/mol)",
+          "options": ["96,500 C", "193,000 C", "289,500 C", "386,000 C"],
+          "answer": "3",
+          "explanation": "Each Cu needs 2 electrons, so 2 mol Cu needs 4 mol of electrons: charge = 4 x 96,500 = 386,000 C."
+        },
+        {
+          "topic": "Reactivity and extraction",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which method is used to extract a very reactive metal such as sodium from its molten compound?",
+          "options": ["Reduction with carbon", "Electrolysis", "Heating in air", "Reduction with hydrogen"],
+          "answer": "1",
+          "explanation": "Very reactive metals like sodium hold their compounds too strongly for carbon reduction, so they are extracted by electrolysis of the molten compound."
+        },
+        {
+          "topic": "Contact process",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In the Contact process, the catalyst used to convert SO2 to SO3 (2 SO2 + O2 -> 2 SO3) is:",
+          "options": ["Iron", "Nickel", "Vanadium(V) oxide", "Platinum only"],
+          "answer": "2",
+          "explanation": "The Contact process uses vanadium(V) oxide (V2O5) as the catalyst for the conversion of SO2 to SO3."
+        },
+        {
+          "topic": "Removing impurities in iron extraction",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Limestone (CaCO3) is added to the blast furnace mainly to:",
+          "options": ["Reduce the iron oxide", "Remove sandy (silica) impurities as slag", "Act as the fuel", "Lower the temperature"],
+          "answer": "1",
+          "explanation": "Limestone decomposes to CaO, which reacts with silica impurities to form molten slag (calcium silicate) that is removed."
+        },
+        {
+          "topic": "Extraction stoichiometry",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Using Fe2O3 + 3 CO -> 2 Fe + 3 CO2, how many moles of iron are produced from 2 moles of Fe2O3?",
+          "options": ["2 moles", "3 moles", "4 moles", "6 moles"],
+          "answer": "2",
+          "explanation": "The ratio is 1 Fe2O3 to 2 Fe, so 2 moles of Fe2O3 produce 2 x 2 = 4 moles of iron."
+        },
+        {
+          "topic": "Monomers of natural polymers",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Proteins are natural polymers built from monomers called:",
+          "options": ["Glucose units", "Amino acids", "Nucleotides", "Fatty acids"],
+          "answer": "1",
+          "explanation": "Proteins are polymers of amino acids joined by peptide bonds."
+        },
+        {
+          "topic": "Addition polymerization",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which feature of a monomer shows that it will join by addition polymerization?",
+          "options": ["It contains an -OH group", "It contains a carbon-carbon double bond", "It contains two -COOH groups", "It releases water when reacting"],
+          "answer": "1",
+          "explanation": "Addition polymerization occurs when monomers contain a carbon-carbon double bond (C=C) that opens up to link the units with no atoms lost."
+        },
+        {
+          "topic": "Condensation polymers",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Nylon is formed from a diamine and a dicarboxylic acid. This is an example of:",
+          "options": ["Addition polymerization with no by-product", "Condensation polymerization releasing water", "Addition polymerization releasing HCl", "Hydrolysis of a polymer"],
+          "answer": "1",
+          "explanation": "The two reactive end groups (-NH2 and -COOH) join and release a small molecule of water at each link, which is condensation polymerization."
+        },
+        {
+          "topic": "Thermosetting polymers",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Bakelite, once moulded and set, cannot be softened or remoulded by heating. This behaviour means Bakelite is:",
+          "options": ["A thermoplastic", "A thermosetting polymer", "A natural polymer", "An addition polymer that melts"],
+          "answer": "1",
+          "explanation": "Thermosetting polymers form permanent cross-links when first set, so they cannot be re-melted or remoulded, unlike thermoplastics."
+        }
+      ]
+    }
+  ]
+}

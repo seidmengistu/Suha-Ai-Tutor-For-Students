@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 8,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "going to (future)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Selam has bought paint and brushes. What is she going to do? Choose the best sentence.",
+          "options": [
+            "She is going to paint her room.",
+            "She going to paint her room.",
+            "She is go to paint her room.",
+            "She are going to paint her room."
+          ],
+          "answer": "0",
+          "explanation": "'going to' for a plan needs be + going to + base verb. 'She' takes 'is', so 'She is going to paint her room.'"
+        },
+        {
+          "topic": "Simple present tense",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which sentence correctly describes a daily habit?",
+          "options": [
+            "My brother brushing his teeth every morning.",
+            "My brother brush his teeth every morning.",
+            "My brother brushes his teeth every morning.",
+            "My brother are brush his teeth every morning."
+          ],
+          "answer": "2",
+          "explanation": "'My brother' is third person singular, so the verb adds -es: brushes. The simple present is used for daily habits."
+        },
+        {
+          "topic": "Comparative adjectives",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: 'A river is ____ than a small stream.'",
+          "options": [
+            "more wide",
+            "widest",
+            "wider",
+            "more wider"
+          ],
+          "answer": "2",
+          "explanation": "'Wide' is a short adjective, so the comparative adds -r: wider. We use 'than' to compare two things."
+        },
+        {
+          "topic": "Superlative adjectives",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": [
+            "The Blue Nile is the longest river in the country.",
+            "The Blue Nile is the longer river in the country.",
+            "The Blue Nile is longest river in the country.",
+            "The Blue Nile is the most long river in the country."
+          ],
+          "answer": "0",
+          "explanation": "'Long' is a short adjective, so the superlative is 'longest', and superlatives always take 'the': the longest river."
+        },
+        {
+          "topic": "Past simple (regular verbs)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: 'Last Sunday the children ____ a kite in the field.'",
+          "options": [
+            "fly",
+            "flies",
+            "flyed",
+            "flew"
+          ],
+          "answer": "3",
+          "explanation": "'Fly' is an irregular verb, so its past simple is 'flew', not 'flyed'. 'Last Sunday' shows a finished past action."
+        },
+        {
+          "topic": "Modal verbs (should)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Your friend has a toothache. Which sentence gives good advice?",
+          "options": [
+            "You should to see a dentist.",
+            "You should sees a dentist.",
+            "You should seeing a dentist.",
+            "You should see a dentist."
+          ],
+          "answer": "3",
+          "explanation": "After the modal 'should' we use the base verb with no 'to' and no -s: 'You should see a dentist.'"
+        },
+        {
+          "topic": "Vocabulary (health)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Keeping yourself and your surroundings clean to stay healthy is called:",
+          "options": [
+            "hygiene",
+            "harvest",
+            "scenery",
+            "income"
+          ],
+          "answer": "0",
+          "explanation": "'Hygiene' means keeping yourself and your surroundings clean to stay healthy."
+        },
+        {
+          "topic": "Countable/uncountable nouns",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of these is a countable noun?",
+          "options": [
+            "banana",
+            "rice",
+            "honey",
+            "milk"
+          ],
+          "answer": "0",
+          "explanation": "'Banana' can be counted and made plural (one banana, two bananas), so it is countable. Rice, honey and milk are uncountable."
+        },
+        {
+          "topic": "First conditional",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which first conditional sentence about tomorrow's weather is correct?",
+          "options": [
+            "If it will rain tomorrow, we will stay at home.",
+            "If it rains tomorrow, we will stay at home.",
+            "If it rains tomorrow, we stay at home.",
+            "If it rained tomorrow, we will stay at home."
+          ],
+          "answer": "1",
+          "explanation": "The first conditional is 'If + present, ... will + verb'. After 'if' we use the present tense, so 'If it rains tomorrow, we will stay at home.'"
+        },
+        {
+          "topic": "will (simple future)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Your bag looks heavy. Which sentence is a polite offer of help?",
+          "options": [
+            "I am carrying it for you.",
+            "I will carry it for you.",
+            "I carry it for you.",
+            "I carried it for you."
+          ],
+          "answer": "1",
+          "explanation": "We use 'will' for an offer or a decision made at the moment of speaking: 'I will carry it for you.'"
+        },
+        {
+          "topic": "Comparative (not as ... as)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Rewrite 'The countryside is quieter than the city' using 'as ... as'. Choose the best option.",
+          "options": [
+            "The city is as quiet as the countryside.",
+            "The city is not as quiet as the countryside.",
+            "The city is not quieter as the countryside.",
+            "The city is so quiet as the countryside."
+          ],
+          "answer": "1",
+          "explanation": "'The countryside is quieter' means the city is less quiet. The negative 'not as ... as' shows this: 'The city is not as quiet as the countryside.'"
+        },
+        {
+          "topic": "Connectors of contrast",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the best connector: 'The town has many shops, ____ my village has only one.'",
+          "options": [
+            "so",
+            "because",
+            "while",
+            "therefore"
+          ],
+          "answer": "2",
+          "explanation": "'While' shows a contrast between two different ideas. 'So', 'because' and 'therefore' show reason or result, not contrast."
+        },
+        {
+          "topic": "Past simple questions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which question is grammatically correct?",
+          "options": [
+            "Where did the team played their match?",
+            "Where the team did play their match?",
+            "Where did the team play their match?",
+            "Where did the team playing their match?"
+          ],
+          "answer": "2",
+          "explanation": "After 'did' we use the base verb (play), not the past form (played) or -ing: 'Where did the team play their match?'"
+        },
+        {
+          "topic": "Adverbs of manner",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Make an adverb: 'The runner trained ____ for the marathon.'",
+          "options": [
+            "serious",
+            "seriously",
+            "seriousness",
+            "more serious"
+          ],
+          "answer": "1",
+          "explanation": "We need an adverb to describe how he trained. The adverb of 'serious' is 'seriously' (adjective + -ly)."
+        },
+        {
+          "topic": "Negative imperatives",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete the warning sign: '____ near the open fire.'",
+          "options": [
+            "No play",
+            "Don't play",
+            "Not play",
+            "Doesn't play"
+          ],
+          "answer": "1",
+          "explanation": "A negative imperative is formed with 'Don't' + base verb: 'Don't play near the open fire.'"
+        },
+        {
+          "topic": "Passive voice (present)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Make this passive: 'People speak Amharic in many regions.' Choose the best sentence.",
+          "options": [
+            "Amharic speaks in many regions.",
+            "Amharic is speak in many regions.",
+            "Amharic is spoken in many regions.",
+            "Amharic spoken in many regions."
+          ],
+          "answer": "2",
+          "explanation": "The present passive is 'be + past participle'. The past participle of 'speak' is 'spoken', so: 'Amharic is spoken in many regions.'"
+        },
+        {
+          "topic": "Quantifiers (much/many)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'There aren't ____ chairs in the classroom.'",
+          "options": [
+            "much",
+            "many",
+            "a little",
+            "amount of"
+          ],
+          "answer": "1",
+          "explanation": "'Chairs' is a countable plural noun, so we use 'many': 'There aren't many chairs.'"
+        },
+        {
+          "topic": "for vs since",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'My uncle has worked on the coffee farm ____ five years.'",
+          "options": [
+            "since",
+            "for",
+            "from",
+            "during"
+          ],
+          "answer": "1",
+          "explanation": "'Five years' is a length of time, so we use 'for'. We use 'since' with a starting point such as 'since 2019'."
+        },
+        {
+          "topic": "Sequence connectors",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the best word to begin a set of instructions: '____, wash your hands with soap and water.'",
+          "options": [
+            "Finally",
+            "However",
+            "First",
+            "Although"
+          ],
+          "answer": "2",
+          "explanation": "'First' shows the opening step in a sequence of instructions. 'Finally' is the last step, while 'however' and 'although' do not show order."
+        },
+        {
+          "topic": "Vocabulary (coffee)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In a text about trade, to 'export' a product means to:",
+          "options": [
+            "store it in a warehouse",
+            "grow it on a small farm",
+            "sell and send it to another country",
+            "throw it away as waste"
+          ],
+          "answer": "2",
+          "explanation": "'Export' means to sell and send goods to another country, such as Ethiopia exporting coffee."
+        },
+        {
+          "topic": "Present perfect (form)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which present perfect sentence is completely correct?",
+          "options": [
+            "She has wrote three letters today.",
+            "She have written three letters today.",
+            "She has write three letters today.",
+            "She has written three letters today."
+          ],
+          "answer": "3",
+          "explanation": "The present perfect is 'have/has + past participle'. 'She' takes 'has', and the past participle of 'write' is 'written'."
+        },
+        {
+          "topic": "Articles (a/an)",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which sentence uses the article correctly?",
+          "options": [
+            "My father is a honest farmer.",
+            "My father is honest farmer.",
+            "My father is an honest farmer.",
+            "My father is the honest farmer."
+          ],
+          "answer": "2",
+          "explanation": "'Honest' begins with a silent 'h', so the word starts with a vowel sound. We use 'an' before a vowel sound: 'an honest farmer.'"
+        },
+        {
+          "topic": "Subject-verb agreement",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which sentence has correct subject-verb agreement?",
+          "options": [
+            "Each of the students have a notebook.",
+            "Each of the students are having a notebook.",
+            "Each of the students has a notebook.",
+            "Each of the students have got notebooks."
+          ],
+          "answer": "2",
+          "explanation": "'Each' is singular, so it takes a singular verb: 'Each of the students has a notebook.' The phrase 'of the students' does not change the verb."
+        },
+        {
+          "topic": "Relative pronouns",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct relative pronoun: 'The athlete ____ won the race is from Ethiopia.'",
+          "options": [
+            "who",
+            "which",
+            "whose",
+            "where"
+          ],
+          "answer": "0",
+          "explanation": "We use 'who' to refer to a person. 'Which' is for things, 'whose' shows possession, and 'where' refers to a place."
+        },
+        {
+          "topic": "Reported speech",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Report this: She said, 'I am tired.' Choose the best option.",
+          "options": [
+            "She said that she is tired.",
+            "She said that she was tired.",
+            "She said that I was tired.",
+            "She said that she are tired."
+          ],
+          "answer": "1",
+          "explanation": "In reported speech the present 'am' moves back to the past 'was', and 'I' changes to 'she': 'She said that she was tired.'"
+        },
+        {
+          "topic": "Phrasal verbs",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the best phrasal verb: 'Please ____ the lights before you leave the room.'",
+          "options": [
+            "turn off",
+            "turn into",
+            "turn up",
+            "look after"
+          ],
+          "answer": "0",
+          "explanation": "'Turn off' means to stop a machine or light from working. 'Turn off the lights' means to switch them off."
+        },
+        {
+          "topic": "Confusing words (its/it's)",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which sentence uses 'its' / 'it's' correctly?",
+          "options": [
+            "The dog wagged it's tail happily.",
+            "The dog wagged its' tail happily.",
+            "The dog wagged its tail happily.",
+            "The dog wagged it is tail happily."
+          ],
+          "answer": "2",
+          "explanation": "'Its' is the possessive form (belonging to it). 'It's' means 'it is'. The dog owns the tail, so we use 'its'."
+        },
+        {
+          "topic": "Past continuous tense",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'While I ____ my homework, the lights went out.'",
+          "options": [
+            "do",
+            "did",
+            "have done",
+            "was doing"
+          ],
+          "answer": "3",
+          "explanation": "The past continuous (was/were + -ing) shows an action in progress when another action interrupted it: 'While I was doing my homework, the lights went out.'"
+        },
+        {
+          "topic": "Prepositions of place",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct preposition: 'The pen is ____ the table and the book.'",
+          "options": [
+            "among",
+            "between",
+            "into",
+            "above"
+          ],
+          "answer": "1",
+          "explanation": "We use 'between' for two things and 'among' for three or more. Here there are two things (the table and the book), so 'between' is correct."
+        },
+        {
+          "topic": "Word formation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct noun form: 'The athlete trained with great ____.'",
+          "options": [
+            "determine",
+            "determined",
+            "determination",
+            "determinedly"
+          ],
+          "answer": "2",
+          "explanation": "After 'great' we need a noun. The noun form of 'determine' is 'determination'. The others are a verb, an adjective and an adverb."
+        },
+        {
+          "topic": "Question tags",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Add the correct question tag: 'They have finished the project, ____'",
+          "options": [
+            "haven't they?",
+            "didn't they?",
+            "don't they?",
+            "have they?"
+          ],
+          "answer": "0",
+          "explanation": "A positive statement takes a negative tag, and the tag repeats the auxiliary. The auxiliary is 'have', so the tag is 'haven't they?'"
+        },
+        {
+          "topic": "Conditionals and modals (mixed)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which health-advice sentence is completely correct in grammar?",
+          "options": [
+            "If you want to stay healthy, you should to eat a balanced diet.",
+            "If you will want to stay healthy, you should eat a balanced diet.",
+            "If you want to stay healthy, you should eats a balanced diet.",
+            "If you want to stay healthy, you should eat a balanced diet."
+          ],
+          "answer": "3",
+          "explanation": "After 'if' we use the present tense (want), and after the modal 'should' we use the base verb with no 'to': 'should eat'. So the last option is correct."
+        },
+        {
+          "topic": "Mixed tenses (present perfect and past simple)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence that is completely correct.",
+          "options": [
+            "I have met him last year when he has visited our school.",
+            "I met him last year when he visited our school.",
+            "I have met him last year when he visited our school.",
+            "I met him last year when he has visited our school."
+          ],
+          "answer": "1",
+          "explanation": "Both actions happened at a finished past time ('last year'), so both verbs use the past simple: 'I met him last year when he visited our school.'"
+        },
+        {
+          "topic": "Passive and quantifiers (mixed)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which sentence about growing rice is grammatically correct?",
+          "options": [
+            "Much rice are grown in the lowland areas.",
+            "Many rice is grown in the lowland areas.",
+            "A lot of rice is grown in the lowland areas.",
+            "A lot of rice are grown in the lowland areas."
+          ],
+          "answer": "2",
+          "explanation": "'Rice' is uncountable, so it takes 'is' and works with 'a lot of' (not 'many'). The passive needs 'grown': 'A lot of rice is grown...'"
+        },
+        {
+          "topic": "Punctuation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which sentence is punctuated correctly?",
+          "options": [
+            "My sister who lives in Adama is a nurse.",
+            "My sister, who lives in Adama, is a nurse.",
+            "My sister who lives in Adama, is a nurse.",
+            "My sister, who lives in Adama is a nurse."
+          ],
+          "answer": "1",
+          "explanation": "The clause 'who lives in Adama' gives extra, non-essential information, so it is set off by a pair of commas on both sides."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read: 'Although the medicine was bitter, the patient took it without complaining, for she was determined to recover.' What does 'determined' suggest about the patient?",
+          "options": [
+            "She was afraid of the medicine.",
+            "She had a strong wish to get better.",
+            "She did not care about her health.",
+            "She refused to take the medicine."
+          ],
+          "answer": "1",
+          "explanation": "Being 'determined to recover' and taking the bitter medicine without complaining shows she had a strong wish to get better."
+        }
+      ]
+    }
+  ]
+}

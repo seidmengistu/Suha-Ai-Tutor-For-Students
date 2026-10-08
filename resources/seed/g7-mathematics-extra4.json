@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 7,
+      "subjectKey": "mathematics",
+      "questions": [
+        {
+          "topic": "Rational Numbers: opposite",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the opposite of $-\\dfrac{5}{8}$?",
+          "options": ["$\\dfrac{8}{5}$", "$\\dfrac{5}{8}$", "$-\\dfrac{8}{5}$", "$0$"],
+          "answer": "1",
+          "explanation": "The opposite of a number changes only its sign, so the opposite of $-\\dfrac{5}{8}$ is $\\dfrac{5}{8}$."
+        },
+        {
+          "topic": "Rational Numbers: integers as fractions",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which fraction is equal to the integer $-7$?",
+          "options": ["$-\\dfrac{1}{7}$", "$\\dfrac{7}{1}$", "$-\\dfrac{7}{1}$", "$\\dfrac{1}{7}$"],
+          "answer": "2",
+          "explanation": "Any integer can be written over $1$, so $-7 = -\\dfrac{7}{1}$."
+        },
+        {
+          "topic": "Rational Numbers: absolute value",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the value of $\\left|-\\dfrac{9}{7}\\right| - 1$?",
+          "options": ["$-\\dfrac{9}{7}$", "$\\dfrac{7}{9}$", "$0$", "$\\dfrac{2}{7}$"],
+          "answer": "3",
+          "explanation": "Absolute value is never negative, so $\\left|-\\dfrac{9}{7}\\right| = \\dfrac{9}{7}$. Then $\\dfrac{9}{7} - 1 = \\dfrac{9}{7} - \\dfrac{7}{7} = \\dfrac{2}{7}$."
+        },
+        {
+          "topic": "Rational Numbers: comparing two negatives",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which symbol makes this true: $-\\dfrac{4}{9}\\ \\square\\ -\\dfrac{7}{9}$?",
+          "options": ["$<$", "$>$", "$=$", "none"],
+          "answer": "1",
+          "explanation": "With the same denominator, $-\\dfrac{4}{9}$ is closer to zero than $-\\dfrac{7}{9}$, so it is larger: $-\\dfrac{4}{9} > -\\dfrac{7}{9}$."
+        },
+        {
+          "topic": "Rational Numbers: adding fractions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Calculate $\\dfrac{3}{8} + \\dfrac{1}{6}$.",
+          "options": ["$\\dfrac{4}{14}$", "$\\dfrac{1}{2}$", "$\\dfrac{4}{24}$", "$\\dfrac{13}{24}$"],
+          "answer": "3",
+          "explanation": "The lowest common denominator of $8$ and $6$ is $24$: $\\dfrac{9}{24} + \\dfrac{4}{24} = \\dfrac{13}{24}$."
+        },
+        {
+          "topic": "Rational Numbers: subtracting fractions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Calculate $\\dfrac{7}{8} - \\dfrac{5}{12}$.",
+          "options": ["$\\dfrac{2}{4}$", "$\\dfrac{13}{24}$", "$\\dfrac{2}{24}$", "$\\dfrac{11}{24}$"],
+          "answer": "3",
+          "explanation": "The lowest common denominator of $8$ and $12$ is $24$: $\\dfrac{21}{24} - \\dfrac{10}{24} = \\dfrac{11}{24}$."
+        },
+        {
+          "topic": "Rational Numbers: multiplying with a negative",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Calculate $\\left(-\\dfrac{4}{7}\\right) \\times \\dfrac{5}{6}$.",
+          "options": ["$-\\dfrac{20}{42}$", "$\\dfrac{10}{21}$", "$-\\dfrac{9}{13}$", "$-\\dfrac{10}{21}$"],
+          "answer": "3",
+          "explanation": "Multiply across: $\\dfrac{-4 \\times 5}{7 \\times 6} = \\dfrac{-20}{42} = -\\dfrac{10}{21}$ after simplifying by $2$."
+        },
+        {
+          "topic": "Rational Numbers: dividing fractions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Calculate $\\dfrac{5}{12} \\div \\dfrac{10}{3}$.",
+          "options": ["$\\dfrac{1}{8}$", "$\\dfrac{50}{36}$", "$\\dfrac{8}{1}$", "$\\dfrac{25}{18}$"],
+          "answer": "0",
+          "explanation": "Multiply by the reciprocal: $\\dfrac{5}{12} \\times \\dfrac{3}{10} = \\dfrac{15}{120} = \\dfrac{1}{8}$."
+        },
+        {
+          "topic": "Rational Numbers: order of operations",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Evaluate $\\dfrac{1}{2} + \\dfrac{2}{3} \\times \\dfrac{3}{8}$.",
+          "options": ["$\\dfrac{7}{16}$", "$\\dfrac{3}{4}$", "$\\dfrac{17}{24}$", "$\\dfrac{1}{2}$"],
+          "answer": "1",
+          "explanation": "Multiply first: $\\dfrac{2}{3} \\times \\dfrac{3}{8} = \\dfrac{6}{24} = \\dfrac{1}{4}$. Then $\\dfrac{1}{2} + \\dfrac{1}{4} = \\dfrac{3}{4}$."
+        },
+        {
+          "topic": "Rational Numbers: mixed-number subtraction",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Calculate $3\\dfrac{1}{4} - 1\\dfrac{2}{3}$.",
+          "options": ["$2\\dfrac{1}{12}$", "$1\\dfrac{7}{12}$", "$1\\dfrac{5}{12}$", "$2\\dfrac{7}{12}$"],
+          "answer": "1",
+          "explanation": "Write as improper fractions: $\\dfrac{13}{4} - \\dfrac{5}{3} = \\dfrac{39}{12} - \\dfrac{20}{12} = \\dfrac{19}{12} = 1\\dfrac{7}{12}$."
+        },
+        {
+          "topic": "Rational Numbers: real-life division",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A water pipe $\\dfrac{6}{7}$ m long is cut into pieces each $\\dfrac{2}{21}$ m long. How many pieces are there?",
+          "options": ["$7$", "$9$", "$12$", "$3$"],
+          "answer": "1",
+          "explanation": "Divide the total by the piece length: $\\dfrac{6}{7} \\div \\dfrac{2}{21} = \\dfrac{6}{7} \\times \\dfrac{21}{2} = \\dfrac{126}{14} = 9$ pieces."
+        },
+        {
+          "topic": "Linear Equations: one-step multiplication",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Solve $9x = 72$.",
+          "options": ["$x = 9$", "$x = 8$", "$x = 81$", "$x = 63$"],
+          "answer": "1",
+          "explanation": "Divide both sides by $9$: $x = \\dfrac{72}{9} = 8$."
+        },
+        {
+          "topic": "Linear Inequalities: one-step",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Solve the inequality $x + 6 \\leq 10$.",
+          "options": ["$x \\leq 16$", "$x \\geq 4$", "$x \\leq 4$", "$x < 4$"],
+          "answer": "2",
+          "explanation": "Subtract $6$ from both sides (the sign stays the same): $x \\leq 4$."
+        },
+        {
+          "topic": "Linear Equations: two-step with addition",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Solve $5x + 8 = 43$.",
+          "options": ["$x = 7$", "$x = 35$", "$x = 9$", "$x = 5$"],
+          "answer": "0",
+          "explanation": "Subtract $8$: $5x = 35$. Divide by $5$: $x = 7$."
+        },
+        {
+          "topic": "Linear Equations: variable on both sides",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Solve $8x - 5 = 3x + 20$.",
+          "options": ["$x = 3$", "$x = 25$", "$x = 5$", "$x = 15$"],
+          "answer": "2",
+          "explanation": "Subtract $3x$: $5x - 5 = 20$. Add $5$: $5x = 25$. Divide by $5$: $x = 5$."
+        },
+        {
+          "topic": "Linear Equations: fractional coefficient",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Solve $\\dfrac{x}{6} = 7$.",
+          "options": ["$x = 13$", "$x = \\dfrac{6}{7}$", "$x = 1$", "$x = 42$"],
+          "answer": "3",
+          "explanation": "Multiply both sides by $6$: $x = 7 \\times 6 = 42$."
+        },
+        {
+          "topic": "Linear Equations: with brackets",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Solve $5(x - 4) = 35$.",
+          "options": ["$x = 7$", "$x = 3$", "$x = 39$", "$x = 11$"],
+          "answer": "3",
+          "explanation": "Expand: $5x - 20 = 35$. Add $20$: $5x = 55$. Divide by $5$: $x = 11$."
+        },
+        {
+          "topic": "Linear Inequalities: divide by a negative",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Solve the inequality $-6x + 2 \\geq 26$.",
+          "options": ["$x \\geq -4$", "$x \\leq -4$", "$x \\leq 4$", "$x \\geq 4$"],
+          "answer": "1",
+          "explanation": "Subtract $2$: $-6x \\geq 24$. Divide by $-6$ and flip the sign: $x \\leq -4$."
+        },
+        {
+          "topic": "Linear Equations: brackets both sides",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Solve $3(x + 5) = 4(x - 2)$.",
+          "options": ["$x = 7$", "$x = -23$", "$x = 23$", "$x = 13$"],
+          "answer": "2",
+          "explanation": "Expand both sides: $3x + 15 = 4x - 8$. Subtract $3x$: $15 = x - 8$. Add $8$: $x = 23$."
+        },
+        {
+          "topic": "Linear Equations: word problem",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "An electrician charges a fixed $40$ birr call-out fee plus $25$ birr per hour. If the total bill is $190$ birr, how many hours did the job take?",
+          "options": ["$5$ hours", "$8$ hours", "$7$ hours", "$6$ hours"],
+          "answer": "3",
+          "explanation": "The equation is $40 + 25h = 190$. So $25h = 150$ and $h = 6$ hours."
+        },
+        {
+          "topic": "Ratio: simplifying",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Simplify the ratio $21 : 28$.",
+          "options": ["$3 : 5$", "$7 : 4$", "$4 : 3$", "$3 : 4$"],
+          "answer": "3",
+          "explanation": "Divide both parts by their common factor $7$: $21 \\div 7 = 3$ and $28 \\div 7 = 4$, giving $3 : 4$."
+        },
+        {
+          "topic": "Percentage: percent to decimal",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Write $6\\%$ as a decimal.",
+          "options": ["$0.6$", "$0.06$", "$6.0$", "$0.006$"],
+          "answer": "1",
+          "explanation": "Percent means out of $100$, so divide by $100$: $6 \\div 100 = 0.06$."
+        },
+        {
+          "topic": "Percentage: of a quantity",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "What is $65\\%$ of $240$ birr?",
+          "options": ["$156$ birr", "$84$ birr", "$160$ birr", "$150$ birr"],
+          "answer": "0",
+          "explanation": "$65\\% = 0.65$, and \"of\" means multiply: $0.65 \\times 240 = 156$ birr."
+        },
+        {
+          "topic": "Proportion: cross-multiplication",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Solve the proportion $\\dfrac{7}{9} = \\dfrac{x}{63}$.",
+          "options": ["$x = 45$", "$x = 56$", "$x = 49$", "$x = 81$"],
+          "answer": "2",
+          "explanation": "Cross-multiply: $9x = 7 \\times 63 = 441$, so $x = \\dfrac{441}{9} = 49$."
+        },
+        {
+          "topic": "Ratio: sharing in a given ratio",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "$5{,}600$ birr is shared between two cousins in the ratio $3 : 5$. How much does the cousin with the larger share receive?",
+          "options": ["$2{,}100$ birr", "$2{,}800$ birr", "$3{,}000$ birr", "$3{,}500$ birr"],
+          "answer": "3",
+          "explanation": "There are $3 + 5 = 8$ parts. Each part is $5{,}600 \\div 8 = 700$ birr. The larger share is $5 \\times 700 = 3{,}500$ birr."
+        },
+        {
+          "topic": "Proportion: unit rate",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A printing machine prints $1{,}200$ pages in $8$ minutes. At the same rate, how many pages does it print in $15$ minutes?",
+          "options": ["$1{,}800$ pages", "$2{,}000$ pages", "$2{,}250$ pages", "$2{,}400$ pages"],
+          "answer": "2",
+          "explanation": "The rate is $1{,}200 \\div 8 = 150$ pages per minute. In $15$ minutes it prints $150 \\times 15 = 2{,}250$ pages."
+        },
+        {
+          "topic": "Percentage: finding the whole",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "$35\\%$ of a number is $70$. What is the number?",
+          "options": ["$200$", "$24.5$", "$105$", "$245$"],
+          "answer": "0",
+          "explanation": "If $0.35 \\times n = 70$, then $n = \\dfrac{70}{0.35} = 200$."
+        },
+        {
+          "topic": "Percentage: percentage increase",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The price of a litre of cooking oil rose from $80$ birr to $92$ birr. What is the percentage increase?",
+          "options": ["$12\\%$", "$13\\%$", "$20\\%$", "$15\\%$"],
+          "answer": "3",
+          "explanation": "The increase is $92 - 80 = 12$ birr. As a percentage of the original: $\\dfrac{12}{80} \\times 100 = 15\\%$."
+        },
+        {
+          "topic": "Percentage: discount word problem",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A jacket marked $1{,}250$ birr is sold at an $18\\%$ discount. What is the sale price?",
+          "options": ["$1{,}025$ birr", "$225$ birr", "$1{,}232$ birr", "$1{,}050$ birr"],
+          "answer": "0",
+          "explanation": "The discount is $0.18 \\times 1{,}250 = 225$ birr, so the sale price is $1{,}250 - 225 = 1{,}025$ birr."
+        },
+        {
+          "topic": "Data Handling: mean",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Find the mean of $9, 12, 6, 13$.",
+          "options": ["$40$", "$10$", "$9$", "$12$"],
+          "answer": "1",
+          "explanation": "Add them: $9 + 12 + 6 + 13 = 40$, then divide by $4$ values: $40 \\div 4 = 10$."
+        },
+        {
+          "topic": "Data Handling: range",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the range of $23, 8, 19, 5, 14$?",
+          "options": ["$15$", "$23$", "$5$", "$18$"],
+          "answer": "3",
+          "explanation": "Range = largest $-$ smallest = $23 - 5 = 18$."
+        },
+        {
+          "topic": "Data Handling: median (odd set)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Find the median of $17, 6, 22, 9, 14, 3, 11$.",
+          "options": ["$9$", "$14$", "$11$", "$12$"],
+          "answer": "2",
+          "explanation": "Order the data: $3, 6, 9, 11, 14, 17, 22$. The middle (4th of 7) value is $11$."
+        },
+        {
+          "topic": "Data Handling: median (even set)",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Find the median of $20, 9, 15, 6$.",
+          "options": ["$15$", "$12$", "$9$", "$11$"],
+          "answer": "1",
+          "explanation": "Order the data: $6, 9, 15, 20$. The two middle values are $9$ and $15$; their mean is $\\dfrac{9 + 15}{2} = 12$."
+        },
+        {
+          "topic": "Data Handling: mean from a total",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "The mean of five numbers is $18$. Four of the numbers are $15, 22, 11$ and $20$. What is the fifth number?",
+          "options": ["$22$", "$68$", "$90$", "$17$"],
+          "answer": "0",
+          "explanation": "The total of all five is $18 \\times 5 = 90$. The four known numbers add to $68$, so the fifth is $90 - 68 = 22$."
+        },
+        {
+          "topic": "Geometry: triangle angle sum",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Two angles of a triangle are $48^\\circ$ and $67^\\circ$. What is the third angle?",
+          "options": ["$55^\\circ$", "$75^\\circ$", "$115^\\circ$", "$65^\\circ$"],
+          "answer": "3",
+          "explanation": "The angles add to $180^\\circ$, so the third angle $= 180^\\circ - (48^\\circ + 67^\\circ) = 180^\\circ - 115^\\circ = 65^\\circ$."
+        },
+        {
+          "topic": "Geometry: area of a circle",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Find the area of a circle with radius $21$ cm (use $\\pi \\approx \\dfrac{22}{7}$).",
+          "options": ["$132$ cm²", "$1386$ cm²", "$693$ cm²", "$441$ cm²"],
+          "answer": "1",
+          "explanation": "Area $= \\pi r^2 = \\dfrac{22}{7} \\times 21 \\times 21 = \\dfrac{22}{7} \\times 441 = 22 \\times 63 = 1386$ cm²."
+        }
+      ]
+    }
+  ]
+}

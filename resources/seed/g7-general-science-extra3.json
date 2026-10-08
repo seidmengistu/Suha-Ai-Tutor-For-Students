@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 7,
+      "subjectKey": "general-science",
+      "questions": [
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A person who designs and builds useful machines by applying scientific knowledge is called a:",
+          "options": ["Technologist", "Librarian", "Historian", "Farmer"],
+          "answer": "0",
+          "explanation": "A technologist is a person who studies and makes technology, using scientific knowledge to build useful machines and solutions."
+        },
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which laboratory tool is used to give a flame for heating substances?",
+          "options": ["Petri dish", "Graduated cylinder", "Tongs", "Bunsen burner"],
+          "answer": "3",
+          "explanation": "A Bunsen burner produces a flame and is used for heating substances in the laboratory."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The jelly-like fluid inside a cell where the cell parts float and many reactions happen is the:",
+          "options": ["Nucleus", "Cell wall", "Cytoplasm", "Chloroplast"],
+          "answer": "2",
+          "explanation": "The cytoplasm is the jelly-like fluid that fills the cell, holds the cell parts, and is where many chemical reactions take place."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In the memory word MRS GREN, the letter G stands for which characteristic of living things?",
+          "options": ["Gravity", "Growth", "Gas", "Grouping"],
+          "answer": "1",
+          "explanation": "In MRS GREN, G stands for Growth, the ability of living things to become bigger and more complex over time."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The thin outer layer of the Earth, made of solid rock, on which we live is called the:",
+          "options": ["Core", "Mantle", "Crust", "Atmosphere"],
+          "answer": "2",
+          "explanation": "The crust is the thin, solid, rocky outer layer of the Earth where the land and oceans are found."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Energy that is stored in an object because of its raised position, such as a rock at the top of a hill, is called:",
+          "options": ["Kinetic energy", "Sound energy", "Potential energy", "Light energy"],
+          "answer": "2",
+          "explanation": "Potential energy is stored energy that depends on an object's position, such as a rock held high on a hill."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A push or a pull that can change the motion or shape of an object is called a:",
+          "options": ["Force", "Mass", "Volume", "Distance"],
+          "answer": "0",
+          "explanation": "A force is a push or a pull that can start, stop, speed up, slow down, or change the shape of an object."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following is an example of a physical change?",
+          "options": ["Wood burning to ash", "Iron rusting", "Cutting paper into pieces", "Milk turning sour"],
+          "answer": "2",
+          "explanation": "Cutting paper only changes its form; no new substance is made, so it is a physical change. The others form new substances."
+        },
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The field that combines physics and chemistry to study how energy affects substances is called:",
+          "options": ["Biophysics", "Biochemistry", "Physical chemistry", "Geology"],
+          "answer": "2",
+          "explanation": "Physical chemistry combines physics and chemistry to study the physical behaviour of substances and how energy affects them."
+        },
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which value shows good scientific ethics when a scientist reports results exactly as they were observed, even if surprising?",
+          "options": ["Honesty", "Speed", "Wealth", "Fame"],
+          "answer": "0",
+          "explanation": "Honesty is a key scientific ethic; a scientist must report results truthfully and exactly as observed."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When water vapour in the air cools and turns back into liquid water droplets, the change is called:",
+          "options": ["Melting", "Evaporation", "Freezing", "Condensation"],
+          "answer": "3",
+          "explanation": "Condensation is the change from a gas (water vapour) back to a liquid when it cools, forming droplets."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A mixture of oil and water is left to settle, then the top oil is carefully poured off, leaving the water behind. This method is called:",
+          "options": ["Filtration", "Decantation", "Distillation", "Evaporation"],
+          "answer": "1",
+          "explanation": "Decantation separates substances by pouring off the upper layer of liquid after the heavier part has settled or separated."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which property is typical of a metal element?",
+          "options": ["It is dull and does not conduct electricity", "It is always a gas", "It is shiny and conducts electricity", "It cannot be bent"],
+          "answer": "2",
+          "explanation": "Metals such as iron, copper, and gold are shiny and conduct electricity, unlike most non-metals."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In the formula CaCO₃, the small number 3 written below and to the right of O is called a:",
+          "options": ["Coefficient", "Subscript", "Symbol", "Reactant"],
+          "answer": "1",
+          "explanation": "The small number written below and to the right in a formula is a subscript; it tells how many atoms of that element are present."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When carrying a microscope from one table to another, you should hold it by the:",
+          "options": ["Eyepiece and stage", "Arm and base", "Mirror and clips", "Objective lens"],
+          "answer": "1",
+          "explanation": "A microscope must be carried by holding the arm and supporting the base, to keep it safe and steady."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which part of a microscope controls how much light passes through the specimen?",
+          "options": ["Coarse adjustment knob", "Stage", "Arm", "Diaphragm"],
+          "answer": "3",
+          "explanation": "The diaphragm controls the amount of light that passes up through the specimen, making the image easier to see."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which kingdom contains tiny, single-celled organisms such as bacteria that do NOT have a true nucleus?",
+          "options": ["Protista", "Fungi", "Monera", "Plantae"],
+          "answer": "2",
+          "explanation": "Kingdom Monera contains very small single-celled organisms such as bacteria that lack a true (membrane-bound) nucleus."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A mango tree makes its own food using sunlight. Based on this, it belongs to which kingdom?",
+          "options": ["Animalia", "Fungi", "Plantae", "Monera"],
+          "answer": "2",
+          "explanation": "Plants make their own food by photosynthesis and belong to Kingdom Plantae."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "All the rocks and soil that form the solid land of the Earth make up which part of the Earth system?",
+          "options": ["Hydrosphere", "Atmosphere", "Lithosphere", "Biosphere"],
+          "answer": "2",
+          "explanation": "The lithosphere is the solid part of the Earth, made of rocks and soil, including the crust and upper mantle."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which movement of the Earth is responsible for the changing seasons during the year?",
+          "options": ["Rotation on its axis", "Spinning of the Moon", "Revolution around the Sun with a tilted axis", "The water cycle"],
+          "answer": "2",
+          "explanation": "The Earth's revolution around the Sun, together with its tilted axis, causes different parts to receive more or less sunlight, giving seasons."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A car wheel turning around its centre while the car stays in one spot shows which type of motion?",
+          "options": ["Linear motion", "Oscillatory motion", "Random motion", "Rotational motion"],
+          "answer": "3",
+          "explanation": "Rotational motion is movement around a fixed centre or axis, such as a wheel spinning in place."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which of the following is a renewable source of energy?",
+          "options": ["Coal", "Crude oil", "Sunlight", "Natural gas"],
+          "answer": "2",
+          "explanation": "Sunlight is renewable because it is naturally replaced and will not run out, unlike coal, oil, and natural gas."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A bowl contains a mixture of dry beans and rice that you can clearly see as separate grains. This is best described as a:",
+          "options": ["Homogeneous mixture", "Heterogeneous mixture", "Compound", "Pure substance"],
+          "answer": "1",
+          "explanation": "A heterogeneous mixture has parts you can see separately, like beans and rice mixed together but still visible as different grains."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How many atoms in total are present in one unit of glucose, C₆H₁₂O₆?",
+          "options": ["12", "18", "24", "6"],
+          "answer": "2",
+          "explanation": "Glucose has 6 carbon, 12 hydrogen, and 6 oxygen atoms, giving a total of 6 + 12 + 6 = 24 atoms."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which is the correctly balanced equation for the burning of methane, CH₄, in oxygen?",
+          "options": ["CH₄ + O₂ → CO₂ + H₂O", "CH₄ + O₂ → CO₂ + 2H₂O", "CH₄ + 2O₂ → CO₂ + 2H₂O", "2CH₄ + O₂ → CO₂ + H₂O"],
+          "answer": "2",
+          "explanation": "CH₄ + 2O₂ → CO₂ + 2H₂O has 1 carbon, 4 hydrogen, and 4 oxygen atoms on each side, so it is balanced."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A sealed bottle is half full of water. The water slowly disappears from the bottom and tiny drops appear on the upper inside walls. Which two changes are happening together?",
+          "options": ["Melting then freezing", "Evaporation then condensation", "Filtration then decantation", "Burning then rusting"],
+          "answer": "1",
+          "explanation": "The liquid water evaporates into vapour and then condenses back into droplets on the cooler upper walls of the bottle."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A microscope has an eyepiece of 10× and three objective lenses of 4×, 10×, and 40×. What is the highest total magnification it can give?",
+          "options": ["54 times", "400 times", "140 times", "440 times"],
+          "answer": "1",
+          "explanation": "Total magnification = eyepiece × objective. The highest is 10 × 40 = 400 times."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which statement correctly compares the cell membrane and the cell wall?",
+          "options": ["Both are found only in animal cells", "The membrane is in all cells, but the wall is only in plant cells", "The wall is in all cells, but the membrane is only in plant cells", "Neither controls what enters the cell"],
+          "answer": "1",
+          "explanation": "Every cell has a cell membrane that controls what enters and leaves, but only plant cells have the extra rigid cell wall."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A mushroom cannot make its own food and instead absorbs nutrients from dead matter. Which kingdom does it belong to?",
+          "options": ["Plantae", "Animalia", "Fungi", "Protista"],
+          "answer": "2",
+          "explanation": "Mushrooms are fungi; they cannot make their own food and absorb nutrients from dead or living matter, so they belong to Kingdom Fungi."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "During a clear night, the stars appear to move slowly across the sky from east to west. What actually causes this apparent movement?",
+          "options": ["The stars circling the Earth", "The Earth rotating on its axis", "The Sun pushing the stars", "The Moon blocking the stars"],
+          "answer": "1",
+          "explanation": "The Earth's rotation on its axis makes the sky, including the stars, appear to move from east to west, although it is really the Earth turning."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A boy rubs his cold hands together quickly and they become warm. The main energy change is from:",
+          "options": ["Heat energy to kinetic energy", "Light energy to sound energy", "Chemical energy to light energy", "Kinetic energy to heat energy"],
+          "answer": "3",
+          "explanation": "The movement of the hands (kinetic energy) is changed by friction into heat energy, which warms the hands."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A ball is thrown straight up into the air. At its highest point, just before it starts to fall, what has happened to its energy?",
+          "options": ["All of it is still kinetic energy", "All energy has disappeared", "It has gained new chemical energy", "Most of its kinetic energy has changed into potential energy"],
+          "answer": "3",
+          "explanation": "As the ball rises it slows down, so its kinetic energy is changed into potential energy, which is greatest at the highest point."
+        },
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A scientist observes a problem, asks a question, forms a testable guess, and then does an experiment to check it. The testable guess in this process is the:",
+          "options": ["Conclusion", "Hypothesis", "Observation", "Result"],
+          "answer": "1",
+          "explanation": "In the scientific method, the testable guess made before experimenting is the hypothesis, which the experiment is designed to test."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In a closed jar, 10 g of a substance reacts completely and forms a gas and a solid. According to the law of conservation of mass, the total mass of the gas and solid together is:",
+          "options": ["More than 10 g", "Exactly 10 g", "Less than 10 g", "Zero"],
+          "answer": "1",
+          "explanation": "By the law of conservation of mass, matter is not created or destroyed, so the products must have the same total mass as the reactants, 10 g."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Two cells are compared. Cell X has a nucleus, mitochondria, a cell wall, and chloroplasts. Cell Y has a nucleus and mitochondria but no cell wall and no chloroplasts. Which is true?",
+          "options": ["X is an animal cell and Y is a plant cell", "X is a plant cell and Y is an animal cell", "Both are plant cells", "Both are animal cells"],
+          "answer": "1",
+          "explanation": "A cell with a cell wall and chloroplasts (X) is a plant cell, while a cell with neither (Y) is an animal cell."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A solar panel on a roof powers an electric lamp at night using a battery charged during the day. Trace the main energy changes in the correct order.",
+          "options": ["Sound → electrical → light", "Light → electrical → chemical → electrical → light", "Chemical → light → sound", "Heat → chemical → sound"],
+          "answer": "1",
+          "explanation": "Sunlight (light energy) becomes electrical energy in the panel, is stored as chemical energy in the battery, then becomes electrical energy again, and finally light energy in the lamp."
+        }
+      ]
+    }
+  ]
+}

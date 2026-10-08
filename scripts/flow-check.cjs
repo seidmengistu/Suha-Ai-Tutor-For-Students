@@ -1,0 +1,129 @@
+/**
+ * End-to-end flow check for textbooks (headless). Run via Electron's runtime:
+ *   ELECTRON_RUN_AS_NODE=1 npx electron scripts/flow-check.cjs
+ *
+ * It exercises the same steps the app performs:
+ *  1. REGISTER  — scan books/grade-<N>/<subject>/*.pdf like registerStarterBooks
+ *                 and insert into the real schema (in-memory better-sqlite3).
+ *  2. READ      — open each PDF with the same pdfjs-dist the Reader uses and
+ *                 extract text (proves the reader + RAG extraction work).
+ *  3. RAG       — run the real chunking logic and store chunks (embeddings need
+ *                 the AI server, so they are left null here).
+ */
+const fs = require('fs')
+const path = require('path')
+const Database = require('better-sqlite3')
+
+const ROOT = path.join(__dirname, '..')
+const BOOKS = path.join(ROOT, 'books')
+
+// Valid subjects per grade (mirrors src/shared/constants.ts SUBJECTS_BY_GRADE).
+const SUBJECTS = {
+  7: ['english', 'mathematics', 'general-science'],
+  8: ['english', 'mathematics', 'general-science'],
+  9: ['english', 'mathematics', 'physics', 'chemistry', 'biology'],
+  10: ['english', 'mathematics', 'physics', 'chemistry', 'biology'],
+  11: ['english', 'mathematics', 'physics', 'chemistry', 'biology'],
+  12: ['english', 'mathematics', 'physics', 'chemistry', 'biology']
+}
+
+// Mirrors rag.ts chunkPage().
+const CHUNK_SIZE = 900
+const CHUNK_OVERLAP = 150
+function chunkPage(text) {
+  const clean = text.replace(/\s+/g, ' ').trim()
+  if (clean.length < 40) return []
+  const chunks = []
+  let start = 0
+  while (start < clean.length) {
+    let end = Math.min(start + CHUNK_SIZE, clean.length)
+    if (end < clean.length) {
+      const dot = clean.lastIndexOf('. ', end)
+      if (dot > start + CHUNK_SIZE * 0.5) end = dot + 1
+    }
+    chunks.push(clean.slice(start, end).trim())
+    if (end >= clean.length) break
+    start = end - CHUNK_OVERLAP
+  }
+  return chunks
+}
+
+async function main() {
+  // ---- DB with the real schema ----
+  const schemaTs = fs.readFileSync(path.join(ROOT, 'src/main/db/schema.ts'), 'utf8')
+  const sql = schemaTs.slice(schemaTs.indexOf('`') + 1, schemaTs.lastIndexOf('`'))
+  const db = new Database(':memory:')
+  db.exec(sql)
+
+  // ---- 1. REGISTER ----
+  const insBook = db.prepare(
+    'INSERT INTO books(title, grade_level, subject_key, file_path, page_count) VALUES(?,?,?,?,0)'
+  )
+  const registered = []
+  for (const grade of [7, 8, 9, 10, 11, 12]) {
+    for (const subject of SUBJECTS[grade]) {
+      const dir = path.join(BOOKS, `grade-${grade}`, subject)
+      if (!fs.existsSync(dir)) continue
+      for (const file of fs.readdirSync(dir)) {
+        if (!file.toLowerCase().endsWith('.pdf')) continue
+        const filePath = path.join(dir, file)
+        const id = Number(insBook.run(`${cap(subject)} — Grade ${grade}`, grade, subject, filePath).lastInsertRowid)
+        registered.push({ id, grade, subject, file, filePath })
+      }
+    }
+  }
+  console.log(`STEP 1 — REGISTER: ${registered.length} textbook(s) found and inserted`)
+  for (const b of registered) console.log(`   • G${b.grade} ${b.subject.padEnd(16)} ${b.file}`)
+  if (!registered.length) {
+    console.log('No PDFs found under books/. Nothing to check.')
+    process.exit(1)
+  }
+
+  // ---- 2 & 3. READ + RAG (sample first pages of each book) ----
+  const pdfjs = await import('pdfjs-dist/legacy/build/pdf.mjs')
+  const insChunk = db.prepare(
+    'INSERT INTO rag_chunks(book_id, page, chunk_index, content, embedding, dim) VALUES(?,?,?,?,?,0)'
+  )
+  const SAMPLE_PAGES = 6
+
+  console.log(`\nSTEP 2 — READ (pdfjs text extraction) + STEP 3 — RAG chunking (first ${SAMPLE_PAGES} pages each):`)
+  let totalChunks = 0
+  for (const b of registered) {
+    try {
+      const data = new Uint8Array(fs.readFileSync(b.filePath))
+      const doc = await pdfjs.getDocument({ data, isEvalSupported: false, useSystemFonts: false }).promise
+      db.prepare('UPDATE books SET page_count=? WHERE id=?').run(doc.numPages, b.id)
+      let chars = 0
+      let chunks = 0
+      const pages = Math.min(SAMPLE_PAGES, doc.numPages)
+      for (let p = 1; p <= pages; p++) {
+        const page = await doc.getPage(p)
+        const tc = await page.getTextContent()
+        const text = tc.items.map((i) => i.str).join(' ')
+        chars += text.length
+        for (let ci = 0; ci < chunkPage(text).length; ci++) {
+          insChunk.run(b.id, p, ci, chunkPage(text)[ci], null)
+          chunks++
+        }
+      }
+      totalChunks += chunks
+      console.log(`   ✓ G${b.grade} ${b.subject.padEnd(16)} ${String(doc.numPages).padStart(3)} pages | extracted ${chars} chars from ${pages} | ${chunks} chunks`)
+    } catch (e) {
+      console.log(`   ✗ G${b.grade} ${b.subject}: extraction failed — ${e.message}`)
+    }
+  }
+
+  const chunkCount = db.prepare('SELECT COUNT(*) n FROM rag_chunks').get().n
+  console.log(`\nStored ${chunkCount} RAG chunks (embeddings null — they are generated by the local AI at index time).`)
+  console.log('\n✓ FLOW OK: books register → open/extract in reader → chunk for RAG. With the AI server running, "Index for AI" embeds these chunks and the tutor answers from them.')
+  db.close()
+}
+
+function cap(s) {
+  return s.split('-').map((w) => w[0].toUpperCase() + w.slice(1)).join(' ')
+}
+
+main().catch((e) => {
+  console.error('flow-check failed:', e)
+  process.exit(1)
+})

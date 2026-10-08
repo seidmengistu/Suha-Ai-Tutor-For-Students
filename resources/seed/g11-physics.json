@@ -1,0 +1,1146 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "physics",
+      "chapters": [
+        {
+          "title": "Measurement and Practical Work",
+          "description": "How scientists measure, the scientific method, units, significant figures, errors, accuracy, precision, and writing clear lab reports.",
+          "lessons": [
+            {
+              "title": "Measurement, Uncertainty and the Scientific Method",
+              "summary": "Learn the steps of the scientific method and how to record measurements with the right units, significant figures, and uncertainty. Also see the difference between accuracy and precision.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Why measurement matters",
+                  "body": "Physics is built on careful **measurement**. Whether you are timing a falling stone in your school yard in Addis Ababa or measuring the current in a circuit, your conclusion is only as good as your numbers.\n\nScientists do not just guess. They follow the **scientific method**: a clear, evidence-based way of asking and answering questions. Every measurement also carries some **uncertainty** — a small amount of doubt. Learning to record and report this honestly is what separates real science from guessing."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- State the steps of the **scientific method**.\n- Choose **appropriate units** for a quantity and use SI prefixes.\n- Count **significant figures** and round answers correctly.\n- State the **uncertainty** in a single reading and find **percentage uncertainty**.\n- Tell the difference between **random** and **systematic** errors.\n- Explain the difference between **accuracy** and **precision**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Method, units, significant figures and uncertainty",
+                  "body": "**The scientific method** is a repeating cycle: ask a question, do background research, form a **hypothesis** (a testable idea), make predictions, design and run an **experiment**, analyse the data, then draw conclusions. If the data does not support the hypothesis, you form a new one and try again. *Why this order?* Because only ideas that survive careful, repeatable testing — checked by other scientists (**peer review**) — can be trusted.\n\n**SI units and prefixes.** The international system (SI) uses base units such as the **metre (m)**, **kilogram (kg)** and **second (s)**. Prefixes scale them: kilo- (×10³), centi- (×10⁻²), milli- (×10⁻³), micro- (×10⁻⁶). Choose a unit that suits the size of the thing: a seed in millimetres, a football pitch in metres.\n\n**Significant figures (s.f.).** These are the digits that carry real information. All non-zero digits count. In 0.008 there is **one** s.f. (the zeros only show size). Trailing zeros after a decimal point (as in 3.200) **do** count. *Rule for calculations:* your answer can be no more precise than your least precise measurement. If you divide 4.345 m (4 s.f.) by 1.2 s (2 s.f.), the answer must be given to **2 s.f.**\n\n**Uncertainty.** Every measurement has a range of doubt. Writing 1.80 m really means the value lies between 1.795 m and 1.805 m, i.e. **1.80 m ± 0.005 m**. The **percentage uncertainty** is the uncertainty divided by the reading, ×100. *Why it matters:* a small absolute uncertainty on a small reading can still be a large percentage. Measuring many items together (e.g. the thickness of 10 sheets of paper) keeps the same absolute uncertainty but cuts the percentage uncertainty. When you **combine** measurements by multiplying or dividing, you **add their percentage uncertainties**.\n\n**Errors.** A **random error** has no pattern — it pushes readings above and below the true value, so **averaging many readings** reduces it. A **systematic error** has a bias — it pushes every reading the same way (too high or too low); averaging does **not** help. A **zero error** (an instrument that does not read zero when it should) is a common systematic error.\n\n**Accuracy vs precision.** **Accuracy** means how close a reading is to the **true value**. **Precision** means how close repeated readings are to **each other** (little spread). They are different: a faulty ammeter can be very precise (same answer every time) yet inaccurate (biased away from the truth)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: resistance from p.d. and current",
+                  "body": "**Problem:** A student measures the potential difference across a resistor as **4.32 V ± 0.05 V** and the current through it as **2.3 A ± 0.1 A**. Find the resistance and its uncertainty.\n\n**Step 1 — Find the resistance.** Use `R = V / I`:\n`R = 4.32 V / 2.3 A = 1.878... Ω`\nThe current has only **2 s.f.**, so round the resistance to **2 s.f.**: `R = 1.9 Ω`.\n\n**Step 2 — Find the percentage uncertainty in each reading.**\nVoltage: `(0.05 / 4.32) × 100 = 1.16 %`\nCurrent: `(0.1 / 2.3) × 100 = 4.35 %`\n\n**Step 3 — Combine.** Because resistance is V divided by I, **add the percentage uncertainties**:\n`1.16 % + 4.35 % = 5.5 %` (2 s.f.)\n\n**Step 4 — Convert back to an absolute uncertainty.**\n`5.5 % of 1.9 Ω = 0.10 Ω`\nSo the result is **R = 1.9 Ω ± 0.1 Ω** (or 1.9 Ω ± 5.5 %).\n\n**Check:** The biggest source of doubt is the current (4.35 %), and it dominates the final 5.5 % — which makes sense."
+                },
+                {
+                  "type": "visual",
+                  "title": "Accuracy versus precision",
+                  "body": "Think of shots at a target. The bullseye is the **true value**. **Accurate** shots cluster around the bullseye. **Precise** shots cluster tightly together — but if they are off-centre they are precise yet **not** accurate (a sign of a systematic error). The diagram below shows the four cases.",
+                  "visual": {
+                    "kind": "diagram",
+                    "data": {
+                      "description": "Four dartboard targets in a 2x2 grid. Top-left 'Accurate but imprecise': dots scattered widely but centred on the bullseye. Top-right 'Precise but inaccurate': dots tightly grouped together but far from the bullseye (off to one side). Bottom-left 'Neither': dots scattered widely and off-centre. Bottom-right 'Accurate and precise': dots tightly grouped on the bullseye. Caption: precision = small spread; accuracy = close to the true centre."
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Confusing accuracy and precision.** Precise means readings agree with each other; accurate means they agree with the true value.\n- **Quoting too many figures.** A calculator shows 3.333333 Ω, but you may only keep as many s.f. as your least precise reading allows.\n- **Counting leading zeros as significant.** In 0.008 only the 8 is significant; the zeros just show place value.\n- **Thinking repeats fix systematic errors.** Averaging only reduces **random** errors. A zero error stays no matter how many times you repeat.\n- **Rounding too early.** Keep all digits through the middle of a calculation and round only at the very end.\n- **Forgetting units or labels** in tables — every column needs a quantity and a unit."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to remember it",
+                  "body": "- **\"Random Rambles, Systematic Sticks.\"** Random errors wander above and below; systematic errors stick to one side.\n- **\"AverAge Away rAndom.\"** Averaging only helps **random** error.\n- **Accuracy = Aim at the truth; Precision = Pin them together.** Both start with the right idea.\n- For combining uncertainties when you **multiply or divide**, remember **\"% adds up.\"**\n- To count significant figures, **ignore leading zeros, keep trailing decimal zeros.**"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers below.\n\n**Q1.** How many significant figures are in (a) 258, (b) 0.084, (c) 3.200?\n\n**Q2.** A length is measured as 12.0 cm ± 0.1 cm. What is the percentage uncertainty?\n\n**Q3.** A current is 3.2 A ± 0.1 A and a p.d. is 12.3 V ± 0.1 V. Find the resistance and its percentage uncertainty.\n\n**Answers:**\n- **A1.** (a) 3, (b) 2, (c) 4.\n- **A2.** `(0.1 / 12.0) × 100 =` **0.83 %**.\n- **A3.** `R = 12.3 / 3.2 = 3.8 Ω` (2 s.f.). Percentages: current `3.1 %`, voltage `0.81 %`; total ≈ **3.9 %**, so R = 3.8 Ω ± 0.15 Ω."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points",
+                  "body": "- The **scientific method**: question → research → hypothesis → prediction → experiment → analysis → conclusion, confirmed by **peer review**.\n- Use **SI units** and prefixes suited to the size of the quantity.\n- Keep answers to the correct number of **significant figures**; round only at the end.\n- Every measurement has an **uncertainty**; when multiplying or dividing, **add percentage uncertainties**.\n- **Random errors** are reduced by averaging; **systematic errors** (including zero errors) are not.\n- **Accuracy** = close to the true value; **precision** = repeated readings close together."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms from this lesson.",
+                  "glossary": [
+                    { "term": "Hypothesis", "definition": "A proposed, testable explanation for an observation." },
+                    { "term": "Significant figures", "definition": "The digits in a measurement that carry real information about its precision." },
+                    { "term": "Uncertainty", "definition": "The amount of doubt in a measurement, e.g. 1.80 m ± 0.005 m." },
+                    { "term": "Random error", "definition": "An unpredictable error with no bias; it makes readings vary above and below the true value." },
+                    { "term": "Systematic error", "definition": "An error with a fixed bias that pushes every reading the same way (too high or too low)." },
+                    { "term": "Accuracy", "definition": "How close a measurement is to the true value." },
+                    { "term": "Precision", "definition": "How close repeated measurements are to one another." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "List the steps of the scientific method.", "back": "Ask a question, research, form a hypothesis, make predictions, experiment, analyse data, draw conclusions (then repeat if needed)." },
+                { "front": "How many significant figures are in 0.008?", "back": "One. Leading zeros only show place value and are not significant." },
+                { "front": "When you multiply or divide measurements, how do their uncertainties combine?", "back": "You add the percentage uncertainties." },
+                { "front": "Which type of error is reduced by taking many readings and averaging?", "back": "Random error. Systematic errors are not reduced by averaging." },
+                { "front": "What is the difference between accuracy and precision?", "back": "Accuracy is closeness to the true value; precision is how tightly repeated readings agree with each other." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Scientific method",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is a hypothesis in the scientific method?",
+              "options": ["A proven fact accepted by all scientists", "A testable proposed explanation for an observation", "The final conclusion of an experiment", "A measuring instrument"],
+              "answer": "1",
+              "explanation": "A hypothesis is a testable idea that might explain an observation; it must be tested by experiment before it can be accepted."
+            },
+            {
+              "topic": "Significant figures",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "How many significant figures does the number 0.084 have?",
+              "options": ["1", "2", "3", "4"],
+              "answer": "1",
+              "explanation": "Leading zeros are not significant; only the 8 and the 4 carry information, giving two significant figures."
+            },
+            {
+              "topic": "Types of error",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "An ammeter always reads 0.4 A too low. What kind of error is this?",
+              "options": ["Random error", "Systematic (zero) error", "Parallax error that averages out", "No error at all"],
+              "answer": "1",
+              "explanation": "A constant bias in one direction is a systematic error; here it is a zero error, and averaging readings will not remove it."
+            },
+            {
+              "topic": "Percentage uncertainty",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A length is 20.0 cm ± 0.2 cm. What is its percentage uncertainty?",
+              "options": ["0.2 %", "1.0 %", "2.0 %", "10 %"],
+              "answer": "1",
+              "explanation": "Percentage uncertainty = (0.2 / 20.0) × 100 = 1.0 %."
+            },
+            {
+              "topic": "Combining uncertainties",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Resistance is found from R = V/I. If V has 2 % uncertainty and I has 3 % uncertainty, what is the uncertainty in R?",
+              "options": ["1 %", "5 %", "6 %", "0.67 %"],
+              "answer": "1",
+              "explanation": "When dividing, percentage uncertainties add: 2 % + 3 % = 5 %."
+            },
+            {
+              "topic": "Accuracy and precision",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A set of readings is tightly grouped together but all clearly far from the true value. How are these readings best described?",
+              "options": ["Accurate but not precise", "Precise but not accurate", "Both accurate and precise", "Neither accurate nor precise"],
+              "answer": "1",
+              "explanation": "Tightly grouped means precise; being far from the true value means inaccurate, which usually points to a systematic error."
+            }
+          ]
+        },
+        {
+          "title": "Vector Quantities",
+          "description": "The difference between scalars and vectors, how to resolve vectors into components, add and subtract them, and multiply them using the dot and cross products.",
+          "lessons": [
+            {
+              "title": "Vectors: Resolution, Addition and Multiplication",
+              "summary": "Learn how to break vectors into components, add them tip-to-tail, and combine them with the scalar (dot) and vector (cross) products. Includes right-angle resolution with sine and cosine.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Why vectors?",
+                  "body": "Some quantities need only a size, like the mass of a sack of teff (50 kg). These are **scalars**. Others need a size **and** a direction — like telling a friend to walk 3 km **north-east**. These are **vectors**.\n\nForce, velocity, acceleration and displacement are all vectors. If you ignore direction, your physics will be wrong. This lesson shows how to handle vectors properly: splitting them up, adding them, and multiplying them."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Tell the difference between a **scalar** and a **vector**.\n- **Resolve** a vector into horizontal and vertical components.\n- Add and subtract vectors using the **tip-to-tail** method and components.\n- Find the **resultant** magnitude and direction.\n- Use the **scalar (dot) product** and the **vector (cross) product**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Scalars, components and products",
+                  "body": "**Scalars vs vectors.** A **scalar** has magnitude only (mass, time, temperature, speed). A **vector** has magnitude *and* direction (displacement, velocity, force). We draw a vector as an arrow: length = size, arrowhead = direction.\n\n**Resolving a vector.** Any vector **A** at an angle θ to the horizontal can be split into two perpendicular **components** that, added together, give the same effect:\n- Horizontal: `Aₓ = A cos θ`\n- Vertical: `A_y = A sin θ`\n*Why this works:* the component along a direction is the \"shadow\" of the vector on that axis, and trigonometry of the right-angled triangle gives cos for the adjacent side and sin for the opposite side.\n\n**Adding vectors.** Vectors add **tip-to-tail**: draw the first arrow, start the second arrow where the first ends; the **resultant** runs from the very start to the very end. The easier method for calculation is to **add components**: add all the x-parts to get Rₓ, add all the y-parts to get R_y. Then the resultant has:\n- Magnitude: `R = √(Rₓ² + R_y²)` (Pythagoras)\n- Direction: `θ = tan⁻¹(R_y / Rₓ)`\n\n**Subtracting vectors.** To do **A − B**, reverse B (turn its arrow around) and add: `A + (−B)`.\n\n**Two ways to multiply vectors.**\n1. **Scalar (dot) product:** `A · B = A B cos θ`. The result is a **scalar**. It is largest when the vectors point the same way (θ = 0) and zero when they are perpendicular (θ = 90°). Work done, `W = F·d`, uses the dot product.\n2. **Vector (cross) product:** `A × B = A B sin θ`, and the result is a **vector** pointing perpendicular to both A and B (direction given by the right-hand rule). It is zero when the vectors are parallel and largest when they are perpendicular. Torque, `τ = r × F`, uses the cross product."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: resultant of two forces",
+                  "body": "**Problem:** Two forces act on a box: **3.0 N due east** and **4.0 N due north**. Find the magnitude and direction of the resultant.\n\n**Step 1 — Choose axes.** Let east = +x and north = +y.\n`Rₓ = 3.0 N`, `R_y = 4.0 N`.\n\n**Step 2 — Find the magnitude.** Use Pythagoras:\n`R = √(Rₓ² + R_y²) = √(3.0² + 4.0²) = √(9 + 16) = √25 = 5.0 N`\n\n**Step 3 — Find the direction.** Measure the angle north of east:\n`θ = tan⁻¹(R_y / Rₓ) = tan⁻¹(4.0 / 3.0) = tan⁻¹(1.33) = 53°`\n\n**Answer:** The resultant is **5.0 N at 53° north of east**.\n\n**Check:** 3-4-5 is a classic right triangle, so 5.0 N is exactly right, and the larger force (north) means the angle should lean toward north — it does."
+                },
+                {
+                  "type": "visual",
+                  "title": "Resolving a force into components",
+                  "body": "The free-body sketch below shows a single force **F** acting at angle θ above the horizontal, split into its horizontal part `F cos θ` and its vertical part `F sin θ`. Together the two components make a right-angled triangle whose hypotenuse is F.",
+                  "visual": {
+                    "kind": "free-body",
+                    "data": {
+                      "description": "A point with one arrow labelled F pointing up and to the right at angle theta from the horizontal. A horizontal dashed arrow along the x-axis labelled 'F cos theta' and a vertical dashed arrow along the y-axis labelled 'F sin theta' form a right-angled triangle with F as the hypotenuse. The angle theta is marked between F and the horizontal."
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Adding magnitudes directly.** 3 N + 4 N is **not** 7 N unless the forces point the same way. Use components or the tip-to-tail rule.\n- **Swapping sin and cos.** The component **along** the angle's adjacent side uses **cos**; the opposite side uses **sin**.\n- **Mixing up the products.** The **dot** product gives a scalar (cos); the **cross** product gives a vector (sin).\n- **Forgetting direction.** A vector answer is incomplete without its angle or direction.\n- **Sign errors in subtraction.** To subtract a vector, reverse it first, then add."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to remember it",
+                  "body": "- **\"Dot is Down-to-earth (scalar), Cross is a Crossing arrow (vector).\"** The dot product gives a number; the cross product gives a new vector.\n- **\"Dot uses cos, Cross uses sin\"** — both have an 'o-s' link: cOS with dot, Sin with cross? Use the rhyme: *\"Cosine for the dot, sine for the not.\"*\n- For components, picture the **shadow**: the horizontal shadow is `A cos θ`, the vertical shadow is `A sin θ`.\n- **\"Tip to tail, follow the trail\"** for adding vectors head-to-tail.\n- A **3-4-5** triangle gives a resultant of 5 — a handy check."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers below.\n\n**Q1.** A velocity of 10 m/s points at 30° above the horizontal. Find its horizontal and vertical components.\n\n**Q2.** Two displacements, 6.0 m east and 8.0 m north, are added. What is the magnitude of the resultant?\n\n**Q3.** Two forces of 5 N each act on a point at 90° to each other. Find their scalar (dot) product.\n\n**Answers:**\n- **A1.** Horizontal `= 10 cos 30° = 8.7 m/s`; vertical `= 10 sin 30° = 5.0 m/s`.\n- **A2.** `R = √(6.0² + 8.0²) = √(36 + 64) = √100 =` **10 m**.\n- **A3.** `A·B = A B cos 90° = 5 × 5 × 0 =` **0** (perpendicular vectors have zero dot product)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points",
+                  "body": "- A **scalar** has size only; a **vector** has size **and** direction.\n- Resolve a vector: `Aₓ = A cos θ`, `A_y = A sin θ`.\n- Add vectors **tip-to-tail** or by adding components; resultant `R = √(Rₓ² + R_y²)`, direction `θ = tan⁻¹(R_y/Rₓ)`.\n- To subtract, **reverse** the second vector and add.\n- **Dot product** `A·B = AB cos θ` gives a **scalar**; **cross product** `A×B = AB sin θ` gives a **vector**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms from this lesson.",
+                  "glossary": [
+                    { "term": "Scalar", "definition": "A quantity with magnitude only, such as mass, time or speed." },
+                    { "term": "Vector", "definition": "A quantity with both magnitude and direction, such as force or velocity." },
+                    { "term": "Component", "definition": "The part of a vector along a chosen axis, found using sine or cosine." },
+                    { "term": "Resultant", "definition": "The single vector that has the same effect as two or more vectors added together." },
+                    { "term": "Scalar (dot) product", "definition": "A·B = AB cos θ; the result is a scalar." },
+                    { "term": "Vector (cross) product", "definition": "A×B = AB sin θ; the result is a vector perpendicular to both." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the difference between a scalar and a vector?", "back": "A scalar has magnitude only; a vector has both magnitude and direction." },
+                { "front": "How do you resolve a vector A at angle θ into components?", "back": "Horizontal Aₓ = A cos θ; vertical A_y = A sin θ." },
+                { "front": "How do you find the magnitude of a resultant from its components?", "back": "R = √(Rₓ² + R_y²) using Pythagoras." },
+                { "front": "What does the scalar (dot) product give and how is it found?", "back": "It gives a scalar: A·B = A B cos θ." },
+                { "front": "What does the vector (cross) product give and how is it found?", "back": "It gives a vector perpendicular to both, with magnitude A·B sin θ." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Scalars and vectors",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of the following is a vector quantity?",
+              "options": ["Mass", "Temperature", "Velocity", "Time"],
+              "answer": "2",
+              "explanation": "Velocity has both magnitude and direction, so it is a vector. Mass, temperature and time are scalars."
+            },
+            {
+              "topic": "Resolving vectors",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A force F acts at angle θ above the horizontal. What is its horizontal component?",
+              "options": ["F sin θ", "F cos θ", "F tan θ", "F / cos θ"],
+              "answer": "1",
+              "explanation": "The horizontal (adjacent) component is F cos θ; the vertical (opposite) component is F sin θ."
+            },
+            {
+              "topic": "Vector addition",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Two perpendicular forces of 3 N and 4 N act on a point. What is the magnitude of the resultant?",
+              "options": ["1 N", "5 N", "7 N", "12 N"],
+              "answer": "1",
+              "explanation": "R = √(3² + 4²) = √25 = 5 N. You cannot simply add 3 + 4 because the forces are perpendicular."
+            },
+            {
+              "topic": "Dot product",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Two vectors are perpendicular. What is their scalar (dot) product?",
+              "options": ["Maximum value", "Zero", "Equal to their cross product", "Negative"],
+              "answer": "1",
+              "explanation": "A·B = AB cos 90° = 0, because cos 90° = 0. The dot product is zero for perpendicular vectors."
+            },
+            {
+              "topic": "Cross product",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "For which angle between two vectors is the magnitude of the cross product greatest?",
+              "options": ["0°", "45°", "90°", "180°"],
+              "answer": "2",
+              "explanation": "|A×B| = AB sin θ is greatest when sin θ = 1, i.e. when θ = 90° (the vectors are perpendicular)."
+            },
+            {
+              "topic": "Resultant direction",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A resultant has components Rₓ = 6 N and R_y = 6 N. What angle does it make with the x-axis?",
+              "options": ["30°", "45°", "60°", "90°"],
+              "answer": "1",
+              "explanation": "θ = tan⁻¹(R_y/Rₓ) = tan⁻¹(6/6) = tan⁻¹(1) = 45°."
+            }
+          ]
+        },
+        {
+          "title": "Kinematics",
+          "description": "Describing motion in a straight line and in a plane using displacement, velocity, acceleration, the equations of motion, and projectile motion.",
+          "lessons": [
+            {
+              "title": "Motion in a Straight Line and in a Plane",
+              "summary": "Learn the equations of uniformly accelerated motion and how to read motion graphs. Then extend to projectile motion in a plane by treating horizontal and vertical motion separately.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Describing how things move",
+                  "body": "**Kinematics** is the study of motion without worrying about what causes it. When a bus pulls away from a stop in Bahir Dar, or a stone is thrown into Lake Tana, we can describe exactly where it is and how fast it moves using a few powerful equations.\n\nWe start with motion in a **straight line** (1D), then move to motion in a **plane** (2D), such as a thrown ball that moves forward and falls at the same time."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **displacement**, **velocity** and **acceleration**.\n- Use the **equations of uniformly accelerated motion**.\n- Read and interpret **displacement-time** and **velocity-time** graphs.\n- Explain that horizontal and vertical motion are **independent**.\n- Solve **projectile** problems for time, range and height."
+                },
+                {
+                  "type": "theory",
+                  "title": "Equations of motion and projectiles",
+                  "body": "**Key quantities.** **Displacement (s)** is the straight-line distance and direction from start to finish (a vector). **Velocity (v)** is the rate of change of displacement (a vector). **Acceleration (a)** is the rate of change of velocity. *Speed* and *distance* are the scalar cousins that ignore direction.\n\n**Equations of uniformly accelerated motion** (constant acceleration). With u = initial velocity, v = final velocity, a = acceleration, s = displacement, t = time:\n1. `v = u + at`\n2. `s = ½(u + v)t`\n3. `s = ut + ½at²`\n4. `v² = u² + 2as`\n*Why so many?* Each equation leaves out one variable, so you pick the one that contains the three things you know plus the one you want.\n\n**Reading motion graphs.** On a **displacement-time** graph the **gradient (slope) = velocity**. On a **velocity-time** graph the **gradient = acceleration**, and the **area under the line = displacement**. A straight sloping velocity-time line means constant acceleration.\n\n**Motion in a plane (projectiles).** A **projectile** moves under gravity only. The big idea is **independence of motion**: the horizontal and vertical parts happen together but do not affect each other.\n- **Horizontal:** no force (ignoring air resistance), so velocity is **constant**: `x = uₓ t`.\n- **Vertical:** gravity gives `a = g = 9.81 m/s²` downward, so the vertical velocity changes; use the equations of motion with a = g.\n\nResolve a launch velocity u at angle θ: `uₓ = u cos θ`, `u_y = u sin θ`. The path is a **parabola**. Useful ground-to-ground results: time to top `t = u sin θ / g`, total time `T = 2u sin θ / g`, range `R = u² sin 2θ / g`, with maximum range at **θ = 45°**."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: a decelerating car",
+                  "body": "**Problem:** A car travelling at **30 m/s** brakes with a constant acceleration of **−5.0 m/s²**. (a) How long does it take to stop? (b) How far does it travel while stopping?\n\n**Step 1 — List what you know.** `u = 30 m/s`, `v = 0` (stops), `a = −5.0 m/s²`.\n\n**Step 2 — Find the time.** Use `v = u + at`:\n`0 = 30 + (−5.0)t`\n`5.0 t = 30`\n`t = 6.0 s`\n\n**Step 3 — Find the stopping distance.** Use `v² = u² + 2as`:\n`0 = 30² + 2(−5.0)s`\n`0 = 900 − 10 s`\n`s = 900 / 10 = 90 m`\n\n**Answer:** It stops in **6.0 s** after travelling **90 m**.\n\n**Check:** Average velocity `= (30 + 0)/2 = 15 m/s`; distance `= 15 × 6.0 = 90 m`. The two methods agree."
+                },
+                {
+                  "type": "visual",
+                  "title": "Velocity-time graph of the braking car",
+                  "body": "The line starts at 30 m/s and falls steadily to 0 at 6 seconds. The straight line shows **constant deceleration**. The triangular **area under the line** equals the distance travelled: `½ × 6.0 s × 30 m/s = 90 m`, matching the worked example.",
+                  "visual": {
+                    "kind": "motion-graph",
+                    "data": {
+                      "xLabel": "time (s)",
+                      "yLabel": "velocity (m/s)",
+                      "series": [
+                        {
+                          "label": "velocity",
+                          "points": [[0, 30], [2, 20], [4, 10], [6, 0]]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Confusing distance and displacement.** Displacement is the straight-line vector from start to finish; distance is the total path length.\n- **Sign errors.** Deceleration and downward gravity are **negative** if you choose forward/up as positive. Stay consistent.\n- **Using full speed for vertical work.** For a launch at an angle, the vertical part is `u sin θ`, not the full u.\n- **Reading the wrong graph quantity.** On a velocity-time graph the slope is acceleration and the area is displacement — not the other way round.\n- **Thinking horizontal velocity drops.** In projectile motion the horizontal velocity stays constant (no air resistance)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to remember it",
+                  "body": "- **\"suvat\"** lists the five symbols (s, u, v, a, t). Pick the equation that contains the three you know and the one you want.\n- On graphs: **\"slope and area\"** — *velocity-time: slope = a, area = s.*\n- **\"45 is the king of range\"** — the longest flat-ground range is at 45°.\n- **\"Time up = time down\"** for a projectile that lands at its launch height.\n- For vertical/horizontal split, recall **sin for up, cos across** (`u sin θ` vertical, `u cos θ` horizontal)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers below.\n\n**Q1.** A stone is dropped from rest. How fast is it moving after 2.0 s? (g = 9.81 m/s².)\n\n**Q2.** A ball is thrown horizontally at 12 m/s from a cliff. How far does it travel horizontally in 3.0 s?\n\n**Q3.** A car accelerates from 10 m/s to 25 m/s in 5.0 s. What is its acceleration?\n\n**Answers:**\n- **A1.** `v = u + gt = 0 + 9.81 × 2.0 =` **19.6 m/s** downward.\n- **A2.** `x = uₓ t = 12 × 3.0 =` **36 m**.\n- **A3.** `a = (v − u)/t = (25 − 10)/5.0 = 15/5.0 =` **3.0 m/s²**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points",
+                  "body": "- **Displacement, velocity and acceleration** are vectors; speed and distance are scalars.\n- Use the **four equations of motion** for constant acceleration; choose the one with your known and wanted variables.\n- On a **velocity-time graph**: slope = acceleration, area = displacement.\n- A **projectile** has constant **horizontal** velocity and changing **vertical** velocity (a = g).\n- Resolve launch velocity: `uₓ = u cos θ`, `u_y = u sin θ`; **maximum range at 45°**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms from this lesson.",
+                  "glossary": [
+                    { "term": "Displacement", "definition": "The straight-line distance and direction from the start point to the end point." },
+                    { "term": "Velocity", "definition": "The rate of change of displacement; a vector." },
+                    { "term": "Acceleration", "definition": "The rate of change of velocity." },
+                    { "term": "Projectile", "definition": "An object moving through the air under the influence of gravity alone." },
+                    { "term": "Parabola", "definition": "The curved path followed by a projectile." },
+                    { "term": "Range", "definition": "The horizontal distance a projectile travels before landing at its launch height." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the difference between distance and displacement?", "back": "Distance is total path length (scalar); displacement is the straight-line distance and direction from start to finish (vector)." },
+                { "front": "On a velocity-time graph, what do the slope and the area represent?", "back": "The slope is acceleration; the area under the line is displacement." },
+                { "front": "Which equation links v, u, a and s without time?", "back": "v² = u² + 2as." },
+                { "front": "Why does horizontal velocity stay constant for a projectile?", "back": "Ignoring air resistance, there is no horizontal force, so no horizontal acceleration." },
+                { "front": "At what launch angle is the range greatest on flat ground?", "back": "45°, where R = u² / g." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Equations of motion",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which equation correctly relates final velocity v, initial velocity u, acceleration a and time t?",
+              "options": ["v = u + at", "v = u − s", "v = at²", "v = u/a"],
+              "answer": "0",
+              "explanation": "v = u + at is the first equation of uniformly accelerated motion."
+            },
+            {
+              "topic": "Motion graphs",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "On a velocity-time graph, what does the gradient (slope) represent?",
+              "options": ["Displacement", "Acceleration", "Distance", "Speed"],
+              "answer": "1",
+              "explanation": "The slope of a velocity-time graph is the rate of change of velocity, which is acceleration."
+            },
+            {
+              "topic": "Free fall",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A stone is dropped from rest. What is its speed after 3.0 s? (g = 9.81 m/s²)",
+              "options": ["3.3 m/s", "9.81 m/s", "29.4 m/s", "88.3 m/s"],
+              "answer": "2",
+              "explanation": "v = u + gt = 0 + 9.81 × 3.0 = 29.4 m/s."
+            },
+            {
+              "topic": "Projectile motion",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "For a ball launched at 20 m/s and 30°, what is the vertical component of the launch velocity?",
+              "options": ["10 m/s", "17.3 m/s", "20 m/s", "6.7 m/s"],
+              "answer": "0",
+              "explanation": "Vertical component = u sin θ = 20 × sin 30° = 20 × 0.5 = 10 m/s."
+            },
+            {
+              "topic": "Stopping distance",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A car at 20 m/s brakes at −4.0 m/s². How far does it travel before stopping?",
+              "options": ["5 m", "25 m", "50 m", "100 m"],
+              "answer": "2",
+              "explanation": "Using v² = u² + 2as: 0 = 20² + 2(−4.0)s → 8s = 400 → s = 50 m."
+            },
+            {
+              "topic": "Range of a projectile",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Ignoring air resistance, which launch angle gives the maximum horizontal range on level ground?",
+              "options": ["30°", "45°", "60°", "90°"],
+              "answer": "1",
+              "explanation": "Range R = u² sin 2θ / g is greatest when sin 2θ = 1, i.e. 2θ = 90°, so θ = 45°."
+            }
+          ]
+        },
+        {
+          "title": "Dynamics",
+          "description": "Forces and Newton's laws of motion, momentum and its conservation, collisions, centre of mass, and the dynamics of circular motion.",
+          "lessons": [
+            {
+              "title": "Newton's Laws, Momentum and Circular Motion",
+              "summary": "Learn Newton's three laws of motion, the principle of conservation of momentum, and how forces cause circular motion. Includes collisions and centripetal force.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "What makes things move?",
+                  "body": "**Dynamics** asks *why* objects move the way they do. The answer is **force**. A push, a pull, friction, gravity, tension — all are forces, and they change motion.\n\n**Sir Isaac Newton** summed up the rules in three short laws. Together with the idea of **momentum**, they explain everything from a kicked ball to a satellite circling the Earth."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- State and use **Newton's three laws of motion**.\n- Calculate **force** using F = ma.\n- Define **momentum** and apply the **law of conservation of momentum**.\n- Tell **elastic** from **inelastic** collisions.\n- Explain **centripetal force** and calculate it with F = mv²/r."
+                },
+                {
+                  "type": "theory",
+                  "title": "Newton's laws, momentum and circular motion",
+                  "body": "**Newton's first law (inertia).** An object stays at rest, or keeps moving at constant velocity, **unless a net (resultant) force acts on it**. *Why:* objects have **inertia** — a natural resistance to changes in motion. A book on a table stays put because the forces balance.\n\n**Newton's second law.** The net force equals the rate of change of momentum, which for constant mass gives:\n`F = ma`\nForce in newtons (N), mass in kg, acceleration in m/s². *Why:* a bigger force gives a bigger acceleration, but a heavier object accelerates less for the same force.\n\n**Newton's third law.** For every action there is an **equal and opposite reaction**. If you push on a wall, the wall pushes back on you with the same force. The two forces act on **different objects**.\n\n**Momentum.** **Momentum** is mass × velocity: `p = mv` (a vector, in kg·m/s). A heavy, fast object has large momentum.\n\n**Conservation of momentum.** In a closed system (no outside forces), the **total momentum before = total momentum after**:\n`m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂`\n*Why:* it follows directly from Newton's third law — the forces in a collision are equal and opposite, so the momentum one object loses the other gains.\n\n**Collisions.** In an **elastic** collision both momentum **and** kinetic energy are conserved (e.g. ideal billiard balls). In an **inelastic** collision momentum is conserved but **kinetic energy is not** — some becomes heat or sound. If objects stick together, it is **perfectly inelastic**.\n\n**Circular motion.** An object moving in a circle at constant speed is still **accelerating**, because its **direction** (and so its velocity) keeps changing. This needs an inward **centripetal force** pointing to the centre:\n`F = mv² / r`\nwhere m = mass, v = speed, r = radius. For a car rounding a bend this force is friction; for a satellite it is gravity. There is **no outward 'centrifugal force'** acting on the object — the feeling of being thrown outward is just inertia."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: a perfectly inelastic collision",
+                  "body": "**Problem:** A **2.0 kg** trolley moving at **3.0 m/s** collides with a stationary **1.0 kg** trolley and they stick together. Find their common velocity after the collision.\n\n**Step 1 — Write the conservation of momentum equation.** Before, only the first trolley moves:\n`m₁u₁ + m₂u₂ = (m₁ + m₂)v`\n\n**Step 2 — Put in the numbers.**\n`(2.0 × 3.0) + (1.0 × 0) = (2.0 + 1.0) × v`\n`6.0 + 0 = 3.0 v`\n\n**Step 3 — Solve for v.**\n`v = 6.0 / 3.0 = 2.0 m/s`\n\n**Answer:** They move off together at **2.0 m/s** in the original direction.\n\n**Check kinetic energy:** Before = `½ × 2.0 × 3.0² = 9.0 J`; after = `½ × 3.0 × 2.0² = 6.0 J`. Kinetic energy fell from 9.0 J to 6.0 J, confirming this collision is **inelastic** (some energy became heat and sound)."
+                },
+                {
+                  "type": "visual",
+                  "title": "Forces on a box being pulled",
+                  "body": "The free-body diagram below shows a box on the ground. The applied pull and friction act horizontally; weight and the normal (support) force act vertically. The **net force** is what F = ma uses. When the box moves at steady speed, friction balances the pull.",
+                  "visual": {
+                    "kind": "free-body",
+                    "data": {
+                      "description": "A rectangular box with four force arrows. An arrow pointing right labelled 'Applied force F'. A shorter arrow pointing left labelled 'Friction f'. An arrow pointing down from the centre labelled 'Weight W = mg'. An arrow of equal length pointing up labelled 'Normal force N'. Caption: net horizontal force = F − f gives acceleration via F = ma."
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Thinking a moving object needs a constant force.** By Newton's first law, an object keeps moving at constant velocity with **zero** net force. Force is needed only to **change** motion.\n- **Putting action and reaction on the same object.** Newton's third-law pairs act on **different** objects, so they never cancel each other on one body.\n- **Believing kinetic energy is always conserved.** Momentum is always conserved in a closed collision, but **kinetic energy is only conserved in elastic collisions**.\n- **Inventing a 'centrifugal force'.** The real force in circular motion points **inward** (centripetal). The outward feeling is inertia, not a force on the object.\n- **Forgetting that momentum is a vector.** Include direction (signs) when objects move toward each other."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to remember it",
+                  "body": "- **First law = lazy law:** objects are lazy and keep doing what they were doing.\n- **Second law:** **\"Fame = ma\"** sounds like F = ma.\n- **Third law:** **\"push back\"** — every push gets an equal push back on you.\n- **\"Momentum is mass on the move\"**: p = mv.\n- For circular motion, chant **\"mv-squared-over-r\"** for centripetal force, always pointing **to the centre**."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers below.\n\n**Q1.** What net force is needed to give a 5.0 kg mass an acceleration of 2.0 m/s²?\n\n**Q2.** A 1500 kg car travels at 20 m/s. What is its momentum?\n\n**Q3.** A 0.50 kg ball is whirled in a circle of radius 0.80 m at 4.0 m/s. What centripetal force acts on it?\n\n**Answers:**\n- **A1.** `F = ma = 5.0 × 2.0 =` **10 N**.\n- **A2.** `p = mv = 1500 × 20 =` **30 000 kg·m/s**.\n- **A3.** `F = mv²/r = 0.50 × 4.0² / 0.80 = 0.50 × 16 / 0.80 =` **10 N**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points",
+                  "body": "- **Newton's first law:** no net force → no change in motion (inertia).\n- **Newton's second law:** `F = ma`.\n- **Newton's third law:** equal and opposite reactions on **different** objects.\n- **Momentum** `p = mv` is conserved in a closed system.\n- **Elastic** collisions conserve kinetic energy; **inelastic** ones do not (momentum still conserved).\n- **Circular motion** needs a **centripetal force** `F = mv²/r` toward the centre."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms from this lesson.",
+                  "glossary": [
+                    { "term": "Inertia", "definition": "The tendency of an object to resist changes to its state of motion." },
+                    { "term": "Force", "definition": "A push or pull that can change an object's motion; measured in newtons (N)." },
+                    { "term": "Momentum", "definition": "The product of mass and velocity, p = mv; a vector." },
+                    { "term": "Conservation of momentum", "definition": "In a closed system the total momentum before equals the total momentum after." },
+                    { "term": "Elastic collision", "definition": "A collision in which both momentum and kinetic energy are conserved." },
+                    { "term": "Centripetal force", "definition": "The inward net force that keeps an object moving in a circle, F = mv²/r." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "State Newton's first law of motion.", "back": "An object stays at rest or moves at constant velocity unless acted on by a net (resultant) force." },
+                { "front": "What is the formula for Newton's second law?", "back": "F = ma (net force = mass × acceleration)." },
+                { "front": "What is conserved in every closed collision?", "back": "Total momentum. Kinetic energy is only conserved in elastic collisions." },
+                { "front": "What is the formula for momentum?", "back": "p = mv (mass times velocity), a vector measured in kg·m/s." },
+                { "front": "In which direction does the centripetal force act?", "back": "Toward the centre of the circle; its size is F = mv²/r." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Newton's second law",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What net force gives a 4.0 kg object an acceleration of 3.0 m/s²?",
+              "options": ["1.3 N", "7.0 N", "12 N", "0.75 N"],
+              "answer": "2",
+              "explanation": "F = ma = 4.0 × 3.0 = 12 N."
+            },
+            {
+              "topic": "Newton's first law",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "An object moves at constant velocity in a straight line. What is the net force on it?",
+              "options": ["Zero", "Equal to its weight", "In the direction of motion", "Increasing with time"],
+              "answer": "0",
+              "explanation": "Constant velocity means no acceleration, so by Newton's first and second laws the net force is zero."
+            },
+            {
+              "topic": "Momentum",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A 2.0 kg ball moves at 5.0 m/s. What is its momentum?",
+              "options": ["2.5 kg·m/s", "7.0 kg·m/s", "10 kg·m/s", "25 kg·m/s"],
+              "answer": "2",
+              "explanation": "p = mv = 2.0 × 5.0 = 10 kg·m/s."
+            },
+            {
+              "topic": "Newton's third law",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A swimmer pushes water backward and moves forward. Which law explains this?",
+              "options": ["First law", "Second law", "Third law", "Law of gravity"],
+              "answer": "2",
+              "explanation": "Newton's third law: the swimmer pushes water back, and the water pushes the swimmer forward with an equal and opposite force."
+            },
+            {
+              "topic": "Collisions",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Two trolleys (2.0 kg at 3.0 m/s and 1.0 kg at rest) collide and stick together. What is their common velocity?",
+              "options": ["1.0 m/s", "2.0 m/s", "3.0 m/s", "6.0 m/s"],
+              "answer": "1",
+              "explanation": "Conserving momentum: (2.0 × 3.0) + 0 = (2.0 + 1.0)v, so 6.0 = 3.0v, giving v = 2.0 m/s."
+            },
+            {
+              "topic": "Circular motion",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A 1000 kg car rounds a bend of radius 50 m at 20 m/s. What centripetal force is required?",
+              "options": ["400 N", "8000 N", "20 000 N", "40 000 N"],
+              "answer": "1",
+              "explanation": "F = mv²/r = 1000 × 20² / 50 = 1000 × 400 / 50 = 8000 N."
+            }
+          ]
+        },
+        {
+          "title": "Work, Energy and Power",
+          "description": "Work as a scalar product, kinetic and potential energy, the work-energy theorem, conservation of energy, and power.",
+          "lessons": [
+            {
+              "title": "Work, Energy and Power",
+              "summary": "Learn how work transfers energy, the difference between kinetic and potential energy, the work-energy theorem, conservation of energy, and how power measures the rate of doing work.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Energy makes things happen",
+                  "body": "Everything that happens — a farmer lifting a sack, a waterfall at the Blue Nile turning a turbine, a runner sprinting — involves **energy** being transferred. In physics we transfer energy by doing **work**.\n\nThis lesson links three closely related ideas: **work** (transferring energy with a force), **energy** (the capacity to do work), and **power** (how fast work is done)."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **work** and calculate it with W = Fd cos θ.\n- Calculate **kinetic energy** and **gravitational potential energy**.\n- Apply the **work-energy theorem**.\n- State and use the **conservation of energy**.\n- Define and calculate **power**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Work, energy and power",
+                  "body": "**Work.** **Work** is done when a force moves an object along the direction of the force:\n`W = F d cos θ`\nwhere F is the force, d the displacement, and θ the angle between them. Work is a **scalar** measured in **joules (J)**. *Why the cos θ?* Only the part of the force **along** the motion does work. If you carry a sack horizontally, the upward force does **no** work because θ = 90° and cos 90° = 0.\n\n**Kinetic energy.** Energy of motion:\n`KE = ½ m v²`\nA faster object has much more kinetic energy because v is **squared** — double the speed gives four times the energy.\n\n**Gravitational potential energy.** Energy stored by height:\n`PE = m g h`\nwhere h is the height raised and g = 9.81 m/s².\n\n**The work-energy theorem.** The **net work** done on an object equals its **change in kinetic energy**:\n`W_net = ΔKE = ½ m v² − ½ m u²`\n*Why:* a net force accelerates the object, and accelerating it changes its speed and therefore its kinetic energy.\n\n**Conservation of energy.** Energy cannot be created or destroyed, only **transformed** from one form to another. For a falling object (ignoring air resistance), lost potential energy becomes gained kinetic energy:\n`m g h = ½ m v²`\nForces like gravity are **conservative** (energy is recoverable); forces like friction are **dissipative** (they turn useful energy into heat).\n\n**Power.** **Power** is the rate of doing work, or the rate of transferring energy:\n`P = W / t`\nmeasured in **watts (W)**, where 1 W = 1 J/s. For a steady force moving at speed v, `P = F v`."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: lifting a sack of grain",
+                  "body": "**Problem:** A worker lifts a **25 kg** sack of grain straight up onto a shelf **2.0 m** high in **4.0 s**. Take g = 9.81 m/s². Find (a) the work done and (b) the power used.\n\n**Step 1 — Find the force needed.** To lift at steady speed, the force equals the weight:\n`F = m g = 25 × 9.81 = 245.25 N`\n\n**Step 2 — Find the work done.** The force is straight up and so is the motion, so θ = 0 and cos 0 = 1:\n`W = F d = 245.25 × 2.0 = 490.5 J`\nSo the work done is about **490 J**. (This equals the gain in potential energy, `mgh = 25 × 9.81 × 2.0 = 490.5 J`.)\n\n**Step 3 — Find the power.** Power is work over time:\n`P = W / t = 490.5 / 4.0 = 122.6 W`\nSo the power is about **123 W**.\n\n**Check:** A typical light bulb is around 60 W, so a person briefly working at ~120 W is reasonable."
+                },
+                {
+                  "type": "visual",
+                  "title": "Energy transfer for a falling ball",
+                  "body": "As a ball falls, its **potential energy** falls while its **kinetic energy** rises by the same amount, so the **total energy** stays constant (ignoring air resistance). The graph shows velocity rising as the ball speeds up — its kinetic energy (½mv²) grows as height (and PE) is lost.",
+                  "visual": {
+                    "kind": "motion-graph",
+                    "data": {
+                      "xLabel": "time (s)",
+                      "yLabel": "velocity (m/s)",
+                      "series": [
+                        {
+                          "label": "speed of falling ball",
+                          "points": [[0, 0], [1, 9.8], [2, 19.6], [3, 29.4]]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Thinking holding something still does work.** If there is no movement (d = 0), **no work** is done, even though your muscles get tired.\n- **Ignoring the angle.** Work uses the component of force **along** the motion: W = Fd cos θ. A perpendicular force does zero work.\n- **Forgetting v is squared in KE.** Doubling the speed gives **four times** the kinetic energy, not twice.\n- **Confusing energy and power.** Energy (J) is the total transferred; power (W) is how **fast** it is transferred.\n- **Saying energy is 'used up'.** Energy is never destroyed; it is **transformed** (often into heat by friction)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to remember it",
+                  "body": "- **\"Work = Force along the way\"** reminds you of the cos θ (force along the motion).\n- **\"Half-em-vee-squared\"** for kinetic energy: ½mv².\n- **\"mgh climbs high\"** for gravitational potential energy.\n- **Power is energy in a hurry** — same energy, less time = more power.\n- **No move, no work:** if displacement is zero, the work is zero."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers below.\n\n**Q1.** A force of 20 N pushes a box 5.0 m in the direction of the force. How much work is done?\n\n**Q2.** What is the kinetic energy of a 2.0 kg ball moving at 6.0 m/s?\n\n**Q3.** A motor does 6000 J of work in 30 s. What is its power output?\n\n**Answers:**\n- **A1.** `W = Fd = 20 × 5.0 =` **100 J**.\n- **A2.** `KE = ½mv² = ½ × 2.0 × 6.0² = ½ × 2.0 × 36 =` **36 J**.\n- **A3.** `P = W/t = 6000 / 30 =` **200 W**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points",
+                  "body": "- **Work** `W = Fd cos θ` transfers energy and is measured in **joules**.\n- **Kinetic energy** `KE = ½mv²`; **potential energy** `PE = mgh`.\n- The **work-energy theorem:** net work = change in kinetic energy.\n- **Energy is conserved** — it is transformed, never destroyed.\n- **Power** `P = W/t` (or `P = Fv`) is the rate of energy transfer, in **watts**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms from this lesson.",
+                  "glossary": [
+                    { "term": "Work", "definition": "Energy transferred when a force moves an object along its direction; W = Fd cos θ." },
+                    { "term": "Joule", "definition": "The SI unit of energy and work; 1 J = 1 N·m." },
+                    { "term": "Kinetic energy", "definition": "The energy of a moving object, KE = ½mv²." },
+                    { "term": "Potential energy", "definition": "Stored energy due to position or height, PE = mgh." },
+                    { "term": "Conservation of energy", "definition": "Energy cannot be created or destroyed, only transformed from one form to another." },
+                    { "term": "Power", "definition": "The rate of doing work or transferring energy, P = W/t, measured in watts." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the formula for work done by a force at angle θ to the motion?", "back": "W = Fd cos θ, measured in joules (J)." },
+                { "front": "What is the formula for kinetic energy?", "back": "KE = ½mv²." },
+                { "front": "What is the formula for gravitational potential energy?", "back": "PE = mgh, where h is the height raised." },
+                { "front": "State the work-energy theorem.", "back": "The net work done on an object equals its change in kinetic energy." },
+                { "front": "What is power and its unit?", "back": "Power is the rate of doing work, P = W/t, measured in watts (1 W = 1 J/s)." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Work",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A force of 10 N moves an object 4.0 m in the direction of the force. How much work is done?",
+              "options": ["2.5 J", "14 J", "40 J", "0 J"],
+              "answer": "2",
+              "explanation": "W = Fd = 10 × 4.0 = 40 J, since the force and motion are in the same direction."
+            },
+            {
+              "topic": "Work and angle",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "How much work does a force do if it acts at 90° to the direction of motion?",
+              "options": ["Maximum work", "Zero work", "Negative work", "Half the force times distance"],
+              "answer": "1",
+              "explanation": "W = Fd cos 90° = 0, because cos 90° = 0. A perpendicular force does no work."
+            },
+            {
+              "topic": "Kinetic energy",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the kinetic energy of a 3.0 kg object moving at 4.0 m/s?",
+              "options": ["6.0 J", "12 J", "24 J", "48 J"],
+              "answer": "2",
+              "explanation": "KE = ½mv² = ½ × 3.0 × 4.0² = ½ × 3.0 × 16 = 24 J."
+            },
+            {
+              "topic": "Power",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A machine does 1200 J of work in 4.0 s. What is its power?",
+              "options": ["300 W", "4800 W", "0.0033 W", "1196 W"],
+              "answer": "0",
+              "explanation": "P = W/t = 1200 / 4.0 = 300 W."
+            },
+            {
+              "topic": "Conservation of energy",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A 2.0 kg ball is dropped from 5.0 m. Ignoring air resistance, what is its speed just before it lands? (g = 9.81 m/s²)",
+              "options": ["5.0 m/s", "9.9 m/s", "49 m/s", "98 m/s"],
+              "answer": "1",
+              "explanation": "mgh = ½mv² → v = √(2gh) = √(2 × 9.81 × 5.0) = √98.1 ≈ 9.9 m/s. The mass cancels out."
+            },
+            {
+              "topic": "Energy and power",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Two motors each lift the same load to the same height, but motor A takes 2 s and motor B takes 4 s. Which statement is correct?",
+              "options": ["A does more work than B", "B does more work than A", "A and B do the same work, but A has greater power", "A and B have the same power"],
+              "answer": "2",
+              "explanation": "Work depends only on force and distance, so both do the same work. Power = work/time, so the faster motor A has greater power."
+            }
+          ]
+        },
+        {
+          "title": "Rotational Motion",
+          "description": "Rotation about a fixed axis, torque and angular acceleration, rotational kinetic energy and inertia, angular momentum, and its conservation.",
+          "lessons": [
+            {
+              "title": "Rotation, Torque and Angular Momentum",
+              "summary": "Learn the angular versions of the linear quantities: angular velocity and acceleration, torque, moment of inertia, rotational kinetic energy, and the conservation of angular momentum.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Spinning, not just sliding",
+                  "body": "So far motion has meant moving from place to place. But many things **spin**: a wheel, a spinning top, the blades of a water pump, even the Earth itself. This is **rotational motion**.\n\nThe good news: rotation follows the **same pattern** as straight-line motion, but with new 'angular' versions of each quantity. Once you see the matching, it becomes easy."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **angular displacement, velocity** and **acceleration**.\n- Define **torque** and calculate it with τ = rF sin θ.\n- Explain **moment of inertia** and **rotational kinetic energy**.\n- Use the rotational form of Newton's second law, **τ = Iα**.\n- State and apply the **conservation of angular momentum**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Angular quantities, torque and inertia",
+                  "body": "**Angular quantities.** Instead of distance we measure the **angle turned**, the **angular displacement (θ)** in radians. Its rate of change is the **angular velocity (ω)** in rad/s, and the rate of change of ω is the **angular acceleration (α)** in rad/s². They link to linear quantities by the radius r: `v = rω` and `a = rα`.\n\n**Torque.** A force makes something spin only if it acts off-centre. The turning effect is the **torque** (or moment):\n`τ = r F sin θ`\nwhere r is the distance from the axis to where the force acts, and θ is the angle between r and the force. Torque is largest when the force is **perpendicular** (θ = 90°). *Why:* pushing a door near the hinge does little; pushing far from the hinge, at right angles, turns it easily.\n\n**Moment of inertia.** In rotation, the resistance to a change in spin is the **moment of inertia (I)**, the rotational version of mass. It depends not only on how much mass there is but on **how far that mass is from the axis** (`I = Σmr²`). Mass far from the axis is harder to spin up.\n\n**Newton's second law for rotation.**\n`τ = I α`\nThe net torque equals the moment of inertia times the angular acceleration — exactly mirroring F = ma.\n\n**Rotational kinetic energy.**\n`KE_rot = ½ I ω²`\nthe spinning version of ½mv².\n\n**Angular momentum.** The rotational version of momentum:\n`L = I ω`\n\n**Conservation of angular momentum.** If no external torque acts, **total angular momentum stays constant**: `I₁ω₁ = I₂ω₂`. *Why it matters:* a spinning ice skater pulls her arms in, lowering I, so ω **increases** and she spins faster. The same idea explains why a diver tucks to spin quickly."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: torque on a wheel",
+                  "body": "**Problem:** A force of **40 N** is applied at the edge of a wheel of radius **0.30 m**, at right angles to the radius. The wheel has a moment of inertia of **0.60 kg·m²**. Find (a) the torque and (b) the angular acceleration.\n\n**Step 1 — Find the torque.** The force is perpendicular, so θ = 90° and sin 90° = 1:\n`τ = r F sin θ = 0.30 × 40 × 1 = 12 N·m`\n\n**Step 2 — Find the angular acceleration.** Use the rotational second law `τ = Iα`:\n`α = τ / I = 12 / 0.60 = 20 rad/s²`\n\n**Answer:** The torque is **12 N·m** and the angular acceleration is **20 rad/s²**.\n\n**Check:** A larger force or radius would give more torque; a larger moment of inertia would give less angular acceleration — both behave as expected."
+                },
+                {
+                  "type": "visual",
+                  "title": "Torque depends on where you push",
+                  "body": "The diagram below shows a door seen from above, hinged on the left. A force applied far from the hinge, at right angles, produces a large torque (τ = rF). The same force applied near the hinge, or along the door, produces little or no torque.",
+                  "visual": {
+                    "kind": "diagram",
+                    "data": {
+                      "description": "Top-down view of a door hinged at the left edge (axis marked with a small circle). Three force arrows: (1) a long lever arm r to the right edge with a force arrow perpendicular to the door labelled 'large torque'; (2) a force near the hinge perpendicular to the door labelled 'small torque (small r)'; (3) a force at the far edge pointing along the door (toward the hinge) labelled 'zero torque (force parallel to r)'. Caption: torque τ = rF sin θ, greatest when the force is far out and perpendicular."
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Ignoring where the force acts.** Torque depends on the **distance from the axis**; the same force gives more torque with a longer lever arm.\n- **Forgetting the angle.** Only the perpendicular part of the force turns the object: τ = rF sin θ.\n- **Treating moment of inertia like plain mass.** I depends on **how the mass is spread out**, not just how much there is.\n- **Mixing linear and angular formulas.** Use ω, α, I, τ, L for rotation — not v, a, m, F, p.\n- **Thinking a skater speeds up 'for no reason'.** Pulling arms in lowers I, and because L = Iω is conserved, ω must rise."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to remember it",
+                  "body": "- **Rotation mirrors translation:** swap **m→I, v→ω, a→α, F→τ, p→L**. Every linear equation has a twin.\n- **\"Torque = turn,\"** and longer lever arm = easier turn (think of a long spanner).\n- **\"tau = I alpha\"** is the spin twin of **\"F = ma.\"**\n- **Skater spin:** arms **in** → spin **fast** (I down, ω up). Arms out → spin slow.\n- Rotational KE is **\"half-I-omega-squared\"**, just like ½mv²."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers below.\n\n**Q1.** A force of 25 N is applied at right angles 0.40 m from an axis. What is the torque?\n\n**Q2.** A wheel has I = 2.0 kg·m² and spins at ω = 5.0 rad/s. What is its angular momentum?\n\n**Q3.** A skater with I = 4.0 kg·m² spins at 2.0 rad/s, then pulls in to I = 2.0 kg·m². What is her new angular speed?\n\n**Answers:**\n- **A1.** `τ = rF sin 90° = 0.40 × 25 × 1 =` **10 N·m**.\n- **A2.** `L = Iω = 2.0 × 5.0 =` **10 kg·m²/s**.\n- **A3.** Conserving L: `I₁ω₁ = I₂ω₂` → `4.0 × 2.0 = 2.0 × ω₂` → ω₂ = **4.0 rad/s**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points",
+                  "body": "- Rotation uses **angular** quantities: θ, ω, α, linked to linear ones by `v = rω`, `a = rα`.\n- **Torque** `τ = rF sin θ` is the turning effect; greatest when the force is perpendicular and far from the axis.\n- **Moment of inertia (I)** is rotational mass; it depends on how mass is distributed.\n- Rotational second law: `τ = Iα`; rotational KE `= ½Iω²`; angular momentum `L = Iω`.\n- **Angular momentum is conserved** when no external torque acts (skater spins faster with arms in)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms from this lesson.",
+                  "glossary": [
+                    { "term": "Angular velocity", "definition": "The rate of change of angular displacement, ω, measured in rad/s." },
+                    { "term": "Torque", "definition": "The turning effect of a force, τ = rF sin θ, measured in N·m." },
+                    { "term": "Moment of inertia", "definition": "The resistance of an object to a change in its rotation; depends on mass and its distance from the axis." },
+                    { "term": "Rotational kinetic energy", "definition": "The energy of a spinning object, KE = ½Iω²." },
+                    { "term": "Angular momentum", "definition": "The rotational equivalent of momentum, L = Iω." },
+                    { "term": "Conservation of angular momentum", "definition": "Total angular momentum stays constant when no external torque acts." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the formula for torque?", "back": "τ = rF sin θ, where r is the distance from the axis and θ is the angle between r and the force." },
+                { "front": "What is the rotational version of Newton's second law?", "back": "τ = Iα (net torque = moment of inertia × angular acceleration)." },
+                { "front": "What does the moment of inertia depend on?", "back": "Both the amount of mass and how far that mass is from the axis of rotation (I = Σmr²)." },
+                { "front": "What is the formula for angular momentum?", "back": "L = Iω (moment of inertia × angular velocity)." },
+                { "front": "Why does a spinning skater speed up when pulling her arms in?", "back": "She lowers her moment of inertia I, and since L = Iω is conserved, ω increases." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Torque",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A force of 20 N acts at right angles 0.50 m from an axis. What is the torque?",
+              "options": ["0.025 N·m", "10 N·m", "20 N·m", "40 N·m"],
+              "answer": "1",
+              "explanation": "τ = rF sin 90° = 0.50 × 20 × 1 = 10 N·m."
+            },
+            {
+              "topic": "Angular quantities",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which quantity is the rotational equivalent of mass?",
+              "options": ["Torque", "Angular velocity", "Moment of inertia", "Angular momentum"],
+              "answer": "2",
+              "explanation": "The moment of inertia plays the role of mass in rotation: it measures resistance to changes in rotation."
+            },
+            {
+              "topic": "Rotational second law",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A net torque of 6.0 N·m acts on a wheel with moment of inertia 3.0 kg·m². What is its angular acceleration?",
+              "options": ["0.5 rad/s²", "2.0 rad/s²", "9.0 rad/s²", "18 rad/s²"],
+              "answer": "1",
+              "explanation": "Using τ = Iα: α = τ/I = 6.0/3.0 = 2.0 rad/s²."
+            },
+            {
+              "topic": "Maximum torque",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "At what angle between the force and the lever arm is the torque greatest?",
+              "options": ["0°", "45°", "90°", "180°"],
+              "answer": "2",
+              "explanation": "τ = rF sin θ is greatest when sin θ = 1, i.e. when the force is perpendicular to the lever arm (θ = 90°)."
+            },
+            {
+              "topic": "Angular momentum",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A wheel with I = 2.0 kg·m² spins at 6.0 rad/s. What is its angular momentum?",
+              "options": ["3.0 kg·m²/s", "8.0 kg·m²/s", "12 kg·m²/s", "36 kg·m²/s"],
+              "answer": "2",
+              "explanation": "L = Iω = 2.0 × 6.0 = 12 kg·m²/s."
+            },
+            {
+              "topic": "Conservation of angular momentum",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A skater spinning at 3.0 rad/s with I = 6.0 kg·m² pulls in her arms so I becomes 2.0 kg·m². What is her new angular speed?",
+              "options": ["1.0 rad/s", "3.0 rad/s", "6.0 rad/s", "9.0 rad/s"],
+              "answer": "3",
+              "explanation": "Conserving angular momentum: I₁ω₁ = I₂ω₂ → 6.0 × 3.0 = 2.0 × ω₂ → ω₂ = 18/2.0 = 9.0 rad/s."
+            }
+          ]
+        },
+        {
+          "title": "Equilibrium",
+          "description": "When objects are balanced: equilibrium of a particle, moments and torque, the two conditions of equilibrium, and couples.",
+          "lessons": [
+            {
+              "title": "Equilibrium: Balanced Forces and Moments",
+              "summary": "Learn the two conditions for an object to be in equilibrium: balanced forces and balanced moments. Includes the principle of moments and couples.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Staying balanced",
+                  "body": "A bridge over the Awash River, a ladder leaning on a wall, a seesaw with two children — all are examples of **equilibrium**, where everything is balanced and nothing accelerates or starts to spin.\n\nUnderstanding equilibrium lets engineers design safe structures. The rules are simple but powerful: the **forces must balance**, and the **turning effects must balance** too."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **equilibrium** for a particle and a rigid body.\n- State the **two conditions of equilibrium**.\n- Use the **principle of moments** to solve balance problems.\n- Define a **couple** and its **moment**.\n- Apply equilibrium to real situations like a seesaw or beam."
+                },
+                {
+                  "type": "theory",
+                  "title": "Conditions of equilibrium and moments",
+                  "body": "**Equilibrium of a particle.** A particle (a point object) is in equilibrium when the **net force on it is zero**, so it stays at rest or moves at constant velocity. In components: the up forces equal the down forces, and the left forces equal the right forces (`ΣFₓ = 0` and `ΣF_y = 0`).\n\n**Moment (torque) of a force.** For a body that can rotate, we also need the turning effects to balance. The **moment** of a force about a pivot is:\n`moment = force × perpendicular distance from the pivot`\nmeasured in N·m. A clockwise moment turns one way; an anticlockwise moment turns the other.\n\n**The two conditions of equilibrium.** A rigid body is in **complete equilibrium** only if **both** are true:\n1. **The net force is zero** (no linear acceleration): `ΣF = 0`.\n2. **The net moment about any point is zero** (no angular acceleration): `Στ = 0`.\n*Why both?* Balanced forces stop it sliding; balanced moments stop it spinning. You need both for true balance.\n\n**The principle of moments.** For a body balanced about a pivot:\n`total clockwise moments = total anticlockwise moments`\nThis is just condition 2 written out. It is what makes a seesaw balance: a heavy child sits closer to the pivot, a light child sits further away.\n\n**Couples.** A **couple** is a pair of equal, opposite, parallel forces whose lines of action do **not** pass through the same point. A couple produces **only rotation** (no net force) — think of the two hands turning a steering wheel. The **moment of a couple** is:\n`moment = one force × perpendicular distance between the two forces`"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: balancing a seesaw",
+                  "body": "**Problem:** A child of weight **300 N** sits **1.5 m** to the left of the pivot of a seesaw. Where must a child of weight **450 N** sit on the right to balance it?\n\n**Step 1 — Apply the principle of moments.** For balance:\n`clockwise moment = anticlockwise moment`\nLeft child gives an anticlockwise moment; right child a clockwise moment.\n\n**Step 2 — Write the moments.** Let the right child sit a distance d from the pivot.\n`300 N × 1.5 m = 450 N × d`\n`450 = 450 × d`\n\n**Step 3 — Solve for d.**\n`d = 450 / 450 = 1.0 m`\n\n**Answer:** The 450 N child must sit **1.0 m** from the pivot.\n\n**Check:** The heavier child sits **closer** to the pivot, which is exactly what we expect — a larger force needs a smaller distance to give the same moment."
+                },
+                {
+                  "type": "visual",
+                  "title": "A balanced seesaw",
+                  "body": "The diagram shows the seesaw from the worked example. The lighter 300 N child sits far from the pivot (1.5 m) and the heavier 450 N child sits closer (1.0 m). The anticlockwise moment (300 × 1.5 = 450 N·m) exactly balances the clockwise moment (450 × 1.0 = 450 N·m).",
+                  "visual": {
+                    "kind": "free-body",
+                    "data": {
+                      "description": "A horizontal beam resting on a triangular pivot in the middle. On the left, 1.5 m from the pivot, a downward arrow labelled '300 N'. On the right, 1.0 m from the pivot, a downward arrow labelled '450 N'. The pivot is marked as the turning point. Distances are shown as dimension lines from the pivot. Caption: anticlockwise moment 300 × 1.5 = clockwise moment 450 × 1.0 = 450 N·m."
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Checking only forces.** Balanced forces are not enough; the **moments must balance too**, or the object will spin.\n- **Using the wrong distance.** Use the **perpendicular** distance from the pivot to the line of the force, not the slanted length.\n- **Forgetting weight acts at the centre of mass.** A uniform beam's weight acts at its **midpoint**.\n- **Thinking a couple has a net force.** A couple gives **pure rotation**; the two forces cancel, so there is no net force.\n- **Choosing a poor pivot.** You can take moments about **any** point — pick one that makes an unknown force disappear (acts through the pivot)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to remember it",
+                  "body": "- **\"Two to balance\":** forces balance **and** moments balance.\n- **Principle of moments:** **\"clockwise = anticlockwise.\"**\n- **Seesaw rule:** heavier sits **closer**, lighter sits **further** (force × distance must match).\n- **Couple = pure spin:** a steering wheel turned by two hands — turns but does not slide.\n- Pick a clever pivot to **'hide' an unknown force** (let it act through the pivot so its moment is zero)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers below.\n\n**Q1.** A 200 N child sits 2.0 m from a pivot. What anticlockwise moment does she produce?\n\n**Q2.** On a balanced beam, a 5.0 N weight is 0.40 m left of the pivot. A weight 0.20 m right of the pivot balances it. What is that weight?\n\n**Q3.** A couple consists of two 8.0 N forces 0.50 m apart. What is the moment of the couple?\n\n**Answers:**\n- **A1.** `moment = F × d = 200 × 2.0 =` **400 N·m**.\n- **A2.** `5.0 × 0.40 = W × 0.20` → `2.0 = 0.20 W` → W = **10 N**.\n- **A3.** `moment = F × d = 8.0 × 0.50 =` **4.0 N·m**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points",
+                  "body": "- A particle is in **equilibrium** when the **net force is zero**.\n- A rigid body needs **both**: `ΣF = 0` **and** `Στ = 0`.\n- **Moment** = force × perpendicular distance from the pivot.\n- **Principle of moments:** total clockwise moments = total anticlockwise moments.\n- A **couple** is two equal, opposite, parallel forces giving **pure rotation**; its moment = force × distance between them."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms from this lesson.",
+                  "glossary": [
+                    { "term": "Equilibrium", "definition": "A state where an object has zero net force and zero net moment, so it does not accelerate or rotate." },
+                    { "term": "Moment (torque)", "definition": "The turning effect of a force, equal to force × perpendicular distance from the pivot." },
+                    { "term": "Principle of moments", "definition": "For a balanced body, total clockwise moments equal total anticlockwise moments." },
+                    { "term": "Pivot", "definition": "The fixed point about which an object can turn." },
+                    { "term": "Couple", "definition": "A pair of equal, opposite, parallel forces that produce rotation but no net force." },
+                    { "term": "Centre of mass", "definition": "The point where the weight of a body can be taken to act." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What are the two conditions for a rigid body to be in equilibrium?", "back": "The net force is zero (ΣF = 0) and the net moment about any point is zero (Στ = 0)." },
+                { "front": "How is the moment of a force calculated?", "back": "Moment = force × perpendicular distance from the pivot, in N·m." },
+                { "front": "State the principle of moments.", "back": "For a balanced body, the total clockwise moments equal the total anticlockwise moments." },
+                { "front": "What is a couple?", "back": "A pair of equal, opposite, parallel forces that produce pure rotation with no net force." },
+                { "front": "On a seesaw, where does a heavier person sit to balance a lighter one?", "back": "Closer to the pivot, so that force × distance is equal on both sides." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Equilibrium of a particle",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A particle is in equilibrium. What must be true of the net force on it?",
+              "options": ["It is zero", "It points upward", "It equals the weight", "It increases steadily"],
+              "answer": "0",
+              "explanation": "For a particle in equilibrium the net (resultant) force must be zero, so it stays at rest or moves at constant velocity."
+            },
+            {
+              "topic": "Moments",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A force of 30 N acts at a perpendicular distance of 2.0 m from a pivot. What is the moment?",
+              "options": ["15 N·m", "32 N·m", "60 N·m", "0 N·m"],
+              "answer": "2",
+              "explanation": "Moment = force × perpendicular distance = 30 × 2.0 = 60 N·m."
+            },
+            {
+              "topic": "Conditions of equilibrium",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A beam has balanced forces but the net moment is not zero. What will happen?",
+              "options": ["It stays perfectly still", "It will start to rotate", "It will fly upward", "Nothing can be said"],
+              "answer": "1",
+              "explanation": "Balanced forces prevent sliding, but an unbalanced moment will make the beam rotate. Both conditions are needed for equilibrium."
+            },
+            {
+              "topic": "Principle of moments",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A 400 N child sits 1.0 m from a pivot. How far from the pivot must a 200 N child sit to balance the seesaw?",
+              "options": ["0.5 m", "1.0 m", "2.0 m", "4.0 m"],
+              "answer": "2",
+              "explanation": "400 × 1.0 = 200 × d → d = 400/200 = 2.0 m. The lighter child sits further from the pivot."
+            },
+            {
+              "topic": "Couples",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A couple is made of two 12 N forces acting 0.25 m apart. What is the moment of the couple?",
+              "options": ["3.0 N·m", "6.0 N·m", "12 N·m", "48 N·m"],
+              "answer": "0",
+              "explanation": "Moment of a couple = one force × distance between them = 12 × 0.25 = 3.0 N·m."
+            },
+            {
+              "topic": "Beam equilibrium",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A uniform beam rests on a single central pivot. Where does its weight act?",
+              "options": ["At the left end", "At the right end", "At its centre (midpoint)", "It has no weight"],
+              "answer": "2",
+              "explanation": "The weight of a uniform beam acts at its centre of mass, which is its midpoint, directly over the central pivot."
+            }
+          ]
+        },
+        {
+          "title": "Properties of Bulk Matter",
+          "description": "The behaviour of solids, liquids and gases: elasticity and stress-strain, fluid statics (pressure and buoyancy), fluid dynamics, and heat and thermal expansion.",
+          "lessons": [
+            {
+              "title": "Elasticity, Fluids and Thermal Expansion",
+              "summary": "Learn how solids stretch (stress, strain, Young's modulus), how fluids exert pressure and buoyancy, and how materials expand when heated.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "How matter behaves in bulk",
+                  "body": "Matter comes in **solids, liquids and gases**, and each behaves differently when you push, squeeze or heat it. A steel cable stretches a little under load; water pushes up on a boat; a metal bridge grows slightly longer on a hot day in Dire Dawa.\n\nThis lesson covers three big ideas about **bulk matter**: how solids deform (**elasticity**), how fluids exert pressure and lift (**fluid statics**), and how things change size with temperature (**thermal expansion**)."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **stress**, **strain** and **Young's modulus**.\n- State **Hooke's law** for elastic materials.\n- Calculate **pressure** in a fluid and explain **buoyancy** (Archimedes' principle).\n- Explain the **continuity** idea in flowing fluids.\n- Calculate **linear thermal expansion**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Elasticity, fluids and heat",
+                  "body": "**Elastic behaviour.** When you stretch a solid, it resists. **Stress** is the force per unit area: `stress = F / A` (in pascals, Pa). **Strain** is the fractional change in length: `strain = ΔL / L` (no units). For small loads, **Hooke's law** holds: stress is proportional to strain. The constant of proportionality is the **Young's modulus**:\n`E = stress / strain = (F/A) / (ΔL/L)`\nA large E means a stiff material (like steel). *Why a limit?* Beyond the **elastic limit** the material no longer returns to its original shape — it is permanently deformed.\n\n**Fluid statics — pressure.** A fluid pushes on every surface it touches. **Pressure** is force per unit area: `P = F / A`. The pressure due to a column of fluid of depth h is:\n`P = ρ g h`\nwhere ρ (rho) is the density, g = 9.81 m/s², and h the depth. *Why depth matters:* deeper fluid has more weight above it pressing down, so the pressure is greater — this is why a dam is built thicker at the bottom.\n\n**Buoyancy — Archimedes' principle.** Any object in a fluid feels an upward **buoyant force** equal to the **weight of the fluid it displaces**:\n`F_buoyant = ρ_fluid × V_displaced × g`\nThis is why a boat floats: it sinks until it pushes aside a weight of water equal to its own weight.\n\n**Fluid dynamics — continuity.** For a fluid flowing through a pipe that gets narrower, the fluid must speed up so the same amount passes each second: `A₁v₁ = A₂v₂`. *Why:* the fluid is (almost) incompressible, so what goes in must come out. This is why a river flows faster where it narrows.\n\n**Thermal expansion.** Most materials **expand when heated** because their particles vibrate more and push apart. For a solid rod, the increase in length is:\n`ΔL = α L ΔT`\nwhere α (alpha) is the **coefficient of linear expansion**, L the original length, and ΔT the temperature rise. *Why it matters:* engineers leave **expansion gaps** in bridges and railway lines so they do not buckle in the heat."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: thermal expansion of a steel rail",
+                  "body": "**Problem:** A steel railway rail is **20.0 m** long at 10 °C. On a hot day its temperature rises to **40 °C**. The coefficient of linear expansion of steel is **α = 1.2 × 10⁻⁵ /°C**. How much does the rail expand?\n\n**Step 1 — Find the temperature change.**\n`ΔT = 40 − 10 = 30 °C`\n\n**Step 2 — Use the linear expansion formula.**\n`ΔL = α L ΔT`\n`ΔL = (1.2 × 10⁻⁵) × 20.0 × 30`\n\n**Step 3 — Calculate.**\n`ΔL = 1.2 × 10⁻⁵ × 600 = 7.2 × 10⁻³ m = 0.0072 m`\n\n**Answer:** The rail expands by **7.2 mm**.\n\n**Check:** Although 7.2 mm is small, over many joined rails it adds up — which is exactly why small **expansion gaps** are left between rails to prevent buckling."
+                },
+                {
+                  "type": "visual",
+                  "title": "Pressure increases with depth",
+                  "body": "The diagram shows a tank of water with three small holes at different depths. Water spurts out fastest and furthest from the **deepest** hole, because pressure increases with depth according to P = ρgh.",
+                  "visual": {
+                    "kind": "diagram",
+                    "data": {
+                      "description": "A tall tank of water with three holes on the right side at low, middle and high positions. From the bottom (deepest) hole a long horizontal jet of water shoots out far; from the middle hole a medium jet; from the top hole a short jet that falls quickly. Depth h is marked from the water surface down to each hole. Caption: pressure P = ρgh increases with depth, so deeper water spurts out faster and further."
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Confusing stress and strain.** Stress is force per area (Pa); strain is the **fractional** change in length (no units).\n- **Thinking pressure depends on the amount of water.** Fluid pressure depends on **depth**, not on the total volume or the width of the container.\n- **Getting buoyancy backward.** The buoyant force equals the weight of the **fluid displaced**, not the weight of the object.\n- **Forgetting to use a temperature change.** Expansion uses **ΔT** (the change), not the temperature itself.\n- **Using the wrong area.** In P = F/A and stress = F/A, A is the area the force acts **over**, perpendicular to the force."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to remember it",
+                  "body": "- **\"Stress is the cause, strain is the change.\"** Stress = F/A (the push), strain = ΔL/L (the stretch).\n- **\"Deeper = harder push\":** P = ρgh, so pressure grows with depth.\n- **Archimedes in the bath:** the upthrust equals the weight of fluid **pushed aside**.\n- **\"Hot stuff grows\":** ΔL = αLΔT — heat makes things expand.\n- **Narrow = fast:** in a pipe, where it narrows the fluid speeds up (continuity)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers below.\n\n**Q1.** A force of 500 N acts on an area of 0.25 m². What is the pressure?\n\n**Q2.** What is the water pressure at a depth of 10 m? (ρ = 1000 kg/m³, g = 9.81 m/s².)\n\n**Q3.** An aluminium rod 2.0 m long is heated by 50 °C. If α = 2.3 × 10⁻⁵ /°C, how much does it expand?\n\n**Answers:**\n- **A1.** `P = F/A = 500 / 0.25 =` **2000 Pa**.\n- **A2.** `P = ρgh = 1000 × 9.81 × 10 =` **98 100 Pa** (about 98 kPa).\n- **A3.** `ΔL = αLΔT = 2.3 × 10⁻⁵ × 2.0 × 50 =` **2.3 × 10⁻³ m** (2.3 mm)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points",
+                  "body": "- **Stress** = F/A; **strain** = ΔL/L; **Young's modulus** E = stress/strain measures stiffness.\n- **Hooke's law:** stress ∝ strain up to the **elastic limit**.\n- Fluid **pressure** `P = ρgh` increases with depth.\n- **Archimedes' principle:** buoyant force = weight of fluid displaced.\n- **Continuity:** `A₁v₁ = A₂v₂` — fluids speed up in narrower pipes.\n- **Linear expansion:** `ΔL = αLΔT`; engineers leave expansion gaps."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms from this lesson.",
+                  "glossary": [
+                    { "term": "Stress", "definition": "The force applied per unit area, F/A, measured in pascals (Pa)." },
+                    { "term": "Strain", "definition": "The fractional change in length, ΔL/L; it has no units." },
+                    { "term": "Young's modulus", "definition": "The ratio of stress to strain for an elastic material; a measure of stiffness." },
+                    { "term": "Pressure", "definition": "Force per unit area; in a fluid at depth h, P = ρgh." },
+                    { "term": "Buoyant force", "definition": "The upward force on an object in a fluid, equal to the weight of fluid displaced (Archimedes' principle)." },
+                    { "term": "Coefficient of linear expansion", "definition": "The fractional increase in length per degree of temperature rise, α." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the formula for stress, and its unit?", "back": "Stress = force / area (F/A), measured in pascals (Pa)." },
+                { "front": "What is Young's modulus?", "back": "The ratio of stress to strain, E = (F/A)/(ΔL/L); it measures how stiff a material is." },
+                { "front": "How does fluid pressure depend on depth?", "back": "P = ρgh, so pressure increases with depth (and with fluid density)." },
+                { "front": "State Archimedes' principle.", "back": "The buoyant (upward) force on an object equals the weight of the fluid it displaces." },
+                { "front": "What is the formula for the linear expansion of a heated rod?", "back": "ΔL = αLΔT, where α is the coefficient of linear expansion, L the length, and ΔT the temperature rise." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Pressure",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A force of 200 N acts over an area of 4.0 m². What is the pressure?",
+              "options": ["50 Pa", "200 Pa", "800 Pa", "0.02 Pa"],
+              "answer": "0",
+              "explanation": "Pressure = force / area = 200 / 4.0 = 50 Pa."
+            },
+            {
+              "topic": "Stress and strain",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which quantity has no units?",
+              "options": ["Stress", "Strain", "Pressure", "Young's modulus"],
+              "answer": "1",
+              "explanation": "Strain is a ratio of two lengths (ΔL/L), so it has no units. Stress, pressure and Young's modulus are all measured in pascals."
+            },
+            {
+              "topic": "Fluid pressure",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "On what does the pressure at a point in a still liquid mainly depend?",
+              "options": ["The width of the container", "The depth below the surface", "The shape of the container", "The total volume of liquid"],
+              "answer": "1",
+              "explanation": "Fluid pressure P = ρgh depends on the depth (and density), not on the container's width, shape or total volume."
+            },
+            {
+              "topic": "Buoyancy",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "According to Archimedes' principle, the buoyant force on a submerged object equals the weight of the:",
+              "options": ["Object itself", "Fluid displaced by the object", "Container", "Air above the fluid"],
+              "answer": "1",
+              "explanation": "The buoyant force equals the weight of the fluid displaced by the object, which is why objects feel lighter in water."
+            },
+            {
+              "topic": "Thermal expansion",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A 10 m steel rail (α = 1.2 × 10⁻⁵ /°C) is heated by 50 °C. How much does it expand?",
+              "options": ["0.6 mm", "6.0 mm", "60 mm", "600 mm"],
+              "answer": "1",
+              "explanation": "ΔL = αLΔT = 1.2 × 10⁻⁵ × 10 × 50 = 6.0 × 10⁻³ m = 6.0 mm."
+            },
+            {
+              "topic": "Continuity of flow",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Water flows through a pipe that narrows to half its area. What happens to the water's speed in the narrow part?",
+              "options": ["It halves", "It stays the same", "It doubles", "It becomes zero"],
+              "answer": "2",
+              "explanation": "By continuity A₁v₁ = A₂v₂: if the area halves, the speed must double so the same volume passes each second."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

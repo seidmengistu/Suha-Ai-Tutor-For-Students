@@ -1,0 +1,850 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "chemistry",
+      "chapters": [
+        {
+          "title": "Fundamental Concepts in Chemistry",
+          "description": "The scope of chemistry, SI units and measurement, uncertainty, significant figures, and the scientific method.",
+          "lessons": [
+            {
+              "title": "Measurement, Units, and the Nature of Chemistry",
+              "summary": "Chemistry studies matter and its changes using a shared system of measurement. This lesson covers SI units, derived units, uncertainty, and significant figures.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Why Measurement Matters",
+                  "body": "**Chemistry** is the science that deals with **matter** and the changes it undergoes. **Matter** is anything that has **mass** and occupies **space** (volume).\n\nEverything around you in Ethiopia, from the **teff** flour used to make injera to the water in the Blue Nile, is matter. To study matter scientifically, chemists must *measure* it. A measurement only has meaning if everyone agrees on the **units** used. That is why scientists worldwide use one common system: the **SI system**."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **chemistry**, **matter**, and **mass**.\n- List the **seven SI base units** and their symbols.\n- Use common **prefixes** (kilo, centi, milli) correctly.\n- Convert units using the **factor-label (dimensional analysis)** method.\n- Explain the difference between **accuracy** and **precision**.\n- Count **significant figures** in a measurement."
+                },
+                {
+                  "type": "theory",
+                  "title": "SI Units, Prefixes, and Derived Units",
+                  "body": "All measurements are built from **seven SI base units**:\n\n| Quantity | Unit | Symbol |\n|---|---|---|\n| Mass | kilogram | kg |\n| Length | metre | m |\n| Time | second | s |\n| Temperature | kelvin | K |\n| Amount of substance | mole | mol |\n| Electric current | ampere | A |\n| Luminous intensity | candela | cd |\n\n**Prefixes** make units bigger or smaller using powers of ten. WHY? Because a chemist may weigh a few milligrams of medicine but an industry may handle thousands of kilograms of fertilizer. Common prefixes: **kilo (k) = 10³**, **centi (c) = 10⁻²**, **milli (m) = 10⁻³**, **micro (μ) = 10⁻⁶**, **nano (n) = 10⁻⁹**.\n\n**Derived units** are combinations of base units:\n- **Volume** = length × length × length, measured in cm³ or **litres (L)**. Note: 1 L = 1000 cm³ and 1 mL = 1 cm³.\n- **Density** = mass ÷ volume (g/cm³). Density tells us *how tightly packed* matter is. This is WHY oil floats on water: oil is less dense, so the same volume of oil weighs less.\n- **Temperature** links three scales: **K = °C + 273.15**.\n\n**Accuracy** means how close a measurement is to the true value. **Precision** means how close repeated measurements are to each other. They are different: you can be precise (consistent) but inaccurate (consistently wrong)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Calculating Density Step by Step",
+                  "body": "**Problem:** A piece of silver weighing 194.3 g is dropped into a graduated cylinder holding 242.0 mL of water. The water level rises to 260.5 mL. Find the density of the silver.\n\n**Step 1 — Find the volume of the silver.**\nThe metal pushes the water up. The volume of metal = rise in water level.\nVolume = 260.5 mL − 242.0 mL = **18.5 mL = 18.5 cm³**\n\n**Step 2 — Write the density formula.**\nDensity (ρ) = mass ÷ volume\n\n**Step 3 — Substitute the numbers.**\nρ = 194.3 g ÷ 18.5 cm³\n\n**Step 4 — Calculate.**\nρ = **10.5 g/cm³**\n\nThis matches the known density of silver, so our answer is reasonable."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Errors Students Often Make",
+                  "body": "- **Confusing mass and weight.** Mass is the amount of matter (kg) and never changes; weight is the pull of gravity (newtons) and changes with location.\n- **Writing the kelvin symbol as lowercase 'k'.** It must be capital **K**. Lowercase k means kilo.\n- **Forgetting 1 mL = 1 cm³.** Many students treat them as different — they are equal.\n- **Mixing up accuracy and precision.** Remember: accuracy = correct; precision = consistent.\n- **Dropping units during calculation.** Always carry units through; if the units do not cancel correctly, you made an error."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **SI base units mnemonic:** *\"My Lovely Teacher Teaches Awesome Math Concepts\"* → **M**ass, **L**ength, **T**ime, **T**emperature, **A**mount, **(electric) M**... current (ampere), luminous intensity (**C**andela).\n- **King Henry** trick for prefixes: *\"King Henry Died Drinking Chocolate Milk\"* → **k**ilo, **h**ecto, **d**eca, base, **d**eci, **c**enti, **m**illi.\n- **Density floats**: *less dense floats, more dense sinks* — like oil (floats) vs. mercury (sinks) in water.\n- **K = C + 273**: just add 273 to go from Celsius to Kelvin."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Convert 25 °C to kelvin.\n**Answer:** K = 25 + 273.15 = **298.15 K**.\n\n2. A block has length 8.0 cm, width 2.0 cm, height 1.0 cm, and mass 48 g. Find its density.\n**Answer:** Volume = 8.0 × 2.0 × 1.0 = 16 cm³; density = 48 ÷ 16 = **3.0 g/cm³**.\n\n3. Convert 3.0 km to metres.\n**Answer:** 3.0 × 1000 = **3000 m**.\n\n4. How many cm³ are in 2.5 L?\n**Answer:** 2.5 × 1000 = **2500 cm³**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **Chemistry** studies **matter** (anything with mass and volume) and its changes.\n- There are **seven SI base units**; chemistry mainly uses six (not candela).\n- **Prefixes** scale units by powers of ten (kilo, centi, milli, micro).\n- **Derived units** like volume and density come from base units; **density = mass ÷ volume**.\n- **Accuracy** = closeness to truth; **precision** = consistency.\n- Always **carry units** through calculations to catch errors."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important vocabulary for this lesson.",
+                  "glossary": [
+                    { "term": "Matter", "definition": "Anything that has mass and occupies space (volume)." },
+                    { "term": "Mass", "definition": "The amount of matter in an object, measured in kilograms; not affected by gravity." },
+                    { "term": "Density", "definition": "The mass of a substance per unit of its volume (mass ÷ volume)." },
+                    { "term": "SI unit", "definition": "A standard unit of measurement agreed upon internationally for use in science." },
+                    { "term": "Precision", "definition": "How close repeated measurements are to one another." },
+                    { "term": "Accuracy", "definition": "How close a measurement is to the true or accepted value." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is matter?", "back": "Anything that has mass and occupies space (volume)." },
+                { "front": "What is the formula for density?", "back": "Density = mass ÷ volume (e.g. g/cm³)." },
+                { "front": "How do you convert °C to kelvin?", "back": "K = °C + 273.15." },
+                { "front": "What is the difference between accuracy and precision?", "back": "Accuracy is closeness to the true value; precision is closeness of repeated measurements to each other." },
+                { "front": "How many cm³ are in 1 litre?", "back": "1 L = 1000 cm³, and 1 mL = 1 cm³." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "SI base units",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of the following is the SI base unit for the amount of substance?",
+              "options": ["gram", "litre", "mole", "newton"],
+              "answer": "2",
+              "explanation": "The mole (mol) is the SI base unit for amount of substance. Gram and litre are not base units, and the newton is a derived unit of force."
+            },
+            {
+              "topic": "Density",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A metal cube has a mass of 60 g and a volume of 20 cm³. What is its density?",
+              "options": ["0.33 g/cm³", "3.0 g/cm³", "12 g/cm³", "1200 g/cm³"],
+              "answer": "1",
+              "explanation": "Density = mass ÷ volume = 60 g ÷ 20 cm³ = 3.0 g/cm³."
+            },
+            {
+              "topic": "Temperature conversion",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Room temperature in Addis Ababa is about 20 °C. What is this in kelvin?",
+              "options": ["247 K", "253 K", "293 K", "313 K"],
+              "answer": "2",
+              "explanation": "K = °C + 273.15, so 20 + 273.15 ≈ 293 K."
+            },
+            {
+              "topic": "Accuracy vs precision",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A balance always reads 2 g too high. Measurements from it are best described as:",
+              "options": ["accurate but not precise", "precise but not accurate", "both accurate and precise", "neither accurate nor precise"],
+              "answer": "1",
+              "explanation": "The readings are consistent with each other (precise) but consistently wrong by 2 g (not accurate)."
+            },
+            {
+              "topic": "Unit conversion",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Convert 4.5 L to cubic centimetres (cm³).",
+              "options": ["4.5 cm³", "45 cm³", "450 cm³", "4500 cm³"],
+              "answer": "3",
+              "explanation": "1 L = 1000 cm³, so 4.5 L × 1000 = 4500 cm³."
+            },
+            {
+              "topic": "Significant figures",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "How many significant figures are in the measurement 0.04030 g?",
+              "options": ["3", "4", "5", "6"],
+              "answer": "1",
+              "explanation": "Leading zeros are not significant, but the captured zeros between digits and the trailing zero after the decimal are. The significant digits are 4, 0, 3, 0 — that is 4 significant figures."
+            }
+          ]
+        },
+        {
+          "title": "Atomic Structure and the Periodic Table",
+          "description": "How atoms are built, atomic theory, the quantum model, electron configurations, and the structure of the periodic table.",
+          "lessons": [
+            {
+              "title": "Inside the Atom and the Periodic Table",
+              "summary": "Atoms are made of protons, neutrons, and electrons. This lesson explains atomic structure, electron configuration, and how the periodic table is organised.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "The Building Blocks of Everything",
+                  "body": "Every substance, from the gold in Ethiopian jewellery to the oxygen you breathe, is made of tiny particles called **atoms**. An **atom** is the smallest unit of an element that still keeps the properties of that element.\n\nFor thousands of years people wondered what matter was made of. Today we know atoms have an inner structure. Understanding that structure explains *why* elements behave the way they do and *why* the **periodic table** is arranged as it is."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Name the three **subatomic particles** and their charges.\n- Define **atomic number** and **mass number**.\n- Explain what **isotopes** are.\n- Write the **electron configuration** of small atoms.\n- Describe how the **periodic table** is organised into **periods** and **groups**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Subatomic Particles and Electron Arrangement",
+                  "body": "An atom has a tiny central **nucleus** surrounded by moving **electrons**.\n\n| Particle | Charge | Location | Relative mass |\n|---|---|---|---|\n| **Proton** | +1 | nucleus | 1 |\n| **Neutron** | 0 | nucleus | 1 |\n| **Electron** | −1 | around nucleus | ~1/1836 |\n\n**Atomic number (Z)** = the number of **protons**. It defines which element you have. **Mass number (A)** = protons + neutrons.\n\n**Isotopes** are atoms of the same element (same protons) but different numbers of neutrons. WHY do they matter? Because they have the same chemistry but different mass — this is used in carbon dating and medicine.\n\nElectrons occupy **energy levels (shells)**. Each shell holds a maximum number of electrons: shell 1 holds 2, shell 2 holds 8, shell 3 holds 8 (for the first 20 elements). Electrons fill the **lowest energy level first** — this is the **Aufbau principle**. WHY? Nature prefers the lowest, most stable energy state.\n\nThe **periodic table** arranges elements by increasing atomic number. A horizontal row is a **period** (same number of shells). A vertical column is a **group** (same number of outer electrons), which is WHY elements in a group behave similarly."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Writing an Electron Configuration",
+                  "body": "**Problem:** Write the electron configuration of a chlorine atom (atomic number Z = 17).\n\n**Step 1 — Find the number of electrons.**\nA neutral atom has equal protons and electrons. Z = 17, so chlorine has **17 electrons**.\n\n**Step 2 — Fill shells from the lowest energy upward.**\n- Shell 1 (max 2): place 2 electrons → 2 used, 15 left.\n- Shell 2 (max 8): place 8 electrons → 10 used, 7 left.\n- Shell 3 (max 8): place the remaining 7 electrons.\n\n**Step 3 — Write it out.**\nConfiguration: **2, 8, 7**\n\n**Step 4 — Interpret.**\nChlorine has **7 electrons in its outer shell**. It needs just 1 more to fill the shell, which is WHY chlorine is very reactive and easily gains one electron."
+                },
+                {
+                  "type": "visual",
+                  "title": "A Simple Atom",
+                  "body": "Below is a model of a lithium atom: a nucleus with 3 protons and 4 neutrons, surrounded by electrons in two shells (2 in the first, 1 in the second).",
+                  "visual": {
+                    "kind": "atom",
+                    "data": {
+                      "symbol": "Li",
+                      "protons": 3,
+                      "neutrons": 4,
+                      "electrons": 3,
+                      "shells": [2, 1]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Errors Students Often Make",
+                  "body": "- **Confusing atomic number with mass number.** Atomic number = protons only; mass number = protons + neutrons.\n- **Thinking isotopes are different elements.** Isotopes are the *same* element with different neutron counts.\n- **Overfilling a shell.** Shell 1 holds only 2 electrons, not 8.\n- **Forgetting electrons equal protons in a neutral atom.** They are only equal when the atom has no charge.\n- **Mixing up groups and periods.** Periods are rows; groups are columns."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Proton = Positive** — both start with P.\n- **Neutron = Neutral** — both start with N.\n- Shell capacities: **2, 8, 8** for the first 20 elements — say *\"two, eight, eight\"*.\n- **Groups are families**: elements in the same column act alike, like a family sharing traits.\n- **Atomic number = identity card** of the element; change it and you change the element."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. How many protons, neutrons, and electrons are in an atom with Z = 11 and A = 23?\n**Answer:** 11 protons, 11 electrons, 23 − 11 = **12 neutrons**.\n\n2. Write the electron configuration of oxygen (Z = 8).\n**Answer:** **2, 6**.\n\n3. Two atoms have 6 protons. One has 6 neutrons, the other has 8. What are they?\n**Answer:** **Isotopes** of carbon.\n\n4. Sodium is in Group 1. How many outer-shell electrons does it have?\n**Answer:** **1**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- Atoms contain **protons (+)**, **neutrons (0)** in the **nucleus**, and **electrons (−)** around it.\n- **Atomic number** = protons; **mass number** = protons + neutrons.\n- **Isotopes** = same element, different number of neutrons.\n- Electrons fill shells from lowest energy first; shells hold **2, 8, 8**.\n- The **periodic table** is ordered by atomic number; **periods** are rows, **groups** are columns.\n- Elements in the same **group** behave similarly because they share the same number of outer electrons."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important vocabulary for this lesson.",
+                  "glossary": [
+                    { "term": "Atom", "definition": "The smallest particle of an element that still has the properties of that element." },
+                    { "term": "Proton", "definition": "A positively charged particle found in the nucleus." },
+                    { "term": "Neutron", "definition": "A neutral (no charge) particle found in the nucleus." },
+                    { "term": "Electron", "definition": "A negatively charged particle that moves around the nucleus." },
+                    { "term": "Atomic number", "definition": "The number of protons in an atom; it identifies the element." },
+                    { "term": "Isotope", "definition": "Atoms of the same element that have different numbers of neutrons." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What are the charges of a proton, neutron, and electron?", "back": "Proton +1, neutron 0, electron −1." },
+                { "front": "What does the atomic number tell you?", "back": "The number of protons, which identifies the element." },
+                { "front": "What is the mass number?", "back": "The total number of protons plus neutrons in an atom." },
+                { "front": "What are isotopes?", "back": "Atoms of the same element with different numbers of neutrons." },
+                { "front": "What is the electron configuration of chlorine (Z = 17)?", "back": "2, 8, 7." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Subatomic particles",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which particle carries a positive charge?",
+              "options": ["electron", "neutron", "proton", "photon"],
+              "answer": "2",
+              "explanation": "The proton has a +1 charge. The electron is negative, the neutron has no charge, and a photon is not a subatomic particle of the atom."
+            },
+            {
+              "topic": "Atomic number",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "An atom has 9 protons. How many electrons does the neutral atom have?",
+              "options": ["0", "9", "18", "depends on neutrons"],
+              "answer": "1",
+              "explanation": "A neutral atom has equal numbers of protons and electrons, so it has 9 electrons."
+            },
+            {
+              "topic": "Mass number",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "An atom has 17 protons and 18 neutrons. What is its mass number?",
+              "options": ["1", "17", "18", "35"],
+              "answer": "3",
+              "explanation": "Mass number = protons + neutrons = 17 + 18 = 35."
+            },
+            {
+              "topic": "Isotopes",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Carbon-12 and Carbon-14 differ in their number of:",
+              "options": ["protons", "electrons", "neutrons", "energy levels"],
+              "answer": "2",
+              "explanation": "Both are carbon (6 protons) but Carbon-14 has 2 more neutrons than Carbon-12, making them isotopes."
+            },
+            {
+              "topic": "Electron configuration",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "What is the electron configuration of a magnesium atom (Z = 12)?",
+              "options": ["2, 10", "2, 8, 2", "2, 2, 8", "8, 2, 2"],
+              "answer": "1",
+              "explanation": "Filling shells lowest first: 2 in shell 1, 8 in shell 2, and the remaining 2 in shell 3 gives 2, 8, 2."
+            },
+            {
+              "topic": "Periodic table",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Elements in the same group of the periodic table have similar chemical properties mainly because they have the same number of:",
+              "options": ["neutrons", "protons", "outer-shell (valence) electrons", "occupied energy levels"],
+              "answer": "2",
+              "explanation": "Chemical behaviour is controlled by the outer-shell (valence) electrons. Elements in a group share the same number of valence electrons, so they react in similar ways."
+            }
+          ]
+        },
+        {
+          "title": "Chemical Bonding and Structure",
+          "description": "Why atoms join together: ionic, covalent, and metallic bonding, molecular shapes, and types of crystals.",
+          "lessons": [
+            {
+              "title": "How Atoms Bond Together",
+              "summary": "Atoms bond to become stable. This lesson explains ionic, covalent, and metallic bonding and how bonding decides a substance's properties.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Why Atoms Stick Together",
+                  "body": "Most atoms are not found alone in nature. They join together to form **compounds**. The force that holds atoms together is called a **chemical bond**.\n\nWHY do atoms bond? Atoms are most stable when their outer electron shell is full (usually 8 electrons — the **octet rule**). By sharing or transferring electrons, atoms reach this stable arrangement. Table salt (**sodium chloride**), used in every Ethiopian kitchen, exists because sodium and chlorine atoms bond."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- State the **octet rule** and why atoms bond.\n- Describe how an **ionic bond** forms by transferring electrons.\n- Describe how a **covalent bond** forms by sharing electrons.\n- Explain **metallic bonding** in simple terms.\n- Link the **type of bond** to the **properties** of a substance."
+                },
+                {
+                  "type": "theory",
+                  "title": "Three Main Types of Bonding",
+                  "body": "**1. Ionic bonding** happens between a **metal** and a **non-metal**. The metal *gives away* electrons to become a positive **ion (cation)**; the non-metal *gains* them to become a negative **ion (anion)**. Opposite charges attract, forming a strong bond. Example: sodium gives 1 electron to chlorine, forming Na⁺ and Cl⁻ in NaCl. Ionic compounds have **high melting points** and **conduct electricity when molten or dissolved** (the ions are free to move).\n\n**2. Covalent bonding** happens between **two non-metals**. Instead of transferring, atoms **share** electrons. Example: two hydrogen atoms share electrons to form H₂. Covalent substances are often **gases, liquids, or low-melting solids** and usually **do not conduct electricity**.\n\n**3. Metallic bonding** happens between **metal atoms**. The outer electrons leave their atoms and form a \"**sea of electrons**\" that flows freely around positive metal ions. WHY is this important? The free electrons let metals **conduct electricity and heat** and make them **shiny and bendable (malleable)** — exactly the qualities that make iron and aluminium useful for tools and buildings."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Forming Magnesium Chloride (Ionic)",
+                  "body": "**Problem:** Show how magnesium (Mg, Group 2) bonds with chlorine (Cl, Group 7) to form magnesium chloride.\n\n**Step 1 — Count outer electrons.**\nMagnesium has **2** outer electrons. Chlorine has **7** outer electrons (needs 1 more for a full shell).\n\n**Step 2 — Decide what each atom does.**\nMagnesium wants to *lose* its 2 outer electrons. Each chlorine can only *accept 1* electron.\n\n**Step 3 — Balance the electrons.**\nSince Mg gives away 2 but each Cl takes only 1, we need **two chlorine atoms** to take both electrons.\n\n**Step 4 — Write the ions and formula.**\nMagnesium becomes **Mg²⁺**; each chlorine becomes **Cl⁻**. The formula is **MgCl₂**.\n\n**Step 5 — Check.**\nTotal positive charge (+2) equals total negative charge (2 × −1 = −2). The compound is neutral. ✓"
+                },
+                {
+                  "type": "visual",
+                  "title": "A Covalent Molecule: Water",
+                  "body": "Water (H₂O) is a covalent molecule. One oxygen atom shares electrons with two hydrogen atoms.",
+                  "visual": {
+                    "kind": "molecule",
+                    "data": {
+                      "name": "Water",
+                      "formula": "H2O",
+                      "atoms": ["O", "H", "H"],
+                      "bonds": [
+                        { "from": "O", "to": "H", "order": 1 },
+                        { "from": "O", "to": "H", "order": 1 }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Errors Students Often Make",
+                  "body": "- **Saying ionic compounds conduct electricity as solids.** They only conduct when **molten or dissolved**, because then the ions can move.\n- **Thinking covalent bonds transfer electrons.** Covalent bonds **share** electrons; ionic bonds **transfer** them.\n- **Forgetting to balance charges** when writing an ionic formula (e.g. writing MgCl instead of MgCl₂).\n- **Confusing 'ion' with 'atom'.** An ion is a charged atom that has lost or gained electrons.\n- **Assuming all metals bond the same way as non-metals.** Metals use the special 'sea of electrons' model."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Ionic = Transfer; Covalent = Share.** *\"Ions are given away; covalent atoms care and share.\"*\n- **Metal + non-metal = ionic; non-metal + non-metal = covalent.**\n- **CAtions are PAWsitive** — cation = positive ion (the 't' looks like a plus +).\n- **Metals = sea of electrons**, which is why they conduct and bend.\n- **Octet rule:** atoms want **8** in their outer shell — think *\"happy at eight.\"*"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. What type of bond forms between potassium (a metal) and bromine (a non-metal)?\n**Answer:** **Ionic** bond.\n\n2. Why does molten NaCl conduct electricity but solid NaCl does not?\n**Answer:** In the molten state the **ions are free to move** and carry charge; in the solid they are locked in place.\n\n3. Write the formula for the ionic compound of calcium (Ca²⁺) and chloride (Cl⁻).\n**Answer:** **CaCl₂** (one Ca²⁺ balances two Cl⁻).\n\n4. Name the bonding that explains why copper wire conducts electricity.\n**Answer:** **Metallic** bonding (sea of free electrons)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- Atoms bond to reach a **full outer shell** (the **octet rule**).\n- **Ionic bonds** form by **transferring** electrons (metal + non-metal); they give high-melting solids that conduct when molten/dissolved.\n- **Covalent bonds** form by **sharing** electrons (non-metal + non-metal); they usually do not conduct.\n- **Metallic bonds** use a **sea of free electrons**, making metals conductive and malleable.\n- Always **balance the charges** when writing ionic formulas.\n- The **type of bond** determines a substance's **properties**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important vocabulary for this lesson.",
+                  "glossary": [
+                    { "term": "Chemical bond", "definition": "The force of attraction that holds atoms together in a compound." },
+                    { "term": "Ionic bond", "definition": "A bond formed when electrons are transferred from a metal to a non-metal, creating oppositely charged ions." },
+                    { "term": "Covalent bond", "definition": "A bond formed when two non-metal atoms share electrons." },
+                    { "term": "Metallic bond", "definition": "The attraction between positive metal ions and a shared 'sea' of free electrons." },
+                    { "term": "Ion", "definition": "An atom that has gained or lost electrons and therefore carries an electric charge." },
+                    { "term": "Octet rule", "definition": "The tendency of atoms to gain, lose, or share electrons to have eight electrons in their outer shell." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is an ionic bond?", "back": "A bond formed by transferring electrons from a metal to a non-metal, making oppositely charged ions that attract." },
+                { "front": "What is a covalent bond?", "back": "A bond formed when two non-metals share electrons." },
+                { "front": "Why do metals conduct electricity?", "back": "Because metallic bonding creates a 'sea' of free-moving electrons that carry charge." },
+                { "front": "When do ionic compounds conduct electricity?", "back": "When molten or dissolved in water, because the ions are then free to move." },
+                { "front": "What is the octet rule?", "back": "Atoms tend to gain, lose, or share electrons to get 8 electrons in their outer shell." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Bond types",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A bond formed between a metal and a non-metal by transferring electrons is called a(n):",
+              "options": ["covalent bond", "ionic bond", "metallic bond", "hydrogen bond"],
+              "answer": "1",
+              "explanation": "Transfer of electrons from a metal to a non-metal forms an ionic bond. Covalent bonds share electrons, and metallic bonds occur between metal atoms."
+            },
+            {
+              "topic": "Covalent bonding",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "In a covalent bond, electrons are:",
+              "options": ["transferred from one atom to another", "shared between atoms", "destroyed", "turned into protons"],
+              "answer": "1",
+              "explanation": "Covalent bonding involves the sharing of electrons between non-metal atoms."
+            },
+            {
+              "topic": "Properties of ionic compounds",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Why does solid sodium chloride NOT conduct electricity, while molten sodium chloride does?",
+              "options": ["The solid has no ions", "In the solid the ions cannot move", "Molten salt loses its charge", "Heat creates new electrons"],
+              "answer": "1",
+              "explanation": "Ions are present in both, but only in the molten state can the ions move freely to carry an electric current."
+            },
+            {
+              "topic": "Ionic formulas",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the correct formula for the compound formed from Mg²⁺ and Cl⁻?",
+              "options": ["MgCl", "MgCl₂", "Mg₂Cl", "Mg₂Cl₂"],
+              "answer": "1",
+              "explanation": "One Mg²⁺ (+2) needs two Cl⁻ (each −1) to balance the charge, giving MgCl₂."
+            },
+            {
+              "topic": "Metallic bonding",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Which property of metals is best explained by the 'sea of electrons' model?",
+              "options": ["their low density", "their ability to conduct electricity", "their bright colours", "their bad smell"],
+              "answer": "1",
+              "explanation": "Free-moving (delocalised) electrons in the 'sea' allow metals to conduct electricity and heat."
+            },
+            {
+              "topic": "Bonding and properties",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A solid has a very high melting point and conducts electricity only when melted or dissolved in water. What type of bonding does it most likely have?",
+              "options": ["covalent (simple molecules)", "ionic", "metallic", "no bonding"],
+              "answer": "1",
+              "explanation": "High melting point plus conduction only when molten/dissolved are classic signs of an ionic compound, because the strong ionic lattice needs much energy to break and the ions must be mobile to conduct."
+            }
+          ]
+        },
+        {
+          "title": "Chemical Kinetics",
+          "description": "The speed of chemical reactions, what affects reaction rate, collision theory, rate laws, and reaction mechanisms.",
+          "lessons": [
+            {
+              "title": "The Speed of Chemical Reactions",
+              "summary": "Reaction rate measures how fast reactants turn into products. This lesson covers collision theory and the factors that speed up or slow down reactions.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Fast and Slow Reactions",
+                  "body": "Some reactions are very fast, like an explosion. Others are very slow, like iron rusting or food spoiling. **Chemical kinetics** is the study of the **rate (speed)** of reactions and what controls it.\n\nUnderstanding rate is useful in everyday Ethiopian life: keeping injera dough fermenting at the right speed, storing food in a cool place to slow spoiling, and controlling how fast charcoal burns. The **rate of reaction** is how fast reactants are used up or products are formed over time."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define the **rate of a reaction**.\n- Explain reactions using **collision theory**.\n- State the meaning of **activation energy**.\n- List the **factors** that affect reaction rate.\n- Explain how a **catalyst** speeds up a reaction."
+                },
+                {
+                  "type": "theory",
+                  "title": "Collision Theory and Rate Factors",
+                  "body": "**Collision theory** says that for a reaction to happen, reacting particles must **collide** with (1) **enough energy** and (2) the **correct orientation**. The minimum energy needed for a successful collision is called the **activation energy (Eₐ)**.\n\nAnything that increases the number or energy of successful collisions speeds up the reaction. The main **factors affecting reaction rate** are:\n\n- **Concentration:** More concentrated reactants → more particles in the same space → more collisions → faster reaction.\n- **Temperature:** Heating gives particles more kinetic energy → they move faster and collide harder and more often → faster reaction. WHY is this powerful? A small rise in temperature can roughly double the rate.\n- **Surface area:** A powder reacts faster than a single lump because more surface is exposed for collisions. This is WHY powdered charcoal lights faster than a big block.\n- **Catalyst:** A **catalyst** speeds up a reaction by providing an alternative path with **lower activation energy**, without being used up itself.\n- **Pressure (for gases):** Higher pressure squeezes gas particles closer → more collisions → faster reaction.\n\nThe overall reaction speed can be described by a **rate law**, which links the rate to the concentration of reactants."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Comparing Reaction Rates",
+                  "body": "**Problem:** Marble chips (calcium carbonate) react with hydrochloric acid. In Experiment A we use one large marble chip. In Experiment B we use the same mass of crushed marble powder. Which reacts faster and why? Write the balanced equation.\n\n**Step 1 — Write the balanced equation.**\nCaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂\n(Check: 1 Ca each side; C: 1 each; O: 3 left, 2+1 = 3 right; H: 2 left, 2 right; Cl: 2 left, 2 right. ✓ Balanced.)\n\n**Step 2 — Identify the changing factor.**\nThe mass of marble is the same, but the **surface area** is different. Powder has a much larger surface area than one chip.\n\n**Step 3 — Apply collision theory.**\nMore surface area means more particles are exposed to the acid, so there are **more collisions per second**.\n\n**Step 4 — Conclude.**\n**Experiment B (powder) reacts faster** because its larger surface area gives more frequent successful collisions."
+                },
+                {
+                  "type": "visual",
+                  "title": "A Reaction Equation",
+                  "body": "The reaction of marble (calcium carbonate) with hydrochloric acid, shown as a balanced equation.",
+                  "visual": {
+                    "kind": "reaction",
+                    "data": {
+                      "equation": "CaCO3 + 2HCl -> CaCl2 + H2O + CO2"
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Errors Students Often Make",
+                  "body": "- **Thinking a catalyst is used up.** A catalyst is **not consumed**; it is the same at the end.\n- **Believing a catalyst changes the amount of product.** It only changes the **speed**, not how much product forms.\n- **Saying every collision causes a reaction.** Only collisions with **enough energy and correct orientation** succeed.\n- **Confusing temperature and heat.** Higher temperature increases particle energy, which speeds reactions.\n- **Forgetting surface area.** Same mass of powder reacts faster than a lump."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Rate factors mnemonic:** *\"Cats Take Speedy Paths Carefully\"* → **C**oncentration, **T**emperature, **S**urface area, **P**ressure, **C**atalyst.\n- **Activation energy = the energy hill** particles must climb before they can react.\n- **Catalyst = a tunnel through the hill** (a lower-energy path), and it comes out unchanged.\n- **More collisions = faster reaction** — picture a crowded taxi stand: the more people, the more bumping.\n- **Powder beats lump**: more surface = more action."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Name two ways to make a reaction go faster.\n**Answer:** Any two of: increase **concentration**, raise **temperature**, increase **surface area**, add a **catalyst**, raise **pressure** (gases).\n\n2. What is activation energy?\n**Answer:** The **minimum energy** colliding particles need for a successful reaction.\n\n3. Does a catalyst get used up in a reaction?\n**Answer:** **No** — it is unchanged at the end.\n\n4. Why does food last longer in a cold place?\n**Answer:** Low temperature **slows the reactions** that cause spoiling, because particles move and collide less."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **Chemical kinetics** studies how **fast** reactions go (the **rate**).\n- **Collision theory:** reactions need collisions with **enough energy** and the **right orientation**.\n- **Activation energy (Eₐ)** is the minimum energy for a successful collision.\n- Rate increases with higher **concentration, temperature, surface area, pressure (gases)**, and with a **catalyst**.\n- A **catalyst** lowers activation energy and is **not used up**.\n- A **rate law** links the rate to reactant concentrations."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important vocabulary for this lesson.",
+                  "glossary": [
+                    { "term": "Rate of reaction", "definition": "How fast reactants are used up or products are formed over a period of time." },
+                    { "term": "Collision theory", "definition": "The idea that reactions occur only when particles collide with enough energy and the correct orientation." },
+                    { "term": "Activation energy", "definition": "The minimum amount of energy that colliding particles must have for a reaction to occur." },
+                    { "term": "Catalyst", "definition": "A substance that speeds up a reaction by lowering the activation energy and is not used up itself." },
+                    { "term": "Surface area", "definition": "The amount of exposed surface of a solid; more surface area means a faster reaction." },
+                    { "term": "Rate law", "definition": "An equation that relates the rate of a reaction to the concentrations of the reactants." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the rate of a reaction?", "back": "How fast reactants are used up or products are formed over time." },
+                { "front": "What two conditions does collision theory require for a reaction?", "back": "Particles must collide with enough energy and in the correct orientation." },
+                { "front": "What is activation energy?", "back": "The minimum energy colliding particles need for a successful reaction." },
+                { "front": "How does a catalyst speed up a reaction?", "back": "It provides an alternative path with lower activation energy and is not used up." },
+                { "front": "Why does a powder react faster than a lump of the same mass?", "back": "The powder has a larger surface area, giving more collisions per second." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Rate of reaction",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which change will generally speed up a chemical reaction?",
+              "options": ["lowering the temperature", "using larger lumps instead of powder", "increasing the concentration of reactants", "removing the catalyst"],
+              "answer": "2",
+              "explanation": "Higher concentration means more particles in a given space, leading to more collisions and a faster reaction."
+            },
+            {
+              "topic": "Collision theory",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "According to collision theory, a reaction occurs only when particles collide with:",
+              "options": ["any speed at all", "enough energy and correct orientation", "the same colour", "equal mass"],
+              "answer": "1",
+              "explanation": "Successful reactions need collisions that have at least the activation energy and the proper orientation."
+            },
+            {
+              "topic": "Catalysts",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A catalyst increases reaction rate by:",
+              "options": ["increasing the activation energy", "lowering the activation energy", "being used up in the reaction", "raising the temperature of the room"],
+              "answer": "1",
+              "explanation": "A catalyst provides an alternative pathway with a lower activation energy, so more collisions are successful, and it is not consumed."
+            },
+            {
+              "topic": "Temperature effect",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Increasing the temperature speeds up a reaction mainly because particles:",
+              "options": ["become larger", "move faster and collide more often with more energy", "lose their charge", "stop colliding"],
+              "answer": "1",
+              "explanation": "Higher temperature gives particles more kinetic energy, so they collide more frequently and more of those collisions exceed the activation energy."
+            },
+            {
+              "topic": "Surface area",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Zinc reacts with acid. Which form of the same mass of zinc will react fastest?",
+              "options": ["a single large block", "two medium pieces", "fine zinc powder", "all react at the same rate"],
+              "answer": "2",
+              "explanation": "Fine powder has the greatest surface area exposed to the acid, giving the most collisions and the fastest reaction."
+            },
+            {
+              "topic": "Factors affecting rate",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "In the reaction CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂, which change would NOT increase the rate of carbon dioxide production?",
+              "options": ["using more concentrated acid", "crushing the marble into powder", "warming the acid", "cooling the mixture in ice"],
+              "answer": "3",
+              "explanation": "Cooling the mixture lowers particle energy and reduces collisions, slowing the reaction. The other three changes all increase the rate."
+            }
+          ]
+        },
+        {
+          "title": "Chemical Equilibrium and Phase Equilibrium",
+          "description": "Reversible reactions, dynamic equilibrium, the equilibrium constant, Le Chatelier's principle, and phase equilibrium.",
+          "lessons": [
+            {
+              "title": "Reversible Reactions and Equilibrium",
+              "summary": "Many reactions are reversible and reach a balance called equilibrium. This lesson explains dynamic equilibrium, the equilibrium constant, and Le Chatelier's principle.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Reactions That Go Both Ways",
+                  "body": "Not all reactions go fully from reactants to products. Many are **reversible** — the products can react to re-form the reactants. We write a reversible reaction with a double arrow: ⇌.\n\nWhen the forward and backward reactions happen at the **same rate**, the reaction reaches **chemical equilibrium**. A famous example is the industrial making of **ammonia** for fertilizers, which are vital for Ethiopian agriculture. At equilibrium the amounts of reactants and products stay constant, even though the reaction never truly stops."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define a **reversible reaction** and **dynamic equilibrium**.\n- Write the **equilibrium constant expression (Kc)**.\n- State **Le Chatelier's principle**.\n- Predict how **concentration, temperature, and pressure** changes shift an equilibrium.\n- Give a real example such as the **Haber process**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Dynamic Equilibrium and Le Chatelier's Principle",
+                  "body": "At **dynamic equilibrium**, the forward and backward reactions still occur, but at **equal rates**, so concentrations stay constant. WHY 'dynamic'? Because activity continues; it is a balance, not a stop.\n\nFor a reaction **aA + bB ⇌ cC + dD**, the **equilibrium constant** is:\n\n**Kc = ( [C]ᶜ [D]ᵈ ) ÷ ( [A]ᵃ [B]ᵇ )**\n\nHere [ ] means concentration in mol/L. A **large Kc** means products are favoured; a **small Kc** means reactants are favoured.\n\n**Le Chatelier's principle:** *If a system at equilibrium is disturbed, it shifts in the direction that opposes the change.* This lets us predict shifts:\n\n- **Concentration:** Add more reactant → equilibrium shifts **forward** (toward products) to use it up.\n- **Temperature:** For an **exothermic** forward reaction, heating shifts it **backward**; cooling shifts it **forward**. (Heat acts like a product.)\n- **Pressure (gases):** Increasing pressure shifts equilibrium toward the side with **fewer gas molecules**.\n- **Catalyst:** Speeds up both directions equally, so it reaches equilibrium faster but does **not** change the position.\n\nThe **Haber process** makes ammonia: N₂ + 3H₂ ⇌ 2NH₃. High pressure favours the product side (fewer gas molecules: 4 → 2)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Applying Le Chatelier to the Haber Process",
+                  "body": "**Problem:** In the reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g), the forward reaction is exothermic. Predict the effect of (a) increasing pressure and (b) increasing temperature on the amount of ammonia.\n\n**Step 1 — Count gas molecules on each side.**\nLeft: 1 N₂ + 3 H₂ = **4 gas molecules**. Right: **2 gas molecules** (NH₃).\n\n**Step 2 — Apply the pressure rule.**\nIncreasing pressure shifts equilibrium toward the side with **fewer gas molecules** = the **right (products)**. So **more ammonia** forms. ✓\n\n**Step 3 — Apply the temperature rule.**\nThe forward reaction is **exothermic** (gives out heat). Adding heat (raising temperature) pushes the equilibrium **backward** to absorb the heat. So **less ammonia** forms at higher temperature.\n\n**Step 4 — Conclusion.**\nTo maximise ammonia, use **high pressure** and a **moderate (not too high) temperature**. In practice a catalyst is also added to reach equilibrium quickly."
+                },
+                {
+                  "type": "visual",
+                  "title": "The Haber Process Reaction",
+                  "body": "The reversible synthesis of ammonia from nitrogen and hydrogen, the basis of fertilizer production.",
+                  "visual": {
+                    "kind": "reaction",
+                    "data": {
+                      "equation": "N2 + 3H2 -> 2NH3"
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Errors Students Often Make",
+                  "body": "- **Thinking the reaction stops at equilibrium.** Both reactions continue at **equal rates** — it is dynamic.\n- **Believing reactant and product amounts are equal at equilibrium.** They are **constant**, not necessarily equal.\n- **Thinking a catalyst shifts equilibrium.** A catalyst only makes equilibrium arrive **faster**; it does not change the position.\n- **Getting the temperature rule backward for exothermic reactions.** For exothermic forward reactions, **heating shifts it backward**.\n- **Including pure solids or liquids in Kc.** Only gases and dissolved species appear in the expression."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Le Chatelier = 'the lazy rule':** the system always pushes back against whatever you do to it.\n- **Pressure goes to the small side:** high pressure shifts to **fewer gas molecules**.\n- **Heat is a product in exothermic reactions:** add heat → it shifts away from heat (backward).\n- **Kc: products over reactants** — *\"products on top, reactants below.\"*\n- **Catalyst = speed only**, never position. *\"A catalyst is in a hurry, not in charge.\"*"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. For A + B ⇌ C, write the equilibrium constant expression.\n**Answer:** Kc = [C] ÷ ([A][B]).\n\n2. In N₂ + 3H₂ ⇌ 2NH₃, which way does the equilibrium shift if more H₂ is added?\n**Answer:** **Forward** (toward NH₃) to use up the added hydrogen.\n\n3. Does adding a catalyst increase the amount of product at equilibrium?\n**Answer:** **No** — it only reaches equilibrium faster.\n\n4. For an exothermic forward reaction, what does cooling do to the yield of product?\n**Answer:** Cooling shifts equilibrium **forward**, **increasing** the product yield."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- A **reversible reaction** (⇌) can go forward and backward.\n- At **dynamic equilibrium**, both reactions occur at **equal rates** and concentrations stay constant.\n- The **equilibrium constant Kc** = products over reactants (each raised to its coefficient).\n- **Le Chatelier's principle:** a disturbed equilibrium shifts to oppose the change.\n- Increasing **pressure** shifts toward **fewer gas molecules**; for **exothermic** reactions, **heating** shifts backward.\n- A **catalyst** speeds up reaching equilibrium but does **not** change its position."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important vocabulary for this lesson.",
+                  "glossary": [
+                    { "term": "Reversible reaction", "definition": "A reaction in which products can react to re-form the reactants, shown with a double arrow (⇌)." },
+                    { "term": "Dynamic equilibrium", "definition": "The state where the forward and backward reactions occur at equal rates, so concentrations stay constant." },
+                    { "term": "Equilibrium constant (Kc)", "definition": "A number that compares the concentrations of products to reactants at equilibrium." },
+                    { "term": "Le Chatelier's principle", "definition": "If a system at equilibrium is disturbed, it shifts in the direction that reduces the disturbance." },
+                    { "term": "Exothermic reaction", "definition": "A reaction that releases heat to its surroundings." },
+                    { "term": "Haber process", "definition": "The industrial reaction that makes ammonia from nitrogen and hydrogen for use in fertilizers." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is dynamic equilibrium?", "back": "When the forward and backward reactions happen at equal rates, so concentrations stay constant." },
+                { "front": "State Le Chatelier's principle.", "back": "If an equilibrium is disturbed, it shifts in the direction that opposes the change." },
+                { "front": "Write Kc for aA + bB ⇌ cC + dD.", "back": "Kc = ([C]^c [D]^d) ÷ ([A]^a [B]^b)." },
+                { "front": "How does increasing pressure affect N₂ + 3H₂ ⇌ 2NH₃?", "back": "It shifts toward the side with fewer gas molecules (the products), making more ammonia." },
+                { "front": "Does a catalyst change the position of equilibrium?", "back": "No. It only helps the system reach equilibrium faster." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Equilibrium basics",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "At dynamic equilibrium, the rate of the forward reaction is:",
+              "options": ["zero", "equal to the rate of the backward reaction", "always greater than the backward reaction", "always smaller than the backward reaction"],
+              "answer": "1",
+              "explanation": "Equilibrium is reached when the forward and backward reaction rates are equal, keeping concentrations constant."
+            },
+            {
+              "topic": "Reversible reactions",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which symbol shows that a reaction is reversible?",
+              "options": ["→", "⇌", "=", "+"],
+              "answer": "1",
+              "explanation": "The double arrow (⇌) indicates a reversible reaction that can proceed in both directions."
+            },
+            {
+              "topic": "Le Chatelier - concentration",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "For the equilibrium A + B ⇌ C, adding more A will shift the equilibrium:",
+              "options": ["to the left (toward reactants)", "to the right (toward products)", "it will not shift", "the reaction stops"],
+              "answer": "1",
+              "explanation": "By Le Chatelier's principle, adding more reactant shifts the equilibrium forward to use up the added substance."
+            },
+            {
+              "topic": "Equilibrium constant",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A reaction has a very large value of Kc. This means that at equilibrium:",
+              "options": ["reactants are favoured", "products are favoured", "no reaction occurs", "the temperature is high"],
+              "answer": "1",
+              "explanation": "A large Kc means the numerator (products) is much greater than the denominator (reactants), so products are favoured."
+            },
+            {
+              "topic": "Le Chatelier - pressure",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "For N₂(g) + 3H₂(g) ⇌ 2NH₃(g), increasing the pressure will:",
+              "options": ["shift the equilibrium toward the reactants", "shift the equilibrium toward more ammonia", "have no effect because all are gases", "stop the reaction"],
+              "answer": "1",
+              "explanation": "There are 4 gas molecules on the left and 2 on the right. Higher pressure shifts equilibrium toward the side with fewer gas molecules, making more ammonia."
+            },
+            {
+              "topic": "Le Chatelier - temperature",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "The forward reaction N₂ + 3H₂ ⇌ 2NH₃ is exothermic. What happens to the yield of ammonia if the temperature is increased?",
+              "options": ["the yield increases", "the yield decreases", "the yield stays exactly the same", "ammonia turns back into a solid"],
+              "answer": "1",
+              "explanation": "For an exothermic forward reaction, heat behaves like a product. Increasing temperature shifts the equilibrium backward, so the yield of ammonia decreases."
+            }
+          ]
+        },
+        {
+          "title": "Carboxylic Acids, Esters, Fats and Oils",
+          "description": "Organic chemistry of carboxylic acids, how esters form, and the structure and uses of fats and oils.",
+          "lessons": [
+            {
+              "title": "Carboxylic Acids, Esters, and Fats",
+              "summary": "Carboxylic acids contain the -COOH group and react with alcohols to form esters. This lesson also covers fats and oils as natural esters.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Sour Acids and Sweet Smells",
+                  "body": "**Organic chemistry** is the chemistry of **carbon compounds**. In this lesson we study three related families: **carboxylic acids**, **esters**, and **fats and oils**.\n\nYou already know these from daily life. The sour taste of vinegar comes from **ethanoic acid (acetic acid)**, a carboxylic acid. The pleasant smell of ripe fruit comes from **esters**. The **niter kibbeh** (spiced butter) and cooking oils in Ethiopian kitchens are **fats and oils**. All three families are linked by the same key chemistry."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Recognise the **carboxyl group (-COOH)** in a carboxylic acid.\n- Name simple carboxylic acids such as **methanoic** and **ethanoic acid**.\n- Describe how an **ester** forms from an acid and an alcohol (**esterification**).\n- Explain that **fats and oils** are esters of glycerol and fatty acids.\n- Distinguish **saturated** from **unsaturated** fats."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Carboxyl Group, Esters, and Triglycerides",
+                  "body": "A **carboxylic acid** contains the **carboxyl group, –COOH** (a carbon double-bonded to one oxygen and single-bonded to an –OH). This group is WHY these compounds are **acidic**: the –OH can release a hydrogen ion (H⁺).\n\nSimple examples:\n- **Methanoic acid (HCOOH)** — found in ant stings.\n- **Ethanoic acid (CH₃COOH)** — the acid in vinegar.\n\n**Esterification:** A carboxylic acid reacts with an **alcohol** (usually with a little sulphuric acid as catalyst) to form an **ester** plus **water**. General form:\n\n**acid + alcohol ⇌ ester + water**\n\nFor example: CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O (ethyl ethanoate, a sweet-smelling ester). Esters are responsible for many **fruity flavours and perfumes**.\n\n**Fats and oils** are natural esters called **triglycerides** — formed from **glycerol** (an alcohol with three –OH groups) joined to **three fatty acids** (long-chain carboxylic acids).\n\n- **Saturated fats** have only single C–C bonds, pack tightly, and are usually **solid** at room temperature (e.g. butter). \n- **Unsaturated fats/oils** contain one or more C=C **double bonds**, which kink the chains, so they are usually **liquid** at room temperature (e.g. sunflower or noug oil). WHY the difference? The double-bond kinks stop molecules packing closely, lowering the melting point."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Predicting an Esterification Product",
+                  "body": "**Problem:** Ethanoic acid reacts with methanol. Name and write the ester formed, and the by-product.\n\n**Step 1 — Identify the two reactants.**\nAcid: **ethanoic acid, CH₃COOH**. Alcohol: **methanol, CH₃OH**.\n\n**Step 2 — Recall the general reaction.**\nacid + alcohol ⇌ ester + water. The –OH of the acid and the H of the alcohol's –OH leave together as **water**.\n\n**Step 3 — Join the remaining parts.**\nThe acid part (CH₃CO–) joins the alcohol part (–OCH₃) to form the ester **CH₃COOCH₃**.\n\n**Step 4 — Name the ester.**\nThe name comes from the alcohol part first, then the acid part: **methyl ethanoate**.\n\n**Step 5 — State the by-product.**\nThe by-product is **water (H₂O)**.\n\n**Answer:** CH₃COOH + CH₃OH ⇌ CH₃COOCH₃ (methyl ethanoate) + H₂O."
+                },
+                {
+                  "type": "visual",
+                  "title": "Esterification Reaction",
+                  "body": "The reaction of ethanoic acid with ethanol to form the ester ethyl ethanoate and water.",
+                  "visual": {
+                    "kind": "reaction",
+                    "data": {
+                      "equation": "CH3COOH + C2H5OH -> CH3COOC2H5 + H2O"
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Errors Students Often Make",
+                  "body": "- **Confusing the alcohol group (–OH) with the acid group (–COOH).** Only the full **carboxyl –COOH** makes a carboxylic acid.\n- **Forgetting water is produced in esterification.** Ester formation always releases **water**.\n- **Naming esters in the wrong order.** Name the **alcohol part first**, then the acid part (e.g. *methyl* ethanoate).\n- **Mixing up saturated and unsaturated.** Saturated = **no** C=C double bonds (solid fats); unsaturated = has C=C (liquid oils).\n- **Thinking fats are not esters.** Fats and oils **are esters** of glycerol and fatty acids."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **-COOH = 'Carboxylic, Oh-Oh, Help!'** — the acidic group that gives away H⁺.\n- **Esters smell sweet** — *\"esters make fruits and perfumes pleasant.\"*\n- **Esterification: Acid + Alcohol → Ester + Water** — *\"A + A → E + W.\"*\n- **Saturated = Solid; unsaturated = (liquid) oil.** Both 'saturated' and 'solid' start with S.\n- **Triglyceride = three (tri) fatty acids + glycerol.**"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. What functional group is present in all carboxylic acids?\n**Answer:** The **carboxyl group, –COOH**.\n\n2. Name the products when ethanoic acid reacts with ethanol.\n**Answer:** **Ethyl ethanoate** (an ester) and **water**.\n\n3. Are oils usually saturated or unsaturated? Why are they liquid?\n**Answer:** **Unsaturated**; their C=C double bonds kink the chains so molecules cannot pack tightly, lowering the melting point.\n\n4. What is the alcohol part of a fat or oil molecule?\n**Answer:** **Glycerol** (which has three –OH groups)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **Carboxylic acids** contain the **carboxyl group –COOH** and are weakly acidic (e.g. ethanoic acid in vinegar).\n- **Esterification:** acid + alcohol ⇌ **ester + water** (sulphuric acid catalyst). Esters smell fruity.\n- Esters are named with the **alcohol part first**, then the acid part.\n- **Fats and oils** are **triglycerides** — esters of **glycerol** and three **fatty acids**.\n- **Saturated fats** (no C=C) are solid; **unsaturated oils** (have C=C) are liquid.\n- These families are central to food, cleaning, and perfume chemistry."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important vocabulary for this lesson.",
+                  "glossary": [
+                    { "term": "Carboxylic acid", "definition": "An organic compound containing the carboxyl group (-COOH), which makes it acidic." },
+                    { "term": "Carboxyl group", "definition": "The -COOH functional group found in all carboxylic acids." },
+                    { "term": "Ester", "definition": "A sweet-smelling compound formed when a carboxylic acid reacts with an alcohol." },
+                    { "term": "Esterification", "definition": "The reaction of a carboxylic acid with an alcohol to form an ester and water." },
+                    { "term": "Triglyceride", "definition": "A fat or oil molecule made of glycerol joined to three fatty acids." },
+                    { "term": "Unsaturated fat", "definition": "A fat or oil that contains one or more carbon-carbon double bonds, usually liquid at room temperature." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What functional group defines a carboxylic acid?", "back": "The carboxyl group, -COOH." },
+                { "front": "What is produced when a carboxylic acid reacts with an alcohol?", "back": "An ester and water (esterification)." },
+                { "front": "What acid gives vinegar its sour taste?", "back": "Ethanoic acid (acetic acid), CH₃COOH." },
+                { "front": "What are fats and oils made of?", "back": "They are triglycerides: glycerol joined to three fatty acids." },
+                { "front": "Why are unsaturated oils liquid at room temperature?", "back": "Their C=C double bonds kink the chains, so molecules cannot pack tightly, lowering the melting point." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Carboxylic acids",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which functional group is found in all carboxylic acids?",
+              "options": ["-OH only", "-COOH", "-NH₂", "-C=C-"],
+              "answer": "1",
+              "explanation": "All carboxylic acids contain the carboxyl group, -COOH, which is responsible for their acidic behaviour."
+            },
+            {
+              "topic": "Common acids",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "The sour taste of vinegar is due to which carboxylic acid?",
+              "options": ["methanoic acid", "ethanoic acid", "sulphuric acid", "carbonic acid"],
+              "answer": "1",
+              "explanation": "Vinegar contains ethanoic acid (acetic acid), CH₃COOH. Sulphuric acid is not a carboxylic acid."
+            },
+            {
+              "topic": "Esterification",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A carboxylic acid reacts with an alcohol to form an ester and one other product. What is that other product?",
+              "options": ["hydrogen gas", "water", "carbon dioxide", "salt"],
+              "answer": "1",
+              "explanation": "Esterification follows: acid + alcohol → ester + water. Water is always released."
+            },
+            {
+              "topic": "Esters",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Esters are best known for their:",
+              "options": ["sour taste", "pleasant fruity smell", "metallic shine", "ability to conduct electricity"],
+              "answer": "1",
+              "explanation": "Esters typically have sweet, fruity smells and are used in flavourings and perfumes."
+            },
+            {
+              "topic": "Fats and oils",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Fats and oils are esters formed from fatty acids and which alcohol?",
+              "options": ["ethanol", "methanol", "glycerol", "water"],
+              "answer": "2",
+              "explanation": "Fats and oils are triglycerides made from glycerol (a three -OH alcohol) and three fatty acids."
+            },
+            {
+              "topic": "Saturated vs unsaturated",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Why is an unsaturated vegetable oil usually liquid at room temperature while a saturated animal fat is solid?",
+              "options": ["unsaturated oils have no carbon atoms", "C=C double bonds in oils kink the chains so they cannot pack tightly", "saturated fats contain water", "oils are made only of hydrogen"],
+              "answer": "1",
+              "explanation": "The carbon-carbon double bonds in unsaturated oils put kinks in the chains, preventing close packing and lowering the melting point, so they stay liquid. Saturated fats have straight chains that pack tightly and are solid."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

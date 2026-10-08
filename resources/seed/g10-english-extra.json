@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Present simple and continuous",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence for something that is true every day.",
+          "options": ["My mother bakes injera on Saturdays.", "My mother is baking injera on Saturdays.", "My mother bake injera on Saturdays.", "My mother baking injera on Saturdays."],
+          "answer": "0",
+          "explanation": "A regular habit uses the present simple, and with 'my mother' we add -s: 'bakes'."
+        },
+        {
+          "topic": "Vocabulary: culture",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What does the word 'tradition' mean?",
+          "options": ["A new fashion that young people invent.", "A custom passed from older people to younger people over many years.", "A type of food eaten only in cities.", "A meeting between two leaders."],
+          "answer": "1",
+          "explanation": "A tradition is a belief or custom handed down from one generation to the next."
+        },
+        {
+          "topic": "Countable and uncountable nouns",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": ["I bought three breads at the shop.", "I bought a bread at the shop.", "I bought some bread at the shop.", "I bought many bread at the shop."],
+          "answer": "2",
+          "explanation": "'Bread' is uncountable, so we say 'some bread', not 'a bread' or 'three breads'."
+        },
+        {
+          "topic": "Modal verbs",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the polite way to ask a classmate for help.",
+          "options": ["You help me!", "Could you help me, please?", "You must help me now.", "Help me, can?"],
+          "answer": "1",
+          "explanation": "'Could you ... please?' makes a polite request; the verb after the modal stays in the base form."
+        },
+        {
+          "topic": "Adverbs of manner",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete the sentence: 'The runner finished the race ______.'",
+          "options": ["easy", "easyly", "easily", "more easy"],
+          "answer": "2",
+          "explanation": "To describe the verb 'finished' we use an adverb; 'easy' ends in -y, so it becomes 'easily'."
+        },
+        {
+          "topic": "Vocabulary: environment",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What does 'pollution' mean?",
+          "options": ["The planting of new trees.", "Harmful waste that damages the air, water, or land.", "A long dry season without rain.", "The cleaning of rivers and streets."],
+          "answer": "1",
+          "explanation": "Pollution is harmful dirt or waste that damages the air, water, or land."
+        },
+        {
+          "topic": "Past simple",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["Last year my family buyed a new radio.", "Last year my family bought a new radio.", "Last year my family did bought a new radio.", "Last year my family buy a new radio."],
+          "answer": "1",
+          "explanation": "'Buy' is irregular; its past simple form is 'bought', and 'last year' signals the past."
+        },
+        {
+          "topic": "Present perfect",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'Ethiopia ______ coffee to many countries for over a hundred years.'",
+          "options": ["has exported", "have exported", "exported", "is exporting"],
+          "answer": "0",
+          "explanation": "'For over a hundred years' links the past to now, so we use the present perfect; with 'Ethiopia' we use 'has exported'."
+        },
+        {
+          "topic": "Comparatives and superlatives",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence comparing two rivers.",
+          "options": ["The Abay is the longest than the Awash.", "The Abay is longer than the Awash.", "The Abay is more long than the Awash.", "The Abay is more longer than the Awash."],
+          "answer": "1",
+          "explanation": "When comparing two things we use the comparative with 'than'; 'long' is short, so 'longer than'."
+        },
+        {
+          "topic": "Passive voice",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Change to the passive voice: 'Farmers harvest teff in November.'",
+          "options": ["Teff harvests in November.", "Teff is harvested in November.", "Teff is harvesting in November.", "Teff has harvest in November."],
+          "answer": "1",
+          "explanation": "The passive uses 'be' + past participle: 'is harvested'. The object (teff) becomes the subject."
+        },
+        {
+          "topic": "First conditional",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete the first conditional: 'If the town ______ its rubbish, the river will stay clean.'",
+          "options": ["will recycle", "recycles", "recycled", "is recycling"],
+          "answer": "1",
+          "explanation": "We do not use 'will' after 'if'; the if-clause uses the present simple: 'recycles'."
+        },
+        {
+          "topic": "Reported speech",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Change to reported speech: The teacher said, 'I can repeat the lesson.'",
+          "options": ["The teacher said that she can repeat the lesson.", "The teacher said that she could repeat the lesson.", "The teacher said that she repeat the lesson.", "The teacher told that she could repeat the lesson."],
+          "answer": "1",
+          "explanation": "In reported speech the modal 'can' steps back to 'could', and 'I' becomes 'she'."
+        },
+        {
+          "topic": "Quantifiers",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence about a market.",
+          "options": ["There weren't much customers at the stall today.", "There weren't many customers at the stall today.", "There wasn't many customers at the stall today.", "There weren't much customer at the stall today."],
+          "answer": "1",
+          "explanation": "'Customers' is a countable plural noun, so we use 'many', and the plural subject takes 'weren't'."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read: 'The athletes were exhausted after running for three hours.' What does 'exhausted' mean?",
+          "options": ["Very excited.", "Very tired.", "Very proud.", "Very fast."],
+          "answer": "1",
+          "explanation": "'Exhausted' means extremely tired, which fits running for three hours."
+        },
+        {
+          "topic": "Reading comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'Almaz wanted to join the iqub, but she had no spare money this month. She decided to wait until her salary arrived before saving with the group.' Why did Almaz NOT join the iqub immediately?",
+          "options": ["She did not trust the group.", "She had no spare money at that time.", "She had already joined another iqub.", "She did not understand how it worked."],
+          "answer": "1",
+          "explanation": "The text says she 'had no spare money this month', so she waited for her salary."
+        },
+        {
+          "topic": "Reading comprehension: inference",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'When Dawit saw the dark clouds gathering over the hills, he quickly grabbed the washing from the line and shut the windows.' What can we infer?",
+          "options": ["Dawit expected it to rain soon.", "Dawit was going on a journey.", "Dawit wanted to dry the washing faster.", "Dawit was afraid of the dark."],
+          "answer": "0",
+          "explanation": "Dark gathering clouds and his hurry to bring in washing and shut windows suggest he expected rain."
+        },
+        {
+          "topic": "Tense contrast",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence with the correct mix of tenses.",
+          "options": ["She has finished her homework an hour ago.", "She finished her homework an hour ago, so now she is resting.", "She finished her homework an hour ago, so now she has resting.", "She is finishing her homework an hour ago."],
+          "answer": "1",
+          "explanation": "'An hour ago' is a finished time, so use the past simple 'finished'; the action happening now uses the present continuous 'is resting'."
+        },
+        {
+          "topic": "Conditional and modal meaning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which sentence correctly shows a result that is possible but not certain?",
+          "options": ["If we waste water, we will certainly never run out.", "If we waste water, we might run short during the dry season.", "If we will waste water, we might run short.", "If we waste water, we run short certainly."],
+          "answer": "1",
+          "explanation": "For an uncertain future result we use 'might' in the main clause and the present simple after 'if'."
+        },
+        {
+          "topic": "Word formation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete with the correct word form: 'The new bridge was a remarkable ______ for the engineers.'",
+          "options": ["achieve", "achievement", "achieving", "achieved"],
+          "answer": "1",
+          "explanation": "After the adjective 'remarkable' we need a noun; the noun form of 'achieve' is 'achievement'."
+        },
+        {
+          "topic": "Subject-verb agreement",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["The information in these reports are very useful.", "The information in these reports is very useful.", "The informations in these reports are very useful.", "The information in these reports were very useful."],
+          "answer": "1",
+          "explanation": "'Information' is uncountable and singular, so it takes the singular verb 'is'."
+        },
+        {
+          "topic": "Reported speech (questions)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Report this question correctly: 'When will the new clinic open?' the journalist asked.",
+          "options": ["The journalist asked when will the new clinic open.", "The journalist asked when the new clinic would open.", "The journalist asked when did the new clinic open.", "The journalist asked when the new clinic will open."],
+          "answer": "1",
+          "explanation": "Keep the question word 'when', use normal word order, drop the question form, and change 'will' to 'would'."
+        },
+        {
+          "topic": "Error identification",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence that contains NO grammatical error.",
+          "options": ["Since two years, prices have rised quickly.", "For two years, prices have risen quickly.", "Since two years, prices have risen quickly.", "For two years, prices have rose quickly."],
+          "answer": "1",
+          "explanation": "'Two years' is a length of time, so we use 'for', and the past participle of 'rise' is 'risen'."
+        },
+        {
+          "topic": "Sentence transformation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the passive sentence that keeps the same meaning as: 'Workers are building a new stadium in Addis Ababa.'",
+          "options": ["A new stadium is built in Addis Ababa.", "A new stadium is being built in Addis Ababa.", "A new stadium was built in Addis Ababa.", "A new stadium has built in Addis Ababa."],
+          "answer": "1",
+          "explanation": "The active verb is present continuous ('are building'), so its passive is 'is being built'."
+        },
+        {
+          "topic": "Reading comprehension: main idea",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read: 'Radio remains the most powerful medium in rural Ethiopia. Many villages have no electricity for television, and few people can read newspapers, but almost every household owns a small battery radio.' What is the main idea?",
+          "options": ["Television is the best way to share news in villages.", "Radio is the most effective medium for reaching rural communities.", "Most rural people prefer reading newspapers.", "Every village in Ethiopia now has electricity."],
+          "answer": "1",
+          "explanation": "The paragraph explains why radio reaches rural people better than television or newspapers, which is its main idea."
+        }
+      ]
+    }
+  ]
+}

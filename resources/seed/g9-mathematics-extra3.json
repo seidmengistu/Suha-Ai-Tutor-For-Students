@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "mathematics",
+      "questions": [
+        {
+          "topic": "Classifying numbers",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following numbers is **irrational**?",
+          "options": ["$\\sqrt{49}$", "$\\dfrac{7}{2}$", "$\\sqrt{15}$", "$0.8$"],
+          "answer": "2",
+          "explanation": "$15$ is not a perfect square, so $\\sqrt{15}$ never ends and never repeats; the others are all rational."
+        },
+        {
+          "topic": "Number sets",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "To which **smallest** set does the number $\\dfrac{3}{4}$ belong?",
+          "options": ["Integers", "Whole numbers", "Rational numbers", "Natural numbers"],
+          "answer": "2",
+          "explanation": "$\\dfrac{3}{4}$ is a fraction that is not an integer, so the smallest set containing it is the rational numbers."
+        },
+        {
+          "topic": "Evaluating functions",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "If $h(x) = 5x + 2$, what is $h(0)$?",
+          "options": ["$0$", "$2$", "$5$", "$7$"],
+          "answer": "1",
+          "explanation": "$h(0) = 5(0) + 2 = 0 + 2 = 2$."
+        },
+        {
+          "topic": "Set membership",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "If $C = \\{x \\mid x \\text{ is an odd number and } 0 < x < 12\\}$, how many elements does $C$ have?",
+          "options": ["$5$", "$6$", "$7$", "$11$"],
+          "answer": "1",
+          "explanation": "$C = \\{1, 3, 5, 7, 9, 11\\}$, which contains exactly $6$ elements."
+        },
+        {
+          "topic": "Scalars and vectors",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following is a **scalar** quantity?",
+          "options": ["Weight", "Speed", "Momentum", "Velocity"],
+          "answer": "1",
+          "explanation": "Speed has only magnitude and no direction, so it is a scalar; the others all carry a direction."
+        },
+        {
+          "topic": "Circle parts",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A circle has a diameter of $26$ cm. What is its radius?",
+          "options": ["$13$ cm", "$52$ cm", "$169$ cm", "$6.5$ cm"],
+          "answer": "0",
+          "explanation": "The radius is half the diameter: $r = 26 \\div 2 = 13$ cm."
+        },
+        {
+          "topic": "Decimals to fractions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Write $0.16$ as a fraction in simplest form.",
+          "options": ["$\\dfrac{16}{10}$", "$\\dfrac{8}{50}$", "$\\dfrac{4}{25}$", "$\\dfrac{1}{6}$"],
+          "answer": "2",
+          "explanation": "$0.16 = \\dfrac{16}{100}$, and dividing top and bottom by $4$ gives $\\dfrac{4}{25}$."
+        },
+        {
+          "topic": "Solving quadratics by factorization",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What are the solutions of $x^2 - 7x + 10 = 0$?",
+          "options": ["$x = -2$ or $x = -5$", "$x = 2$ or $x = 5$", "$x = 1$ or $x = 10$", "$x = -2$ or $x = 5$"],
+          "answer": "1",
+          "explanation": "Two numbers multiplying to $10$ and adding to $-7$ are $-2$ and $-5$: $(x-2)(x-5)=0$, so $x = 2$ or $x = 5$."
+        },
+        {
+          "topic": "Systems of equations",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Solve the system $3x + y = 14$ and $x - y = 2$. What is the value of $x$?",
+          "options": ["$2$", "$3$", "$4$", "$5$"],
+          "answer": "2",
+          "explanation": "Adding the equations gives $4x = 16$, so $x = 4$ (and then $y = 2$)."
+        },
+        {
+          "topic": "Intersection of sets",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If $A = \\{3, 6, 9, 12, 15\\}$ and $B = \\{2, 6, 10, 12, 14\\}$, what is $A \\cap B$?",
+          "options": ["$\\{6\\}$", "$\\{6, 12\\}$", "$\\{12\\}$", "$\\{2, 3, 6, 9, 12, 15\\}$"],
+          "answer": "1",
+          "explanation": "The intersection keeps only elements in both sets: $6$ and $12$ appear in $A$ and $B$."
+        },
+        {
+          "topic": "Adding vectors",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is $(-4, 6) + (7, -2)$?",
+          "options": ["$(3, 4)$", "$(11, 8)$", "$(3, 8)$", "$(-11, 4)$"],
+          "answer": "0",
+          "explanation": "Add matching components: $(-4 + 7,\\; 6 + (-2)) = (3, 4)$."
+        },
+        {
+          "topic": "Domain and range",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the **domain** of the relation $\\{(2, 7), (5, 8), (2, 9), (6, 7)\\}$?",
+          "options": ["$\\{7, 8, 9\\}$", "$\\{2, 5, 6\\}$", "$\\{2, 5, 2, 6\\}$", "$\\{2, 5, 6, 7, 8, 9\\}$"],
+          "answer": "1",
+          "explanation": "The domain is the set of input (first) values, each listed once: $\\{2, 5, 6\\}$."
+        },
+        {
+          "topic": "Statistics: mode",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Find the mode of the data set $4, 8, 8, 3, 8, 4, 9$.",
+          "options": ["$4$", "$8$", "$9$", "$3$"],
+          "answer": "1",
+          "explanation": "The value $8$ appears three times, more than any other value, so the mode is $8$."
+        },
+        {
+          "topic": "Polygon angles",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the sum of the interior angles of a heptagon (7 sides)?",
+          "options": ["$720^\\circ$", "$900^\\circ$", "$1080^\\circ$", "$1260^\\circ$"],
+          "answer": "1",
+          "explanation": "Using $(n-2)\\times 180^\\circ$ with $n=7$: $(7-2)\\times 180^\\circ = 5 \\times 180^\\circ = 900^\\circ$."
+        },
+        {
+          "topic": "Basic probability",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A fair six-sided die is rolled once. What is the probability of getting an even number?",
+          "options": ["$\\dfrac{1}{6}$", "$\\dfrac{1}{3}$", "$\\dfrac{1}{2}$", "$\\dfrac{2}{3}$"],
+          "answer": "2",
+          "explanation": "Even numbers are $2, 4, 6$ — that is $3$ favourable outcomes out of $6$, so $\\dfrac{3}{6} = \\dfrac{1}{2}$."
+        },
+        {
+          "topic": "Circumference",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Find the circumference of a circle with radius $4$ cm (use $\\pi \\approx 3.14$).",
+          "options": ["$12.56$ cm", "$25.12$ cm", "$50.24$ cm", "$8$ cm"],
+          "answer": "1",
+          "explanation": "Circumference $= 2\\pi r = 2 \\times 3.14 \\times 4 = 25.12$ cm."
+        },
+        {
+          "topic": "Congruency and similarity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Two triangles are **similar** with a scale factor of $3$. If a side of the smaller triangle is $5$ cm, what is the matching side of the larger triangle?",
+          "options": ["$8$ cm", "$15$ cm", "$\\dfrac{5}{3}$ cm", "$45$ cm"],
+          "answer": "1",
+          "explanation": "Matching sides of similar triangles are in the same ratio, so the side is $5 \\times 3 = 15$ cm."
+        },
+        {
+          "topic": "Set complement",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If the universal set is $U = \\{1, 2, 3, 4, 5, 6, 7, 8\\}$ and $A = \\{1, 3, 5, 7\\}$, what is $A'$ (the complement of $A$)?",
+          "options": ["$\\{1, 3, 5, 7\\}$", "$\\{2, 4, 6, 8\\}$", "$\\{1, 2, 3, 4, 5, 6, 7, 8\\}$", "$\\{2, 4, 6\\}$"],
+          "answer": "1",
+          "explanation": "The complement is every element of $U$ that is not in $A$: $\\{2, 4, 6, 8\\}$."
+        },
+        {
+          "topic": "Simplifying radicals",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Simplify $\\sqrt{98}$ to its simplest radical form.",
+          "options": ["$7\\sqrt{2}$", "$2\\sqrt{49}$", "$49\\sqrt{2}$", "$14\\sqrt{2}$"],
+          "answer": "0",
+          "explanation": "$\\sqrt{98} = \\sqrt{49 \\times 2} = \\sqrt{49}\\,\\sqrt{2} = 7\\sqrt{2}$."
+        },
+        {
+          "topic": "Repeating decimals",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Express $0.\\overline{36}$ (that is, $0.363636\\ldots$) as a fraction in simplest form.",
+          "options": ["$\\dfrac{36}{100}$", "$\\dfrac{36}{99}$", "$\\dfrac{4}{11}$", "$\\dfrac{2}{5}$"],
+          "answer": "2",
+          "explanation": "Let $d = 0.3636\\ldots$; then $100d = 36.3636\\ldots$, so $99d = 36$ and $d = \\dfrac{36}{99} = \\dfrac{4}{11}$."
+        },
+        {
+          "topic": "Discriminant",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How many real solutions does $4x^2 + 4x + 1 = 0$ have?",
+          "options": ["None", "One", "Two", "Three"],
+          "answer": "1",
+          "explanation": "The discriminant is $b^2 - 4ac = 4^2 - 4(4)(1) = 16 - 16 = 0$, so there is exactly one real solution."
+        },
+        {
+          "topic": "Vector magnitude",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the magnitude of the vector $(7, 24)$?",
+          "options": ["$31$", "$25$", "$\\sqrt{31}$", "$168$"],
+          "answer": "1",
+          "explanation": "$|v| = \\sqrt{7^2 + 24^2} = \\sqrt{49 + 576} = \\sqrt{625} = 25$."
+        },
+        {
+          "topic": "Circle area",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Find the area of a circle with radius $8$ cm (use $\\pi \\approx 3.14$).",
+          "options": ["$50.24\\ \\text{cm}^2$", "$200.96\\ \\text{cm}^2$", "$100.48\\ \\text{cm}^2$", "$200.96\\ \\text{cm}$"],
+          "answer": "1",
+          "explanation": "Area $= \\pi r^2 = 3.14 \\times 8^2 = 3.14 \\times 64 = 200.96\\ \\text{cm}^2$."
+        },
+        {
+          "topic": "Solving for an angle",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two of the angles in a triangle are $52^\\circ$ and $73^\\circ$. What is the third angle?",
+          "options": ["$45^\\circ$", "$55^\\circ$", "$65^\\circ$", "$125^\\circ$"],
+          "answer": "1",
+          "explanation": "The angles of a triangle sum to $180^\\circ$, so the third angle $= 180^\\circ - 52^\\circ - 73^\\circ = 55^\\circ$."
+        },
+        {
+          "topic": "Statistics: median",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Find the median of the data set $20, 13, 8, 25, 16, 11$.",
+          "options": ["$13$", "$14.5$", "$16$", "$15$"],
+          "answer": "1",
+          "explanation": "Ordered: $8, 11, 13, 16, 20, 25$. With six values, the median is the average of the middle two: $(13+16)/2 = 14.5$."
+        },
+        {
+          "topic": "Scalar multiple of a vector",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "If $v = (-2, 5)$, what is $-3v$?",
+          "options": ["$(6, -15)$", "$(-6, 15)$", "$(6, 15)$", "$(-5, 2)$"],
+          "answer": "0",
+          "explanation": "Multiply each component by $-3$: $-3(-2, 5) = (-3 \\times -2,\\; -3 \\times 5) = (6, -15)$."
+        },
+        {
+          "topic": "Counting subsets",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How many subsets does a set with $5$ elements have (including the empty set and itself)?",
+          "options": ["$10$", "$25$", "$32$", "$5$"],
+          "answer": "2",
+          "explanation": "A set with $n$ elements has $2^n$ subsets; here $2^5 = 32$."
+        },
+        {
+          "topic": "Probability of an event",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A bag contains $5$ green, $7$ yellow, and $8$ black marbles. What is the probability of drawing a green marble?",
+          "options": ["$\\dfrac{1}{4}$", "$\\dfrac{7}{20}$", "$\\dfrac{2}{5}$", "$\\dfrac{5}{15}$"],
+          "answer": "0",
+          "explanation": "Total marbles $= 5 + 7 + 8 = 20$; favourable (green) $= 5$, so $P(\\text{green}) = \\dfrac{5}{20} = \\dfrac{1}{4}$."
+        },
+        {
+          "topic": "Identifying functions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which set of ordered pairs **is** a function?",
+          "options": ["$\\{(2, 1), (2, 3), (4, 5)\\}$", "$\\{(0, 7), (1, 8), (0, 9)\\}$", "$\\{(3, 2), (4, 2), (5, 6)\\}$", "$\\{(6, 1), (6, 2), (7, 3)\\}$"],
+          "answer": "2",
+          "explanation": "In $\\{(3,2),(4,2),(5,6)\\}$ every input appears once; sharing the output $2$ is allowed, so it is a function."
+        },
+        {
+          "topic": "Function graphs and intercepts",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The line $f(x) = 3x + 12$ crosses the $x$-axis at which point?",
+          "options": ["$(0, 12)$", "$(-4, 0)$", "$(4, 0)$", "$(-12, 0)$"],
+          "answer": "1",
+          "explanation": "The $x$-intercept is where $f(x)=0$: $3x + 12 = 0 \\Rightarrow x = -4$, giving the point $(-4, 0)$."
+        },
+        {
+          "topic": "Sets: inclusion–exclusion",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In a class of $45$ students, $28$ study biology, $19$ study chemistry, and $9$ study both. How many students study **neither** subject?",
+          "options": ["$7$", "$5$", "$9$", "$38$"],
+          "answer": "0",
+          "explanation": "At least one subject $= 28 + 19 - 9 = 38$; neither $= 45 - 38 = 7$."
+        },
+        {
+          "topic": "Quadratic formula",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Using the quadratic formula, solve $2x^2 - 7x + 6 = 0$.",
+          "options": ["$x = 2$ or $x = \\dfrac{3}{2}$", "$x = -2$ or $x = -\\dfrac{3}{2}$", "$x = 3$ or $x = \\dfrac{1}{2}$", "$x = 2$ or $x = -\\dfrac{3}{2}$"],
+          "answer": "0",
+          "explanation": "Here $a=2, b=-7, c=6$; discriminant $= 49 - 48 = 1$. $x = \\dfrac{7 \\pm 1}{4}$, giving $x = 2$ or $x = \\dfrac{3}{2}$."
+        },
+        {
+          "topic": "Regular polygon angles",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Each interior angle of a regular polygon measures $144^\\circ$. How many sides does it have?",
+          "options": ["$8$", "$9$", "$10$", "$12$"],
+          "answer": "2",
+          "explanation": "Set $\\dfrac{(n-2)\\times 180^\\circ}{n} = 144^\\circ$: $180n - 360 = 144n$, so $36n = 360$ and $n = 10$."
+        },
+        {
+          "topic": "Vector between two points",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Point $P$ has position vector $(1, 2)$ and point $Q$ has position vector $(9, 8)$. What is the magnitude of $\\overrightarrow{PQ}$?",
+          "options": ["$10$", "$14$", "$\\sqrt{14}$", "$100$"],
+          "answer": "0",
+          "explanation": "$\\overrightarrow{PQ} = Q - P = (9-1,\\; 8-2) = (8, 6)$, so $|\\overrightarrow{PQ}| = \\sqrt{8^2 + 6^2} = \\sqrt{100} = 10$."
+        },
+        {
+          "topic": "Real number system",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which statement about real numbers is **TRUE**?",
+          "options": ["The product of two irrational numbers is always irrational", "Every natural number is also a rational number", "$\\pi$ can be written exactly as $\\dfrac{22}{7}$", "The square root of every positive integer is irrational"],
+          "answer": "1",
+          "explanation": "Every natural number $n$ equals $\\dfrac{n}{1}$, so it is rational; e.g. $\\sqrt{3}\\times\\sqrt{3}=3$ is rational, and $\\sqrt{4}=2$ is rational."
+        },
+        {
+          "topic": "Statistics: weighted reasoning",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "The mean of five numbers is $20$. Four of the numbers are $18, 22, 15,$ and $25$. What is the fifth number?",
+          "options": ["$18$", "$20$", "$22$", "$80$"],
+          "answer": "1",
+          "explanation": "The total must be $5 \\times 20 = 100$; the four known numbers sum to $80$, so the fifth is $100 - 80 = 20$."
+        }
+      ]
+    }
+  ]
+}

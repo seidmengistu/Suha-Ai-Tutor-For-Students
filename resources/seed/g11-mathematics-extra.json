@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "mathematics",
+      "questions": [
+        {
+          "topic": "Composition of functions",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "If `f(x) = x - 2` and `g(x) = 4x`, what is `(g ∘ f)(5)`?",
+          "options": ["12", "18", "20", "3"],
+          "answer": "0",
+          "explanation": "Apply `f` first: `f(5) = 3`. Then `g(3) = 4 × 3 = 12`."
+        },
+        {
+          "topic": "Inverse of a function",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the inverse of `f(x) = 5x - 10`?",
+          "options": ["`f⁻¹(x) = (x + 10)/5`", "`f⁻¹(x) = (x - 10)/5`", "`f⁻¹(x) = 5x + 10`", "`f⁻¹(x) = 1/(5x - 10)`"],
+          "answer": "0",
+          "explanation": "Swap to get `x = 5y - 10`, so `5y = x + 10`, giving `y = (x + 10)/5`."
+        },
+        {
+          "topic": "One-to-one functions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which function is NOT one-to-one over all real numbers?",
+          "options": ["`f(x) = x² - 1`", "`f(x) = 2x + 7`", "`f(x) = x³`", "`f(x) = -3x`"],
+          "answer": "0",
+          "explanation": "`f(x) = x² - 1` gives the same output for `x` and `-x` (e.g. `2` and `-2` both give `3`), so it is not one-to-one."
+        },
+        {
+          "topic": "Rational expressions",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "For which value of `x` is `(2x - 5)/(x + 3)` undefined?",
+          "options": ["`x = -3`", "`x = 3`", "`x = 5/2`", "`x = 0`"],
+          "answer": "0",
+          "explanation": "The expression is undefined where the denominator is zero: `x + 3 = 0`, so `x = -3`."
+        },
+        {
+          "topic": "Simplifying rational expressions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Simplify `(x² + 5x + 6)/(x + 2)`.",
+          "options": ["`x + 3`", "`x + 2`", "`x + 6`", "`x - 3`"],
+          "answer": "0",
+          "explanation": "Factor the top: `x² + 5x + 6 = (x + 2)(x + 3)`. Cancel `(x + 2)` to get `x + 3` (with `x ≠ -2`)."
+        },
+        {
+          "topic": "Horizontal asymptote",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the horizontal asymptote of `f(x) = (6x - 1)/(2x + 5)`?",
+          "options": ["`y = 3`", "`y = 0`", "`y = 6`", "`y = 1/5`"],
+          "answer": "0",
+          "explanation": "Degrees of top and bottom are equal, so the asymptote is the ratio of leading coefficients, `6/2 = 3`."
+        },
+        {
+          "topic": "Slope of a line",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the slope of the line through `(1, 3)` and `(4, 12)`?",
+          "options": ["3", "9", "1/3", "4"],
+          "answer": "0",
+          "explanation": "Slope `= (12 - 3)/(4 - 1) = 9/3 = 3`."
+        },
+        {
+          "topic": "Equation of a circle",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the equation of a circle centred at the origin with radius 9?",
+          "options": ["`x² + y² = 81`", "`x² + y² = 9`", "`x² + y² = 18`", "`x² + y² = 3`"],
+          "answer": "0",
+          "explanation": "Use `x² + y² = r²` with `r = 9`, so `r² = 81`, giving `x² + y² = 81`."
+        },
+        {
+          "topic": "Identifying conics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which equation represents an ellipse?",
+          "options": ["`x²/16 + y²/4 = 1`", "`x²/16 - y²/4 = 1`", "`x² + y² = 16`", "`y = 4x²`"],
+          "answer": "0",
+          "explanation": "An ellipse has added squared terms with different denominators. `x²/16 + y²/4 = 1` fits; a circle would have equal denominators, and a minus sign would give a hyperbola."
+        },
+        {
+          "topic": "Negation",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the negation of the statement \"All birds can fly\"?",
+          "options": ["At least one bird cannot fly", "No birds can fly", "All birds cannot fly", "Some birds can fly"],
+          "answer": "0",
+          "explanation": "The negation of \"all\" is \"at least one does not\". So \"All birds can fly\" is negated by \"At least one bird cannot fly\"."
+        },
+        {
+          "topic": "Conjunction",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "If `p` is true and `q` is false, what is `(¬p) ∨ q`?",
+          "options": ["False", "True", "Both", "Undefined"],
+          "answer": "0",
+          "explanation": "`¬p` is false (since `p` is true) and `q` is false, so `false ∨ false` is false."
+        },
+        {
+          "topic": "Truth tables",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "How many rows does a truth table for four statements `p, q, r, s` have?",
+          "options": ["16", "8", "4", "32"],
+          "answer": "0",
+          "explanation": "A truth table for `n` statements has `2ⁿ` rows, so `2⁴ = 16`."
+        },
+        {
+          "topic": "Mean",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the mean of `5, 10, 15, 20, 25`?",
+          "options": ["15", "12", "75", "20"],
+          "answer": "0",
+          "explanation": "Sum `= 5 + 10 + 15 + 20 + 25 = 75`. There are 5 values, so mean `= 75/5 = 15`."
+        },
+        {
+          "topic": "Median",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the median of `12, 4, 9, 6, 15, 2`?",
+          "options": ["7.5", "9", "6", "8"],
+          "answer": "0",
+          "explanation": "In order: `2, 4, 6, 9, 12, 15`. With 6 values, the median is the average of the two middle ones: `(6 + 9)/2 = 7.5`."
+        },
+        {
+          "topic": "Probability",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A bag holds 4 red, 5 green, and 3 yellow marbles. What is `P(green)`?",
+          "options": ["`5/12`", "`5/8`", "`1/5`", "`5/7`"],
+          "answer": "0",
+          "explanation": "Total marbles `= 4 + 5 + 3 = 12`. Favourable (green) `= 5`, so `P(green) = 5/12`."
+        },
+        {
+          "topic": "Determinant of a 2x2 matrix",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the determinant of `[[5, 2], [4, 3]]`?",
+          "options": ["7", "23", "-7", "8"],
+          "answer": "0",
+          "explanation": "`det = ad - bc = (5)(3) - (2)(4) = 15 - 8 = 7`."
+        },
+        {
+          "topic": "Matrix multiplication",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is `[[1, 2], [0, 3]] × [[2], [1]]`?",
+          "options": ["`[[4], [3]]`", "`[[3], [3]]`", "`[[4], [4]]`", "`[[2], [3]]`"],
+          "answer": "0",
+          "explanation": "Row 1: `(1)(2) + (2)(1) = 4`. Row 2: `(0)(2) + (3)(1) = 3`. The product is `[[4], [3]]`."
+        },
+        {
+          "topic": "Cramer's rule",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Using Cramer's rule for `3x + y = 9` and `x + 2y = 8`, what is `x`?",
+          "options": ["2", "3", "5", "1"],
+          "answer": "0",
+          "explanation": "`D = (3)(2) - (1)(1) = 5`. `Dₓ = (9)(2) - (1)(8) = 10`. So `x = Dₓ/D = 10/5 = 2`."
+        },
+        {
+          "topic": "Multiplying complex numbers",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is `(2 + 3i)(1 + i)`?",
+          "options": ["`-1 + 5i`", "`2 + 3i`", "`5 + 5i`", "`-1 + i`"],
+          "answer": "0",
+          "explanation": "Expand: `2 + 2i + 3i + 3i² = 2 + 5i - 3 = -1 + 5i` (using `i² = -1`)."
+        },
+        {
+          "topic": "Modulus of a complex number",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the modulus of `5 - 12i`?",
+          "options": ["13", "17", "7", "169"],
+          "answer": "0",
+          "explanation": "`|5 - 12i| = √(5² + 12²) = √(25 + 144) = √169 = 13`."
+        },
+        {
+          "topic": "Dot product",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the dot product of `(3, -2)` and `(4, 5)`?",
+          "options": ["2", "22", "-2", "7"],
+          "answer": "0",
+          "explanation": "Dot product `= (3)(4) + (-2)(5) = 12 - 10 = 2`."
+        },
+        {
+          "topic": "Rotation of a point",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "After a 90° rotation about the origin using `(x, y) → (-y, x)`, where does `(2, 5)` go?",
+          "options": ["`(-5, 2)`", "`(5, -2)`", "`(-2, -5)`", "`(5, 2)`"],
+          "answer": "0",
+          "explanation": "Apply the rule: `(x, y) → (-y, x)` sends `(2, 5)` to `(-5, 2)`."
+        },
+        {
+          "topic": "Reciprocal trig functions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If `tan x = 4`, what is `cot x`?",
+          "options": ["`1/4`", "4", "-4", "`1/2`"],
+          "answer": "0",
+          "explanation": "`cot x = 1/tan x = 1/4`."
+        },
+        {
+          "topic": "Linear programming",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Maximise `P = 4x + 5y` over the corners `(0, 0)`, `(6, 0)`, `(0, 4)`, and `(3, 3)`. What is the maximum?",
+          "options": ["27", "24", "20", "30"],
+          "answer": "0",
+          "explanation": "`P` values: `(0,0) → 0`; `(6,0) → 24`; `(0,4) → 20`; `(3,3) → 12 + 15 = 27`. The largest is `27` at `(3, 3)`."
+        }
+      ]
+    }
+  ]
+}

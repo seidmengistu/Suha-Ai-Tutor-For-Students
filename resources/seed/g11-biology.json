@@ -1,0 +1,1325 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "biology",
+      "chapters": [
+        {
+          "title": "The Science of Biology",
+          "description": "How biologists study life using the scientific method, laboratory and field tools, and why biology matters to Ethiopia.",
+          "lessons": [
+            {
+              "title": "The Methods and Tools of Biology",
+              "summary": "Biology is the science of life, and scientists study it using a careful step-by-step process called the scientific method. This lesson explains how to ask questions, test hypotheses fairly, and use the main tools of a biologist.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "What is Biology?",
+                  "body": "**Biology** is the science of life and living things. The word comes from two Greek words: *bios* meaning \"life\" and *logos* meaning \"study\".\n\nA living thing is called an **organism**. Some organisms are made of one cell (like **bacteria**), and others are made of many cells (like plants, animals, and humans).\n\nBiologists do many different jobs. Some look through microscopes, but others work in fields and forests, in hospitals, or even study how life might exist on other planets. In Ethiopia, biologists help farmers grow better *teff* and *enset* (false banana), fight diseases like malaria, and protect wild animals in places like the Bale Mountains."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Explain what **science** and **biology** are.\n- Describe the main steps of the **scientific method**.\n- Tell the difference between a **hypothesis** and a **prediction**.\n- Identify the **independent**, **dependent**, and **controlled variables** in an experiment.\n- Name the main **tools** a biologist uses in the laboratory and in the field."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Scientific Method",
+                  "body": "**Science** is a way of gaining knowledge by testing ideas, not just believing them. The most important rule is that any explanation must be able to be **proved wrong**. If there is no way to prove an idea wrong, other scientists cannot trust it.\n\nThe **scientific method** is the step-by-step way scientists work:\n\n1. **Ask a question** about something you observe.\n2. **Do background research** to see what is already known.\n3. **Construct a hypothesis** — an educated guess that explains the observation. It must be written so it *can be tested*.\n4. **Make a prediction** — what you think the experiment will show.\n5. **Test with an experiment** and collect results.\n6. **Analyse results and draw a conclusion** — accept or reject the hypothesis.\n7. **Report the results** so others can check them.\n\n**Why must a hypothesis be testable?** Because science only accepts ideas that can be checked by evidence. Long ago, people believed in **spontaneous generation** (the false idea that living things appear from non-living matter, like flies from rotting meat). Scientists such as Francesco Redi and Louis Pasteur used careful experiments to **prove this idea wrong**. This is why the scientific method is so powerful: it replaces guessing with evidence.\n\n**Variables** are the heart of a fair experiment:\n\n- The **independent variable (IV)** is the one thing the scientist changes.\n- The **dependent variable (DV)** is what the scientist measures to see if it changed.\n- **Controlled variables** are all the other things kept the same, so the experiment is a **fair test**.\n\nWe keep everything else constant so we can be sure that the change in the IV — and nothing else — caused the change in the DV. This is called proving **cause and effect**."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: The Tomato Seed Experiment",
+                  "body": "**Observation:** Tomato seeds grow when planted in soil, but they do *not* grow inside the tomato fruit. Why?\n\nLet us follow the scientific method step by step:\n\n**Step 1 — Ask the question:** Why don't tomato seeds grow inside the tomato?\n\n**Step 2 — Background research:** We learn that plants make chemicals called **growth regulators** that control growth.\n\n**Step 3 — Hypothesis:** \"There are chemicals in tomato juice that stop the seeds from growing.\" (This *can* be tested.)\n\n**Step 4 — Prediction:** \"Seeds covered in tomato juice will grow less than seeds covered in water.\"\n\n**Step 5 — Experiment:**\n- Put 20 seeds in a dish with **tomato juice** (this is the **experimental group**).\n- Put 20 seeds in another dish with **distilled water** (this is the **control group**).\n- Keep both dishes at the **same temperature, light, and conditions** (these are the controlled variables).\n- Here the **independent variable** is the liquid (juice or water). The **dependent variable** is the number of seeds that grow.\n\n**Step 6 — Results:** Out of 1000 seeds, 668 grew in water but only 265 grew in tomato juice.\n\n**Step 7 — Conclusion:** Far fewer seeds grew in the juice, so we **accept the hypothesis**: a chemical in tomato juice slows down germination. The **control group** (water) was needed so we had something to compare with."
+                },
+                {
+                  "type": "visual",
+                  "title": "Comparing the Two Groups",
+                  "body": "This bar chart shows how many seeds (out of every dish of 20) grew in each condition. Notice how the **control group** (water) had more than twice as many seeds grow as the **experimental group** (tomato juice).",
+                  "visual": {
+                    "type": "bar-chart",
+                    "title": "Average seeds germinated per dish (out of 20)",
+                    "xLabel": "Condition",
+                    "yLabel": "Seeds germinated",
+                    "bars": [
+                      { "label": "Distilled water (control)", "value": 13.4 },
+                      { "label": "Tomato juice (experimental)", "value": 5.3 }
+                    ]
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Mixing up the IV and the DV.** Remember: you *change* the independent variable; you *measure* the dependent variable.\n- **Forgetting the control group.** Without a control, you have nothing to compare your results to, so you cannot prove cause and effect.\n- **Thinking a hypothesis is just any guess.** A good hypothesis must be written so it *can be tested* by an experiment.\n- **Confusing reliable with valid.** An experiment can be *reliable* (gives the same answer each time) but still be *invalid* (measuring the wrong thing) if you forget to control an important variable.\n- **Believing two events linked in time means one caused the other.** Frogs appearing after a flood does not mean mud creates frogs."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"I Change, I Measure\"**: the **I**ndependent variable is the one **I** change; the **D**ependent variable **D**epends on it, so it is the one I measure.\n- Remember the method order with **\"Question, Research, Hypothesis, Experiment, Conclusion, Report\"** — think *\"Quick Rabbits Hop Each Cool Rainy day.\"*\n- **Control = Compare.** Both start with C: the control group is your group for comparison.\n- A **fair test** changes only **one** thing — picture a fair race where everyone starts at the same line."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers below.\n\n**1.** A student tests how light affects bean plant growth. She grows some plants in bright light and some in darkness, keeping water and temperature the same. What is the **independent variable**?\n\n**2.** In the same experiment, what is the **dependent variable** she should measure?\n\n**3.** Why does she keep the water and temperature the same for all plants?\n\n**4.** Write a testable **hypothesis** for this experiment.\n\n---\n\n**Answers:**\n\n**1.** The amount of light (bright light vs darkness).\n\n**2.** The growth of the plants (for example, the height in centimetres).\n\n**3.** So they are **controlled variables** — keeping them the same makes it a **fair test**, so any difference in growth must be due to the light.\n\n**4.** Example: \"Bean plants grown in bright light will grow taller than bean plants grown in darkness.\""
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Biology** is the science of life; an **organism** is a living thing made of one or many cells.\n- **Science** gains knowledge by testing ideas; a good idea must be able to be **proved wrong**.\n- The **scientific method**: ask a question, research, make a **hypothesis**, predict, experiment, conclude, and report.\n- The **independent variable** is changed; the **dependent variable** is measured; **controlled variables** are kept the same.\n- A **control group** gives a standard for comparison and helps prove **cause and effect**.\n- Biologists use tools such as **microscopes**, **balances**, **Petri dishes**, **pipettes**, **centrifuges** (laboratory) and **quadrats** (field)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Words",
+                  "body": "The most important terms from this lesson are listed here for quick revision.",
+                  "glossary": [
+                    { "term": "Biology", "definition": "The science of life and living organisms." },
+                    { "term": "Hypothesis", "definition": "An educated guess that explains an observation and can be tested by an experiment." },
+                    { "term": "Prediction", "definition": "A statement of what you expect an experiment to show, based on your hypothesis." },
+                    { "term": "Independent variable", "definition": "The one factor the scientist deliberately changes in an experiment." },
+                    { "term": "Dependent variable", "definition": "The factor the scientist measures to see if it changes." },
+                    { "term": "Control group", "definition": "A standard group, not given the test factor, used for comparison." },
+                    { "term": "Quadrat", "definition": "A small square frame placed on the ground to count and study organisms in an area." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What does the word \"biology\" mean?", "back": "The study of life (bios = life, logos = study)." },
+                { "front": "What is a hypothesis?", "back": "An educated, testable guess that explains an observation." },
+                { "front": "Independent variable vs dependent variable?", "back": "You CHANGE the independent variable; you MEASURE the dependent variable." },
+                { "front": "Why do we need a control group?", "back": "To give a standard for comparison and prove cause and effect." },
+                { "front": "What is a quadrat used for?", "back": "A square frame used in the field to count organisms and estimate how many live in an area." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Definition of science",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which statement best describes what science is?",
+              "options": [
+                "A fixed set of facts that never change",
+                "A way of looking at and thinking about the natural world by testing ideas",
+                "A list of beliefs that cannot be questioned",
+                "A collection of opinions from famous people"
+              ],
+              "answer": "1",
+              "explanation": "Science is a way of gaining knowledge by testing ideas with evidence, not a fixed set of facts or opinions."
+            },
+            {
+              "topic": "Scientific method",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is a hypothesis?",
+              "options": [
+                "The final conclusion of an experiment",
+                "A tool used to measure mass",
+                "An educated guess that can be tested by an experiment",
+                "A type of microscope"
+              ],
+              "answer": "2",
+              "explanation": "A hypothesis is a testable educated guess that explains an observation. It must be written so it can be checked by an experiment."
+            },
+            {
+              "topic": "Variables",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "In an experiment, the independent variable is the one that the scientist:",
+              "options": [
+                "Measures at the end",
+                "Changes on purpose",
+                "Keeps the same for all groups",
+                "Cannot control"
+              ],
+              "answer": "1",
+              "explanation": "The independent variable is the factor the scientist deliberately changes. The dependent variable is the one measured."
+            },
+            {
+              "topic": "Control group",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Why is a control group important in an experiment?",
+              "options": [
+                "It makes the experiment finish faster",
+                "It gives a standard to compare the results against",
+                "It removes the need for a hypothesis",
+                "It increases the temperature of the experiment"
+              ],
+              "answer": "1",
+              "explanation": "A control group is not given the test factor, so it acts as a standard for comparison and helps prove cause and effect."
+            },
+            {
+              "topic": "Laboratory and field tools",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A biologist wants to estimate how many grass plants grow in a large field. Which tool is most suitable?",
+              "options": [
+                "A centrifuge",
+                "A quadrat",
+                "An electron microscope",
+                "A balance"
+              ],
+              "answer": "1",
+              "explanation": "A quadrat is a square frame placed on the ground to count organisms in a sample area, which is then used to estimate abundance over the whole field."
+            },
+            {
+              "topic": "Reliability and validity",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A student repeats an experiment many times and always gets the same result, but forgets to control the temperature each time. Her results are:",
+              "options": [
+                "Both reliable and valid",
+                "Reliable but possibly not valid",
+                "Valid but not reliable",
+                "Neither reliable nor valid"
+              ],
+              "answer": "1",
+              "explanation": "Getting the same result each time makes the experiment reliable, but failing to control an important variable (temperature) means it may not be measuring only the intended factor, so it may not be valid."
+            }
+          ]
+        },
+        {
+          "title": "Biochemical Molecules",
+          "description": "The inorganic and organic molecules that make up living things, including water, carbohydrates, lipids, proteins, and nucleic acids.",
+          "lessons": [
+            {
+              "title": "Inorganic and Organic Molecules of Life",
+              "summary": "Living things are built from chemical molecules, divided into inorganic (like water and mineral salts) and organic (like carbohydrates, lipids, proteins, and nucleic acids). This lesson explains what each group is and why it matters for life.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "The Chemistry of Living Things",
+                  "body": "Every living thing — from a tiny bacterium to a tall *Eucalyptus* tree — is made of **molecules**. A **molecule** is a group of atoms joined together.\n\nThe molecules of life fall into two big groups:\n\n- **Inorganic molecules** — usually small and simple, and they do *not* contain chains of carbon and hydrogen. Examples: **water** and **mineral salts**.\n- **Organic molecules** — larger molecules built around **carbon** atoms joined to **hydrogen**. Examples: **carbohydrates**, **lipids**, **proteins**, and **nucleic acids**.\n\nUnderstanding these molecules helps us understand food, health, and farming. For example, knowing that *injera* made from *teff* is rich in **carbohydrates** explains why it gives us energy."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Explain the difference between **inorganic** and **organic** molecules.\n- Describe why **water** is important for life.\n- Name the four main groups of **organic molecules** and their building blocks.\n- State the functions of **carbohydrates**, **lipids**, **proteins**, and **nucleic acids**.\n- Recognise the **monomers** that join to form large **polymers**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Inorganic and Organic Molecules",
+                  "body": "**Inorganic molecules** are generally simple and do not have carbon-hydrogen chains. The most important one is **water**.\n\n**Why is water so important?** Water makes up most of the mass of living things (about two-thirds of your body). It is special because:\n- It is a good **solvent** — many substances dissolve in it, so chemical reactions can happen and substances can be transported in blood and sap.\n- It helps control temperature, because it can absorb a lot of heat without changing temperature quickly.\n\nOther inorganic substances are **mineral salts**, which provide ions such as **calcium** (for bones and teeth) and **iron** (for blood).\n\n**Organic molecules** are built around **carbon**. Carbon is special because each carbon atom can join to **four** other atoms, so it can build long chains and rings. This lets living things make huge, complex molecules.\n\nMany large organic molecules are **polymers** — long chains made by joining many small units called **monomers** (think of a chain made of many small links). The four main groups are:\n\n| Group | Building block (monomer) | Main job |\n|---|---|---|\n| **Carbohydrates** | simple sugars (e.g. glucose) | quick energy and storage |\n| **Lipids** (fats and oils) | fatty acids + glycerol | long-term energy store, insulation |\n| **Proteins** | amino acids | building bodies, making **enzymes** |\n| **Nucleic acids** (DNA, RNA) | nucleotides | carry genetic information |\n\n**Why does this matter?** These four groups do almost everything in your body: they give energy, build new cells, speed up reactions, and carry the instructions of life in **DNA**."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Building a Polymer",
+                  "body": "Let us see how a large **polymer** is made from small **monomers**, using **starch** as an example.\n\n**Step 1 — Start with the monomer:** The monomer is **glucose**, a simple sugar. One glucose molecule is small.\n\n**Step 2 — Join two together:** When two glucose molecules join, a chemical reaction removes one small water molecule and forms a bond between them. This is called a **condensation reaction** (it releases water). Two sugars joined make a *disaccharide*.\n\n**Step 3 — Keep adding:** Many more glucose units are added in the same way, one after another, forming a long chain.\n\n**Step 4 — The finished polymer:** The long chain of many glucose units is **starch**, a **polysaccharide**. Plants like potato and *enset* store energy as starch.\n\n**Reverse process:** To get the energy back, the body breaks starch apart by adding water — this is called **hydrolysis** (*hydro* = water, *lysis* = splitting). The starch is broken back down into glucose, which the cell can use for energy.\n\nSo: many **glucose monomers** → (condensation, lose water) → **starch polymer**, and back again by **hydrolysis**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Thinking \"organic\" means natural or healthy.** In biology, **organic** simply means the molecule contains carbon-hydrogen chains. It has nothing to do with organic farming.\n- **Mixing up monomers and polymers.** A **monomer** is one small unit; a **polymer** is a long chain of many monomers joined together.\n- **Forgetting that water is inorganic.** Even though water is essential for life, it is an **inorganic** molecule because it has no carbon.\n- **Confusing the building blocks.** Proteins are made of **amino acids**, not sugars. Carbohydrates are made of **sugars**.\n- **Mixing up condensation and hydrolysis.** **Condensation** joins units and *releases* water; **hydrolysis** breaks units apart and *uses* water."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- Remember the four organic groups with **\"CLiPN\"**: **C**arbohydrates, **Li**pids, **P**roteins, **N**ucleic acids.\n- **Monomer = One** (both start with the \"M-O\" sound for one unit). **Polymer = Plenty** (many units).\n- **Condensation Creates** (joins and gives off water); **Hydrolysis** has *hydro* (water) — it adds water to break things.\n- Building blocks: **P**roteins are built from **a**mino acids — picture \"**P**rotein = **A**mino\" as a team.\n- Water = the \"universal **solvent**\" — picture water *dissolving* sugar in your tea."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers below.\n\n**1.** Is water an organic or an inorganic molecule? Explain why.\n\n**2.** What are the building blocks (monomers) of proteins?\n\n**3.** A plant stores energy as starch. What single sugar is starch made from?\n\n**4.** Name the reaction that joins many monomers together and releases water.\n\n---\n\n**Answers:**\n\n**1.** Water is **inorganic** because it does not contain carbon-hydrogen chains.\n\n**2.** **Amino acids**.\n\n**3.** **Glucose**.\n\n**4.** A **condensation reaction**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- Living things are made of **molecules**, grouped as **inorganic** or **organic**.\n- **Inorganic molecules** (e.g. **water**, **mineral salts**) are simple and lack carbon-hydrogen chains.\n- **Water** is vital because it is a good **solvent** and helps control temperature.\n- **Organic molecules** are built around **carbon**, which can join to four other atoms.\n- The four groups: **carbohydrates** (energy), **lipids** (energy store/insulation), **proteins** (building and **enzymes**), **nucleic acids** (genetic information).\n- Large **polymers** are made of small **monomers**: sugars, fatty acids, amino acids, and nucleotides.\n- **Condensation** joins monomers (releases water); **hydrolysis** breaks polymers apart (uses water)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Words",
+                  "body": "The most important terms from this lesson are listed here for quick revision.",
+                  "glossary": [
+                    { "term": "Inorganic molecule", "definition": "A simple molecule without carbon-hydrogen chains, such as water or mineral salts." },
+                    { "term": "Organic molecule", "definition": "A molecule built around carbon atoms joined to hydrogen, such as carbohydrates and proteins." },
+                    { "term": "Monomer", "definition": "A single small unit that can join with others to form a large molecule." },
+                    { "term": "Polymer", "definition": "A large molecule made of many monomers joined in a chain." },
+                    { "term": "Carbohydrate", "definition": "An organic molecule made of sugars, used mainly for energy." },
+                    { "term": "Protein", "definition": "An organic molecule made of amino acids; builds the body and forms enzymes." },
+                    { "term": "Condensation reaction", "definition": "A reaction that joins two molecules and releases a water molecule." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the difference between organic and inorganic molecules?", "back": "Organic molecules contain carbon-hydrogen chains; inorganic molecules (like water) do not." },
+                { "front": "Name the four main groups of organic molecules.", "back": "Carbohydrates, lipids, proteins, and nucleic acids." },
+                { "front": "What are the building blocks of proteins?", "back": "Amino acids." },
+                { "front": "Why is water important for life?", "back": "It is a good solvent for reactions and transport, and it helps control temperature." },
+                { "front": "What is a polymer?", "back": "A large molecule made of many small monomers joined together (e.g. starch from glucose)." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Inorganic vs organic",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of the following is an inorganic molecule?",
+              "options": [
+                "Protein",
+                "Glucose",
+                "Water",
+                "Starch"
+              ],
+              "answer": "2",
+              "explanation": "Water is inorganic because it has no carbon-hydrogen chains. Proteins, glucose, and starch are all organic."
+            },
+            {
+              "topic": "Importance of water",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Why is water described as a good solvent?",
+              "options": [
+                "It freezes easily",
+                "Many substances dissolve in it",
+                "It contains carbon",
+                "It is a type of protein"
+              ],
+              "answer": "1",
+              "explanation": "Water dissolves many substances, which allows chemical reactions to take place and substances to be transported in blood and sap."
+            },
+            {
+              "topic": "Organic molecule groups",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which group of organic molecules has amino acids as its building blocks?",
+              "options": [
+                "Carbohydrates",
+                "Lipids",
+                "Proteins",
+                "Nucleic acids"
+              ],
+              "answer": "2",
+              "explanation": "Proteins are polymers made of many amino acids joined together."
+            },
+            {
+              "topic": "Carbon",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Why can carbon form such a wide variety of large molecules?",
+              "options": [
+                "Each carbon atom can join to four other atoms",
+                "Carbon dissolves in water",
+                "Carbon is a metal",
+                "Carbon cannot form bonds"
+              ],
+              "answer": "0",
+              "explanation": "Each carbon atom can bond to four other atoms, allowing it to build long chains and rings, which makes complex organic molecules possible."
+            },
+            {
+              "topic": "Monomers and polymers",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Starch is a polymer. Which monomer is it made from?",
+              "options": [
+                "Amino acid",
+                "Fatty acid",
+                "Glucose",
+                "Nucleotide"
+              ],
+              "answer": "2",
+              "explanation": "Starch is a polysaccharide made of many glucose units joined together by condensation reactions."
+            },
+            {
+              "topic": "Condensation and hydrolysis",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "During digestion, a large starch molecule is broken down into glucose by adding water. This type of reaction is called:",
+              "options": [
+                "Condensation",
+                "Hydrolysis",
+                "Oxidation",
+                "Photosynthesis"
+              ],
+              "answer": "1",
+              "explanation": "Hydrolysis (hydro = water, lysis = splitting) breaks a polymer apart by adding water. Condensation does the opposite by joining units and releasing water."
+            }
+          ]
+        },
+        {
+          "title": "Enzymes",
+          "description": "The nature of enzymes as biological catalysts, what they do in living things, and the factors that affect how well they work.",
+          "lessons": [
+            {
+              "title": "Enzymes: Nature, Function, and Controlling Factors",
+              "summary": "Enzymes are special proteins that speed up the chemical reactions in living things without being used up. This lesson explains how they work using the lock-and-key idea, and how temperature and pH affect them.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Why Living Things Need Enzymes",
+                  "body": "Inside every cell, thousands of chemical reactions happen every second — digesting food, building new parts, releasing energy. At normal body temperature these reactions would be far too slow to keep us alive.\n\n**Enzymes** are the answer. An **enzyme** is a **biological catalyst**: a substance that speeds up a chemical reaction without being changed or used up itself. Enzymes are made of **protein**.\n\nWe meet enzymes every day. When we make *injera* batter ferment, or when we brew *tella* and *tej*, tiny organisms use enzymes to break down sugars. In our own bodies, enzymes in saliva start breaking down the starch in *injera* the moment we begin to chew."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define an **enzyme** as a **biological catalyst** and state that enzymes are **proteins**.\n- Explain the **lock-and-key** model of how an enzyme works.\n- Identify the **substrate**, the **active site**, and the **product**.\n- Describe how **temperature** and **pH** affect enzyme activity.\n- Explain what happens when an enzyme is **denatured**."
+                },
+                {
+                  "type": "theory",
+                  "title": "How Enzymes Work",
+                  "body": "An **enzyme** speeds up a reaction by lowering the energy needed to start it. Three key words:\n\n- The **substrate** is the substance the enzyme works on.\n- The **active site** is a special pocket on the enzyme with an exact shape.\n- The **product** is the new substance made by the reaction.\n\n**The lock-and-key model:** The active site has a shape that fits only one substrate, just like a lock only fits one key. The substrate slots into the active site, the reaction happens, and the product is released. The enzyme is **not** used up, so it can be used again and again.\n\n**Why is enzyme shape so important?** Because the active site must match the substrate exactly. If the shape of the enzyme changes, the substrate no longer fits, and the enzyme stops working. This is the key to understanding the factors below.\n\n**Factors that affect enzymes:**\n\n1. **Temperature.** As temperature rises, molecules move faster and collide more, so the reaction speeds up — up to the **optimum temperature** (best temperature, about 37 °C in humans). Above this, the heat changes the enzyme's shape permanently. The active site is destroyed and the enzyme is **denatured** — it can no longer work. *Why?* Because high heat breaks the bonds that hold the enzyme's shape.\n\n2. **pH.** Each enzyme has an **optimum pH** where it works best. For example, the enzyme **pepsin** in the stomach works best in acid (about pH 2), while enzymes in the small intestine prefer a more neutral pH. If the pH is too far from the optimum, the enzyme is **denatured** and stops working.\n\nDenaturing is usually **permanent** — once the shape is destroyed, the enzyme cannot recover, just as a cooked egg cannot become raw again."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Reading an Enzyme-Temperature Graph",
+                  "body": "Imagine an experiment measuring how fast an enzyme works at different temperatures. Let us walk through what happens.\n\n**Step 1 — Low temperature (5 °C):** The molecules move slowly, so they collide rarely. The reaction is **slow** and enzyme activity is low.\n\n**Step 2 — Rising temperature (5 °C to 37 °C):** As we warm up, molecules move faster and collide more often. The enzyme and substrate meet more frequently, so activity **increases steadily**.\n\n**Step 3 — Optimum temperature (about 37 °C):** Here the enzyme works **fastest**. This is the peak of the graph. For human enzymes the optimum is around body temperature, 37 °C.\n\n**Step 4 — Above the optimum (above 40 °C):** Now the heat starts to break the bonds holding the enzyme's shape. The **active site** changes shape, the substrate no longer fits, and activity **drops sharply**.\n\n**Step 5 — High temperature (60 °C and above):** The enzyme is fully **denatured**. Its shape is permanently destroyed and activity falls to **zero**. Even if we cool it down again, it will not recover.\n\n**Conclusion:** The graph rises to a peak at the optimum temperature, then falls steeply because the enzyme is denatured. The key idea is that **shape determines function**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Saying enzymes are used up in reactions.** They are **catalysts** — they are *not* used up and can be reused many times.\n- **Thinking enzymes are killed.** Enzymes are not alive, so they cannot be \"killed\". When heat or pH destroys their shape, the correct word is **denatured**.\n- **Believing a denatured enzyme can recover when cooled.** Denaturing changes the shape permanently; cooling does *not* bring it back.\n- **Confusing optimum with maximum.** The **optimum** temperature is the *best* temperature, not the highest the enzyme can survive.\n- **Thinking all enzymes like the same pH.** Different enzymes have different optimum pH values (stomach pepsin likes acid; intestinal enzymes like a more neutral pH)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Lock and Key:** the **active site** is the lock; the **substrate** is the key. Only the right key fits.\n- **Catalyst = Comes back:** both start with C — the enzyme comes back unchanged after the reaction.\n- **Denatured = Destroyed shape.** Picture a cooked egg: once cooked, it can never go back to raw.\n- **Optimum = \"Top of the mountain.\"** On an enzyme graph, the optimum is the peak.\n- Body temperature optimum: remember **\"37 is thriving\"** — 37 °C is where human enzymes work best."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers below.\n\n**1.** What type of molecule is an enzyme made from?\n\n**2.** In the lock-and-key model, which part is the \"lock\" and which is the \"key\"?\n\n**3.** What happens to an enzyme if it gets much hotter than its optimum temperature?\n\n**4.** Why does pepsin work in the stomach but not in the small intestine?\n\n---\n\n**Answers:**\n\n**1.** **Protein**.\n\n**2.** The **active site** of the enzyme is the lock; the **substrate** is the key.\n\n**3.** Its shape is permanently changed (the active site is destroyed) and it becomes **denatured**, so it can no longer work.\n\n**4.** Pepsin's **optimum pH** is very acidic (about pH 2), which matches the stomach. The small intestine is more neutral, so pepsin is no longer at its optimum and works poorly there."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- An **enzyme** is a **biological catalyst** made of **protein** that speeds up reactions without being used up.\n- The **substrate** fits into the enzyme's **active site** (the **lock-and-key model**) and is changed into the **product**.\n- The exact **shape** of the active site decides which substrate it works on.\n- **Temperature** raises activity up to the **optimum** (about 37 °C in humans); above this the enzyme is **denatured**.\n- Each enzyme has an **optimum pH**; the wrong pH also **denatures** it.\n- **Denaturing** permanently destroys the enzyme's shape — it cannot recover."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Words",
+                  "body": "The most important terms from this lesson are listed here for quick revision.",
+                  "glossary": [
+                    { "term": "Enzyme", "definition": "A protein that acts as a biological catalyst, speeding up reactions without being used up." },
+                    { "term": "Catalyst", "definition": "A substance that speeds up a chemical reaction without being changed itself." },
+                    { "term": "Substrate", "definition": "The substance that an enzyme acts on." },
+                    { "term": "Active site", "definition": "The specially shaped part of an enzyme where the substrate fits and the reaction happens." },
+                    { "term": "Product", "definition": "The new substance made when an enzyme acts on its substrate." },
+                    { "term": "Optimum temperature", "definition": "The temperature at which an enzyme works fastest (about 37 °C in humans)." },
+                    { "term": "Denatured", "definition": "When an enzyme's shape is permanently destroyed by heat or wrong pH, so it can no longer work." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is an enzyme?", "back": "A protein that acts as a biological catalyst, speeding up reactions without being used up." },
+                { "front": "What is the lock-and-key model?", "back": "The substrate (key) fits exactly into the enzyme's active site (lock) so the reaction can happen." },
+                { "front": "What does \"denatured\" mean?", "back": "The enzyme's shape has been permanently destroyed (by heat or wrong pH) so it can no longer work." },
+                { "front": "What is the optimum temperature of human enzymes?", "back": "About 37 °C, which is normal body temperature." },
+                { "front": "Are enzymes used up in a reaction?", "back": "No. As catalysts they are not used up and can be reused many times." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Nature of enzymes",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Enzymes are made of which type of molecule?",
+              "options": [
+                "Lipid",
+                "Carbohydrate",
+                "Protein",
+                "Water"
+              ],
+              "answer": "2",
+              "explanation": "Enzymes are proteins. Their precise shape allows them to act as biological catalysts."
+            },
+            {
+              "topic": "Catalysts",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What happens to an enzyme after it has helped a reaction take place?",
+              "options": [
+                "It is used up and destroyed",
+                "It changes into the product",
+                "It is unchanged and can be used again",
+                "It turns into water"
+              ],
+              "answer": "2",
+              "explanation": "As a catalyst, the enzyme is not used up. It returns to its original form and can catalyse the reaction again."
+            },
+            {
+              "topic": "Lock-and-key model",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "In the lock-and-key model, the substance that fits into the active site is called the:",
+              "options": [
+                "Product",
+                "Substrate",
+                "Catalyst",
+                "Solvent"
+              ],
+              "answer": "1",
+              "explanation": "The substrate is the substance that fits into the active site (the lock). The reaction then turns it into the product."
+            },
+            {
+              "topic": "Effect of temperature",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What happens to most human enzymes when heated well above 40 °C?",
+              "options": [
+                "They work faster and faster forever",
+                "They are denatured and stop working",
+                "They turn into carbohydrates",
+                "They become substrates"
+              ],
+              "answer": "1",
+              "explanation": "Above the optimum temperature, heat destroys the enzyme's shape. The active site no longer fits the substrate, so the enzyme is denatured and stops working."
+            },
+            {
+              "topic": "Effect of pH",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "The stomach enzyme pepsin works best at about pH 2. What does this tell you about its environment?",
+              "options": [
+                "It works best in very acidic conditions",
+                "It works best in very alkaline conditions",
+                "It works best at neutral pH",
+                "pH has no effect on pepsin"
+              ],
+              "answer": "0",
+              "explanation": "An optimum pH of 2 is strongly acidic, matching the acidic stomach. Each enzyme has its own optimum pH."
+            },
+            {
+              "topic": "Denaturation",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A student boils an enzyme, then cools it back to 37 °C, but it still does not work. The best explanation is that:",
+              "options": [
+                "The enzyme was used up by boiling",
+                "Boiling permanently changed the enzyme's shape, so it stays denatured",
+                "The enzyme needs more substrate",
+                "Cooling always stops enzymes"
+              ],
+              "answer": "1",
+              "explanation": "Boiling denatures the enzyme by permanently destroying its shape and active site. Cooling cannot restore the shape, so the enzyme remains inactive."
+            }
+          ]
+        },
+        {
+          "title": "Cell Biology",
+          "description": "The cell theory, the difference between prokaryotic and eukaryotic cells, and the parts of the cell and what each one does.",
+          "lessons": [
+            {
+              "title": "Cells: Theory, Types, and Their Parts",
+              "summary": "All living things are made of cells, the basic units of life. This lesson explains the cell theory, the difference between plant and animal cells and between prokaryotic and eukaryotic cells, and the jobs of the main cell parts.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "The Building Blocks of Life",
+                  "body": "If you looked at a leaf, your own skin, or a drop of pond water under a microscope, you would see that they are all made of tiny units called **cells**. A **cell** is the smallest unit that can carry out all the activities of life.\n\nSome organisms, like bacteria, are made of just **one** cell. Others, like humans, trees, and the animals of the Ethiopian highlands such as the *Walia ibex*, are made of **billions** of cells working together.\n\nThe study of cells became possible only after the **microscope** was invented. This is why cell biology is closely linked to the tools of a biologist you learned about earlier."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- State the main ideas of the **cell theory**.\n- Explain the difference between **prokaryotic** and **eukaryotic** cells.\n- Compare a **plant cell** and an **animal cell**.\n- Name the main **organelles** and describe what each one does.\n- Explain why the **nucleus** is called the control centre of the cell."
+                },
+                {
+                  "type": "theory",
+                  "title": "Cell Theory and Cell Types",
+                  "body": "The **cell theory** has three main ideas:\n\n1. All living things are made of one or more **cells**.\n2. The cell is the **basic unit** of life.\n3. All cells come from **other cells** (cells do not appear from nothing).\n\n**Two types of cells:**\n\n- **Prokaryotic cells** are small and simple. They do **not** have a true **nucleus** — their genetic material floats freely. **Bacteria** are prokaryotic.\n- **Eukaryotic cells** are larger and more complex. They **do** have a true **nucleus** and many **organelles**. Plants, animals, and fungi are made of eukaryotic cells.\n\n*Why does the nucleus matter?* The **nucleus** holds the **DNA**, which carries the instructions for everything the cell does. Cells with a nucleus can organise these instructions neatly inside a membrane.\n\n**The main organelles** (an **organelle** is a small structure inside a cell with a special job):\n\n| Organelle | Job |\n|---|---|\n| **Nucleus** | Controls the cell; holds **DNA** |\n| **Cytoplasm** | Jelly where reactions happen |\n| **Cell membrane** | Controls what enters and leaves |\n| **Mitochondria** | Release energy by **respiration** |\n| **Ribosomes** | Build **proteins** |\n| **Chloroplasts** (plants only) | Carry out **photosynthesis** |\n| **Cell wall** (plants only) | Strong outer layer for support |\n| **Vacuole** (large in plants) | Stores sap and keeps the cell firm |\n\n**Plant vs animal cells:** Both have a nucleus, cytoplasm, cell membrane, mitochondria, and ribosomes. But **only plant cells** have a **cell wall**, **chloroplasts**, and a large permanent **vacuole**. This is why plant cells look box-shaped while animal cells are more rounded."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Comparing a Plant Cell and an Animal Cell",
+                  "body": "Suppose you look at two cells under a microscope and must decide which is the plant cell. Let us reason step by step.\n\n**Step 1 — Look for a cell wall:** One cell has a thick, straight outer edge that gives it a box shape. The other has only a thin, flexible boundary. A **cell wall** is found *only in plant cells*, so the box-shaped one is likely the plant cell.\n\n**Step 2 — Look for chloroplasts:** The box-shaped cell contains small green structures. These are **chloroplasts**, where **photosynthesis** happens. Only **plant cells** have them. This confirms it is the plant cell.\n\n**Step 3 — Look for a large vacuole:** The box-shaped cell has one big space in the middle filled with fluid — a large **vacuole** that stores sap. Animal cells may have tiny vacuoles, but not one large permanent one.\n\n**Step 4 — Check the shared parts:** Both cells have a **nucleus** (control centre), **cytoplasm** (where reactions happen), a **cell membrane**, **mitochondria** (release energy), and **ribosomes** (make proteins). These are common to both.\n\n**Conclusion:** The box-shaped cell with a cell wall, chloroplasts, and a large vacuole is the **plant cell**. The rounded cell without these is the **animal cell**."
+                },
+                {
+                  "type": "visual",
+                  "title": "Diagram of a Plant Cell",
+                  "body": "This diagram shows a typical **plant cell** with its main parts labelled. Notice the **cell wall** and **chloroplasts**, which an animal cell would not have.",
+                  "visual": {
+                    "type": "cell",
+                    "cellType": "plant",
+                    "title": "A typical plant cell",
+                    "labels": [
+                      "Cell wall",
+                      "Cell membrane",
+                      "Cytoplasm",
+                      "Nucleus",
+                      "Chloroplast",
+                      "Vacuole",
+                      "Mitochondria"
+                    ]
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Saying animal cells have a cell wall.** Only **plant cells** (and some others like fungi and bacteria) have a cell wall. Animal cells have only a **cell membrane**.\n- **Confusing the cell wall with the cell membrane.** Every cell has a **membrane**; only some have a **wall** outside the membrane.\n- **Thinking bacteria have a nucleus.** Bacteria are **prokaryotic** — their genetic material is *not* inside a true nucleus.\n- **Mixing up mitochondria and chloroplasts.** **Mitochondria** release energy by respiration (in all cells); **chloroplasts** capture light for photosynthesis (in plant cells only).\n- **Forgetting that all cells come from other cells.** This is part of the **cell theory** — cells never appear from nothing."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Plant cells have an extra \"WVC\"**: **W**all, **V**acuole (large), and **C**hloroplasts. Animals lack these three.\n- **Mitochondria = \"the powerhouse.\"** Picture a power station making energy.\n- **Nucleus = \"the brain\"** of the cell — it controls everything.\n- **Pro**karyotic means **\"pro = primitive/no nucleus\"**; **Eu**karyotic means **\"eu = true nucleus.\"**\n- **Chloroplast** contains **chlorophyll** (both have \"chloro\") — green and used for photosynthesis."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers below.\n\n**1.** State two of the three ideas of the cell theory.\n\n**2.** Which type of cell does not have a true nucleus: prokaryotic or eukaryotic?\n\n**3.** Name two parts found in a plant cell but not in an animal cell.\n\n**4.** Which organelle is called the powerhouse of the cell, and why?\n\n---\n\n**Answers:**\n\n**1.** Any two of: (a) all living things are made of cells; (b) the cell is the basic unit of life; (c) all cells come from other cells.\n\n**2.** **Prokaryotic** cells (e.g. bacteria).\n\n**3.** Any two of: **cell wall**, **chloroplasts**, large permanent **vacuole**.\n\n**4.** The **mitochondria**, because they release energy through **respiration**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **cell theory**: all living things are made of **cells**, the cell is the **basic unit of life**, and all cells come from other cells.\n- **Prokaryotic cells** (bacteria) have no true nucleus; **eukaryotic cells** (plants, animals, fungi) have a true **nucleus** and **organelles**.\n- An **organelle** is a small structure with a special job.\n- Key organelles: **nucleus** (control), **mitochondria** (energy by respiration), **ribosomes** (make proteins), **cell membrane** (controls entry/exit).\n- **Plant cells only** also have a **cell wall**, **chloroplasts**, and a large **vacuole**.\n- **Chloroplasts** carry out **photosynthesis**; **mitochondria** carry out **respiration**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Words",
+                  "body": "The most important terms from this lesson are listed here for quick revision.",
+                  "glossary": [
+                    { "term": "Cell", "definition": "The smallest unit that can carry out all the activities of life." },
+                    { "term": "Cell theory", "definition": "The idea that all living things are made of cells, the cell is the basic unit of life, and cells come from other cells." },
+                    { "term": "Prokaryotic cell", "definition": "A simple cell with no true nucleus, such as a bacterium." },
+                    { "term": "Eukaryotic cell", "definition": "A complex cell with a true nucleus and organelles, found in plants, animals, and fungi." },
+                    { "term": "Organelle", "definition": "A small structure inside a cell that carries out a particular job." },
+                    { "term": "Nucleus", "definition": "The organelle that controls the cell and holds its DNA." },
+                    { "term": "Mitochondria", "definition": "Organelles that release energy through respiration; the powerhouse of the cell." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What are the three ideas of the cell theory?", "back": "All living things are made of cells; the cell is the basic unit of life; all cells come from other cells." },
+                { "front": "Prokaryotic vs eukaryotic cells?", "back": "Prokaryotic cells (bacteria) have no true nucleus; eukaryotic cells have a true nucleus and organelles." },
+                { "front": "Which three parts do plant cells have that animal cells do not?", "back": "Cell wall, chloroplasts, and a large permanent vacuole." },
+                { "front": "What is the job of the mitochondria?", "back": "To release energy through respiration (the powerhouse of the cell)." },
+                { "front": "What does the nucleus do?", "back": "It controls the cell and holds the DNA (the cell's instructions)." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Cell theory",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "According to the cell theory, where do all new cells come from?",
+              "options": [
+                "From non-living matter",
+                "From other existing cells",
+                "From water and salt",
+                "From sunlight directly"
+              ],
+              "answer": "1",
+              "explanation": "One key idea of the cell theory is that all cells come from other pre-existing cells; they do not appear from nothing."
+            },
+            {
+              "topic": "Cell as basic unit",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the smallest unit that can carry out all the activities of life?",
+              "options": [
+                "An organ",
+                "A tissue",
+                "A cell",
+                "A molecule"
+              ],
+              "answer": "2",
+              "explanation": "The cell is the basic unit of life and the smallest unit able to carry out all life processes."
+            },
+            {
+              "topic": "Cell types",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which type of cell does NOT have a true nucleus?",
+              "options": [
+                "A plant cell",
+                "An animal cell",
+                "A prokaryotic cell",
+                "A fungal cell"
+              ],
+              "answer": "2",
+              "explanation": "Prokaryotic cells, such as bacteria, have no true nucleus. Plant, animal, and fungal cells are eukaryotic and have a nucleus."
+            },
+            {
+              "topic": "Plant vs animal cells",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which structure is found in a plant cell but NOT in an animal cell?",
+              "options": [
+                "Cell membrane",
+                "Nucleus",
+                "Chloroplast",
+                "Cytoplasm"
+              ],
+              "answer": "2",
+              "explanation": "Chloroplasts are found only in plant cells, where they carry out photosynthesis. Both cell types share a membrane, nucleus, and cytoplasm."
+            },
+            {
+              "topic": "Organelle function",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A cell that needs a lot of energy, such as a muscle cell, would be expected to have many of which organelle?",
+              "options": [
+                "Chloroplasts",
+                "Mitochondria",
+                "Cell walls",
+                "Vacuoles"
+              ],
+              "answer": "1",
+              "explanation": "Mitochondria release energy through respiration, so cells that need a lot of energy contain many mitochondria."
+            },
+            {
+              "topic": "Identifying cells",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Under a microscope, a student sees a box-shaped cell with green structures inside and one large fluid-filled space. The cell is most likely a:",
+              "options": [
+                "Bacterial cell",
+                "Animal cell",
+                "Plant cell",
+                "Red blood cell"
+              ],
+              "answer": "2",
+              "explanation": "A box shape (cell wall), green chloroplasts, and a large central vacuole are all features of a plant cell."
+            }
+          ]
+        },
+        {
+          "title": "Energy Transformation",
+          "description": "How living things obtain and use energy through respiration in all cells and photosynthesis in green plants.",
+          "lessons": [
+            {
+              "title": "Respiration and Photosynthesis",
+              "summary": "All living things need energy. This lesson explains how cells release energy from food by respiration, and how green plants capture light energy and store it as food through photosynthesis.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Energy for Life",
+                  "body": "Every living thing needs **energy** to grow, move, and stay alive. But where does this energy come from?\n\nThe answer is two linked processes:\n\n- **Photosynthesis** — green plants use **light energy** from the Sun to make their own food (sugar). This happens in the highlands of Ethiopia in fields of *teff*, *maize*, and *coffee* plants every sunny day.\n- **Respiration** — all living things (plants *and* animals) break down food to release the energy stored inside it.\n\nTogether these processes move energy from the Sun, into plants, and on to the animals and people who eat them. They are the foundation of all food chains."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **respiration** and **photosynthesis**.\n- Write the simple word equations for both processes.\n- Explain the difference between **aerobic** and **anaerobic** respiration.\n- State where each process happens in the cell.\n- Explain how respiration and photosynthesis are linked."
+                },
+                {
+                  "type": "theory",
+                  "title": "Respiration and Photosynthesis",
+                  "body": "**Respiration** is the process that releases energy from food (glucose) inside cells. It happens in the **mitochondria**. There are two kinds:\n\n- **Aerobic respiration** uses **oxygen**. It releases a *lot* of energy.\n  - **glucose + oxygen → carbon dioxide + water + energy**\n- **Anaerobic respiration** happens *without* oxygen and releases *less* energy. In humans it produces **lactic acid** (which makes muscles ache during hard work); in yeast it produces **ethanol** (alcohol) and carbon dioxide — this is how *tella*, *tej*, and bread dough are made to rise.\n\n**Why does aerobic respiration release more energy?** Because oxygen allows the glucose to be broken down completely, releasing all of its stored energy. Without oxygen, the glucose is only partly broken down, so less energy is freed.\n\n**Photosynthesis** is the process by which green plants make their own food using light. It happens in the **chloroplasts**, which contain the green pigment **chlorophyll** that traps light.\n\n- **carbon dioxide + water → glucose + oxygen** (using **light energy** and **chlorophyll**)\n\n*Why is photosynthesis so important?* It is the only way that the Sun's energy is captured into food that living things can use. It also releases the **oxygen** we breathe.\n\n**The link between them:** Notice that the two equations are almost opposite. Photosynthesis *makes* glucose and oxygen; respiration *uses* glucose and oxygen and gives back carbon dioxide and water. The two processes recycle these gases between plants and animals."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Following Energy Through a Maize Plant",
+                  "body": "Let us follow the energy from the Sun, into a maize plant, and into a person who eats it.\n\n**Step 1 — Light is captured:** Sunlight falls on the green leaves of the maize. The **chlorophyll** inside the **chloroplasts** absorbs the **light energy**.\n\n**Step 2 — Photosynthesis makes food:** Using this light energy, the leaf combines **carbon dioxide** (from the air) and **water** (from the soil) to make **glucose**. **Oxygen** is released as a waste product:\n*carbon dioxide + water → glucose + oxygen.*\n\n**Step 3 — The plant stores energy:** The maize plant turns the glucose into **starch** and stores it in its grains. The Sun's energy is now locked inside the food.\n\n**Step 4 — A person eats the maize:** When someone eats the maize, the **starch** is digested back into **glucose**.\n\n**Step 5 — Respiration releases the energy:** Inside the person's cells, the **mitochondria** carry out **aerobic respiration**:\n*glucose + oxygen → carbon dioxide + water + energy.*\nThe released **energy** is now used by the person to move, grow, and stay warm.\n\n**Conclusion:** The Sun's energy travelled from light → into glucose by **photosynthesis** → stored as food → released again by **respiration**. The carbon dioxide and oxygen are recycled between plants and animals."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Thinking only animals respire.** *All* living things respire, including plants — they respire day and night to release energy.\n- **Thinking plants only photosynthesise.** Plants do both: they photosynthesise in the light *and* respire all the time.\n- **Saying photosynthesis happens in the mitochondria.** Photosynthesis happens in the **chloroplasts**; respiration happens in the **mitochondria**.\n- **Confusing the two equations.** Respiration *uses* oxygen and glucose; photosynthesis *makes* them. They are almost opposite.\n- **Forgetting that anaerobic respiration gives less energy.** Without oxygen, glucose is only partly broken down, so much less energy is released."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Photosynthesis = \"Photo\" = light.** A photo needs light; so does photosynthesis.\n- **Chloroplast and chlorophyll** both start with \"chloro\" (green) — they belong to **photosynthesis**.\n- **Mitochondria = energy**, and energy comes from **respiration** — pair them together.\n- **Aerobic = Air (oxygen).** \"Aerobic\" sounds like \"air\" — it uses oxygen and gives *more* energy.\n- The two equations are **mirror opposites**: products of one are the reactants of the other."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers below.\n\n**1.** Write the word equation for aerobic respiration.\n\n**2.** In which organelle does photosynthesis take place?\n\n**3.** Why does aerobic respiration release more energy than anaerobic respiration?\n\n**4.** When yeast respires anaerobically to make *tella*, what two products does it make?\n\n---\n\n**Answers:**\n\n**1.** glucose + oxygen → carbon dioxide + water + energy.\n\n**2.** The **chloroplast** (which contains chlorophyll).\n\n**3.** Because oxygen allows glucose to be broken down **completely**, releasing all its stored energy; without oxygen it is only partly broken down.\n\n**4.** **Ethanol** (alcohol) and **carbon dioxide**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- All living things need **energy**; they get it through **respiration** and **photosynthesis**.\n- **Respiration** releases energy from glucose in the **mitochondria**.\n- **Aerobic** respiration uses oxygen and releases a lot of energy: *glucose + oxygen → carbon dioxide + water + energy.*\n- **Anaerobic** respiration needs no oxygen and releases less energy (lactic acid in muscles; ethanol + carbon dioxide in yeast).\n- **Photosynthesis** in **chloroplasts** uses **light** and **chlorophyll**: *carbon dioxide + water → glucose + oxygen.*\n- The two processes are almost opposite and recycle carbon dioxide and oxygen between plants and animals."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Words",
+                  "body": "The most important terms from this lesson are listed here for quick revision.",
+                  "glossary": [
+                    { "term": "Respiration", "definition": "The process that releases energy from food (glucose) inside cells." },
+                    { "term": "Aerobic respiration", "definition": "Respiration that uses oxygen and releases a lot of energy." },
+                    { "term": "Anaerobic respiration", "definition": "Respiration without oxygen that releases less energy; produces lactic acid (in muscles) or ethanol (in yeast)." },
+                    { "term": "Photosynthesis", "definition": "The process by which green plants use light energy to make glucose from carbon dioxide and water." },
+                    { "term": "Chlorophyll", "definition": "The green pigment in chloroplasts that traps light energy for photosynthesis." },
+                    { "term": "Chloroplast", "definition": "The organelle in plant cells where photosynthesis takes place." },
+                    { "term": "Glucose", "definition": "A simple sugar that stores energy and is used in respiration." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "Word equation for aerobic respiration?", "back": "glucose + oxygen → carbon dioxide + water + energy." },
+                { "front": "Word equation for photosynthesis?", "back": "carbon dioxide + water → glucose + oxygen (using light and chlorophyll)." },
+                { "front": "Where does respiration happen in the cell?", "back": "In the mitochondria." },
+                { "front": "Where does photosynthesis happen?", "back": "In the chloroplasts, which contain chlorophyll." },
+                { "front": "Aerobic vs anaerobic respiration?", "back": "Aerobic uses oxygen and releases a lot of energy; anaerobic needs no oxygen and releases less." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Respiration basics",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the main purpose of respiration in a cell?",
+              "options": [
+                "To make light",
+                "To release energy from food",
+                "To produce chlorophyll",
+                "To remove the nucleus"
+              ],
+              "answer": "1",
+              "explanation": "Respiration breaks down food (glucose) to release the energy the cell needs to live."
+            },
+            {
+              "topic": "Photosynthesis basics",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which gas is released by plants during photosynthesis?",
+              "options": [
+                "Carbon dioxide",
+                "Nitrogen",
+                "Oxygen",
+                "Hydrogen"
+              ],
+              "answer": "2",
+              "explanation": "Photosynthesis produces glucose and releases oxygen, which is the gas animals and humans breathe."
+            },
+            {
+              "topic": "Location of processes",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "In which organelle does photosynthesis take place?",
+              "options": [
+                "Mitochondria",
+                "Nucleus",
+                "Chloroplast",
+                "Ribosome"
+              ],
+              "answer": "2",
+              "explanation": "Photosynthesis takes place in the chloroplasts, which contain the green pigment chlorophyll. Respiration takes place in the mitochondria."
+            },
+            {
+              "topic": "Aerobic respiration",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which equation correctly shows aerobic respiration?",
+              "options": [
+                "carbon dioxide + water → glucose + oxygen",
+                "glucose + oxygen → carbon dioxide + water + energy",
+                "glucose → ethanol + carbon dioxide",
+                "oxygen + water → glucose + energy"
+              ],
+              "answer": "1",
+              "explanation": "Aerobic respiration uses glucose and oxygen to produce carbon dioxide, water, and energy."
+            },
+            {
+              "topic": "Anaerobic respiration",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "When yeast is used to ferment sugars to brew tella, it respires without oxygen. What does it produce?",
+              "options": [
+                "Lactic acid only",
+                "Oxygen and water",
+                "Ethanol and carbon dioxide",
+                "Glucose and chlorophyll"
+              ],
+              "answer": "2",
+              "explanation": "In anaerobic respiration, yeast breaks down sugar to produce ethanol (alcohol) and carbon dioxide. This is used in brewing and baking."
+            },
+            {
+              "topic": "Link between processes",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Why are respiration and photosynthesis described as almost opposite processes?",
+              "options": [
+                "They both only happen at night",
+                "The products of one are the raw materials of the other",
+                "They both destroy energy",
+                "Neither uses any gases"
+              ],
+              "answer": "1",
+              "explanation": "Photosynthesis produces glucose and oxygen, which are exactly the raw materials respiration uses; respiration produces carbon dioxide and water, which photosynthesis uses. So they recycle these substances."
+            }
+          ]
+        },
+        {
+          "title": "Genetics",
+          "description": "How characteristics are passed from parents to offspring through genes, chromosomes, and DNA, including Mendel's work and simple inheritance.",
+          "lessons": [
+            {
+              "title": "Genes, Chromosomes, and Inheritance",
+              "summary": "Genetics explains how living things pass on their characteristics to their offspring. This lesson covers DNA, genes, chromosomes, and how to predict simple inheritance using Mendel's ideas and a Punnett square.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Why Do Children Resemble Their Parents?",
+                  "body": "Have you noticed that children often look like their parents — the same eye colour, hair, or height? This passing on of features from parents to offspring is called **inheritance**, and the science that studies it is **genetics**.\n\nThe instructions for these features are carried in a chemical called **DNA**, found inside the **nucleus** of every cell. Understanding genetics helps Ethiopian farmers breed better cattle and stronger crop varieties, and helps doctors understand inherited conditions.\n\nThe foundations of genetics were laid by a monk named **Gregor Mendel**, who studied pea plants and worked out the basic rules of how features are passed on."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **gene**, **chromosome**, and **DNA** and explain how they are related.\n- Explain the terms **dominant**, **recessive**, **genotype**, and **phenotype**.\n- Describe **Mendel's** main findings from his pea plant experiments.\n- Use a **Punnett square** to predict the offspring of a simple cross.\n- Understand what **alleles** are."
+                },
+                {
+                  "type": "theory",
+                  "title": "DNA, Genes, and Inheritance",
+                  "body": "Let us build up from the smallest part:\n\n- **DNA** is the chemical that carries genetic information. It is shaped like a twisted ladder (a *double helix*).\n- A **gene** is a short section of DNA that carries the instructions for one feature (such as flower colour).\n- A **chromosome** is a long thread of DNA containing many genes. Human cells have **46** chromosomes (23 pairs).\n\nSo the order is: **DNA → genes → chromosomes**. Genes are made of DNA, and many genes make up a chromosome.\n\n**Alleles:** Genes often come in different versions called **alleles**. For example, a gene for seed shape might have a *round* allele and a *wrinkled* allele. You get one allele from each parent.\n\n- A **dominant** allele shows its effect even if only one copy is present (written with a CAPITAL letter, e.g. **R**).\n- A **recessive** allele only shows its effect if *both* copies are recessive (written with a small letter, e.g. **r**).\n\nTwo more key words:\n- **Genotype** = the alleles an organism has (e.g. **Rr**).\n- **Phenotype** = the feature you can actually see (e.g. round seeds).\n\n*Why does this matter?* Because it lets us **predict** what offspring will look like. **Gregor Mendel** discovered these rules by crossing pea plants. He found that features are passed on as separate units (now called genes), and that some alleles are **dominant** over others. His careful counting of thousands of offspring made genetics a true science."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: A Monohybrid Cross with a Punnett Square",
+                  "body": "Let us predict the offspring when we cross two pea plants. We use the seed-shape gene: **R** = round (dominant), **r** = wrinkled (recessive).\n\n**Step 1 — Choose the parents:** Cross two plants that are both **Rr** (each has one round and one wrinkled allele). Both *look* round because round is dominant.\n\n**Step 2 — Find the gametes:** Each parent passes on **one** allele to each offspring. So each parent can give either **R** or **r**.\n\n**Step 3 — Draw the Punnett square:** Put one parent's alleles along the top and the other's down the side, then fill in the boxes:\n\n|  | **R** | **r** |\n|---|---|---|\n| **R** | RR | Rr |\n| **r** | Rr | rr |\n\n**Step 4 — Read the genotypes:** The four boxes give **RR, Rr, Rr, rr** — a ratio of **1 RR : 2 Rr : 1 rr**.\n\n**Step 5 — Work out the phenotypes:** RR, Rr, and Rr all have at least one **R**, so they show **round** seeds. Only **rr** shows **wrinkled** seeds. So the phenotype ratio is **3 round : 1 wrinkled**.\n\n**Conclusion:** Crossing two **Rr** parents gives about **3 round to 1 wrinkled** offspring. This famous **3:1 ratio** is exactly what Mendel found in his experiments."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Mixing up genotype and phenotype.** **Genotype** is the alleles (e.g. Rr); **phenotype** is what you see (e.g. round).\n- **Thinking a recessive allele disappears.** A recessive allele can be hidden in an Rr individual and reappear in the next generation.\n- **Writing alleles with the wrong case.** Dominant alleles use **CAPITAL** letters and recessive alleles use **small** letters of the *same* letter (R and r, not R and w).\n- **Confusing gene and chromosome.** A **gene** is a small section of DNA; a **chromosome** is a long thread containing many genes.\n- **Forgetting that each parent gives only one allele** of each gene to the offspring."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Order of size:** \"**D**NA in **G**enes in **C**hromosomes\" — small to large, **D → G → C**.\n- **Dominant = CAPITAL and loud** (it always shows). **Recessive = small and shy** (it hides).\n- **Genotype = Genes; Phenotype = Physical** (what you see). Both pairs start with the same sound.\n- **3:1 ratio** comes from crossing two carriers (Rr × Rr) — remember \"two carriers give three-to-one.\"\n- A **Punnett square** is like a small multiplication table for alleles."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers below. Use **T** = tall (dominant) and **t** = short (recessive).\n\n**1.** What is the difference between a genotype and a phenotype?\n\n**2.** A plant has the genotype **Tt**. Is it tall or short, and why?\n\n**3.** Cross **Tt × Tt**. What is the expected phenotype ratio of the offspring?\n\n**4.** Which is larger: a gene or a chromosome?\n\n---\n\n**Answers:**\n\n**1.** The **genotype** is the alleles an organism carries (e.g. Tt); the **phenotype** is the feature you can see (e.g. tall).\n\n**2.** It is **tall**, because **T** (tall) is dominant and shows even when only one copy is present.\n\n**3.** **3 tall : 1 short** (genotypes 1 TT : 2 Tt : 1 tt).\n\n**4.** A **chromosome** is larger; it is a long thread of DNA containing many genes."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Genetics** is the study of how features are passed from parents to offspring (**inheritance**).\n- **DNA** carries genetic information; a **gene** is a section of DNA for one feature; a **chromosome** is a long thread of many genes (humans have 46).\n- Genes come in versions called **alleles**; you get one from each parent.\n- A **dominant** allele (CAPITAL) shows with one copy; a **recessive** allele (small) needs two copies.\n- **Genotype** = the alleles (e.g. Rr); **phenotype** = the visible feature.\n- A **Punnett square** predicts offspring; crossing two carriers (Rr × Rr) gives a **3:1** phenotype ratio, as **Mendel** found."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Words",
+                  "body": "The most important terms from this lesson are listed here for quick revision.",
+                  "glossary": [
+                    { "term": "Gene", "definition": "A short section of DNA that carries the instructions for one feature." },
+                    { "term": "Chromosome", "definition": "A long thread of DNA containing many genes." },
+                    { "term": "Allele", "definition": "A different version of the same gene (e.g. round or wrinkled)." },
+                    { "term": "Dominant allele", "definition": "An allele that shows its effect even when only one copy is present (written with a capital letter)." },
+                    { "term": "Recessive allele", "definition": "An allele that shows its effect only when two copies are present (written with a small letter)." },
+                    { "term": "Genotype", "definition": "The set of alleles an organism carries (e.g. Rr)." },
+                    { "term": "Phenotype", "definition": "The visible feature produced by the genotype (e.g. round seeds)." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "How are DNA, genes, and chromosomes related?", "back": "DNA makes up genes; many genes make up a chromosome (DNA → gene → chromosome)." },
+                { "front": "Dominant vs recessive allele?", "back": "A dominant allele shows with one copy (capital letter); a recessive allele needs two copies (small letter)." },
+                { "front": "Genotype vs phenotype?", "back": "Genotype is the alleles (e.g. Rr); phenotype is the visible feature (e.g. round)." },
+                { "front": "What ratio comes from crossing Rr × Rr?", "back": "A 3:1 phenotype ratio (3 dominant : 1 recessive)." },
+                { "front": "Who founded the study of inheritance with pea plants?", "back": "Gregor Mendel." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "DNA and genes",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is a gene?",
+              "options": [
+                "A whole cell",
+                "A section of DNA that codes for one feature",
+                "A type of protein only",
+                "A part of the cell membrane"
+              ],
+              "answer": "1",
+              "explanation": "A gene is a short section of DNA that carries the instructions for a single feature, such as eye colour."
+            },
+            {
+              "topic": "Founder of genetics",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which scientist discovered the basic rules of inheritance by experimenting with pea plants?",
+              "options": [
+                "Louis Pasteur",
+                "Charles Darwin",
+                "Gregor Mendel",
+                "Isaac Newton"
+              ],
+              "answer": "2",
+              "explanation": "Gregor Mendel carried out careful breeding experiments with pea plants and worked out the basic laws of inheritance."
+            },
+            {
+              "topic": "Dominant and recessive",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A plant has the genotype Rr, where R (round) is dominant over r (wrinkled). What will its seeds look like?",
+              "options": [
+                "Wrinkled",
+                "Round",
+                "Half round and half wrinkled",
+                "It cannot have seeds"
+              ],
+              "answer": "1",
+              "explanation": "Because R (round) is dominant, even one copy of R makes the seeds round. The recessive r is hidden."
+            },
+            {
+              "topic": "Genotype and phenotype",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "The visible characteristic of an organism, such as having round seeds, is called its:",
+              "options": [
+                "Genotype",
+                "Phenotype",
+                "Allele",
+                "Chromosome"
+              ],
+              "answer": "1",
+              "explanation": "The phenotype is the visible feature. The genotype is the set of alleles that produces it."
+            },
+            {
+              "topic": "Punnett square",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Two pea plants with genotype Tt (tall) are crossed. What fraction of the offspring are expected to be short (tt)?",
+              "options": [
+                "All of them",
+                "Three quarters",
+                "One quarter",
+                "None"
+              ],
+              "answer": "2",
+              "explanation": "A Tt x Tt cross gives 1 TT : 2 Tt : 1 tt. Only the tt plants (one out of four, or one quarter) are short."
+            },
+            {
+              "topic": "Inheritance ratios",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "When two organisms that are each heterozygous (Rr) for a trait are crossed, the expected phenotype ratio of dominant to recessive is:",
+              "options": [
+                "1:1",
+                "2:1",
+                "3:1",
+                "4:0"
+              ],
+              "answer": "2",
+              "explanation": "An Rr x Rr cross gives three offspring showing the dominant feature to one showing the recessive feature, a 3:1 ratio."
+            }
+          ]
+        },
+        {
+          "title": "Evolution",
+          "description": "How living things have changed over long periods of time, including Darwin's theory of natural selection and the evidence for evolution.",
+          "lessons": [
+            {
+              "title": "Evolution and Natural Selection",
+              "summary": "Evolution explains how living things change over many generations. This lesson covers Darwin's theory of natural selection, the idea of survival of the fittest, and the main types of evidence for evolution.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "How Life Changes Over Time",
+                  "body": "The living things on Earth today are not the same as those that lived millions of years ago. Over very long periods, species **change** — this gradual change is called **evolution**.\n\nThe most famous explanation of how evolution happens was given by **Charles Darwin**, who explained it using an idea called **natural selection**.\n\nEvidence for evolution comes from many sources. In Ethiopia, the famous fossil **\"Lucy\"** (*Dinkinesh*), found in the Afar region, is one of the most important fossils in the world. It helps scientists understand how early human ancestors evolved, making Ethiopia a key place in the study of evolution."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **evolution** and **species**.\n- Explain **Darwin's** theory of **natural selection**.\n- Describe the idea of **variation** and \"survival of the fittest\".\n- State the main types of **evidence** for evolution (such as **fossils**).\n- Explain how the environment can lead to **adaptation**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Darwin and Natural Selection",
+                  "body": "**Evolution** is the gradual change in living things over many generations. A **species** is a group of similar organisms that can breed together and produce fertile offspring.\n\n**Charles Darwin** explained evolution using **natural selection**. The idea has a few clear steps:\n\n1. **Variation:** Within any species, individuals are slightly different from one another. For example, some gazelles run faster than others. This is called **variation**.\n2. **Competition:** More offspring are born than can survive, so they must compete for food, space, and mates.\n3. **Survival of the fittest:** The individuals whose features are best suited to the environment are more likely to **survive** and reproduce. \"Fittest\" means best **adapted**, not the strongest.\n4. **Inheritance:** These survivors pass on their helpful features to their offspring.\n5. **Change over time:** Over many generations, the helpful features become more common, and the species gradually changes — it **evolves**.\n\n*Why does this work?* Because the environment naturally \"selects\" which individuals survive. A feature that helps survival is passed on more often, so it spreads through the population. A helpful inherited feature is called an **adaptation**.\n\n**Evidence for evolution** includes:\n- **Fossils** — the preserved remains of organisms that lived long ago. They show how life forms have changed over time (like *Lucy* in Ethiopia).\n- **Comparing body structures** — many different animals share a similar bone pattern in their limbs, suggesting a common ancestor.\n- **Observed change** — for example, bacteria becoming resistant to antibiotics shows natural selection happening today."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Natural Selection in Action",
+                  "body": "Let us see how natural selection could make a population of insects change colour over time. Imagine green beetles living on a green tree, with a few brown beetles among them.\n\n**Step 1 — Variation exists:** The beetles vary in colour. Most are green, but a few are brown. This **variation** is the starting point.\n\n**Step 2 — A change in the environment:** Suppose the tree bark becomes darker brown (perhaps from pollution or a different tree growing). Now the green beetles stand out clearly against the brown bark.\n\n**Step 3 — Selection by predators:** Birds easily see and eat the **green** beetles because they stand out. The **brown** beetles are camouflaged and are eaten less often. So the brown beetles are better **adapted** to the new environment.\n\n**Step 4 — Survival and reproduction:** More brown beetles **survive** and reproduce. They pass on the brown-colour feature to their offspring (**inheritance**).\n\n**Step 5 — Change over generations:** After many generations, most of the beetles are now **brown**. The population has **evolved** to match its environment.\n\n**Conclusion:** Through variation, selection, and inheritance, the beetle population changed from mostly green to mostly brown. This is **natural selection** — \"survival of the fittest\" (best adapted)."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Thinking \"fittest\" means strongest.** It means **best adapted** to the environment — sometimes that is the best camouflaged or the fastest, not the strongest.\n- **Thinking individuals evolve.** Individuals do *not* evolve; **populations** change over many generations.\n- **Thinking animals change their bodies on purpose.** Animals do not choose to adapt. **Variation** already exists, and the environment selects which variations survive.\n- **Believing evolution happens quickly.** Evolution usually takes a very long time, over many generations.\n- **Confusing a fossil with a living thing.** A **fossil** is the preserved remains or trace of an organism that lived long ago, not a living organism."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- Remember natural selection with **\"V-S-I\"**: **V**ariation, **S**election (survival of the fittest), **I**nheritance.\n- **\"Fittest = fits best\"** with the environment — not the strongest.\n- **Darwin = \"Descent\"** — both start with D; Darwin explained descent with change.\n- **Fossils = the \"photo album\" of the past** — they show what lived long ago, like Ethiopia's *Lucy*.\n- **Populations evolve, not individuals** — picture a whole crowd changing, not one person."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers below.\n\n**1.** What does the word \"evolution\" mean?\n\n**2.** In natural selection, what does \"survival of the fittest\" really mean?\n\n**3.** Why is the variation within a species important for natural selection?\n\n**4.** Name one type of evidence that supports evolution.\n\n---\n\n**Answers:**\n\n**1.** The gradual **change** in living things over many generations.\n\n**2.** The individuals **best adapted** to their environment are most likely to survive and reproduce (not necessarily the strongest).\n\n**3.** Because variation provides the differences that the environment can \"select\" from; without variation there would be nothing for natural selection to act on.\n\n**4.** Any one of: **fossils**, similar body structures in different animals, or observed changes such as antibiotic resistance in bacteria."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Evolution** is the gradual change in living things over many generations.\n- A **species** is a group of organisms that can breed and produce fertile offspring.\n- **Charles Darwin** explained evolution through **natural selection**: **variation**, competition, **survival of the fittest**, **inheritance**, and change over time.\n- \"Fittest\" means **best adapted**, not strongest; a helpful inherited feature is an **adaptation**.\n- **Populations** evolve, not individuals.\n- Evidence includes **fossils** (like Ethiopia's *Lucy*), similar body structures, and observed change such as antibiotic resistance."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Words",
+                  "body": "The most important terms from this lesson are listed here for quick revision.",
+                  "glossary": [
+                    { "term": "Evolution", "definition": "The gradual change in living things over many generations." },
+                    { "term": "Species", "definition": "A group of similar organisms that can breed together to produce fertile offspring." },
+                    { "term": "Natural selection", "definition": "The process by which organisms best adapted to their environment survive and reproduce more." },
+                    { "term": "Variation", "definition": "The small differences between individuals of the same species." },
+                    { "term": "Adaptation", "definition": "An inherited feature that helps an organism survive in its environment." },
+                    { "term": "Survival of the fittest", "definition": "The idea that the best-adapted individuals are most likely to survive and reproduce." },
+                    { "term": "Fossil", "definition": "The preserved remains or trace of an organism that lived long ago." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is evolution?", "back": "The gradual change in living things over many generations." },
+                { "front": "Who proposed the theory of natural selection?", "back": "Charles Darwin." },
+                { "front": "What does \"survival of the fittest\" mean?", "back": "The best-adapted individuals are most likely to survive and reproduce (not the strongest)." },
+                { "front": "Why is variation important for evolution?", "back": "It provides the differences that natural selection can act on." },
+                { "front": "Name a famous fossil found in Ethiopia.", "back": "Lucy (Dinkinesh), an early human ancestor found in the Afar region." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Definition of evolution",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What does evolution describe?",
+              "options": [
+                "The sudden creation of new animals overnight",
+                "The gradual change in living things over many generations",
+                "The movement of animals between countries",
+                "The death of all living things"
+              ],
+              "answer": "1",
+              "explanation": "Evolution is the gradual change in the features of living things over very long periods of time."
+            },
+            {
+              "topic": "Darwin",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which scientist is most famous for the theory of natural selection?",
+              "options": [
+                "Gregor Mendel",
+                "Charles Darwin",
+                "Louis Pasteur",
+                "Alexander Fleming"
+              ],
+              "answer": "1",
+              "explanation": "Charles Darwin proposed the theory of evolution by natural selection."
+            },
+            {
+              "topic": "Survival of the fittest",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "In natural selection, the \"fittest\" organisms are those that are:",
+              "options": [
+                "The largest in size",
+                "The strongest physically",
+                "Best adapted to their environment",
+                "The youngest"
+              ],
+              "answer": "2",
+              "explanation": "\"Fittest\" means best adapted to the environment, which makes survival and reproduction more likely. It does not simply mean strongest."
+            },
+            {
+              "topic": "Variation",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Why is variation within a species necessary for natural selection to work?",
+              "options": [
+                "It makes all individuals identical",
+                "It provides differences that the environment can select between",
+                "It stops organisms from reproducing",
+                "It removes the need for food"
+              ],
+              "answer": "1",
+              "explanation": "Natural selection acts on differences between individuals. Without variation, there would be nothing for the environment to select."
+            },
+            {
+              "topic": "Evidence for evolution",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "The preserved remains of organisms that lived long ago, which provide evidence for evolution, are called:",
+              "options": [
+                "Cells",
+                "Fossils",
+                "Genes",
+                "Enzymes"
+              ],
+              "answer": "1",
+              "explanation": "Fossils are the preserved remains or traces of ancient organisms. They show how life forms have changed over time."
+            },
+            {
+              "topic": "Natural selection applied",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Some bacteria survive treatment with an antibiotic and pass on their resistance to the next generation, so the whole population becomes resistant. This is an example of:",
+              "options": [
+                "Spontaneous generation",
+                "Photosynthesis",
+                "Natural selection",
+                "Respiration"
+              ],
+              "answer": "2",
+              "explanation": "The resistant bacteria are best adapted to survive the antibiotic, so they reproduce and pass on resistance. Over generations the population changes, which is natural selection."
+            }
+          ]
+        },
+        {
+          "title": "Human Biology and Health",
+          "description": "The main systems of the human body and how to keep them healthy, including digestion, circulation, breathing, and disease prevention.",
+          "lessons": [
+            {
+              "title": "Human Body Systems and Staying Healthy",
+              "summary": "The human body is made of organ systems that work together to keep us alive. This lesson explains the digestive, circulatory, and respiratory systems, and how good habits and prevention protect our health.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "The Body as a Team of Systems",
+                  "body": "Your body is made of trillions of **cells**. Similar cells form **tissues**, tissues form **organs** (like the heart or stomach), and organs that work together form an **organ system**.\n\nEach system has a job, but they all work together as a team to keep you alive and healthy. For example, the food you eat — like *injera* and *shiro* — must be digested, carried in the blood, and combined with oxygen to give you energy.\n\nGood health depends not only on these systems working well, but also on how we look after them: eating a balanced diet, staying clean, and preventing disease. This is very important in communities where diseases like malaria and diarrhoeal illness can spread."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Explain how **cells**, **tissues**, **organs**, and **organ systems** are organised.\n- Describe the job of the **digestive system**, **circulatory system**, and **respiratory system**.\n- Explain how these systems work together to provide **energy**.\n- Describe simple ways to stay healthy and **prevent disease**.\n- Understand the importance of a **balanced diet**."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Main Body Systems",
+                  "body": "The body is organised in levels: **cells → tissues → organs → organ systems → organism.** Each level is built from the one before it.\n\nThree important systems:\n\n**1. The digestive system** breaks down food into small molecules the body can use.\n- Food travels through the mouth, *oesophagus*, stomach, and small intestine.\n- **Enzymes** break large molecules (like starch and protein) into small ones (like glucose and amino acids).\n- These small molecules are **absorbed** into the blood in the small intestine.\n*Why?* Because cells can only use small, soluble molecules — large food pieces cannot enter cells.\n\n**2. The circulatory system** transports substances around the body.\n- The **heart** pumps **blood** through tubes called **blood vessels** (arteries, veins, and capillaries).\n- Blood carries **oxygen**, digested food, and waste to and from every cell.\n*Why?* Because cells deep inside the body cannot get oxygen and food directly — the blood delivers it to them.\n\n**3. The respiratory system** takes in oxygen and removes carbon dioxide.\n- Air enters through the nose and windpipe into the **lungs**.\n- In the lungs, **oxygen** passes into the blood and **carbon dioxide** passes out to be breathed away.\n*Why?* Because cells need oxygen for **aerobic respiration** to release energy, and must get rid of the carbon dioxide produced.\n\n**Working together:** The digestive system provides glucose, the respiratory system provides oxygen, and the circulatory system delivers both to the cells. There, **respiration** releases the energy the body needs.\n\n**Staying healthy:** We protect these systems by eating a **balanced diet** (the right amounts of carbohydrates, proteins, fats, vitamins, minerals, fibre, and water), keeping clean to stop germs spreading, exercising, and **preventing disease** through vaccination and clean water."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: The Journey of a Meal of Injera",
+                  "body": "Let us follow a piece of *injera* and see how the body systems work together to turn it into energy.\n\n**Step 1 — Eating and digestion begins:** You chew the *injera* in your mouth. Saliva contains an **enzyme** that starts breaking the **starch** into sugar. This is the **digestive system** at work.\n\n**Step 2 — Further digestion:** The food passes to the stomach and small intestine, where more **enzymes** break it down fully into **glucose** (a small, soluble molecule).\n\n**Step 3 — Absorption:** In the small intestine, the **glucose is absorbed** through the wall into the **blood**.\n\n**Step 4 — Transport by blood:** The **circulatory system** carries the glucose in the blood. Meanwhile, the **respiratory system** has taken **oxygen** from the air in the lungs into the blood too. The **heart** pumps this blood to all the cells.\n\n**Step 5 — Energy release:** Inside the body's cells, the **mitochondria** combine the glucose and oxygen in **aerobic respiration**:\n*glucose + oxygen → carbon dioxide + water + energy.*\nThe **energy** is now used to move, grow, and stay warm.\n\n**Step 6 — Removing waste:** The **carbon dioxide** produced is carried by the blood back to the lungs and breathed out.\n\n**Conclusion:** The *injera* meal became usable energy only because the digestive, circulatory, and respiratory systems all worked **together** as a team."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Mixing up the levels of organisation.** The order is **cells → tissues → organs → organ systems**, from smallest to largest.\n- **Thinking the heart cleans the blood.** The heart **pumps** blood; it does not clean it. (The kidneys clean the blood.)\n- **Thinking we breathe out only carbon dioxide.** We breathe out a *mixture* — mostly nitrogen, plus more carbon dioxide and less oxygen than we breathe in.\n- **Confusing breathing with respiration.** **Breathing** moves air in and out of the lungs; **respiration** is the chemical release of energy inside cells.\n- **Thinking a balanced diet means eating a lot.** A balanced diet means the right *proportions* of each food group, not large amounts."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- Levels of organisation: **\"Cute Tigers Oftenออ Organise\"** → **C**ells, **T**issues, **O**rgans, **O**rgan systems.\n- **Digestion = \"breaking down\"**; picture food being cut into tiny pieces small enough to enter the blood.\n- **Circulation = \"circle\"** — blood travels in a loop around the body and back to the heart.\n- **Breathing ≠ Respiration:** breathing is in the lungs (air); respiration is in the cells (energy).\n- A **balanced diet** is like a fair plate — a bit of everything in the right amount."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers below.\n\n**1.** Put these in order from smallest to largest: organ, cell, organ system, tissue.\n\n**2.** What is the main job of the circulatory system?\n\n**3.** What is the difference between breathing and respiration?\n\n**4.** Give two ways a person can help prevent the spread of disease.\n\n---\n\n**Answers:**\n\n**1.** Cell → tissue → organ → organ system.\n\n**2.** To **transport** substances (oxygen, digested food, and waste) around the body, pumped by the heart.\n\n**3.** **Breathing** moves air in and out of the lungs; **respiration** is the chemical release of energy from glucose inside cells.\n\n**4.** Any two of: washing hands and keeping clean, drinking clean (safe) water, using a mosquito net, getting vaccinated, covering the mouth when coughing."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The body is organised as **cells → tissues → organs → organ systems → organism**.\n- The **digestive system** breaks food into small molecules (using **enzymes**) that are **absorbed** into the blood.\n- The **circulatory system** uses the **heart** and **blood** to transport oxygen, food, and waste to all cells.\n- The **respiratory system** takes in **oxygen** and removes **carbon dioxide** in the **lungs**.\n- These systems work **together** so that **respiration** can release energy in the cells.\n- Good health needs a **balanced diet**, cleanliness, exercise, and **disease prevention** (clean water, vaccination, mosquito nets)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Words",
+                  "body": "The most important terms from this lesson are listed here for quick revision.",
+                  "glossary": [
+                    { "term": "Organ system", "definition": "A group of organs that work together to do a particular job, such as digestion." },
+                    { "term": "Digestive system", "definition": "The system that breaks food down into small molecules the body can absorb and use." },
+                    { "term": "Circulatory system", "definition": "The system that transports blood, carrying oxygen, food, and waste around the body." },
+                    { "term": "Respiratory system", "definition": "The system that takes oxygen into the body and removes carbon dioxide." },
+                    { "term": "Absorption", "definition": "The taking of small digested food molecules from the gut into the blood." },
+                    { "term": "Balanced diet", "definition": "Eating the right proportions of carbohydrates, proteins, fats, vitamins, minerals, fibre, and water." },
+                    { "term": "Breathing", "definition": "The movement of air in and out of the lungs (different from respiration)." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the order of organisation in the body?", "back": "Cells → tissues → organs → organ systems → organism." },
+                { "front": "What does the digestive system do?", "back": "It breaks food into small molecules (using enzymes) that are absorbed into the blood." },
+                { "front": "What is the job of the circulatory system?", "back": "The heart pumps blood to transport oxygen, food, and waste around the body." },
+                { "front": "What is the difference between breathing and respiration?", "back": "Breathing moves air in and out of the lungs; respiration releases energy inside cells." },
+                { "front": "Name two ways to prevent the spread of disease.", "back": "Examples: wash hands, drink clean water, use mosquito nets, get vaccinated." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Levels of organisation",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which is the correct order from smallest to largest?",
+              "options": [
+                "Organ → tissue → cell → organ system",
+                "Cell → tissue → organ → organ system",
+                "Tissue → cell → organ system → organ",
+                "Organ system → organ → cell → tissue"
+              ],
+              "answer": "1",
+              "explanation": "The body is organised from cells, which form tissues, which form organs, which form organ systems."
+            },
+            {
+              "topic": "Digestive system",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the main job of the digestive system?",
+              "options": [
+                "To pump blood around the body",
+                "To break food into small molecules the body can absorb",
+                "To take in oxygen",
+                "To carry messages in the body"
+              ],
+              "answer": "1",
+              "explanation": "The digestive system uses enzymes to break large food molecules into small ones that can be absorbed into the blood."
+            },
+            {
+              "topic": "Circulatory system",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which organ pumps blood around the body?",
+              "options": [
+                "The lungs",
+                "The stomach",
+                "The heart",
+                "The liver"
+              ],
+              "answer": "2",
+              "explanation": "The heart is the pump of the circulatory system, pushing blood through the blood vessels to all parts of the body."
+            },
+            {
+              "topic": "Respiratory system",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "In the lungs, oxygen passes into the blood and which gas passes out?",
+              "options": [
+                "Nitrogen",
+                "Carbon dioxide",
+                "Hydrogen",
+                "Water vapour only"
+              ],
+              "answer": "1",
+              "explanation": "In the lungs, oxygen enters the blood and carbon dioxide (a waste product of respiration) leaves the blood to be breathed out."
+            },
+            {
+              "topic": "Breathing vs respiration",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Which statement correctly describes the difference between breathing and respiration?",
+              "options": [
+                "They are exactly the same thing",
+                "Breathing moves air in and out of the lungs; respiration releases energy inside cells",
+                "Breathing happens in cells; respiration happens in the lungs",
+                "Respiration only happens in plants"
+              ],
+              "answer": "1",
+              "explanation": "Breathing is the physical movement of air in and out of the lungs. Respiration is the chemical process inside cells that releases energy from glucose."
+            },
+            {
+              "topic": "Health and disease prevention",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which combination of actions would best help prevent the spread of disease in a community?",
+              "options": [
+                "Eating large meals and sleeping more",
+                "Drinking clean water, washing hands, and using mosquito nets",
+                "Exercising only and ignoring hygiene",
+                "Taking antibiotics for every illness"
+              ],
+              "answer": "1",
+              "explanation": "Clean water, hand washing, and mosquito nets directly reduce the spread of many diseases, including diarrhoeal illness and malaria, making them effective prevention measures."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

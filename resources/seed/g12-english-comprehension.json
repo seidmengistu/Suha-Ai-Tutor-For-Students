@@ -1,0 +1,333 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe human brain consumes a surprising amount of energy. Although it accounts for only about two percent of an adult's body weight, it uses roughly twenty percent of the body's total energy supply. This energy is drawn largely from glucose carried in the blood. Neurons, the cells that transmit signals throughout the brain, never truly rest; even during sleep they continue to fire and to consolidate memories formed during the day. When the supply of glucose falls too low, people often feel tired, irritable, or unable to concentrate. Scientists believe that the brain's high energy demand evolved because complex thinking, planning, and social cooperation gave early humans a powerful advantage for survival. Understanding how the brain uses fuel may one day help doctors treat conditions ranging from memory loss to certain mental illnesses.\n\nQuestion: What is the main idea of the passage?",
+          "options": [
+            "The brain uses a large share of the body's energy and depends on glucose to function.",
+            "Neurons stop working completely while a person is asleep.",
+            "Early humans needed less food than people do today.",
+            "Doctors have already cured most diseases that affect the brain."
+          ],
+          "answer": "0",
+          "explanation": "The passage centres on the brain's disproportionately high energy use and its reliance on glucose."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe human brain consumes a surprising amount of energy. Although it accounts for only about two percent of an adult's body weight, it uses roughly twenty percent of the body's total energy supply. This energy is drawn largely from glucose carried in the blood. Neurons, the cells that transmit signals throughout the brain, never truly rest; even during sleep they continue to fire and to consolidate memories formed during the day. When the supply of glucose falls too low, people often feel tired, irritable, or unable to concentrate. Scientists believe that the brain's high energy demand evolved because complex thinking, planning, and social cooperation gave early humans a powerful advantage for survival. Understanding how the brain uses fuel may one day help doctors treat conditions ranging from memory loss to certain mental illnesses.\n\nQuestion: According to the passage, what proportion of the body's total energy does the brain use?",
+          "options": [
+            "About two percent",
+            "About ten percent",
+            "About twenty percent",
+            "About fifty percent"
+          ],
+          "answer": "2",
+          "explanation": "The passage states the brain uses roughly twenty percent of the body's total energy supply."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe human brain consumes a surprising amount of energy. Although it accounts for only about two percent of an adult's body weight, it uses roughly twenty percent of the body's total energy supply. This energy is drawn largely from glucose carried in the blood. Neurons, the cells that transmit signals throughout the brain, never truly rest; even during sleep they continue to fire and to consolidate memories formed during the day. When the supply of glucose falls too low, people often feel tired, irritable, or unable to concentrate. Scientists believe that the brain's high energy demand evolved because complex thinking, planning, and social cooperation gave early humans a powerful advantage for survival. Understanding how the brain uses fuel may one day help doctors treat conditions ranging from memory loss to certain mental illnesses.\n\nQuestion: Which conclusion can be reasonably inferred from the passage?",
+          "options": [
+            "Skipping meals could temporarily reduce a person's ability to focus.",
+            "The brain weighs more than any other organ in the body.",
+            "Memories are formed only while a person is awake.",
+            "Glucose is harmful to the functioning of neurons."
+          ],
+          "answer": "0",
+          "explanation": "Since low glucose causes tiredness and poor concentration, missing meals would plausibly impair focus."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe human brain consumes a surprising amount of energy. Although it accounts for only about two percent of an adult's body weight, it uses roughly twenty percent of the body's total energy supply. This energy is drawn largely from glucose carried in the blood. Neurons, the cells that transmit signals throughout the brain, never truly rest; even during sleep they continue to fire and to consolidate memories formed during the day. When the supply of glucose falls too low, people often feel tired, irritable, or unable to concentrate. Scientists believe that the brain's high energy demand evolved because complex thinking, planning, and social cooperation gave early humans a powerful advantage for survival. Understanding how the brain uses fuel may one day help doctors treat conditions ranging from memory loss to certain mental illnesses.\n\nQuestion: As used in the passage, the word \"consolidate\" most nearly means",
+          "options": [
+            "to strengthen and make secure",
+            "to erase or remove",
+            "to delay until morning",
+            "to share with others"
+          ],
+          "answer": "0",
+          "explanation": "In the context of neurons preserving memories, \"consolidate\" means to strengthen and secure them."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe human brain consumes a surprising amount of energy. Although it accounts for only about two percent of an adult's body weight, it uses roughly twenty percent of the body's total energy supply. This energy is drawn largely from glucose carried in the blood. Neurons, the cells that transmit signals throughout the brain, never truly rest; even during sleep they continue to fire and to consolidate memories formed during the day. When the supply of glucose falls too low, people often feel tired, irritable, or unable to concentrate. Scientists believe that the brain's high energy demand evolved because complex thinking, planning, and social cooperation gave early humans a powerful advantage for survival. Understanding how the brain uses fuel may one day help doctors treat conditions ranging from memory loss to certain mental illnesses.\n\nQuestion: What is the author's primary purpose in writing this passage?",
+          "options": [
+            "To inform readers about the brain's energy use and why it matters",
+            "To persuade readers to follow a particular diet",
+            "To tell an entertaining story about a scientist's discovery",
+            "To criticize doctors for failing to cure mental illness"
+          ],
+          "answer": "0",
+          "explanation": "The passage explains facts about the brain's energy demand in a neutral, informative manner."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe human brain consumes a surprising amount of energy. Although it accounts for only about two percent of an adult's body weight, it uses roughly twenty percent of the body's total energy supply. This energy is drawn largely from glucose carried in the blood. Neurons, the cells that transmit signals throughout the brain, never truly rest; even during sleep they continue to fire and to consolidate memories formed during the day. When the supply of glucose falls too low, people often feel tired, irritable, or unable to concentrate. Scientists believe that the brain's high energy demand evolved because complex thinking, planning, and social cooperation gave early humans a powerful advantage for survival. Understanding how the brain uses fuel may one day help doctors treat conditions ranging from memory loss to certain mental illnesses.\n\nQuestion: In the sentence \"even during sleep they continue to fire,\" the word \"they\" refers to",
+          "options": [
+            "neurons",
+            "memories",
+            "scientists",
+            "early humans"
+          ],
+          "answer": "0",
+          "explanation": "The pronoun \"they\" refers back to neurons, the cells described in the previous clause."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nIn many developing economies, small businesses form the backbone of daily life. A woman selling vegetables at a roadside stall, a tailor working from a single rented room, and a young man repairing mobile phones each contribute to what economists call the informal sector. These enterprises rarely keep written accounts and seldom appear in official statistics, yet together they employ the majority of working people. Access to credit is one of their greatest obstacles. Because such businesses cannot offer land or buildings as security, ordinary banks usually refuse to lend to them. In response, microfinance institutions have spread rapidly, offering very small loans without demanding traditional collateral. Borrowers often form groups in which each member guarantees the others' repayments. Supporters argue that these loans allow poor families to expand their trade and send their children to school. Critics, however, warn that high interest rates can trap borrowers in cycles of debt. The true impact of microfinance, most researchers now agree, depends heavily on how carefully each programme is designed.\n\nQuestion: What is the main idea of the passage?",
+          "options": [
+            "Microfinance offers small loans to informal businesses but its benefits depend on careful design.",
+            "Ordinary banks should never lend money to anyone.",
+            "Selling vegetables is the most profitable business in poor countries.",
+            "Children in developing economies are not allowed to attend school."
+          ],
+          "answer": "0",
+          "explanation": "The passage explains how microfinance serves informal businesses and notes its benefits hinge on programme design."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nIn many developing economies, small businesses form the backbone of daily life. A woman selling vegetables at a roadside stall, a tailor working from a single rented room, and a young man repairing mobile phones each contribute to what economists call the informal sector. These enterprises rarely keep written accounts and seldom appear in official statistics, yet together they employ the majority of working people. Access to credit is one of their greatest obstacles. Because such businesses cannot offer land or buildings as security, ordinary banks usually refuse to lend to them. In response, microfinance institutions have spread rapidly, offering very small loans without demanding traditional collateral. Borrowers often form groups in which each member guarantees the others' repayments. Supporters argue that these loans allow poor families to expand their trade and send their children to school. Critics, however, warn that high interest rates can trap borrowers in cycles of debt. The true impact of microfinance, most researchers now agree, depends heavily on how carefully each programme is designed.\n\nQuestion: According to the passage, why do ordinary banks usually refuse to lend to informal businesses?",
+          "options": [
+            "The businesses cannot offer land or buildings as security.",
+            "The businesses earn too much money to need loans.",
+            "The owners refuse to repay any loans.",
+            "The government forbids banks from lending to them."
+          ],
+          "answer": "0",
+          "explanation": "The passage states banks refuse because such businesses cannot offer land or buildings as security."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nIn many developing economies, small businesses form the backbone of daily life. A woman selling vegetables at a roadside stall, a tailor working from a single rented room, and a young man repairing mobile phones each contribute to what economists call the informal sector. These enterprises rarely keep written accounts and seldom appear in official statistics, yet together they employ the majority of working people. Access to credit is one of their greatest obstacles. Because such businesses cannot offer land or buildings as security, ordinary banks usually refuse to lend to them. In response, microfinance institutions have spread rapidly, offering very small loans without demanding traditional collateral. Borrowers often form groups in which each member guarantees the others' repayments. Supporters argue that these loans allow poor families to expand their trade and send their children to school. Critics, however, warn that high interest rates can trap borrowers in cycles of debt. The true impact of microfinance, most researchers now agree, depends heavily on how carefully each programme is designed.\n\nQuestion: What can be inferred about the group-lending arrangement described in the passage?",
+          "options": [
+            "It substitutes shared responsibility for the collateral that banks normally require.",
+            "It guarantees that no borrower will ever fail to repay.",
+            "It is required by law in all developing economies.",
+            "It replaces the need for microfinance institutions entirely."
+          ],
+          "answer": "0",
+          "explanation": "Group members guaranteeing one another's loans acts as social security in place of physical collateral."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nIn many developing economies, small businesses form the backbone of daily life. A woman selling vegetables at a roadside stall, a tailor working from a single rented room, and a young man repairing mobile phones each contribute to what economists call the informal sector. These enterprises rarely keep written accounts and seldom appear in official statistics, yet together they employ the majority of working people. Access to credit is one of their greatest obstacles. Because such businesses cannot offer land or buildings as security, ordinary banks usually refuse to lend to them. In response, microfinance institutions have spread rapidly, offering very small loans without demanding traditional collateral. Borrowers often form groups in which each member guarantees the others' repayments. Supporters argue that these loans allow poor families to expand their trade and send their children to school. Critics, however, warn that high interest rates can trap borrowers in cycles of debt. The true impact of microfinance, most researchers now agree, depends heavily on how carefully each programme is designed.\n\nQuestion: As used in the passage, the word \"collateral\" most nearly means",
+          "options": [
+            "property pledged to secure a loan",
+            "a written business plan",
+            "a sum of profit earned each month",
+            "a group of trusted friends"
+          ],
+          "answer": "0",
+          "explanation": "Collateral here means an asset such as land pledged as security for a loan."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nIn many developing economies, small businesses form the backbone of daily life. A woman selling vegetables at a roadside stall, a tailor working from a single rented room, and a young man repairing mobile phones each contribute to what economists call the informal sector. These enterprises rarely keep written accounts and seldom appear in official statistics, yet together they employ the majority of working people. Access to credit is one of their greatest obstacles. Because such businesses cannot offer land or buildings as security, ordinary banks usually refuse to lend to them. In response, microfinance institutions have spread rapidly, offering very small loans without demanding traditional collateral. Borrowers often form groups in which each member guarantees the others' repayments. Supporters argue that these loans allow poor families to expand their trade and send their children to school. Critics, however, warn that high interest rates can trap borrowers in cycles of debt. The true impact of microfinance, most researchers now agree, depends heavily on how carefully each programme is designed.\n\nQuestion: Which word best describes the author's overall tone toward microfinance?",
+          "options": [
+            "balanced",
+            "scornful",
+            "enthusiastic",
+            "indifferent"
+          ],
+          "answer": "0",
+          "explanation": "The author presents both supporters' and critics' views without taking sides, indicating a balanced tone."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nIn many developing economies, small businesses form the backbone of daily life. A woman selling vegetables at a roadside stall, a tailor working from a single rented room, and a young man repairing mobile phones each contribute to what economists call the informal sector. These enterprises rarely keep written accounts and seldom appear in official statistics, yet together they employ the majority of working people. Access to credit is one of their greatest obstacles. Because such businesses cannot offer land or buildings as security, ordinary banks usually refuse to lend to them. In response, microfinance institutions have spread rapidly, offering very small loans without demanding traditional collateral. Borrowers often form groups in which each member guarantees the others' repayments. Supporters argue that these loans allow poor families to expand their trade and send their children to school. Critics, however, warn that high interest rates can trap borrowers in cycles of debt. The true impact of microfinance, most researchers now agree, depends heavily on how carefully each programme is designed.\n\nQuestion: In the sentence \"Critics, however, warn that high interest rates can trap borrowers in cycles of debt,\" the word \"cycles\" suggests that",
+          "options": [
+            "borrowers may repeatedly fall back into debt rather than escape it",
+            "loans are repaid within a single month",
+            "interest rates fall steadily over time",
+            "borrowers always become wealthy after one loan"
+          ],
+          "answer": "0",
+          "explanation": "\"Cycles of debt\" implies a repeating pattern in which borrowers keep returning to debt."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nLong before written records, the peoples of the Horn of Africa developed sophisticated systems of trade that linked the interior highlands to the ports of the Red Sea. Caravans laden with gold, ivory, and aromatic resins travelled well-worn routes toward the coast, where merchants exchanged these goods for textiles, glassware, and iron tools brought by ships from distant lands. This commerce did more than move objects; it carried ideas, beliefs, and languages across vast distances. Cities grew at the meeting points of these routes, and their rulers minted coins to ease the flow of goods. Skilled artisans produced carvings and metalwork prized far beyond their place of origin. Yet prosperity also brought rivalry, for control of a single profitable route could enrich one kingdom while impoverishing another. When shifting trade or changing climate weakened the old pathways, once-great cities declined, leaving behind ruins that puzzled later generations. Modern archaeologists, sifting through these remains, continue to reconstruct a forgotten world of remarkable reach and ambition.\n\nQuestion: What is the main idea of the passage?",
+          "options": [
+            "Ancient trade in the Horn of Africa moved goods and ideas and shaped the rise and fall of cities.",
+            "Ships from distant lands never reached the Red Sea coast.",
+            "Modern archaeologists have learned nothing about ancient cities.",
+            "Gold was the only good ever traded in the region."
+          ],
+          "answer": "0",
+          "explanation": "The passage describes how trade carried goods and ideas and influenced the fortunes of cities."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nLong before written records, the peoples of the Horn of Africa developed sophisticated systems of trade that linked the interior highlands to the ports of the Red Sea. Caravans laden with gold, ivory, and aromatic resins travelled well-worn routes toward the coast, where merchants exchanged these goods for textiles, glassware, and iron tools brought by ships from distant lands. This commerce did more than move objects; it carried ideas, beliefs, and languages across vast distances. Cities grew at the meeting points of these routes, and their rulers minted coins to ease the flow of goods. Skilled artisans produced carvings and metalwork prized far beyond their place of origin. Yet prosperity also brought rivalry, for control of a single profitable route could enrich one kingdom while impoverishing another. When shifting trade or changing climate weakened the old pathways, once-great cities declined, leaving behind ruins that puzzled later generations. Modern archaeologists, sifting through these remains, continue to reconstruct a forgotten world of remarkable reach and ambition.\n\nQuestion: Which good did the coastal merchants give in exchange for gold and ivory?",
+          "options": [
+            "Textiles, glassware, and iron tools",
+            "Aromatic resins and ivory",
+            "Coins minted by interior rulers",
+            "Carvings made by highland artisans"
+          ],
+          "answer": "0",
+          "explanation": "The passage says merchants exchanged the goods for textiles, glassware, and iron tools from distant ships."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nLong before written records, the peoples of the Horn of Africa developed sophisticated systems of trade that linked the interior highlands to the ports of the Red Sea. Caravans laden with gold, ivory, and aromatic resins travelled well-worn routes toward the coast, where merchants exchanged these goods for textiles, glassware, and iron tools brought by ships from distant lands. This commerce did more than move objects; it carried ideas, beliefs, and languages across vast distances. Cities grew at the meeting points of these routes, and their rulers minted coins to ease the flow of goods. Skilled artisans produced carvings and metalwork prized far beyond their place of origin. Yet prosperity also brought rivalry, for control of a single profitable route could enrich one kingdom while impoverishing another. When shifting trade or changing climate weakened the old pathways, once-great cities declined, leaving behind ruins that puzzled later generations. Modern archaeologists, sifting through these remains, continue to reconstruct a forgotten world of remarkable reach and ambition.\n\nQuestion: What can be inferred about the cities that grew along the trade routes?",
+          "options": [
+            "Their prosperity was closely tied to the continued flow of trade.",
+            "They were entirely independent of trade for their wealth.",
+            "They were built only after the routes had been abandoned.",
+            "They never engaged in any rivalry with one another."
+          ],
+          "answer": "0",
+          "explanation": "Because the cities declined when trade weakened, their prosperity clearly depended on that trade."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nLong before written records, the peoples of the Horn of Africa developed sophisticated systems of trade that linked the interior highlands to the ports of the Red Sea. Caravans laden with gold, ivory, and aromatic resins travelled well-worn routes toward the coast, where merchants exchanged these goods for textiles, glassware, and iron tools brought by ships from distant lands. This commerce did more than move objects; it carried ideas, beliefs, and languages across vast distances. Cities grew at the meeting points of these routes, and their rulers minted coins to ease the flow of goods. Skilled artisans produced carvings and metalwork prized far beyond their place of origin. Yet prosperity also brought rivalry, for control of a single profitable route could enrich one kingdom while impoverishing another. When shifting trade or changing climate weakened the old pathways, once-great cities declined, leaving behind ruins that puzzled later generations. Modern archaeologists, sifting through these remains, continue to reconstruct a forgotten world of remarkable reach and ambition.\n\nQuestion: As used in the passage, the word \"laden\" most nearly means",
+          "options": [
+            "loaded or heavily burdened",
+            "empty and light",
+            "lost or abandoned",
+            "decorated with gold"
+          ],
+          "answer": "0",
+          "explanation": "Caravans \"laden\" with goods means they were loaded or heavily burdened with cargo."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nLong before written records, the peoples of the Horn of Africa developed sophisticated systems of trade that linked the interior highlands to the ports of the Red Sea. Caravans laden with gold, ivory, and aromatic resins travelled well-worn routes toward the coast, where merchants exchanged these goods for textiles, glassware, and iron tools brought by ships from distant lands. This commerce did more than move objects; it carried ideas, beliefs, and languages across vast distances. Cities grew at the meeting points of these routes, and their rulers minted coins to ease the flow of goods. Skilled artisans produced carvings and metalwork prized far beyond their place of origin. Yet prosperity also brought rivalry, for control of a single profitable route could enrich one kingdom while impoverishing another. When shifting trade or changing climate weakened the old pathways, once-great cities declined, leaving behind ruins that puzzled later generations. Modern archaeologists, sifting through these remains, continue to reconstruct a forgotten world of remarkable reach and ambition.\n\nQuestion: The author most likely emphasizes that trade \"did more than move objects\" in order to",
+          "options": [
+            "highlight how commerce also spread culture and ideas",
+            "argue that objects were unimportant to ancient peoples",
+            "prove that caravans travelled faster than ships",
+            "suggest that trade had no effect on the cities"
+          ],
+          "answer": "0",
+          "explanation": "The phrase introduces the idea that trade transmitted ideas, beliefs, and languages, not just goods."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWe are often told that talent is the key to success, but I am convinced that this belief does more harm than good. When we praise a child for being \"naturally gifted,\" we quietly suggest that ability is fixed, something one either possesses or lacks. The child who struggles then concludes that effort is pointless, while the one who succeeds easily learns to fear any task that might expose a limit. Surely it would be wiser to praise persistence instead. Consider the musician who practises scales for years, or the scientist who repeats a failed experiment a hundred times before it finally works. Their achievements grow not from some mysterious endowment but from patient, deliberate labour. To insist on the supremacy of talent is, in effect, to excuse ourselves from trying. If we truly wish young people to flourish, we must teach them that the mind is not a fixed vessel but a muscle that strengthens with use. Anything less betrays both their potential and our duty as teachers.\n\nQuestion: What is the author's main argument in the passage?",
+          "options": [
+            "Praising effort rather than fixed talent better helps young people succeed.",
+            "Only naturally gifted children can become musicians or scientists.",
+            "Teachers should never offer any praise to students.",
+            "Talent and effort are equally unimportant to achievement."
+          ],
+          "answer": "0",
+          "explanation": "The author argues that valuing persistence over innate talent is what truly enables success."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWe are often told that talent is the key to success, but I am convinced that this belief does more harm than good. When we praise a child for being \"naturally gifted,\" we quietly suggest that ability is fixed, something one either possesses or lacks. The child who struggles then concludes that effort is pointless, while the one who succeeds easily learns to fear any task that might expose a limit. Surely it would be wiser to praise persistence instead. Consider the musician who practises scales for years, or the scientist who repeats a failed experiment a hundred times before it finally works. Their achievements grow not from some mysterious endowment but from patient, deliberate labour. To insist on the supremacy of talent is, in effect, to excuse ourselves from trying. If we truly wish young people to flourish, we must teach them that the mind is not a fixed vessel but a muscle that strengthens with use. Anything less betrays both their potential and our duty as teachers.\n\nQuestion: According to the passage, what happens to a child who is praised mainly for being \"naturally gifted\"?",
+          "options": [
+            "The child may come to fear tasks that could reveal a limit.",
+            "The child immediately abandons all study.",
+            "The child becomes a professional musician.",
+            "The child stops believing that talent exists."
+          ],
+          "answer": "0",
+          "explanation": "The passage states the easily successful child \"learns to fear any task that might expose a limit.\""
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWe are often told that talent is the key to success, but I am convinced that this belief does more harm than good. When we praise a child for being \"naturally gifted,\" we quietly suggest that ability is fixed, something one either possesses or lacks. The child who struggles then concludes that effort is pointless, while the one who succeeds easily learns to fear any task that might expose a limit. Surely it would be wiser to praise persistence instead. Consider the musician who practises scales for years, or the scientist who repeats a failed experiment a hundred times before it finally works. Their achievements grow not from some mysterious endowment but from patient, deliberate labour. To insist on the supremacy of talent is, in effect, to excuse ourselves from trying. If we truly wish young people to flourish, we must teach them that the mind is not a fixed vessel but a muscle that strengthens with use. Anything less betrays both their potential and our duty as teachers.\n\nQuestion: What can be inferred about the author's view of effort?",
+          "options": [
+            "Effort can develop ability that talent alone cannot guarantee.",
+            "Effort is useful only for those already born gifted.",
+            "Effort matters less than natural endowment.",
+            "Effort is irrelevant to artistic or scientific success."
+          ],
+          "answer": "0",
+          "explanation": "The author repeatedly credits patient labour for achievement, implying effort develops ability."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWe are often told that talent is the key to success, but I am convinced that this belief does more harm than good. When we praise a child for being \"naturally gifted,\" we quietly suggest that ability is fixed, something one either possesses or lacks. The child who struggles then concludes that effort is pointless, while the one who succeeds easily learns to fear any task that might expose a limit. Surely it would be wiser to praise persistence instead. Consider the musician who practises scales for years, or the scientist who repeats a failed experiment a hundred times before it finally works. Their achievements grow not from some mysterious endowment but from patient, deliberate labour. To insist on the supremacy of talent is, in effect, to excuse ourselves from trying. If we truly wish young people to flourish, we must teach them that the mind is not a fixed vessel but a muscle that strengthens with use. Anything less betrays both their potential and our duty as teachers.\n\nQuestion: As used in the passage, the word \"endowment\" most nearly means",
+          "options": [
+            "a natural gift or quality",
+            "a sum of borrowed money",
+            "a strict rule or law",
+            "a long period of practice"
+          ],
+          "answer": "0",
+          "explanation": "Here \"endowment\" refers to a natural gift, contrasted with patient, deliberate labour."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWe are often told that talent is the key to success, but I am convinced that this belief does more harm than good. When we praise a child for being \"naturally gifted,\" we quietly suggest that ability is fixed, something one either possesses or lacks. The child who struggles then concludes that effort is pointless, while the one who succeeds easily learns to fear any task that might expose a limit. Surely it would be wiser to praise persistence instead. Consider the musician who practises scales for years, or the scientist who repeats a failed experiment a hundred times before it finally works. Their achievements grow not from some mysterious endowment but from patient, deliberate labour. To insist on the supremacy of talent is, in effect, to excuse ourselves from trying. If we truly wish young people to flourish, we must teach them that the mind is not a fixed vessel but a muscle that strengthens with use. Anything less betrays both their potential and our duty as teachers.\n\nQuestion: What is the author's tone in the passage?",
+          "options": [
+            "persuasive and earnest",
+            "amused and light-hearted",
+            "cold and indifferent",
+            "uncertain and hesitant"
+          ],
+          "answer": "0",
+          "explanation": "The author argues a clear position with conviction, producing a persuasive and earnest tone."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nWe are often told that talent is the key to success, but I am convinced that this belief does more harm than good. When we praise a child for being \"naturally gifted,\" we quietly suggest that ability is fixed, something one either possesses or lacks. The child who struggles then concludes that effort is pointless, while the one who succeeds easily learns to fear any task that might expose a limit. Surely it would be wiser to praise persistence instead. Consider the musician who practises scales for years, or the scientist who repeats a failed experiment a hundred times before it finally works. Their achievements grow not from some mysterious endowment but from patient, deliberate labour. To insist on the supremacy of talent is, in effect, to excuse ourselves from trying. If we truly wish young people to flourish, we must teach them that the mind is not a fixed vessel but a muscle that strengthens with use. Anything less betrays both their potential and our duty as teachers.\n\nQuestion: In the final sentence, the phrase \"a muscle that strengthens with use\" is used to suggest that",
+          "options": [
+            "mental ability can grow through continued effort",
+            "the brain is physically made of muscle tissue",
+            "exercise is more important than study",
+            "the mind weakens the more it is used"
+          ],
+          "answer": "0",
+          "explanation": "The metaphor compares the mind to a muscle to argue that ability grows with sustained effort."
+        }
+      ]
+    }
+  ]
+}

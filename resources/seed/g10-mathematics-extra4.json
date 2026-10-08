@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "mathematics",
+      "questions": [
+        {
+          "topic": "Degree of a polynomial",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the degree of the polynomial $p(x) = 8x - 5x^6 + 2x^3 - 11$?",
+          "options": ["$1$", "$3$", "$6$", "$11$"],
+          "answer": "2",
+          "explanation": "The degree is the highest power present, which is $x^6$, so the degree is $6$."
+        },
+        {
+          "topic": "Laws of exponents",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Simplify $\\dfrac{t^{10}}{t^3}$.",
+          "options": ["$t^7$", "$t^{13}$", "$t^{30}$", "$t^{3.3}$"],
+          "answer": "0",
+          "explanation": "Dividing powers with the same base subtracts exponents: $10 - 3 = 7$, so $t^7$."
+        },
+        {
+          "topic": "Absolute value inequalities",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the solution of $|x| \\leq 9$?",
+          "options": ["$x \\leq 9$", "$x \\leq -9 \\text{ or } x \\geq 9$", "$-9 \\leq x \\leq 9$", "$x \\geq 9$"],
+          "answer": "2",
+          "explanation": "$|x| \\leq 9$ means $x$ is at most 9 units from zero, giving the single interval $-9 \\leq x \\leq 9$."
+        },
+        {
+          "topic": "Midpoint",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the midpoint of the points $(6, 1)$ and $(2, 9)$?",
+          "options": ["$(8, 10)$", "$(4, 5)$", "$(2, 4)$", "$(5, 4)$"],
+          "answer": "1",
+          "explanation": "Average each coordinate: $\\left(\\frac{6+2}{2}, \\frac{1+9}{2}\\right) = (4, 5)$."
+        },
+        {
+          "topic": "Basic trigonometric ratios",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In a right triangle, the side adjacent to angle $\\theta$ is 24 and the hypotenuse is 25. What is $\\cos\\theta$?",
+          "options": ["$\\dfrac{7}{25}$", "$\\dfrac{24}{7}$", "$\\dfrac{24}{25}$", "$\\dfrac{25}{24}$"],
+          "answer": "2",
+          "explanation": "$\\cos\\theta = \\dfrac{\\text{adjacent}}{\\text{hypotenuse}} = \\dfrac{24}{25}$."
+        },
+        {
+          "topic": "Quadrilateral angle sum",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Three angles of a quadrilateral are $80^\\circ$, $95^\\circ$, and $100^\\circ$. What is the fourth angle?",
+          "options": ["$75^\\circ$", "$85^\\circ$", "$90^\\circ$", "$105^\\circ$"],
+          "answer": "1",
+          "explanation": "The angles sum to $360^\\circ$, so the fourth is $360^\\circ - 80^\\circ - 95^\\circ - 100^\\circ = 85^\\circ$."
+        },
+        {
+          "topic": "Subtraction of polynomials",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If $f(x) = 5x^2 + 2x - 7$ and $g(x) = 5x^2 - 6x + 3$, find $f(x) - g(x)$.",
+          "options": ["$-4x - 4$", "$10x^2 - 4$", "$8x - 10$", "$8x - 4$"],
+          "answer": "2",
+          "explanation": "Subtract term by term: $(5x^2-5x^2) + (2x-(-6x)) + (-7-3) = 8x - 10$."
+        },
+        {
+          "topic": "Meaning of logarithm",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the value of $\\log_4 64$?",
+          "options": ["$2$", "$4$", "$3$", "$16$"],
+          "answer": "2",
+          "explanation": "$\\log_4 64$ asks to what power 4 is raised to get 64. Since $4^3 = 64$, the answer is 3."
+        },
+        {
+          "topic": "Solving exponential equations",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Solve $3^{x+2} = 243$.",
+          "options": ["$x = 2$", "$x = 4$", "$x = 5$", "$x = 3$"],
+          "answer": "3",
+          "explanation": "Since $243 = 3^5$, we have $3^{x+2} = 3^5$, so $x + 2 = 5$, giving $x = 3$."
+        },
+        {
+          "topic": "Quadratic inequalities",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Solve $(x + 1)(x - 6) < 0$.",
+          "options": ["$x < -1 \\text{ or } x > 6$", "$-1 < x < 6$", "$x < -1$", "$x > 6$"],
+          "answer": "1",
+          "explanation": "The product is negative between the roots. Testing $x = 0$ gives $(1)(-6) = -6 < 0$, so the solution is $-1 < x < 6$."
+        },
+        {
+          "topic": "Slope of a line",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Find the slope of the line passing through $(-3, 4)$ and $(2, 19)$.",
+          "options": ["$3$", "$\\dfrac{1}{3}$", "$5$", "$15$"],
+          "answer": "0",
+          "explanation": "$m = \\dfrac{19 - 4}{2 - (-3)} = \\dfrac{15}{5} = 3$."
+        },
+        {
+          "topic": "Reciprocal trig functions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If $\\cos\\theta = \\dfrac{5}{8}$, what is $\\sec\\theta$?",
+          "options": ["$\\dfrac{8}{5}$", "$\\dfrac{5}{8}$", "$\\dfrac{25}{64}$", "$\\dfrac{3}{8}$"],
+          "answer": "0",
+          "explanation": "$\\sec\\theta$ is the reciprocal of $\\cos\\theta$, so $\\sec\\theta = \\dfrac{1}{5/8} = \\dfrac{8}{5}$."
+        },
+        {
+          "topic": "Polygon angle sum",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the sum of the interior angles of a nonagon (9 sides)?",
+          "options": ["$1080^\\circ$", "$1440^\\circ$", "$1260^\\circ$", "$1620^\\circ$"],
+          "answer": "2",
+          "explanation": "$(n - 2) \\times 180^\\circ = (9 - 2) \\times 180^\\circ = 7 \\times 180^\\circ = 1260^\\circ$."
+        },
+        {
+          "topic": "Cylinder volume",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Find the volume of a cylinder with radius 14 cm and height 5 cm (use $\\pi \\approx \\frac{22}{7}$).",
+          "options": ["$3080 \\text{ cm}^3$", "$440 \\text{ cm}^3$", "$1540 \\text{ cm}^3$", "$6160 \\text{ cm}^3$"],
+          "answer": "0",
+          "explanation": "$V = \\pi r^2 h = \\frac{22}{7} \\times 196 \\times 5 = 22 \\times 28 \\times 5 = 3080 \\text{ cm}^3$."
+        },
+        {
+          "topic": "Absolute value inequalities",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Solve $|x - 4| > 3$.",
+          "options": ["$1 < x < 7$", "$x < 1 \\text{ or } x > 7$", "$x < -1 \\text{ or } x > 7$", "$-7 < x < 1$"],
+          "answer": "1",
+          "explanation": "$|x-4| > 3$ means $x - 4 < -3$ or $x - 4 > 3$, giving $x < 1$ or $x > 7$."
+        },
+        {
+          "topic": "Trigonometric identities",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "If $\\sin\\theta = \\dfrac{7}{25}$, what is $\\cos^2\\theta$?",
+          "options": ["$\\dfrac{49}{625}$", "$\\dfrac{576}{625}$", "$\\dfrac{24}{25}$", "$\\dfrac{7}{25}$"],
+          "answer": "1",
+          "explanation": "Using $\\sin^2\\theta + \\cos^2\\theta = 1$: $\\cos^2\\theta = 1 - \\frac{49}{625} = \\frac{576}{625}$."
+        },
+        {
+          "topic": "Special quadrilaterals",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In a parallelogram, one angle measures $65^\\circ$. What is the measure of the angle next to it (a co-interior angle)?",
+          "options": ["$65^\\circ$", "$115^\\circ$", "$25^\\circ$", "$130^\\circ$"],
+          "answer": "1",
+          "explanation": "Adjacent angles of a parallelogram are supplementary (sum to $180^\\circ$): $180^\\circ - 65^\\circ = 115^\\circ$."
+        },
+        {
+          "topic": "Cuboid surface area",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A rectangular box measures $4\\text{ cm} \\times 3\\text{ cm} \\times 2\\text{ cm}$. What is its total surface area?",
+          "options": ["$24 \\text{ cm}^2$", "$52 \\text{ cm}^2$", "$26 \\text{ cm}^2$", "$104 \\text{ cm}^2$"],
+          "answer": "1",
+          "explanation": "Surface area $= 2(lw + lh + wh) = 2(12 + 8 + 6) = 2 \\times 26 = 52 \\text{ cm}^2$."
+        },
+        {
+          "topic": "Remainder theorem",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the remainder when $x^3 - 3x^2 + 4x - 2$ is divided by $x - 3$?",
+          "options": ["$10$", "$8$", "$12$", "$16$"],
+          "answer": "0",
+          "explanation": "By the remainder theorem, substitute $x = 3$: $27 - 27 + 12 - 2 = 10$."
+        },
+        {
+          "topic": "Factor theorem",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "For which value of $k$ is $(x - 4)$ a factor of $x^2 - kx + 8$?",
+          "options": ["$4$", "$8$", "$6$", "$2$"],
+          "answer": "2",
+          "explanation": "If $(x-4)$ is a factor then $p(4) = 0$: $16 - 4k + 8 = 0$, so $4k = 24$, giving $k = 6$."
+        },
+        {
+          "topic": "Laws of logarithms",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Write $\\log_2 96 - \\log_2 3$ as a single value.",
+          "options": ["$\\log_2 93$", "$\\log_2 288$", "$6$", "$5$"],
+          "answer": "3",
+          "explanation": "The quotient law gives $\\log_2 \\frac{96}{3} = \\log_2 32 = 5$, since $2^5 = 32$."
+        },
+        {
+          "topic": "Solving exponential equations",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Solve $25^x = 125$.",
+          "options": ["$x = \\dfrac{2}{3}$", "$x = 2$", "$x = \\dfrac{3}{2}$", "$x = 5$"],
+          "answer": "2",
+          "explanation": "Write both sides base 5: $25^x = 5^{2x}$ and $125 = 5^3$, so $2x = 3$, giving $x = \\dfrac{3}{2}$."
+        },
+        {
+          "topic": "Quadratic inequalities",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Solve $x^2 - 3x - 10 \\geq 0$.",
+          "options": ["$-2 \\leq x \\leq 5$", "$-5 \\leq x \\leq 2$", "$x \\leq -2 \\text{ or } x \\geq 5$", "$x \\leq -5 \\text{ or } x \\geq 2$"],
+          "answer": "2",
+          "explanation": "Factor: $x^2 - 3x - 10 = (x+2)(x-5)$, roots $-2$ and $5$. The upward parabola is $\\geq 0$ outside the roots: $x \\leq -2$ or $x \\geq 5$."
+        },
+        {
+          "topic": "Perpendicular lines",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the slope of a line perpendicular to a line with slope $\\dfrac{2}{9}$?",
+          "options": ["$\\dfrac{2}{9}$", "$-\\dfrac{2}{9}$", "$\\dfrac{9}{2}$", "$-\\dfrac{9}{2}$"],
+          "answer": "3",
+          "explanation": "Perpendicular slopes multiply to $-1$, so the slope is the negative reciprocal: $-\\dfrac{9}{2}$."
+        },
+        {
+          "topic": "Trigonometric identities",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "If $\\cos\\theta = \\dfrac{20}{29}$ and $\\theta$ is acute, what is $\\sin\\theta$?",
+          "options": ["$\\dfrac{20}{29}$", "$\\dfrac{9}{29}$", "$\\dfrac{29}{21}$", "$\\dfrac{21}{29}$"],
+          "answer": "3",
+          "explanation": "$\\sin^2\\theta = 1 - \\frac{400}{841} = \\frac{441}{841}$, so $\\sin\\theta = \\frac{21}{29}$ (positive since $\\theta$ is acute)."
+        },
+        {
+          "topic": "Dividing a segment in a ratio",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Point $P$ divides the segment from $A(1, 3)$ to $B(13, 15)$ in the ratio $2:1$ (from $A$). What are the coordinates of $P$?",
+          "options": ["$(5, 7)$", "$(7, 9)$", "$(9, 11)$", "$(6, 8)$"],
+          "answer": "2",
+          "explanation": "Section formula with $m:n = 2:1$: $\\left(\\frac{2\\cdot13 + 1\\cdot1}{3}, \\frac{2\\cdot15 + 1\\cdot3}{3}\\right) = \\left(\\frac{27}{3}, \\frac{33}{3}\\right) = (9, 11)$."
+        },
+        {
+          "topic": "Exterior angle of a triangle",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An exterior angle of a triangle is $125^\\circ$, and one of the two opposite interior angles is $58^\\circ$. What is the other opposite interior angle?",
+          "options": ["$55^\\circ$", "$62^\\circ$", "$67^\\circ$", "$72^\\circ$"],
+          "answer": "2",
+          "explanation": "An exterior angle equals the sum of the two opposite interior angles: $125^\\circ - 58^\\circ = 67^\\circ$."
+        },
+        {
+          "topic": "Distance formula",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Find the distance between the points $(-2, 3)$ and $(6, 18)$.",
+          "options": ["$17$", "$15$", "$\\sqrt{223}$", "$23$"],
+          "answer": "0",
+          "explanation": "$d = \\sqrt{(6-(-2))^2 + (18-3)^2} = \\sqrt{8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$."
+        },
+        {
+          "topic": "Cone slant height",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A cone has radius 8 cm and vertical height 15 cm. What is its slant height?",
+          "options": ["$17 \\text{ cm}$", "$23 \\text{ cm}$", "$\\sqrt{161} \\text{ cm}$", "$13 \\text{ cm}$"],
+          "answer": "0",
+          "explanation": "$l = \\sqrt{r^2 + h^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17 \\text{ cm}$."
+        },
+        {
+          "topic": "Hemisphere volume",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Find the volume of a hemisphere with radius 6 cm (use $\\pi \\approx 3.14$).",
+          "options": ["$904.32 \\text{ cm}^3$", "$226.08 \\text{ cm}^3$", "$452.16 \\text{ cm}^3$", "$150.72 \\text{ cm}^3$"],
+          "answer": "2",
+          "explanation": "A hemisphere is half a sphere: $V = \\frac{2}{3}\\pi r^3 = \\frac{2}{3} \\times 3.14 \\times 216 = 2 \\times 3.14 \\times 72 = 452.16 \\text{ cm}^3$."
+        },
+        {
+          "topic": "Polynomial long division",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "When $3x^2 - 5x - 12$ is divided by $x - 3$, what is the quotient?",
+          "options": ["$3x + 4$", "$3x - 4$", "$3x + 12$", "$x + 4$"],
+          "answer": "0",
+          "explanation": "$3x^2 - 5x - 12 = (x - 3)(3x + 4)$ exactly, so the quotient is $3x + 4$ with remainder $0$."
+        },
+        {
+          "topic": "Exponential decay",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A radioactive sample of 800 grams loses half its mass every day. Which expression gives the mass remaining after $t$ days?",
+          "options": ["$800 - \\frac{1}{2}t$", "$800(2)^t$", "$\\frac{1}{2}(800)^t$", "$800\\left(\\frac{1}{2}\\right)^t$"],
+          "answer": "3",
+          "explanation": "Halving each day is exponential decay: multiply by $\\frac{1}{2}$ every day, giving $800\\left(\\frac{1}{2}\\right)^t$."
+        },
+        {
+          "topic": "Systems of inequalities",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which point satisfies both $3x + y \\leq 12$ and $y \\geq 2x$?",
+          "options": ["$(4, 1)$", "$(1, 10)$", "$(2, 5)$", "$(3, 2)$"],
+          "answer": "2",
+          "explanation": "For $(2,5)$: $3(2)+5 = 11 \\leq 12$ ✓ and $5 \\geq 2(2)=4$ ✓. The others fail at least one inequality."
+        },
+        {
+          "topic": "Perpendicular line equation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A line passes through $(0, -2)$ and is perpendicular to $y = 4x + 5$. What is its equation?",
+          "options": ["$y = 4x - 2$", "$y = -4x - 2$", "$y = \\dfrac{1}{4}x - 2$", "$y = -\\dfrac{1}{4}x - 2$"],
+          "answer": "3",
+          "explanation": "The perpendicular slope is the negative reciprocal of $4$, which is $-\\frac{1}{4}$. With y-intercept $-2$: $y = -\\frac{1}{4}x - 2$."
+        },
+        {
+          "topic": "Regular polygon interior angle",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "What is the measure of each interior angle of a regular dodecagon (12 sides)?",
+          "options": ["$150^\\circ$", "$30^\\circ$", "$120^\\circ$", "$1800^\\circ$"],
+          "answer": "0",
+          "explanation": "Each interior angle $= \\dfrac{(n-2)\\times180^\\circ}{n} = \\dfrac{10 \\times 180^\\circ}{12} = \\dfrac{1800^\\circ}{12} = 150^\\circ$."
+        },
+        {
+          "topic": "Composed solid volume",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A solid is a cone (radius 7 cm, height 6 cm) on top of a cylinder (radius 7 cm, height 10 cm). What is the total volume? (Use $\\pi \\approx \\frac{22}{7}$.)",
+          "options": ["$1848 \\text{ cm}^3$", "$1540 \\text{ cm}^3$", "$1232 \\text{ cm}^3$", "$2156 \\text{ cm}^3$"],
+          "answer": "0",
+          "explanation": "Cylinder $= \\frac{22}{7} \\times 49 \\times 10 = 1540$; cone $= \\frac{1}{3} \\times \\frac{22}{7} \\times 49 \\times 6 = \\frac{1}{3} \\times 22 \\times 42 = 308$. Total $= 1540 + 308 = 1848 \\text{ cm}^3$."
+        }
+      ]
+    }
+  ]
+}

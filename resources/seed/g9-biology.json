@@ -1,0 +1,799 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "biology",
+      "chapters": [
+        {
+          "title": "Biology and Technology",
+          "description": "How biologists work and the renowned Ethiopian biologists and research institutions that advance science.",
+          "lessons": [
+            {
+              "title": "Biology, Scientists, and Research in Ethiopia",
+              "summary": "Biology is the study of life. This lesson shows how scientists work step by step and celebrates famous Ethiopian biologists and research institutions.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "What is Biology?",
+                  "body": "**Biology** is the study of **life** and **living organisms**. Living things include the teff and enset plants in our fields, the cattle and wild animals on our land, the tiny bacteria in milk, and you yourself.\n\nA **biologist** is a scientist who studies living organisms. Biologists look at the **outside** (the shape and parts) and the **inside** (how the body works) of living things. They also study how living things depend on each other and on their **environment**."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Explain what **biology** is and what a **biologist** does.\n- Describe how science moves forward using a **hypothesis** and experiments.\n- Explain what a **journal** and **peer review** are.\n- Name at least one renowned **Ethiopian biologist** and describe their work.\n- Name some Ethiopian **research institutions** and what they study."
+                },
+                {
+                  "type": "theory",
+                  "title": "How Science Works",
+                  "body": "Science usually moves forward in small, steady steps, and this is **why** we can trust it.\n\n1. One scientist makes an observation and forms a **hypothesis** — an idea that explains what is seen and predicts new results.\n2. Other scientists do **experiments** to test the idea. The results either **support** the idea or show it is **wrong**.\n3. When many tests agree, the idea is accepted.\n\nScientists share their work (called **research**) by publishing it in special magazines called **journals**. Before research is published, other expert scientists read and check it. This checking is called **peer review**.\n\n**Why peer review matters:** it makes sure the work was done carefully before others rely on it. This is how an idea becomes trusted knowledge instead of just a guess."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Dr Aklilu Lemma and the Endod Discovery",
+                  "body": "Follow how one Ethiopian biologist used the scientific method.\n\n1. **Observation (1964):** Near Adwa, Dr **Aklilu Lemma** noticed that downstream of women washing clothes with the **Endod** plant (soapberry, *Phytolacca dodecandra*) there were many **dead snails**.\n2. **Hypothesis:** Endod kills the freshwater snails that carry the **bilharzia** (schistosomiasis) parasite.\n3. **Experiment:** In the laboratory he dried, crushed, and diluted Endod berries and showed they killed snails even at very low concentrations.\n4. **Test by others:** Other scientists repeated the work and got the same results.\n5. **Result:** Before treating the water, 50% of young children were infected; after treatment only 7% were infected.\n\n**Conclusion:** Endod is a cheap, natural way to control the snails. Dr Aklilu called it \"a poor man's medicine for a poor man's disease.\""
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes Students Make",
+                  "body": "- **Thinking a hypothesis is a proven fact.** A **hypothesis** is only an idea until it is tested many times.\n- **Confusing the snail with the disease.** Bilharzia is caused by a **parasitic flatworm**, not by the snail. The snail only carries the parasite.\n- **Thinking one experiment proves everything.** Science needs results to be **repeated** by others (peer review) before they are trusted.\n- **Mixing up the biologists.** For example, Professor Tilahun Yilma made a **rinderpest vaccine**, while Dr Gebissa Ejeta improved **sorghum**."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy Ways to Remember",
+                  "body": "- **\"Snail-killer = Soapberry\"**: both start with S, and Endod (soapberry) kills snails.\n- **Peer = Partner check.** Both start with P. Your science partners (peers) check your work.\n- To remember Dr Gebissa Ejeta: **\"Gebissa grows grain\"** (he improved sorghum, a grain crop).\n- Hypothesis = \"**H**igh-level **guess**\" that you must still test."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** What is biology?\n**Q2.** What is the difference between a hypothesis and a fact?\n**Q3.** Which plant did Dr Aklilu Lemma use to kill snails, and why is it good for local people?\n\n---\n\n**Answers:**\n\n**A1.** Biology is the study of life and living organisms.\n**A2.** A hypothesis is an idea that must still be tested; a fact has been tested and confirmed many times.\n**A3.** Endod (soapberry). It is cheap, well known to local people, and breaks down naturally in about two days, so it is friendly to the environment."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **Biology** is the study of life and living organisms; a **biologist** studies them.\n- Science advances through **hypothesis**, **experiment**, and checking, then publishing in **journals** after **peer review**.\n- **Dr Aklilu Lemma** used **Endod** to control the snails that spread **bilharzia**.\n- Other famous Ethiopian biologists: **Professor Tilahun Yilma** (rinderpest vaccine), **Dr Gebissa Ejeta** (improved sorghum), **Dr Melaku Worede** (saving crop genetic diversity).\n- Ethiopian research institutions include **Addis Ababa University**, **AHRI**, **ALIPB**, **EHNRI**, and **EIAR**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Words to Know",
+                  "body": "Key terms for this lesson.",
+                  "glossary": [
+                    { "term": "Biology", "definition": "The study of life and living organisms." },
+                    { "term": "Hypothesis", "definition": "An idea that explains observed facts and predicts new results, which must be tested." },
+                    { "term": "Journal", "definition": "A special magazine where scientists publish their research." },
+                    { "term": "Peer review", "definition": "The checking of a scientist's work by other experts before it is published." },
+                    { "term": "Endod", "definition": "The soapberry plant (Phytolacca dodecandra) used to kill the snails that spread bilharzia." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is biology?", "back": "The study of life and living organisms." },
+                { "front": "What is a hypothesis?", "back": "An idea that explains facts and predicts results, and must be tested by experiment." },
+                { "front": "What is peer review?", "back": "The checking of a scientist's work by other experts before it is published in a journal." },
+                { "front": "Which plant did Dr Aklilu Lemma use against bilharzia?", "back": "Endod (the soapberry), which kills the snails that carry the parasite." },
+                { "front": "What did Dr Gebissa Ejeta improve?", "back": "Sorghum, making it drought-resistant, higher yielding, and resistant to Striga weed." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Definition of biology",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Biology is best described as:",
+              "options": ["The study of rocks and minerals", "The study of life and living organisms", "The study of how atoms react", "The study of the stars"],
+              "answer": "1",
+              "explanation": "Biology is the study of life and living organisms, including plants, animals, and micro-organisms."
+            },
+            {
+              "topic": "Bilharzia",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Bilharzia (schistosomiasis) is caused by:",
+              "options": ["Snails", "Bacteria", "Viruses", "Parasitic flatworms"],
+              "answer": "3",
+              "explanation": "Bilharzia is caused by parasitic flatworms. Freshwater snails only carry the parasite; they do not cause the disease themselves."
+            },
+            {
+              "topic": "Scientific method",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the correct meaning of a hypothesis?",
+              "options": ["A proven scientific law", "A measuring instrument", "An idea that explains facts and must be tested", "A type of microscope"],
+              "answer": "2",
+              "explanation": "A hypothesis is an idea that explains observed facts and predicts outcomes. It must be tested by experiment before it can be accepted."
+            },
+            {
+              "topic": "Peer review",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Why do scientists use peer review before publishing research?",
+              "options": ["To make the research longer", "So other experts can check the work is done well", "To keep the work secret", "To increase magnification"],
+              "answer": "1",
+              "explanation": "Peer review means other expert scientists check the research is high quality and reliable before it is published in a journal."
+            },
+            {
+              "topic": "Ethiopian biologists",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Professor Tilahun Yilma is internationally known for developing a vaccine against which cattle disease?",
+              "options": ["Rabies", "Rinderpest", "Bilharzia", "Malaria"],
+              "answer": "1",
+              "explanation": "Professor Tilahun Yilma used genetic engineering to develop a vaccine against rinderpest, a deadly cattle disease, and later worked on HIV/AIDS vaccines."
+            },
+            {
+              "topic": "Research institutions",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which Ethiopian institution mainly carries out research into health and nutrition issues that affect the public?",
+              "options": ["EIAR (Institute of Agricultural Research)", "EHNRI (Ethiopian Health and Nutrition Research Institute)", "Institute of Biodiversity Conservation", "AHRI (Armauer Hansen Research Institute)"],
+              "answer": "1",
+              "explanation": "EHNRI focuses on health and nutrition. EIAR studies agriculture, AHRI began with leprosy and now studies several diseases, and IBC conserves biodiversity."
+            }
+          ]
+        },
+        {
+          "title": "Cell Biology",
+          "description": "Microscopes, the structure of plant and animal cells, and how substances move into and out of cells.",
+          "lessons": [
+            {
+              "title": "Microscopes, Cells, and Their Environment",
+              "summary": "Cells are the building blocks of life. This lesson covers how microscopes let us see cells, the parts of plant and animal cells, and how diffusion and osmosis move substances.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "The Building Blocks of Life",
+                  "body": "Every living thing is made of tiny units called **cells**. Most cells are far too small to see with your eyes alone, so biologists use a **microscope** — an instrument that makes small things look bigger.\n\nThe study of cells is called **cell biology**. Once we could see cells clearly, our understanding of how living things work grew very quickly."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Name the two main types of **microscope** and compare them.\n- Explain the difference between **magnification** and **resolution**.\n- State the **cell theory**.\n- Name the parts of **plant** and **animal** cells and their jobs.\n- Explain **diffusion**, **osmosis**, and **active transport**.\n- Explain why plant cells become **turgid** or **flaccid**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Microscopes, Cells, and Cell Theory",
+                  "body": "There are two main types of microscope:\n\n- The **light microscope** uses a beam of **light**. It can magnify up to about **2000 times** and lets us look at **living** cells. It is cheap and works without electricity.\n- The **electron microscope** uses a beam of **electrons**. It can magnify up to about **2 000 000 times** and shows tiny details, but it is expensive and can only look at **dead** material.\n\nTwo important ideas:\n- **Magnification** means making an object look **bigger**.\n- **Resolution** is the ability to tell two close points **apart**. Higher resolution shows more detail. The electron microscope has much higher resolution (about 0.3 nm) than the light microscope (about 200 nm). This is **why** the electron microscope shows so much more detail.\n\nThe **cell theory** states: (1) all living things are made of **cells**, (2) the cell is the **basic unit** of life, and (3) all cells come from **existing cells**.\n\n**Plant cells** have a **cell wall**, a large central **vacuole**, and green **chloroplasts** for photosynthesis. **Animal cells** do **not** have these. Both have a **cell membrane**, **cytoplasm**, and a **nucleus** that controls the cell."
+                },
+                {
+                  "type": "visual",
+                  "title": "A Plant Cell and Its Parts",
+                  "body": "A typical plant cell. Notice the **cell wall** on the outside, the controlling **nucleus**, the green **chloroplast** that traps sunlight, and the large **vacuole** that stores cell sap.",
+                  "visual": {
+                    "kind": "cell",
+                    "data": {
+                      "type": "plant",
+                      "parts": [
+                        { "label": "Cell wall", "x": 0.08, "y": 0.5 },
+                        { "label": "Cell membrane", "x": 0.22, "y": 0.78 },
+                        { "label": "Cytoplasm", "x": 0.35, "y": 0.25 },
+                        { "label": "Nucleus", "x": 0.55, "y": 0.45 },
+                        { "label": "Vacuole", "x": 0.72, "y": 0.62 },
+                        { "label": "Chloroplast", "x": 0.5, "y": 0.85 }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Working Out Total Magnification",
+                  "body": "A light microscope has two lenses: the **eyepiece lens** and the **objective lens**. To find the total magnification, you **multiply** them.\n\n**Example:** The eyepiece lens is x10 and the objective lens is x40.\n\n1. Write the two magnifications: eyepiece = 10, objective = 40.\n2. Multiply them: 10 x 40 = **400**.\n3. So the specimen looks **400 times** bigger than its real size.\n\nIf you switch to the x10 objective, the total becomes 10 x 10 = **100 times**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes Students Make",
+                  "body": "- **Confusing magnification and resolution.** Magnification makes things **bigger**; resolution is the **detail** you can see. Making a blurry photo bigger does not add detail.\n- **Giving plant parts to animal cells.** Animal cells have **no cell wall, no chloroplasts, and no large vacuole**.\n- **Mixing up diffusion and osmosis.** Osmosis is **only** about water moving across a membrane.\n- **Forgetting that osmosis and diffusion need no energy.** Only **active transport** uses energy.\n- **Thinking we see cells in 3-D under the light microscope.** They usually look flat; real cells are three-dimensional."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy Ways to Remember",
+                  "body": "- **Plant cells have a WALL** — remember **\"Plants stand tall because of their wall.\"** Animals have no wall, so they are soft.\n- **Osmosis = water.** Both have the letter pattern of moving liquid; tell yourself **\"Osmosis = O for water (H2O).\"**\n- **Turgid = Tight.** A turgid plant cell is full of water and firm, like a well-watered enset leaf standing upright.\n- **Active transport = needs Action (energy).** Both start with A."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** Name two parts found in a plant cell but not in an animal cell.\n**Q2.** A microscope has a x10 eyepiece and a x4 objective. What is the total magnification?\n**Q3.** What is osmosis?\n\n---\n\n**Answers:**\n\n**A1.** Any two of: cell wall, chloroplast, large central vacuole.\n**A2.** 10 x 4 = 40 times.\n**A3.** Osmosis is the movement of water from a region of high water concentration to a region of low water concentration, across a partially permeable membrane."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- A **microscope** lets us see cells; the **light microscope** sees living cells, the **electron microscope** shows far more detail.\n- **Magnification** = bigger image; **resolution** = amount of detail.\n- **Cell theory:** all living things are made of cells, the cell is the basic unit of life, and cells come from existing cells.\n- **Plant cells** have a cell wall, chloroplasts, and a large vacuole; **animal cells** do not.\n- **Diffusion** spreads particles from high to low concentration; **osmosis** is diffusion of water; both need **no energy**. **Active transport** moves substances against the gradient and **needs energy**.\n- A plant cell full of water is **turgid**; one that has lost water is **flaccid**, and severe water loss causes **plasmolysis**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Words to Know",
+                  "body": "Key terms for this lesson.",
+                  "glossary": [
+                    { "term": "Cell", "definition": "The smallest basic unit that makes up all living things." },
+                    { "term": "Magnification", "definition": "How many times bigger an object is made to look." },
+                    { "term": "Resolution", "definition": "The ability to tell two close points apart; it controls how much detail is seen." },
+                    { "term": "Diffusion", "definition": "The spreading of particles from a region of high concentration to one of low concentration." },
+                    { "term": "Osmosis", "definition": "The movement of water across a partially permeable membrane from high to low water concentration." },
+                    { "term": "Turgid", "definition": "A plant cell that is firm and swollen because it is full of water." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What are the two main types of microscope?", "back": "The light microscope (uses light) and the electron microscope (uses electrons)." },
+                { "front": "What is the difference between magnification and resolution?", "back": "Magnification makes things look bigger; resolution is the amount of detail you can see." },
+                { "front": "Name three parts in plant cells but not animal cells.", "back": "Cell wall, chloroplasts, and a large central vacuole." },
+                { "front": "What is osmosis?", "back": "The movement of water across a partially permeable membrane from high to low water concentration." },
+                { "front": "Which transport process needs energy?", "back": "Active transport. Diffusion and osmosis need no energy." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Cell theory",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "The cell theory states that:",
+              "options": ["Only animals are made of cells", "All living things are made of cells", "Cells can only be seen with the eye", "Plants have no cells"],
+              "answer": "1",
+              "explanation": "The cell theory says all living things are made of cells, the cell is the basic unit of life, and all cells come from existing cells."
+            },
+            {
+              "topic": "Plant vs animal cells",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which structure is found in a plant cell but NOT in an animal cell?",
+              "options": ["Nucleus", "Cell membrane", "Cell wall", "Cytoplasm"],
+              "answer": "2",
+              "explanation": "A cell wall is found only in plant cells. Animal cells have a membrane, cytoplasm, and nucleus, but no cell wall."
+            },
+            {
+              "topic": "Magnification",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A microscope has a x10 eyepiece lens and a x40 objective lens. What is the total magnification?",
+              "options": ["50", "400", "4000", "30"],
+              "answer": "1",
+              "explanation": "Total magnification = eyepiece x objective = 10 x 40 = 400 times."
+            },
+            {
+              "topic": "Osmosis",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Osmosis is the movement of which substance across a partially permeable membrane?",
+              "options": ["Salt", "Water", "Starch", "Oxygen gas"],
+              "answer": "1",
+              "explanation": "Osmosis is specifically the movement of water from a region of high water concentration to a region of low water concentration."
+            },
+            {
+              "topic": "Microscope comparison",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Which is the biggest advantage of a light microscope over an electron microscope?",
+              "options": ["It has higher resolution", "It can show living cells and works without electricity", "It magnifies two million times", "It is used in a vacuum"],
+              "answer": "1",
+              "explanation": "A light microscope can be used on living cells and does not need electricity, so it can be used anywhere. The electron microscope has higher magnification and resolution but only works on dead material in a vacuum."
+            },
+            {
+              "topic": "Active transport",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A root cell takes in mineral ions from the soil even though there are already more ions inside the cell than outside. Which process is this?",
+              "options": ["Diffusion", "Osmosis", "Active transport", "Evaporation"],
+              "answer": "2",
+              "explanation": "Moving substances against the concentration gradient (from low to high concentration) requires energy, so this is active transport, not diffusion or osmosis."
+            }
+          ]
+        },
+        {
+          "title": "Human Biology and Health",
+          "description": "Food and nutrition, digestion, breathing, cellular respiration, and the circulatory system in the human body.",
+          "lessons": [
+            {
+              "title": "Nutrition, Digestion, Breathing, and Blood",
+              "summary": "The human body needs food, oxygen, and a transport system. This lesson covers a balanced diet, the digestive system, the respiratory system, cellular respiration, and the circulatory system.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Keeping the Body Working",
+                  "body": "Your body is made of trillions of cells, and every cell needs **energy** and **materials** to stay alive. You get these from the **food** you eat and the **oxygen** you breathe.\n\nIn this lesson you will see how the body takes in food (**nutrition**), breaks it down (**digestion**), takes in oxygen (**respiration**), releases energy inside cells (**cellular respiration**), and moves everything around in the **blood**."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- List the parts of a **balanced diet** and their jobs.\n- Describe how food is broken down in the **digestive system**.\n- Explain the job of the **respiratory system**.\n- Explain **cellular respiration** and write its word equation.\n- Describe the parts of the **circulatory system** and the job of **blood**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Food, Digestion, Breathing, and Transport",
+                  "body": "A **balanced diet** contains the right amounts of: **carbohydrates** (energy, e.g. injera from teff), **proteins** (growth and repair, e.g. meat, beans, lentils), **fats** (energy and warmth), **vitamins** and **minerals** (keep the body healthy), **fibre** (helps the gut), and **water**.\n\n**Digestion** breaks large food molecules into small ones the body can absorb. Food travels through the **mouth**, **oesophagus**, **stomach**, and **small intestine**, where digested food is absorbed into the blood. Special chemicals called **enzymes** speed up this breakdown.\n\nThe **respiratory system** brings **oxygen** into the body and removes **carbon dioxide**. Air goes through the nose, the **trachea** (windpipe), and into the **lungs**, where gases are exchanged in tiny air sacs called **alveoli**.\n\n**Cellular respiration** is the release of energy inside every cell. **Why it matters:** without it, cells have no energy to grow, move, or stay alive. The word equation is:\n\n**glucose + oxygen → carbon dioxide + water + energy**\n\nThe **circulatory system** is the body's transport system. The **heart** pumps **blood** through **blood vessels** (arteries, veins, and capillaries). Blood carries oxygen, digested food, and wastes around the body."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Following an Injera Meal Through the Body",
+                  "body": "Trace what happens to a meal of injera and shiro (made from peas or beans).\n\n1. **Mouth:** Teeth break the injera into small pieces. Saliva begins to digest the **carbohydrate**.\n2. **Oesophagus:** The food is swallowed and pushed down to the stomach.\n3. **Stomach:** Muscles churn the food; enzymes and acid start to digest the **protein** in the shiro.\n4. **Small intestine:** More enzymes finish digestion. The small, digested molecules (like **glucose** and **amino acids**) are **absorbed** into the blood.\n5. **Blood and cells:** Glucose is carried by the blood to the cells. There, in **cellular respiration**, glucose reacts with oxygen to release the **energy** you use to walk, study, and play.\n\n**Result:** food becomes energy and building materials for the body."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes Students Make",
+                  "body": "- **Confusing breathing with cellular respiration.** Breathing moves air in and out of the lungs; **cellular respiration** releases energy inside cells.\n- **Thinking digestion only happens in the stomach.** Most digestion and absorption happen in the **small intestine**.\n- **Writing the respiration equation backwards.** Glucose and **oxygen** are the inputs; carbon dioxide, water, and **energy** are the outputs.\n- **Saying the heart makes blood.** The heart **pumps** blood; it does not make it.\n- **Forgetting water and fibre are part of a balanced diet.**"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy Ways to Remember",
+                  "body": "- Balanced diet groups: **\"Crazy People Fight Very Mean Wild Foxes\"** = Carbohydrate, Protein, Fat, Vitamins, Minerals, Water, Fibre.\n- Respiration equation: **\"Glucose + Oxygen gives Carbon dioxide + Water + Energy\"** — the energy is the whole point.\n- **\"Proteins for Plumping up\"** = proteins build and repair the body (growth).\n- Arteries carry blood **Away** from the heart (both start with A)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** Which food group is mainly used for growth and repair?\n**Q2.** Write the word equation for cellular respiration.\n**Q3.** In which organ is most digested food absorbed into the blood?\n\n---\n\n**Answers:**\n\n**A1.** Protein (for example from beans, lentils, or meat).\n**A2.** glucose + oxygen → carbon dioxide + water + energy.\n**A3.** The small intestine."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- A **balanced diet** has carbohydrates, proteins, fats, vitamins, minerals, fibre, and water.\n- **Digestion** breaks food into small molecules; **enzymes** speed this up and most absorption happens in the **small intestine**.\n- The **respiratory system** takes in **oxygen** and removes **carbon dioxide** through the **lungs**.\n- **Cellular respiration** releases energy: **glucose + oxygen → carbon dioxide + water + energy**.\n- The **circulatory system** (heart, blood, blood vessels) transports oxygen, food, and wastes."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Words to Know",
+                  "body": "Key terms for this lesson.",
+                  "glossary": [
+                    { "term": "Balanced diet", "definition": "A diet with the right amounts of carbohydrates, proteins, fats, vitamins, minerals, fibre, and water." },
+                    { "term": "Digestion", "definition": "The breaking down of large food molecules into small ones the body can absorb." },
+                    { "term": "Enzyme", "definition": "A chemical that speeds up the breakdown of food in digestion." },
+                    { "term": "Cellular respiration", "definition": "The release of energy inside cells using glucose and oxygen." },
+                    { "term": "Circulatory system", "definition": "The transport system of the body: the heart, blood, and blood vessels." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is a balanced diet?", "back": "A diet with carbohydrates, proteins, fats, vitamins, minerals, fibre, and water in the right amounts." },
+                { "front": "Which food group is for growth and repair?", "back": "Protein (e.g. from beans, lentils, meat, and eggs)." },
+                { "front": "Write the word equation for cellular respiration.", "back": "Glucose + oxygen → carbon dioxide + water + energy." },
+                { "front": "Where is most digested food absorbed?", "back": "In the small intestine." },
+                { "front": "What does the circulatory system do?", "back": "The heart pumps blood through vessels to transport oxygen, food, and wastes around the body." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Balanced diet",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which food group is mainly used for growth and repair of the body?",
+              "options": ["Carbohydrates", "Fats", "Proteins", "Water"],
+              "answer": "2",
+              "explanation": "Proteins (from beans, lentils, meat, and eggs) are used to build new cells and repair the body."
+            },
+            {
+              "topic": "Digestion",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "In which organ is most digested food absorbed into the blood?",
+              "options": ["Stomach", "Small intestine", "Mouth", "Oesophagus"],
+              "answer": "1",
+              "explanation": "Most digestion is completed and most absorption of digested food happens in the small intestine."
+            },
+            {
+              "topic": "Respiratory system",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Gas exchange in the lungs takes place in tiny air sacs called:",
+              "options": ["Capillaries", "Alveoli", "Villi", "Neurons"],
+              "answer": "1",
+              "explanation": "Alveoli are the tiny air sacs in the lungs where oxygen enters the blood and carbon dioxide leaves it."
+            },
+            {
+              "topic": "Cellular respiration",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which word equation correctly shows cellular respiration?",
+              "options": ["glucose + oxygen → carbon dioxide + water + energy", "carbon dioxide + water → glucose + oxygen", "oxygen + water → glucose + energy", "glucose + carbon dioxide → oxygen + energy"],
+              "answer": "0",
+              "explanation": "In cellular respiration, glucose and oxygen react to release energy, producing carbon dioxide and water."
+            },
+            {
+              "topic": "Breathing vs respiration",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "What is the main difference between breathing and cellular respiration?",
+              "options": ["They are exactly the same", "Breathing moves air in and out; cellular respiration releases energy in cells", "Breathing happens in cells; respiration happens in the lungs", "Cellular respiration uses no oxygen"],
+              "answer": "1",
+              "explanation": "Breathing is the physical movement of air in and out of the lungs. Cellular respiration is the chemical release of energy inside cells using glucose and oxygen."
+            },
+            {
+              "topic": "Circulatory system",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Blood vessels that carry blood AWAY from the heart are called:",
+              "options": ["Veins", "Arteries", "Capillaries", "Alveoli"],
+              "answer": "1",
+              "explanation": "Arteries carry blood away from the heart (Arteries = Away). Veins carry blood back to the heart, and capillaries connect them in the tissues."
+            }
+          ]
+        },
+        {
+          "title": "Micro-organisms and Disease",
+          "description": "The main groups of micro-organisms, how diseases spread and are prevented, and facts about HIV and AIDS.",
+          "lessons": [
+            {
+              "title": "Micro-organisms, Disease, and HIV/AIDS",
+              "summary": "Micro-organisms are tiny living things, some useful and some harmful. This lesson covers their main groups, how diseases spread and are prevented, and the facts about HIV and AIDS.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "The Tiny Living World",
+                  "body": "**Micro-organisms** (also called microbes) are living things so small you need a microscope to see them. They are all around us: in soil, water, air, food, and even inside our bodies.\n\nMany micro-organisms are **useful** — for example, those that make **ergo** (Ethiopian fermented milk) and **injera** dough rise. But some are **harmful** and cause **disease**. In this lesson you will learn about both."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Name the main groups of **micro-organisms**.\n- Give examples of **useful** and **harmful** micro-organisms.\n- Explain how **diseases** spread and how to prevent them.\n- State what **HIV** and **AIDS** are and how HIV is and is not spread.\n- Describe how to **prevent** the spread of HIV."
+                },
+                {
+                  "type": "theory",
+                  "title": "Microbes, Disease, and HIV",
+                  "body": "The main groups of micro-organisms are:\n\n- **Bacteria:** very small single-celled organisms. Some are useful (making ergo and yoghurt); some cause disease (such as **tuberculosis**, TB).\n- **Viruses:** even smaller than bacteria. They are **not** really alive on their own and can only multiply inside living cells. They cause diseases such as the common cold, flu, and **AIDS**.\n- **Fungi:** include yeasts and moulds. Yeast is useful for making dough rise; some fungi cause skin diseases like ringworm.\n- **Protozoa:** single-celled organisms; some cause disease, such as the protozoan that causes **malaria**.\n\nA **disease** is a condition that stops the body working normally. Diseases caused by microbes are **infectious** because they can spread from person to person — through **air** (coughs and sneezes), **water** and **food**, **direct contact**, or **animal/insect carriers** (vectors) like mosquitoes.\n\n**Prevention** includes: clean water, good hygiene (washing hands), proper sanitation, cooking food well, **vaccination**, and controlling carriers (e.g. mosquito nets).\n\n**HIV and AIDS:** **HIV** (Human Immunodeficiency Virus) is a virus that attacks the body's **immune system** (the body's defence against disease). Over time it can lead to **AIDS** (Acquired Immune Deficiency Syndrome), when the body can no longer fight off infections. **Why this matters:** with a weak immune system, ordinary infections become dangerous.\n\nHIV **is** spread by: unprotected sexual contact, infected blood, sharing needles, and from an infected mother to her baby. HIV is **not** spread by: shaking hands, sharing food, hugging, or mosquito bites."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "How Malaria Spreads, Step by Step",
+                  "body": "Malaria is a major disease in many parts of Ethiopia. Follow how it spreads using a **vector** (a carrier).\n\n1. A female **Anopheles mosquito** bites a person who already has the malaria **protozoan** in their blood.\n2. The mosquito takes in the protozoan with the blood.\n3. The protozoan develops inside the mosquito.\n4. When the mosquito bites a **healthy** person, it passes the protozoan into that person's blood.\n5. The protozoan multiplies in the new person, who then becomes ill with malaria.\n\n**How to break the cycle:** sleep under a **mosquito net**, drain still water where mosquitoes breed, and treat infected people. Stopping the mosquito stops the spread."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes Students Make",
+                  "body": "- **Thinking all microbes are harmful.** Many are **useful** (food, medicine, breaking down waste).\n- **Saying antibiotics cure viruses.** Antibiotics work on **bacteria**, not **viruses** like HIV or flu.\n- **Confusing HIV and AIDS.** **HIV** is the virus; **AIDS** is the late stage when the immune system has become very weak.\n- **Believing HIV spreads through touch or mosquitoes.** It does **not**. It spreads mainly through infected blood and unprotected sexual contact.\n- **Thinking the mosquito causes malaria.** The mosquito is only the **carrier**; a **protozoan** causes the disease."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy Ways to Remember",
+                  "body": "- **Microbe groups:** **\"Big Vans Fill Parks\"** = Bacteria, Viruses, Fungi, Protozoa.\n- **HIV vs AIDS:** HIV is the **\"Invader\" (Virus)**; AIDS is the **\"Aftermath\"** when defences are down.\n- **Vector = Vehicle.** A vector (like a mosquito) is a vehicle that carries the disease.\n- **Antibiotics = Anti-Bacteria.** They do not work on viruses."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** Name the four main groups of micro-organisms.\n**Q2.** Give one useful and one harmful micro-organism.\n**Q3.** Name two ways HIV is NOT spread.\n\n---\n\n**Answers:**\n\n**A1.** Bacteria, viruses, fungi, and protozoa.\n**A2.** Useful: bacteria that make ergo (or yeast for dough). Harmful: the bacterium causing TB (or the protozoan causing malaria).\n**A3.** Any two of: shaking hands, hugging, sharing food, or mosquito bites."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **Micro-organisms** are tiny living things: **bacteria, viruses, fungi, and protozoa**.\n- Some microbes are **useful** (food and medicine); some are **harmful** and cause disease.\n- **Infectious diseases** spread through air, water, food, contact, and carriers (vectors); prevention includes hygiene, clean water, vaccination, and controlling carriers.\n- **HIV** is a virus that attacks the **immune system**; untreated, it can lead to **AIDS**.\n- HIV spreads through infected blood, unprotected sex, shared needles, and mother to baby — **not** through touch, food, or mosquitoes."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Words to Know",
+                  "body": "Key terms for this lesson.",
+                  "glossary": [
+                    { "term": "Micro-organism", "definition": "A living thing so small it can only be seen with a microscope." },
+                    { "term": "Bacteria", "definition": "Very small single-celled organisms; some are useful and some cause disease." },
+                    { "term": "Virus", "definition": "A tiny infectious agent that can only multiply inside living cells; it causes diseases such as AIDS." },
+                    { "term": "Vector", "definition": "An animal, such as a mosquito, that carries a disease from one host to another." },
+                    { "term": "HIV", "definition": "Human Immunodeficiency Virus, which attacks the body's immune system and can lead to AIDS." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What are the four main groups of micro-organisms?", "back": "Bacteria, viruses, fungi, and protozoa." },
+                { "front": "Do antibiotics work against viruses?", "back": "No. Antibiotics work against bacteria, not viruses like HIV or flu." },
+                { "front": "What is the difference between HIV and AIDS?", "back": "HIV is the virus that attacks the immune system; AIDS is the late stage when the body can no longer fight infections." },
+                { "front": "What causes malaria, and what carries it?", "back": "A protozoan causes malaria; the female Anopheles mosquito carries (transmits) it." },
+                { "front": "Name two ways HIV is NOT spread.", "back": "Any two of: shaking hands, hugging, sharing food, or mosquito bites." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Groups of microbes",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of these is a group of micro-organisms?",
+              "options": ["Bacteria", "Bones", "Muscles", "Leaves"],
+              "answer": "0",
+              "explanation": "Bacteria are a main group of micro-organisms. The others are body or plant structures, not micro-organisms."
+            },
+            {
+              "topic": "Useful microbes",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which micro-organism is used to make dough rise and ergo or yoghurt?",
+              "options": ["Malaria protozoan", "Yeast and helpful bacteria", "HIV", "Tuberculosis bacterium"],
+              "answer": "1",
+              "explanation": "Yeast (a fungus) makes dough rise, and helpful bacteria turn milk into ergo or yoghurt. The others are harmful microbes."
+            },
+            {
+              "topic": "Disease spread",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A disease that can spread from one person to another is described as:",
+              "options": ["Inherited", "Infectious", "Permanent", "Balanced"],
+              "answer": "1",
+              "explanation": "An infectious disease can spread from person to person, for example through air, water, contact, or carriers."
+            },
+            {
+              "topic": "Antibiotics",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Antibiotics are medicines that work against:",
+              "options": ["Viruses", "Bacteria", "All micro-organisms", "Fungi only"],
+              "answer": "1",
+              "explanation": "Antibiotics work against bacteria. They do not work against viruses such as HIV or the flu virus."
+            },
+            {
+              "topic": "Malaria",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Which statement about malaria is correct?",
+              "options": ["The mosquito itself causes malaria", "A protozoan causes it and the mosquito carries it", "It is caused by a virus", "It spreads by shaking hands"],
+              "answer": "1",
+              "explanation": "Malaria is caused by a protozoan. The female Anopheles mosquito is only the vector (carrier) that transmits the protozoan."
+            },
+            {
+              "topic": "HIV and AIDS",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which of the following can spread HIV?",
+              "options": ["Sharing food with an infected person", "Hugging an infected person", "Sharing needles with an infected person", "A mosquito bite"],
+              "answer": "2",
+              "explanation": "HIV spreads through infected blood, including sharing needles. It is not spread by sharing food, hugging, or mosquito bites."
+            }
+          ]
+        },
+        {
+          "title": "Classification",
+          "description": "Why and how living things are grouped, and the main features of the five kingdoms of life.",
+          "lessons": [
+            {
+              "title": "Classifying Living Things and the Five Kingdoms",
+              "summary": "There are millions of living things, so scientists sort them into groups. This lesson explains the principles of classification and the five kingdoms of life.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Bringing Order to Life",
+                  "body": "There are millions of different living things on Earth. To study them, scientists put them into groups based on their shared features. This sorting is called **classification**.\n\nClassification is like organising a large market: when similar things are grouped together, they are much easier to find, name, and study."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Explain what **classification** is and why it is useful.\n- Describe how living things are grouped by **shared features**.\n- State how living things are **named** using two names (the **binomial** system).\n- Name the **five kingdoms** and give the main features of each."
+                },
+                {
+                  "type": "theory",
+                  "title": "Principles of Classification and the Five Kingdoms",
+                  "body": "**Classification** means sorting living things into groups based on features they **share**. **Why we do it:** it makes the huge variety of life easier to study, helps us see how organisms are related, and gives every organism a clear name that scientists everywhere understand.\n\nLiving things are sorted into smaller and smaller groups. The largest groups are called **kingdoms**, which are divided down to the smallest common group, the **species**. A **species** is a group of living things that can breed together and produce **fertile offspring**.\n\nEach organism is given a two-part scientific name (the **binomial system**), for example *Homo sapiens* for humans. The first name is the larger group (genus) and the second names the species.\n\nThe **five kingdoms** of living things are:\n\n1. **Monera (bacteria):** very small, single-celled organisms with no true nucleus.\n2. **Protista (protists):** mostly single-celled organisms with a true nucleus, such as Amoeba.\n3. **Fungi:** organisms like moulds, mushrooms, and yeast that feed on dead or living matter.\n4. **Plants:** many-celled organisms that make their own food by **photosynthesis** (e.g. teff, enset, coffee).\n5. **Animals:** many-celled organisms that cannot make their own food and must **eat** other organisms (e.g. cattle, fish, humans)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Deciding Which Kingdom an Organism Belongs To",
+                  "body": "Suppose you find an organism and want to place it in a kingdom. Ask simple questions in order.\n\n1. **Is it made of many cells or one cell?** A coffee plant is **many-celled**, so it is not Monera or Protista.\n2. **Does it make its own food?** The coffee plant is green and makes food by **photosynthesis**.\n3. **Does it move from place to place?** No, it stays rooted.\n\n**Conclusion:** A green, many-celled organism that makes its own food and does not move belongs to the **Plant** kingdom.\n\nNow test a cow: many cells, **cannot** make its own food, and it **moves** to find food. These features place it in the **Animal** kingdom."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes Students Make",
+                  "body": "- **Thinking fungi are plants.** Fungi do **not** make their own food and have **no chlorophyll**, so they have their own kingdom.\n- **Putting bacteria with protists.** Bacteria (Monera) have **no true nucleus**; protists do.\n- **Writing scientific names wrongly.** The two-part name should be written carefully, with the first part starting with a capital letter (e.g. *Homo sapiens*).\n- **Thinking a species is just any group of similar animals.** A **species** can breed together to produce **fertile** offspring."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy Ways to Remember",
+                  "body": "- **Five kingdoms:** **\"My Pet Fish Plays Always\"** = Monera, Protista, Fungi, Plants, Animals.\n- **Plants make food; Animals must eat** — **\"Plants Produce, Animals Acquire.\"**\n- **Fungi feed, never make** — they have no green chlorophyll, so they cannot make their own food.\n- **Monera = Minute and no nucleus** (both start with M)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** Why do scientists classify living things?\n**Q2.** Name the five kingdoms.\n**Q3.** Which kingdom do mushrooms and moulds belong to?\n\n---\n\n**Answers:**\n\n**A1.** To make the huge variety of life easier to study, to show how organisms are related, and to give clear names everyone can use.\n**A2.** Monera, Protista, Fungi, Plants, and Animals.\n**A3.** The Fungi kingdom."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **Classification** sorts living things into groups by their **shared features**.\n- It makes life easier to study, shows relationships, and gives every organism a clear name.\n- The smallest group is the **species**: organisms that breed to produce **fertile offspring**.\n- Scientific names use the **binomial system** (two parts, e.g. *Homo sapiens*).\n- The **five kingdoms** are **Monera, Protista, Fungi, Plants, and Animals**, each with its own features."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Words to Know",
+                  "body": "Key terms for this lesson.",
+                  "glossary": [
+                    { "term": "Classification", "definition": "Sorting living things into groups based on the features they share." },
+                    { "term": "Species", "definition": "A group of living things that can breed together to produce fertile offspring." },
+                    { "term": "Kingdom", "definition": "One of the largest groups used to classify living things." },
+                    { "term": "Binomial system", "definition": "The naming of organisms with two names, such as Homo sapiens." },
+                    { "term": "Photosynthesis", "definition": "The process by which green plants make their own food using sunlight." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is classification?", "back": "Sorting living things into groups based on the features they share." },
+                { "front": "What is a species?", "back": "A group of living things that can breed together to produce fertile offspring." },
+                { "front": "Name the five kingdoms.", "back": "Monera, Protista, Fungi, Plants, and Animals." },
+                { "front": "How do plants and animals get food differently?", "back": "Plants make their own food by photosynthesis; animals must eat other organisms." },
+                { "front": "What is the binomial system?", "back": "A way of naming organisms with two parts, such as Homo sapiens." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Classification purpose",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Classification means:",
+              "options": ["Killing living things", "Sorting living things into groups by shared features", "Drawing animals", "Counting cells"],
+              "answer": "1",
+              "explanation": "Classification is the sorting of living things into groups based on the features they share."
+            },
+            {
+              "topic": "Five kingdoms",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of these is one of the five kingdoms of living things?",
+              "options": ["Minerals", "Fungi", "Liquids", "Metals"],
+              "answer": "1",
+              "explanation": "Fungi is one of the five kingdoms. The five kingdoms are Monera, Protista, Fungi, Plants, and Animals."
+            },
+            {
+              "topic": "Plant kingdom",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A key feature that places an organism in the Plant kingdom is that it:",
+              "options": ["Moves quickly to find food", "Makes its own food by photosynthesis", "Has no cells", "Eats other animals"],
+              "answer": "1",
+              "explanation": "Plants are many-celled organisms that make their own food by photosynthesis, unlike animals which must eat."
+            },
+            {
+              "topic": "Species",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A species is a group of living things that:",
+              "options": ["Look slightly similar", "Can breed together to produce fertile offspring", "Live in the same country", "Are all the same colour"],
+              "answer": "1",
+              "explanation": "Members of a species can breed together and produce offspring that are themselves fertile (able to reproduce)."
+            },
+            {
+              "topic": "Fungi kingdom",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Why are fungi placed in their own kingdom and not with plants?",
+              "options": ["They are bigger than plants", "They cannot make their own food and have no chlorophyll", "They move around", "They have no cells"],
+              "answer": "1",
+              "explanation": "Fungi do not have chlorophyll and cannot make their own food by photosynthesis, so they are not plants and have their own kingdom."
+            },
+            {
+              "topic": "Monera",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which feature best describes organisms in the kingdom Monera (bacteria)?",
+              "options": ["Many-celled with a true nucleus", "Single-celled with no true nucleus", "Green and make their own food only", "Always carry malaria"],
+              "answer": "1",
+              "explanation": "Monera are single-celled organisms with no true nucleus. This lack of a true nucleus is the key difference from the kingdom Protista."
+            }
+          ]
+        },
+        {
+          "title": "Environment",
+          "description": "Ecosystems, food chains and webs, recycling of materials in nature, and how living things adapt to survive.",
+          "lessons": [
+            {
+              "title": "Ecosystems, Food Relationships, and Adaptation",
+              "summary": "Living things depend on each other and their surroundings. This lesson covers ecosystems, food chains and webs, recycling in nature, and how organisms adapt to survive.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Living Things and Their Surroundings",
+                  "body": "No living thing lives completely alone. Plants, animals, and microbes all depend on each other and on their **environment** — the air, water, soil, and climate around them.\n\nThe study of how living things interact with each other and their environment is called **ecology**. In this lesson you will learn how energy and materials flow through nature and how living things are suited to where they live."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Explain what an **ecosystem** is.\n- Describe **food chains** and **food webs** and the role of **producers**, **consumers**, and **decomposers**.\n- Explain how materials are **recycled** in nature.\n- Explain what an **adaptation** is and give Ethiopian examples."
+                },
+                {
+                  "type": "theory",
+                  "title": "Ecosystems, Feeding, and Recycling",
+                  "body": "An **ecosystem** is all the living things in an area together with their non-living surroundings (such as soil, water, and air), working as one system. An example is a lake, a forest, or a grassland.\n\nEnergy enters an ecosystem from the **Sun**. Living things are grouped by how they get food:\n\n- **Producers:** green plants that make their own food by **photosynthesis** (e.g. grass, teff). They are the start of every food chain.\n- **Consumers:** animals that eat other living things. A **herbivore** eats plants (e.g. a cow), a **carnivore** eats animals (e.g. a lion), and an **omnivore** eats both.\n- **Decomposers:** bacteria and fungi that break down dead plants and animals.\n\nA **food chain** shows the order in which living things feed on each other, for example: **grass → cow → human**. The arrows show the direction the **energy** flows. A **food web** is many food chains linked together, giving a fuller picture of feeding in an ecosystem.\n\n**Recycling in nature:** when plants and animals die, **decomposers** break their bodies down and return nutrients to the soil. **Why this matters:** these nutrients are then used again by new plants, so nothing is wasted. Important examples are the recycling of **carbon** and **nitrogen**.\n\nAn **adaptation** is a feature that helps a living thing survive in its environment. For example, plants in dry areas may have small or waxy leaves to save water, and the camel can go a long time without water — useful in hot, dry parts of Ethiopia."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Building and Reading a Food Chain",
+                  "body": "Let us build a food chain from a grassland in Ethiopia.\n\n1. Start with a **producer**: **grass** makes its own food using sunlight.\n2. Add a **herbivore** that eats it: a **gazelle** eats the grass.\n3. Add a **carnivore** that eats the herbivore: a **cheetah** eats the gazelle.\n\nThe food chain is: **grass → gazelle → cheetah**\n\nReading the arrows: each arrow means \"is eaten by\" and shows **energy** passing along the chain. Energy first comes from the **Sun** to the grass.\n\n**What if the grass dies from drought?** The gazelles would have less food, so their numbers fall, and then the cheetahs would also have less to eat. This shows how living things in a chain depend on each other."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes Students Make",
+                  "body": "- **Drawing food chain arrows the wrong way.** The arrow points from the food **to** the eater, showing the direction energy flows (grass → cow).\n- **Forgetting producers come first.** Almost every food chain starts with a green **plant**.\n- **Mixing up an ecosystem and a habitat.** A **habitat** is the place where an organism lives; an **ecosystem** includes all the living things **and** the non-living surroundings together.\n- **Thinking decomposers are useless.** Decomposers are vital because they **recycle** nutrients back to the soil.\n- **Confusing adaptation with a choice.** An **adaptation** is an inherited feature, not something an animal decides to do."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy Ways to Remember",
+                  "body": "- **Producers Produce; Consumers Consume; Decomposers Decompose** — the name tells you the job.\n- **Arrows = \"eaten by.\"** Energy flows the way the arrow points (grass → cow → human).\n- **Herbivore = Herbs (plants); Carnivore = meat** (think \"carnage\").\n- **Adaptation helps you Adapt and survive** — same root word."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check the answers.\n\n**Q1.** What is the original source of energy for almost all ecosystems?\n**Q2.** In the food chain grass → cow → human, what is the producer?\n**Q3.** What do decomposers do, and why are they important?\n\n---\n\n**Answers:**\n\n**A1.** The Sun.\n**A2.** Grass (it makes its own food by photosynthesis).\n**A3.** Decomposers break down dead plants and animals and return nutrients to the soil, so the nutrients can be reused by new plants."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- An **ecosystem** is all the living things in an area plus their non-living surroundings, working together.\n- Energy comes from the **Sun**; **producers** make food, **consumers** eat others, and **decomposers** break down the dead.\n- A **food chain** shows feeding order (grass → cow → human); a **food web** links many chains.\n- **Decomposers recycle** nutrients (such as carbon and nitrogen) back into the soil so nothing is wasted.\n- An **adaptation** is a feature that helps a living thing survive in its environment."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Words to Know",
+                  "body": "Key terms for this lesson.",
+                  "glossary": [
+                    { "term": "Ecosystem", "definition": "All the living things in an area together with their non-living surroundings, working as one system." },
+                    { "term": "Producer", "definition": "A green plant that makes its own food by photosynthesis and begins a food chain." },
+                    { "term": "Consumer", "definition": "An animal that gets food by eating other living things." },
+                    { "term": "Decomposer", "definition": "A bacterium or fungus that breaks down dead organisms and returns nutrients to the soil." },
+                    { "term": "Adaptation", "definition": "A feature that helps a living thing survive in its environment." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is an ecosystem?", "back": "All the living things in an area together with their non-living surroundings, working as one system." },
+                { "front": "What is the source of energy for almost all ecosystems?", "back": "The Sun." },
+                { "front": "What is a producer?", "back": "A green plant that makes its own food by photosynthesis and starts a food chain." },
+                { "front": "What do decomposers do?", "back": "They break down dead plants and animals and return nutrients to the soil so they can be reused." },
+                { "front": "What is an adaptation?", "back": "A feature that helps a living thing survive in its environment, e.g. a camel coping with little water." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Ecosystem",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "An ecosystem is:",
+              "options": ["Only the animals in an area", "All the living things in an area plus their non-living surroundings", "Just the soil", "A single plant"],
+              "answer": "1",
+              "explanation": "An ecosystem is all the living things in an area together with the non-living surroundings such as soil, water, and air."
+            },
+            {
+              "topic": "Energy source",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the original source of energy for almost all food chains?",
+              "options": ["The soil", "The Sun", "The wind", "The Moon"],
+              "answer": "1",
+              "explanation": "Energy enters ecosystems from the Sun. Green plants (producers) capture this energy by photosynthesis."
+            },
+            {
+              "topic": "Producers",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "In the food chain grass → goat → leopard, the producer is:",
+              "options": ["Grass", "Goat", "Leopard", "The soil"],
+              "answer": "0",
+              "explanation": "The producer is the green plant that makes its own food. Here that is grass, which begins the food chain."
+            },
+            {
+              "topic": "Decomposers",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which organisms break down dead plants and animals and recycle nutrients into the soil?",
+              "options": ["Producers", "Carnivores", "Decomposers", "Herbivores"],
+              "answer": "2",
+              "explanation": "Decomposers, such as bacteria and fungi, break down dead organisms and return nutrients to the soil for reuse."
+            },
+            {
+              "topic": "Food chain arrows",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "In a food chain, what does the arrow between two organisms show?",
+              "options": ["The direction the energy flows, from the food to the eater", "Which animal is bigger", "The direction the animal walks", "Nothing important"],
+              "answer": "0",
+              "explanation": "The arrow points from the food to the organism that eats it, showing the direction in which energy is passed along the chain."
+            },
+            {
+              "topic": "Adaptation",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A desert plant has small, waxy leaves. This is an example of an adaptation because it:",
+              "options": ["Makes the plant look nice", "Helps the plant save water in a dry environment", "Helps the plant move", "Lets the plant eat animals"],
+              "answer": "1",
+              "explanation": "Small, waxy leaves reduce water loss, helping the plant survive in a dry environment. A feature that helps survival is an adaptation."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

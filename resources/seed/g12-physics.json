@@ -1,0 +1,774 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "physics",
+      "chapters": [
+        {
+          "title": "Thermodynamics",
+          "description": "The study of how heat, work, and internal energy move between a system and its surroundings.",
+          "lessons": [
+            {
+              "title": "Heat, Work and the Laws of Thermodynamics",
+              "summary": "Learn how temperature, heat and work are connected through the laws of thermodynamics. This lesson covers the first law, gas processes, and molar heat capacities.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Thermodynamics** is the branch of physics that studies energy moving as **heat** and **work**. The word comes from the Greek *therme* (heat) and *dynamis* (power).\n\nWhen you pump a bicycle tyre and the pump gets warm, or when a refrigerator keeps food cold, you are seeing thermodynamics in action. In this lesson we study a **system** (the gas or object we are interested in) and its **surroundings** (everything around it). We will learn how energy flows between them and the simple rules that this flow always obeys."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Learning Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **temperature**, **heat**, and **internal energy** and explain how they differ.\n- State and use the **zeroth law** and the **first law of thermodynamics**.\n- Describe **isothermal**, **isobaric**, **isochoric** and **adiabatic** processes.\n- Calculate **work done** by or on a gas using \\( W = p\\Delta V \\).\n- Use the relationship between molar heat capacities, **Mayer's equation** \\( C_p - C_V = R \\)."
+                },
+                {
+                  "type": "theory",
+                  "title": "Temperature, Heat and Internal Energy",
+                  "body": "**Temperature** is a measure of the average random **kinetic energy** of the particles in a body. Hotter means the particles move faster on average.\n\n**Heat** (symbol \\( Q \\)) is energy that flows from a hotter body to a colder body because of a temperature difference. A body does **not** contain heat; heat is energy *in transit*. This is why we say \"heating\", not \"adding heat\".\n\n**Internal energy** (symbol \\( U \\)) is the total of all the random kinetic and potential energies of the particles inside a system.\n\n**Why** does heat flow from hot to cold? Fast particles in the hot body collide with slow particles in the cold body and share their energy. On average, energy moves from the side with more energy to the side with less, until both are at the same temperature. This balanced state is called **thermal equilibrium**.\n\nThe **zeroth law of thermodynamics** says: *if body A is in thermal equilibrium with body B, and B is in thermal equilibrium with C, then A and C are in thermal equilibrium too.* This is what allows a thermometer to work.\n\n**The First Law of Thermodynamics**\n\nEnergy cannot be created or destroyed. For a system:\n\n$$ \\Delta U = \\Delta Q + \\Delta W $$\n\nwhere \\( \\Delta U \\) is the increase in internal energy, \\( \\Delta Q \\) is the energy added **to** the system by heating, and \\( \\Delta W \\) is the work done **on** the system. The work done **by** a gas as it expands is \\( W = p\\Delta V \\), so when a gas expands and pushes outward, \\( \\Delta W = -p\\Delta V \\).\n\n**Four important gas processes:**\n\n- **Isothermal** (constant temperature): \\( \\Delta U = 0 \\), so \\( \\Delta Q = -\\Delta W \\).\n- **Isobaric** (constant pressure): work is done as volume changes, \\( \\Delta U = \\Delta Q - p\\Delta V \\).\n- **Isochoric** (constant volume): no work done, \\( \\Delta U = \\Delta Q \\).\n- **Adiabatic** (no heat flow): \\( \\Delta Q = 0 \\), so \\( \\Delta U = \\Delta W \\).\n\n**Molar heat capacities:** The heat needed to raise one mole of gas by 1 K depends on the conditions. \\( C_p \\) is at constant pressure, \\( C_V \\) is at constant volume. Because a gas at constant pressure must also do work expanding, \\( C_p > C_V \\). For an ideal gas they are linked by **Mayer's equation**:\n\n$$ C_p - C_V = R $$\n\nwhere \\( R = 8.31 \\ \\text{J/mol K} \\) is the molar gas constant."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Work Done by an Expanding Gas",
+                  "body": "**Problem:** A gas inside a cylinder expands at a constant pressure of \\( 1.3 \\times 10^5 \\ \\text{Pa} \\). The volume increases by \\( 1.5 \\times 10^{-4} \\ \\text{m}^3 \\). The process is fast, so almost no heat escapes (adiabatic). The gas has mass \\( 6.5 \\times 10^{-4} \\ \\text{kg} \\) and specific heat capacity \\( 2200 \\ \\text{J/kg K} \\). Find the temperature change of the gas.\n\n**Step 1 — List the data with SI units.**\n- Pressure \\( p = 1.3 \\times 10^5 \\ \\text{Pa} \\)\n- Volume change \\( \\Delta V = 1.5 \\times 10^{-4} \\ \\text{m}^3 \\)\n- Mass \\( m = 6.5 \\times 10^{-4} \\ \\text{kg} \\)\n- Specific heat \\( c = 2200 \\ \\text{J/kg K} \\)\n\n**Step 2 — Find the work done by the gas.**\n$$ W = p\\Delta V = (1.3 \\times 10^5)(1.5 \\times 10^{-4}) = 19.5 \\ \\text{J} $$\n\n**Step 3 — Apply the first law (adiabatic, so \\( \\Delta Q = 0 \\)).**\nThe gas does work on its surroundings, so \\( \\Delta W = -19.5 \\ \\text{J} \\).\n$$ \\Delta U = \\Delta Q + \\Delta W = 0 + (-19.5) = -19.5 \\ \\text{J} $$\n\n**Step 4 — Relate the energy change to temperature.**\n$$ \\Delta U = mc\\Delta T $$\n$$ -19.5 = (6.5 \\times 10^{-4})(2200)\\Delta T $$\n$$ \\Delta T = \\frac{-19.5}{1.43} = -14 \\ \\text{K} $$\n\n**Answer:** The temperature falls by **14 K**. The gas cooled because it used its own internal energy to do work pushing the piston out."
+                },
+                {
+                  "type": "visual",
+                  "title": "p-V Diagram of Gas Processes",
+                  "body": "The diagram below shows the four key thermodynamic processes on a pressure-volume (p-V) graph. The **area under each line** equals the work done.",
+                  "visual": {
+                    "type": "motion-graph",
+                    "title": "p-V diagram of thermodynamic processes",
+                    "xLabel": "Volume V",
+                    "yLabel": "Pressure p",
+                    "caption": "Isobaric is a flat horizontal line (constant p). Isochoric is a vertical line (constant V). Isothermal is a curve. Adiabatic is a steeper curve than isothermal.",
+                    "curves": [
+                      {"label": "Isobaric (constant p)", "shape": "horizontal"},
+                      {"label": "Isochoric (constant V)", "shape": "vertical"},
+                      {"label": "Isothermal (constant T)", "shape": "hyperbola"},
+                      {"label": "Adiabatic (no heat flow)", "shape": "steep-hyperbola"}
+                    ]
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Confusing heat and temperature.** Temperature is how hot something is; heat is energy flowing because of a temperature difference. A large warm lake has more heat energy than a small boiling cup, even though the cup is hotter.\n- **Getting the sign of work wrong.** When a gas **expands**, it does work on the surroundings, so \\( \\Delta W \\) is **negative**. When a gas is **compressed**, work is done on it, so \\( \\Delta W \\) is **positive**.\n- **Saying a body \"contains heat\".** A body contains **internal energy**, not heat. Heat only exists while energy is flowing.\n- **Mixing up isothermal and adiabatic.** Isothermal means constant *temperature* (heat is allowed to flow). Adiabatic means no *heat flow* (temperature usually changes)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **The process names:** *iso* means \"same\". **Iso-thermal** = same *thermal* (temperature). **Iso-baric** = same *bar* (pressure, like the unit bar). **Iso-choric** = same *volume* (think \"choric\" = container). **A-diabatic** = \"a\" means \"not\", *dia-batic* from \"to pass through\" — no heat passes through.\n- **First law sign rule:** \"**Q in, W on**\" are positive. Energy going *into* the system is positive.\n- **Cp vs Cv:** \"**P is bigger**\" — at constant **P**ressure the gas also does work expanding, so \\( C_p > C_V \\) always."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "**Q1.** A gas is heated at constant volume. Energy added by heating is 500 J. What is the change in internal energy?\n*Answer:* Constant volume means \\( \\Delta W = 0 \\), so \\( \\Delta U = \\Delta Q = 500 \\ \\text{J} \\).\n\n**Q2.** A gas expands isobarically at \\( 2.0 \\times 10^5 \\ \\text{Pa} \\), increasing in volume by \\( 3.0 \\times 10^{-3} \\ \\text{m}^3 \\). How much work does the gas do?\n*Answer:* \\( W = p\\Delta V = (2.0 \\times 10^5)(3.0 \\times 10^{-3}) = 600 \\ \\text{J} \\).\n\n**Q3.** For an ideal gas, \\( C_V = 20.8 \\ \\text{J/mol K} \\). Use Mayer's equation to find \\( C_p \\).\n*Answer:* \\( C_p = C_V + R = 20.8 + 8.31 = 29.1 \\ \\text{J/mol K} \\).\n\n**Q4.** In an isothermal expansion, a gas absorbs 400 J of heat. How much work does the gas do?\n*Answer:* Isothermal means \\( \\Delta U = 0 \\), so \\( \\Delta Q = -\\Delta W \\). Work done by the gas = 400 J."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Temperature** measures average particle kinetic energy; **heat** is energy in transit; **internal energy** is the total energy of all particles.\n- **Zeroth law:** two bodies each in equilibrium with a third are in equilibrium with each other.\n- **First law:** \\( \\Delta U = \\Delta Q + \\Delta W \\).\n- **Isothermal:** \\( \\Delta U = 0 \\). **Isochoric:** \\( \\Delta W = 0 \\). **Adiabatic:** \\( \\Delta Q = 0 \\). **Isobaric:** uses \\( W = p\\Delta V \\).\n- **Mayer's equation:** \\( C_p - C_V = R \\), and \\( C_p > C_V \\) always."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson are defined below.",
+                  "glossary": [
+                    {"term": "Internal energy", "definition": "The total of all kinetic and potential energies of the particles inside a system."},
+                    {"term": "Heat (Q)", "definition": "Energy that flows from a hotter body to a colder body because of a temperature difference."},
+                    {"term": "Thermal equilibrium", "definition": "The state where two bodies are at the same temperature and no net energy flows between them."},
+                    {"term": "Adiabatic process", "definition": "A process in which no heat enters or leaves the system."},
+                    {"term": "Mayer's equation", "definition": "The relation Cp minus Cv equals R for an ideal gas."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "State the first law of thermodynamics.", "back": "The increase in internal energy equals heat added plus work done on the system: ΔU = ΔQ + ΔW."},
+                {"front": "What is the difference between heat and temperature?", "back": "Temperature measures the average kinetic energy of particles; heat is energy that flows because of a temperature difference."},
+                {"front": "What happens to internal energy in an isothermal process?", "back": "It stays constant (ΔU = 0), because temperature does not change."},
+                {"front": "Write Mayer's equation for an ideal gas.", "back": "Cp − Cv = R, where R = 8.31 J/mol K."},
+                {"front": "In an adiabatic process, what is ΔQ?", "back": "ΔQ = 0, because no heat enters or leaves the system."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "First law", "difficulty": "beginner", "type": "mcq", "prompt": "Which equation correctly states the first law of thermodynamics?", "options": ["ΔU = ΔQ + ΔW", "ΔU = ΔQ − ΔT", "ΔQ = mcΔV", "ΔW = ΔU × ΔT"], "answer": "0", "explanation": "The first law states the increase in internal energy equals heat added plus work done on the system: ΔU = ΔQ + ΔW."},
+            {"topic": "Gas processes", "difficulty": "beginner", "type": "mcq", "prompt": "A process that happens at constant temperature is called:", "options": ["Adiabatic", "Isobaric", "Isothermal", "Isochoric"], "answer": "2", "explanation": "'Iso' means same and 'thermal' refers to temperature, so isothermal means constant temperature."},
+            {"topic": "Work done", "difficulty": "medium", "type": "mcq", "prompt": "A gas expands at constant pressure 1.0 × 10^5 Pa, increasing its volume by 2.0 × 10^-3 m³. How much work does the gas do?", "options": ["50 J", "200 J", "20 J", "2000 J"], "answer": "1", "explanation": "W = pΔV = (1.0 × 10^5)(2.0 × 10^-3) = 200 J."},
+            {"topic": "Molar heat capacity", "difficulty": "medium", "type": "mcq", "prompt": "Why is Cp always greater than Cv for a gas?", "options": ["Pressure is always larger than volume", "At constant pressure the gas also does work expanding", "Constant volume gases lose heat faster", "Cv includes friction losses"], "answer": "1", "explanation": "At constant pressure, extra energy is needed because the gas expands and does work, so more heat is required for the same temperature rise."},
+            {"topic": "Adiabatic process", "difficulty": "difficult", "type": "mcq", "prompt": "A gas does 30 J of work as it expands rapidly with no heat exchange. What is the change in its internal energy?", "options": ["+30 J", "−30 J", "0 J", "+60 J"], "answer": "1", "explanation": "Adiabatic means ΔQ = 0. The gas does work, so ΔW = −30 J, and ΔU = 0 + (−30) = −30 J."},
+            {"topic": "Internal energy", "difficulty": "exam", "type": "mcq", "prompt": "A lump of lead falls and stops on the ground without rebounding. During the impact, what is ΔQ, ΔW and ΔU for the lead if the impact is sudden (no time for heat to escape)?", "options": ["ΔQ = 0, ΔW > 0, ΔU > 0", "ΔQ > 0, ΔW = 0, ΔU > 0", "ΔQ = 0, ΔW = 0, ΔU = 0", "ΔQ < 0, ΔW < 0, ΔU < 0"], "answer": "0", "explanation": "No time for heat exchange means ΔQ = 0. The impact does work on the lead (ΔW > 0), so its internal energy rises (ΔU > 0) and it warms up."}
+          ]
+        },
+        {
+          "title": "Oscillations and Waves",
+          "description": "How objects vibrate back and forth and how energy travels as waves through a medium.",
+          "lessons": [
+            {
+              "title": "Periodic Motion and Wave Behaviour",
+              "summary": "Understand simple harmonic motion, the link between period and frequency, and how transverse and longitudinal waves carry energy. Includes the wave equation and sound.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "A swinging pendulum, a vibrating guitar string, and the bob on a spring all repeat their motion again and again. This repeating motion is called **periodic motion**.\n\nWhen a vibration spreads out and carries energy from one place to another, we call it a **wave**. Sound reaching your ear, ripples on a pond, and light from the Sun are all waves. In this lesson we study the simplest and most important kind of vibration, **simple harmonic motion**, and then see how vibrations travel as waves."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Learning Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **period**, **frequency**, **amplitude** and **wavelength**.\n- Describe **simple harmonic motion (SHM)** and state its restoring-force condition.\n- Use \\( T = 1/f \\) to relate period and frequency.\n- Use the **wave equation** \\( v = f\\lambda \\) to solve problems.\n- Tell the difference between **transverse** and **longitudinal** waves, including sound."
+                },
+                {
+                  "type": "theory",
+                  "title": "Simple Harmonic Motion and Waves",
+                  "body": "**Simple harmonic motion (SHM)** is a special back-and-forth motion. It happens whenever the **restoring force** on an object is directed back toward the centre and is proportional to how far the object has moved from the centre:\n\n$$ F = -kx $$\n\nThe minus sign means the force always pulls the object *back* toward the middle. **Why** does this give smooth, repeating motion? As the object moves away, the force grows and slows it down, stops it, then pulls it back, speeding it up through the centre and out the other side. This cycle repeats forever (if there is no friction).\n\n**Key quantities:**\n- **Amplitude (A):** the maximum distance from the centre. Unit: metre (m).\n- **Period (T):** the time for one complete cycle. Unit: second (s).\n- **Frequency (f):** the number of cycles per second. Unit: hertz (Hz).\n\nPeriod and frequency are reciprocals:\n\n$$ T = \\frac{1}{f} $$\n\n**Waves** carry energy without carrying matter. The water in a pond moves up and down, but the wave (and its energy) travels outward.\n\n- A **transverse wave** vibrates *across* (perpendicular to) the direction the wave travels. Example: light, and waves on a string.\n- A **longitudinal wave** vibrates *along* (parallel to) the direction the wave travels, making compressions and rarefactions. Example: **sound**.\n\n**Wavelength (\\( \\lambda \\))** is the distance between two neighbouring crests (or compressions). The speed of any wave is given by the **wave equation**:\n\n$$ v = f\\lambda $$\n\nThis says: speed equals how many waves pass per second times the length of each wave. It works for every kind of wave."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Using the Wave Equation",
+                  "body": "**Problem:** A sound wave in air has a frequency of \\( 170 \\ \\text{Hz} \\). The speed of sound in air is \\( 340 \\ \\text{m/s} \\). Find the wavelength of the sound, and the period of the vibration.\n\n**Step 1 — List the data with SI units.**\n- Frequency \\( f = 170 \\ \\text{Hz} \\)\n- Wave speed \\( v = 340 \\ \\text{m/s} \\)\n\n**Step 2 — Rearrange the wave equation to find wavelength.**\n$$ v = f\\lambda \\quad\\Rightarrow\\quad \\lambda = \\frac{v}{f} $$\n$$ \\lambda = \\frac{340}{170} = 2.0 \\ \\text{m} $$\n\n**Step 3 — Find the period using \\( T = 1/f \\).**\n$$ T = \\frac{1}{f} = \\frac{1}{170} = 5.9 \\times 10^{-3} \\ \\text{s} $$\n\n**Answer:** The wavelength is **2.0 m** and the period is **5.9 ms** (0.0059 s). Each vibration takes about 6 milliseconds, and each wave is 2 metres long."
+                },
+                {
+                  "type": "visual",
+                  "title": "Displacement-Time Graph of SHM",
+                  "body": "The graph below shows how the displacement of an object in SHM changes with time. It is a smooth sine curve. The **amplitude** is the height of the curve; the **period** is the time for one full wave.",
+                  "visual": {
+                    "type": "motion-graph",
+                    "title": "Displacement vs time for simple harmonic motion",
+                    "xLabel": "Time t (s)",
+                    "yLabel": "Displacement x (m)",
+                    "caption": "A sine curve. Amplitude A is the maximum height above the centre line. Period T is the time between two matching points (e.g. two crests).",
+                    "curves": [
+                      {"label": "x = A sin(2πt / T)", "shape": "sine"}
+                    ]
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Confusing amplitude with wavelength.** Amplitude is *how far* the particle moves (height of the wave). Wavelength is *how long* one wave is (distance along the wave).\n- **Mixing up period and frequency.** Period is in **seconds** (time for one cycle); frequency is in **hertz** (cycles per second). They are reciprocals: \\( T = 1/f \\).\n- **Thinking waves carry matter.** Waves carry **energy**, not matter. The medium just vibrates in place.\n- **Calling sound a transverse wave.** Sound is **longitudinal** — the air vibrates back and forth along the direction the sound travels."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Transverse vs longitudinal:** *Trans* means \"across\" (like *trans*port across a country), so transverse waves vibrate **across** the motion. **Long**itudinal waves vibrate the **long** way — along the direction of travel.\n- **Wave equation:** Remember \"**very fancy lambda**\" for \\( v = f\\lambda \\).\n- **T = 1/f:** Time and frequency are upside-down of each other. If frequency doubles, period halves."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "**Q1.** A wave has a frequency of 50 Hz. What is its period?\n*Answer:* \\( T = 1/f = 1/50 = 0.02 \\ \\text{s} \\).\n\n**Q2.** A water wave travels at 6 m/s with a wavelength of 3 m. Find its frequency.\n*Answer:* \\( f = v/\\lambda = 6/3 = 2 \\ \\text{Hz} \\).\n\n**Q3.** A guitar string vibrates 256 times each second. What is its frequency, and is this sound transverse or longitudinal as it travels through air?\n*Answer:* Frequency = 256 Hz. The sound travelling through air is **longitudinal**.\n\n**Q4.** Light travels at \\( 3.0 \\times 10^8 \\ \\text{m/s} \\). If red light has a wavelength of \\( 7.0 \\times 10^{-7} \\ \\text{m} \\), find its frequency.\n*Answer:* \\( f = v/\\lambda = (3.0 \\times 10^8)/(7.0 \\times 10^{-7}) = 4.3 \\times 10^{14} \\ \\text{Hz} \\)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Periodic motion** repeats over and over; **SHM** is periodic motion with a restoring force \\( F = -kx \\).\n- **Period** \\( T \\) (seconds) and **frequency** \\( f \\) (hertz) are linked by \\( T = 1/f \\).\n- **Amplitude** is the maximum displacement; **wavelength** \\( \\lambda \\) is the length of one wave.\n- The **wave equation** is \\( v = f\\lambda \\) and works for all waves.\n- **Transverse** waves vibrate across the motion (light); **longitudinal** waves vibrate along it (sound)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson are defined below.",
+                  "glossary": [
+                    {"term": "Simple harmonic motion", "definition": "Back-and-forth motion where the restoring force is proportional to the displacement and directed toward the centre."},
+                    {"term": "Amplitude", "definition": "The maximum distance a vibrating object moves from its rest position."},
+                    {"term": "Period", "definition": "The time taken for one complete cycle of a vibration, measured in seconds."},
+                    {"term": "Frequency", "definition": "The number of complete cycles per second, measured in hertz (Hz)."},
+                    {"term": "Wavelength", "definition": "The distance between two neighbouring crests or compressions of a wave."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "Write the wave equation.", "back": "v = fλ, where v is wave speed, f is frequency and λ is wavelength."},
+                {"front": "How are period and frequency related?", "back": "They are reciprocals: T = 1/f."},
+                {"front": "What is the restoring-force condition for SHM?", "back": "F = −kx: the force is proportional to displacement and directed back toward the centre."},
+                {"front": "Is sound a transverse or longitudinal wave?", "back": "Longitudinal — the air vibrates back and forth along the direction the sound travels."},
+                {"front": "What does a wave transport?", "back": "Energy, not matter. The medium only vibrates in place."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Frequency and period", "difficulty": "beginner", "type": "mcq", "prompt": "A vibration has a frequency of 20 Hz. What is its period?", "options": ["20 s", "0.05 s", "5 s", "0.2 s"], "answer": "1", "explanation": "T = 1/f = 1/20 = 0.05 s."},
+            {"topic": "Wave types", "difficulty": "beginner", "type": "mcq", "prompt": "Which of the following is a longitudinal wave?", "options": ["Light", "A wave on a rope", "Sound", "A water surface ripple"], "answer": "2", "explanation": "Sound is longitudinal because the air particles vibrate along the direction the wave travels."},
+            {"topic": "Wave equation", "difficulty": "medium", "type": "mcq", "prompt": "A wave travels at 12 m/s with a frequency of 4 Hz. What is its wavelength?", "options": ["3 m", "48 m", "0.33 m", "16 m"], "answer": "0", "explanation": "λ = v/f = 12/4 = 3 m."},
+            {"topic": "SHM", "difficulty": "medium", "type": "mcq", "prompt": "In simple harmonic motion, where is the speed of the object greatest?", "options": ["At the maximum displacement", "At the centre (equilibrium)", "Speed is constant everywhere", "Just before the maximum"], "answer": "1", "explanation": "At the centre the restoring force has accelerated the object the most, so its speed is greatest there; at maximum displacement the speed is zero."},
+            {"topic": "Wave equation", "difficulty": "difficult", "type": "mcq", "prompt": "A radio wave has a frequency of 1.0 × 10^8 Hz and travels at 3.0 × 10^8 m/s. What is its wavelength?", "options": ["0.33 m", "3.0 m", "30 m", "3.3 × 10^16 m"], "answer": "1", "explanation": "λ = v/f = (3.0 × 10^8)/(1.0 × 10^8) = 3.0 m."},
+            {"topic": "Amplitude and energy", "difficulty": "exam", "type": "mcq", "prompt": "Two sound waves have the same frequency, but wave X has twice the amplitude of wave Y. Which statement is correct?", "options": ["X has a longer wavelength than Y", "X carries more energy and sounds louder", "X has a higher pitch than Y", "X travels faster than Y"], "answer": "1", "explanation": "Amplitude is linked to energy and loudness, not pitch or speed. Larger amplitude means more energy, so wave X sounds louder. Frequency (pitch) and speed are unchanged."}
+          ]
+        },
+        {
+          "title": "Wave Optics",
+          "description": "Treating light as a wave to explain reflection, refraction, interference and diffraction.",
+          "lessons": [
+            {
+              "title": "Light as a Wave: Interference and Diffraction",
+              "summary": "Discover how Huygens's principle, interference and diffraction prove that light behaves as a wave. Includes Young's double-slit experiment and the fringe-width formula.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Is light a stream of tiny particles, or a wave? For a long time scientists argued about this. The answer came from experiments showing that light can **interfere** and **spread out (diffract)** — behaviours only waves can show.\n\nIn this lesson we treat light as a wave. We will use **Huygens's principle** to understand how waves travel, then study **interference** and **diffraction**, including the famous **Young's double-slit experiment** that finally proved light is a wave."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Learning Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- State **Huygens's principle** and use it to describe a wavefront.\n- Explain **constructive** and **destructive interference**.\n- Describe **Young's double-slit experiment** and what it proves.\n- Use the **fringe-width formula** \\( y = \\dfrac{\\lambda L}{d} \\).\n- Explain **diffraction** and why a narrow slit spreads light more."
+                },
+                {
+                  "type": "theory",
+                  "title": "Wavefronts, Interference and Diffraction",
+                  "body": "A **wavefront** is a line (or surface) joining all the points of a wave that are vibrating together — for example, the crest of a water ripple.\n\n**Huygens's principle** says: *every point on a wavefront acts as a source of tiny secondary wavelets, and the new wavefront is the surface that touches all these wavelets.* This simple idea explains how waves travel, bend, and spread.\n\n**Interference** happens when two waves meet and overlap. Their displacements add together (this is called **superposition**).\n\n- **Constructive interference:** crest meets crest. The waves add up to make a bigger wave (bright light or loud sound). This happens when the **path difference** is a whole number of wavelengths: \\( 0, \\lambda, 2\\lambda, \\dots \\)\n- **Destructive interference:** crest meets trough. The waves cancel out (darkness or silence). This happens when the path difference is a half-wavelength: \\( \\tfrac{1}{2}\\lambda, \\tfrac{3}{2}\\lambda, \\dots \\)\n\n**Why** must the sources be **coherent**? For a steady pattern, the two waves must keep a constant phase relationship and have the same frequency. That is why a single source is split into two — to keep them in step.\n\n**Young's double-slit experiment:** Light passes through two narrow, close slits. The two beams overlap on a screen and produce alternating **bright and dark bands** called **fringes**. This pattern can *only* be explained by waves interfering, so it proves light is a wave.\n\nThe distance between neighbouring bright fringes (the **fringe width**) is:\n\n$$ y = \\frac{\\lambda L}{d} $$\n\nwhere \\( \\lambda \\) is the wavelength, \\( L \\) is the distance to the screen, and \\( d \\) is the gap between the slits.\n\n**Diffraction** is the spreading of a wave as it passes through a gap or around an edge. The narrower the gap (closer to the wavelength), the more the wave spreads. This is why you can hear someone around a corner even when you cannot see them — sound has a long wavelength and diffracts a lot."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Fringe Width in Young's Experiment",
+                  "body": "**Problem:** In a double-slit experiment, light of wavelength \\( 6.0 \\times 10^{-7} \\ \\text{m} \\) (600 nm) passes through two slits \\( 0.50 \\ \\text{mm} \\) apart. The screen is \\( 2.0 \\ \\text{m} \\) away. Find the distance between neighbouring bright fringes.\n\n**Step 1 — List the data and convert to SI units.**\n- Wavelength \\( \\lambda = 6.0 \\times 10^{-7} \\ \\text{m} \\)\n- Slit separation \\( d = 0.50 \\ \\text{mm} = 5.0 \\times 10^{-4} \\ \\text{m} \\)\n- Screen distance \\( L = 2.0 \\ \\text{m} \\)\n\n**Step 2 — Write the fringe-width formula.**\n$$ y = \\frac{\\lambda L}{d} $$\n\n**Step 3 — Substitute the values.**\n$$ y = \\frac{(6.0 \\times 10^{-7})(2.0)}{5.0 \\times 10^{-4}} $$\n\n**Step 4 — Calculate.**\n$$ y = \\frac{1.2 \\times 10^{-6}}{5.0 \\times 10^{-4}} = 2.4 \\times 10^{-3} \\ \\text{m} $$\n\n**Answer:** The fringe width is **2.4 mm**. The bright bands are 2.4 millimetres apart on the screen."
+                },
+                {
+                  "type": "visual",
+                  "title": "Intensity Pattern of Double-Slit Fringes",
+                  "body": "The graph below shows the brightness (intensity) of light on the screen in Young's experiment. The bright fringes are evenly spaced peaks; between them are dark fringes where the light cancels.",
+                  "visual": {
+                    "type": "motion-graph",
+                    "title": "Intensity vs position for double-slit interference",
+                    "xLabel": "Position on screen (mm)",
+                    "yLabel": "Light intensity",
+                    "caption": "A series of evenly spaced bright peaks (constructive interference) separated by dark gaps (destructive interference). The spacing between peaks is the fringe width y = λL/d.",
+                    "curves": [
+                      {"label": "Interference fringe pattern", "shape": "evenly-spaced-peaks"}
+                    ]
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Forgetting to convert units.** Slit separation is often in millimetres and wavelength in nanometres. Always convert to **metres** before using \\( y = \\lambda L / d \\).\n- **Swapping \\( d \\) and \\( L \\).** \\( d \\) is the tiny gap *between the slits*; \\( L \\) is the large distance to the *screen*. Mixing them gives a wildly wrong answer.\n- **Thinking bright fringes are where waves cancel.** Bright fringes are **constructive** (waves add); dark fringes are **destructive** (waves cancel).\n- **Forgetting coherence.** Two ordinary light bulbs will not make fringes — the sources must be **coherent** (constant phase difference)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Constructive vs destructive:** *Construct* means \"build up\" → waves build a bigger wave → bright. *Destruct* means \"tear down\" → waves cancel → dark.\n- **Fringe formula:** \"\\( y \\) equals **lambda L over d**\". The big screen distance \\( L \\) is on top (more distance = wider fringes); the small slit gap \\( d \\) is on the bottom (smaller gap = wider fringes).\n- **Diffraction:** \"**narrow gap, big spread**\". The smaller the opening, the more the wave fans out."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "**Q1.** Two slits are 0.20 mm apart, the screen is 1.5 m away, and the light has wavelength \\( 5.0 \\times 10^{-7} \\ \\text{m} \\). Find the fringe width.\n*Answer:* \\( y = \\lambda L/d = (5.0 \\times 10^{-7})(1.5)/(2.0 \\times 10^{-4}) = 3.75 \\times 10^{-3} \\ \\text{m} = 3.75 \\ \\text{mm} \\).\n\n**Q2.** Two waves meet with a path difference of exactly one wavelength. Is the result bright or dark?\n*Answer:* A whole wavelength means **constructive** interference, so it is **bright**.\n\n**Q3.** In Young's experiment, what happens to the fringe width if the screen is moved twice as far away?\n*Answer:* Since \\( y \\propto L \\), doubling \\( L \\) **doubles** the fringe width.\n\n**Q4.** Why can you hear around a corner but not see around it?\n*Answer:* Sound has a long wavelength and diffracts (spreads) a lot around the corner. Light has a tiny wavelength and diffracts very little, so it travels almost straight."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- A **wavefront** joins points vibrating together; **Huygens's principle** treats each point as a source of new wavelets.\n- **Interference:** constructive (bright, path difference = whole \\( \\lambda \\)) or destructive (dark, path difference = half \\( \\lambda \\)).\n- **Young's double-slit experiment** produces bright and dark fringes, proving light is a wave.\n- **Fringe width:** \\( y = \\dfrac{\\lambda L}{d} \\).\n- **Diffraction** is the spreading of waves through a gap; narrower gaps spread waves more.\n- Sources must be **coherent** to give a stable interference pattern."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson are defined below.",
+                  "glossary": [
+                    {"term": "Wavefront", "definition": "A surface joining all points of a wave that are vibrating in step."},
+                    {"term": "Interference", "definition": "The combining of two overlapping waves, where their displacements add together."},
+                    {"term": "Coherent sources", "definition": "Sources that have the same frequency and keep a constant phase difference."},
+                    {"term": "Fringe", "definition": "A bright or dark band formed by interference of light."},
+                    {"term": "Diffraction", "definition": "The spreading out of a wave as it passes through a gap or around an edge."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "Write the fringe-width formula for Young's double-slit experiment.", "back": "y = λL/d, where λ is wavelength, L is the slit-to-screen distance, and d is the slit separation."},
+                {"front": "What is constructive interference?", "back": "When crest meets crest and the waves add to make a bigger wave; path difference is a whole number of wavelengths."},
+                {"front": "What does Young's double-slit experiment prove?", "back": "That light behaves as a wave, because only waves can interfere to form bright and dark fringes."},
+                {"front": "State Huygens's principle.", "back": "Every point on a wavefront acts as a source of secondary wavelets; the new wavefront touches all these wavelets."},
+                {"front": "Why do narrow gaps cause more diffraction?", "back": "When the gap size is close to the wavelength, the wave spreads out more after passing through."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Interference", "difficulty": "beginner", "type": "mcq", "prompt": "When two crests of light meet, the result is:", "options": ["A dark fringe", "A bright fringe", "No light at all", "A coloured fringe only"], "answer": "1", "explanation": "Crest meeting crest is constructive interference, producing a bright fringe."},
+            {"topic": "Diffraction", "difficulty": "beginner", "type": "mcq", "prompt": "Diffraction is the:", "options": ["Bending of light at a surface", "Splitting of white light into colours", "Spreading of a wave through a gap or around an edge", "Reflection of a wave off a mirror"], "answer": "2", "explanation": "Diffraction is the spreading out of waves as they pass through a gap or around an obstacle."},
+            {"topic": "Fringe width", "difficulty": "medium", "type": "mcq", "prompt": "In Young's experiment, if the slit separation d is made smaller, the fringe width y will:", "options": ["Increase", "Decrease", "Stay the same", "Become zero"], "answer": "0", "explanation": "Since y = λL/d, d is in the denominator, so a smaller d gives a larger fringe width."},
+            {"topic": "Coherence", "difficulty": "medium", "type": "mcq", "prompt": "Why are two separate light bulbs unable to produce a stable interference pattern?", "options": ["They are too bright", "They are not coherent", "They have different colours only", "They are too far apart"], "answer": "1", "explanation": "Interference fringes need coherent sources with a constant phase difference; two separate bulbs do not keep a steady phase relationship."},
+            {"topic": "Fringe width", "difficulty": "difficult", "type": "mcq", "prompt": "Light of wavelength 5.0 × 10^-7 m passes through slits 1.0 mm apart onto a screen 2.0 m away. What is the fringe width?", "options": ["1.0 mm", "0.5 mm", "2.0 mm", "5.0 mm"], "answer": "0", "explanation": "y = λL/d = (5.0 × 10^-7 × 2.0) / (1.0 × 10^-3) = 1.0 × 10^-3 m = 1.0 mm."},
+            {"topic": "Interference condition", "difficulty": "exam", "type": "mcq", "prompt": "Two coherent light waves meet with a path difference of 1.5 wavelengths. What is observed at that point?", "options": ["A bright fringe", "A dark fringe", "Half brightness", "White light"], "answer": "1", "explanation": "A path difference of an odd number of half-wavelengths (1.5λ = 3 × ½λ) causes destructive interference, giving a dark fringe."}
+          ]
+        },
+        {
+          "title": "Electrostatics",
+          "description": "The study of electric charges at rest, the forces between them, and the fields they create.",
+          "lessons": [
+            {
+              "title": "Electric Charge, Coulomb's Law and Potential",
+              "summary": "Learn how electric charges attract and repel, calculate forces using Coulomb's law, and understand electric fields, potential, and capacitors.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "When you rub a plastic comb on your hair, it can pick up small pieces of paper. This is **static electricity** — electric charge that is not moving. The study of charges at rest is called **electrostatics**.\n\nIn this lesson we learn what electric charge is, how charges push and pull each other with a force described by **Coulomb's law**, and the ideas of **electric field** and **electric potential**. These ideas are the foundation for understanding all electricity."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Learning Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- State that charge comes in two types (**positive** and **negative**) and that like charges repel, unlike attract.\n- Use **Coulomb's law** \\( F = \\dfrac{kq_1q_2}{r^2} \\) to calculate the force between charges.\n- Define **electric field** \\( E = F/q \\) and **electric potential**.\n- Describe a **capacitor** and use \\( C = Q/V \\).\n- Recall the value of the elementary charge \\( e = 1.6 \\times 10^{-19} \\ \\text{C} \\)."
+                },
+                {
+                  "type": "theory",
+                  "title": "Charge, Coulomb's Law, Field and Potential",
+                  "body": "**Electric charge** is a basic property of matter. There are two kinds: **positive** (carried by protons) and **negative** (carried by electrons). The rule is simple: **like charges repel, unlike charges attract**.\n\nCharge is measured in **coulombs (C)**. The smallest unit of charge is the charge on one electron or proton, the **elementary charge**:\n\n$$ e = 1.6 \\times 10^{-19} \\ \\text{C} $$\n\n**Coulomb's law** tells us the size of the force between two point charges:\n\n$$ F = \\frac{kq_1q_2}{r^2} $$\n\nHere \\( q_1 \\) and \\( q_2 \\) are the charges, \\( r \\) is the distance between them, and \\( k = 9.0 \\times 10^9 \\ \\text{N m}^2/\\text{C}^2 \\) is Coulomb's constant.\n\n**Why** the \\( r^2 \\) on the bottom? This is an **inverse-square law**: if you double the distance, the force becomes four times weaker. The force spreads out over a sphere whose area grows as \\( r^2 \\).\n\n**Electric field (E):** Instead of thinking about forces directly, we say a charge creates an **electric field** around it. The field at a point is the force that would act on each coulomb of charge placed there:\n\n$$ E = \\frac{F}{q} $$\n\nIts unit is newtons per coulomb (N/C). Field lines point *away* from positive charges and *toward* negative charges.\n\n**Electric potential (V):** This is the electric potential energy per unit charge at a point, measured in **volts (V)**. The **potential difference** between two points is the work needed to move one coulomb of charge between them. Charges naturally move from high potential to low potential (for positive charge).\n\n**Capacitors:** A **capacitor** is a device that stores electric charge. It is two conducting plates separated by an insulator. The charge it stores depends on the voltage across it:\n\n$$ C = \\frac{Q}{V} $$\n\nwhere \\( C \\) is the **capacitance** in **farads (F)**, \\( Q \\) is the stored charge, and \\( V \\) is the voltage. A larger capacitance stores more charge for the same voltage."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Force Between Two Charges",
+                  "body": "**Problem:** Two small spheres carry charges of \\( +3.0 \\times 10^{-6} \\ \\text{C} \\) and \\( +2.0 \\times 10^{-6} \\ \\text{C} \\). They are \\( 0.20 \\ \\text{m} \\) apart. Find the force between them. (\\( k = 9.0 \\times 10^9 \\ \\text{N m}^2/\\text{C}^2 \\))\n\n**Step 1 — List the data with SI units.**\n- \\( q_1 = 3.0 \\times 10^{-6} \\ \\text{C} \\)\n- \\( q_2 = 2.0 \\times 10^{-6} \\ \\text{C} \\)\n- \\( r = 0.20 \\ \\text{m} \\)\n\n**Step 2 — Write Coulomb's law.**\n$$ F = \\frac{kq_1q_2}{r^2} $$\n\n**Step 3 — Substitute the values.**\n$$ F = \\frac{(9.0 \\times 10^9)(3.0 \\times 10^{-6})(2.0 \\times 10^{-6})}{(0.20)^2} $$\n\n**Step 4 — Calculate step by step.**\nTop: \\( (9.0 \\times 10^9)(3.0 \\times 10^{-6})(2.0 \\times 10^{-6}) = 5.4 \\times 10^{-2} \\)\nBottom: \\( (0.20)^2 = 0.040 \\)\n$$ F = \\frac{5.4 \\times 10^{-2}}{0.040} = 1.35 \\ \\text{N} $$\n\n**Answer:** The force is **1.35 N**. Because both charges are positive, the force is **repulsive** (they push apart)."
+                },
+                {
+                  "type": "visual",
+                  "title": "Electric Field Lines Around Charges",
+                  "body": "The diagram below shows the electric field around a single positive charge and a single negative charge. Field lines always point **away from positive** and **toward negative** charges.",
+                  "visual": {
+                    "type": "free-body",
+                    "title": "Electric field lines of point charges",
+                    "caption": "For a positive charge, arrows radiate outward in all directions. For a negative charge, arrows point inward toward the charge. The closer the lines, the stronger the field.",
+                    "objects": [
+                      {"label": "+q (positive charge)", "fieldDirection": "outward radial arrows"},
+                      {"label": "−q (negative charge)", "fieldDirection": "inward radial arrows"}
+                    ]
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Forgetting to square the distance.** Coulomb's law has \\( r^2 \\), not \\( r \\), in the denominator. Doubling the distance makes the force **four times** smaller, not two.\n- **Forgetting to convert microcoulombs.** \\( 1 \\ \\mu\\text{C} = 1 \\times 10^{-6} \\ \\text{C} \\). Always convert to coulombs first.\n- **Confusing field and force.** **Force** acts on a specific charge; **field** is the force *per unit charge* and exists even where no charge is placed.\n- **Mixing up potential and potential energy.** Potential is energy *per coulomb* (volts); potential energy is the total energy (joules)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Like and unlike:** \"**Like** charges **leap** apart (repel); **opposites attract**.\"\n- **Coulomb's law shape:** It looks just like Newton's law of gravity, but with charges instead of masses. \"Same shape, swap mass for charge.\"\n- **Field lines:** \"**Positive points out, negative needs in.**\" Arrows leave + and enter −.\n- **C = Q/V:** \"**Capacitor: Charge over Voltage.**\""
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "**Q1.** Two charges of \\( +4.0 \\times 10^{-6} \\ \\text{C} \\) each are 0.30 m apart. Find the force. (\\( k = 9.0 \\times 10^9 \\))\n*Answer:* \\( F = (9.0 \\times 10^9)(4.0 \\times 10^{-6})^2/(0.30)^2 = 1.6 \\ \\text{N} \\), repulsive.\n\n**Q2.** A capacitor stores \\( 6.0 \\times 10^{-4} \\ \\text{C} \\) when connected to 12 V. Find its capacitance.\n*Answer:* \\( C = Q/V = (6.0 \\times 10^{-4})/12 = 5.0 \\times 10^{-5} \\ \\text{F} = 50 \\ \\mu\\text{F} \\).\n\n**Q3.** The force on a charge of \\( 2.0 \\times 10^{-6} \\ \\text{C} \\) at a point is \\( 0.040 \\ \\text{N} \\). Find the electric field there.\n*Answer:* \\( E = F/q = 0.040/(2.0 \\times 10^{-6}) = 2.0 \\times 10^4 \\ \\text{N/C} \\).\n\n**Q4.** If the distance between two charges is tripled, by what factor does the force change?\n*Answer:* Force \\( \\propto 1/r^2 \\), so it becomes \\( 1/3^2 = 1/9 \\) as strong."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- There are two charges: **positive** and **negative**. Like repel, unlike attract.\n- The elementary charge is \\( e = 1.6 \\times 10^{-19} \\ \\text{C} \\).\n- **Coulomb's law:** \\( F = \\dfrac{kq_1q_2}{r^2} \\) (inverse-square law).\n- **Electric field:** \\( E = F/q \\), pointing away from + and toward −.\n- **Electric potential** is energy per unit charge, measured in volts.\n- **Capacitance:** \\( C = Q/V \\), measured in farads."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson are defined below.",
+                  "glossary": [
+                    {"term": "Electric charge", "definition": "A basic property of matter, either positive or negative, measured in coulombs."},
+                    {"term": "Coulomb's law", "definition": "The law giving the force between two point charges: F = kq₁q₂/r²."},
+                    {"term": "Electric field", "definition": "The force per unit charge at a point in space, measured in newtons per coulomb."},
+                    {"term": "Electric potential", "definition": "The electric potential energy per unit charge at a point, measured in volts."},
+                    {"term": "Capacitance", "definition": "The amount of charge a capacitor stores per volt, measured in farads (C = Q/V)."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "Write Coulomb's law.", "back": "F = kq₁q₂/r², where k = 9.0 × 10⁹ N m²/C², q are the charges and r is the distance."},
+                {"front": "What is the value of the elementary charge?", "back": "e = 1.6 × 10⁻¹⁹ C, the charge on one electron or proton."},
+                {"front": "Define electric field strength.", "back": "E = F/q, the force per unit charge, measured in N/C."},
+                {"front": "Write the capacitance formula.", "back": "C = Q/V, where C is capacitance (farads), Q is charge and V is voltage."},
+                {"front": "If the distance between two charges doubles, what happens to the force?", "back": "It becomes one quarter (1/4) as strong, because force depends on 1/r²."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Charge basics", "difficulty": "beginner", "type": "mcq", "prompt": "Two negatively charged objects are brought near each other. They will:", "options": ["Attract", "Repel", "Do nothing", "Become neutral"], "answer": "1", "explanation": "Like charges repel, so two negative charges push each other apart."},
+            {"topic": "Elementary charge", "difficulty": "beginner", "type": "mcq", "prompt": "What is the approximate charge on a single electron?", "options": ["1.6 × 10⁻¹⁹ C", "9.0 × 10⁹ C", "6.0 × 10²³ C", "1.6 × 10¹⁹ C"], "answer": "0", "explanation": "The elementary charge is 1.6 × 10⁻¹⁹ C, carried by an electron (negative) or proton (positive)."},
+            {"topic": "Coulomb's law", "difficulty": "medium", "type": "mcq", "prompt": "If the distance between two charges is doubled, the electric force between them becomes:", "options": ["Twice as large", "Half as large", "One quarter as large", "Four times as large"], "answer": "2", "explanation": "Coulomb's law is an inverse-square law (F ∝ 1/r²), so doubling r divides the force by 4."},
+            {"topic": "Capacitance", "difficulty": "medium", "type": "mcq", "prompt": "A capacitor stores 0.02 C of charge at 10 V. What is its capacitance?", "options": ["0.2 F", "0.002 F", "5 F", "200 F"], "answer": "1", "explanation": "C = Q/V = 0.02/10 = 0.002 F = 2 mF."},
+            {"topic": "Coulomb's law", "difficulty": "difficult", "type": "mcq", "prompt": "Two charges of 1.0 × 10⁻⁶ C each are 0.10 m apart. What is the force between them? (k = 9.0 × 10⁹)", "options": ["0.9 N", "9.0 N", "0.09 N", "90 N"], "answer": "0", "explanation": "F = (9.0 × 10⁹)(1.0 × 10⁻⁶)(1.0 × 10⁻⁶)/(0.10)² = (9.0 × 10⁻³)/0.01 = 0.9 N."},
+            {"topic": "Electric field", "difficulty": "exam", "type": "mcq", "prompt": "An electric field of 2000 N/C acts on a charge of 5.0 × 10⁻⁶ C. What force does the charge experience?", "options": ["0.01 N", "0.1 N", "400 N", "1.0 × 10⁻⁸ N"], "answer": "0", "explanation": "From E = F/q, the force is F = Eq = 2000 × 5.0 × 10⁻⁶ = 0.01 N."}
+          ]
+        },
+        {
+          "title": "Steady Electric Current and Circuit Properties",
+          "description": "How electric current flows in circuits and the rules that govern voltage, current and resistance.",
+          "lessons": [
+            {
+              "title": "Current, Ohm's Law and Kirchhoff's Rules",
+              "summary": "Master the basics of electric current, Ohm's law, resistance, and how to analyse circuits using Kirchhoff's current and voltage rules.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "When you switch on a light, electric charge flows through the wires and the bulb glows. This flow of charge is called **electric current**. The study of how current flows through wires and components is the study of **circuits**.\n\nIn this lesson we learn what current really is, how **voltage**, **current** and **resistance** are connected by **Ohm's law**, and the two powerful rules of **Kirchhoff** that let us analyse any circuit, no matter how complicated."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Learning Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **electric current** and use \\( I = Q/t \\).\n- State and use **Ohm's law** \\( V = IR \\).\n- Calculate combined **resistance** in series and parallel.\n- State and apply **Kirchhoff's current rule** and **voltage rule**.\n- Calculate **electrical power** using \\( P = VI \\)."
+                },
+                {
+                  "type": "theory",
+                  "title": "Current, Ohm's Law and Kirchhoff's Rules",
+                  "body": "**Electric current (I)** is the rate at which electric charge flows past a point. If charge \\( Q \\) flows in time \\( t \\):\n\n$$ I = \\frac{Q}{t} $$\n\nCurrent is measured in **amperes (A)**, where 1 ampere = 1 coulomb per second.\n\n**Why** does current flow? A battery provides a **potential difference (voltage)** that pushes the charges around the circuit, like a pump pushing water around a pipe.\n\n**Ohm's law** connects the voltage across a component, the current through it, and its **resistance**:\n\n$$ V = IR $$\n\nHere \\( V \\) is voltage (volts), \\( I \\) is current (amperes), and \\( R \\) is **resistance** (ohms, \\( \\Omega \\)). Resistance measures how hard it is for current to flow — a large resistance allows only a small current for a given voltage.\n\n**Combining resistors:**\n\n- **In series** (one after another), resistances add up:\n$$ R_{\\text{total}} = R_1 + R_2 + R_3 + \\dots $$\nThe same current flows through each.\n\n- **In parallel** (side by side), the reciprocals add:\n$$ \\frac{1}{R_{\\text{total}}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\dots $$\nThe total resistance is *less* than the smallest single resistor, because there are more paths for the current.\n\n**Kirchhoff's two rules** let us solve any circuit:\n\n1. **Current rule (junction rule):** *The total current flowing into a junction equals the total current flowing out.* This is because charge cannot pile up or disappear — it is conserved.\n\n2. **Voltage rule (loop rule):** *Around any closed loop, the sum of all the voltage rises equals the sum of all the voltage drops.* This is because energy is conserved — a charge returning to its start must have the same energy it began with.\n\n**Electrical power** — the rate at which a component uses energy — is:\n\n$$ P = VI $$\n\nmeasured in **watts (W)**. Using Ohm's law, this can also be written \\( P = I^2R \\) or \\( P = V^2/R \\)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Series and Parallel Resistors",
+                  "body": "**Problem:** A 12 V battery is connected to two resistors, \\( R_1 = 4.0 \\ \\Omega \\) and \\( R_2 = 2.0 \\ \\Omega \\). Find (a) the total resistance and total current if they are in **series**, and (b) the total resistance if they are in **parallel**.\n\n**Part (a) — Series**\n\n**Step 1 — Add the resistances.**\n$$ R_{\\text{total}} = R_1 + R_2 = 4.0 + 2.0 = 6.0 \\ \\Omega $$\n\n**Step 2 — Use Ohm's law to find the current.**\n$$ I = \\frac{V}{R} = \\frac{12}{6.0} = 2.0 \\ \\text{A} $$\n\n**Part (b) — Parallel**\n\n**Step 3 — Add the reciprocals.**\n$$ \\frac{1}{R_{\\text{total}}} = \\frac{1}{4.0} + \\frac{1}{2.0} = 0.25 + 0.50 = 0.75 $$\n\n**Step 4 — Take the reciprocal.**\n$$ R_{\\text{total}} = \\frac{1}{0.75} = 1.3 \\ \\Omega $$\n\n**Answer:** In series, total resistance is **6.0 Ω** and current is **2.0 A**. In parallel, total resistance is **1.3 Ω** — smaller than either resistor, because parallel paths make it easier for current to flow."
+                },
+                {
+                  "type": "visual",
+                  "title": "Series and Parallel Circuit Diagrams",
+                  "body": "The diagram below compares a series circuit (resistors one after another) with a parallel circuit (resistors side by side). Notice how the current splits at the junctions in the parallel circuit.",
+                  "visual": {
+                    "type": "circuit",
+                    "title": "Series vs parallel resistor circuits",
+                    "caption": "Series: one loop, same current everywhere, resistances add. Parallel: current splits at junctions and rejoins; total resistance is smaller than the smallest resistor.",
+                    "components": [
+                      {"type": "battery", "label": "12 V"},
+                      {"type": "resistor", "label": "R1 = 4 Ω"},
+                      {"type": "resistor", "label": "R2 = 2 Ω"}
+                    ],
+                    "arrangements": ["series", "parallel"]
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Adding parallel resistors directly.** In parallel you must add the **reciprocals** \\( (1/R) \\), then flip the answer. The total is always *smaller* than the smallest resistor.\n- **Forgetting that series current is the same everywhere.** In a series circuit, the same current flows through every component.\n- **Mixing up the two Kirchhoff rules.** The **current rule** is about junctions (charge conserved). The **voltage rule** is about loops (energy conserved).\n- **Power formula slips.** \\( P = VI \\). If you only know current and resistance, use \\( P = I^2R \\); if only voltage and resistance, use \\( P = V^2/R \\)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Ohm's law triangle:** Put \\( V \\) on top, \\( I \\) and \\( R \\) on the bottom. Cover the one you want: \\( V = IR \\), \\( I = V/R \\), \\( R = V/I \\).\n- **Series vs parallel:** \"**Series adds up; parallel comes down.**\" Series resistance grows, parallel resistance shrinks.\n- **Kirchhoff:** \"**Junctions for current, Loops for voltage.**\" (Charge in = charge out at junctions; energy balances around loops.)\n- **Power:** \"**Power = Volts times Amps**\" (\\( P = VI \\))."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "**Q1.** A charge of 30 C flows through a wire in 10 s. Find the current.\n*Answer:* \\( I = Q/t = 30/10 = 3.0 \\ \\text{A} \\).\n\n**Q2.** A 6.0 V battery drives a current of 2.0 A through a resistor. Find the resistance.\n*Answer:* \\( R = V/I = 6.0/2.0 = 3.0 \\ \\Omega \\).\n\n**Q3.** Two resistors of 3.0 Ω and 6.0 Ω are connected in parallel. Find the total resistance.\n*Answer:* \\( 1/R = 1/3 + 1/6 = 0.5 \\), so \\( R = 2.0 \\ \\Omega \\).\n\n**Q4.** A bulb operates at 12 V and draws 0.50 A. Find the power it uses.\n*Answer:* \\( P = VI = 12 \\times 0.50 = 6.0 \\ \\text{W} \\)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Current** is the rate of flow of charge: \\( I = Q/t \\), measured in amperes.\n- **Ohm's law:** \\( V = IR \\).\n- **Series:** resistances add (\\( R = R_1 + R_2 \\)); same current everywhere.\n- **Parallel:** reciprocals add (\\( 1/R = 1/R_1 + 1/R_2 \\)); total is smaller than the smallest.\n- **Kirchhoff's current rule:** current in = current out at a junction.\n- **Kirchhoff's voltage rule:** voltage rises = voltage drops around a loop.\n- **Power:** \\( P = VI = I^2R = V^2/R \\)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson are defined below.",
+                  "glossary": [
+                    {"term": "Electric current", "definition": "The rate of flow of electric charge, measured in amperes (I = Q/t)."},
+                    {"term": "Ohm's law", "definition": "The rule that voltage equals current times resistance: V = IR."},
+                    {"term": "Resistance", "definition": "A measure of how strongly a component opposes the flow of current, measured in ohms."},
+                    {"term": "Kirchhoff's current rule", "definition": "The total current entering a junction equals the total current leaving it."},
+                    {"term": "Kirchhoff's voltage rule", "definition": "Around any closed loop, the sum of voltage rises equals the sum of voltage drops."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "Write the formula for electric current.", "back": "I = Q/t, current equals charge divided by time, measured in amperes."},
+                {"front": "State Ohm's law.", "back": "V = IR: voltage equals current times resistance."},
+                {"front": "How do you combine resistors in parallel?", "back": "Add the reciprocals: 1/R = 1/R₁ + 1/R₂, then take the reciprocal. The total is smaller than the smallest resistor."},
+                {"front": "State Kirchhoff's current rule.", "back": "The total current flowing into a junction equals the total current flowing out (charge is conserved)."},
+                {"front": "Write three formulas for electrical power.", "back": "P = VI = I²R = V²/R, measured in watts."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Current", "difficulty": "beginner", "type": "mcq", "prompt": "Electric current is best defined as:", "options": ["The rate of flow of charge", "The voltage across a wire", "The resistance of a circuit", "The energy stored in a battery"], "answer": "0", "explanation": "Current is the rate of flow of charge, I = Q/t, measured in amperes."},
+            {"topic": "Ohm's law", "difficulty": "beginner", "type": "mcq", "prompt": "A 10 V supply drives a current of 2 A through a resistor. What is its resistance?", "options": ["20 Ω", "5 Ω", "0.2 Ω", "12 Ω"], "answer": "1", "explanation": "R = V/I = 10/2 = 5 Ω."},
+            {"topic": "Series resistance", "difficulty": "medium", "type": "mcq", "prompt": "Three resistors of 2 Ω, 3 Ω and 5 Ω are connected in series. What is the total resistance?", "options": ["10 Ω", "0.97 Ω", "3.3 Ω", "1 Ω"], "answer": "0", "explanation": "In series, resistances add: 2 + 3 + 5 = 10 Ω."},
+            {"topic": "Parallel resistance", "difficulty": "medium", "type": "mcq", "prompt": "Two 4 Ω resistors are connected in parallel. What is the total resistance?", "options": ["8 Ω", "4 Ω", "2 Ω", "0.5 Ω"], "answer": "2", "explanation": "1/R = 1/4 + 1/4 = 1/2, so R = 2 Ω. For two equal resistors in parallel, the total is half of one."},
+            {"topic": "Power", "difficulty": "difficult", "type": "mcq", "prompt": "A current of 3 A flows through a 4 Ω resistor. What power is dissipated?", "options": ["12 W", "36 W", "48 W", "1.3 W"], "answer": "1", "explanation": "P = I²R = (3)² × 4 = 9 × 4 = 36 W."},
+            {"topic": "Kirchhoff's rules", "difficulty": "exam", "type": "mcq", "prompt": "At a junction, 5 A flows in along one wire and 2 A flows in along another. If only one wire carries current out, how much current flows out?", "options": ["3 A", "5 A", "7 A", "10 A"], "answer": "2", "explanation": "By Kirchhoff's current rule, current in = current out, so 5 + 2 = 7 A flows out."}
+          ]
+        },
+        {
+          "title": "Magnetism",
+          "description": "Magnetic fields, the forces they exert on moving charges and currents, and the laws governing them.",
+          "lessons": [
+            {
+              "title": "Magnetic Fields and Forces on Currents",
+              "summary": "Explore magnetic fields, the force on a moving charge and a current-carrying wire, and how to find their directions using the right-hand rule.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "A compass needle always points north because the Earth itself is a giant magnet. Magnets attract iron and can push or pull each other without touching. The region around a magnet where it has an effect is called a **magnetic field**.\n\nIn this lesson we learn what a magnetic field is, how it pushes on **moving charges** and on **electric currents**, and how to find the direction of these forces. This is the science behind electric motors, loudspeakers and generators."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Learning Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Describe a **magnetic field** and draw field lines around a magnet.\n- Use \\( F = qvB\\sin\\theta \\) for the force on a moving charge.\n- Use \\( F = BIL\\sin\\theta \\) for the force on a current-carrying wire.\n- Apply the **right-hand rule** to find the direction of the force.\n- Explain how the Earth behaves as a magnet."
+                },
+                {
+                  "type": "theory",
+                  "title": "Magnetic Fields and the Forces They Cause",
+                  "body": "A **magnetic field** is the region around a magnet or a current where a magnetic force is felt. Its strength is measured in **tesla (T)** and given the symbol \\( B \\). Field lines come **out of the north pole** and go **into the south pole** of a magnet.\n\n**Why** do magnets affect each other? Moving charges (and the tiny currents inside atoms) create magnetic fields, and these fields push on other moving charges.\n\n**Force on a moving charge:** A charge \\( q \\) moving with speed \\( v \\) through a magnetic field \\( B \\) feels a force:\n\n$$ F = qvB\\sin\\theta $$\n\nwhere \\( \\theta \\) is the angle between the velocity and the field. The force is **greatest when the charge moves at 90° to the field** (\\( \\sin 90° = 1 \\)) and **zero when it moves along the field** (\\( \\sin 0° = 0 \\)).\n\nImportantly, the magnetic force is always **perpendicular** to the motion. This means it changes the *direction* of a moving charge but not its *speed*, so charged particles move in **circles** in a uniform magnetic field.\n\n**Force on a current-carrying wire:** Because a current is moving charge, a wire carrying current \\( I \\) in a magnetic field also feels a force:\n\n$$ F = BIL\\sin\\theta $$\n\nwhere \\( L \\) is the length of wire in the field. This force is what makes an **electric motor** spin.\n\n**Finding the direction — the right-hand rule:** Point your right hand's fingers in the direction of the current (or the velocity of a positive charge), then curl them toward the field \\( B \\); your thumb points in the direction of the force. (Different textbooks use slightly different versions, but they all give the same physical result: force, field and current are mutually perpendicular.)\n\n**The Earth as a magnet:** The Earth has a magnetic field, as if a huge bar magnet sat inside it. This is why a compass needle lines up north-south. The Earth's magnetic field also protects us by deflecting charged particles from the Sun."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Force on a Current-Carrying Wire",
+                  "body": "**Problem:** A straight wire of length \\( 0.25 \\ \\text{m} \\) carries a current of \\( 4.0 \\ \\text{A} \\). It lies at right angles (90°) to a magnetic field of strength \\( 0.30 \\ \\text{T} \\). Find the force on the wire.\n\n**Step 1 — List the data with SI units.**\n- Length \\( L = 0.25 \\ \\text{m} \\)\n- Current \\( I = 4.0 \\ \\text{A} \\)\n- Field \\( B = 0.30 \\ \\text{T} \\)\n- Angle \\( \\theta = 90° \\), so \\( \\sin\\theta = 1 \\)\n\n**Step 2 — Write the formula.**\n$$ F = BIL\\sin\\theta $$\n\n**Step 3 — Substitute the values.**\n$$ F = (0.30)(4.0)(0.25)(1) $$\n\n**Step 4 — Calculate.**\n$$ F = 0.30 \\ \\text{N} $$\n\n**Answer:** The force on the wire is **0.30 N**. Because the wire is at 90° to the field, this is the maximum possible force. If the wire were parallel to the field, the force would be zero."
+                },
+                {
+                  "type": "visual",
+                  "title": "Force on a Charge Moving in a Magnetic Field",
+                  "body": "The diagram below shows a positive charge moving through a magnetic field that points into the page. The magnetic force is perpendicular to both the velocity and the field, so the charge curves into a circular path.",
+                  "visual": {
+                    "type": "free-body",
+                    "title": "Force on a moving charge in a magnetic field",
+                    "caption": "Velocity v points right, field B points into the page, and the force F on a positive charge points upward (perpendicular to both). Because F is always perpendicular to v, the charge moves in a circle.",
+                    "objects": [
+                      {"label": "Velocity v", "direction": "to the right"},
+                      {"label": "Magnetic field B", "direction": "into the page"},
+                      {"label": "Force F = qvB", "direction": "upward (perpendicular)"}
+                    ]
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Forgetting the sin θ.** When the charge or wire is at an angle to the field, you must include \\( \\sin\\theta \\). The force is maximum at 90° and zero at 0° (parallel).\n- **Thinking the magnetic force changes speed.** The magnetic force on a moving charge is always perpendicular to its motion, so it changes only direction, not speed.\n- **Confusing field direction.** Field lines go **out of north** and **into south**. Inside the magnet they go from south to north.\n- **Forgetting the force is perpendicular.** Force, field, and current/velocity are all at right angles to each other — use the right-hand rule carefully."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Field line direction:** \"**North out, South in.**\" Lines leave the north pole and enter the south pole.\n- **When is the force biggest?** \"**90° is mighty, 0° is nothing.**\" Maximum force at right angles, zero force when parallel.\n- **Right-hand rule:** point fingers along the current, curl toward \\( B \\), thumb gives the force. \"Fingers flow, curl to field, thumb feels the force.\"\n- **Circular motion:** \"Magnetic force steers but never speeds.\" It bends the path into a circle."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "**Q1.** A wire of length 0.50 m carries 3.0 A at 90° to a 0.20 T field. Find the force.\n*Answer:* \\( F = BIL = (0.20)(3.0)(0.50) = 0.30 \\ \\text{N} \\).\n\n**Q2.** A charge of \\( 2.0 \\times 10^{-6} \\ \\text{C} \\) moves at \\( 5.0 \\times 10^4 \\ \\text{m/s} \\) at 90° to a 0.10 T field. Find the force.\n*Answer:* \\( F = qvB = (2.0 \\times 10^{-6})(5.0 \\times 10^4)(0.10) = 1.0 \\times 10^{-2} \\ \\text{N} \\).\n\n**Q3.** A wire carries current parallel to a magnetic field. What force does it feel?\n*Answer:* Zero, because \\( \\sin 0° = 0 \\).\n\n**Q4.** Why does a charged particle move in a circle in a uniform magnetic field?\n*Answer:* The magnetic force is always perpendicular to the velocity, so it constantly changes the direction (but not the speed), producing circular motion."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- A **magnetic field** \\( B \\) is measured in **tesla**; field lines go out of the north pole, into the south pole.\n- **Force on a moving charge:** \\( F = qvB\\sin\\theta \\).\n- **Force on a current-carrying wire:** \\( F = BIL\\sin\\theta \\).\n- The force is **maximum at 90°** and **zero when parallel** to the field.\n- The magnetic force is always **perpendicular** to the motion, so charges move in **circles**.\n- The **Earth** behaves like a giant bar magnet, which is why compasses point north."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson are defined below.",
+                  "glossary": [
+                    {"term": "Magnetic field", "definition": "The region around a magnet or current where a magnetic force is felt, measured in tesla (T)."},
+                    {"term": "Tesla", "definition": "The SI unit of magnetic field strength."},
+                    {"term": "Right-hand rule", "definition": "A method using the right hand to find the direction of the magnetic force on a current or moving charge."},
+                    {"term": "Magnetic force", "definition": "The push or pull a magnetic field exerts on a moving charge or current, always perpendicular to the motion."},
+                    {"term": "Magnetic pole", "definition": "A region of a magnet (north or south) where the magnetic field is strongest."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "Write the formula for the force on a moving charge in a magnetic field.", "back": "F = qvB sin θ, where q is charge, v is speed, B is field strength and θ is the angle between v and B."},
+                {"front": "Write the formula for the force on a current-carrying wire.", "back": "F = BIL sin θ, where I is current, L is the length of wire in the field."},
+                {"front": "In which direction do magnetic field lines point?", "back": "Out of the north pole and into the south pole (outside the magnet)."},
+                {"front": "Why does a magnetic force not change a charge's speed?", "back": "Because it is always perpendicular to the velocity, so it changes direction only, producing circular motion."},
+                {"front": "When is the magnetic force on a wire greatest?", "back": "When the wire is at 90° to the field, because sin 90° = 1; it is zero when parallel (sin 0° = 0)."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Magnetic field", "difficulty": "beginner", "type": "mcq", "prompt": "Magnetic field lines point:", "options": ["Into the north pole, out of the south pole", "Out of the north pole, into the south pole", "Only inside the magnet", "In random directions"], "answer": "1", "explanation": "Outside a magnet, field lines emerge from the north pole and enter the south pole."},
+            {"topic": "Units", "difficulty": "beginner", "type": "mcq", "prompt": "What is the SI unit of magnetic field strength?", "options": ["Newton", "Ampere", "Tesla", "Weber"], "answer": "2", "explanation": "Magnetic field strength B is measured in tesla (T)."},
+            {"topic": "Force on wire", "difficulty": "medium", "type": "mcq", "prompt": "A 0.40 m wire carries 5.0 A at 90° to a 0.10 T field. What is the force on it?", "options": ["0.20 N", "2.0 N", "0.02 N", "20 N"], "answer": "0", "explanation": "F = BIL sin 90° = (0.10)(5.0)(0.40)(1) = 0.20 N."},
+            {"topic": "Direction of motion", "difficulty": "medium", "type": "mcq", "prompt": "A charged particle moves in a uniform magnetic field. The magnetic force on it:", "options": ["Speeds it up", "Slows it down", "Changes its direction but not its speed", "Has no effect"], "answer": "2", "explanation": "The magnetic force is always perpendicular to velocity, so it changes direction (causing circular motion) but not speed."},
+            {"topic": "Force on charge", "difficulty": "difficult", "type": "mcq", "prompt": "A charge of 4.0 × 10⁻⁶ C moves at 2.0 × 10⁵ m/s perpendicular to a 0.50 T field. What is the magnetic force?", "options": ["0.4 N", "0.04 N", "4.0 N", "0.004 N"], "answer": "0", "explanation": "F = qvB = (4.0 × 10⁻⁶)(2.0 × 10⁵)(0.50) = 0.4 N."},
+            {"topic": "Angle effect", "difficulty": "exam", "type": "mcq", "prompt": "A wire carrying current is placed parallel to a magnetic field. What is the force on the wire?", "options": ["Maximum", "Half the maximum", "Zero", "Equal to BIL"], "answer": "2", "explanation": "When the wire is parallel to the field, θ = 0°, and sin 0° = 0, so F = BIL sin 0° = 0."}
+          ]
+        },
+        {
+          "title": "Electromagnetic Induction and A.C. Circuits",
+          "description": "How changing magnetic fields create electricity, and how alternating current powers generators and transformers.",
+          "lessons": [
+            {
+              "title": "Electromagnetic Induction and Alternating Current",
+              "summary": "Understand how a changing magnetic field induces a voltage (Faraday's and Lenz's laws), and how generators, transformers and alternating current work.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "If you move a magnet in and out of a coil of wire, a voltage appears and a current flows — even though there is no battery! This amazing discovery, made by Michael Faraday, is called **electromagnetic induction**. It is how almost all the world's electricity is generated.\n\nIn this lesson we learn how a changing magnetic field creates a voltage (**Faraday's law**), which way the induced current flows (**Lenz's law**), and how this powers **generators** and **transformers** that supply **alternating current (a.c.)** to our homes."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Learning Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **magnetic flux** and **electromagnetic induction**.\n- State and use **Faraday's law** of induction.\n- Apply **Lenz's law** to find the direction of an induced current.\n- Explain how an a.c. **generator** and a **transformer** work.\n- Use the **transformer equation** \\( \\dfrac{V_s}{V_p} = \\dfrac{N_s}{N_p} \\)."
+                },
+                {
+                  "type": "theory",
+                  "title": "Induction, Faraday's Law and Transformers",
+                  "body": "**Magnetic flux (\\( \\Phi \\))** is a measure of how much magnetic field passes through a loop or coil. It depends on the field strength and the area: \\( \\Phi = BA \\) (when the field is perpendicular to the loop). It is measured in **webers (Wb)**.\n\n**Electromagnetic induction** is the production of a voltage (called an **electromotive force**, or e.m.f.) by a *changing* magnetic flux. The key word is **changing** — a steady field does nothing.\n\n**Faraday's law** states: *the induced e.m.f. is equal to the rate of change of magnetic flux.* For a coil of \\( N \\) turns:\n\n$$ \\varepsilon = -N\\frac{\\Delta \\Phi}{\\Delta t} $$\n\nThe faster the flux changes, the bigger the voltage. **Why** does this happen? A changing magnetic field pushes on the free charges in the wire, driving them around the circuit.\n\n**Lenz's law** explains the minus sign and tells us the *direction* of the induced current: *the induced current always flows in the direction that opposes the change causing it.* For example, if you push a magnet's north pole toward a coil, the coil makes its own north pole to push back. This is really conservation of energy — you must do work against this opposition to generate electricity.\n\n**The a.c. generator:** A coil is spun inside a magnetic field. As it rotates, the flux through it keeps changing, so an e.m.f. is induced that reverses direction every half-turn. This produces **alternating current (a.c.)** — current that flows back and forth, changing direction many times per second.\n\n**The transformer:** A transformer changes the size of an a.c. voltage. It has two coils wound on an iron core: a **primary** coil (input) and a **secondary** coil (output). An alternating current in the primary makes a changing flux in the iron core, which induces a voltage in the secondary. The voltages depend on the number of turns:\n\n$$ \\frac{V_s}{V_p} = \\frac{N_s}{N_p} $$\n\nIf the secondary has more turns, it is a **step-up** transformer (voltage increases). If fewer, it is a **step-down** transformer. Transformers let us send electricity efficiently over long distances at high voltage, then lower it for safe use at home."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Transformer Voltage",
+                  "body": "**Problem:** A transformer has a primary coil of \\( 200 \\) turns connected to a \\( 240 \\ \\text{V} \\) a.c. supply. The secondary coil has \\( 50 \\) turns. Find the output voltage, and state whether it is a step-up or step-down transformer.\n\n**Step 1 — List the data.**\n- Primary turns \\( N_p = 200 \\)\n- Primary voltage \\( V_p = 240 \\ \\text{V} \\)\n- Secondary turns \\( N_s = 50 \\)\n\n**Step 2 — Write the transformer equation.**\n$$ \\frac{V_s}{V_p} = \\frac{N_s}{N_p} $$\n\n**Step 3 — Rearrange to find \\( V_s \\).**\n$$ V_s = V_p \\times \\frac{N_s}{N_p} $$\n\n**Step 4 — Substitute and calculate.**\n$$ V_s = 240 \\times \\frac{50}{200} = 240 \\times 0.25 = 60 \\ \\text{V} $$\n\n**Answer:** The output voltage is **60 V**. Since the secondary has fewer turns and the voltage went down, this is a **step-down transformer**."
+                },
+                {
+                  "type": "visual",
+                  "title": "A.C. Voltage from a Generator",
+                  "body": "The graph below shows the alternating voltage produced by an a.c. generator as its coil spins. The voltage rises and falls smoothly, reversing direction every half-turn, tracing a sine curve.",
+                  "visual": {
+                    "type": "motion-graph",
+                    "title": "Alternating voltage vs time from an a.c. generator",
+                    "xLabel": "Time t (s)",
+                    "yLabel": "Voltage V (volts)",
+                    "caption": "A sine curve crossing zero twice per cycle. The peak is the maximum voltage; the curve goes positive then negative as the coil's flux changes direction each half-turn.",
+                    "curves": [
+                      {"label": "V = V₀ sin(2πft)", "shape": "sine"}
+                    ]
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Thinking a steady field induces a voltage.** Only a **changing** magnetic flux induces an e.m.f. A magnet held still inside a coil produces nothing.\n- **Forgetting the minus sign (Lenz's law).** The induced current always **opposes** the change that caused it. Leaving this out gives the wrong direction.\n- **Inverting the transformer ratio.** Remember \\( V_s/V_p = N_s/N_p \\) — secondary over primary on both sides. Keep them matched.\n- **Using transformers with d.c.** Transformers need *changing* flux, so they only work with **a.c.**, not steady direct current."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Faraday in one phrase:** \"**Change makes voltage.**\" No change in flux means no induced e.m.f.\n- **Lenz's law:** \"**Nature opposes change.**\" The induced current always fights the change that made it.\n- **Transformer ratio:** \"**Volts follow turns**\" — more turns, more volts. \\( V_s/V_p = N_s/N_p \\).\n- **Step-up vs step-down:** \"More turns **up**, fewer turns **down**.\""
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "**Q1.** A transformer has 100 primary turns and 400 secondary turns, with 50 V on the primary. Find the secondary voltage.\n*Answer:* \\( V_s = V_p \\times N_s/N_p = 50 \\times 400/100 = 200 \\ \\text{V} \\) (step-up).\n\n**Q2.** The magnetic flux through a single-turn coil changes from 0.20 Wb to 0.50 Wb in 0.10 s. Find the induced e.m.f. (size only).\n*Answer:* \\( \\varepsilon = N\\,\\Delta\\Phi/\\Delta t = 1 \\times (0.30)/(0.10) = 3.0 \\ \\text{V} \\).\n\n**Q3.** Why does a transformer not work with a steady d.c. supply?\n*Answer:* A steady current gives constant flux, and only a changing flux induces a voltage in the secondary.\n\n**Q4.** A magnet's north pole is pushed toward a coil. Which pole does the coil's near face become?\n*Answer:* A north pole, to oppose the approaching magnet (Lenz's law)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Magnetic flux** \\( \\Phi = BA \\) measures field passing through a coil (webers).\n- **Electromagnetic induction:** a *changing* flux induces a voltage (e.m.f.).\n- **Faraday's law:** \\( \\varepsilon = -N\\,\\Delta\\Phi/\\Delta t \\) — faster change means bigger voltage.\n- **Lenz's law:** the induced current opposes the change causing it (conservation of energy).\n- An **a.c. generator** spins a coil in a field to make alternating current.\n- **Transformer equation:** \\( V_s/V_p = N_s/N_p \\); step-up adds turns, step-down removes them. Works only with a.c."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson are defined below.",
+                  "glossary": [
+                    {"term": "Magnetic flux", "definition": "A measure of how much magnetic field passes through a loop or coil, measured in webers (Φ = BA)."},
+                    {"term": "Electromagnetic induction", "definition": "The production of a voltage by a changing magnetic flux."},
+                    {"term": "Faraday's law", "definition": "The induced e.m.f. equals the rate of change of magnetic flux."},
+                    {"term": "Lenz's law", "definition": "The induced current always flows in the direction that opposes the change causing it."},
+                    {"term": "Transformer", "definition": "A device that changes the size of an a.c. voltage using two coils on an iron core."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "State Faraday's law of induction.", "back": "The induced e.m.f. equals the rate of change of magnetic flux: ε = −N(ΔΦ/Δt)."},
+                {"front": "State Lenz's law.", "back": "The induced current always flows so as to oppose the change in flux that causes it."},
+                {"front": "Write the transformer equation.", "back": "Vs/Vp = Ns/Np — output voltage over input voltage equals secondary turns over primary turns."},
+                {"front": "Why must a transformer use a.c., not d.c.?", "back": "Transformers need a changing magnetic flux to induce a voltage; steady d.c. gives constant flux and no output."},
+                {"front": "What is required to induce a voltage in a coil?", "back": "A changing magnetic flux through the coil — a steady field does not induce any voltage."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Induction basics", "difficulty": "beginner", "type": "mcq", "prompt": "A voltage is induced in a coil only when:", "options": ["A steady magnet sits inside it", "The magnetic flux through it changes", "A battery is connected", "The coil is at rest in a field"], "answer": "1", "explanation": "Electromagnetic induction requires a changing magnetic flux; a steady field induces nothing."},
+            {"topic": "Transformer type", "difficulty": "beginner", "type": "mcq", "prompt": "A transformer with more turns on the secondary than the primary is a:", "options": ["Step-down transformer", "Step-up transformer", "D.C. transformer", "Resistor"], "answer": "1", "explanation": "More secondary turns means the output voltage is higher, so it is a step-up transformer."},
+            {"topic": "Transformer equation", "difficulty": "medium", "type": "mcq", "prompt": "A transformer has 100 primary turns and 300 secondary turns. If the primary voltage is 20 V, what is the secondary voltage?", "options": ["6.7 V", "60 V", "20 V", "600 V"], "answer": "1", "explanation": "Vs = Vp × Ns/Np = 20 × 300/100 = 60 V."},
+            {"topic": "Lenz's law", "difficulty": "medium", "type": "mcq", "prompt": "Lenz's law is a direct consequence of the conservation of:", "options": ["Charge", "Momentum", "Energy", "Mass"], "answer": "2", "explanation": "The induced current opposes the change so that work must be done to generate electricity, which conserves energy."},
+            {"topic": "Faraday's law", "difficulty": "difficult", "type": "mcq", "prompt": "The flux through a 10-turn coil changes by 0.40 Wb in 0.20 s. What is the size of the induced e.m.f.?", "options": ["2 V", "20 V", "0.2 V", "200 V"], "answer": "1", "explanation": "ε = N(ΔΦ/Δt) = 10 × (0.40/0.20) = 10 × 2 = 20 V."},
+            {"topic": "Generator", "difficulty": "exam", "type": "mcq", "prompt": "In an a.c. generator, the induced voltage is greatest at the instant when:", "options": ["The coil is parallel to the field and flux is changing fastest", "The coil is perpendicular to the field and flux is maximum", "The coil is stationary", "The flux is zero and not changing"], "answer": "0", "explanation": "The e.m.f. depends on the rate of change of flux, which is greatest when the coil is parallel to the field (the flux is momentarily zero but changing fastest)."}
+          ]
+        },
+        {
+          "title": "Atomic Physics",
+          "description": "The structure of the atom, the dual nature of matter and radiation, and the nucleus.",
+          "lessons": [
+            {
+              "title": "The Dual Nature of Matter and the Atom",
+              "summary": "Explore how light behaves as both wave and particle (photons), the photoelectric effect, the structure of the atom, and radioactive decay.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "By the early 20th century, physicists made a surprising discovery: light, which we treat as a wave, can also behave like a stream of tiny energy packets called **photons**. Even more strange, particles like electrons can behave like waves! This is the **dual nature of matter and radiation**.\n\nIn this lesson we learn about photons and the **photoelectric effect**, the structure of the **atom** and its **nucleus**, and how unstable nuclei give out **radioactivity**. These ideas began modern physics and explain how the smallest parts of nature work."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Learning Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Explain the **dual nature** of light (wave and particle).\n- Use the **photon energy** equation \\( E = hf \\).\n- Describe the **photoelectric effect** and what it proves.\n- Describe the structure of the **atom** (nucleus, protons, neutrons, electrons).\n- Describe the three types of **radioactive decay** (alpha, beta, gamma)."
+                },
+                {
+                  "type": "theory",
+                  "title": "Photons, the Atom and Radioactivity",
+                  "body": "**The dual nature of light:** Light sometimes behaves as a **wave** (showing interference and diffraction) and sometimes as a stream of particles called **photons**. Each photon carries a fixed amount of energy:\n\n$$ E = hf $$\n\nwhere \\( f \\) is the frequency of the light and \\( h = 6.63 \\times 10^{-34} \\ \\text{J s} \\) is **Planck's constant**. Higher-frequency light (like ultraviolet) has more energetic photons than lower-frequency light (like red).\n\n**The photoelectric effect:** When light shines on a metal surface, it can knock electrons out of the metal. The surprising facts are:\n- Below a certain **threshold frequency**, *no* electrons come out, no matter how bright the light.\n- Above the threshold, electrons come out instantly, and brighter light releases *more* electrons (but not more energetic ones).\n\n**Why** does this prove light is made of particles? If light were only a wave, a bright enough beam should always free electrons. Instead, each electron is freed by a single photon. Only if one photon has enough energy (\\( hf \\) greater than the metal's **work function**) can it free an electron. This proved Einstein's photon idea.\n\n**Matter waves:** Louis de Broglie suggested that particles, like electrons, also have a wavelength. This **wave-particle duality** applies to all matter, though it is only noticeable for very small particles.\n\n**The structure of the atom:** An atom has a tiny, dense central **nucleus** containing positively charged **protons** and uncharged **neutrons**. Negatively charged **electrons** move around the nucleus. The atom is mostly empty space. The number of protons (the **atomic number**) decides which element it is.\n\n**Radioactivity:** Some nuclei are unstable and break down, giving out radiation. There are three main types:\n- **Alpha (\\( \\alpha \\)) decay:** the nucleus emits a helium nucleus (2 protons + 2 neutrons). Alpha radiation is heavy and stopped by paper.\n- **Beta (\\( \\beta \\)) decay:** a neutron turns into a proton and emits a fast electron. Beta radiation is stopped by thin aluminium.\n- **Gamma (\\( \\gamma \\)) decay:** the nucleus releases a high-energy photon. Gamma radiation is very penetrating and needs thick lead to stop it.\n\nRadioactive decay is **random** — we cannot say when one nucleus will decay, but we can predict the average behaviour of many using the idea of **half-life** (the time for half the nuclei in a sample to decay)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Energy of a Photon",
+                  "body": "**Problem:** Green light has a frequency of \\( 6.0 \\times 10^{14} \\ \\text{Hz} \\). Find the energy of one photon of this light. (\\( h = 6.63 \\times 10^{-34} \\ \\text{J s} \\))\n\n**Step 1 — List the data with SI units.**\n- Frequency \\( f = 6.0 \\times 10^{14} \\ \\text{Hz} \\)\n- Planck's constant \\( h = 6.63 \\times 10^{-34} \\ \\text{J s} \\)\n\n**Step 2 — Write the photon energy formula.**\n$$ E = hf $$\n\n**Step 3 — Substitute the values.**\n$$ E = (6.63 \\times 10^{-34})(6.0 \\times 10^{14}) $$\n\n**Step 4 — Calculate.**\nMultiply the numbers: \\( 6.63 \\times 6.0 = 39.8 \\).\nAdd the powers: \\( 10^{-34} \\times 10^{14} = 10^{-20} \\).\n$$ E = 39.8 \\times 10^{-20} = 4.0 \\times 10^{-19} \\ \\text{J} $$\n\n**Answer:** Each photon of green light carries about **\\( 4.0 \\times 10^{-19} \\ \\text{J} \\)** of energy. This is a tiny amount, which is why ordinary light seems continuous even though it is made of photons."
+                },
+                {
+                  "type": "visual",
+                  "title": "The Photoelectric Effect",
+                  "body": "The diagram below shows the photoelectric effect. Light photons hit a metal surface; if each photon has enough energy, it ejects an electron. The arrows show the incoming photons and the ejected electrons.",
+                  "visual": {
+                    "type": "free-body",
+                    "title": "Photoelectric effect on a metal surface",
+                    "caption": "Incoming photons (energy E = hf) strike the metal. A photon above the threshold frequency ejects an electron. Below the threshold, no electrons leave no matter how bright the light.",
+                    "objects": [
+                      {"label": "Incoming photon (E = hf)", "direction": "toward metal surface"},
+                      {"label": "Metal surface", "direction": "absorbs photon"},
+                      {"label": "Ejected electron", "direction": "away from surface"}
+                    ]
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Thinking brighter light always frees electrons.** Below the threshold frequency, *no* electrons are emitted however bright the light. Frequency, not brightness, decides if electrons come out.\n- **Confusing brightness and energy per electron.** Brighter light frees *more* electrons but does not make each ejected electron more energetic — that depends on the frequency.\n- **Mixing up the radiation types.** Alpha is heaviest and least penetrating (stopped by paper); gamma is lightest and most penetrating (needs lead).\n- **Forgetting decay is random.** You cannot predict when a single nucleus decays, only the average behaviour of many (half-life)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Photon energy:** \"**E = hf**\" — energy grows with frequency. \"Higher f, higher energy.\"\n- **Penetrating power:** \"**Alpha = paper, Beta = aluminium, Gamma = lead.**\" The order A, B, G goes from least to most penetrating.\n- **What alpha is:** an alpha particle is a **helium nucleus** (2 protons + 2 neutrons). \"Alpha = a Helium core.\"\n- **Photoelectric key idea:** \"**One photon, one electron.**\" Each electron is freed by a single photon, not by overall brightness."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "**Q1.** A photon has a frequency of \\( 5.0 \\times 10^{14} \\ \\text{Hz} \\). Find its energy. (\\( h = 6.63 \\times 10^{-34} \\))\n*Answer:* \\( E = hf = (6.63 \\times 10^{-34})(5.0 \\times 10^{14}) = 3.3 \\times 10^{-19} \\ \\text{J} \\).\n\n**Q2.** Which type of radiation is stopped by a sheet of paper?\n*Answer:* Alpha radiation.\n\n**Q3.** Why does dim ultraviolet light eject electrons from a metal, but bright red light does not?\n*Answer:* Ultraviolet has a higher frequency, so its photons have enough energy (above the threshold). Red light photons have too little energy, no matter how bright.\n\n**Q4.** A radioactive sample has a half-life of 4 days. What fraction remains after 8 days?\n*Answer:* After 8 days = 2 half-lives, so \\( (1/2)^2 = 1/4 \\) remains."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- Light has a **dual nature**: it behaves as both a **wave** and a stream of **photons**.\n- **Photon energy:** \\( E = hf \\), where \\( h \\) is Planck's constant.\n- The **photoelectric effect** (electrons ejected only above a threshold frequency) proves light is made of photons.\n- The **atom** has a tiny nucleus of **protons** and **neutrons**, with **electrons** around it.\n- **Radioactivity:** alpha (helium nucleus, least penetrating), beta (fast electron), gamma (high-energy photon, most penetrating).\n- Radioactive decay is **random** and described by **half-life**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson are defined below.",
+                  "glossary": [
+                    {"term": "Photon", "definition": "A particle (packet) of light energy, with energy E = hf."},
+                    {"term": "Photoelectric effect", "definition": "The ejection of electrons from a metal surface when light above a threshold frequency shines on it."},
+                    {"term": "Work function", "definition": "The minimum energy needed to free an electron from a metal surface."},
+                    {"term": "Nucleus", "definition": "The tiny, dense, positively charged centre of an atom, made of protons and neutrons."},
+                    {"term": "Half-life", "definition": "The time taken for half the radioactive nuclei in a sample to decay."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "Write the formula for the energy of a photon.", "back": "E = hf, where h = 6.63 × 10⁻³⁴ J s is Planck's constant and f is the frequency."},
+                {"front": "What does the photoelectric effect prove about light?", "back": "That light behaves as particles (photons), because electrons are only ejected above a threshold frequency, regardless of brightness."},
+                {"front": "What is an alpha particle?", "back": "A helium nucleus, made of 2 protons and 2 neutrons. It is the least penetrating radiation (stopped by paper)."},
+                {"front": "Name the three types of radioactive decay in order of penetrating power.", "back": "Alpha (least, stopped by paper), beta (stopped by aluminium), gamma (most, needs lead)."},
+                {"front": "What is half-life?", "back": "The time taken for half the radioactive nuclei in a sample to decay."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Photon energy", "difficulty": "beginner", "type": "mcq", "prompt": "The energy of a photon is given by:", "options": ["E = hf", "E = mc", "E = qV", "E = IR"], "answer": "0", "explanation": "Photon energy E = hf, where h is Planck's constant and f is the frequency."},
+            {"topic": "Radioactivity", "difficulty": "beginner", "type": "mcq", "prompt": "Which type of radiation is the most penetrating?", "options": ["Alpha", "Beta", "Gamma", "They are all equal"], "answer": "2", "explanation": "Gamma radiation is the most penetrating and needs thick lead to stop it; alpha is the least penetrating."},
+            {"topic": "Atomic structure", "difficulty": "medium", "type": "mcq", "prompt": "Which particles are found in the nucleus of an atom?", "options": ["Protons and electrons", "Neutrons and electrons", "Protons and neutrons", "Only electrons"], "answer": "2", "explanation": "The nucleus contains protons and neutrons; electrons move around outside the nucleus."},
+            {"topic": "Photoelectric effect", "difficulty": "medium", "type": "mcq", "prompt": "In the photoelectric effect, increasing the brightness of light above the threshold frequency increases:", "options": ["The energy of each ejected electron", "The number of electrons ejected", "The threshold frequency", "The work function"], "answer": "1", "explanation": "Brighter light means more photons, so more electrons are ejected, but the energy of each electron depends only on the frequency."},
+            {"topic": "Photon energy", "difficulty": "difficult", "type": "mcq", "prompt": "A photon has frequency 2.0 × 10¹⁵ Hz. What is its energy? (h = 6.63 × 10⁻³⁴ J s)", "options": ["1.3 × 10⁻¹⁸ J", "3.3 × 10⁻¹⁹ J", "1.3 × 10⁻¹⁹ J", "6.6 × 10⁻³⁴ J"], "answer": "0", "explanation": "E = hf = (6.63 × 10⁻³⁴)(2.0 × 10¹⁵) = 1.3 × 10⁻¹⁸ J."},
+            {"topic": "Half-life", "difficulty": "exam", "type": "mcq", "prompt": "A radioactive sample has a half-life of 5 years. What fraction of the original sample remains after 15 years?", "options": ["1/2", "1/4", "1/8", "1/16"], "answer": "2", "explanation": "15 years is 3 half-lives, so the fraction remaining is (1/2)³ = 1/8."}
+          ]
+        }
+      ]
+    }
+  ]
+}

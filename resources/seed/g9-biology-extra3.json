@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "Variables in an experiment",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In a fair test, the one factor a scientist deliberately changes to see its effect is called the:",
+          "options": ["Variable that is changed", "Result that is kept secret", "Factor that never matters", "Conclusion at the end"],
+          "answer": "0",
+          "explanation": "The factor the scientist deliberately changes is the variable being tested; everything else should be kept the same to make the test fair."
+        },
+        {
+          "topic": "Importance of biology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which everyday activity in Ethiopia depends most directly on knowledge from biology?",
+          "options": ["Mining gold from rock", "Growing healthier teff and treating crop diseases", "Measuring the speed of a car", "Mixing cement for a road"],
+          "answer": "1",
+          "explanation": "Improving crops and controlling plant diseases depends on biology, the study of living things. The other tasks rely mainly on geology, physics, or chemistry."
+        },
+        {
+          "topic": "Ribosome and cytoplasm",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which part of the cell is the jelly-like substance where many chemical reactions take place?",
+          "options": ["Cell wall", "Chloroplast", "Cytoplasm", "Vacuole"],
+          "answer": "2",
+          "explanation": "The cytoplasm is the jelly-like material that fills the cell and is where many of the cell's chemical reactions happen."
+        },
+        {
+          "topic": "Function of saliva",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which fluid is released in the mouth to begin softening food and starting the digestion of starch?",
+          "options": ["Saliva", "Blood", "Sweat", "Bile"],
+          "answer": "0",
+          "explanation": "Saliva moistens the food and contains an enzyme that begins breaking down starch in the mouth."
+        },
+        {
+          "topic": "Decomposers and food",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Mould growing on old bread is an example of which type of micro-organism?",
+          "options": ["A virus", "A red blood cell", "A protozoan", "A fungus"],
+          "answer": "3",
+          "explanation": "Mould is a type of fungus. It grows on food such as bread and feeds on it, often spoiling it."
+        },
+        {
+          "topic": "Biotic and abiotic factors",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following is a non-living (abiotic) part of an ecosystem?",
+          "options": ["A grasshopper", "The amount of sunlight", "A tree", "A bird"],
+          "answer": "1",
+          "explanation": "Sunlight is a non-living (abiotic) factor. The grasshopper, tree, and bird are all living (biotic) parts of the ecosystem."
+        },
+        {
+          "topic": "Conclusion in science",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "After collecting and studying the results of an experiment, the statement a scientist writes about what the results show is called the:",
+          "options": ["Conclusion", "Apparatus", "Title page", "Random guess"],
+          "answer": "0",
+          "explanation": "A conclusion is the statement that explains what the results mean and whether they support the hypothesis."
+        },
+        {
+          "topic": "Ethiopian seed bank",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why is conserving many different local varieties of a crop, as done in Ethiopian seed banks, useful for farmers?",
+          "options": ["It guarantees rain every year", "It makes all crops identical", "Different varieties may survive drought, pests, or disease when others fail", "It removes the need to plant seeds"],
+          "answer": "2",
+          "explanation": "Keeping a wide variety of seeds means that if one type is wiped out by drought or disease, other varieties with different strengths may survive, protecting the food supply."
+        },
+        {
+          "topic": "Specialised cells",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A root hair cell has a long, thin extension. How does this shape help the plant?",
+          "options": ["It helps the plant fly", "It increases the surface area for absorbing water and minerals", "It traps sunlight for photosynthesis", "It pumps blood"],
+          "answer": "1",
+          "explanation": "The long extension of a root hair cell increases its surface area, allowing the plant to absorb more water and dissolved minerals from the soil."
+        },
+        {
+          "topic": "Vacuole function",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the main job of the large central vacuole in a plant cell?",
+          "options": ["To make food from sunlight", "To control the cell's activities", "To carry oxygen", "To store cell sap and help keep the cell firm"],
+          "answer": "3",
+          "explanation": "The large vacuole stores cell sap, and when full of liquid it presses outward and helps keep the plant cell firm (turgid)."
+        },
+        {
+          "topic": "Fats in the diet",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Besides giving energy, what is another important role of fats in the human body?",
+          "options": ["Helping the body fight germs", "Storing energy and helping to keep the body warm", "Carrying oxygen", "Building bones only"],
+          "answer": "1",
+          "explanation": "Fats store energy for later use and form a layer under the skin that helps insulate the body and keep it warm."
+        },
+        {
+          "topic": "White blood cells",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which blood cells help to defend the body by fighting germs?",
+          "options": ["Red blood cells", "Bone cells", "White blood cells", "Nerve cells"],
+          "answer": "2",
+          "explanation": "White blood cells are part of the immune system and help defend the body by attacking and destroying germs."
+        },
+        {
+          "topic": "Conditions for microbe growth",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why does keeping food in a cool place, such as a refrigerator, help it last longer?",
+          "options": ["Cold makes food more nutritious", "Cold slows down the growth of micro-organisms that spoil food", "Cold adds vitamins", "Cold kills all viruses instantly"],
+          "answer": "1",
+          "explanation": "Most micro-organisms grow slowly in the cold, so keeping food cool slows the spoiling caused by bacteria and fungi."
+        },
+        {
+          "topic": "Airborne disease",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Tuberculosis (TB) can spread when an infected person coughs. This is an example of a disease spread mainly by:",
+          "options": ["Dirty water only", "Shaking hands only", "The air (droplets from coughs and sneezes)", "Eating fruit"],
+          "answer": "2",
+          "explanation": "TB bacteria can travel in tiny droplets released when an infected person coughs or sneezes, so it spreads mainly through the air."
+        },
+        {
+          "topic": "Why one common name is a problem",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why can using only local common names for an organism cause confusion between scientists in different regions?",
+          "options": ["Common names are too long to say", "The same organism may have many different local names, or one name may be used for different organisms", "Common names are always in Latin", "Common names never change"],
+          "answer": "1",
+          "explanation": "The same organism can have many different local names, and the same name can be used for different organisms, so a single agreed scientific name avoids the confusion."
+        },
+        {
+          "topic": "Protista features",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An Amoeba is a single-celled organism with a true nucleus that lives in water. To which kingdom does it belong?",
+          "options": ["Plants", "Protista", "Fungi", "Animals"],
+          "answer": "1",
+          "explanation": "Amoeba is a mostly single-celled organism with a true nucleus, which places it in the kingdom Protista."
+        },
+        {
+          "topic": "Population",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "All the zebras living together in one area at the same time are best described as a:",
+          "options": ["Food web", "Decomposer", "Habitat", "Population"],
+          "answer": "3",
+          "explanation": "A population is all the members of the same species living in the same area at the same time, such as all the zebras in one area."
+        },
+        {
+          "topic": "Yeast and fermentation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When yeast is added to dough, the dough rises. Which gas produced by the yeast makes the dough rise?",
+          "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+          "answer": "1",
+          "explanation": "As yeast breaks down sugars it releases carbon dioxide gas, and the bubbles of this gas make the dough rise."
+        },
+        {
+          "topic": "Limits of one study",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A scientist tests a new plant medicine on only three people and it seems to work. Why should other scientists be careful before accepting it?",
+          "options": ["Three people is too few to be sure the result is reliable", "Plant medicines can never work", "The scientist used a microscope", "Medicines should never be tested"],
+          "answer": "0",
+          "explanation": "A result from only a few people may happen by chance. The work must be repeated on many people and checked by others before it can be trusted."
+        },
+        {
+          "topic": "Rate of diffusion",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A drop of dye spreads faster in hot water than in cold water. Why does a higher temperature increase the rate of diffusion?",
+          "options": ["The particles move more slowly", "Hot water has no particles", "The particles have more energy and move faster", "The dye becomes heavier"],
+          "answer": "2",
+          "explanation": "At higher temperatures particles have more energy and move faster, so they spread out (diffuse) more quickly."
+        },
+        {
+          "topic": "Osmosis direction",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A piece of fresh potato is placed in pure water. What is most likely to happen to the potato cells?",
+          "options": ["They lose water and shrink", "They gain water by osmosis and become firmer", "They turn into salt", "They make their own food"],
+          "answer": "1",
+          "explanation": "Pure water has a higher water concentration than the potato cells, so water moves into the cells by osmosis, making them swollen and firm."
+        },
+        {
+          "topic": "Stomach acid",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The stomach produces acid during digestion. Apart from helping enzymes work, what other useful job does this acid do?",
+          "options": ["It cools the food down", "It turns food into bone", "It adds oxygen to the blood", "It kills many germs that are swallowed with food"],
+          "answer": "3",
+          "explanation": "Stomach acid creates conditions that help digestive enzymes act on protein and also kills many of the germs that enter with food."
+        },
+        {
+          "topic": "Capillaries",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Capillaries have very thin walls, only one cell thick. How does this help the body?",
+          "options": ["It makes blood flow stop", "It lets oxygen and food pass easily between blood and the cells", "It stores fat", "It makes the heart beat"],
+          "answer": "1",
+          "explanation": "The very thin walls of capillaries allow oxygen, food, and waste substances to pass quickly between the blood and the surrounding body cells."
+        },
+        {
+          "topic": "Body defences",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How does unbroken skin help protect the body against disease?",
+          "options": ["It produces antibiotics", "It digests germs", "It forms a barrier that stops many germs from entering the body", "It carries oxygen to germs"],
+          "answer": "2",
+          "explanation": "Unbroken skin acts as a physical barrier that keeps many germs out. Germs find it easier to enter through cuts or wounds."
+        },
+        {
+          "topic": "Classifying with a key",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Scientists often identify an unknown organism using a tool that asks a series of paired yes/no questions about its features. This tool is called a:",
+          "options": ["Food web", "Classification (identification) key", "Microscope", "Seed bank"],
+          "answer": "1",
+          "explanation": "A classification or identification key uses a series of paired questions about features to guide the user step by step to the name of the organism."
+        },
+        {
+          "topic": "Shared features and relatedness",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "If two organisms are placed in the same small group during classification, what does this usually suggest?",
+          "options": ["They live in different countries", "They are completely unrelated", "One must be a plant and one an animal", "They share many features and are closely related"],
+          "answer": "3",
+          "explanation": "Organisms grouped closely together share many features, which usually means they are closely related to each other."
+        },
+        {
+          "topic": "Predator and prey numbers",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In an area, the number of rats (prey) rises sharply. What is most likely to happen to the number of snakes (predators) that eat them?",
+          "options": ["The snakes will decrease because there is more food", "The snakes will increase because there is more food", "The snakes will turn into rats", "The snakes will stop eating"],
+          "answer": "1",
+          "explanation": "With more prey available, more snakes can find food and survive, so the predator population is likely to increase."
+        },
+        {
+          "topic": "Carbon dioxide and plants",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which process removes carbon dioxide from the air and helps balance the gas given out by respiration and burning?",
+          "options": ["Digestion in animals", "Evaporation of water", "Photosynthesis by green plants", "Erosion of soil"],
+          "answer": "2",
+          "explanation": "Green plants take in carbon dioxide during photosynthesis, which helps balance the carbon dioxide released by respiration and the burning of fuels."
+        },
+        {
+          "topic": "Genus and species rank",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which group is LARGER and contains more kinds of organisms?",
+          "options": ["A genus", "A species", "Neither contains organisms", "They are exactly equal"],
+          "answer": "0",
+          "explanation": "A genus is a larger group that can contain several closely related species, so it includes more kinds of organisms than a single species."
+        },
+        {
+          "topic": "Choosing the right instrument",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A student wants to look at the colour and shape of a living water flea while it is still moving. Which instrument is the BEST choice?",
+          "options": ["An electron microscope, because it kills the specimen", "A light microscope, because it can view living specimens", "A telescope, because the flea is far away", "A weighing balance, because it shows colour"],
+          "answer": "1",
+          "explanation": "A light microscope can be used on living, moving specimens, while an electron microscope only works on dead material in a vacuum."
+        },
+        {
+          "topic": "Surface area to volume ratio",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Very small cells exchange substances with their surroundings more efficiently than very large cells mainly because small cells have:",
+          "options": ["A larger surface area compared with their volume", "No need for any substances", "A thicker cell wall", "More chloroplasts"],
+          "answer": "0",
+          "explanation": "Small cells have a larger surface area relative to their volume, so substances can diffuse in and out fast enough to supply the whole cell."
+        },
+        {
+          "topic": "Why breathing rate rises",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "When a person runs hard, their breathing rate increases. What is the MAIN reason for this?",
+          "options": ["To cool the blood only", "To stop the heart beating", "To supply more oxygen and remove more carbon dioxide for faster respiration", "To digest food faster"],
+          "answer": "2",
+          "explanation": "Exercising muscles respire faster and need more oxygen and produce more carbon dioxide, so breathing speeds up to supply the oxygen and remove the carbon dioxide."
+        },
+        {
+          "topic": "Anaemia and iron",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A person whose diet lacks iron may feel tired and weak. This is most directly because the body cannot make enough:",
+          "options": ["Bone", "Healthy red blood cells to carry oxygen", "Saliva", "Hair"],
+          "answer": "1",
+          "explanation": "Iron is needed to make red blood cells that carry oxygen. Without enough iron the blood carries less oxygen, leaving the person tired and weak (anaemia)."
+        },
+        {
+          "topic": "Living with HIV",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which statement about a person living with HIV is correct?",
+          "options": ["You can catch HIV by sitting next to them in class", "Their cough spreads HIV through the air", "Touching their hand will infect you", "They can live and work normally, and sharing food or hugging is safe"],
+          "answer": "3",
+          "explanation": "HIV is not spread by everyday contact such as sitting together, sharing food, hugging, or shaking hands, so a person with HIV can study and work normally."
+        },
+        {
+          "topic": "Distinguishing fungi and bacteria",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A learner observes two microbes: one is single-celled with no true nucleus, the other is a thread-like mould feeding on dead matter. Into which kingdoms do they belong, in order?",
+          "options": ["Both Monera", "Monera and Fungi", "Plants and Animals", "Protista and Plants"],
+          "answer": "1",
+          "explanation": "A single-celled microbe with no true nucleus is in Monera (bacteria), while a thread-like mould that feeds on dead matter is a fungus, in the Fungi kingdom."
+        },
+        {
+          "topic": "Behavioural adaptation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Some animals in hot Ethiopian lowlands rest in shade during the hottest part of the day and feed in the cool evening. This behaviour is an adaptation because it:",
+          "options": ["Helps them avoid extreme heat and save water", "Helps them make their own food", "Makes them grow fur", "Stops them from ever needing food"],
+          "answer": "0",
+          "explanation": "Resting in shade during the heat and being active when it is cooler helps the animals avoid overheating and lose less water, improving their chance of survival."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Present simple and continuous",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence: 'Water ______ at 100 degrees Celsius.'",
+          "options": ["is boiling", "boils", "boil", "are boiling"],
+          "answer": "1",
+          "explanation": "A scientific fact that is always true uses the present simple, and with 'water' (singular) we add -s: 'boils'."
+        },
+        {
+          "topic": "Vocabulary: culture",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What does the word 'ceremony' mean?",
+          "options": ["A quiet ordinary day at home.", "A formal event held to mark an important occasion.", "A small shop in the market.", "A short rest after work."],
+          "answer": "1",
+          "explanation": "A 'ceremony' is a formal set of acts performed to mark an important occasion, such as a wedding or graduation."
+        },
+        {
+          "topic": "Plural nouns",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct plural: 'There are three ______ in the field.'",
+          "options": ["childs", "childer", "children", "childrens"],
+          "answer": "2",
+          "explanation": "'Child' has an irregular plural form: 'children'."
+        },
+        {
+          "topic": "Modal verbs",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the sentence that gives advice to a tired student.",
+          "options": ["You should take a short rest.", "You take a short rest must.", "You should to take a short rest.", "You should taking a short rest."],
+          "answer": "0",
+          "explanation": "We give advice with 'should' followed by the base verb: 'should take'."
+        },
+        {
+          "topic": "Prepositions of place",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct preposition: 'The cat is sleeping ______ the table.'",
+          "options": ["under", "between", "among", "at"],
+          "answer": "0",
+          "explanation": "'Under' shows that the cat is below the table; the other options do not fit this position."
+        },
+        {
+          "topic": "Vocabulary: technology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What does 'device' mean?",
+          "options": ["A long piece of writing.", "A type of farm animal.", "A person who repairs roads.", "A machine or tool made for a special purpose."],
+          "answer": "3",
+          "explanation": "A 'device' is a machine or tool made for a particular purpose, such as a phone or a calculator."
+        },
+        {
+          "topic": "Past simple and past continuous",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence: 'They ______ football when it started to rain.'",
+          "options": ["played", "play", "have played", "were playing"],
+          "answer": "3",
+          "explanation": "A longer action interrupted by a sudden event uses the past continuous: 'were playing', with 'started' in the past simple."
+        },
+        {
+          "topic": "Present perfect and past simple",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["I have visited Lalibela in 2019.", "I visited Lalibela in 2019.", "I have visited Lalibela last year ago.", "I am visiting Lalibela in 2019."],
+          "answer": "1",
+          "explanation": "A finished time such as 'in 2019' takes the past simple: 'visited', not the present perfect."
+        },
+        {
+          "topic": "Comparatives and superlatives",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'This is ______ book I have ever read.'",
+          "options": ["the most interesting", "more interesting", "the more interesting", "most interesting"],
+          "answer": "0",
+          "explanation": "'Interesting' is a long adjective, and comparing it with all others needs the superlative with 'the': 'the most interesting'."
+        },
+        {
+          "topic": "Passive voice",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Change to the passive voice: 'Someone cleans this office every day.'",
+          "options": ["This office cleans every day.", "This office is cleaned every day.", "This office is cleaning every day.", "This office has cleaned every day."],
+          "answer": "1",
+          "explanation": "The present passive uses 'is/are' + past participle: 'is cleaned'. The object (office) becomes the subject."
+        },
+        {
+          "topic": "First conditional",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'If you heat ice, it ______.'",
+          "options": ["will melt", "would melt", "melts", "melted"],
+          "answer": "2",
+          "explanation": "For a general truth in a zero/first conditional, both clauses can use the present simple: 'melts'."
+        },
+        {
+          "topic": "Quantifiers",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence: 'There are only ______ apples left in the basket.'",
+          "options": ["a little", "much", "a few", "less"],
+          "answer": "2",
+          "explanation": "'Apples' is a countable plural noun, so we use 'a few'; 'a little' and 'much' are for uncountable nouns."
+        },
+        {
+          "topic": "Relative clauses",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct relative pronoun: 'This is the house ______ roof was damaged by the storm.'",
+          "options": ["who", "which", "where", "whose"],
+          "answer": "3",
+          "explanation": "'Whose' shows possession, here linking the house to its roof."
+        },
+        {
+          "topic": "Phrasal verbs",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What does 'look after' mean in: 'She looks after her younger brother every afternoon.'?",
+          "options": ["To search for someone.", "To take care of someone.", "To look behind you.", "To resemble someone."],
+          "answer": "1",
+          "explanation": "'Look after' means to take care of someone or something."
+        },
+        {
+          "topic": "Articles",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct article: 'She plays ______ guitar beautifully.'",
+          "options": ["a", "an", "the", "no article"],
+          "answer": "2",
+          "explanation": "We use 'the' before musical instruments: 'play the guitar'."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read: 'The teacher praised the student for her diligent work.' What does 'diligent' mean?",
+          "options": ["Careless and lazy.", "Showing careful and steady effort.", "Done very quickly.", "Full of mistakes."],
+          "answer": "1",
+          "explanation": "'Diligent' describes work done with careful, hardworking, and steady effort, which is why it earned praise."
+        },
+        {
+          "topic": "Prepositions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct preposition: 'I am very good ______ mathematics.'",
+          "options": ["in", "on", "at", "for"],
+          "answer": "2",
+          "explanation": "The fixed expression is 'good at' something: 'good at mathematics'."
+        },
+        {
+          "topic": "Reported speech",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Change to reported speech: She said, 'I am cleaning the house now.'",
+          "options": ["She said that she is cleaning the house now.", "She said that she cleaned the house then.", "She said that she has cleaned the house now.", "She said that she was cleaning the house then."],
+          "answer": "3",
+          "explanation": "The present continuous steps back to the past continuous ('was cleaning'), and 'now' becomes 'then'."
+        },
+        {
+          "topic": "Reading comprehension: inference",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'Bekele pushed his half-finished plate away, rubbed his stomach, and shook his head when the waiter offered dessert.' What can we infer about Bekele?",
+          "options": ["He was still very hungry.", "He had already eaten enough and felt full.", "He disliked the waiter.", "He wanted to order more food."],
+          "answer": "1",
+          "explanation": "Pushing the plate away, rubbing his stomach, and refusing dessert all suggest he had eaten enough and felt full."
+        },
+        {
+          "topic": "Word formation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete with the correct word form: 'The doctor gave a clear ______ of the illness.'",
+          "options": ["explain", "explanation", "explaining", "explained"],
+          "answer": "1",
+          "explanation": "After the adjective 'clear' we need a noun; the noun form of 'explain' is 'explanation'."
+        },
+        {
+          "topic": "Third conditional",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct third conditional sentence.",
+          "options": ["If he had left earlier, he would have caught the bus.", "If he had left earlier, he would catch the bus.", "If he left earlier, he would have caught the bus.", "If he would have left earlier, he caught the bus."],
+          "answer": "0",
+          "explanation": "The third conditional uses 'if' + past perfect ('had left') and 'would have' + past participle ('would have caught')."
+        },
+        {
+          "topic": "Subject-verb agreement",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["Each of the students have a textbook.", "Each of the students has a textbook.", "Each of the students are having a textbook.", "Each of the students were a textbook."],
+          "answer": "1",
+          "explanation": "'Each' is singular, so it takes the singular verb 'has', even when followed by a plural noun."
+        },
+        {
+          "topic": "Gerunds and infinitives",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct form: 'He decided ______ early so that he could avoid ______ in traffic.'",
+          "options": ["leaving / to sit", "to leave / sitting", "leave / sit", "to leave / to sit"],
+          "answer": "1",
+          "explanation": "'Decide' takes the infinitive ('to leave'), while 'avoid' takes the gerund ('sitting')."
+        },
+        {
+          "topic": "Conjunctions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct linking word: '______ it was raining heavily, the team kept training.'",
+          "options": ["Because", "Although", "Therefore", "So"],
+          "answer": "1",
+          "explanation": "'Although' introduces a contrast between the rain and the team continuing to train."
+        },
+        {
+          "topic": "Tense contrast",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence with the correct mix of tenses.",
+          "options": ["She has lived in Addis Ababa since she was a child.", "She lives in Addis Ababa since she was a child.", "She is living in Addis Ababa since she was a child.", "She lived in Addis Ababa since she was a child."],
+          "answer": "0",
+          "explanation": "An action starting in the past and continuing to now uses the present perfect with 'since': 'has lived'."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'The committee will evaluate each proposal before making a decision.' What does 'evaluate' mean?",
+          "options": ["To ignore completely.", "To judge the value or quality of something.", "To copy exactly.", "To announce loudly."],
+          "answer": "1",
+          "explanation": "'Evaluate' means to judge or assess the value, quality, or importance of something."
+        },
+        {
+          "topic": "Question tags",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct question tag: 'You haven't finished your homework, ______'",
+          "options": ["haven't you?", "have you?", "did you?", "do you?"],
+          "answer": "1",
+          "explanation": "A negative statement takes a positive tag; the present perfect uses 'have', so the tag is 'have you?'"
+        },
+        {
+          "topic": "Error identification",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence that contains NO grammatical error.",
+          "options": ["He explained me the problem clearly.", "He explained the problem to me clearly.", "He explained to me the problem clear.", "He explained me clearly the problem."],
+          "answer": "1",
+          "explanation": "The verb 'explain' is followed by 'to' before the person, and we need the adverb 'clearly': 'explained the problem to me clearly'."
+        },
+        {
+          "topic": "Reading comprehension: detail",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'The clinic offers free check-ups on Tuesdays and Thursdays. Vaccinations are given only on Fridays, and the clinic is closed at weekends.' On which day can a patient get a vaccination?",
+          "options": ["Tuesday.", "Thursday.", "Friday.", "Sunday."],
+          "answer": "2",
+          "explanation": "The text states that vaccinations are given 'only on Fridays', so Friday is the correct day."
+        },
+        {
+          "topic": "Modal verbs of deduction",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the modal that shows something is impossible: 'She ______ be at school; it is a public holiday today.'",
+          "options": ["must", "can't", "should", "might"],
+          "answer": "1",
+          "explanation": "'Can't' expresses a confident negative deduction; the holiday makes it impossible for her to be at school."
+        },
+        {
+          "topic": "Reported speech (questions)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Report this question correctly: 'Do you live near the school?' she asked me.",
+          "options": ["She asked me do I live near the school.", "She asked me if did I live near the school.", "She asked me that I lived near the school.", "She asked me if I lived near the school."],
+          "answer": "3",
+          "explanation": "A yes/no question is reported with 'if', normal word order, and the verb stepping back: 'if I lived near the school'."
+        },
+        {
+          "topic": "Sentence transformation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence that keeps the same meaning as: 'It is two years since I last saw him.'",
+          "options": ["I have not seen him for two years.", "I have seen him for two years.", "I did not see him two years.", "I am not seeing him since two years."],
+          "answer": "0",
+          "explanation": "'It is two years since I last saw him' means the same as 'I have not seen him for two years', using the present perfect with 'for'."
+        },
+        {
+          "topic": "Passive voice",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the passive sentence that keeps the same meaning as: 'The manager is interviewing the candidates now.'",
+          "options": ["The candidates are interviewed now.", "The candidates were being interviewed now.", "The candidates have been interviewed now.", "The candidates are being interviewed now."],
+          "answer": "3",
+          "explanation": "The active verb is present continuous ('is interviewing'), so its passive is 'are being interviewed'."
+        },
+        {
+          "topic": "Conditionals",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence with NO error.",
+          "options": ["Unless you will hurry, you will miss the train.", "Unless you hurry, you will miss the train.", "Unless you hurry, you would miss the train.", "If you hurry, you will miss the train."],
+          "answer": "1",
+          "explanation": "'Unless' means 'if not' and is followed by the present simple ('hurry'); the main clause uses 'will' for the likely result."
+        },
+        {
+          "topic": "Reading comprehension: main idea",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read: 'Trees give us shade, clean the air we breathe, and hold the soil firmly so that it is not washed away. Protecting forests is therefore vital for both people and the land.' What is the main idea?",
+          "options": ["Trees are only useful for shade.", "Forests provide important benefits and should be protected.", "Soil is more valuable than trees.", "Cutting trees has no effect on the air."],
+          "answer": "1",
+          "explanation": "The paragraph lists the benefits of trees and concludes that protecting forests is vital, which is its main idea."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read: 'The instructions were so ambiguous that nobody knew which path to take.' What does 'ambiguous' mean?",
+          "options": ["Very clear and exact.", "Having more than one possible meaning.", "Extremely short.", "Printed in large letters."],
+          "answer": "1",
+          "explanation": "'Ambiguous' means unclear because it can be understood in more than one way, which is why nobody knew what to do."
+        }
+      ]
+    }
+  ]
+}

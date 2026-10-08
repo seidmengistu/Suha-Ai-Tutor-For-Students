@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "physics",
+      "questions": [
+        {
+          "topic": "SI prefixes",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A capacitor stores a charge of 4.7 µC. Expressed in coulombs this is:",
+          "options": ["4.7 × 10⁻³ C", "4.7 × 10⁻⁶ C", "4.7 × 10⁻⁹ C", "4.7 × 10⁶ C"],
+          "answer": "1",
+          "explanation": "The prefix micro- means ×10⁻⁶, so 4.7 µC = 4.7 × 10⁻⁶ C."
+        },
+        {
+          "topic": "Accuracy and precision",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A digital balance always reads 2.0 g higher than the true mass. This is an example of:",
+          "options": ["A random error", "A systematic error", "Good accuracy", "A rounding error"],
+          "answer": "1",
+          "explanation": "A fixed bias in one direction is a systematic (zero) error; averaging readings will not remove it."
+        },
+        {
+          "topic": "Scalars and vectors",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following pairs lists a scalar followed by a vector?",
+          "options": ["Velocity and speed", "Energy and force", "Force and mass", "Displacement and time"],
+          "answer": "1",
+          "explanation": "Energy is a scalar (magnitude only) and force is a vector (magnitude and direction), so the order scalar–vector is correct."
+        },
+        {
+          "topic": "Newton's first law",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A spacecraft drifts through deep space far from any star with its engines switched off. What happens to its motion?",
+          "options": ["It gradually slows down and stops", "It keeps moving at constant velocity", "It speeds up steadily", "It immediately falls toward the nearest planet"],
+          "answer": "1",
+          "explanation": "With no net force acting, Newton's first law says the spacecraft continues at constant velocity in a straight line."
+        },
+        {
+          "topic": "Potential energy",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A 5.0 kg sack is lifted 4.0 m onto a platform. Taking g = 10 m/s², how much gravitational potential energy does it gain?",
+          "options": ["20 J", "50 J", "200 J", "2.0 J"],
+          "answer": "2",
+          "explanation": "PE = mgh = 5.0 × 10 × 4.0 = 200 J."
+        },
+        {
+          "topic": "Percentage uncertainty",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A timer reads a period of 0.80 s with an uncertainty of ± 0.02 s. What is the percentage uncertainty?",
+          "options": ["1.6 %", "2.5 %", "0.40 %", "4.0 %"],
+          "answer": "1",
+          "explanation": "Percentage uncertainty = (0.02 / 0.80) × 100 = 2.5 %."
+        },
+        {
+          "topic": "Resolving vectors",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A 80 N force acts at 25° above the horizontal. Using cos 25° = 0.91, what is its horizontal component?",
+          "options": ["34 N", "73 N", "80 N", "44 N"],
+          "answer": "1",
+          "explanation": "Horizontal component = F cos θ = 80 × 0.91 = 72.8 ≈ 73 N."
+        },
+        {
+          "topic": "Equations of motion",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A car moving at 12 m/s accelerates uniformly at 1.5 m/s² for 8.0 s. What is its final velocity?",
+          "options": ["20 m/s", "24 m/s", "12 m/s", "96 m/s"],
+          "answer": "1",
+          "explanation": "v = u + at = 12 + 1.5 × 8.0 = 12 + 12 = 24 m/s."
+        },
+        {
+          "topic": "Newton's second law",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A 0.50 kg trolley experiences a net force of 6.0 N. What is its acceleration?",
+          "options": ["3.0 m/s²", "0.083 m/s²", "12 m/s²", "6.5 m/s²"],
+          "answer": "2",
+          "explanation": "a = F/m = 6.0 / 0.50 = 12 m/s²."
+        },
+        {
+          "topic": "Momentum",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A 0.16 kg cricket ball travels at 25 m/s. What is its momentum?",
+          "options": ["0.40 kg·m/s", "4.0 kg·m/s", "40 kg·m/s", "0.0064 kg·m/s"],
+          "answer": "1",
+          "explanation": "p = mv = 0.16 × 25 = 4.0 kg·m/s."
+        },
+        {
+          "topic": "Power and velocity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A cyclist pedals against a constant resistive force of 30 N while moving at a steady 8.0 m/s. What useful power output is needed?",
+          "options": ["3.75 W", "240 W", "38 W", "480 W"],
+          "answer": "1",
+          "explanation": "For a force moving at speed v, P = Fv = 30 × 8.0 = 240 W."
+        },
+        {
+          "topic": "Work done",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A 40 N force drags a crate 6.0 m, with the rope at 45° to the horizontal floor. How much work is done? (cos 45° = 0.71)",
+          "options": ["120 J", "170 J", "240 J", "338 J"],
+          "answer": "1",
+          "explanation": "W = Fd cos θ = 40 × 6.0 × 0.71 = 240 × 0.71 ≈ 170 J."
+        },
+        {
+          "topic": "Torque",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A mechanic pushes with 60 N at the end of a 0.35 m wrench, perpendicular to it. What torque is applied to the bolt?",
+          "options": ["21 N·m", "171 N·m", "0.58 N·m", "60 N·m"],
+          "answer": "0",
+          "explanation": "τ = rF sin 90° = 0.35 × 60 × 1 = 21 N·m."
+        },
+        {
+          "topic": "Angular and linear motion",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A bicycle wheel of radius 0.34 m has a rim point moving at 6.8 m/s. What is the wheel's angular velocity?",
+          "options": ["2.3 rad/s", "20 rad/s", "0.050 rad/s", "6.8 rad/s"],
+          "answer": "1",
+          "explanation": "v = rω, so ω = v/r = 6.8 / 0.34 = 20 rad/s."
+        },
+        {
+          "topic": "Strain",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A steel bar of original length 4.0 m extends by 2.0 mm under tension. What is the tensile strain?",
+          "options": ["5.0 × 10⁻⁴", "2.0 × 10⁻³", "5.0 × 10⁻³", "8.0 × 10⁻³"],
+          "answer": "0",
+          "explanation": "Strain = extension / original length = (2.0 × 10⁻³) / 4.0 = 5.0 × 10⁻⁴ (dimensionless)."
+        },
+        {
+          "topic": "Equilibrium of a particle",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Three horizontal forces act on a ring in equilibrium along one line: 8.0 N east, 5.0 N west, and an unknown force. What is the unknown force?",
+          "options": ["3.0 N west", "13 N east", "3.0 N east", "13 N west"],
+          "answer": "0",
+          "explanation": "For equilibrium the net force is zero: 8.0 east − 5.0 west leaves 3.0 N east, so the unknown must be 3.0 N west to balance it."
+        },
+        {
+          "topic": "Combining uncertainties",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Density is found from ρ = m/V. If the mass has a 1.2 % uncertainty and the volume has a 2.8 % uncertainty, what is the percentage uncertainty in the density?",
+          "options": ["1.6 %", "2.3 %", "4.0 %", "3.4 %"],
+          "answer": "2",
+          "explanation": "When dividing, percentage uncertainties add: 1.2 % + 2.8 % = 4.0 %."
+        },
+        {
+          "topic": "Vector addition",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A boat is rowed due south at 2.4 m/s while a current carries it due east at 1.0 m/s. What is its resultant speed relative to the bank?",
+          "options": ["1.4 m/s", "2.6 m/s", "3.4 m/s", "2.0 m/s"],
+          "answer": "1",
+          "explanation": "The velocities are perpendicular: R = √(2.4² + 1.0²) = √(5.76 + 1.0) = √6.76 = 2.6 m/s."
+        },
+        {
+          "topic": "Equations of motion",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A train brakes from 28 m/s to 4.0 m/s over a distance of 160 m. What is its acceleration?",
+          "options": ["−2.4 m/s²", "−1.5 m/s²", "−4.8 m/s²", "−0.30 m/s²"],
+          "answer": "0",
+          "explanation": "Using v² = u² + 2as: 4.0² = 28² + 2a(160) → 16 = 784 + 320a → 320a = −768 → a = −2.4 m/s²."
+        },
+        {
+          "topic": "Projectile motion",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An arrow is shot horizontally at 40 m/s from a height of 1.8 m. Taking g = 10 m/s², how far does it travel horizontally before hitting the ground?",
+          "options": ["24 m", "16 m", "40 m", "72 m"],
+          "answer": "0",
+          "explanation": "Time to fall: 1.8 = ½ × 10 × t² → t² = 0.36 → t = 0.60 s. Horizontal range = 40 × 0.60 = 24 m."
+        },
+        {
+          "topic": "Free fall",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A coin is thrown straight up at 14 m/s. Taking g = 9.8 m/s², how long until it returns to the thrower's hand?",
+          "options": ["1.4 s", "2.9 s", "0.70 s", "5.7 s"],
+          "answer": "1",
+          "explanation": "Time up = u/g = 14/9.8 = 1.43 s; total time = 2 × 1.43 = 2.9 s (time up equals time down)."
+        },
+        {
+          "topic": "Conservation of momentum",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A 3.0 kg trolley at 4.0 m/s collides with a 5.0 kg trolley moving the opposite way at 2.0 m/s. If they stick together, what is their common velocity?",
+          "options": ["0.25 m/s in the 3.0 kg trolley's direction", "0.25 m/s in the 5.0 kg trolley's direction", "1.0 m/s in the 3.0 kg trolley's direction", "2.75 m/s in the 5.0 kg trolley's direction"],
+          "answer": "0",
+          "explanation": "Take the 3.0 kg direction as positive: (3.0 × 4.0) + (5.0 × −2.0) = 12 − 10 = 2.0 kg·m/s = (8.0)v, so v = +0.25 m/s, i.e. in the 3.0 kg trolley's direction."
+        },
+        {
+          "topic": "Impulse",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A 0.058 kg tennis ball arrives at 30 m/s and is returned straight back at 36 m/s. What is the magnitude of the impulse on the ball?",
+          "options": ["0.35 N·s", "3.8 N·s", "0.058 N·s", "2.1 N·s"],
+          "answer": "1",
+          "explanation": "Taking the incoming direction as positive: Δp = m(v − u) = 0.058 × (−36 − 30) = 0.058 × (−66) = −3.8 N·s, so the magnitude is 3.8 N·s."
+        },
+        {
+          "topic": "Centripetal force",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A 0.25 kg ball on a string is whirled in a horizontal circle of radius 0.40 m, completing 3.0 revolutions every second. Taking 2π ≈ 6.28, what centripetal force is needed?",
+          "options": ["36 N", "9.5 N", "18 N", "142 N"],
+          "answer": "0",
+          "explanation": "ω = 3.0 × 2π = 18.84 rad/s. F = mω²r = 0.25 × 18.84² × 0.40 = 0.25 × 354.9 × 0.40 ≈ 36 N."
+        },
+        {
+          "topic": "Work-energy theorem",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A 1200 kg car travelling at 15 m/s is brought to rest by its brakes over 25 m. What average braking force acts on it?",
+          "options": ["3600 N", "5400 N", "7200 N", "10800 N"],
+          "answer": "1",
+          "explanation": "Work-energy theorem: braking work = ΔKE = ½ × 1200 × 15² = 135 000 J over 25 m, so F = 135 000 / 25 = 5400 N."
+        },
+        {
+          "topic": "Conservation of energy",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A 0.50 kg ball is dropped from 8.0 m onto a spring. Taking g = 10 m/s², what is its kinetic energy the instant before it touches the spring (ignore air resistance)?",
+          "options": ["4.0 J", "40 J", "80 J", "20 J"],
+          "answer": "1",
+          "explanation": "All the gravitational PE becomes KE: KE = mgh = 0.50 × 10 × 8.0 = 40 J."
+        },
+        {
+          "topic": "Rotational dynamics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A wheel of moment of inertia 0.80 kg·m² speeds up from rest to 12 rad/s in 4.0 s. What net torque acts on it?",
+          "options": ["2.4 N·m", "3.0 N·m", "0.27 N·m", "9.6 N·m"],
+          "answer": "0",
+          "explanation": "α = (ω − ω₀)/t = 12/4.0 = 3.0 rad/s²; τ = Iα = 0.80 × 3.0 = 2.4 N·m."
+        },
+        {
+          "topic": "Conservation of angular momentum",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A merry-go-round of moment of inertia 120 kg·m² turns at 1.5 rad/s. A child climbs on, raising the moment of inertia to 180 kg·m². What is the new angular speed?",
+          "options": ["2.25 rad/s", "1.0 rad/s", "0.75 rad/s", "1.5 rad/s"],
+          "answer": "1",
+          "explanation": "Conserving angular momentum: I₁ω₁ = I₂ω₂ → 120 × 1.5 = 180 × ω₂ → ω₂ = 180/180 = 1.0 rad/s."
+        },
+        {
+          "topic": "Young's modulus",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A wire of length 3.0 m and cross-sectional area 4.0 × 10⁻⁷ m² stretches by 1.5 mm under a 40 N load. What is its Young's modulus?",
+          "options": ["1.0 × 10¹¹ Pa", "2.0 × 10¹¹ Pa", "5.0 × 10¹⁰ Pa", "4.0 × 10¹¹ Pa"],
+          "answer": "1",
+          "explanation": "Stress = F/A = 40/(4.0 × 10⁻⁷) = 1.0 × 10⁸ Pa; strain = (1.5 × 10⁻³)/3.0 = 5.0 × 10⁻⁴. E = stress/strain = (1.0 × 10⁸)/(5.0 × 10⁻⁴) = 2.0 × 10¹¹ Pa."
+        },
+        {
+          "topic": "Hydraulic press",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a hydraulic lift, a force of 90 N is applied to a piston of area 6.0 cm². What load can be raised on a piston of area 300 cm²? (Pascal's principle)",
+          "options": ["1.8 N", "4500 N", "450 N", "1800 N"],
+          "answer": "1",
+          "explanation": "Pressure is equal: F₂ = F₁ × (A₂/A₁) = 90 × (300/6.0) = 90 × 50 = 4500 N."
+        },
+        {
+          "topic": "Thermal expansion",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A copper pipe 6.0 m long (α = 1.7 × 10⁻⁵ /°C) is cooled from 35 °C to 5 °C. By how much does its length change?",
+          "options": ["+3.1 × 10⁻³ m", "−3.1 × 10⁻³ m", "−1.0 × 10⁻³ m", "−6.1 × 10⁻³ m"],
+          "answer": "1",
+          "explanation": "ΔT = 5 − 35 = −30 °C; ΔL = αLΔT = 1.7 × 10⁻⁵ × 6.0 × (−30) = −3.06 × 10⁻³ m, so it contracts by about 3.1 mm."
+        },
+        {
+          "topic": "Significant figures",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A density is calculated by dividing a mass of 56.0 g by a volume of 8.0 cm³. To the correct number of significant figures, the result is:",
+          "options": ["7.00 g/cm³", "7.0 g/cm³", "7 g/cm³", "7.000 g/cm³"],
+          "answer": "1",
+          "explanation": "The volume 8.0 cm³ has only 2 significant figures, the least precise value, so the answer 7.00 must be given to 2 s.f. as 7.0 g/cm³."
+        },
+        {
+          "topic": "Projectile motion",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A ball is launched at 50 m/s at 37° above the horizontal on level ground. Taking g = 10 m/s², sin 37° = 0.60 and cos 37° = 0.80, what is its horizontal range?",
+          "options": ["120 m", "240 m", "180 m", "300 m"],
+          "answer": "1",
+          "explanation": "u_y = 50 × 0.60 = 30 m/s, so time of flight T = 2u_y/g = 60/10 = 6.0 s; u_x = 50 × 0.80 = 40 m/s. Range = u_x × T = 40 × 6.0 = 240 m."
+        },
+        {
+          "topic": "Elastic collision",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A 1.0 kg ball moving at 8.0 m/s collides head-on with a stationary 3.0 kg ball in a perfectly inelastic collision. What fraction of the original kinetic energy remains as kinetic energy after the collision?",
+          "options": ["1/4", "1/2", "3/4", "1"],
+          "answer": "0",
+          "explanation": "Common velocity v = (1.0 × 8.0)/(1.0 + 3.0) = 2.0 m/s. KE before = ½ × 1.0 × 8.0² = 32 J; KE after = ½ × 4.0 × 2.0² = 8.0 J. Remaining = 8.0/32 = 1/4."
+        },
+        {
+          "topic": "Equilibrium and tension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A 8.0 kg lamp hangs in the middle of a wire whose two halves each make 20° with the horizontal ceiling. Taking g = 10 m/s² and sin 20° = 0.34, what is the tension in each half of the wire?",
+          "options": ["80 N", "118 N", "235 N", "40 N"],
+          "answer": "1",
+          "explanation": "The two vertical components support the weight: 2T sin 20° = mg → 2T(0.34) = 80 → 0.68T = 80 → T ≈ 118 N."
+        },
+        {
+          "topic": "Buoyancy and floating",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "An iceberg of density 920 kg/m³ floats in seawater of density 1025 kg/m³. What fraction of its volume sits below the surface?",
+          "options": ["0.90", "0.10", "0.11", "1.11"],
+          "answer": "0",
+          "explanation": "A floating object sinks until the displaced fluid's weight equals its own: fraction submerged = ρ_object / ρ_fluid = 920/1025 ≈ 0.90."
+        }
+      ]
+    }
+  ]
+}

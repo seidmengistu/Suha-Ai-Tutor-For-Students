@@ -1,0 +1,1130 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "biology",
+      "chapters": [
+        {
+          "title": "Application of Biology (Biotechnology)",
+          "description": "How living cells and biological processes are used to make useful products and solve real problems.",
+          "lessons": [
+            {
+              "title": "Biotechnology and Its Uses",
+              "summary": "Biotechnology uses living organisms or their parts to make useful products such as food, medicine, and fuel. This lesson explains the main techniques and why they matter for Ethiopia.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Biotechnology** is the use of **living organisms** (or parts of them, such as cells and enzymes) to make useful products or to carry out useful processes. People have used biotechnology for thousands of years without knowing it. When Ethiopians make **injera** from teff or brew **tella**, tiny living things called **microorganisms** are doing the work.\n\nModern biotechnology adds new tools. Scientists can now move a single **gene** (a unit of instructions in **DNA**) from one organism into another to give it a new ability. This lets us make medicines like **insulin** cheaply and grow crops that resist disease."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **biotechnology** and give everyday examples.\n- Explain **fermentation** and how it is used in food production.\n- Describe **genetic engineering** in simple steps.\n- List uses of biotechnology in **medicine, agriculture, and the environment**.\n- Discuss benefits and concerns of biotechnology."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key Ideas",
+                  "body": "**1. Fermentation**\n**Fermentation** is the breakdown of sugars by microorganisms (like **yeast** and **bacteria**) without oxygen, releasing useful products. *Why it works:* microorganisms get energy from sugar even without oxygen, and the by-products (alcohol, acids, gas) are useful to us.\n\n- **Yeast** turns sugar into **alcohol** and **carbon dioxide** gas. The gas makes bread rise.\n- **Bacteria** turn milk sugar into **lactic acid**, making yoghurt and cheese.\n\n**2. Genetic engineering**\n**Genetic engineering** means changing an organism's **DNA** by adding, removing, or editing genes. *Why it matters:* a gene is a set of instructions to make a protein. If we put a useful gene into bacteria, the bacteria will follow those instructions and make the protein for us.\n\n**3. Useful enzymes**\n**Enzymes** are proteins that speed up reactions. They are used in washing powders (to remove stains) and in food processing.\n\n*Why biotechnology is powerful:* it lets us use the natural abilities of cells, which are far cheaper and more precise than building chemicals from scratch."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Making Insulin with Bacteria",
+                  "body": "**Problem:** People with diabetes need the hormone **insulin**. How can bacteria be used to make human insulin? Follow the labelled process.\n\n**Step 1 — Find the gene.** Locate the **human insulin gene** (the DNA instructions for insulin).\n\n**Step 2 — Cut.** Use special **restriction enzymes** (molecular scissors) to cut out the insulin gene.\n\n**Step 3 — Prepare the carrier.** Take a small ring of bacterial DNA called a **plasmid** and cut it open with the same enzyme.\n\n**Step 4 — Join.** Use the enzyme **DNA ligase** (molecular glue) to join the insulin gene into the plasmid. This new combined DNA is called **recombinant DNA**.\n\n**Step 5 — Insert.** Put the plasmid back into **bacteria**.\n\n**Step 6 — Grow and collect.** The bacteria multiply quickly. Each one reads the insulin gene and makes **human insulin**, which is then purified.\n\n**Result:** Cheap, pure insulin made in large amounts. This is a clear example of **genetic engineering** solving a real medical problem."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Mistake:** Thinking fermentation always needs oxygen. **Correct:** Fermentation happens **without oxygen** (anaerobic).\n- **Mistake:** Saying genetic engineering creates brand-new genes from nothing. **Correct:** It usually **moves or edits existing genes**.\n- **Mistake:** Confusing a **plasmid** (small DNA ring used as a carrier) with the main chromosome. **Correct:** A plasmid is a separate small ring of DNA in bacteria.\n- **Mistake:** Believing all biotechnology is modern. **Correct:** Making injera, yoghurt, and tella are **traditional biotechnology**."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"Cut, Glue, Grow\"** = the three big steps of genetic engineering (cut the gene, glue it into a plasmid, grow the bacteria).\n- Remember **restriction enzymes = scissors** and **ligase = glue** (ligase sounds like *league/link*, it links DNA).\n- **Yeast = Yummy bread + alcohol** (it makes CO2 for bread and alcohol for drinks).\n- **\"Bacteria factories\"**: think of engineered bacteria as tiny factories making proteins."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers.\n\n**Q1.** Name the microorganism that makes bread rise and the gas it produces.\n**Q2.** What is **recombinant DNA**?\n**Q3.** Give one use of biotechnology in medicine and one in agriculture.\n\n**Answers:**\n- **A1.** **Yeast**; it produces **carbon dioxide** gas.\n- **A2.** DNA made by joining DNA from two different sources (for example, the human insulin gene joined to a bacterial plasmid).\n- **A3.** Medicine: making **insulin** (or vaccines). Agriculture: making **pest-resistant or drought-resistant crops**."
+                },
+                {
+                  "type": "visual",
+                  "title": "Visual: A Bacterial Cell Used in Genetic Engineering",
+                  "body": "This diagram shows a bacterial cell. The small ring (**plasmid**) is the carrier used to insert a useful gene.",
+                  "visual": {
+                    "kind": "cell",
+                    "caption": "A bacterial cell. The plasmid (small DNA ring) carries the inserted human gene; the bacterium then makes the protein.",
+                    "labels": [
+                      "Cell wall (protective outer layer)",
+                      "Cell membrane (controls what enters/leaves)",
+                      "Cytoplasm (jelly where reactions happen)",
+                      "Chromosomal DNA (main genetic material)",
+                      "Plasmid (small DNA ring used to carry a new gene)"
+                    ]
+                  }
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Biotechnology** = using living things to make useful products.\n- **Fermentation** uses microorganisms without oxygen (bread, injera, yoghurt, tella).\n- **Genetic engineering** = cut a gene, glue it into a **plasmid**, grow it in **bacteria**.\n- **Restriction enzymes** cut DNA; **DNA ligase** joins it; the result is **recombinant DNA**.\n- Uses: **medicine** (insulin, vaccines), **agriculture** (better crops), **environment** (cleaning pollution).\n- Ethiopia uses both **traditional** and **modern** biotechnology."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson.",
+                  "glossary": [
+                    { "term": "Biotechnology", "definition": "Using living organisms or their parts to make useful products or carry out useful processes." },
+                    { "term": "Fermentation", "definition": "The breakdown of sugars by microorganisms without oxygen, producing useful substances like alcohol or acid." },
+                    { "term": "Genetic engineering", "definition": "Changing an organism's DNA by adding, removing, or editing genes." },
+                    { "term": "Plasmid", "definition": "A small ring of DNA in bacteria, used as a carrier to insert new genes." },
+                    { "term": "Recombinant DNA", "definition": "DNA formed by joining DNA from two different sources." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is biotechnology?", "back": "Using living organisms (or their parts) to make useful products or carry out useful processes." },
+                { "front": "What does yeast produce during fermentation?", "back": "Alcohol and carbon dioxide gas (the gas makes bread/injera rise)." },
+                { "front": "What is a plasmid?", "back": "A small ring of DNA in bacteria, used to carry a new gene into the cell." },
+                { "front": "What do restriction enzymes and DNA ligase do?", "back": "Restriction enzymes cut DNA (scissors); DNA ligase joins DNA pieces (glue)." },
+                { "front": "Give one medical use of genetic engineering.", "back": "Making human insulin (or vaccines) using bacteria." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Fermentation",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Fermentation by yeast happens in which condition?",
+              "options": ["With plenty of oxygen", "Without oxygen", "Only in sunlight", "Only at very high temperature"],
+              "answer": "1",
+              "explanation": "Fermentation is anaerobic: yeast breaks down sugar without oxygen, producing alcohol and carbon dioxide."
+            },
+            {
+              "topic": "Traditional biotechnology",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which Ethiopian food is made using microorganisms (fermentation)?",
+              "options": ["Boiled potato", "Injera", "Fresh fruit", "Roasted maize"],
+              "answer": "1",
+              "explanation": "Injera is made from fermented teff batter, where microorganisms break down sugars before baking."
+            },
+            {
+              "topic": "Genetic engineering tools",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the role of restriction enzymes in genetic engineering?",
+              "options": ["To join DNA pieces together", "To cut DNA at specific points", "To copy whole cells", "To kill bacteria"],
+              "answer": "1",
+              "explanation": "Restriction enzymes act like molecular scissors, cutting DNA at specific sequences so a gene can be removed or inserted."
+            },
+            {
+              "topic": "Recombinant DNA",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Recombinant DNA is best described as:",
+              "options": ["DNA that has been destroyed", "DNA from two different sources joined together", "DNA found only in humans", "DNA without any genes"],
+              "answer": "1",
+              "explanation": "Recombinant DNA is made by joining DNA from two sources, such as a human gene inserted into a bacterial plasmid."
+            },
+            {
+              "topic": "Applications of biotechnology",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Bacteria are used to make human insulin because they:",
+              "options": ["Naturally produce human insulin", "Can read an inserted human gene and make the protein", "Are larger than human cells", "Do not contain any DNA"],
+              "answer": "1",
+              "explanation": "When the human insulin gene is inserted, bacteria read those instructions and make human insulin, multiplying quickly to produce large amounts."
+            },
+            {
+              "topic": "Biotechnology overview",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which sequence correctly shows the main steps of genetic engineering?",
+              "options": ["Grow bacteria → cut gene → insert plasmid", "Cut gene → join into plasmid → insert into bacteria → grow", "Insert into bacteria → cut gene → glue", "Join gene → grow bacteria → cut gene"],
+              "answer": "1",
+              "explanation": "The correct order is: cut out the gene, join (glue) it into a plasmid, insert the plasmid into bacteria, then grow the bacteria to make the product."
+            }
+          ]
+        },
+        {
+          "title": "Microorganisms",
+          "description": "The main groups of tiny living things and their helpful and harmful effects on humans.",
+          "lessons": [
+            {
+              "title": "Types and Importance of Microorganisms",
+              "summary": "Microorganisms are living things too small to see without a microscope, including bacteria, viruses, fungi, and protozoa. This lesson covers their groups, structures, and their roles in health, food, and the environment.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "A **microorganism** (or microbe) is a living thing so small you need a **microscope** to see it. They are everywhere: in soil, water, air, food, and inside your body. Most are harmless or helpful; only a few cause disease.\n\nMicroorganisms recycle dead material, make food like injera and yoghurt, and even live in your gut to help digestion. But some, called **pathogens**, cause diseases such as tuberculosis (TB), malaria, and COVID-19. Understanding them helps us stay healthy and use them wisely."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- List the main groups of **microorganisms**.\n- Describe the basic structure of **bacteria** and **viruses**.\n- Explain why **viruses** are different from other microbes.\n- Give examples of **helpful** and **harmful** microorganisms.\n- Explain how diseases caused by microbes can be prevented."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key Ideas",
+                  "body": "**The main groups:**\n\n- **Bacteria:** single-celled organisms with no true nucleus (their DNA floats free). Some cause disease; many are helpful.\n- **Viruses:** extremely tiny particles made of **genetic material (DNA or RNA)** inside a protein coat. *Why special:* a virus is **not fully alive on its own** — it can only reproduce by entering a living **host cell** and using it.\n- **Fungi:** include yeasts and moulds. Yeast helps make bread; some moulds cause infections, others give us the antibiotic **penicillin**.\n- **Protozoa:** single-celled animal-like microbes. *Plasmodium*, which causes **malaria**, is a protozoan.\n\n**Why microorganisms matter (the WHY):**\n- **Decomposers:** bacteria and fungi break down dead plants and animals, returning nutrients to the soil. Without them, dead matter would pile up.\n- **In our body:** helpful gut bacteria help digest food and make some vitamins.\n- **Disease:** pathogens damage the body or release toxins, causing illness.\n\n**Spread of disease:** microbes spread through air (coughing), water, food, contact, and insects (vectors like mosquitoes)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: How a Virus Multiplies (Labelled Process)",
+                  "body": "**Question:** A virus cannot reproduce by itself. How does it make more copies inside the body? Follow the labelled steps.\n\n**Step 1 — Attach.** The virus attaches to the surface of a living **host cell** (for example, a cell in your throat).\n\n**Step 2 — Enter.** The virus injects or releases its **genetic material (DNA or RNA)** into the host cell.\n\n**Step 3 — Take over.** The virus's instructions force the **host cell's machinery** to make many new virus parts.\n\n**Step 4 — Assemble.** The new parts join together to form many new virus particles.\n\n**Step 5 — Release.** The host cell bursts (or releases the viruses), and the new viruses infect more cells.\n\n**Conclusion:** Because a virus needs a host cell to copy itself, it is described as being **on the border between living and non-living**. This is why **antibiotics do not work on viruses** — antibiotics target bacteria, not viruses."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Mistake:** Thinking all microorganisms cause disease. **Correct:** Most are harmless or helpful; only a few are **pathogens**.\n- **Mistake:** Using **antibiotics** to treat viral colds or flu. **Correct:** Antibiotics kill **bacteria**, not viruses.\n- **Mistake:** Saying bacteria have a nucleus like animal cells. **Correct:** Bacteria have **no true nucleus**; their DNA floats in the cytoplasm.\n- **Mistake:** Calling malaria a bacterial disease. **Correct:** Malaria is caused by a **protozoan** (*Plasmodium*), spread by mosquitoes."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"BVFP\"** = Bacteria, Viruses, Fungi, Protozoa (the four main groups). Try: **\"Big Viruses Frighten People.\"**\n- **Virus = \"borrows\" a cell** (a virus must borrow a host cell to reproduce).\n- **Antibiotics = Anti-Bacteria** (the word reminds you they target bacteria, not viruses).\n- **Malaria → Mosquito → protozoan** (three M-ideas linked: Malaria carried by Mosquito is a protozoan)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers.\n\n**Q1.** Why can't a virus reproduce on its own?\n**Q2.** Name one helpful role of bacteria in the environment.\n**Q3.** Which microbe causes malaria, and how does it spread?\n\n**Answers:**\n- **A1.** A virus has no machinery of its own; it must use a **living host cell** to make copies of itself.\n- **A2.** As a **decomposer**, breaking down dead matter and returning nutrients to the soil (also gut bacteria aid digestion).\n- **A3.** The **protozoan *Plasmodium***; it spreads through the bite of an infected **mosquito**."
+                },
+                {
+                  "type": "visual",
+                  "title": "Visual: Structure of a Bacterial Cell",
+                  "body": "This diagram shows the parts of a typical bacterium. Notice it has no true nucleus.",
+                  "visual": {
+                    "kind": "cell",
+                    "caption": "A bacterial cell. Its DNA is not enclosed in a nucleus; it floats in the cytoplasm.",
+                    "labels": [
+                      "Cell wall (rigid protective layer)",
+                      "Cell membrane (controls entry and exit)",
+                      "Cytoplasm (jelly-like inside)",
+                      "DNA (genetic material, not in a nucleus)",
+                      "Flagellum (tail for movement)"
+                    ]
+                  }
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Microorganisms** are tiny living things seen only with a microscope.\n- Four main groups: **Bacteria, Viruses, Fungi, Protozoa**.\n- **Bacteria** have no true nucleus; **viruses** need a host cell to reproduce.\n- Microbes are mostly **helpful**: decomposers, food-making, gut health.\n- A few are **pathogens** (cause disease) and spread by air, water, food, contact, and vectors.\n- **Antibiotics** treat bacteria, **not** viruses."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson.",
+                  "glossary": [
+                    { "term": "Microorganism", "definition": "A living thing too small to see without a microscope, such as a bacterium or virus." },
+                    { "term": "Pathogen", "definition": "A microorganism that causes disease." },
+                    { "term": "Virus", "definition": "A tiny particle of genetic material in a protein coat that can only reproduce inside a living host cell." },
+                    { "term": "Host cell", "definition": "A living cell that a virus enters and uses to make copies of itself." },
+                    { "term": "Decomposer", "definition": "An organism (often a bacterium or fungus) that breaks down dead matter and returns nutrients to the environment." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What are the four main groups of microorganisms?", "back": "Bacteria, Viruses, Fungi, and Protozoa." },
+                { "front": "Why is a virus said to be on the border of living and non-living?", "back": "It cannot reproduce on its own; it must use a living host cell." },
+                { "front": "Do antibiotics work on viruses?", "back": "No. Antibiotics kill bacteria, not viruses." },
+                { "front": "Which microbe causes malaria?", "back": "The protozoan Plasmodium, spread by mosquito bites." },
+                { "front": "Name one helpful role of microorganisms.", "back": "Decomposing dead matter to recycle nutrients (or aiding digestion in the gut)." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Groups of microbes",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of these is a microorganism that needs a host cell to reproduce?",
+              "options": ["Bacterium", "Virus", "Yeast", "Protozoan"],
+              "answer": "1",
+              "explanation": "A virus cannot reproduce by itself; it must enter a living host cell and use the cell's machinery."
+            },
+            {
+              "topic": "Bacterial structure",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Bacteria differ from animal cells because bacteria have:",
+              "options": ["No true nucleus", "Two nuclei", "No DNA", "A backbone"],
+              "answer": "0",
+              "explanation": "Bacteria have no true nucleus; their DNA floats freely in the cytoplasm."
+            },
+            {
+              "topic": "Disease treatment",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Why are antibiotics useless against the common cold?",
+              "options": ["Colds are caused by fungi", "Colds are caused by viruses, not bacteria", "Antibiotics are too strong", "Colds are not infections"],
+              "answer": "1",
+              "explanation": "The common cold is caused by viruses, and antibiotics only target bacteria."
+            },
+            {
+              "topic": "Malaria",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Malaria is caused by a protozoan that is spread by:",
+              "options": ["Drinking dirty water", "Mosquito bites", "Coughing", "Touching surfaces"],
+              "answer": "1",
+              "explanation": "The malaria protozoan Plasmodium is transmitted to humans through the bite of an infected mosquito (a vector)."
+            },
+            {
+              "topic": "Roles of microbes",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "If all decomposer microorganisms suddenly disappeared, what would happen?",
+              "options": ["Nutrients would recycle faster", "Dead matter would pile up and nutrients would not return to soil", "Plants would grow better", "Nothing would change"],
+              "answer": "1",
+              "explanation": "Decomposers break down dead matter; without them, dead organisms would accumulate and nutrients would not be released back into the soil."
+            },
+            {
+              "topic": "Microorganisms overview",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which statement about microorganisms is CORRECT?",
+              "options": ["All microorganisms cause disease", "Viruses are larger than bacteria", "Most microorganisms are harmless or helpful", "Fungi reproduce only inside host cells"],
+              "answer": "2",
+              "explanation": "Only a small number of microorganisms are pathogens; most are harmless or beneficial. Viruses are smaller than bacteria, and only viruses (not fungi) require host cells."
+            }
+          ]
+        },
+        {
+          "title": "Genetics",
+          "description": "How traits are passed from parents to offspring through genes, and how we predict inheritance.",
+          "lessons": [
+            {
+              "title": "Mendelian Inheritance and Genetic Crosses",
+              "summary": "Genetics studies how characteristics are inherited through genes carried on chromosomes. This lesson explains dominant and recessive alleles and how to predict offspring using a Punnett square.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Have you noticed that children often look like their parents? This passing of features from parents to offspring is called **inheritance**, and the science that studies it is **genetics**.\n\nThe units that carry instructions for our features are called **genes**. Genes are found on **chromosomes** inside the nucleus of cells. A monk named **Gregor Mendel** studied pea plants and discovered the basic rules of inheritance, so these rules are called **Mendelian genetics**. With them, we can predict the chance that a child will have a certain trait."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **gene, allele, dominant, recessive, genotype,** and **phenotype**.\n- Explain the difference between **homozygous** and **heterozygous**.\n- Use a **Punnett square** to predict offspring ratios.\n- Solve a simple **monohybrid cross**.\n- Relate genetics to real human traits and diseases."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key Ideas",
+                  "body": "**Genes and alleles**\nA **gene** is a unit of instructions for a feature (for example, seed colour). Each gene can exist in different forms called **alleles** (for example, an allele for yellow seeds and an allele for green seeds).\n\n**Dominant and recessive**\n- A **dominant allele** shows its effect even if only one copy is present. We write it as a **capital letter** (e.g., **Y**).\n- A **recessive allele** only shows its effect when **two copies** are present. We write it as a **small letter** (e.g., **y**).\n\n*Why:* you inherit one allele from each parent. If a dominant allele is present, it 'hides' the recessive one. That is why a recessive trait can skip a generation.\n\n**Genotype and phenotype**\n- **Genotype** = the alleles an organism carries (e.g., **YY**, **Yy**, or **yy**).\n- **Phenotype** = the visible trait (e.g., yellow or green seeds).\n- **Homozygous** = two same alleles (YY or yy). **Heterozygous** = two different alleles (Yy).\n\n**The Punnett square** is a simple grid that shows all possible combinations of alleles from two parents, so we can predict the chance of each genotype and phenotype."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: A Monohybrid Cross (Punnett Square)",
+                  "body": "**Problem:** In pea plants, yellow seed (**Y**) is dominant over green seed (**y**). Cross two heterozygous yellow plants (**Yy × Yy**). What are the offspring ratios?\n\n**Step 1 — Write the parent genotypes.**\nParent 1 = **Yy**, Parent 2 = **Yy**.\n\n**Step 2 — Find the gametes (sex cells).** Each parent can pass on **Y** or **y**.\n\n**Step 3 — Draw the Punnett square** (top = Parent 1 gametes, side = Parent 2 gametes):\n\n```\n        Y        y\n   ---------------------\n Y |   YY    |   Yy   |\n   ---------------------\n y |   Yy    |   yy   |\n   ---------------------\n```\n\n**Step 4 — Read the genotypes.**\n- **YY** = 1\n- **Yy** = 2\n- **yy** = 1\n\nSo the **genotype ratio** is **1 YY : 2 Yy : 1 yy**.\n\n**Step 5 — Find the phenotypes.**\n- **YY** and **Yy** = yellow (3 boxes)\n- **yy** = green (1 box)\n\nSo the **phenotype ratio** is **3 yellow : 1 green**.\n\n**Conclusion:** A cross of two heterozygotes always gives the famous **3:1 ratio**. There is a **75% chance** of yellow and a **25% chance** of green seeds."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Mistake:** Mixing up **genotype** and **phenotype**. **Correct:** Genotype = the alleles (Yy); phenotype = the visible trait (yellow).\n- **Mistake:** Writing a dominant allele as a small letter. **Correct:** Dominant = **capital** letter; recessive = **small** letter.\n- **Mistake:** Thinking **Yy** is green. **Correct:** **Yy** shows the **dominant** trait (yellow), because one dominant allele is enough.\n- **Mistake:** Forgetting that ratios are **probabilities**, not exact numbers. **Correct:** 3:1 is the *expected chance*; real families may differ."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"Big bullies win\"**: the **capital (dominant)** allele beats the small (recessive) one.\n- **GenoTYPE = TYPE of alleles; PHENOtype = what you SEE** (pheno sounds like 'phone/show' — what shows).\n- **HOMOzygous = sHOMe/same** (two same alleles); **HETEROzygous = different** (hetero means different).\n- For a heterozygous cross, remember the magic ratio **3:1** (phenotype) and **1:2:1** (genotype)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers.\n\n**Q1.** What is the genotype ratio from a **Yy × Yy** cross?\n**Q2.** A plant is **Tt** for tallness (T dominant). Is it tall or short, and why?\n**Q3.** Cross **TT × tt**. What is the genotype and phenotype of all offspring?\n\n**Answers:**\n- **A1.** **1 YY : 2 Yy : 1 yy.**\n- **A2.** **Tall**, because the dominant allele **T** shows its effect even with one copy.\n- **A3.** All offspring are **Tt** (heterozygous) and all show the **dominant (tall)** phenotype."
+                },
+                {
+                  "type": "visual",
+                  "title": "Visual: Chromosomes Carry Genes",
+                  "body": "Genes sit on chromosomes inside the cell nucleus. The bar chart below compares the expected offspring from a Yy x Yy cross.",
+                  "visual": {
+                    "kind": "bar-chart",
+                    "caption": "Expected offspring phenotypes from a Yy x Yy cross (out of 4): yellow vs green seeds.",
+                    "data": [
+                      { "label": "Yellow seeds", "value": 3 },
+                      { "label": "Green seeds", "value": 1 }
+                    ]
+                  }
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Genetics** studies how traits pass from parents to offspring via **genes**.\n- An **allele** is a form of a gene; **dominant** (capital) hides **recessive** (small).\n- **Genotype** = the alleles; **phenotype** = the visible trait.\n- **Homozygous** = same alleles (YY, yy); **heterozygous** = different (Yy).\n- A **Punnett square** predicts offspring.\n- **Yy × Yy** gives **3:1** phenotype ratio and **1:2:1** genotype ratio."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson.",
+                  "glossary": [
+                    { "term": "Gene", "definition": "A unit of instructions that controls a feature, carried on a chromosome." },
+                    { "term": "Allele", "definition": "A different form of the same gene (for example, an allele for yellow or for green seeds)." },
+                    { "term": "Dominant allele", "definition": "An allele that shows its effect even when only one copy is present (written as a capital letter)." },
+                    { "term": "Recessive allele", "definition": "An allele that shows its effect only when two copies are present (written as a small letter)." },
+                    { "term": "Genotype", "definition": "The set of alleles an organism has (for example, Yy)." },
+                    { "term": "Phenotype", "definition": "The visible characteristic produced by the genotype (for example, yellow seeds)." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the difference between genotype and phenotype?", "back": "Genotype = the alleles an organism carries (Yy). Phenotype = the visible trait (yellow)." },
+                { "front": "How are dominant and recessive alleles written?", "back": "Dominant = capital letter (Y); recessive = small letter (y)." },
+                { "front": "What phenotype ratio comes from a Yy x Yy cross?", "back": "3:1 (three dominant : one recessive)." },
+                { "front": "What does heterozygous mean?", "back": "Having two different alleles for a gene (for example, Yy)." },
+                { "front": "What is a Punnett square used for?", "back": "To predict the possible genotypes and phenotypes of offspring from a cross." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Basic terms",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "An allele written with a capital letter (e.g., T) is:",
+              "options": ["Recessive", "Dominant", "A phenotype", "A chromosome"],
+              "answer": "1",
+              "explanation": "By convention, dominant alleles are written with capital letters and recessive alleles with small letters."
+            },
+            {
+              "topic": "Genotype vs phenotype",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "The genotype 'Yy' produces which phenotype if Y (yellow) is dominant over y (green)?",
+              "options": ["Green", "Yellow", "Half yellow, half green", "No colour"],
+              "answer": "1",
+              "explanation": "Because one dominant allele (Y) is enough to show its effect, Yy gives the yellow phenotype."
+            },
+            {
+              "topic": "Monohybrid cross",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A cross between two heterozygous plants (Tt x Tt) gives what phenotype ratio?",
+              "options": ["1:1", "3:1", "9:3:3:1", "2:2"],
+              "answer": "1",
+              "explanation": "A heterozygous cross (Tt x Tt) gives a 3:1 ratio of dominant to recessive phenotypes."
+            },
+            {
+              "topic": "Homozygous cross",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "If TT (tall) is crossed with tt (short), what are all the offspring?",
+              "options": ["All short", "All Tt and tall", "Half tall, half short", "All TT"],
+              "answer": "1",
+              "explanation": "Each offspring gets T from one parent and t from the other, giving Tt (heterozygous), which shows the dominant tall phenotype."
+            },
+            {
+              "topic": "Genotype ratio",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "From a Yy x Yy cross, what is the genotype ratio of the offspring?",
+              "options": ["3 YY : 1 yy", "1 YY : 2 Yy : 1 yy", "All Yy", "2 YY : 2 yy"],
+              "answer": "1",
+              "explanation": "The Punnett square gives one YY, two Yy, and one yy, so the genotype ratio is 1:2:1."
+            },
+            {
+              "topic": "Genetics reasoning",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Two parents who both show a dominant trait have a child showing the recessive trait. What must be true of the parents' genotypes?",
+              "options": ["Both parents are homozygous dominant", "Both parents are heterozygous", "One parent has no alleles", "The child is wrong"],
+              "answer": "1",
+              "explanation": "For a recessive child to appear, each parent must carry a hidden recessive allele, so both parents are heterozygous (e.g., Aa x Aa)."
+            }
+          ]
+        },
+        {
+          "title": "Evolution",
+          "description": "How living things change over many generations through natural selection and shared ancestry.",
+          "lessons": [
+            {
+              "title": "Natural Selection and Evidence for Evolution",
+              "summary": "Evolution is the gradual change in living things over many generations. This lesson explains Darwin's theory of natural selection, the evidence supporting it, and how new species form.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Why are there so many different kinds of living things? **Evolution** is the process by which living things **change gradually over many generations**. The scientist **Charles Darwin** explained the main mechanism: **natural selection**.\n\nThe key idea is simple. Living things produce more offspring than can survive. Those with features that suit their environment are more likely to **survive and reproduce**, passing on those helpful features. Over a long time, this changes the whole population. Ethiopia is even called part of the **'cradle of humankind'** because important early human fossils (like *Lucy*, or *Dinkinesh*) were found here."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **evolution** and **natural selection**.\n- Explain the steps of natural selection (variation, competition, survival, inheritance).\n- Describe the main **evidence for evolution**.\n- Explain how **new species** can form.\n- Give examples, including **antibiotic resistance** and **adaptation**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key Ideas",
+                  "body": "**Natural selection** works through these stages:\n\n1. **Variation:** individuals in a population differ (some are taller, faster, etc.). *Why:* variation comes from differences in genes (and mutation).\n2. **Overproduction and competition:** more offspring are born than can survive, so they compete for food, space, and mates.\n3. **Survival of the fittest:** those with helpful features (better **adaptations**) are more likely to survive. *Fittest* means **best suited to the environment**, not strongest.\n4. **Inheritance:** survivors **reproduce** and pass their helpful genes to offspring.\n5. **Change over time:** over many generations, the helpful features become common in the population. This is evolution.\n\n**Evidence for evolution:**\n- **Fossils:** remains of past organisms show change over time (e.g., human fossils in Ethiopia).\n- **Comparative anatomy:** similar bone structures in different animals (e.g., the arm of a human, a bat's wing, a whale's flipper) suggest a **common ancestor**.\n- **DNA similarity:** species that are closely related share more DNA.\n\n**Speciation** is the formation of a **new species**, often when a population is separated and changes until the groups can no longer breed together."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Natural Selection in Action (Labelled Process)",
+                  "body": "**Scenario:** A population of beetles lives on dark tree bark. Some beetles are **dark** and some are **light**. Birds eat the beetles. Follow the labelled process of natural selection.\n\n**Step 1 — Variation.** The population has both dark and light beetles (genetic variation).\n\n**Step 2 — Selection pressure.** Birds hunt by sight. On dark bark, **light beetles are easy to see** and get eaten more.\n\n**Step 3 — Differential survival.** **Dark beetles survive** better because they are camouflaged.\n\n**Step 4 — Reproduction.** The surviving dark beetles **reproduce** and pass on the 'dark' alleles.\n\n**Step 5 — Change over generations.** After many generations, **most beetles are dark**.\n\n**Conclusion:** The environment 'selected' the dark colour. The same logic explains **antibiotic resistance**: bacteria that happen to resist a drug survive, reproduce, and create a resistant population. This is why finishing your full course of antibiotics matters."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Mistake:** Thinking an individual animal 'evolves' during its life. **Correct:** **Populations** evolve over **generations**, not individuals.\n- **Mistake:** Thinking 'fittest' means strongest or biggest. **Correct:** 'Fittest' means **best suited to the environment**.\n- **Mistake:** Thinking animals choose to develop new features because they 'need' them. **Correct:** Variation appears **first** (by chance/mutation); the environment then selects.\n- **Mistake:** Thinking evolution has a goal or aims for perfection. **Correct:** Evolution has **no goal**; it simply favours what survives now."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"VCSI\"**: **V**ariation, **C**ompetition, **S**urvival, **I**nheritance — the steps of natural selection. Try: **\"Very Clever Students Inherit.\"**\n- **'Fittest = Fit for the place'**, not the gym-strongest.\n- **Fossils, Forms, DNA** = three Fs (almost) of evidence: **Fossils**, body **Forms** (anatomy), and **DNA**.\n- **Lucy lived in Ethiopia** — link the cradle of humankind to fossil evidence."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers.\n\n**Q1.** What does 'survival of the fittest' really mean?\n**Q2.** Give two pieces of evidence for evolution.\n**Q3.** Explain how bacteria become resistant to antibiotics.\n\n**Answers:**\n- **A1.** The organisms **best suited to their environment** are most likely to survive and reproduce.\n- **A2.** Any two of: **fossils**, **comparative anatomy** (similar bones), **DNA similarity**.\n- **A3.** A few bacteria already resist the drug; they **survive and reproduce**, so over time the whole population becomes resistant."
+                },
+                {
+                  "type": "visual",
+                  "title": "Visual: Timeline of Life on Earth",
+                  "body": "Evolution happens over enormous spans of time. This simple timeline shows major milestones.",
+                  "visual": {
+                    "kind": "timeline",
+                    "caption": "A simplified timeline of major events in the history of life (mya = million years ago).",
+                    "events": [
+                      { "date": "3500 mya", "label": "First simple cells (bacteria) appear" },
+                      { "date": "500 mya", "label": "First fish (early vertebrates)" },
+                      { "date": "230 mya", "label": "Dinosaurs appear" },
+                      { "date": "3 mya", "label": "Early humans (e.g., Lucy in Ethiopia)" }
+                    ]
+                  }
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Evolution** = gradual change in living things over many **generations**.\n- **Natural selection** (Darwin): **variation → competition → survival of the fittest → inheritance**.\n- **'Fittest'** means best **suited to the environment**.\n- Evidence: **fossils**, **comparative anatomy**, **DNA similarity**.\n- **Speciation** forms new species, often after populations are separated.\n- Examples: beetle camouflage, **antibiotic resistance**, human fossils in Ethiopia."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson.",
+                  "glossary": [
+                    { "term": "Evolution", "definition": "The gradual change in the inherited features of a population over many generations." },
+                    { "term": "Natural selection", "definition": "The process where organisms best suited to their environment survive and reproduce more." },
+                    { "term": "Adaptation", "definition": "A feature that helps an organism survive in its environment." },
+                    { "term": "Variation", "definition": "Differences between individuals in a population." },
+                    { "term": "Speciation", "definition": "The formation of a new species, often after populations become separated." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is evolution?", "back": "The gradual change in the inherited features of a population over many generations." },
+                { "front": "What are the four steps of natural selection?", "back": "Variation, competition (overproduction), survival of the fittest, and inheritance." },
+                { "front": "What does 'fittest' mean in evolution?", "back": "Best suited to the environment, not the strongest." },
+                { "front": "Name two pieces of evidence for evolution.", "back": "Fossils, comparative anatomy (similar body structures), and DNA similarity." },
+                { "front": "How do bacteria become antibiotic resistant?", "back": "Resistant bacteria survive the drug, reproduce, and pass on resistance until the population is resistant." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Definition",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Evolution is best defined as:",
+              "options": ["A sudden change in one animal during its life", "Gradual change in a population over many generations", "Animals choosing new features", "The death of a species"],
+              "answer": "1",
+              "explanation": "Evolution is the gradual change in inherited features of a population across many generations."
+            },
+            {
+              "topic": "Natural selection",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "In 'survival of the fittest', the fittest organisms are those that are:",
+              "options": ["Physically strongest", "Best suited to their environment", "Largest in size", "Fastest only"],
+              "answer": "1",
+              "explanation": "'Fittest' means best suited to survive and reproduce in the current environment, not necessarily the strongest."
+            },
+            {
+              "topic": "Evidence",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Similar bone structures in a human arm, bat wing, and whale flipper are evidence of:",
+              "options": ["Different ancestors", "A common ancestor", "No relationship", "Identical lifestyles"],
+              "answer": "1",
+              "explanation": "Similar underlying bone structures (comparative anatomy) suggest these animals share a common ancestor."
+            },
+            {
+              "topic": "Antibiotic resistance",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Bacteria become resistant to an antibiotic mainly because:",
+              "options": ["They decide to resist", "Resistant ones survive and reproduce", "The antibiotic makes them stronger", "All bacteria are already resistant"],
+              "answer": "1",
+              "explanation": "A few bacteria already carry resistance; they survive treatment and reproduce, so the resistant trait spreads through natural selection."
+            },
+            {
+              "topic": "Speciation",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A new species is most likely to form when a population is:",
+              "options": ["Kept together in one place", "Separated and changes until groups can no longer interbreed", "Fed the same food", "Made smaller in number only"],
+              "answer": "1",
+              "explanation": "Speciation often occurs when populations become separated and accumulate differences until they can no longer breed together."
+            },
+            {
+              "topic": "Evolution reasoning",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which statement about natural selection is CORRECT?",
+              "options": ["Individuals evolve during their lifetime", "Variation appears first, then the environment selects favourable traits", "Evolution aims for a perfect organism", "Acquired skills are inherited"],
+              "answer": "1",
+              "explanation": "Variation already exists in a population (from genes and mutation); the environment then selects which traits survive. Populations, not individuals, evolve, and evolution has no goal."
+            }
+          ]
+        },
+        {
+          "title": "Animal Behaviour",
+          "description": "Why and how animals act the way they do, including inborn and learned behaviours.",
+          "lessons": [
+            {
+              "title": "Innate and Learned Behaviour",
+              "summary": "Behaviour is how an animal responds to its environment. This lesson explains the difference between inborn (innate) and learned behaviour and why each helps survival.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Behaviour** is the way an animal **responds to changes** in its environment (called **stimuli**). A newborn baby cries when hungry; a bird builds a nest; a dog learns to come when called. All of these are behaviours.\n\nWe divide behaviour into two main types. **Innate (inborn) behaviour** is present from birth and does not need to be learned. **Learned behaviour** develops through **experience**. Understanding behaviour helps farmers manage animals, helps protect wildlife, and explains a lot about ourselves."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **behaviour** and **stimulus**.\n- Distinguish **innate** from **learned** behaviour.\n- Describe types of innate behaviour (**reflex, instinct**).\n- Describe types of learning (**habituation, conditioning, imprinting**).\n- Explain how behaviour helps **survival**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key Ideas",
+                  "body": "**Innate (inborn) behaviour** is genetically programmed and appears without learning.\n- **Reflex:** a fast, automatic response (e.g., blinking, pulling your hand from something hot). *Why:* reflexes protect the body quickly, before you even think.\n- **Instinct:** a more complex inborn behaviour (e.g., a spider spinning a web, birds migrating).\n\n**Learned behaviour** changes because of **experience**.\n- **Habituation:** learning to ignore a repeated, harmless stimulus (e.g., a bird stops flying away from a scarecrow). *Why:* it saves energy.\n- **Conditioning:** linking a response to a new stimulus (e.g., a dog that salivates when it hears a bell linked to food).\n- **Imprinting:** young animals quickly form attachment to the first moving thing they see (often the mother), during a short early period.\n- **Trial and error:** learning by trying actions and keeping the ones that work.\n\n**Why behaviour matters (the WHY):** behaviour helps animals find food, avoid danger, find mates, and care for young. Behaviours that improve survival are favoured by **natural selection**."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Classifying Behaviour (Labelled Process)",
+                  "body": "**Task:** Decide whether each behaviour is **innate** or **learned**, and name the type. Follow the labelled reasoning.\n\n**Case A — A baby grips a finger placed in its palm.**\n- Step 1: Is it present from birth? **Yes.**\n- Step 2: Is it automatic and fast? **Yes.**\n- Conclusion: **Innate — a reflex.**\n\n**Case B — A dog sits when it hears the word 'sit'.**\n- Step 1: Was the dog born doing this? **No.**\n- Step 2: Did it develop through training (food/praise reward)? **Yes.**\n- Conclusion: **Learned — conditioning.**\n\n**Case C — Newly hatched ducklings follow the first moving object they see.**\n- Step 1: Present from birth? It appears very early, during a short sensitive period.\n- Step 2: Does it depend on what they experience first? **Yes.**\n- Conclusion: **Learned — imprinting.**\n\n**Case D — A spider builds a perfect web the first time, with no teaching.**\n- Step 1: Present without learning? **Yes.**\n- Step 2: Complex and fixed? **Yes.**\n- Conclusion: **Innate — instinct.**\n\n**Result:** Reflex and instinct are **innate**; conditioning and imprinting are **learned**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Mistake:** Thinking all complex behaviour must be learned. **Correct:** Some complex behaviours (like web-building) are **instinct (innate)**.\n- **Mistake:** Confusing a **reflex** with **instinct**. **Correct:** A reflex is **simple and very fast** (blinking); instinct is a **more complex** inborn pattern.\n- **Mistake:** Thinking **habituation** means the animal can no longer sense the stimulus. **Correct:** It still senses it but **learns to ignore** it because it is harmless.\n- **Mistake:** Calling imprinting a reflex. **Correct:** Imprinting is **learned** during a short early period."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"Born vs Learned\"**: **Reflex + Instinct = Born (innate); Conditioning + Imprinting + Habituation = Learned.**\n- **Reflex = Real fast** (both start with 'R' sound of *rapid*).\n- **Imprinting = first Impression** (a young animal follows its first impression).\n- **Habituation = Habit of ignoring** a harmless repeated thing.\n- Think of **Pavlov's dog + bell** for **conditioning**."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers.\n\n**Q1.** Pulling your hand away from a hot pot is which type of behaviour?\n**Q2.** What is **habituation**? Give an example.\n**Q3.** Why is reflex behaviour useful for survival?\n\n**Answers:**\n- **A1.** **Innate — a reflex** (automatic and fast).\n- **A2.** Learning to **ignore a repeated harmless stimulus**; e.g., birds no longer flying from a scarecrow that never harms them.\n- **A3.** It produces a **very fast, automatic protective response**, removing the body from danger before conscious thought."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Behaviour** = how an animal responds to a **stimulus**.\n- **Innate (inborn)** behaviour: present from birth — includes **reflex** (fast, simple) and **instinct** (complex).\n- **Learned** behaviour: changes with **experience** — includes **habituation, conditioning, imprinting, trial and error**.\n- Behaviour helps animals **survive and reproduce**, so it is shaped by **natural selection**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson.",
+                  "glossary": [
+                    { "term": "Behaviour", "definition": "The way an animal responds to changes (stimuli) in its environment." },
+                    { "term": "Stimulus", "definition": "A change in the environment that an animal can detect and respond to." },
+                    { "term": "Innate behaviour", "definition": "Behaviour present from birth that does not need to be learned." },
+                    { "term": "Reflex", "definition": "A fast, automatic response to a stimulus, such as blinking." },
+                    { "term": "Learned behaviour", "definition": "Behaviour that develops or changes through experience." },
+                    { "term": "Imprinting", "definition": "Rapid learning in young animals where they attach to the first moving object they see early in life." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is a stimulus?", "back": "A change in the environment that an animal can detect and respond to." },
+                { "front": "Give the two main types of behaviour.", "back": "Innate (inborn) behaviour and learned behaviour." },
+                { "front": "What is a reflex?", "back": "A fast, automatic, inborn response to a stimulus, such as blinking or pulling away from heat." },
+                { "front": "What is habituation?", "back": "Learning to ignore a repeated, harmless stimulus to save energy." },
+                { "front": "What is imprinting?", "back": "Rapid early learning where a young animal follows the first moving object it sees." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Definitions",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A change in the environment that an animal responds to is called a:",
+              "options": ["Response", "Stimulus", "Reflex", "Habit"],
+              "answer": "1",
+              "explanation": "A stimulus is the change the animal detects; the behaviour is the response to it."
+            },
+            {
+              "topic": "Innate behaviour",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Blinking when something comes near your eye is an example of:",
+              "options": ["A learned behaviour", "A reflex", "Conditioning", "Imprinting"],
+              "answer": "1",
+              "explanation": "Blinking is a fast, automatic, inborn response, which is a reflex."
+            },
+            {
+              "topic": "Learned behaviour",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A dog that salivates when it hears a bell linked to food shows:",
+              "options": ["A reflex", "Instinct", "Conditioning", "Habituation"],
+              "answer": "2",
+              "explanation": "The dog has learned to link the bell (a new stimulus) with food, which is conditioning."
+            },
+            {
+              "topic": "Habituation",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Birds that stop flying away from a harmless scarecrow have shown:",
+              "options": ["Imprinting", "Habituation", "A reflex", "Instinct"],
+              "answer": "1",
+              "explanation": "Habituation is learning to ignore a repeated, harmless stimulus to avoid wasting energy."
+            },
+            {
+              "topic": "Instinct vs learning",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A spider spins a complete web correctly the first time without being taught. This is:",
+              "options": ["Learned by trial and error", "Innate instinct", "Conditioning", "Habituation"],
+              "answer": "1",
+              "explanation": "Web-building is a complex inborn behaviour (instinct) that appears without any learning."
+            },
+            {
+              "topic": "Behaviour reasoning",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which pairing of behaviour and type is CORRECT?",
+              "options": ["Imprinting - innate reflex", "Migration instinct - learned behaviour", "Reflex - innate behaviour", "Conditioning - inborn behaviour"],
+              "answer": "2",
+              "explanation": "A reflex is innate (inborn). Imprinting and conditioning are learned, and migration is an instinct (innate), so only 'reflex - innate behaviour' is correct."
+            }
+          ]
+        },
+        {
+          "title": "Human Biology and Health",
+          "description": "How the main systems of the human body work together and how to keep them healthy.",
+          "lessons": [
+            {
+              "title": "The Human Circulatory System",
+              "summary": "The circulatory system transports blood, oxygen, and nutrients around the body. This lesson explains the heart, blood vessels, and blood, and how to keep the system healthy.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Every cell in your body needs **oxygen** and **food**, and must get rid of waste. The **circulatory system** is the body's delivery and collection network. At its centre is the **heart**, a muscular pump that pushes **blood** through tubes called **blood vessels**.\n\nBlood carries oxygen from the lungs, nutrients from the gut, and removes **carbon dioxide** and other wastes. If circulation stops, cells quickly die. That is why heart health matters so much, and why diseases of the heart are taken very seriously."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Name the parts of the **circulatory system**.\n- Describe the structure and job of the **heart**.\n- Compare **arteries, veins,** and **capillaries**.\n- Explain the **double circulation** pathway of blood.\n- Describe the components and functions of **blood**.\n- Suggest ways to keep the heart **healthy**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key Ideas",
+                  "body": "**The heart** is a muscular pump with **four chambers**: two upper **atria** (receive blood) and two lower **ventricles** (pump blood out). *Why four chambers:* it keeps **oxygen-rich** and **oxygen-poor** blood separate, which is efficient.\n\n**Blood vessels:**\n- **Arteries** carry blood **away** from the heart, at high pressure, so they have **thick muscular walls**.\n- **Veins** carry blood **back to** the heart, at low pressure, and have **valves** to stop backflow.\n- **Capillaries** are tiny, thin-walled vessels where **exchange** of oxygen, food, and waste happens between blood and cells. *Why thin:* short distance lets substances pass quickly.\n\n**Double circulation:** in humans, blood passes through the heart **twice** in one full trip:\n1. **Pulmonary circulation:** heart → **lungs** → heart (to pick up oxygen).\n2. **Systemic circulation:** heart → **body** → heart (to deliver oxygen). *Why:* this keeps pressure high and delivery efficient.\n\n**Blood** has four parts:\n- **Red blood cells:** carry oxygen using **haemoglobin**.\n- **White blood cells:** fight infection.\n- **Platelets:** help blood **clot** to stop bleeding.\n- **Plasma:** the liquid that carries cells, nutrients, and wastes."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: The Journey of a Drop of Blood (Labelled Process)",
+                  "body": "**Task:** Trace one oxygen-poor drop of blood from the body until it returns oxygen-rich to the body. Follow the labelled path.\n\n**Step 1 — Return to heart.** Oxygen-poor blood from the body enters the **right atrium**.\n\n**Step 2 — Down a chamber.** It flows into the **right ventricle**.\n\n**Step 3 — To the lungs.** The right ventricle pumps it to the **lungs** (pulmonary circulation). Here it **picks up oxygen** and **drops off carbon dioxide**.\n\n**Step 4 — Back to heart.** Now oxygen-rich, it returns to the **left atrium**.\n\n**Step 5 — Down again.** It flows into the **left ventricle**.\n\n**Step 6 — Out to the body.** The strong left ventricle pumps it through arteries to the **whole body** (systemic circulation), delivering oxygen.\n\n**Key point:** The **left ventricle has the thickest wall** because it must pump blood all around the body, while the right ventricle only pumps to the nearby lungs."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Mistake:** Thinking **arteries always carry oxygen-rich blood**. **Correct:** Most do, but the **pulmonary artery carries oxygen-poor blood** to the lungs. Arteries are defined by carrying blood **away** from the heart.\n- **Mistake:** Confusing **atria** and **ventricles**. **Correct:** **Atria receive** blood (top); **ventricles pump** it out (bottom).\n- **Mistake:** Saying veins have thick muscular walls like arteries. **Correct:** Veins have **thinner walls and valves**.\n- **Mistake:** Thinking blood passes through the heart only once. **Correct:** Humans have **double circulation** (twice per full circuit)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"A for Away\"**: **A**rteries carry blood **A**way from the heart.\n- **\"Atria = Arrive; Ventricles = Vacate\"** (blood arrives in atria, leaves via ventricles).\n- **\"Left is strongest\"**: the **L**eft ventricle pumps the **L**ongest distance (whole body), so it has the thickest wall.\n- **Veins have Valves** (both start with V) to stop backflow."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers.\n\n**Q1.** Which blood vessel has valves, and why?\n**Q2.** Why does the left ventricle have a thicker wall than the right?\n**Q3.** Name the four parts of blood and one job of each.\n\n**Answers:**\n- **A1.** **Veins**; they carry blood at low pressure, so valves **prevent backflow**.\n- **A2.** Because it pumps blood to the **whole body** (a long distance, high pressure), while the right ventricle only pumps to the lungs.\n- **A3.** **Red cells** (carry oxygen), **white cells** (fight infection), **platelets** (clotting), **plasma** (liquid transport)."
+                },
+                {
+                  "type": "visual",
+                  "title": "Visual: An Animal Cell Needs the Circulatory System",
+                  "body": "Every body cell relies on blood to bring oxygen and food and remove waste. This diagram shows a typical animal cell that the circulatory system serves.",
+                  "visual": {
+                    "kind": "cell",
+                    "caption": "A typical animal body cell. The circulatory system delivers oxygen and glucose to the mitochondria and removes carbon dioxide.",
+                    "labels": [
+                      "Cell membrane (controls what enters/leaves)",
+                      "Cytoplasm (where reactions occur)",
+                      "Nucleus (control centre with DNA)",
+                      "Mitochondria (release energy from glucose + oxygen)"
+                    ]
+                  }
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **circulatory system** = **heart** + **blood vessels** + **blood**.\n- The **heart** has **four chambers**: **atria** receive, **ventricles** pump.\n- **Arteries** carry blood **away** (thick walls); **veins** carry it **back** (valves); **capillaries** allow **exchange**.\n- **Double circulation**: pulmonary (heart-lungs) and systemic (heart-body).\n- **Blood** = red cells, white cells, platelets, plasma.\n- The **left ventricle** has the thickest wall (pumps to whole body)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson.",
+                  "glossary": [
+                    { "term": "Circulatory system", "definition": "The body system that transports blood, carrying oxygen, nutrients, and wastes." },
+                    { "term": "Artery", "definition": "A blood vessel that carries blood away from the heart, usually at high pressure." },
+                    { "term": "Vein", "definition": "A blood vessel that carries blood back to the heart and has valves to prevent backflow." },
+                    { "term": "Capillary", "definition": "A tiny, thin-walled blood vessel where exchange of substances with cells happens." },
+                    { "term": "Haemoglobin", "definition": "The substance in red blood cells that carries oxygen." },
+                    { "term": "Double circulation", "definition": "A system where blood passes through the heart twice in one full circuit of the body." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What are the four chambers of the heart?", "back": "Two atria (receive blood) and two ventricles (pump blood out)." },
+                { "front": "How do arteries differ from veins?", "back": "Arteries carry blood away from the heart with thick walls; veins carry blood back with thinner walls and valves." },
+                { "front": "Where does exchange of oxygen and nutrients happen?", "back": "In the capillaries, which have very thin walls." },
+                { "front": "What does haemoglobin do?", "back": "It is found in red blood cells and carries oxygen." },
+                { "front": "Why is the left ventricle's wall the thickest?", "back": "Because it pumps blood to the whole body, a long distance at high pressure." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Heart chambers",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which chambers of the heart receive blood returning to it?",
+              "options": ["Ventricles", "Atria", "Valves", "Capillaries"],
+              "answer": "1",
+              "explanation": "The atria (upper chambers) receive blood; the ventricles (lower chambers) pump it out."
+            },
+            {
+              "topic": "Blood vessels",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Arteries are blood vessels that carry blood:",
+              "options": ["Toward the heart", "Away from the heart", "Only in the lungs", "Backwards"],
+              "answer": "1",
+              "explanation": "Arteries carry blood away from the heart, usually at high pressure, so they have thick muscular walls."
+            },
+            {
+              "topic": "Capillaries",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Why are capillary walls very thin?",
+              "options": ["To pump blood faster", "To allow easy exchange of substances with cells", "To store blood", "To make blood red"],
+              "answer": "1",
+              "explanation": "Thin capillary walls allow oxygen, nutrients, and wastes to pass quickly between blood and body cells."
+            },
+            {
+              "topic": "Blood components",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which blood component helps the blood to clot and stop bleeding?",
+              "options": ["Red blood cells", "Plasma", "Platelets", "White blood cells"],
+              "answer": "2",
+              "explanation": "Platelets help the blood clot, sealing wounds to stop bleeding."
+            },
+            {
+              "topic": "Double circulation",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "The pulmonary artery is unusual because it:",
+              "options": ["Carries oxygen-rich blood to the body", "Carries oxygen-poor blood from the heart to the lungs", "Has valves like a vein", "Returns blood to the heart"],
+              "answer": "1",
+              "explanation": "Most arteries carry oxygen-rich blood, but the pulmonary artery carries oxygen-poor blood from the heart to the lungs. Arteries are defined by carrying blood away from the heart."
+            },
+            {
+              "topic": "Circulatory reasoning",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which path correctly traces oxygen-poor blood through the heart to the lungs?",
+              "options": ["Left atrium to left ventricle to lungs", "Right atrium to right ventricle to lungs", "Right ventricle to left atrium to body", "Capillaries to atria to arteries"],
+              "answer": "1",
+              "explanation": "Oxygen-poor blood enters the right atrium, moves to the right ventricle, and is pumped to the lungs to collect oxygen."
+            }
+          ]
+        },
+        {
+          "title": "Ecology",
+          "description": "How living things interact with each other and with their non-living environment.",
+          "lessons": [
+            {
+              "title": "Ecosystems and Energy Flow",
+              "summary": "Ecology studies how organisms interact with each other and their environment. This lesson explains ecosystems, food chains, and how energy flows from the sun through living things.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Ecology** is the study of how living things interact with **each other** and with their **non-living surroundings** (like water, soil, and air). The place where an organism lives is its **habitat**, and all the living and non-living parts of an area working together form an **ecosystem**.\n\nEnergy for almost all life comes from the **Sun**. Plants capture sunlight and pass energy along a **food chain** to animals. Understanding these links helps us protect nature, grow food, and see why losing one species can affect many others."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **ecology, ecosystem, habitat,** and **population**.\n- Explain **producers, consumers,** and **decomposers**.\n- Construct a simple **food chain** and **food web**.\n- Describe how **energy flows** and why it decreases along a chain.\n- Explain the role of decomposers in **recycling nutrients**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key Ideas",
+                  "body": "**Levels of organisation:**\n- **Population:** all members of one species in an area.\n- **Community:** all the different populations living together.\n- **Ecosystem:** the community **plus** the non-living environment.\n\n**Feeding roles:**\n- **Producers:** plants (and algae) that make their own food using sunlight through **photosynthesis**. They are the start of every food chain.\n- **Consumers:** animals that eat other organisms. **Herbivores** eat plants; **carnivores** eat animals; **omnivores** eat both.\n- **Decomposers:** bacteria and fungi that break down dead matter, returning **nutrients** to the soil.\n\n**Food chains and energy flow:** a **food chain** shows the order of who eats whom, e.g.:\n*grass → grasshopper → bird → hawk.* The arrows show the **direction of energy flow**.\n\n*Why energy decreases:* at each step, only about **10%** of energy passes on. The rest is lost as **heat** and used for life processes (movement, respiration). This is why food chains are usually short and why there are fewer top predators than plants."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Building a Food Chain and Tracking Energy",
+                  "body": "**Task:** Use these organisms — **hawk, grass, grasshopper, small bird** — to build a food chain and explain the energy flow. Follow the labelled steps.\n\n**Step 1 — Find the producer.** **Grass** makes its own food by photosynthesis, so it goes first.\n\n**Step 2 — Find the primary consumer (herbivore).** The **grasshopper** eats grass.\n\n**Step 3 — Find the secondary consumer.** The **small bird** eats the grasshopper.\n\n**Step 4 — Find the top consumer (predator).** The **hawk** eats the small bird.\n\n**Step 5 — Write the chain with arrows (energy direction):**\n*grass → grasshopper → small bird → hawk.*\n\n**Step 6 — Track the energy.** Suppose the grass captures **10,000 units** of energy.\n- Grasshopper gets about **1,000** units (10%).\n- Small bird gets about **100** units.\n- Hawk gets about **10** units.\n\n**Conclusion:** Energy **drops by about 90% at each level**. This is why there can be lots of grass but only a few hawks. Decomposers later return nutrients from dead organisms to the soil."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Mistake:** Drawing food chain arrows from predator to prey. **Correct:** Arrows point in the **direction energy flows** — from the eaten to the eater (grass → grasshopper).\n- **Mistake:** Thinking energy increases up the chain. **Correct:** Energy **decreases** (only ~10% passes on).\n- **Mistake:** Calling decomposers producers. **Correct:** Decomposers **break down dead matter**; producers **make food** from sunlight.\n- **Mistake:** Mixing up **habitat** (where it lives) and **ecosystem** (living + non-living together)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"Arrows = Appetite direction\"**: the arrow points toward the one doing the eating (energy flows that way).\n- **\"Plants Produce; Animals Consume; Microbes Decompose.\"**\n- **10% rule**: only **one tenth** of energy moves up each level — picture energy 'leaking' as heat at every step.\n- **PCD order**: **P**roducer → **C**onsumer → **D**ecomposer recycles back."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers.\n\n**Q1.** In the chain *maize → rat → snake*, which organism is the producer?\n**Q2.** Why are there usually fewer top predators than plants in an ecosystem?\n**Q3.** What do decomposers do for an ecosystem?\n\n**Answers:**\n- **A1.** **Maize** (it makes its own food by photosynthesis).\n- **A2.** Because **energy decreases** along the chain (~10% per level), so less energy is available to support predators at the top.\n- **A3.** They **break down dead matter** and return **nutrients** to the soil for plants to reuse."
+                },
+                {
+                  "type": "visual",
+                  "title": "Visual: Energy Loss Along a Food Chain",
+                  "body": "This bar chart shows how energy falls at each level of a food chain (using the worked example numbers).",
+                  "visual": {
+                    "kind": "bar-chart",
+                    "caption": "Approximate energy (units) available at each level of the food chain grass to hawk. Energy falls by about 90% per level.",
+                    "data": [
+                      { "label": "Grass (producer)", "value": 10000 },
+                      { "label": "Grasshopper", "value": 1000 },
+                      { "label": "Small bird", "value": 100 },
+                      { "label": "Hawk", "value": 10 }
+                    ]
+                  }
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Ecology** = study of how living things interact with each other and the environment.\n- **Ecosystem** = community of living things **plus** the non-living environment.\n- **Producers** make food (photosynthesis); **consumers** eat others; **decomposers** recycle nutrients.\n- A **food chain** shows energy flow; arrows point **toward the eater**.\n- Only about **10%** of energy passes to the next level, so chains are short.\n- **Decomposers** return nutrients to the soil."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson.",
+                  "glossary": [
+                    { "term": "Ecology", "definition": "The study of how living things interact with each other and their environment." },
+                    { "term": "Ecosystem", "definition": "A community of living things together with their non-living environment." },
+                    { "term": "Producer", "definition": "An organism (usually a plant) that makes its own food using sunlight." },
+                    { "term": "Consumer", "definition": "An organism that gets energy by eating other organisms." },
+                    { "term": "Decomposer", "definition": "An organism that breaks down dead matter and returns nutrients to the environment." },
+                    { "term": "Food chain", "definition": "A sequence showing the flow of energy from one organism to the next as food." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is an ecosystem?", "back": "A community of living things together with their non-living environment." },
+                { "front": "What is a producer?", "back": "An organism (usually a plant) that makes its own food using sunlight through photosynthesis." },
+                { "front": "Which way do food chain arrows point?", "back": "Toward the organism doing the eating, showing the direction energy flows." },
+                { "front": "About how much energy passes to the next level of a food chain?", "back": "About 10%; the rest is lost mainly as heat." },
+                { "front": "What is the role of decomposers?", "back": "They break down dead matter and return nutrients to the soil." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Definitions",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "An ecosystem is made up of:",
+              "options": ["Only the living things", "Only the non-living things", "Living things plus their non-living environment", "Only plants"],
+              "answer": "2",
+              "explanation": "An ecosystem includes the community of living things together with the non-living environment (water, soil, air)."
+            },
+            {
+              "topic": "Producers",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "In a food chain, the producer is usually a:",
+              "options": ["Lion", "Green plant", "Mushroom", "Snake"],
+              "answer": "1",
+              "explanation": "Producers are green plants that make their own food by photosynthesis and begin every food chain."
+            },
+            {
+              "topic": "Food chain arrows",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "In the food chain grass to rabbit to fox, the arrows show:",
+              "options": ["Which animal is biggest", "The direction of energy flow", "Where animals sleep", "The order of size"],
+              "answer": "1",
+              "explanation": "Arrows point from the food to the feeder, showing the direction in which energy flows along the chain."
+            },
+            {
+              "topic": "Energy flow",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Roughly how much energy passes from one level of a food chain to the next?",
+              "options": ["About 10%", "About 90%", "100%", "0%"],
+              "answer": "0",
+              "explanation": "Only about 10% of energy is passed on; the rest is lost mainly as heat and through life processes."
+            },
+            {
+              "topic": "Decomposers",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Why are decomposers essential in an ecosystem?",
+              "options": ["They produce sunlight", "They return nutrients from dead matter to the soil", "They eat all predators", "They stop photosynthesis"],
+              "answer": "1",
+              "explanation": "Decomposers break down dead organisms and return nutrients to the soil so producers can reuse them."
+            },
+            {
+              "topic": "Ecology reasoning",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Why are there usually far fewer top predators than producers in an ecosystem?",
+              "options": ["Predators do not eat", "Energy decreases at each level, leaving less for higher levels", "Producers are always poisonous", "Predators reproduce faster"],
+              "answer": "1",
+              "explanation": "Because only about 10% of energy passes up each level, there is much less energy available to support animals at the top, so they are fewer."
+            }
+          ]
+        },
+        {
+          "title": "Conservation of Natural Resources",
+          "description": "Why we must protect biodiversity and natural resources, and how to use them sustainably.",
+          "lessons": [
+            {
+              "title": "Biodiversity and Conservation",
+              "summary": "Conservation means protecting living things and natural resources for the future. This lesson explains biodiversity, threats to it, and sustainable ways to protect nature, with examples from Ethiopia.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Natural resources** are useful things we get from nature, such as water, soil, forests, wildlife, and minerals. The huge variety of living things on Earth is called **biodiversity**.\n\n**Conservation** means protecting and wisely using these resources so they last for the **future**. Ethiopia is rich in biodiversity, with many plants and animals found **nowhere else** (these are **endemic** species, like the Gelada baboon and Walia ibex). But human activities are putting nature at risk, so conservation is urgent and important."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **natural resources, biodiversity, conservation,** and **endemic species**.\n- Explain why biodiversity is **important**.\n- Describe the main **threats** to biodiversity.\n- Distinguish **renewable** and **non-renewable** resources.\n- Suggest practical ways to **conserve** nature, including in Ethiopia."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key Ideas",
+                  "body": "**Types of resources:**\n- **Renewable resources** can be replaced naturally if used carefully (e.g., trees, water, solar energy).\n- **Non-renewable resources** cannot be replaced once used up (e.g., coal, oil, minerals).\n\n**Why biodiversity matters (the WHY):**\n- It keeps ecosystems **balanced and stable**.\n- It gives us **food, medicine, and materials**.\n- It supports services like **clean air, water, and soil**.\n- Losing one species can harm many others through food webs.\n\n**Main threats to biodiversity:**\n- **Habitat destruction** (cutting forests, **deforestation**, farming expansion) — the biggest threat.\n- **Pollution** of air, water, and soil.\n- **Over-hunting and over-harvesting** (taking too much, too fast).\n- **Climate change**.\n- **Invasive species** that crowd out native ones.\n\n**Conservation methods:**\n- **In-situ** (in the wild): national parks and protected areas (e.g., **Simien Mountains National Park**).\n- **Ex-situ** (outside the wild): zoos, botanical gardens, **seed banks**.\n- Sustainable practices: **reforestation** (tree planting), controlled use, and education."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example: Planning to Save an Endangered Species (Labelled Process)",
+                  "body": "**Scenario:** A forest animal in Ethiopia is becoming rare because its forest is being cleared for farms and it is hunted for meat. Plan a conservation response. Follow the labelled steps.\n\n**Step 1 — Identify the threats.** Two threats: **habitat destruction** (forest clearing) and **over-hunting**.\n\n**Step 2 — Protect the habitat (in-situ).** Create or extend a **protected area / national park** so the forest cannot be cleared, and the animal can live in the wild.\n\n**Step 3 — Control hunting.** Make and **enforce laws** against hunting this species, and involve local communities.\n\n**Step 4 — Backup population (ex-situ).** Keep a small protected group in a **zoo or breeding centre** in case the wild population crashes.\n\n**Step 5 — Restore and educate.** Start **reforestation** to rebuild the habitat and **educate** local people on sustainable alternatives to hunting.\n\n**Step 6 — Monitor.** Count the population regularly to check if numbers are recovering.\n\n**Conclusion:** Good conservation usually combines **in-situ** protection (habitat + laws) with **ex-situ** backups and community involvement. This mirrors real efforts that helped protect the **Walia ibex** in the Simien Mountains."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Mistake:** Thinking renewable resources can **never** run out. **Correct:** They can run out if used **faster than they regrow** (e.g., over-cut forests).\n- **Mistake:** Confusing **in-situ** and **ex-situ** conservation. **Correct:** **In-situ = in the wild** (parks); **ex-situ = outside the wild** (zoos, seed banks).\n- **Mistake:** Thinking biodiversity only means **animals**. **Correct:** It includes **all living things** — plants, microbes, and animals.\n- **Mistake:** Believing one species' loss does not matter. **Correct:** Through **food webs**, losing one species can affect many others."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"In-situ = In the wild\"** (both start with 'In'); **Ex-situ = Exit the wild**.\n- **\"HPO\"** threats: **H**abitat loss, **P**ollution, **O**ver-hunting (the big three to remember first).\n- **Renewable = Re-grows** (both start with 'Re').\n- **Endemic = Exclusive** to one place (think Walia ibex, only in Ethiopia)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers.\n\n**Q1.** Give one renewable and one non-renewable resource.\n**Q2.** What is the difference between in-situ and ex-situ conservation?\n**Q3.** Name the biggest threat to biodiversity and one way to reduce it.\n\n**Answers:**\n- **A1.** Renewable: **trees / water / solar energy**. Non-renewable: **coal / oil / minerals**.\n- **A2.** **In-situ** protects species **in their natural habitat** (national parks); **ex-situ** protects them **outside** it (zoos, seed banks).\n- **A3.** **Habitat destruction**; reduce it by creating **protected areas** and **reforestation**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Natural resources** come from nature; **biodiversity** is the variety of living things.\n- **Renewable** resources regrow; **non-renewable** ones do not.\n- Biodiversity gives **food, medicine, balance, and clean air/water/soil**.\n- Main threats: **habitat loss, pollution, over-hunting, climate change, invasive species**.\n- **Conservation**: **in-situ** (national parks), **ex-situ** (zoos, seed banks), and **reforestation**.\n- Ethiopia has many **endemic species** worth protecting (Walia ibex, Gelada baboon)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this lesson.",
+                  "glossary": [
+                    { "term": "Natural resource", "definition": "A useful material or thing obtained from nature, such as water, soil, or forests." },
+                    { "term": "Biodiversity", "definition": "The variety of all living things in an area or on Earth." },
+                    { "term": "Conservation", "definition": "Protecting and wisely using natural resources so they last for the future." },
+                    { "term": "Endemic species", "definition": "A species found naturally in only one place and nowhere else." },
+                    { "term": "Renewable resource", "definition": "A resource that can be replaced naturally if used carefully, such as trees or water." },
+                    { "term": "In-situ conservation", "definition": "Protecting species in their natural habitat, for example in national parks." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is biodiversity?", "back": "The variety of all living things (plants, animals, and microbes) in an area or on Earth." },
+                { "front": "What does conservation mean?", "back": "Protecting and wisely using natural resources so they last for the future." },
+                { "front": "What is an endemic species? Give an Ethiopian example.", "back": "A species found naturally in only one place; e.g., the Walia ibex or Gelada baboon in Ethiopia." },
+                { "front": "Difference between in-situ and ex-situ conservation?", "back": "In-situ protects species in the wild (national parks); ex-situ protects them outside the wild (zoos, seed banks)." },
+                { "front": "What is the biggest threat to biodiversity?", "back": "Habitat destruction, such as deforestation and farming expansion." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Definitions",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Biodiversity means:",
+              "options": ["The number of people in a country", "The variety of living things", "The amount of water on Earth", "The study of rocks"],
+              "answer": "1",
+              "explanation": "Biodiversity is the variety of all living things (plants, animals, and microbes) in an area or on Earth."
+            },
+            {
+              "topic": "Resources",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of these is a non-renewable resource?",
+              "options": ["Trees", "Solar energy", "Coal", "Wind"],
+              "answer": "2",
+              "explanation": "Coal is non-renewable because it cannot be replaced within a human timescale once used up."
+            },
+            {
+              "topic": "Conservation methods",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Protecting animals in a national park in their natural home is an example of:",
+              "options": ["Ex-situ conservation", "In-situ conservation", "Deforestation", "Pollution control only"],
+              "answer": "1",
+              "explanation": "In-situ conservation protects species within their natural habitat, such as in a national park."
+            },
+            {
+              "topic": "Threats",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "The single biggest threat to biodiversity worldwide is:",
+              "options": ["Habitat destruction", "Too much rain", "Photosynthesis", "Seed banks"],
+              "answer": "0",
+              "explanation": "Habitat destruction, such as deforestation and farming expansion, is the largest threat to biodiversity."
+            },
+            {
+              "topic": "Endemic species",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "The Walia ibex is described as endemic to Ethiopia, which means it:",
+              "options": ["Lives all over the world", "Is found naturally only in Ethiopia", "Is a type of plant", "Has gone extinct"],
+              "answer": "1",
+              "explanation": "An endemic species is found naturally in only one place; the Walia ibex lives naturally only in Ethiopia (the Simien Mountains)."
+            },
+            {
+              "topic": "Conservation reasoning",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Why can a renewable resource like a forest still disappear?",
+              "options": ["Forests are non-renewable", "It is used faster than it can regrow", "Forests never provide resources", "Trees do not reproduce"],
+              "answer": "1",
+              "explanation": "Renewable resources regrow over time, but if they are harvested faster than they can replace themselves, they can still be used up and disappear."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

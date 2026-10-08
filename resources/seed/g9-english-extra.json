@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Question words",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete the question: '______ does the bus to Hawassa leave?'",
+          "options": ["Who", "When", "Which", "How many"],
+          "answer": "1",
+          "explanation": "'When' asks about time, which fits a question about a departure time."
+        },
+        {
+          "topic": "Present simple spelling",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["My father teach at the school.", "My father teaches at the school.", "My father teachs at the school.", "My father teaching at the school."],
+          "answer": "1",
+          "explanation": "With 'he/she/it' a verb ending in -ch adds -es: teach becomes teaches."
+        },
+        {
+          "topic": "Comparatives",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the comparative form of 'happy'?",
+          "options": ["happyer", "more happy", "happier", "happiest"],
+          "answer": "2",
+          "explanation": "Adjectives ending in -y change the y to i and add -er: happier."
+        },
+        {
+          "topic": "Vocabulary: hobbies",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which word means an activity you do for fun in your free time?",
+          "options": ["chore", "hobby", "duty", "lesson"],
+          "answer": "1",
+          "explanation": "A 'hobby' is something you enjoy doing in your spare time; a chore and a duty are work you must do."
+        },
+        {
+          "topic": "Countable and uncountable nouns",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which noun is countable?",
+          "options": ["milk", "sugar", "orange", "honey"],
+          "answer": "2",
+          "explanation": "'Orange' can be counted (one orange, two oranges); milk, sugar and honey are uncountable."
+        },
+        {
+          "topic": "Modal verbs",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the sentence that gives advice.",
+          "options": ["You should drink clean water.", "You drank clean water.", "You drinking clean water.", "You are drink clean water."],
+          "answer": "0",
+          "explanation": "'Should' + the base verb gives advice: 'You should drink clean water.'"
+        },
+        {
+          "topic": "Prepositions of place",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'Bahir Dar is located ______ the shore of Lake Tana.'",
+          "options": ["on", "between", "under", "into"],
+          "answer": "0",
+          "explanation": "We say something is 'on the shore' of a lake; the other prepositions do not fit this phrase."
+        },
+        {
+          "topic": "Gerunds after verbs",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["My uncle is good at weave baskets.", "My uncle is good at to weave baskets.", "My uncle is good at weaving baskets.", "My uncle is good at weaved baskets."],
+          "answer": "2",
+          "explanation": "After the preposition 'at' we use the -ing form (gerund): 'good at weaving'."
+        },
+        {
+          "topic": "Quantifiers",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'There are only ______ tomatoes left, so we must buy more.'",
+          "options": ["a little", "much", "a few", "any"],
+          "answer": "2",
+          "explanation": "Tomatoes are countable, so we use 'a few' for a small number."
+        },
+        {
+          "topic": "Simple past tense",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the past tense of 'carry'?",
+          "options": ["carryed", "carried", "carred", "carrying"],
+          "answer": "1",
+          "explanation": "A verb ending in consonant + y changes the y to i before -ed: carried."
+        },
+        {
+          "topic": "Present continuous tense",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'Look! The children ______ in the rain.'",
+          "options": ["plays", "are playing", "play", "played"],
+          "answer": "1",
+          "explanation": "'Look!' signals an action happening now, so we use the present continuous: 'are playing'."
+        },
+        {
+          "topic": "Reading comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read: 'Dawit wakes up at five o'clock. He studies for one hour before he walks to school.' What does Dawit do first?",
+          "options": ["He walks to school.", "He studies.", "He wakes up.", "He eats breakfast."],
+          "answer": "2",
+          "explanation": "The passage says he wakes up at five, then studies, then walks to school, so waking up is first."
+        },
+        {
+          "topic": "Modal verbs: obligation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'My sister ______ wear a uniform at her new school.'",
+          "options": ["have to", "has to", "having to", "to have"],
+          "answer": "1",
+          "explanation": "With the third person singular 'my sister', we use 'has to'."
+        },
+        {
+          "topic": "Reported speech",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Report: 'I can swim,' Meron said.",
+          "options": ["Meron said that she can swim.", "Meron said that she could swim.", "Meron said that I could swim.", "Meron told that she could swim."],
+          "answer": "1",
+          "explanation": "'Can' changes to 'could' and the pronoun 'I' becomes 'she' in reported speech."
+        },
+        {
+          "topic": "Reading comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'Although the market was crowded, Almaz found the fresh vegetables she wanted quickly and went home satisfied.' How did Almaz feel at the end?",
+          "options": ["Tired and angry", "Pleased", "Worried", "Bored"],
+          "answer": "1",
+          "explanation": "'Satisfied' means pleased or content, which is closest in meaning to 'pleased'."
+        },
+        {
+          "topic": "Superlatives",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["This is the most easy exam of the year.", "This is the easiest exam of the year.", "This is the easyest exam of the year.", "This is the more easy exam of the year."],
+          "answer": "1",
+          "explanation": "'Easy' is a short adjective ending in -y, so the superlative is 'the easiest'."
+        },
+        {
+          "topic": "First conditional",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'If the farmers ______ enough rain, the harvest ______ good.'",
+          "options": ["will get / is", "get / will be", "get / is", "will get / will be"],
+          "answer": "1",
+          "explanation": "The first conditional uses the present simple in the if-part (get) and 'will' in the result (will be)."
+        },
+        {
+          "topic": "Used to",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence that correctly describes a past habit that has stopped.",
+          "options": ["My grandmother uses to grind grain by hand.", "My grandmother used to grind grain by hand.", "My grandmother used to grinding grain by hand.", "My grandmother is used to grind grain by hand."],
+          "answer": "1",
+          "explanation": "'Used to' + the base verb describes a finished past habit: 'used to grind'."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'The journalist wrote an accurate report, checking every fact twice.' What does 'accurate' mean here?",
+          "options": ["Very long", "Correct and exact", "Funny", "Secret"],
+          "answer": "1",
+          "explanation": "Checking every fact shows the report was 'correct and exact', which is the meaning of accurate."
+        },
+        {
+          "topic": "Present perfect tense",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["I have saw that film already.", "I have seen that film already.", "I have seeing that film already.", "I has seen that film already."],
+          "answer": "1",
+          "explanation": "The present perfect uses 'have' + the past participle 'seen': 'I have seen'."
+        },
+        {
+          "topic": "Subject-verb agreement",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["Neither the teacher nor the students was late.", "Neither the teacher nor the students were late.", "Neither the teacher nor the students is late.", "Neither the teacher nor the students has been late."],
+          "answer": "1",
+          "explanation": "With 'neither...nor', the verb agrees with the nearer subject 'students', which is plural, so 'were' is correct."
+        },
+        {
+          "topic": "Reported speech",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Report: The nurse said, 'I am giving the vaccine today.'",
+          "options": ["The nurse said that she is giving the vaccine today.", "The nurse said that she was giving the vaccine that day.", "The nurse said that I was giving the vaccine that day.", "The nurse told that she was giving the vaccine today."],
+          "answer": "1",
+          "explanation": "The present continuous backshifts to past continuous (was giving), 'I' becomes 'she', and 'today' becomes 'that day'."
+        },
+        {
+          "topic": "Conditionals contrast",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Complete: 'If we recycle our waste, the city ______ cleaner, but if we ______ nothing, pollution will grow.'",
+          "options": ["will be / do", "is / will do", "will be / will do", "is / do"],
+          "answer": "0",
+          "explanation": "Both halves are first conditionals: 'will be' in each result and the present simple 'do' in the if-part."
+        },
+        {
+          "topic": "Modal verbs in context",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Complete: 'Passengers ______ smoke on the bus, but they ______ buy a ticket in advance; they can pay the driver.'",
+          "options": ["don't have to / mustn't", "mustn't / don't have to", "must / have to", "shouldn't / must"],
+          "answer": "1",
+          "explanation": "'Mustn't' shows smoking is forbidden, and 'don't have to' shows buying in advance is not necessary."
+        }
+      ]
+    }
+  ]
+}

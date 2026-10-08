@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "Biotechnology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The gas produced by yeast that makes injera and bread batter rise is:",
+          "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+          "answer": "2",
+          "explanation": "Yeast ferments sugars and releases carbon dioxide gas, which forms bubbles that make the batter rise."
+        },
+        {
+          "topic": "Biotechnology in the environment",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Using selected bacteria to break down an oil spill or sewage is an example of:",
+          "options": ["Bioremediation", "Vaccination", "Pasteurisation", "Crystallisation"],
+          "answer": "0",
+          "explanation": "Bioremediation uses living microorganisms to break down pollutants and clean up contaminated water or soil."
+        },
+        {
+          "topic": "Genetic engineering reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "After inserting a human gene into bacteria, scientists grow the bacteria so they multiply rapidly. What is the main purpose of this growth step?",
+          "options": ["To change the inserted gene into a new one", "To remove the plasmid from the cells", "To produce many cells, each making large amounts of the protein", "To turn the bacteria into a virus"],
+          "answer": "2",
+          "explanation": "Each bacterium carries the inserted gene, so growing huge numbers of them gives a large, cheap supply of the protein product."
+        },
+        {
+          "topic": "Genetically modified crops",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A maize variety is engineered to make a protein that kills the insects feeding on it. Which is the most direct benefit to the farmer?",
+          "options": ["The maize grows without any sunlight", "Less crop is lost to pests, so yield improves with less pesticide", "The maize no longer needs water", "The maize becomes a producer instead of a consumer"],
+          "answer": "1",
+          "explanation": "An insect-resistant crop loses less to pests and reduces the need for chemical pesticides, raising the usable yield."
+        },
+        {
+          "topic": "Microorganisms and food",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which microorganism is most commonly used to ferment sugars into alcohol in brewing?",
+          "options": ["Plasmodium", "Yeast", "A virus", "An alga"],
+          "answer": "1",
+          "explanation": "Yeast is a fungus that ferments sugars into alcohol and carbon dioxide, which is the basis of brewing."
+        },
+        {
+          "topic": "Antibiotics and microorganisms",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The antibiotic penicillin is naturally produced by which group of microorganisms?",
+          "options": ["A virus", "A protozoan", "A mould (fungus)", "A green plant"],
+          "answer": "2",
+          "explanation": "Penicillin comes from the mould Penicillium, a fungus, and is used to kill or stop the growth of certain bacteria."
+        },
+        {
+          "topic": "Microbial growth reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Storing food in a refrigerator keeps it fresh longer mainly because the cold:",
+          "options": ["Kills every microorganism instantly", "Slows the growth and reproduction of spoilage microbes", "Adds oxygen to the food", "Turns bacteria into fungi"],
+          "answer": "1",
+          "explanation": "Low temperature slows the chemical reactions and reproduction of microbes, so spoilage happens more slowly rather than being killed outright."
+        },
+        {
+          "topic": "Disease transmission",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Boiling drinking water before use helps prevent diseases such as cholera because it:",
+          "options": ["Adds nutrients to the water", "Removes all the salt from the water", "Kills the pathogenic microorganisms in the water", "Makes the water alkaline"],
+          "answer": "2",
+          "explanation": "High heat from boiling kills disease-causing microorganisms in the water, making it safe to drink."
+        },
+        {
+          "topic": "Cell division",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which type of cell division produces gametes (sex cells) with half the normal chromosome number?",
+          "options": ["Mitosis", "Binary fission", "Fermentation", "Meiosis"],
+          "answer": "3",
+          "explanation": "Meiosis halves the chromosome number to form gametes, so when two gametes join, the normal number is restored."
+        },
+        {
+          "topic": "Sex determination",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In humans, the sex chromosome combination of a typical female is:",
+          "options": ["XY", "YY", "XX", "XO"],
+          "answer": "2",
+          "explanation": "Human females typically have two X chromosomes (XX), while males have one X and one Y (XY)."
+        },
+        {
+          "topic": "Co-dominance and blood groups",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A person with blood group AB shows both A and B antigens because the alleles for A and B are:",
+          "options": ["Both recessive", "Co-dominant (both expressed together)", "The same allele", "Not inherited"],
+          "answer": "1",
+          "explanation": "The A and B alleles are co-dominant, so when both are present both antigens are produced, giving blood group AB."
+        },
+        {
+          "topic": "Test cross reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "To find out whether a tall pea plant (T dominant) is TT or Tt, the best cross is with a plant that is:",
+          "options": ["Homozygous tall (TT)", "Another unknown tall plant", "A different species", "Homozygous short (tt)"],
+          "answer": "3",
+          "explanation": "Crossing with a homozygous recessive (tt) is a test cross: if any short offspring appear, the tall parent must be Tt."
+        },
+        {
+          "topic": "Sex-linked inheritance",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Red-green colour blindness is more common in males than females because the allele is recessive and carried on the:",
+          "options": ["Y chromosome", "X chromosome", "Mitochondria", "Plasmid"],
+          "answer": "1",
+          "explanation": "The recessive allele is on the X chromosome; males have only one X, so a single recessive allele shows the trait, while females usually need two."
+        },
+        {
+          "topic": "DNA structure",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The shape of a DNA molecule is best described as a:",
+          "options": ["Single straight line", "Double helix", "Flat triangle", "Hollow sphere"],
+          "answer": "1",
+          "explanation": "DNA is shaped like a twisted ladder known as a double helix, with two strands coiled around each other."
+        },
+        {
+          "topic": "Mutation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A sudden change in the DNA sequence of an organism is called a:",
+          "options": ["Migration", "Pollination", "Respiration", "Mutation"],
+          "answer": "3",
+          "explanation": "A mutation is a change in the DNA sequence; it can be harmful, neutral, or occasionally helpful, and provides new variation."
+        },
+        {
+          "topic": "Evolution and variation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why is genetic variation important for the survival of a species facing a changing environment?",
+          "options": ["It guarantees every individual survives", "It stops the environment from changing", "It increases the chance that some individuals have helpful traits", "It removes the need for reproduction"],
+          "answer": "2",
+          "explanation": "Variation means individuals differ, so if conditions change, some are more likely to have traits that let them survive and reproduce."
+        },
+        {
+          "topic": "Adaptation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A desert plant with a thick waxy stem and tiny spine-like leaves is well adapted because these features mainly help it to:",
+          "options": ["Attract more predators", "Increase water loss", "Stop photosynthesis completely", "Reduce water loss"],
+          "answer": "3",
+          "explanation": "A waxy surface and reduced leaf area cut down water loss by evaporation, which is vital for survival in a dry desert."
+        },
+        {
+          "topic": "Vestigial structures",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Some snakes have tiny hip and hind-limb bones that are no longer used for walking. Such structures are evidence for evolution because they suggest the snake:",
+          "options": ["Was created exactly as it is now", "Descended from ancestors that had legs", "Is not a real animal", "Will grow full legs in its lifetime"],
+          "answer": "1",
+          "explanation": "These reduced, unused (vestigial) bones are inherited from limbed ancestors, supporting descent with modification."
+        },
+        {
+          "topic": "Reflex pathway",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a reflex such as pulling your hand from a hot object, the signal travels fastest because it passes through the:",
+          "options": ["Spinal cord without first reaching the conscious brain", "Heart before the muscles", "Stomach and then the brain", "Skin only, with no nerves"],
+          "answer": "0",
+          "explanation": "A reflex arc routes the signal through the spinal cord directly to the muscle, so the response happens before the brain consciously processes the pain."
+        },
+        {
+          "topic": "Animal communication",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Honeybees performing a 'waggle dance' to tell other bees where flowers are is an example of:",
+          "options": ["A digestive process", "Communication behaviour", "A reflex action", "Decomposition"],
+          "answer": "1",
+          "explanation": "The waggle dance is a form of communication that passes information about the direction and distance of food to other bees."
+        },
+        {
+          "topic": "Territorial behaviour",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A male bird sings loudly and chases other males from an area during breeding season. The main survival advantage of this territorial behaviour is that it:",
+          "options": ["Reduces his own food supply", "Attracts more predators to the nest", "Secures resources and mating opportunities in that area", "Stops him from reproducing"],
+          "answer": "2",
+          "explanation": "Defending a territory reserves food, nesting sites, and mates for the holder, improving his chances of reproducing successfully."
+        },
+        {
+          "topic": "The respiratory system",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In the human lungs, gas exchange takes place in the tiny air sacs called:",
+          "options": ["Alveoli", "Neurons", "Nephrons", "Villi"],
+          "answer": "0",
+          "explanation": "Alveoli are the thin-walled air sacs in the lungs where oxygen enters the blood and carbon dioxide leaves it."
+        },
+        {
+          "topic": "The immune system",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A vaccine protects the body against a disease by:",
+          "options": ["Killing all the body's cells", "Replacing the blood completely", "Triggering the immune system to make antibodies and memory cells", "Stopping the heart from beating"],
+          "answer": "2",
+          "explanation": "A vaccine exposes the body to a harmless form of a pathogen so the immune system makes antibodies and memory cells for faster future defence."
+        },
+        {
+          "topic": "The digestive system",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Most absorption of digested food into the blood takes place in the:",
+          "options": ["Stomach", "Small intestine", "Large intestine", "Oesophagus"],
+          "answer": "1",
+          "explanation": "The small intestine has a huge surface area from villi, where most digested nutrients are absorbed into the blood."
+        },
+        {
+          "topic": "The excretory system",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The kidneys help maintain a stable internal environment mainly by:",
+          "options": ["Pumping blood around the body", "Producing red blood cells only", "Filtering the blood to remove urea and excess water", "Digesting fats"],
+          "answer": "2",
+          "explanation": "Kidneys filter the blood, removing nitrogenous waste like urea and adjusting water and salt levels to keep the body balanced."
+        },
+        {
+          "topic": "Homeostasis",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "When body temperature rises, sweating helps cool the body because:",
+          "options": ["Sweat adds heat to the skin", "Evaporation of sweat removes heat from the skin", "Sweat blocks the pores", "Sweat stops blood flow"],
+          "answer": "1",
+          "explanation": "As sweat evaporates it takes heat energy from the skin surface, lowering body temperature back toward normal."
+        },
+        {
+          "topic": "The nervous system",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The basic cell of the nervous system that carries electrical messages is the:",
+          "options": ["Platelet", "Neuron", "Nephron", "Gamete"],
+          "answer": "1",
+          "explanation": "A neuron (nerve cell) is specialised to carry electrical impulses quickly between parts of the body."
+        },
+        {
+          "topic": "Symbiosis",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A tick feeding on the blood of a cow, harming the cow while benefiting itself, is an example of:",
+          "options": ["Mutualism", "Competition", "Photosynthesis", "Parasitism"],
+          "answer": "3",
+          "explanation": "In parasitism one organism (the parasite) benefits while the other (the host) is harmed, as when a tick feeds on a host's blood."
+        },
+        {
+          "topic": "Nutrient cycles",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In the carbon cycle, which process removes carbon dioxide from the air and stores carbon in plants?",
+          "options": ["Respiration", "Photosynthesis", "Combustion", "Decay"],
+          "answer": "1",
+          "explanation": "Photosynthesis takes in carbon dioxide and uses its carbon to build plant material, removing the gas from the atmosphere."
+        },
+        {
+          "topic": "Population ecology",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a predator-prey relationship, what usually happens to the predator population shortly after the prey population falls sharply?",
+          "options": ["It rises quickly", "It turns into producers", "It also falls, due to less available food", "It is unaffected"],
+          "answer": "2",
+          "explanation": "When prey become scarce, predators have less food, so the predator population usually declines after the prey decline."
+        },
+        {
+          "topic": "Ecological pyramids",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A pyramid of numbers in a simple grassland food chain is usually widest at the bottom because there are:",
+          "options": ["Very few producers", "More top predators than plants", "Many producers supporting fewer consumers above", "No decomposers"],
+          "answer": "2",
+          "explanation": "Producers are most numerous and form the wide base, supporting progressively fewer organisms at each higher level."
+        },
+        {
+          "topic": "Biodiversity value",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A species found naturally in only one place on Earth and nowhere else is described as:",
+          "options": ["Extinct", "Domestic", "Endemic", "Invasive"],
+          "answer": "2",
+          "explanation": "An endemic species lives naturally in only one region, such as the Gelada baboon in the Ethiopian highlands."
+        },
+        {
+          "topic": "Invasive species",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An introduced water plant spreads rapidly across a lake and crowds out native plants. The most likely reason it spreads so fast is that in the new lake it has:",
+          "options": ["No natural enemies to control its numbers", "Less sunlight than before", "No way to reproduce", "Become a decomposer"],
+          "answer": "0",
+          "explanation": "An invasive species often lacks the predators, diseases, or competitors that limited it in its original home, so its population explodes."
+        },
+        {
+          "topic": "Sustainable use",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which fishing practice is most sustainable for keeping a fish population healthy over time?",
+          "options": ["Catching every fish as quickly as possible", "Using poison to kill all the fish", "Catching fish at a rate that allows the population to reproduce and recover", "Draining the water body"],
+          "answer": "2",
+          "explanation": "Harvesting no faster than the population can replace itself keeps the resource renewable and prevents collapse from overfishing."
+        },
+        {
+          "topic": "Ex-situ conservation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Storing the seeds of many plant species in a cold seed bank to protect them for the future is an example of:",
+          "options": ["In-situ conservation", "Ex-situ conservation", "Deforestation", "Pollution"],
+          "answer": "1",
+          "explanation": "A seed bank protects species outside their natural habitat, which makes it a form of ex-situ conservation."
+        },
+        {
+          "topic": "Conservation reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why does planting trees (reforestation) help reduce the carbon dioxide level in the atmosphere?",
+          "options": ["Trees release carbon dioxide as they grow", "Trees turn carbon dioxide into plastic", "Trees stop animals from breathing", "Growing trees absorb carbon dioxide during photosynthesis"],
+          "answer": "3",
+          "explanation": "Trees take in carbon dioxide for photosynthesis and lock the carbon into wood and leaves, lowering atmospheric carbon dioxide."
+        }
+      ]
+    }
+  ]
+}

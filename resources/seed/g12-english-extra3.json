@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Future with will",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Someone knocks at the door while you are studying. Which sentence shows a decision made at that moment?",
+          "options": ["I am getting it.", "I get it.", "I'll get it.", "I am going to get it."],
+          "answer": "2",
+          "explanation": "A decision made at the moment of speaking uses 'will': 'I'll get it.'"
+        },
+        {
+          "topic": "Vocabulary: education",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What does the word 'graduate' (verb) mean?",
+          "options": ["To begin a new course at school", "To finish your studies and receive a degree", "To fail an important examination", "To pay the fees for a university"],
+          "answer": "1",
+          "explanation": "To 'graduate' means to finish your studies and receive a degree or diploma."
+        },
+        {
+          "topic": "Relative pronouns",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: 'The library ______ I borrowed this book is near the market.'",
+          "options": ["who", "whose", "where", "when"],
+          "answer": "2",
+          "explanation": "We use 'where' to refer to a place: 'the library where I borrowed this book.'"
+        },
+        {
+          "topic": "Modals of obligation",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The entry is free of charge. Which sentence shows that paying is NOT necessary?",
+          "options": ["You mustn't pay to enter.", "You don't have to pay to enter.", "You should pay to enter.", "You can't pay to enter."],
+          "answer": "1",
+          "explanation": "'Don't have to' means there is no obligation. 'Mustn't' would wrongly mean paying is forbidden."
+        },
+        {
+          "topic": "Vocabulary: technology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What does 'device' mean?",
+          "options": ["A scientific experiment", "A series of steps in a process", "A brand-new idea", "A tool or machine made for a particular purpose"],
+          "answer": "3",
+          "explanation": "A 'device' is a tool or machine made for a particular purpose, such as a phone or a calculator."
+        },
+        {
+          "topic": "Present continuous for future",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The plane tickets are booked and the date is set. Choose the most natural form: 'We ______ to Bahir Dar on Saturday.'",
+          "options": ["fly", "are flying", "will fly", "would fly"],
+          "answer": "1",
+          "explanation": "A fixed arrangement with a definite time uses the present continuous: 'We are flying to Bahir Dar on Saturday.'"
+        },
+        {
+          "topic": "Modals of advice",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Your friend keeps missing the bus. Which sentence gives the strongest advice that it is almost necessary?",
+          "options": ["You could leave home earlier.", "You might leave home earlier.", "You had better leave home earlier.", "You may leave home earlier."],
+          "answer": "2",
+          "explanation": "'Had better' gives strong advice with a sense of warning. 'Could', 'might', and 'may' only suggest a possibility."
+        },
+        {
+          "topic": "Passive voice: future",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Rewrite in the passive: 'The committee will announce the winners next week.'",
+          "options": ["The winners will announce next week.", "The winners will been announced next week.", "The winners are announced next week.", "The winners will be announced next week."],
+          "answer": "3",
+          "explanation": "Future passive is 'will be + past participle': 'The winners will be announced next week.'"
+        },
+        {
+          "topic": "Second conditional",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct second conditional: 'If I ______ more free time, I ______ a foreign language.'",
+          "options": ["have / will learn", "had / would learn", "would have / learned", "had / will learn"],
+          "answer": "1",
+          "explanation": "The second conditional is 'If + past simple, ... would + base verb': 'If I had more free time, I would learn a foreign language.'"
+        },
+        {
+          "topic": "Reported statements",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Report: \"I can finish the report today,\" he said.",
+          "options": ["He said that he can finish the report that day.", "He said that he could finish the report that day.", "He said that he could finish the report today.", "He said that I could finish the report that day."],
+          "answer": "1",
+          "explanation": "After 'said', 'can' backshifts to 'could' and 'today' becomes 'that day': 'He said that he could finish the report that day.'"
+        },
+        {
+          "topic": "Relative clause errors",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["The phone which I bought it last week is broken.", "The phone which I bought last week is broken.", "The phone who I bought last week is broken.", "The phone what I bought last week is broken."],
+          "answer": "1",
+          "explanation": "In a relative clause we do not repeat the object with an extra pronoun, and 'which' is correct for things: 'The phone which I bought last week is broken.'"
+        },
+        {
+          "topic": "Past perfect",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'When we reached the station, the train ______ already.'",
+          "options": ["left", "has left", "was leaving", "had left"],
+          "answer": "3",
+          "explanation": "The earlier of two past actions takes the past perfect: 'the train had left already' before we reached the station."
+        },
+        {
+          "topic": "Vocabulary: history",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What does 'heritage' mean?",
+          "options": ["A modern invention", "Traditions and historic places passed down from the past", "A type of foreign trade", "A long period of warfare"],
+          "answer": "1",
+          "explanation": "'Heritage' refers to the traditions, buildings, and history that are passed down from earlier generations."
+        },
+        {
+          "topic": "Reading comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read: 'The new bridge cut the journey to the clinic from two hours to barely twenty minutes, so mothers no longer feared travelling when their children fell ill.' What was the main benefit of the bridge?",
+          "options": ["It made the clinic look more attractive", "It greatly reduced the travel time to the clinic", "It increased the cost of the journey", "It replaced the local clinic entirely"],
+          "answer": "1",
+          "explanation": "The passage states the bridge cut the journey 'from two hours to barely twenty minutes', so the main benefit was a much shorter travel time."
+        },
+        {
+          "topic": "Word formation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct word: 'The factory was praised for its safe and ______ working conditions.'",
+          "options": ["health", "healthy", "healthily", "healthier"],
+          "answer": "1",
+          "explanation": "An adjective is needed before the noun 'conditions': 'healthy working conditions.' 'Health' is a noun and 'healthily' is an adverb."
+        },
+        {
+          "topic": "Determiners: countable/uncountable",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": ["There were too much students for the small classroom.", "There were too many students for the small classroom.", "There was too many students for the small classroom.", "There were too much student for the small classroom."],
+          "answer": "1",
+          "explanation": "'Students' is a countable noun, so we use 'too many' with a plural verb: 'There were too many students.'"
+        },
+        {
+          "topic": "Future perfect",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence describing an action completed before a future point.",
+          "options": ["By the end of this month, the team will finish the project.", "By the end of this month, the team will have finished the project.", "By the end of this month, the team has finished the project.", "By the end of this month, the team will finishing the project."],
+          "answer": "1",
+          "explanation": "An action completed before a future point uses the future perfect: 'will have + past participle' — 'will have finished.'"
+        },
+        {
+          "topic": "Passive voice: questions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Rewrite as a passive question: 'When did they build this church?'",
+          "options": ["When was this church built?", "When this church was built?", "When did this church built?", "When was this church build?"],
+          "answer": "0",
+          "explanation": "A past passive question is 'When was + subject + past participle?': 'When was this church built?'"
+        },
+        {
+          "topic": "Third conditional",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct third conditional about a missed opportunity in the past.",
+          "options": ["If she had applied earlier, she would have got the scholarship.", "If she applied earlier, she would have got the scholarship.", "If she had applied earlier, she would got the scholarship.", "If she would have applied earlier, she would have got the scholarship."],
+          "answer": "0",
+          "explanation": "The third conditional is 'If + past perfect, ... would have + past participle': 'If she had applied earlier, she would have got the scholarship.'"
+        },
+        {
+          "topic": "Reported speech: commands",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Report the instruction: \"Switch off your phones during the exam,\" the invigilator told the students.",
+          "options": ["The invigilator told the students switch off their phones during the exam.", "The invigilator told the students to switch off their phones during the exam.", "The invigilator told the students to switching off their phones during the exam.", "The invigilator said the students to switch off their phones during the exam."],
+          "answer": "1",
+          "explanation": "A command is reported with 'told + someone + to + base verb', and the pronoun changes: 'told the students to switch off their phones.'"
+        },
+        {
+          "topic": "Gerund and infinitive",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["They decided postponing the celebration until the rains stopped.", "They decided postpone the celebration until the rains stopped.", "They decided to postponing the celebration until the rains stopped.", "They decided to postpone the celebration until the rains stopped."],
+          "answer": "3",
+          "explanation": "The verb 'decide' is followed by the infinitive with 'to': 'They decided to postpone the celebration.'"
+        },
+        {
+          "topic": "Conjunctions: contrast",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["Despite she was tired, she finished the marathon.", "Although the heavy rain, she finished the marathon.", "In spite of being tired, she finished the marathon.", "Despite of being tired, she finished the marathon."],
+          "answer": "2",
+          "explanation": "'In spite of' is followed by a noun or '-ing' form: 'In spite of being tired.' 'Despite' is never followed by 'of', and 'although' must be followed by a full clause."
+        },
+        {
+          "topic": "Phrasal verbs",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the phrasal verb that best completes: 'The scientists refused to ______ even after many failed experiments.'",
+          "options": ["give in", "give out", "give back", "give away"],
+          "answer": "0",
+          "explanation": "'Give in' means to stop trying or to surrender. The others mean distribute/stop working, return, or donate."
+        },
+        {
+          "topic": "Question tags",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete with the correct question tag: 'Let's plant the seedlings this weekend, ______?'",
+          "options": ["will we", "don't we", "shall we", "do we"],
+          "answer": "2",
+          "explanation": "After a suggestion beginning with 'Let's', the fixed question tag is 'shall we': 'Let's plant the seedlings, shall we?'"
+        },
+        {
+          "topic": "Used to vs would",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence about a past habit that no longer happens.",
+          "options": ["My grandmother used to tell us stories by the fire.", "My grandmother use to tell us stories by the fire.", "My grandmother is used to tell us stories by the fire.", "My grandmother used to telling us stories by the fire."],
+          "answer": "0",
+          "explanation": "'Used to + base verb' describes a past habit that has stopped: 'used to tell us stories.' We do not write 'use to' or add '-ing'."
+        },
+        {
+          "topic": "Quantifiers",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["Only a few of the information was useful.", "Only little of the facts were useful.", "Only a little of the information was useful.", "Only few of the information were useful."],
+          "answer": "2",
+          "explanation": "'Information' is uncountable, so we use 'a little' with a singular verb: 'Only a little of the information was useful.'"
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the word closest in meaning to 'abundant' in: 'The valley has abundant rainfall throughout the season.'",
+          "options": ["plentiful", "scarce", "occasional", "harmful"],
+          "answer": "0",
+          "explanation": "'Abundant' means existing in large quantities, so 'plentiful' is closest. 'Scarce' is the opposite."
+        },
+        {
+          "topic": "Figurative language",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Identify the device: 'The hungry waves swallowed the little fishing boat.'",
+          "options": ["Personification", "Simile", "Hyperbole", "Metaphor"],
+          "answer": "0",
+          "explanation": "Giving the waves a human quality ('hungry') and a human action ('swallowed') is personification."
+        },
+        {
+          "topic": "Prepositions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence with the correct preposition.",
+          "options": ["The students are responsible of keeping the lab clean.", "The students are responsible for keeping the lab clean.", "The students are responsible with keeping the lab clean.", "The students are responsible on keeping the lab clean."],
+          "answer": "1",
+          "explanation": "The fixed expression is 'responsible for': 'responsible for keeping the lab clean.'"
+        },
+        {
+          "topic": "Cohesion: reference",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read: 'The council built a clinic and a school in the village. This greatly improved daily life there.' What does the word 'This' refer to?",
+          "options": ["Only the school", "The whole action of building the clinic and the school", "The village council members", "Daily life in the village"],
+          "answer": "1",
+          "explanation": "'This' is a reference word pointing back to the whole previous idea — the building of both the clinic and the school."
+        },
+        {
+          "topic": "Linking words",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the connector that best completes the sentence: 'The plan was carefully prepared; ______, it failed because of a lack of funds.'",
+          "options": ["therefore", "moreover", "however", "thus"],
+          "answer": "2",
+          "explanation": "The second clause contrasts an expectation (careful preparation) with an unexpected result (failure), so a contrast connector fits: 'however.'"
+        },
+        {
+          "topic": "Inversion",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["Never I have seen such a beautiful sunset.", "Never have I seen such a beautiful sunset.", "Never I had seen such a beautiful sunset.", "Never seen have I such a beautiful sunset."],
+          "answer": "1",
+          "explanation": "When a negative adverb like 'never' begins a sentence, the subject and auxiliary are inverted: 'Never have I seen...'."
+        },
+        {
+          "topic": "Subject-verb agreement",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["Each of the candidates have been interviewed.", "Each of the candidates has been interviewed.", "Each of the candidates were interviewed already.", "Each of the candidate has been interviewed."],
+          "answer": "1",
+          "explanation": "'Each' is singular and takes a singular verb, even before a plural noun: 'Each of the candidates has been interviewed.'"
+        },
+        {
+          "topic": "Parallel structure",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence with correct parallel structure.",
+          "options": ["A good leader is honest, patient, and shows courage.", "A good leader is honest, patient, and courageous.", "A good leader is honest, has patience, and courageous.", "A good leader is honesty, patient, and courageous."],
+          "answer": "1",
+          "explanation": "Items joined in a list should share the same form. Three adjectives — 'honest, patient, and courageous' — keep the structure parallel."
+        },
+        {
+          "topic": "Reduced relative clauses",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence that correctly reduces the relative clause in 'The report which was written by the students won an award.'",
+          "options": ["The report writing by the students won an award.", "The report wrote by the students won an award.", "The report which written by the students won an award.", "The report written by the students won an award."],
+          "answer": "3",
+          "explanation": "A passive relative clause can be reduced by dropping 'which was' and keeping the past participle: 'The report written by the students won an award.'"
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the word closest in meaning to 'diminish' in: 'Improved farming methods can diminish the risk of famine.'",
+          "options": ["increase", "reduce", "ignore", "predict"],
+          "answer": "1",
+          "explanation": "'Diminish' means to make smaller or less, so 'reduce' is closest in meaning. 'Increase' is the opposite."
+        }
+      ]
+    }
+  ]
+}

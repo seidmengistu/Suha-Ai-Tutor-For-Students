@@ -1,0 +1,1301 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "english",
+      "chapters": [
+        {
+          "title": "Cultural Diversity",
+          "description": "Reading about cultures, using the present simple and present continuous tenses, and describing customs.",
+          "lessons": [
+            {
+              "title": "Talking About Cultures: Present Simple and Present Continuous",
+              "summary": "Learn to describe customs and habits using the present simple tense, and actions happening now using the present continuous tense. Build vocabulary about culture and traditions.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Ethiopia is a country of many cultures. There are more than 80 ethnic groups, such as the **Oromo**, **Amhara**, **Tigray**, **Sidama**, and **Somali**. Each group has its own language, food, music, and traditions.\n\nIn this unit, you will learn how to talk about cultures and customs. To do this well, you need two important tenses: the **present simple** and the **present continuous**. These tenses help you describe what people *usually* do and what is happening *right now*."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use the **present simple** to talk about habits, customs, and facts.\n- Use the **present continuous** to talk about actions happening now.\n- Know the difference between the two tenses.\n- Use new **vocabulary** about culture and traditions."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Two Tenses",
+                  "body": "**1. The Present Simple**\n\nWe use the present simple for:\n- **Habits** (things we do again and again): *She drinks coffee every morning.*\n- **Facts** that are always true: *Ethiopia has many languages.*\n- **Customs and traditions**: *People celebrate Meskel in September.*\n\n**Form:** subject + base verb. We add **-s** for *he*, *she*, and *it*.\n- I / you / we / they **eat**\n- he / she / it **eats**\n\nNegative: *I **do not** (don't) eat.* / *She **does not** (doesn't) eat.*\n\n**Time words** that go with the present simple: *always, usually, often, sometimes, never, every day, on Sundays.*\n\n**2. The Present Continuous**\n\nWe use the present continuous for:\n- Actions happening **now**, at this moment: *She is cooking injera now.*\n- Temporary actions around now: *I am reading a book about culture this week.*\n\n**Form:** subject + **am / is / are** + verb + **-ing**.\n- I **am** working\n- he / she / it **is** working\n- you / we / they **are** working\n\n**Time words** that go with the present continuous: *now, right now, at the moment, today, this week.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Look at how the same verb changes in each tense:\n\n**Verb: to dance**\n\n- Present simple (a custom): *At weddings, the Gurage people **dance** together.* (This is what they usually do.)\n- Present continuous (now): *Look! They **are dancing** at the wedding right now.* (This is happening at this moment.)\n\n**Another example with 'wear':**\n\n- Present simple: *On holidays, women **wear** the white **habesha kemis** (traditional dress).*\n- Present continuous: *Today is Timket, so she **is wearing** her habesha kemis.*\n\nNotice: the present simple talks about a general custom. The present continuous talks about one moment in time."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "ESL learners often make these mistakes:\n\n- **Forgetting -s:** Incorrect: *He speak Amharic.* Correct: *He **speaks** Amharic.*\n- **Using -ing for habits:** Incorrect: *Every day she is going to school.* Correct: *Every day she **goes** to school.*\n- **Forgetting the verb 'be':** Incorrect: *I reading now.* Correct: *I **am** reading now.*\n- **Using continuous with state verbs:** Verbs like *know, like, want, have* (for possession) are usually NOT used in the continuous. Incorrect: *I am knowing the answer.* Correct: *I **know** the answer.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Present simple = a photo album.** It shows things that are always or usually true, like customs and habits.\n- **Present continuous = a video.** It shows action moving right now.\n- Remember the helper: **\"-ing needs be\"** (am / is / are). No *be*, no *-ing*.\n- For he/she/it in the present simple, say to yourself: **\"He, she, it — add an s to fit.\"**"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose the correct tense.\n\n1. Every year, my family ______ (visit) my grandmother for the New Year.\n2. Be quiet! The baby ______ (sleep) now.\n3. The Konso people ______ (build) terraces on the hills.\n4. Look at the sky — it ______ (rain) right now.\n5. My brother usually ______ (drink) tea, but today he ______ (drink) coffee.\n\n**Answers:**\n1. visits\n2. is sleeping\n3. build\n4. is raining\n5. drinks; is drinking"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **present simple** describes habits, facts, customs, and routines (*She eats injera.*).\n- Add **-s** for he, she, it.\n- The **present continuous** describes actions happening now (*She is eating injera.*).\n- Form the continuous with **am / is / are + verb-ing**.\n- Use time words to help you choose: *every day* (simple) vs. *right now* (continuous)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words from this unit about culture.",
+                  "glossary": [
+                    { "term": "culture", "definition": "The customs, beliefs, food, and way of life of a group of people." },
+                    { "term": "tradition", "definition": "A belief or custom passed from older people to younger people over many years." },
+                    { "term": "custom", "definition": "A usual way of doing something in a society." },
+                    { "term": "ethnic group", "definition": "A group of people who share the same language, history, or culture." },
+                    { "term": "celebrate", "definition": "To do something special to honour an important day or event." },
+                    { "term": "diversity", "definition": "The state of having many different kinds of people or things together." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "When do we use the present simple?", "back": "For habits, facts, and customs (things that are usually or always true). Example: She speaks Oromo." },
+                { "front": "When do we use the present continuous?", "back": "For actions happening now. Example: She is speaking Oromo right now." },
+                { "front": "How do we form the present continuous?", "back": "am / is / are + verb + -ing. Example: They are dancing." },
+                { "front": "What ending do we add for he/she/it in the present simple?", "back": "-s (or -es). Example: He eats, She watches." },
+                { "front": "What does 'diversity' mean?", "back": "Having many different kinds of people or things together." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Present simple",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence about a daily habit.",
+              "options": ["She drink coffee every morning.", "She drinks coffee every morning.", "She is drink coffee every morning.", "She drinking coffee every morning."],
+              "answer": "1",
+              "explanation": "For habits we use the present simple. With 'she' we add -s to the verb: 'drinks'."
+            },
+            {
+              "topic": "Present continuous",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence for an action happening right now.",
+              "options": ["Look! The children play outside now.", "Look! The children playing outside now.", "Look! The children are playing outside now.", "Look! The children plays outside now."],
+              "answer": "2",
+              "explanation": "For an action happening now we use the present continuous: are + verb-ing ('are playing')."
+            },
+            {
+              "topic": "Tense choice",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct verb form: 'Every September, people ______ Meskel in Ethiopia.'",
+              "options": ["are celebrating", "celebrate", "celebrates", "is celebrating"],
+              "answer": "1",
+              "explanation": "'Every September' shows a repeated custom, so we use the present simple. The subject 'people' is plural, so no -s: 'celebrate'."
+            },
+            {
+              "topic": "State verbs",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which sentence is correct?",
+              "options": ["I am knowing the answer.", "I am wanting some water.", "I know the answer.", "I am understanding now."],
+              "answer": "2",
+              "explanation": "State verbs like 'know', 'want', and 'understand' are not normally used in the continuous. We say 'I know the answer.'"
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is a 'custom'?",
+              "options": ["A type of food eaten only at weddings.", "A usual way of doing something in a society.", "A person who visits other countries.", "A language spoken in the north."],
+              "answer": "1",
+              "explanation": "A 'custom' is a usual or accepted way of doing something in a group or society."
+            },
+            {
+              "topic": "Tense choice",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Read: 'My brother usually walks to school, but today the rain is heavy, so he ______ the bus.' Choose the best answer.",
+              "options": ["takes", "take", "is taking", "is take"],
+              "answer": "2",
+              "explanation": "The word 'today' and the special situation (heavy rain) show this is happening now, not a habit. We use the present continuous: 'is taking'."
+            }
+          ]
+        },
+        {
+          "title": "Saving and Spending",
+          "description": "Reading about money and budgets, using countable and uncountable nouns and quantifiers, and giving advice.",
+          "lessons": [
+            {
+              "title": "Money Matters: Countable and Uncountable Nouns",
+              "summary": "Learn the difference between countable and uncountable nouns, and how to use quantifiers like 'much', 'many', and 'a lot of' when talking about money and saving.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Money is part of daily life. We **earn** money, **spend** money, and try to **save** money. Many families in Ethiopia join an **iqub** (a traditional saving group) to save together.\n\nTo talk about money clearly in English, you must know about **countable** and **uncountable** nouns. For example, we can count *birrs* and *coins*, but we cannot count *money* itself as one, two, three. This unit will make this easy."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Tell the difference between **countable** and **uncountable** nouns.\n- Use **much** and **many** correctly.\n- Use **a lot of, some,** and **any**.\n- Talk about saving and spending money."
+                },
+                {
+                  "type": "theory",
+                  "title": "Countable vs. Uncountable Nouns",
+                  "body": "**Countable nouns** are things we can count. They have a singular and a plural form.\n- one **coin**, two **coins**, three **coins**\n- a **bank**, many **banks**\n\n**Uncountable nouns** are things we cannot count one by one. They have **no plural form**, and they use a singular verb.\n- **money** (not *moneys*)\n- **advice**, **information**, **water**, **rice**, **work**\n\nWe say: *The information **is** useful.* (NOT *are useful*)\n\n**Quantifiers** (words that show amount):\n\n| Word | Use with countable | Use with uncountable |\n|------|--------------------|----------------------|\n| many | many coins | — |\n| much | — | much money |\n| a lot of | a lot of coins | a lot of money |\n| some | some coins | some money |\n| any | any coins | any money |\n\n- Use **many** with countable nouns: *How many birrs do you have?*\n- Use **much** with uncountable nouns: *How much money do you have?*\n- **A lot of** works with both."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us decide if a noun is countable or uncountable, then choose the right quantifier.\n\n**Sentence:** *I don't have ______ money, but I have ______ coins in my pocket.*\n\n- *Money* is **uncountable** → use **much**.\n- *Coins* is **countable** (plural) → use **many**.\n\n**Answer:** *I don't have **much** money, but I have **many** coins in my pocket.*\n\n**Another example:**\n*She saves ______ birr every week, so she has ______ savings now.*\n- Here we can simply use **a lot of** for both because it fits countable and uncountable nouns: *She saves **a lot of** birr every week, so she has **a lot of** savings now.*"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Making uncountable nouns plural:** Incorrect: *I need some informations.* Correct: *I need some **information**.*\n- **Using 'many' with uncountable nouns:** Incorrect: *How many money?* Correct: *How **much** money?*\n- **Using a plural verb with uncountable nouns:** Incorrect: *The advice are good.* Correct: *The advice **is** good.*\n- **Saying 'a money':** Incorrect: *He gave me a money.* Correct: *He gave me **some money**.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- Ask yourself: **\"Can I count it one, two, three?\"** If yes, it is countable. If no, it is uncountable.\n- **MANY = thiNgs you can couNt** (both have the letter N). **MUCH = stUff in a hUge pile** (cannot count it).\n- Famous uncountable nouns to remember: **money, advice, information, news, work, homework, water, bread, rice.**\n- Tip: if you want to count an uncountable noun, use a counter word: *a **piece of** advice, a **bottle of** water, an **amount of** money.*"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose 'much' or 'many'.\n\n1. How ______ birrs are in your wallet?\n2. I don't have ______ money this month.\n3. There are too ______ shops in this market.\n4. She gave me some good ______ (advice / advices).\n5. We don't have ______ time to save before the holiday.\n\n**Answers:**\n1. many\n2. much\n3. many\n4. advice\n5. much"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Countable nouns** can be counted and have plurals (*coin / coins*).\n- **Uncountable nouns** cannot be counted and have no plural (*money, advice, water*).\n- Use **many** + countable; use **much** + uncountable.\n- **A lot of** works with both.\n- Uncountable nouns take a **singular verb** (*The news is good.*)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important money words from this unit.",
+                  "glossary": [
+                    { "term": "save", "definition": "To keep money to use later instead of spending it now." },
+                    { "term": "spend", "definition": "To use money to buy things." },
+                    { "term": "earn", "definition": "To get money by working." },
+                    { "term": "budget", "definition": "A plan for how to spend and save your money." },
+                    { "term": "income", "definition": "The money a person receives, usually from work." },
+                    { "term": "expense", "definition": "Money that you spend on something; a cost." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is a countable noun?", "back": "A noun you can count, with singular and plural forms. Example: one coin, two coins." },
+                { "front": "What is an uncountable noun?", "back": "A noun you cannot count one by one, with no plural form. Example: money, advice, water." },
+                { "front": "Do we use 'much' or 'many' with money?", "back": "Much. 'Money' is uncountable: How much money do you have?" },
+                { "front": "Is 'advice' countable or uncountable?", "back": "Uncountable. We say 'some advice' or 'a piece of advice', never 'advices'." },
+                { "front": "What does 'budget' mean?", "back": "A plan for how to spend and save your money." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Quantifiers",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": ["How much money do you have?", "How many money do you have?", "How much birrs do you have?", "How money much do you have?"],
+              "answer": "0",
+              "explanation": "'Money' is uncountable, so we use 'much': How much money do you have?"
+            },
+            {
+              "topic": "Countable nouns",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which noun is countable?",
+              "options": ["water", "advice", "coin", "information"],
+              "answer": "2",
+              "explanation": "'Coin' is countable (one coin, two coins). The others are uncountable nouns."
+            },
+            {
+              "topic": "Uncountable nouns",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": ["She gave me many good advices.", "She gave me a good advice.", "She gave me some good advice.", "She gave me an advice."],
+              "answer": "2",
+              "explanation": "'Advice' is uncountable. It has no plural and takes no 'a/an'. We say 'some advice'."
+            },
+            {
+              "topic": "Subject-verb agreement",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct verb: 'The news about the market ______ very good today.'",
+              "options": ["are", "is", "were", "have"],
+              "answer": "1",
+              "explanation": "'News' is uncountable and takes a singular verb: 'is'."
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What does 'income' mean?",
+              "options": ["The money a person spends on food.", "The money a person receives, usually from work.", "A plan for saving money.", "A type of bank."],
+              "answer": "1",
+              "explanation": "'Income' is the money a person receives, usually by working."
+            },
+            {
+              "topic": "Quantifiers",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Complete: 'I didn't buy ______ clothes because I didn't have ______ money.'",
+              "options": ["much / many", "many / much", "much / much", "many / many"],
+              "answer": "1",
+              "explanation": "'Clothes' is countable (plural), so we use 'many'. 'Money' is uncountable, so we use 'much': many clothes / much money."
+            }
+          ]
+        },
+        {
+          "title": "Effective Communication",
+          "description": "Reading about communication skills, using modal verbs for advice and ability, and giving polite requests.",
+          "lessons": [
+            {
+              "title": "Communicating Well: Modal Verbs (can, could, should, must)",
+              "summary": "Learn how to use modal verbs to talk about ability, give advice, make polite requests, and express necessity when communicating with others.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Good **communication** means sharing ideas so that others understand you clearly. We communicate by speaking, listening, writing, and even with body language.\n\nTo communicate politely and clearly in English, we use special verbs called **modal verbs**: *can, could, should, must, may,* and *might*. These small words help us ask, advise, and show ability. This lesson will teach you how to use them."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use **can** and **could** to show **ability** and make **requests**.\n- Use **should** to give **advice**.\n- Use **must** and **have to** to show **necessity**.\n- Speak more politely in English."
+                },
+                {
+                  "type": "theory",
+                  "title": "Understanding Modal Verbs",
+                  "body": "A **modal verb** is a helping verb that adds meaning to the main verb. The main verb after a modal is always in the **base form** (no -s, no -ing, no -ed).\n- Correct: *She **can speak** English.*\n- Incorrect: *She can speaks English.*\n\nHere are the most common modals:\n\n**1. Ability — can / could**\n- *I **can** swim.* (ability now)\n- *When I was young, I **could** run fast.* (ability in the past)\n\n**2. Requests and permission — can / could / may**\n- ***Can** you help me?* (informal)\n- ***Could** you help me, please?* (more polite)\n- ***May** I come in?* (formal, polite)\n\n**3. Advice — should**\n- *You **should** listen carefully.* (this is a good idea)\n- *You **shouldn't** interrupt people.* (this is not a good idea)\n\n**4. Necessity — must / have to**\n- *Students **must** be quiet in the library.* (it is necessary, a strong rule)\n- *I **have to** finish my homework.* (it is necessary)\n\n**Negative forms:** cannot (can't), could not (couldn't), should not (shouldn't), must not (mustn't)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us choose the right modal for each situation.\n\n**Situation 1:** Your friend speaks too fast and people don't understand. What advice do you give?\n- *You **should** speak more slowly.* (We use **should** for advice.)\n\n**Situation 2:** You want to borrow a pen from your teacher politely.\n- *Excuse me, **could** I borrow a pen, please?* (We use **could** to be polite.)\n\n**Situation 3:** There is a rule that all phones are turned off in the exam.\n- *You **must** turn off your phone.* (We use **must** for a strong rule.)\n\n**Situation 4:** You want to talk about your own skill.\n- *I **can** speak three languages.* (We use **can** for ability.)"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Adding -s to the main verb:** Incorrect: *He can swims.* Correct: *He can **swim**.*\n- **Using 'to' after a modal:** Incorrect: *You should to study.* Correct: *You **should study**.* (But note: we DO say *have **to** study*.)\n- **Using two modals together:** Incorrect: *I will can help.* Correct: *I **will be able to** help.*\n- **Confusing 'must not' and 'don't have to':** *You **must not** be late* (it is forbidden) is very different from *You **don't have to** come* (it is not necessary, but you can if you want)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- After a modal, the verb stays **naked** — no -s, no -ing, no 'to' (except *have to*).\n- **CAN = can do it now. COULD = polite, or could do it before.**\n- **SHOULD = a Suggestion** (both start with S).\n- **MUST = a strong rule you cannot break.**\n- To sound more polite, change *Can you...?* to **Could you...?** and add **please**."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose the best modal verb.\n\n1. ______ you pass me the salt, please? (polite request)\n2. You ______ revise before the exam. (advice)\n3. Birds ______ fly, but they cannot talk. (ability)\n4. Drivers ______ stop at a red light. (strong rule)\n5. When I was a child, I ______ not read, but now I can. (past ability)\n\n**Answers:**\n1. Could\n2. should\n3. can\n4. must\n5. could"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Modal verbs** are helping verbs: *can, could, should, must, may, might.*\n- The verb after a modal is in the **base form** (no -s, no 'to').\n- **Can / could** = ability and requests.\n- **Should** = advice.\n- **Must / have to** = necessity or strong rules.\n- Use **could... please?** to be polite."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important communication words from this unit.",
+                  "glossary": [
+                    { "term": "communication", "definition": "The act of sharing information, ideas, or feelings with other people." },
+                    { "term": "listener", "definition": "A person who pays attention to what someone says." },
+                    { "term": "polite", "definition": "Showing good manners and respect to others." },
+                    { "term": "request", "definition": "An act of asking for something in a polite way." },
+                    { "term": "body language", "definition": "The way we show feelings or ideas using our face and body, not words." },
+                    { "term": "misunderstanding", "definition": "A situation where people do not understand each other correctly." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What form does the verb take after a modal?", "back": "The base form (no -s, no -ing, no 'to'). Example: She can speak, not 'can speaks'." },
+                { "front": "Which modal do we use for advice?", "back": "Should. Example: You should listen carefully." },
+                { "front": "How can you make a request more polite?", "back": "Use 'could' instead of 'can' and add 'please'. Example: Could you help me, please?" },
+                { "front": "What is the difference between 'must not' and 'don't have to'?", "back": "'Must not' = it is forbidden. 'Don't have to' = it is not necessary (but allowed)." },
+                { "front": "What does 'polite' mean?", "back": "Showing good manners and respect to other people." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Modal form",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": ["She can speaks English well.", "She can speak English well.", "She can to speak English well.", "She can speaking English well."],
+              "answer": "1",
+              "explanation": "After a modal verb (can), the main verb is in the base form: 'speak'."
+            },
+            {
+              "topic": "Polite requests",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which is the most polite way to ask for help?",
+              "options": ["Help me.", "You help me now.", "Could you help me, please?", "Can help me?"],
+              "answer": "2",
+              "explanation": "'Could you... please?' is the most polite form for a request."
+            },
+            {
+              "topic": "Advice",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Your friend has a test tomorrow. What advice fits best?",
+              "options": ["You must not study.", "You should study tonight.", "You can study yesterday.", "You should studying tonight."],
+              "answer": "1",
+              "explanation": "For advice we use 'should' + base verb: 'You should study tonight.'"
+            },
+            {
+              "topic": "Necessity",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the sentence that shows a strong rule.",
+              "options": ["You could turn off your phone.", "You should turn off your phone.", "You must turn off your phone in the exam.", "You may turn off your phone."],
+              "answer": "2",
+              "explanation": "'Must' shows a strong rule or obligation, which fits an exam situation best."
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is a 'misunderstanding'?",
+              "options": ["A polite request.", "A situation where people do not understand each other correctly.", "A type of body language.", "A person who listens well."],
+              "answer": "1",
+              "explanation": "A 'misunderstanding' happens when people do not understand each other correctly."
+            },
+            {
+              "topic": "Modal meaning",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Read: 'The teacher said, \"You don't have to bring a dictionary, but you can if you want.\"' What does this mean?",
+              "options": ["Bringing a dictionary is forbidden.", "Bringing a dictionary is necessary.", "Bringing a dictionary is not necessary, but it is allowed.", "Students must bring a dictionary."],
+              "answer": "2",
+              "explanation": "'Don't have to' means it is not necessary. The teacher adds that students may bring it if they wish, so it is allowed but not required."
+            }
+          ]
+        },
+        {
+          "title": "Population",
+          "description": "Reading about population growth, using comparatives and superlatives, and describing numbers and statistics.",
+          "lessons": [
+            {
+              "title": "Comparing Numbers: Comparatives and Superlatives",
+              "summary": "Learn how to compare two or more things using comparative and superlative adjectives, useful for describing population, size, and statistics.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Population** means the number of people who live in a place. Ethiopia has a very large population — more than 100 million people. It is the **second most populous** country in Africa, after Nigeria.\n\nWhen we talk about population, we often **compare** places: which city is *bigger*, which region is the *most crowded*. To do this in English, we use **comparative** and **superlative** adjectives. This lesson will show you how."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Form **comparative** adjectives (for comparing two things).\n- Form **superlative** adjectives (for comparing three or more things).\n- Use **than** and **the** correctly.\n- Describe population and statistics."
+                },
+                {
+                  "type": "theory",
+                  "title": "Comparatives and Superlatives",
+                  "body": "**Comparative** adjectives compare **two** things. **Superlative** adjectives compare **three or more** things (one is the highest or lowest of all).\n\n**Rule 1: Short adjectives (one syllable)**\nAdd **-er** (comparative) and **-est** (superlative).\n- big → **bigger** → the **biggest**\n- small → **smaller** → the **smallest**\n- (For 'big', we double the last letter: *bigger, biggest*.)\n\n**Rule 2: Adjectives ending in -y**\nChange -y to -i, then add -er / -est.\n- busy → **busier** → the **busiest**\n- happy → **happier** → the **happiest**\n\n**Rule 3: Long adjectives (two or more syllables)**\nUse **more** (comparative) and **most** (superlative).\n- crowded → **more crowded** → the **most crowded**\n- populous → **more populous** → the **most populous**\n\n**Rule 4: Irregular adjectives**\n- good → **better** → the **best**\n- bad → **worse** → the **worst**\n- far → **farther** → the **farthest**\n\n**Important:** Use **than** after a comparative, and **the** before a superlative.\n- *Addis Ababa is **bigger than** Hawassa.*\n- *Addis Ababa is **the biggest** city in Ethiopia.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us compare three cities by population.\n\n- City A: 100,000 people\n- City B: 500,000 people\n- City C: 3,000,000 people\n\n**Comparing two (B and A):**\n*City B is **larger than** City A.* (short adjective → -er + than)\n\n**Comparing all three (superlative):**\n*City C is **the largest** of the three cities.* (short adjective → the + -est)\n\n**Using a long adjective:**\n*City C is **more crowded than** City A. In fact, City C is **the most crowded** city.* (long adjective → more / the most)\n\nNotice the pattern: two things use **than**, and the highest of all uses **the**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Double comparative:** Incorrect: *more bigger.* Correct: *bigger.* (Use *-er* OR *more*, never both.)\n- **Forgetting 'than':** Incorrect: *She is taller me.* Correct: *She is taller **than** me.*\n- **Forgetting 'the' with superlatives:** Incorrect: *It is biggest city.* Correct: *It is **the** biggest city.*\n- **Using -er with long adjectives:** Incorrect: *crowededer.* Correct: ***more crowded**.*\n- **Wrong irregular forms:** Incorrect: *gooder, baddest.* Correct: ***better, worst**.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Short word? Add -er / -est.** **Long word? Use more / most.**\n- **Comparative = 2 things + than.** Think: \"thaN\" has an **N** like \"**N**umber 2\".\n- **Superlative = the best of all + the.** You need **the** because there is only one winner.\n- Learn the three big irregulars by heart: **good–better–best** and **bad–worse–worst**."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Write the correct form.\n\n1. The Nile is ______ (long) than the Awash River.\n2. Mount Ras Dashen is ______ (high) mountain in Ethiopia.\n3. This city is ______ (crowded) than my village.\n4. Today the weather is ______ (good) than yesterday.\n5. Of all the markets, Merkato is ______ (large).\n\n**Answers:**\n1. longer\n2. the highest\n3. more crowded\n4. better\n5. the largest"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Comparatives** compare two things; **superlatives** compare three or more.\n- Short adjectives: add **-er / -est** (*big → bigger → biggest*).\n- Long adjectives: use **more / most** (*crowded → more crowded → most crowded*).\n- Use **than** after a comparative; use **the** before a superlative.\n- Learn irregulars: **good–better–best, bad–worse–worst**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important population words from this unit.",
+                  "glossary": [
+                    { "term": "population", "definition": "The total number of people living in a place." },
+                    { "term": "populous", "definition": "Having a large number of people." },
+                    { "term": "growth", "definition": "An increase in size or number." },
+                    { "term": "crowded", "definition": "Full of many people in a small space." },
+                    { "term": "rural", "definition": "Connected with the countryside, not the city." },
+                    { "term": "urban", "definition": "Connected with a town or city." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "When do we use a comparative adjective?", "back": "To compare two things. Example: City B is bigger than City A." },
+                { "front": "When do we use a superlative adjective?", "back": "To compare three or more things (the highest of all). Example: City C is the biggest." },
+                { "front": "How do we make the comparative of a long adjective like 'crowded'?", "back": "Use 'more': more crowded. (Never add -er to long adjectives.)" },
+                { "front": "What are the irregular forms of 'good' and 'bad'?", "back": "good → better → best; bad → worse → worst." },
+                { "front": "What does 'urban' mean?", "back": "Connected with a town or city (the opposite of 'rural')." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Comparatives",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": ["My town is more big than yours.", "My town is bigger than yours.", "My town is biggest than yours.", "My town is more bigger than yours."],
+              "answer": "1",
+              "explanation": "'Big' is a short adjective, so we add -er and use 'than': 'bigger than'."
+            },
+            {
+              "topic": "Superlatives",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Complete: 'Addis Ababa is ______ city in Ethiopia.'",
+              "options": ["the largest", "larger", "the larger", "more large"],
+              "answer": "0",
+              "explanation": "We compare it to all other cities, so we use the superlative with 'the': 'the largest'."
+            },
+            {
+              "topic": "Long adjectives",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct comparative for the adjective 'crowded'.",
+              "options": ["crowededer", "more crowded", "crowdedest", "most crowded"],
+              "answer": "1",
+              "explanation": "'Crowded' is a long adjective, so the comparative uses 'more': 'more crowded'."
+            },
+            {
+              "topic": "Irregular adjectives",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Complete: 'Today the air quality is ______ than yesterday — it is very bad now.'",
+              "options": ["badder", "more bad", "worse", "worst"],
+              "answer": "2",
+              "explanation": "'Bad' is irregular. The comparative is 'worse' (used with 'than')."
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What does 'populous' mean?",
+              "options": ["Very poor.", "Having a large number of people.", "Far from the city.", "Growing slowly."],
+              "answer": "1",
+              "explanation": "'Populous' describes a place that has a large number of people."
+            },
+            {
+              "topic": "Mixed forms",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Choose the sentence with NO error.",
+              "options": ["China is the most populous than India.", "China is more populous than India, but India is the most crowded of the two.", "China is more populous than India.", "China is populouser than India."],
+              "answer": "2",
+              "explanation": "Comparing two countries uses the comparative with 'than': 'more populous than'. The other options mix superlatives with 'than' or use wrong forms."
+            }
+          ]
+        },
+        {
+          "title": "Substance Abuse",
+          "description": "Reading about the dangers of drugs, using the past simple tense, and giving warnings and advice.",
+          "lessons": [
+            {
+              "title": "Telling What Happened: The Past Simple Tense",
+              "summary": "Learn how to use the past simple tense with regular and irregular verbs to talk about finished actions, useful for reading and writing about real events and stories.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Substance abuse** means using harmful things like drugs, alcohol, **khat**, or cigarettes in a way that damages your health. These substances can harm the body and the mind, and they can destroy families.\n\nWhen we read true stories or warnings about people who suffered from substance abuse, the writer usually talks about the **past**. To understand and tell these stories, you must master the **past simple tense**. This lesson will teach you both regular and irregular verbs."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Form the **past simple** of **regular** verbs (with -ed).\n- Use common **irregular** verbs in the past.\n- Make **negative** sentences and **questions** in the past.\n- Talk about finished events and tell short stories."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Past Simple Tense",
+                  "body": "We use the **past simple** for actions that **started and finished in the past**.\n- *Yesterday, he **visited** the clinic.*\n- *She **started** the lesson on time.*\n\n**Regular verbs:** add **-ed** to the base verb.\n- work → **worked**, help → **helped**, want → **wanted**\n- If the verb ends in -e, add only -d: live → **lived**.\n- If it ends in consonant + y, change y to i: study → **studied**.\n\n**Irregular verbs:** these do NOT follow the -ed rule. You must learn them.\n- go → **went**\n- have → **had**\n- say → **said**\n- take → **took**\n- become → **became**\n- begin → **began**\n- give → **gave**\n\n**Negatives and questions** use **did** + base verb (no -ed, no irregular change):\n- Negative: *He **did not** (didn't) **go**.* (NOT *didn't went*)\n- Question: ***Did** she **take** the medicine?* (NOT *Did she took*)\n\n**Time words** for the past: *yesterday, last week, in 2010, two years ago, when I was young.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read this short true-style paragraph and notice the past simple verbs:\n\n*\"A few years ago, a young man named Dawit **started** to chew khat with his friends. At first, he **thought** it was harmless. Soon he **spent** all his money on it. He **stopped** going to school and **lost** his job. One day, a counsellor **talked** to him and **helped** him stop. Today, Dawit is healthy again.\"*\n\nNotice:\n- **started, stopped, talked, helped** = regular verbs (+ -ed)\n- **thought, spent, lost** = irregular verbs (special forms)\n\n**Now a question and negative:**\n- Question: *Why **did** Dawit **start** chewing khat?*\n- Negative: *He **did not finish** school.* (We use *did + base verb*, so 'finish', not 'finished'.)"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Using -ed with irregular verbs:** Incorrect: *He goed home.* Correct: *He **went** home.*\n- **Double past in questions/negatives:** Incorrect: *Did you went?* Correct: *Did you **go**?* Incorrect: *I didn't saw.* Correct: *I didn't **see**.*\n- **Forgetting to change the verb:** Incorrect: *Yesterday I walk to school.* Correct: *Yesterday I **walked** to school.*\n- **Wrong spelling of -ed:** Incorrect: *stoped, studyed.* Correct: ***stopped** (double the p), **studied** (y → i).*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- For regular verbs, just remember: **\"Past = + ed.\"**\n- After **did** or **didn't**, the main verb goes back to its **base form** — \"did\" already carries the past, so the verb rests.\n- Make a small list of the irregular verbs you use most and review 5 each day: *go–went, see–saw, take–took, give–gave, come–came.*\n- Look for **past time words** like *yesterday* or *last year* — they are a signal to use the past simple."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Put the verb in the past simple.\n\n1. Last year, she ______ (stop) smoking.\n2. He ______ (go) to the health centre yesterday.\n3. They ______ (not / listen) to the warning.\n4. ______ you ______ (read) the article about drugs?\n5. The teacher ______ (give) us good advice.\n\n**Answers:**\n1. stopped\n2. went\n3. did not (didn't) listen\n4. Did ... read\n5. gave"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **past simple** describes finished actions in the past.\n- **Regular verbs** add **-ed** (*worked, helped*).\n- **Irregular verbs** have special forms you must learn (*go → went, take → took*).\n- For negatives and questions, use **did / didn't + base verb** (*Did you go? / He didn't go.*).\n- Past time words: *yesterday, last week, ago.*"
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important words about health and substance abuse.",
+                  "glossary": [
+                    { "term": "substance abuse", "definition": "The harmful use of drugs, alcohol, or other substances." },
+                    { "term": "addiction", "definition": "A strong need to keep using something harmful, even when it hurts you." },
+                    { "term": "harmful", "definition": "Causing damage to health or something else." },
+                    { "term": "warning", "definition": "Something said or written to tell people about a danger." },
+                    { "term": "counsellor", "definition": "A person trained to give advice and help with problems." },
+                    { "term": "recover", "definition": "To become healthy or well again after being sick or having a problem." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "How do we form the past simple of regular verbs?", "back": "Add -ed to the base verb. Example: work → worked, help → helped." },
+                { "front": "What is the past simple of 'go', 'take', and 'give'?", "back": "go → went, take → took, give → gave (irregular verbs)." },
+                { "front": "How do we make a past simple question?", "back": "Use 'did' + base verb. Example: Did you go? (not 'Did you went?')" },
+                { "front": "How do we make a past simple negative?", "back": "Use 'did not' (didn't) + base verb. Example: He didn't see it." },
+                { "front": "What does 'addiction' mean?", "back": "A strong need to keep using something harmful, even when it hurts you." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Regular past",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct past simple form: 'Yesterday she ______ to the doctor.'",
+              "options": ["talk", "talked", "talking", "talks"],
+              "answer": "1",
+              "explanation": "'Talk' is a regular verb, so the past simple is 'talked'. 'Yesterday' signals the past."
+            },
+            {
+              "topic": "Irregular past",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the past simple of 'go'?",
+              "options": ["goed", "gone", "went", "going"],
+              "answer": "2",
+              "explanation": "'Go' is irregular. Its past simple form is 'went'."
+            },
+            {
+              "topic": "Past questions",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct question.",
+              "options": ["Did you saw the warning?", "Did you see the warning?", "Do you saw the warning?", "Did you seen the warning?"],
+              "answer": "1",
+              "explanation": "After 'did', the main verb is in the base form: 'Did you see...?'"
+            },
+            {
+              "topic": "Past negatives",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct negative sentence.",
+              "options": ["He didn't listened to advice.", "He don't listen to advice.", "He didn't listen to advice.", "He not listened to advice."],
+              "answer": "2",
+              "explanation": "We use 'didn't' + base verb: 'didn't listen'. The verb does not take -ed after 'didn't'."
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What does 'recover' mean?",
+              "options": ["To become sick.", "To become healthy or well again.", "To give a warning.", "To start using drugs."],
+              "answer": "1",
+              "explanation": "'Recover' means to become healthy or well again after illness or a problem."
+            },
+            {
+              "topic": "Spelling",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Choose the sentence where ALL past verbs are spelled correctly.",
+              "options": ["He stoped smoking and studyed hard.", "He stopped smoking and studied hard.", "He stoppd smoking and studyied hard.", "He stopped smoking and studyed hard."],
+              "answer": "1",
+              "explanation": "'Stop' doubles the p before -ed (stopped). 'Study' changes y to i before -ed (studied)."
+            }
+          ]
+        },
+        {
+          "title": "Science and Technology",
+          "description": "Reading about inventions and technology, using the passive voice, and describing processes.",
+          "lessons": [
+            {
+              "title": "Describing Processes: The Passive Voice",
+              "summary": "Learn how to form and use the passive voice to describe processes, inventions, and actions when the doer is unknown or not important.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Science and technology** change our lives every day. Mobile phones, the internet, electricity, and computers are all results of human **invention**.\n\nWhen we write about science and how things are made, we often use the **passive voice**. For example, instead of saying *\"People make injera from teff,\"* a science text says *\"Injera **is made** from teff.\"* The passive voice helps us focus on the action and the thing, not the person who does it. This lesson will teach you how to use it."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Understand the difference between **active** and **passive** voice.\n- Form the passive in the present and past.\n- Know **when** to use the passive voice.\n- Describe processes and inventions clearly."
+                },
+                {
+                  "type": "theory",
+                  "title": "Active and Passive Voice",
+                  "body": "In the **active voice**, the subject does the action.\n- *Farmers **grow** coffee.* (subject = farmers, who do the action)\n\nIn the **passive voice**, the subject **receives** the action. We are more interested in the action or the object than in who did it.\n- *Coffee **is grown** by farmers.* (subject = coffee, which receives the action)\n\n**How to form the passive:** use the correct form of **be** + the **past participle** of the main verb.\n- Present passive: *am / is / are* + past participle → *Cars **are made** in factories.*\n- Past passive: *was / were* + past participle → *The bridge **was built** in 1930.*\n\nThe **past participle** is the third form of the verb (make → made, build → built, write → written, grow → grown).\n\n**When to use the passive voice:**\n1. When we **don't know** who did the action: *My phone **was stolen**.*\n2. When **who did it is not important**: *Teff **is grown** in Ethiopia.*\n3. In **scientific** and formal writing to describe processes: *The water **is boiled** and then **cooled**.*\n\nWe can add **by** to show who did the action, but only if it is important: *The telephone **was invented by** Alexander Graham Bell.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us change active sentences into the passive.\n\n**Active:** *People speak Amharic in Ethiopia.*\n- Step 1: Find the object → *Amharic.* Make it the subject.\n- Step 2: Use *be* + past participle → *is spoken.*\n- **Passive:** *Amharic **is spoken** in Ethiopia.*\n\n**Active (past):** *Workers built the road last year.*\n- Object → *the road.*\n- *be* (past) + past participle → *was built.*\n- **Passive:** *The road **was built** last year.*\n\n**Describing a process (the passive is very natural here):**\n*\"First, the coffee beans **are picked**. Then they **are dried** in the sun. Finally, they **are roasted** and **ground** into powder.\"*\n\nNotice how the passive lets us describe each step without saying *\"someone picks... someone dries...\"* again and again."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Forgetting the verb 'be':** Incorrect: *The house built in 2000.* Correct: *The house **was** built in 2000.*\n- **Using the base verb instead of the past participle:** Incorrect: *Coffee is grow here.* Correct: *Coffee is **grown** here.*\n- **Wrong past participle:** Incorrect: *The letter was writed.* Correct: *The letter was **written**.*\n- **Overusing 'by':** We add *by + person* only when it matters. *Teff is grown in Ethiopia* is better than *Teff is grown by farmers in Ethiopia* if the farmers are not the point."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- The passive recipe is simple: **be + past participle** (sometimes called the 3rd form).\n- Ask: **\"Who cares who did it?\"** If the doer is unknown or not important, use the passive.\n- Match the **tense** with the **be** verb: *is/are* for present, *was/were* for past. The past participle never changes.\n- Learn past participles of common verbs: *make–made, build–built, write–written, grow–grown, give–given, take–taken.*"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Change to the passive voice.\n\n1. People speak English all over the world. → English ______ all over the world.\n2. Someone stole my bike. → My bike ______.\n3. They make cars in this factory. → Cars ______ in this factory.\n4. Farmers grew teff here last year. → Teff ______ here last year.\n5. Bell invented the telephone. → The telephone ______ by Bell.\n\n**Answers:**\n1. is spoken\n2. was stolen\n3. are made\n4. was grown\n5. was invented"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- In the **active voice**, the subject does the action; in the **passive voice**, the subject receives it.\n- Form the passive with **be + past participle**.\n- Present: *is / are made*; Past: *was / were made*.\n- Use the passive when the doer is **unknown** or **not important**, and in scientific writing.\n- Add **by + person** only when the doer matters."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important science and technology words.",
+                  "glossary": [
+                    { "term": "invention", "definition": "A new thing that someone makes or designs for the first time." },
+                    { "term": "technology", "definition": "Machines and methods made from scientific knowledge to do useful work." },
+                    { "term": "process", "definition": "A series of steps taken to make or do something." },
+                    { "term": "experiment", "definition": "A scientific test done to learn something or prove an idea." },
+                    { "term": "device", "definition": "A machine or tool made for a special purpose, like a phone." },
+                    { "term": "discovery", "definition": "The act of finding something that existed but was not known before." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "How do we form the passive voice?", "back": "be + past participle. Example: Coffee is grown; the bridge was built." },
+                { "front": "When do we use the passive voice?", "back": "When the doer is unknown or not important, and to describe processes. Example: My phone was stolen." },
+                { "front": "Change to passive: 'They make cars here.'", "back": "Cars are made here." },
+                { "front": "What is the past participle of 'write' and 'build'?", "back": "write → written; build → built." },
+                { "front": "What does 'invention' mean?", "back": "A new thing that someone makes or designs for the first time." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Passive form",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct passive sentence.",
+              "options": ["Coffee is grow in Ethiopia.", "Coffee is grown in Ethiopia.", "Coffee grown in Ethiopia.", "Coffee is growing by farmers."],
+              "answer": "1",
+              "explanation": "The passive uses 'be' + past participle: 'is grown'."
+            },
+            {
+              "topic": "Active vs passive",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which sentence is in the passive voice?",
+              "options": ["Farmers grow teff.", "Teff is grown by farmers.", "Farmers are growing teff.", "Farmers grew teff."],
+              "answer": "1",
+              "explanation": "In 'Teff is grown by farmers', the subject (teff) receives the action, so it is passive."
+            },
+            {
+              "topic": "Past passive",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Complete the past passive: 'The school ______ in 1995.'",
+              "options": ["is built", "was build", "was built", "built"],
+              "answer": "2",
+              "explanation": "For the past passive we use 'was/were' + past participle: 'was built'."
+            },
+            {
+              "topic": "Past participle",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": ["The report was writed by the student.", "The report was wrote by the student.", "The report was written by the student.", "The report was write by the student."],
+              "answer": "2",
+              "explanation": "The past participle of 'write' is 'written': 'was written'."
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is a 'process'?",
+              "options": ["A new machine.", "A series of steps taken to make or do something.", "A scientific test.", "A person who invents things."],
+              "answer": "1",
+              "explanation": "A 'process' is a series of steps taken to make or do something."
+            },
+            {
+              "topic": "Passive use",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which sentence best fits a science text describing a process?",
+              "options": ["Somebody boils the water and then somebody cools it.", "You boil the water and your friend cools it.", "The water is boiled and then cooled.", "The water boils somebody and cools."],
+              "answer": "2",
+              "explanation": "Scientific process descriptions use the passive voice and leave out the doer: 'The water is boiled and then cooled.'"
+            }
+          ]
+        },
+        {
+          "title": "Trade and Economy",
+          "description": "Reading about trade and business, using the present perfect tense, and discussing experiences and results.",
+          "lessons": [
+            {
+              "title": "Linking Past and Present: The Present Perfect Tense",
+              "summary": "Learn how to use the present perfect tense to talk about experiences, recent actions, and changes that connect the past to the present, useful for discussing trade and economy.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Trade** means buying and selling goods. The **economy** is the way a country produces, sells, and uses its money and goods. Ethiopia **exports** coffee, sesame, and leather, and **imports** machines and fuel.\n\nWhen we talk about trade and changes in the economy, we often connect the past with the present. For this we use the **present perfect tense**. For example: *\"Coffee exports **have increased** this year.\"* This lesson will teach you this important tense."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Form the **present perfect** tense (have / has + past participle).\n- Use it for **experiences**, **recent actions**, and **changes**.\n- Use **for, since, already, yet,** and **ever** correctly.\n- Know the difference between the present perfect and the past simple."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Present Perfect Tense",
+                  "body": "**Form:** **have / has** + **past participle**.\n- I / you / we / they **have worked**\n- he / she / it **has worked**\n\nWe use the present perfect for:\n\n**1. Life experiences** (at some time before now, the exact time is not important):\n- *I **have visited** Addis Ababa.* (sometime in my life)\n- *She **has never traded** abroad.*\n\n**2. Recent actions with a result now:**\n- *Prices **have risen**, so things are expensive now.*\n\n**3. Actions that started in the past and continue now** (with *for* and *since*):\n- *He **has worked** in the market **for** ten years.* (and still works there)\n- *They **have sold** coffee **since** 2015.*\n\n**Signal words:**\n- **for** + a length of time: *for two years, for a long time.*\n- **since** + a starting point: *since 2010, since Monday.*\n- **already** (something happened, sooner than expected): *I have **already** finished.*\n- **yet** (in questions and negatives): *Have you finished **yet**? / Not **yet**.*\n- **ever / never**: *Have you **ever** been there? / I have **never** been there.*\n\n**Present perfect vs. past simple:**\n- Past simple = finished time: *I **visited** Bahir Dar **last year**.* (we know when)\n- Present perfect = no exact time / connected to now: *I **have visited** Bahir Dar.* (sometime, not stated)"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Look at the difference between the two tenses:\n\n**Past simple (finished, with a time word):**\n*The company **signed** a trade deal **in 2020**.* (We know exactly when.)\n\n**Present perfect (connected to now, no exact time):**\n*The company **has signed** many trade deals.* (At some times in its history; the result matters now.)\n\n**Using 'for' and 'since':**\n- *Ethiopia **has exported** coffee **for** more than a hundred years.* (length of time)\n- *Ethiopia **has exported** coffee **since** the 19th century.* (starting point)\n\n**Using 'already' and 'yet':**\n- *The shop **has already** opened.* (it opened, maybe earlier than expected)\n- *The goods **haven't** arrived **yet**.* (up to now, they have not arrived)"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Using the present perfect with a finished time word:** Incorrect: *I have seen him yesterday.* Correct: *I **saw** him yesterday.* (Use past simple with 'yesterday'.)\n- **Confusing 'for' and 'since':** Incorrect: *for 2010.* Correct: ***since** 2010* (a point) / ***for** ten years* (a length).\n- **Wrong past participle:** Incorrect: *I have went.* Correct: *I have **gone**.*\n- **Forgetting has/have:** Incorrect: *She finished already.* (if you mean recent result) Correct: *She **has** finished already.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- Recipe: **have / has + 3rd form (past participle).**\n- **SINCE points to a Start.** **FOR shows a length** (a *period* of time).\n- If the sentence has a finished time word like *yesterday* or *last week*, do **not** use the present perfect — use the **past simple**.\n- Think of the present perfect as a **bridge** that connects the past to *now*."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose the correct form.\n\n1. She ______ (work) in the market for five years. (still works there)\n2. We ______ (sign) the contract last Monday.\n3. ______ you ever ______ (visit) a coffee farm?\n4. They have lived here ______ (for / since) 2018.\n5. The prices ______ (rise) recently, so life is expensive.\n\n**Answers:**\n1. has worked\n2. signed\n3. Have ... visited\n4. since\n5. have risen"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **present perfect** = **have / has + past participle**.\n- Use it for **experiences**, **recent results**, and actions that **continue to now**.\n- **For** = a length of time; **since** = a starting point.\n- Use **already, yet, ever, never** with the present perfect.\n- Do **not** use it with finished time words like *yesterday* — use the **past simple** instead."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important trade and economy words.",
+                  "glossary": [
+                    { "term": "trade", "definition": "The activity of buying and selling goods and services." },
+                    { "term": "economy", "definition": "The system of how a country produces, sells, and uses money and goods." },
+                    { "term": "export", "definition": "To sell goods to another country." },
+                    { "term": "import", "definition": "To buy goods from another country." },
+                    { "term": "goods", "definition": "Things that are made or grown to be sold." },
+                    { "term": "profit", "definition": "The money you gain after you take away your costs." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "How do we form the present perfect?", "back": "have / has + past participle. Example: I have worked; she has gone." },
+                { "front": "What is the difference between 'for' and 'since'?", "back": "'For' = a length of time (for ten years). 'Since' = a starting point (since 2010)." },
+                { "front": "Can we say 'I have seen him yesterday'?", "back": "No. With a finished time word like 'yesterday', use the past simple: 'I saw him yesterday.'" },
+                { "front": "What does the present perfect connect?", "back": "It connects the past to the present (now). Example: Prices have risen, so things are expensive now." },
+                { "front": "What is the difference between 'export' and 'import'?", "back": "'Export' = sell goods to another country. 'Import' = buy goods from another country." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Present perfect form",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct present perfect sentence.",
+              "options": ["She have worked here for years.", "She has worked here for years.", "She has work here for years.", "She has worked here since years."],
+              "answer": "1",
+              "explanation": "With 'she' we use 'has' + past participle: 'has worked'. We use 'for' with a length of time (years)."
+            },
+            {
+              "topic": "For and since",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Complete: 'They have sold coffee ______ 2015.'",
+              "options": ["for", "since", "during", "from"],
+              "answer": "1",
+              "explanation": "'2015' is a starting point, so we use 'since'."
+            },
+            {
+              "topic": "Tense choice",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": ["I have visited the market yesterday.", "I visited the market yesterday.", "I has visited the market yesterday.", "I have visit the market yesterday."],
+              "answer": "1",
+              "explanation": "With the finished time word 'yesterday', we use the past simple: 'I visited the market yesterday.'"
+            },
+            {
+              "topic": "Past participle",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Complete: 'The company ______ many trade deals over the years.'",
+              "options": ["has signed", "has sign", "have signed", "has signing"],
+              "answer": "0",
+              "explanation": "The subject 'the company' is singular, so 'has', and we use the past participle 'signed'."
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What does 'profit' mean?",
+              "options": ["The total money you receive from sales.", "The money you gain after taking away your costs.", "The cost of making goods.", "Goods bought from another country."],
+              "answer": "1",
+              "explanation": "'Profit' is the money you gain after you subtract your costs."
+            },
+            {
+              "topic": "Signal words",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Choose the sentence that is correct AND natural.",
+              "options": ["Have the goods arrived already? No, they haven't arrived yet.", "Did the goods arrived yet? No, not already.", "Have the goods arrive yet? No, they didn't yet.", "Has the goods arrived yet? No, they haven't arrive yet."],
+              "answer": "0",
+              "explanation": "'Already' and 'yet' are used with the present perfect (have + past participle 'arrived'). 'Yet' fits negatives, and 'arrived' is the correct participle."
+            }
+          ]
+        },
+        {
+          "title": "Sport",
+          "description": "Reading about sports and athletes, using adverbs of manner and frequency, and describing how actions are done.",
+          "lessons": [
+            {
+              "title": "Describing Actions: Adverbs of Manner and Frequency",
+              "summary": "Learn how to form and use adverbs to describe how, and how often, actions happen, useful for talking about sport, athletes, and daily routines.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Ethiopia is famous for **sport**, especially long-distance running. Athletes like **Haile Gebrselassie**, **Tirunesh Dibaba**, and **Derartu Tulu** have won Olympic gold medals and made Ethiopia proud.\n\nWhen we talk about athletes, we describe **how** they run, jump, or play — *quickly, carefully, well* — and **how often** they train — *always, usually, twice a week.* For this we use **adverbs**. This lesson will teach you adverbs of **manner** and **frequency**."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Form **adverbs of manner** from adjectives (usually with -ly).\n- Use **adverbs of frequency** (always, usually, sometimes, never).\n- Put adverbs in the **correct place** in a sentence.\n- Describe how and how often actions happen."
+                },
+                {
+                  "type": "theory",
+                  "title": "Adverbs of Manner and Frequency",
+                  "body": "An **adverb** is a word that describes a verb (an action). It tells us *how, when, where,* or *how often* something happens.\n\n**1. Adverbs of manner** tell us **how** an action is done. We usually make them by adding **-ly** to an adjective.\n- quick → **quickly**: *She runs **quickly**.*\n- careful → **carefully**: *He plays **carefully**.*\n- slow → **slowly**, bad → **badly**, beautiful → **beautifully**\n\nSpelling notes: happy → **happily** (y → i), and some adjectives ending in -le change to -ly: simple → **simply**.\n\n**Irregular adverbs** (do not add -ly):\n- good (adjective) → **well** (adverb): *He is a **good** player. He plays **well**.*\n- fast → **fast**, hard → **hard** (these stay the same).\n\n**2. Adverbs of frequency** tell us **how often** something happens:\n- **always** (100%) → usually → often → sometimes → rarely → **never** (0%)\n\n**Where to put adverbs:**\n- Adverbs of **manner** usually go **after the verb** or after the object: *She sings **beautifully**.*\n- Adverbs of **frequency** usually go **before the main verb**, but **after** the verb *be*: *He **always** trains in the morning.* / *She **is** **never** late.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us build sentences with adverbs.\n\n**Adjective → adverb of manner:**\n- Adjective: *He is a **careful** driver.* (describes the noun 'driver')\n- Adverb: *He drives **carefully**.* (describes the verb 'drives')\n\n**Using 'good' and 'well':**\n- *Tirunesh is a **good** runner.* (adjective + noun)\n- *Tirunesh runs **well**.* (verb + adverb — NOT 'runs good')\n\n**Adverb of frequency placement:**\n- Before the main verb: *Athletes **usually** train every day.*\n- After the verb 'be': *The stadium **is** **often** full on match days.*\n\n**Putting it together:**\n*\"Our team **always** plays **hard**, and they **usually** win **easily**.\"*"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Using 'good' instead of 'well':** Incorrect: *She plays good.* Correct: *She plays **well**.*\n- **Adding -ly to 'fast' or 'hard':** Incorrect: *He runs fastly.* Correct: *He runs **fast**.*\n- **Wrong place for frequency adverbs:** Incorrect: *He goes always to the gym.* Correct: *He **always goes** to the gym.*\n- **Using an adjective to describe a verb:** Incorrect: *She sings beautiful.* Correct: *She sings **beautifully**.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Adjectives describe things (nouns); adverbs describe actions (verbs).** \"A **quick** runner runs **quickly**.\"\n- Most adverbs of manner = **adjective + ly.**\n- Remember the special pair: **good → well.** Never say \"plays good\".\n- Frequency adverbs sit **before the main verb** but **after 'be'**: \"I **always** try\" / \"I **am** **always** ready.\""
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose or form the correct adverb.\n\n1. She is a careful player. She plays ______.\n2. He runs very ______ (fast).\n3. He is a good footballer. He plays ______.\n4. Put the adverb in the right place: 'They train.' (always)\n5. The athlete breathed ______ (heavy) after the race.\n\n**Answers:**\n1. carefully\n2. fast\n3. well\n4. They always train.\n5. heavily"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Adverbs** describe verbs; they tell us *how* or *how often*.\n- **Adverbs of manner** usually add **-ly** to an adjective (*quick → quickly*).\n- Learn the special pair **good → well**, and the unchanged forms **fast, hard**.\n- **Adverbs of frequency** (always, usually, sometimes, never) go **before the main verb** but **after 'be'**.\n- Use an adjective for a noun, but an **adverb** for a verb."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important sport words.",
+                  "glossary": [
+                    { "term": "athlete", "definition": "A person who is good at sport and trains for it." },
+                    { "term": "compete", "definition": "To take part in a sport or contest to try to win." },
+                    { "term": "champion", "definition": "A person or team that wins first place in a competition." },
+                    { "term": "train", "definition": "To practise and prepare for a sport or skill." },
+                    { "term": "victory", "definition": "A success in a game, competition, or fight." },
+                    { "term": "spectator", "definition": "A person who watches a sport or event." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "How do we usually form an adverb of manner?", "back": "Add -ly to an adjective. Example: quick → quickly, careful → carefully." },
+                { "front": "What is the adverb form of 'good'?", "back": "Well. Example: She is a good player; she plays well (not 'plays good')." },
+                { "front": "Where do we put adverbs of frequency?", "back": "Before the main verb, but after the verb 'be'. Example: He always trains; she is never late." },
+                { "front": "What is the adverb form of 'fast'?", "back": "Fast (it does not change). Example: He runs fast, not 'fastly'." },
+                { "front": "What does 'spectator' mean?", "back": "A person who watches a sport or event." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Adverbs of manner",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": ["She runs quick.", "She runs quickly.", "She runs quickness.", "She is run quickly."],
+              "answer": "1",
+              "explanation": "To describe the verb 'runs', we use the adverb 'quickly' (adjective + ly)."
+            },
+            {
+              "topic": "Good vs well",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": ["He plays football good.", "He plays football well.", "He plays football goodly.", "He is play well."],
+              "answer": "1",
+              "explanation": "The adverb of 'good' is 'well'. To describe the verb 'plays', we use 'well'."
+            },
+            {
+              "topic": "Adverb placement",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Where does the adverb of frequency go? 'She ______ trains ______ in the morning.' (always)",
+              "options": ["She trains always in the morning.", "She always trains in the morning.", "Always she trains in the morning.", "She trains in the morning always."],
+              "answer": "1",
+              "explanation": "Adverbs of frequency go before the main verb: 'She always trains in the morning.'"
+            },
+            {
+              "topic": "Irregular adverbs",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": ["The athlete runs fastly.", "The athlete runs fast.", "The athlete runs fastily.", "The athlete is run fast."],
+              "answer": "1",
+              "explanation": "'Fast' is both an adjective and an adverb. It does not take -ly: 'runs fast'."
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What does 'compete' mean?",
+              "options": ["To watch a game.", "To take part in a sport or contest to try to win.", "To win first place.", "To stop playing."],
+              "answer": "1",
+              "explanation": "'Compete' means to take part in a sport or contest in order to try to win."
+            },
+            {
+              "topic": "Adjective vs adverb",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Choose the sentence with NO error.",
+              "options": ["He is a quickly runner who plays good.", "He is a quick runner who plays well.", "He is a quick runner who plays good.", "He is a quickly runner who plays well."],
+              "answer": "1",
+              "explanation": "Use the adjective 'quick' before the noun 'runner', and the adverb 'well' after the verb 'plays'."
+            }
+          ]
+        },
+        {
+          "title": "Environmental Protection",
+          "description": "Reading about the environment, using the first conditional (if-clauses), and talking about causes and results.",
+          "lessons": [
+            {
+              "title": "Causes and Results: The First Conditional (If-Clauses)",
+              "summary": "Learn how to use the first conditional to talk about real possibilities and their results in the future, useful for discussing the environment and how to protect it.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Our **environment** is the natural world around us — the air, water, soil, trees, and animals. Today the environment faces problems such as **pollution**, **deforestation** (cutting down forests), and **climate change**.\n\nIn Ethiopia, people plant millions of trees through the Green Legacy programme to protect the land. When we talk about protecting the environment, we often say: *\"If we plant trees, the land will improve.\"* This is the **first conditional**. This lesson teaches you how to talk about causes and their future results."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Form the **first conditional** correctly.\n- Talk about **real future possibilities** and their **results**.\n- Use **if** and **will** in the right clauses.\n- Discuss causes and effects in the environment."
+                },
+                {
+                  "type": "theory",
+                  "title": "The First Conditional",
+                  "body": "The **first conditional** talks about a **real or likely situation** in the future and its **result**. It has two parts:\n\n**Structure:** **If** + present simple, ... **will** + base verb.\n- *If we **cut** down trees, the soil **will wash** away.*\n- *If you **recycle**, you **will help** the planet.*\n\n**The 'if' part** (called the *if-clause* or *condition*) uses the **present simple**.\n**The result part** (the *main clause*) uses **will** + base verb.\n\n**Important: do NOT use 'will' in the if-clause.**\n- Incorrect: *If it will rain...*\n- Correct: *If it **rains**, the plants will grow.*\n\n**Word order:** You can put the if-clause first or second. The meaning is the same.\n- *If we save water, we will have enough for the dry season.*\n- *We will have enough for the dry season **if** we save water.*\n- Tip: when the if-clause comes **first**, use a **comma** after it.\n\nWe can also use **may / might / can** instead of 'will' to show that the result is possible but not certain:\n- *If we pollute the river, the fish **may** die.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us build first conditional sentences about the environment.\n\n**Cause → Result:**\n- Cause: we plant more trees. Result: the air becomes cleaner.\n- *If we **plant** more trees, the air **will become** cleaner.*\n\n**Another:**\n- Cause: people throw plastic in the river. Result: it harms the fish.\n- *If people **throw** plastic in the river, it **will harm** the fish.*\n\n**Changing the order (same meaning):**\n- *The land **will improve** if farmers **stop** cutting trees.*\n\n**Using 'may' for a possible result:**\n- *If we **don't act** now, the climate **may get** worse.*\n\nRemember the pattern: **present simple in the 'if' part, 'will' + base verb in the result part.**"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Using 'will' in the if-clause:** Incorrect: *If it will rain, we will stay home.* Correct: *If it **rains**, we will stay home.*\n- **Forgetting 'will' in the result:** Incorrect: *If we plant trees, the air becomes cleaner.* (This is also possible but for a sure future result we usually say) Correct: *If we plant trees, the air **will become** cleaner.*\n- **Adding -s wrongly after 'will':** Incorrect: *It will helps.* Correct: *It **will help**.*\n- **Forgetting the comma** when the if-clause is first: *If we recycle**,** we will save resources.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- The golden rule: **\"No 'will' after 'if'.\"** The if-clause uses the present simple.\n- Think of it as **cause + future result**: *If [present], [will + verb].*\n- The two clauses are like two halves of a bridge: the **if** half describes the condition, the **will** half describes what happens.\n- When the **if** comes first, drop a **comma** like a small pause before the result."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Complete with the correct form.\n\n1. If we ______ (save) water, we ______ (have) enough in summer.\n2. The trees will grow if it ______ (rain) well.\n3. If people ______ (not / stop) polluting, the river ______ (die).\n4. If you recycle paper, you ______ (save) trees.\n5. If we ______ (plant) more trees, the air ______ (be) cleaner.\n\n**Answers:**\n1. save; will have\n2. rains\n3. do not (don't) stop; will die\n4. will save\n5. plant; will be"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **first conditional** talks about a real future possibility and its result.\n- Structure: **If + present simple, ... will + base verb.**\n- Do **not** use 'will' in the **if-clause**.\n- The if-clause can come first (with a comma) or second.\n- Use **may / might / can** for a result that is possible but not certain."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important environment words.",
+                  "glossary": [
+                    { "term": "environment", "definition": "The natural world around us: air, water, land, plants, and animals." },
+                    { "term": "pollution", "definition": "Harmful dirt or waste that damages the air, water, or land." },
+                    { "term": "deforestation", "definition": "The cutting down of large areas of forest." },
+                    { "term": "recycle", "definition": "To treat used things so they can be used again." },
+                    { "term": "climate change", "definition": "A long-term change in the world's weather, often caused by pollution." },
+                    { "term": "conserve", "definition": "To protect something and use it carefully so it is not wasted." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the structure of the first conditional?", "back": "If + present simple, ... will + base verb. Example: If we plant trees, the air will become cleaner." },
+                { "front": "Can we use 'will' in the if-clause?", "back": "No. The if-clause uses the present simple. Say 'If it rains', not 'If it will rain'." },
+                { "front": "What does the first conditional talk about?", "back": "A real or likely situation in the future and its result." },
+                { "front": "What can we use instead of 'will' for a possible result?", "back": "may, might, or can. Example: If we pollute the river, the fish may die." },
+                { "front": "What does 'deforestation' mean?", "back": "The cutting down of large areas of forest." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "First conditional form",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct first conditional sentence.",
+              "options": ["If we will plant trees, the air will be cleaner.", "If we plant trees, the air will be cleaner.", "If we plant trees, the air is cleaner.", "If we planted trees, the air will be cleaner."],
+              "answer": "1",
+              "explanation": "The if-clause uses the present simple ('plant'), and the result uses 'will' + base verb ('will be')."
+            },
+            {
+              "topic": "If-clause",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Complete: 'If it ______ tomorrow, we will plant the seedlings.'",
+              "options": ["will rain", "rains", "rained", "is raining"],
+              "answer": "1",
+              "explanation": "We do not use 'will' after 'if'. The if-clause uses the present simple: 'rains'."
+            },
+            {
+              "topic": "Result clause",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct result clause: 'If we recycle, we ______ trees.'",
+              "options": ["save", "will saves", "will save", "saved"],
+              "answer": "2",
+              "explanation": "The result clause uses 'will' + base verb: 'will save' (no -s after will)."
+            },
+            {
+              "topic": "Word order",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which sentence is punctuated correctly?",
+              "options": ["If we save water we will have enough.", "If we save water, we will have enough.", "We will have enough, if we save water.", "If we will save water, we will have enough."],
+              "answer": "1",
+              "explanation": "When the if-clause comes first, we put a comma after it: 'If we save water, we will have enough.'"
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What does 'conserve' mean?",
+              "options": ["To waste something.", "To protect something and use it carefully.", "To cut down forests.", "To make pollution."],
+              "answer": "1",
+              "explanation": "'Conserve' means to protect something and use it carefully so it is not wasted."
+            },
+            {
+              "topic": "Mixed conditional",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Choose the sentence with NO error.",
+              "options": ["If people will not stop polluting, the river will die.", "If people do not stop polluting, the river will die.", "If people do not stop polluting, the river dies.", "If people not stop polluting, the river will die."],
+              "answer": "1",
+              "explanation": "The if-clause uses the present simple ('do not stop'), and the result uses 'will' + base verb ('will die')."
+            }
+          ]
+        },
+        {
+          "title": "The Media",
+          "description": "Reading about newspapers, radio, and the internet, using reported speech, and writing about news.",
+          "lessons": [
+            {
+              "title": "Reporting What People Say: Reported Speech",
+              "summary": "Learn how to change direct speech into reported (indirect) speech, useful for writing news, summaries, and telling others what someone said.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "The **media** means the ways we share news and information with many people: **newspapers**, **radio**, **television**, and the **internet**. The media keeps people informed about events in Ethiopia and the world.\n\nWhen a journalist writes the news, they often report what people said. Instead of writing the exact words, they use **reported speech** (also called *indirect speech*). For example: *The minister said, \"I will build a school.\"* becomes *The minister said **that he would build a school**.* This lesson teaches you how to do this."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Tell the difference between **direct** and **reported** speech.\n- Change the **tense** correctly when reporting.\n- Change **pronouns** and **time words**.\n- Report statements and questions."
+                },
+                {
+                  "type": "theory",
+                  "title": "Reported Speech",
+                  "body": "**Direct speech** = the exact words a person says, inside quotation marks.\n- *She said, \"I am tired.\"*\n\n**Reported speech** = we tell what the person said, without quotation marks. We usually use **said** or **told**, and often **that**.\n- *She said **that** she **was** tired.*\n\n**1. The tense usually moves one step back into the past:**\n\n| Direct speech | Reported speech |\n|---------------|-----------------|\n| present simple (work) | past simple (worked) |\n| present continuous (am working) | past continuous (was working) |\n| past simple (worked) | past perfect (had worked) |\n| will | would |\n| can | could |\n\nExample: *\"I **work** here.\"* → *He said that he **worked** there.*\n\n**2. Pronouns change** to match the new speaker:\n- *\"**I** love **my** job,\"* she said → *She said that **she** loved **her** job.*\n\n**3. Time and place words change:**\n- *now* → *then*; *today* → *that day*; *tomorrow* → *the next day*; *here* → *there*; *this* → *that*.\n\n**4. Reporting questions:**\n- For *yes/no* questions, use **if** or **whether**: *\"Do you like it?\"* → *She asked **if** I liked it.*\n- For *wh-* questions, keep the question word but use normal word order (no *do/does/did*): *\"Where do you live?\"* → *He asked **where** I lived.*\n\nNote: We use **told** with a person (*She **told me** that...*) and **said** without a person (*She **said** that...*)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us change direct speech into reported speech, step by step.\n\n**Direct:** *The reporter said, \"The new road **is** open.\"*\n- Step 1: tense back: *is* → *was.*\n- **Reported:** *The reporter said that the new road **was** open.*\n\n**Direct (with 'will' and a pronoun):** *The minister said, \"**I will** open a hospital **tomorrow**.\"*\n- Step 1: *will* → *would.*\n- Step 2: pronoun *I* → *he.*\n- Step 3: time word *tomorrow* → *the next day.*\n- **Reported:** *The minister said that **he would** open a hospital **the next day**.*\n\n**Reporting a question:**\n- Direct: *The journalist asked, \"**Where do** you work?\"*\n- **Reported:** *The journalist asked **where I worked**.* (Keep 'where', drop 'do', change tense.)"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Forgetting to change the tense:** Incorrect: *She said that she **is** tired.* Correct: *She said that she **was** tired.*\n- **Keeping question word order in reported questions:** Incorrect: *He asked where **do I live**.* Correct: *He asked where **I lived**.*\n- **Using 'do/does/did' in reported questions:** Incorrect: *She asked if I **did like** it.* Correct: *She asked if I **liked** it.*\n- **Confusing 'say' and 'tell':** Incorrect: *She **said me** that...* Correct: *She **told me** that...* OR *She **said** that...*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- The main rule: **\"Step the tense one step back\"** (present → past, will → would, can → could).\n- **TELL needs a person** (tell **me**, tell **us**); **SAY** does not (say *that...*).\n- For reported questions, **straighten the word order** — make it like a normal sentence, and remove *do/does/did*.\n- Change the *speaker's view*: **I → he/she**, **now → then**, **today → that day**."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Change to reported speech.\n\n1. She said, \"I am busy.\" → She said that she ______ busy.\n2. He said, \"I will call you.\" → He said that he ______ call me.\n3. \"Do you read the news?\" she asked. → She asked ______ I read the news.\n4. \"I can swim,\" he said. → He said that he ______ swim.\n5. \"Where do you live?\" he asked. → He asked where I ______.\n\n**Answers:**\n1. was\n2. would\n3. if (or whether)\n4. could\n5. lived"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Direct speech** = exact words in quotation marks; **reported speech** = telling what was said, no quotation marks.\n- In reported speech, the **tense usually steps back** (present → past, will → would, can → could).\n- Change **pronouns** and **time words** to fit the new speaker.\n- Report **yes/no questions** with **if / whether**; report **wh- questions** by keeping the question word but using normal word order.\n- Use **told + person**, but **said** (without a person)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important media words.",
+                  "glossary": [
+                    { "term": "media", "definition": "The ways of sharing news with many people: TV, radio, newspapers, the internet." },
+                    { "term": "journalist", "definition": "A person who collects and writes news for the media." },
+                    { "term": "broadcast", "definition": "To send out a programme on radio or television." },
+                    { "term": "headline", "definition": "The title of a news story, printed in large letters." },
+                    { "term": "audience", "definition": "The people who watch, read, or listen to something." },
+                    { "term": "report", "definition": "A spoken or written account of news or information." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What happens to the tense in reported speech?", "back": "It usually steps one step back. Present → past, will → would, can → could." },
+                { "front": "Change to reported speech: She said, 'I am tired.'", "back": "She said that she was tired. ('am' becomes 'was', 'I' becomes 'she')." },
+                { "front": "How do we report a yes/no question?", "back": "Use 'if' or 'whether'. Example: 'Do you like it?' → She asked if I liked it." },
+                { "front": "What is the difference between 'say' and 'tell'?", "back": "'Tell' needs a person (told me); 'say' does not (said that...)." },
+                { "front": "What does 'journalist' mean?", "back": "A person who collects and writes news for the media." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Tense change",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Change to reported speech: She said, 'I am happy.'",
+              "options": ["She said that she is happy.", "She said that she was happy.", "She said that I am happy.", "She said that she be happy."],
+              "answer": "1",
+              "explanation": "In reported speech the tense steps back: 'am' becomes 'was', and 'I' becomes 'she'."
+            },
+            {
+              "topic": "Say vs tell",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": ["She said me that she was busy.", "She told me that she was busy.", "She told that she was busy.", "She said me she busy."],
+              "answer": "1",
+              "explanation": "'Tell' is used with a person: 'told me'. 'Say' is used without a person ('said that...')."
+            },
+            {
+              "topic": "Reported questions",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Report this question: 'Do you read the news?' she asked.",
+              "options": ["She asked do I read the news.", "She asked if I read the news.", "She asked if do I read the news.", "She asked if I do read the news."],
+              "answer": "1",
+              "explanation": "For yes/no questions we use 'if' and remove 'do', using normal word order: 'She asked if I read the news.'"
+            },
+            {
+              "topic": "Modal change",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Change to reported speech: He said, 'I will help you.'",
+              "options": ["He said that he will help me.", "He said that he would help me.", "He said that he would help you.", "He said that I would help you."],
+              "answer": "1",
+              "explanation": "'Will' becomes 'would', and the pronoun 'you' (the listener) becomes 'me' (the reporter)."
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What does 'broadcast' mean?",
+              "options": ["To print a newspaper.", "To send out a programme on radio or television.", "To write a news story.", "To read the news quietly."],
+              "answer": "1",
+              "explanation": "'Broadcast' means to send out a programme on radio or television."
+            },
+            {
+              "topic": "Wh- questions",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Report this question correctly: 'Where do you work?' he asked.",
+              "options": ["He asked where do I work.", "He asked where I worked.", "He asked where did I work.", "He asked where I work."],
+              "answer": "1",
+              "explanation": "Keep the question word 'where', remove 'do', use normal word order, and step the tense back: 'where I worked'."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

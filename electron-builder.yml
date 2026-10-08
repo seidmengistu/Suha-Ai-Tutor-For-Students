@@ -1,0 +1,66 @@
+appId: com.suhaseid.suha-ai-tutor
+productName: Suha AI Tutor
+copyright: Copyright © 2026 Suha Seid
+
+directories:
+  buildResources: build
+  output: release
+
+files:
+  - '!**/.vscode/*'
+  - '!src/*'
+  - '!electron.vite.config.{js,ts,mjs,cjs}'
+  - '!{.eslintrc.cjs,.prettierrc,.prettierignore,.npmrc}'
+  - '!{tsconfig.json,tsconfig.node.json,tsconfig.web.json}'
+  - '!{tailwind.config.js,postcss.config.js}'
+  - '!{README.md,docs/*}'
+
+# Bundled starter curriculum and seed data ship inside the installer.
+extraResources:
+  - from: resources/seed
+    to: seed
+    filter: ['**/*']
+  - from: books
+    to: books
+    filter: ['**/*']
+  - from: paper-exams
+    to: paper-exams
+    filter: ['**/*']
+
+asarUnpack:
+  - resources/**
+  - '**/*.node'
+
+# Platform icons (.ico / .icns) are auto-derived by electron-builder from
+# build/icon.png (1024x1024), generated via `node scripts/generate-icon.cjs`.
+win:
+  executableName: suha-ai-tutor
+  target:
+    - target: nsis
+      arch:
+        - x64
+
+nsis:
+  oneClick: false
+  perMachine: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: Suha AI Tutor
+  artifactName: ${productName}-Setup-${version}.${ext}
+  uninstallDisplayName: Suha AI Tutor
+
+mac:
+  category: public.app-category.education
+  target:
+    - target: dmg
+      arch:
+        - arm64
+        - x64
+
+linux:
+  category: Education
+  target:
+    - AppImage
+
+npmRebuild: true

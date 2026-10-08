@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Future with going to",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Hana has filled in the form and paid the fee for next year's course. Which sentence reports her decided plan?",
+          "options": ["She studies accounting next year.", "She is going to study accounting next year.", "She going to study accounting next year.", "She will studying accounting next year."],
+          "answer": "1",
+          "explanation": "A plan already decided before now uses 'be going to': 'She is going to study accounting.' The others drop 'am/is/are' or use the wrong form."
+        },
+        {
+          "topic": "Modals of obligation",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "There is a strict school rule. Which sentence shows obligation correctly?",
+          "options": ["Students musts wear the uniform.", "Students must to wear the uniform.", "Students must wear the uniform.", "Students must wearing the uniform."],
+          "answer": "2",
+          "explanation": "A modal verb never adds -s or 'to' and is followed by the base verb: 'Students must wear the uniform.'"
+        },
+        {
+          "topic": "Vocabulary: health",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What does 'hygiene' mean?",
+          "options": ["Keeping yourself and your surroundings clean to stay healthy", "A sign of an illness", "A medicine given by injection", "The food a person eats"],
+          "answer": "0",
+          "explanation": "Hygiene means keeping yourself and your surroundings clean in order to stay healthy."
+        },
+        {
+          "topic": "Past simple",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct past simple sentence about a finished event last week.",
+          "options": ["Last week our class had toured the museum.", "Last week our class tours the museum.", "Last week our class has toured the museum.", "Last week our class toured the museum."],
+          "answer": "3",
+          "explanation": "A single finished action at a known past time ('last week') takes the past simple: 'toured.'"
+        },
+        {
+          "topic": "Metaphors",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which sentence is a metaphor?",
+          "options": ["The library was as quiet as a tomb.", "The wind howled all night long.", "Knowledge is a lamp that guides our steps.", "The clever student answered quickly."],
+          "answer": "2",
+          "explanation": "A metaphor says one thing IS another without 'like' or 'as': 'Knowledge is a lamp.' The first is a simile and the second is personification."
+        },
+        {
+          "topic": "Present continuous for future",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The interview time is fixed on the calendar. Choose the most natural form: 'I ______ the manager at two o'clock tomorrow.'",
+          "options": ["meet", "will meet", "am meeting", "would meet"],
+          "answer": "2",
+          "explanation": "A fixed arrangement with a definite time uses the present continuous for the future: 'I am meeting the manager at two o'clock tomorrow.'"
+        },
+        {
+          "topic": "Modals of deduction",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Her bag is here but her coat and umbrella are gone. Choose the best deduction.",
+          "options": ["She can have gone outside.", "She must have gone outside.", "She must to have gone outside.", "She should went outside."],
+          "answer": "1",
+          "explanation": "When evidence makes us almost certain about the past, we use 'must have + past participle': 'She must have gone outside.'"
+        },
+        {
+          "topic": "Passive voice: past simple",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Rewrite in the passive: 'A local company built the bridge in 2021.'",
+          "options": ["The bridge built in 2021.", "The bridge is built in 2021.", "The bridge was build in 2021.", "The bridge was built in 2021."],
+          "answer": "3",
+          "explanation": "Past simple passive is 'was/were + past participle', and the past time stays past: 'The bridge was built in 2021.'"
+        },
+        {
+          "topic": "First conditional",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct first conditional: 'If the rains ______ early, the farmers ______ a good harvest.'",
+          "options": ["come / will get", "will come / get", "came / would get", "come / would get"],
+          "answer": "0",
+          "explanation": "The first conditional is 'If + present simple, ... will + base verb': 'If the rains come early, the farmers will get a good harvest.'"
+        },
+        {
+          "topic": "Reported statements",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Report this sentence: \"I am editing the article now,\" the journalist said.",
+          "options": ["The journalist said that she is editing the article now.", "The journalist said that she was editing the article then.", "The journalist said that I was editing the article then.", "The journalist said that she was editing the article now."],
+          "answer": "1",
+          "explanation": "After the past verb 'said', present continuous backshifts to past continuous and 'now' becomes 'then': 'she was editing the article then.'"
+        },
+        {
+          "topic": "Possession with whose",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'The author ______ novel won the prize spoke at our school.'",
+          "options": ["who", "which", "whose", "where"],
+          "answer": "2",
+          "explanation": "'Whose' shows possession (the novel belongs to the author): 'the author whose novel won the prize.'"
+        },
+        {
+          "topic": "Present perfect continuous",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete (focus on the ongoing activity): 'My sister ______ for a new job since March.'",
+          "options": ["searched", "is searching", "has searched", "has been searching"],
+          "answer": "3",
+          "explanation": "The focus is on a long, continuing activity with 'since', so we use the present perfect continuous: 'has been searching.'"
+        },
+        {
+          "topic": "Vocabulary: economy",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What does 'entrepreneur' mean?",
+          "options": ["A person who has lost their job", "The money a business receives", "A person who starts and runs their own business", "A worker in a large factory"],
+          "answer": "2",
+          "explanation": "An entrepreneur is a person who starts and runs their own business."
+        },
+        {
+          "topic": "Reading comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read: 'Despite arriving late and exhausted, the volunteers refused to rest until every tent had been put up for the displaced families.' What can we conclude about the volunteers?",
+          "options": ["They were highly committed to helping", "They went straight to sleep on arrival", "They put up only their own tents", "They arrived early and well rested"],
+          "answer": "0",
+          "explanation": "Refusing to rest until all the tents were up, despite being tired, shows they were highly committed."
+        },
+        {
+          "topic": "Word formation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct word to complete: 'The campaign aims to ______ young women to lead their communities.'",
+          "options": ["power", "powerful", "empower", "empowerment"],
+          "answer": "2",
+          "explanation": "The sentence needs a verb after 'to': 'empower' means to give someone power or confidence. 'Powerful' is an adjective and 'empowerment' is a noun."
+        },
+        {
+          "topic": "Vocabulary: history",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the word closest in meaning to 'ancient' in: 'Aksum is famous for its ancient obelisks.'",
+          "options": ["modern", "very old", "broken", "tall"],
+          "answer": "1",
+          "explanation": "'Ancient' means belonging to the very distant past, so 'very old' is closest in meaning."
+        },
+        {
+          "topic": "Future perfect",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence about an action completed before a future point.",
+          "options": ["By next June, she will graduate from university.", "By next June, she will have graduated from university.", "By next June, she has graduated from university.", "By next June, she will graduating from university."],
+          "answer": "1",
+          "explanation": "An action that will be finished before a future point uses the future perfect: 'will have + past participle' — 'will have graduated.'"
+        },
+        {
+          "topic": "Passive voice: present perfect",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Rewrite in the passive: 'Researchers have developed a cheaper vaccine.'",
+          "options": ["A cheaper vaccine has developed.", "A cheaper vaccine have been developed.", "A cheaper vaccine is been developed.", "A cheaper vaccine has been developed."],
+          "answer": "3",
+          "explanation": "Present perfect passive is 'has/have been + past participle'. With singular 'a cheaper vaccine' we use 'has been developed.'"
+        },
+        {
+          "topic": "Third conditional",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct third conditional (an unreal situation in the past).",
+          "options": ["If they had warned us, we would have left earlier.", "If they warned us, we would have left earlier.", "If they had warned us, we would left earlier.", "If they would have warned us, we would have left earlier."],
+          "answer": "0",
+          "explanation": "The third conditional is 'If + past perfect, ... would have + past participle'. We never use 'would have' in the if-clause."
+        },
+        {
+          "topic": "Reported questions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Report this question: \"Why did you delete the recording?\" the editor asked him.",
+          "options": ["The editor asked him why did he delete the recording.", "The editor asked him why he has deleted the recording.", "The editor asked him why he had deleted the recording.", "The editor asked him why he deleted the recording?"],
+          "answer": "2",
+          "explanation": "A reported wh-question uses normal word order, backshift (past simple 'did delete' to past perfect 'had deleted'), and no question mark."
+        },
+        {
+          "topic": "Defining vs non-defining clauses",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which sentence correctly uses a defining relative clause (no commas, essential information)?",
+          "options": ["The students, who finished early, may leave.", "The students who finished early may leave.", "The students which finished early may leave.", "The students who finished early, may leave."],
+          "answer": "1",
+          "explanation": "A defining clause gives essential information and takes no commas, and we use 'who' for people: 'The students who finished early may leave.'"
+        },
+        {
+          "topic": "Past perfect continuous",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence describing a long action that had been happening before another past event.",
+          "options": ["They had been digging for water for hours before they finally found a spring.", "They had dug for water for hours before they finally found a spring.", "They have been digging for water for hours before they finally found a spring.", "They were digging for water for hours before they had finally found a spring."],
+          "answer": "0",
+          "explanation": "A continuous activity over time leading up to a later past event uses the past perfect continuous: 'had been digging ... before they found.'"
+        },
+        {
+          "topic": "Gerund and infinitive",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["She enjoys to write short stories in the evening.", "She enjoys writing short stories in the evening.", "She enjoys write short stories in the evening.", "She enjoy writing short stories in the evening."],
+          "answer": "1",
+          "explanation": "The verb 'enjoy' is followed by the gerund (-ing form), not the infinitive: 'She enjoys writing short stories.'"
+        },
+        {
+          "topic": "Figurative language",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Identify the device: 'I have told you a thousand times to lock the gate.'",
+          "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+          "answer": "3",
+          "explanation": "'A thousand times' is a deliberate exaggeration for effect, which is hyperbole."
+        },
+        {
+          "topic": "Phrasal verbs",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the phrasal verb that best completes: 'The interview was cancelled, so we had to ______ our meeting until Friday.'",
+          "options": ["put off", "put on", "put up", "put away"],
+          "answer": "0",
+          "explanation": "'Put off' means to postpone or delay. The other phrasal verbs have unrelated meanings (wear, tolerate/raise, store)."
+        },
+        {
+          "topic": "Question tags",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete with the correct question tag: 'Your brother hasn't paid the rent yet, ______?'",
+          "options": ["hasn't he", "has he", "didn't he", "is he"],
+          "answer": "1",
+          "explanation": "A negative statement takes a positive tag, and we repeat the auxiliary 'has': 'hasn't paid ... has he?'"
+        },
+        {
+          "topic": "Comparatives",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["This year's harvest is more better than last year's.", "This year's harvest is gooder than last year's.", "This year's harvest is better than last year's.", "This year's harvest is more good than last year's."],
+          "answer": "2",
+          "explanation": "'Better' is the comparative of 'good'. We never add 'more' to an already comparative form, and 'gooder/more good' are not correct."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the word closest in meaning to 'scarce' in: 'Clean water is becoming scarce in the region.'",
+          "options": ["plentiful", "rare", "cheap", "clean"],
+          "answer": "1",
+          "explanation": "'Scarce' means in short supply or hard to find, so 'rare' is closest. 'Plentiful' is the opposite."
+        },
+        {
+          "topic": "Articles",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence with correct use of articles.",
+          "options": ["She wants to become an university lecturer in the future.", "She wants to become a university lecturer in future.", "She wants to become the university lecturer in a future.", "She wants to become a university lecturer in the future."],
+          "answer": "3",
+          "explanation": "'University' begins with a /j/ sound, so it takes 'a', not 'an', and the fixed phrase is 'in the future.'"
+        },
+        {
+          "topic": "Future continuous",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence describing an action in progress at a specific future time.",
+          "options": ["This time tomorrow, I will sit the entrance exam.", "This time tomorrow, I will be sitting the entrance exam.", "This time tomorrow, I am sitting the entrance exam already.", "This time tomorrow, I will have sat the entrance exam."],
+          "answer": "1",
+          "explanation": "An action that will be in progress at a precise future moment uses the future continuous: 'will be + verb-ing' — 'will be sitting.'"
+        },
+        {
+          "topic": "Mixed conditionals",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct mixed conditional.",
+          "options": ["If she had studied medicine, she would be a doctor now.", "If she studied medicine, she would have been a doctor now.", "If she had studied medicine, she would been a doctor now.", "If she has studied medicine, she would be a doctor now."],
+          "answer": "0",
+          "explanation": "A past condition ('had studied') with a present result ('would be ... now') is a mixed conditional, correctly formed in the first option."
+        },
+        {
+          "topic": "Reported speech: requests",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Report the request: \"Could you send me the figures by noon?\" the director asked the clerk.",
+          "options": ["The director asked the clerk send the figures by noon.", "The director asked the clerk to send the figures by noon.", "The director asked the clerk could you send the figures by noon.", "The director asked the clerk for sending the figures by noon."],
+          "answer": "1",
+          "explanation": "A polite request is reported with 'asked + someone + to + base verb': 'asked the clerk to send the figures.'"
+        },
+        {
+          "topic": "Linking words",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the connector that best completes the contrast: 'Solar panels are expensive to install; ______, they save money over time.'",
+          "options": ["therefore", "moreover", "nonetheless", "because"],
+          "answer": "2",
+          "explanation": "The second clause contrasts with the first (expensive, yet saving), so a contrast connector fits: 'nonetheless.' The others signal result, addition, or reason."
+        },
+        {
+          "topic": "Parallel structure",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence with correct parallel structure.",
+          "options": ["The course teaches reading, writing, and to speak clearly.", "The course teaches reading, to write, and speaking clearly.", "The course teaches to read, writing, and speaking clearly.", "The course teaches reading, writing, and speaking clearly."],
+          "answer": "3",
+          "explanation": "Items in a list should share the same grammatical form. Three gerunds — 'reading, writing, and speaking' — keep the structure parallel."
+        },
+        {
+          "topic": "Subject-verb agreement",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": ["Neither the manager nor the workers wants to change the plan.", "Neither the manager nor the workers want to change the plan.", "Neither the manager nor the workers wanting to change the plan.", "Neither the manager nor the workers is wanting to change the plan."],
+          "answer": "1",
+          "explanation": "With 'neither ... nor', the verb agrees with the nearer subject. 'Workers' is plural, so the verb is 'want.'"
+        },
+        {
+          "topic": "Punctuation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the correctly punctuated sentence.",
+          "options": ["However hard the team worked the deadline was missed.", "However, hard the team worked, the deadline was missed.", "However hard the team worked, the deadline was missed.", "However hard the team worked the deadline, was missed."],
+          "answer": "2",
+          "explanation": "Here 'however' means 'no matter how' and is not followed by a comma; the comma belongs after the introductory clause: 'However hard the team worked, the deadline was missed.'"
+        }
+      ]
+    }
+  ]
+}

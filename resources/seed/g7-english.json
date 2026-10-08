@@ -1,0 +1,812 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 7,
+      "subjectKey": "english",
+      "chapters": [
+        {
+          "title": "Living in a Rural Area",
+          "description": "Talk about rural and city life and learn the simple present tense.",
+          "lessons": [
+            {
+              "title": "Rural Life and the Simple Present Tense",
+              "summary": "Learn words for describing village and city life, and use the simple present tense to talk about daily habits, general truths, and timetables.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Many Ethiopians live in **rural areas** (the countryside, like villages near Ambo or Assosa), while others live in **urban areas** (big cities like Addis Ababa).\n\nIn this unit you will talk about daily life in the village and the city. To do this, you need the **simple present tense** — the tense we use most often to describe what people *usually* do every day."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use **vocabulary** to describe rural and urban life.\n- Form the **simple present tense** correctly (add **-s** for he/she/it).\n- Use the simple present for **habits**, **general truths**, and **timetables**.\n- Avoid the most common mistakes ESL learners make with this tense."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Simple Present Tense",
+                  "body": "We use the **simple present tense** for actions that happen regularly or that are always true.\n\n**Rule 1 — The base verb:** For *I, you, we, they*, use the plain verb.\n- I **drink** tea every morning.\n- They **live** in a village.\n\n**Rule 2 — Add -s/-es for he, she, it:** This is the most important rule!\n- Tolosa **goes** to school five days a week.\n- Aster **prepares** breakfast.\n- He **watches** films. (verbs ending in -ch, -sh, -s, -x, -o add **-es**)\n\n**Rule 3 — Negatives and questions** use **do/does**:\n- I **do not (don't) like** noise.\n- She **does not (doesn't) like** the city.\n- **Do** you exercise? / **Does** he work here?\n\nNote: after *does* / *doesn't*, the main verb has **no -s** (Does she **go**? — not *goes*)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read about Ato Gebeyehu's family and notice the **-s** endings:\n\n*\"Aster **gets** up early. She **prepares** breakfast and **gets** the children ready for school. Belete **milks** the cows and **feeds** the cattle. In the evening, the family **dines** together.\"*\n\nNow compare singular and plural:\n- Belete **milks** the cows. (he → verb + s)\n- Adanech and Alemitu **fetch** water. (they → base verb, no s)\n\n**Timetable use:** *The train **leaves** at seven o'clock.* *The restaurant **opens** at 7:30 tonight.* We use simple present for fixed schedules, even though they are in the future."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Forgetting -s:** ❌ *He go to school.* ✅ *He **goes** to school.*\n- **Adding -s after does:** ❌ *Does she likes it?* ✅ *Does she **like** it?*\n- **Double negative:** ❌ *She doesn't likes nothing.* ✅ *She **doesn't like** anything.*\n- **Using -s with I/you/we/they:** ❌ *They lives here.* ✅ *They **live** here.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tip",
+                  "body": "Remember **\"HE, SHE, IT — add an S!\"** Say it like a small song. If the subject is one person or thing (he, she, it, Aster, the dog), the verb almost always ends in **-s**."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Write the correct form of the verb.\n\n1. My mother (cook) ______ injera every day.\n2. We (live) ______ in Addis Ababa.\n3. (Do/Does) ______ Tolosa play football?\n4. The bus (leave) ______ at 6 a.m.\n5. He (not / like) ______ the noisy city.\n\n**Answers:** 1. cooks  2. live  3. Does  4. leaves  5. does not like (doesn't like)"
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Words from the reading passage about rural and urban life.",
+                  "glossary": [
+                    { "term": "rural area", "definition": "the countryside; areas with villages and farms, not cities." },
+                    { "term": "urban area", "definition": "a city or town with many people, buildings, and traffic." },
+                    { "term": "pollution", "definition": "dirty air, water, or land caused by smoke, gases, or waste." },
+                    { "term": "congested", "definition": "very crowded and full of people or traffic." },
+                    { "term": "convenient", "definition": "easy to use or do; saving you trouble or time." },
+                    { "term": "emit", "definition": "to send out gas, smoke, or sound." }
+                  ]
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **simple present** describes habits, general truths, and timetables.\n- Add **-s/-es** to the verb for **he, she, it**.\n- Use **do/does** for negatives and questions; the main verb stays in its **base form**.\n- **Rural** = countryside (fresh air, quiet); **urban** = city (more services, more pollution)."
+                }
+              ],
+              "flashcards": [
+                { "front": "When do we add -s to the verb?", "back": "With he, she, it (one person or thing): She goes, He works." },
+                { "front": "Make negative: 'She likes tea.'", "back": "She does not (doesn't) like tea." },
+                { "front": "What tense for timetables? 'The train ___ at 7.'", "back": "Simple present: The train leaves at 7." },
+                { "front": "rural area", "back": "the countryside (villages and farms)" },
+                { "front": "congested", "back": "very crowded / overcrowded" }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Simple present (-s ending)", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["She go to school every day.", "She goes to school every day.", "She going to school every day.", "She gone to school every day."], "answer": "1", "explanation": "With 'she' (he/she/it), we add -s to the verb: She goes." },
+            { "topic": "Simple present negatives", "difficulty": "beginner", "type": "mcq", "prompt": "Complete: He ______ like the noisy city.", "options": ["don't", "doesn't", "isn't", "not"], "answer": "1", "explanation": "For he/she/it we use 'doesn't' (does not) to make a negative." },
+            { "topic": "Questions with do/does", "difficulty": "medium", "type": "mcq", "prompt": "Choose the correct question.", "options": ["Does she likes films?", "Do she like films?", "Does she like films?", "Does she liking films?"], "answer": "2", "explanation": "After 'does', the main verb has no -s: Does she like films?" },
+            { "topic": "Vocabulary", "difficulty": "medium", "type": "mcq", "prompt": "The word 'congested' means ______.", "options": ["very quiet", "very crowded", "very clean", "very far"], "answer": "1", "explanation": "Congested means overcrowded, full of people or traffic." },
+            { "topic": "Reading comprehension", "difficulty": "difficult", "type": "mcq", "prompt": "According to the unit, one advantage of city life is that ______.", "options": ["the air is always fresh", "there is access to medical care and services", "there is no traffic", "the food is always natural"], "answer": "1", "explanation": "The passage says cities have complete facilities such as transport, education, and health care." },
+            { "topic": "Simple present uses", "difficulty": "exam", "type": "mcq", "prompt": "Which sentence uses the simple present for a TIMETABLE?", "options": ["I drink tea every morning.", "Man is mortal.", "The plane arrives in five minutes.", "Birds fly in the sky."], "answer": "2", "explanation": "Timetables and fixed schedules use the simple present: The plane arrives in five minutes." }
+          ]
+        },
+        {
+          "title": "History of the Calendar",
+          "description": "Learn about calendars and use the simple past tense to talk about the past.",
+          "lessons": [
+            {
+              "title": "Calendars and the Simple Past Tense",
+              "summary": "Explore the history of the Ethiopian and Gregorian calendars and learn to form the simple past tense for finished actions.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "A **calendar** helps us count days, months, and years. The **Ethiopian calendar** has 13 months — twelve months of 30 days and one short month called *Pagume*. The **Gregorian calendar**, used in most of the world, has 12 months.\n\nTo talk about history — things that **happened before** — we use the **simple past tense**."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Talk about calendars and how people **counted** time.\n- Form **regular** past verbs (add **-ed**) and learn **irregular** verbs.\n- Make **negatives** and **questions** in the past with **did/didn't**.\n- Use the **colon** correctly."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Simple Past Tense",
+                  "body": "We use the **simple past** for actions that started and finished in the past.\n\n**Regular verbs:** add **-ed**.\n- walk → **walked**, modify → **modified**, adopt → **adopted**.\n\n**Spelling notes:**\n- verb ending in **-e**: just add **-d** (live → lived).\n- consonant + **-y**: change y to i, add -ed (study → studied).\n- short verb ending in vowel + consonant: double the consonant (stop → stopped).\n\n**Irregular verbs** do not follow the rule — you must learn them:\n- go → **went**, is/am → **was**, are → **were**, have → **had**, make → **made**, name → **named** (regular).\n\n**Negatives and questions** use **did**, and the main verb goes back to its **base form**:\n- I **did not (didn't) go**.\n- **Did** you **see** the calendar?"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read this short history and notice the past verbs:\n\n*\"The Ethiopian calendar **got** its origin from the ancient Egyptians. Later, people **modified** it for the Coptic Christians. The Gregorian calendar **was** named after Pope Gregory XIII, who **changed** the older Julian calendar.\"*\n\n- **got** = irregular past of *get*\n- **modified** = regular (y → i + ed)\n- **was** = past of *is*\n- **changed** = regular (-d)\n\n**Colon example:** *The Ethiopian calendar has thirteen months: twelve long months and one short month.* The colon (**:**) introduces a list or explanation."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Adding -ed to irregular verbs:** ❌ *He goed home.* ✅ *He **went** home.*\n- **Keeping past tense after 'did':** ❌ *Did you went?* ✅ *Did you **go**?*\n- **was/were confusion:** ❌ *They was happy.* ✅ *They **were** happy.* (I/he/she/it = was; you/we/they = were)\n- **Forgetting spelling change:** ❌ *He studyed.* ✅ *He **studied**.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tip",
+                  "body": "After **DID**, the verb goes back to the **DICTIONARY (base) form** — \"DID + base.\" The word *did* already shows the past, so the main verb does not need to."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Put the verb into the simple past.\n\n1. Yesterday I (visit) ______ my grandmother.\n2. The Egyptians (modify) ______ their calendar.\n3. We (go) ______ to the market.\n4. (Do) ______ you see the new calendar?\n5. She (not / be) ______ at home.\n\n**Answers:** 1. visited  2. modified  3. went  4. Did  5. was not (wasn't)"
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Useful words about calendars and time.",
+                  "glossary": [
+                    { "term": "calendar", "definition": "a system that shows the days, weeks, and months of a year." },
+                    { "term": "origin", "definition": "the place or point where something begins or comes from." },
+                    { "term": "modify", "definition": "to change something a little to make it better or fit a need." },
+                    { "term": "adopt", "definition": "to start to use or accept something officially." },
+                    { "term": "leap year", "definition": "a year with one extra day (or, in Ethiopia, an extra day in Pagume)." }
+                  ]
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **simple past** describes finished actions in the past.\n- **Regular** verbs add **-ed**; **irregular** verbs (go→went, is→was) must be learned.\n- Use **did/didn't** + **base verb** for questions and negatives.\n- A **colon (:)** introduces a list or an explanation.\n- The **Ethiopian calendar** has 13 months."
+                }
+              ],
+              "flashcards": [
+                { "front": "Past tense of 'go'", "back": "went (irregular)" },
+                { "front": "Past tense of 'study'", "back": "studied (y changes to i + ed)" },
+                { "front": "Make a question: 'You saw it.'", "back": "Did you see it? (did + base verb)" },
+                { "front": "was or were? 'They ___ happy.'", "back": "were (you/we/they = were)" },
+                { "front": "What does a colon (:) do?", "back": "It introduces a list or an explanation." }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Regular past verbs", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct past tense: 'Yesterday she ______ to school.'", "options": ["walk", "walks", "walked", "walking"], "answer": "2", "explanation": "Regular verbs add -ed: walked." },
+            { "topic": "Irregular past verbs", "difficulty": "beginner", "type": "mcq", "prompt": "What is the past tense of 'go'?", "options": ["goed", "gone", "went", "going"], "answer": "2", "explanation": "'Go' is irregular: go → went." },
+            { "topic": "Past questions with did", "difficulty": "medium", "type": "mcq", "prompt": "Choose the correct question.", "options": ["Did you went home?", "Did you go home?", "Did you going home?", "Do you went home?"], "answer": "1", "explanation": "After 'did', the verb returns to its base form: Did you go home?" },
+            { "topic": "was/were", "difficulty": "medium", "type": "mcq", "prompt": "Complete: 'The students ______ in class.'", "options": ["was", "were", "is", "be"], "answer": "1", "explanation": "Plural subjects (students = they) use 'were'." },
+            { "topic": "Calendar comprehension", "difficulty": "difficult", "type": "mcq", "prompt": "How many months does the Ethiopian calendar have?", "options": ["10", "11", "12", "13"], "answer": "3", "explanation": "The Ethiopian calendar has 13 months: twelve of 30 days and one short month (Pagume)." },
+            { "topic": "Punctuation: colon", "difficulty": "exam", "type": "mcq", "prompt": "Which sentence uses the colon correctly?", "options": ["I bought: apples and bananas.", "I bought three fruits: apples, bananas, and oranges.", "I: bought three fruits.", "I bought three: fruits."], "answer": "1", "explanation": "A colon introduces a list after a complete idea: 'I bought three fruits: ...'." }
+          ]
+        },
+        {
+          "title": "Road Safety",
+          "description": "Stay safe on the road and learn modal verbs and giving advice.",
+          "lessons": [
+            {
+              "title": "Road Safety and Modal Verbs",
+              "summary": "Learn road-safety vocabulary and use modal verbs (must, should, have to, can) to give rules and advice.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Every day, students cross busy roads on the way to school. **Road safety** means knowing the rules that keep us safe: looking both ways, using the **zebra crossing**, and obeying **traffic lights**.\n\nTo talk about rules and advice, we use special helping verbs called **modal verbs**: *must, should, have to, can*."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use **road-safety vocabulary** correctly.\n- Use **modal verbs** to express **rules** (must), **advice** (should), and **ability** (can).\n- Give safety advice in clear, correct sentences."
+                },
+                {
+                  "type": "theory",
+                  "title": "Modal Verbs for Rules and Advice",
+                  "body": "**Modal verbs** are helping verbs that come **before** the main verb. The main verb stays in its **base form** (no -s, no -ed).\n\n- **must** = a strong rule or obligation. *You **must stop** at a red light.*\n- **must not (mustn't)** = it is forbidden. *You **must not cross** when the light is red.*\n- **should** = advice (a good idea). *You **should look** both ways.*\n- **shouldn't** = advice not to do something. *You **shouldn't run** across the road.*\n- **have to / has to** = a rule (like must). *Drivers **have to wear** seat belts.*\n- **can / can't** = ability or permission. *Pedestrians **can cross** at the zebra crossing.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Here are safety rules written with modals:\n\n*\"When you walk to school in Addis Ababa, you **must** use the footpath. You **should** look left and right before crossing. You **must not** play on the road. Drivers **have to** slow down near schools. You **can** cross safely at the zebra crossing.\"*\n\nNotice every modal is followed by a **base verb**: must **use**, should **look**, have to **slow**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Adding 'to' after must/should/can:** ❌ *You must to stop.* ✅ *You **must stop**.* (but: *have **to** stop* is correct)\n- **Adding -s to the main verb:** ❌ *He should looks.* ✅ *He **should look**.*\n- **Adding -s to the modal:** ❌ *She musts go.* ✅ *She **must** go.* (modals never change)\n- **Using 'don't must':** ❌ *You don't must run.* ✅ *You **must not** run.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tip",
+                  "body": "Think: **MODAL + BARE VERB.** Modals are like a strict teacher — they never change shape and the verb after them stays plain. Only *have to* uses the word *to*."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose the best modal.\n\n1. You ______ stop at a red light. (rule) ______\n2. You ______ look both ways before crossing. (advice) ______\n3. You ______ play football on the road. (forbidden) ______\n4. Drivers ______ wear seat belts. (rule) ______\n5. Pedestrians ______ cross at the zebra crossing. (ability/permission) ______\n\n**Answers:** 1. must  2. should  3. must not (mustn't)  4. have to / must  5. can"
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Important road-safety words.",
+                  "glossary": [
+                    { "term": "pedestrian", "definition": "a person who is walking, especially on a road or street." },
+                    { "term": "zebra crossing", "definition": "black-and-white stripes on a road where people can cross safely." },
+                    { "term": "traffic light", "definition": "lights (red, yellow, green) that control cars and people." },
+                    { "term": "footpath", "definition": "a path beside a road for people to walk on; a pavement." },
+                    { "term": "accident", "definition": "a sudden bad event, such as a car crash, that is not planned." }
+                  ]
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Modal verbs** (must, should, have to, can) come before a **base verb**.\n- **must / have to** = strong rule; **must not** = forbidden.\n- **should / shouldn't** = advice.\n- **can / can't** = ability or permission.\n- Stay safe: use the **zebra crossing**, watch the **traffic lights**, and walk on the **footpath**."
+                }
+              ],
+              "flashcards": [
+                { "front": "Which modal gives ADVICE?", "back": "should (You should look both ways.)" },
+                { "front": "Which modal means a strong rule?", "back": "must / have to (You must stop.)" },
+                { "front": "Correct the error: 'You must to stop.'", "back": "You must stop. (no 'to' after must)" },
+                { "front": "zebra crossing", "back": "striped place on a road where people cross safely" },
+                { "front": "pedestrian", "back": "a person who is walking" }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Modal of advice", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the best advice: 'You ______ look both ways before crossing.'", "options": ["should", "must not", "can't", "don't"], "answer": "0", "explanation": "'Should' is used to give advice (a good idea)." },
+            { "topic": "Modal form", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["You must to stop.", "You must stops.", "You must stop.", "You musts stop."], "answer": "2", "explanation": "After a modal, use the base verb with no 'to': must stop." },
+            { "topic": "Prohibition", "difficulty": "medium", "type": "mcq", "prompt": "Which sentence means something is forbidden?", "options": ["You can cross here.", "You should cross here.", "You must not cross here.", "You may cross here."], "answer": "2", "explanation": "'Must not' (mustn't) means it is not allowed / forbidden." },
+            { "topic": "Vocabulary", "difficulty": "medium", "type": "mcq", "prompt": "A 'pedestrian' is a person who is ______.", "options": ["driving a car", "walking", "riding a bus", "selling on the road"], "answer": "1", "explanation": "A pedestrian is a person who is walking." },
+            { "topic": "Modal of obligation", "difficulty": "difficult", "type": "mcq", "prompt": "Complete: 'Drivers ______ wear seat belts. It is the law.'", "options": ["should", "have to", "can", "might"], "answer": "1", "explanation": "'Have to' shows a rule or law (like 'must')." },
+            { "topic": "Modal verbs", "difficulty": "exam", "type": "mcq", "prompt": "Which sentence is grammatically correct?", "options": ["She musts cross carefully.", "She should crosses carefully.", "She must crossing carefully.", "She must cross carefully."], "answer": "3", "explanation": "Modals never take -s and are followed by the base verb: She must cross." }
+          ]
+        },
+        {
+          "title": "Endemic Animals in Ethiopia",
+          "description": "Learn about Ethiopia's unique animals and use comparative and superlative adjectives.",
+          "lessons": [
+            {
+              "title": "Endemic Animals and Comparing Things",
+              "summary": "Discover Ethiopia's endemic animals and learn comparative and superlative adjectives to compare them.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Ethiopia is home to special **endemic animals** — animals found *only* in Ethiopia and nowhere else in the world. Examples are the **Walia ibex**, the **Gelada baboon**, the **Ethiopian wolf**, and the **Mountain nyala**.\n\nTo describe and compare these animals, we use **comparative** and **superlative adjectives**."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use vocabulary about **animals** and **wildlife**.\n- Form **comparative** adjectives (to compare **two** things).\n- Form **superlative** adjectives (to compare **three or more** things).\n- Use *than* and *the* correctly."
+                },
+                {
+                  "type": "theory",
+                  "title": "Comparative and Superlative Adjectives",
+                  "body": "We compare things using **comparatives** and **superlatives**.\n\n**Short adjectives (1 syllable): add -er / -est**\n- fast → **faster** → the **fastest**\n- tall → **taller** → the **tallest**\n\n**Adjectives ending in -y: change y to i**\n- heavy → **heavier** → the **heaviest**\n\n**Long adjectives (2+ syllables): use more / most**\n- beautiful → **more beautiful** → the **most beautiful**\n- dangerous → **more dangerous** → the **most dangerous**\n\n**Irregular:** good → **better** → the **best**; bad → **worse** → the **worst**.\n\n**Use 'than' with comparatives:** *The wolf is **faster than** the baboon.*\n**Use 'the' with superlatives:** *The Walia ibex is **the rarest** animal.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Compare some Ethiopian animals:\n\n- The **Gelada baboon** is **bigger than** the Ethiopian wolf. (compare two)\n- The **Ethiopian wolf** is **rarer than** the Mountain nyala. (compare two)\n- The **Walia ibex** is one of **the rarest** animals in the world. (compare many)\n- The Gelada is **more social than** most monkeys. (long adjective → *more*)\n\nNotice: short word → *bigger*; long word → *more social*; with the top one → *the rarest*."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Using 'more' AND '-er' together:** ❌ *more faster* ✅ *faster*\n- **Forgetting 'than':** ❌ *The wolf is faster the fox.* ✅ *The wolf is faster **than** the fox.*\n- **Forgetting 'the' with superlatives:** ❌ *It is rarest animal.* ✅ *It is **the** rarest animal.*\n- **Wrong form of irregulars:** ❌ *gooder, more good* ✅ *better*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tip",
+                  "body": "**Short word, short ending (-er/-est). Long word, extra word (more/most).** Count the syllables: one syllable → add -er/-est; two or more → use more/most."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Write the comparative or superlative.\n\n1. The cheetah is (fast) ______ than the lion.\n2. The Walia ibex is one of (rare) ______ animals in Ethiopia.\n3. This lake is (beautiful) ______ than that one.\n4. Mount Ras Dashen is the (high) ______ mountain in Ethiopia.\n5. Today the weather is (good) ______ than yesterday.\n\n**Answers:** 1. faster  2. the rarest  3. more beautiful  4. highest  5. better"
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Words about animals and wildlife.",
+                  "glossary": [
+                    { "term": "endemic", "definition": "found naturally in only one place and nowhere else in the world." },
+                    { "term": "species", "definition": "a group of animals or plants that are similar and can have young together." },
+                    { "term": "habitat", "definition": "the natural home where an animal or plant lives." },
+                    { "term": "endangered", "definition": "at risk of dying out completely (very few are left)." },
+                    { "term": "wildlife", "definition": "animals and plants that live in nature, not kept by people." }
+                  ]
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Comparatives** compare **two** things; **superlatives** compare **three or more**.\n- Short adjectives: **-er / -est**. Long adjectives: **more / most**.\n- Use **than** with comparatives and **the** with superlatives.\n- **Endemic** animals like the **Walia ibex** live only in Ethiopia."
+                }
+              ],
+              "flashcards": [
+                { "front": "Comparative and superlative of 'big'", "back": "bigger / the biggest" },
+                { "front": "Comparative of 'beautiful'", "back": "more beautiful (long word → 'more')" },
+                { "front": "What word follows a comparative?", "back": "than (faster than)" },
+                { "front": "endemic", "back": "found only in one place in the world" },
+                { "front": "habitat", "back": "the natural home where an animal lives" }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Comparative form", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["The cheetah is more fast than the lion.", "The cheetah is faster than the lion.", "The cheetah is fastest than the lion.", "The cheetah is fast than the lion."], "answer": "1", "explanation": "Short adjective: fast → faster, used with 'than'." },
+            { "topic": "Superlative form", "difficulty": "beginner", "type": "mcq", "prompt": "Complete: 'It is ______ animal in Ethiopia.'", "options": ["rare", "rarer", "the rarest", "more rare"], "answer": "2", "explanation": "Superlatives use 'the' + adjective + -est: the rarest." },
+            { "topic": "Long adjectives", "difficulty": "medium", "type": "mcq", "prompt": "What is the comparative of 'dangerous'?", "options": ["dangerouser", "more dangerous", "most dangerous", "danger"], "answer": "1", "explanation": "Long adjectives use 'more': more dangerous." },
+            { "topic": "Vocabulary", "difficulty": "medium", "type": "mcq", "prompt": "An 'endemic' animal is one that ______.", "options": ["is very large", "lives in zoos", "is found only in one place in the world", "is dangerous"], "answer": "2", "explanation": "Endemic means found naturally in only one place." },
+            { "topic": "Irregular adjectives", "difficulty": "difficult", "type": "mcq", "prompt": "Complete: 'Today is ______ than yesterday.'", "options": ["gooder", "more good", "better", "best"], "answer": "2", "explanation": "'Good' is irregular: good → better → best." },
+            { "topic": "Comparatives and superlatives", "difficulty": "exam", "type": "mcq", "prompt": "Which sentence is correct?", "options": ["The Walia ibex is more rarer than the nyala.", "The Walia ibex is the most rare animal.", "The Walia ibex is rarer than the nyala.", "The Walia ibex is rarest than the nyala."], "answer": "2", "explanation": "Never use 'more' with '-er'. Use 'rarer than' for comparing two." }
+          ]
+        },
+        {
+          "title": "Diary",
+          "description": "Learn to write a personal diary using the past tense and time expressions.",
+          "lessons": [
+            {
+              "title": "Writing a Diary and Using Time Expressions",
+              "summary": "Learn how to write a personal diary entry, using the past tense and time expressions to describe your day.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "A **diary** (also called a *journal*) is a private book where you write about your day — what you did, saw, and felt. Writing a diary helps you practise English every day.\n\nWe write a diary mostly in the **past tense**, and we use **time expressions** like *yesterday, in the morning, after that* to put events in order."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Understand the **format** of a diary entry (date, greeting, events, feelings).\n- Use the **past tense** to describe your day.\n- Use **time expressions** and **sequence words** to order events.\n- Express your **feelings** with simple adjectives."
+                },
+                {
+                  "type": "theory",
+                  "title": "How to Write a Diary",
+                  "body": "A diary entry usually has:\n\n1. **The date** at the top (e.g. *Monday, 27 June 2026*).\n2. A greeting like *Dear Diary,*.\n3. The **events** of the day, in order, in the **past tense**.\n4. Your **feelings** about the day.\n\n**Time and sequence words** keep your writing clear:\n- *In the morning, in the afternoon, in the evening*\n- *First, then, after that, next, finally*\n- *Yesterday, today, last night*\n\n**Feelings adjectives:** *happy, excited, tired, sad, proud, worried.*\n\nBecause a diary describes things that already happened, most verbs are in the **simple past**: *I **woke** up, I **went**, I **felt**.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Here is a model diary entry:\n\n*Monday, 27 June 2026*\n\n*Dear Diary,*\n\n*Today **was** a busy day. **In the morning**, I **woke** up early and **helped** my mother fetch water. **Then** I **went** to school and **learned** about endemic animals. **After that**, I **played** football with Dawit. **In the evening**, I **felt** tired but **happy**. **Finally**, I **did** my homework and **went** to bed.*\n\nNotice the **past verbs** (was, woke, helped, went) and the **sequence words** (in the morning, then, after that, finally)."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Mixing tenses:** ❌ *Yesterday I go to school.* ✅ *Yesterday I **went** to school.*\n- **No capital letter for the date/days:** ❌ *monday, june* ✅ *Monday, June*\n- **Forgetting sequence words**, so events feel jumbled. Use *first, then, finally*.\n- **Writing 'Dear diary' without a comma:** ✅ *Dear Diary,*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tip",
+                  "body": "Remember the **3 D's of a diary: Date, Dear Diary, Day events.** And keep every verb in the **past** — a diary is written *after* the day is over."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "1. Put these into the past: I (wake) ______ up, I (eat) ______ breakfast, I (go) ______ to school.\n2. Add a sequence word: \"______ I brushed my teeth. ______ I had breakfast.\"\n3. Write the date for today correctly.\n\n**Answers:** 1. woke, ate, went  2. First / Then (e.g. First I brushed my teeth. Then I had breakfast.)  3. Saturday, 27 June 2026"
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Words for diary writing.",
+                  "glossary": [
+                    { "term": "diary", "definition": "a personal book where you write about your daily life; a journal." },
+                    { "term": "entry", "definition": "one piece of writing in a diary, usually for one day." },
+                    { "term": "sequence", "definition": "the order in which things happen, one after another." },
+                    { "term": "routine", "definition": "the things you usually do every day in the same order." },
+                    { "term": "reflect", "definition": "to think carefully about something that happened." }
+                  ]
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- A **diary** records your daily life; write one **entry** per day.\n- Start with the **date** and **Dear Diary,**.\n- Use the **past tense** for events that already happened.\n- Use **sequence words** (first, then, after that, finally) to order events.\n- End with how you **felt**."
+                }
+              ],
+              "flashcards": [
+                { "front": "What tense do we mostly use in a diary?", "back": "The simple past tense (I went, I felt)." },
+                { "front": "Name three sequence words.", "back": "First, then, after that, next, finally (any three)." },
+                { "front": "What do we write at the top of a diary entry?", "back": "The date (e.g. Monday, 27 June 2026)." },
+                { "front": "diary / journal", "back": "a personal book where you write about your daily life" },
+                { "front": "entry", "back": "one day's piece of writing in a diary" }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Diary tense", "difficulty": "beginner", "type": "mcq", "prompt": "Which tense do we mostly use to write a diary?", "options": ["Simple present", "Simple past", "Future", "Present continuous"], "answer": "1", "explanation": "A diary describes things that already happened, so we use the simple past." },
+            { "topic": "Sequence words", "difficulty": "beginner", "type": "mcq", "prompt": "Which word shows the LAST event?", "options": ["First", "Then", "Finally", "Next"], "answer": "2", "explanation": "'Finally' is used for the last event in a sequence." },
+            { "topic": "Past tense in diary", "difficulty": "medium", "type": "mcq", "prompt": "Choose the correct diary sentence.", "options": ["Yesterday I go to the market.", "Yesterday I went to the market.", "Yesterday I going to the market.", "Yesterday I goes to the market."], "answer": "1", "explanation": "With 'yesterday' we use the past tense: went." },
+            { "topic": "Diary format", "difficulty": "medium", "type": "mcq", "prompt": "What usually comes FIRST in a diary entry?", "options": ["Your feelings", "The date", "The last event", "A question"], "answer": "1", "explanation": "A diary entry begins with the date at the top." },
+            { "topic": "Vocabulary", "difficulty": "difficult", "type": "mcq", "prompt": "An 'entry' in a diary means ______.", "options": ["the front cover", "one piece of writing, usually for one day", "the price of the book", "a door"], "answer": "1", "explanation": "An entry is one day's piece of writing in a diary." },
+            { "topic": "Diary writing", "difficulty": "exam", "type": "mcq", "prompt": "Which sentence is best for a diary and grammatically correct?", "options": ["Today is a busy day and I go to school.", "Today was a busy day, and I went to school.", "Today was a busy day and I go to school.", "Today is a busy day and I went to school."], "answer": "1", "explanation": "A diary uses consistent past tense: 'was' and 'went' together." }
+          ]
+        },
+        {
+          "title": "Land Conservation",
+          "description": "Learn about protecting the land and use the future tense with 'will' and 'going to'.",
+          "lessons": [
+            {
+              "title": "Land Conservation and the Future Tense",
+              "summary": "Learn how to protect the land and use 'will' and 'going to' to talk about future plans and predictions.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Land conservation** means protecting the soil, trees, and water so the land stays healthy for the future. In Ethiopia, people plant trees and build **terraces** to stop **soil erosion**.\n\nWhen we talk about the **future** — our plans and what we think will happen — we use **will** and **going to**."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use vocabulary about **the environment** and **conservation**.\n- Use **will** for predictions and quick decisions.\n- Use **going to** for plans and clear evidence.\n- Talk about future actions to protect the land."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Future Tense: will and going to",
+                  "body": "There are two common ways to talk about the future.\n\n**1. will + base verb** — for predictions, promises, and decisions made *now*.\n- *I think the trees **will grow** tall.* (prediction)\n- *I **will help** plant trees tomorrow.* (decision/promise)\n- Negative: *won't* (will not). *The soil **won't erode** if we plant grass.*\n\n**2. (am/is/are) going to + base verb** — for plans already made and predictions based on evidence.\n- *We **are going to plant** trees next week.* (a plan)\n- *Look at those clouds — it **is going to rain**.* (evidence now)\n\nBoth are followed by the **base verb**: will **grow**, going to **plant**."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read this short plan:\n\n*\"Our school **is going to** start a tree-planting project. Next month, every student **will plant** five trees. We **are going to** build small terraces on the hill to stop erosion. If everyone helps, the land **will become** green again.\"*\n\n- **is going to start / are going to build** = plans already decided.\n- **will plant / will become** = predictions and future results.\n- Every verb after them is in the **base form**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Adding -s or -ed after will:** ❌ *He will plants.* ✅ *He **will plant**.*\n- **Forgetting 'be' in 'going to':** ❌ *I going to help.* ✅ *I **am going to** help.*\n- **'will' for a fixed plan you already made:** often *going to* is better. *We **are going to** plant trees (already planned).*\n- **Wrong negative:** ❌ *He willn't come.* ✅ *He **won't** come.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tip",
+                  "body": "**WILL = a quick decision or a guess. GOING TO = an existing plan or clear evidence.** If you already decided before now, say *going to*. If you decide while speaking, say *will*."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose 'will' or 'going to'.\n\n1. Look at the sky! It ______ rain. ______\n2. I promise I ______ help you plant trees. ______\n3. We have a plan: we ______ clean the river on Saturday. ______\n4. I think Ethiopia ______ have more forests in the future. ______\n5. He ______ (not) cut that tree. ______\n\n**Answers:** 1. is going to (evidence)  2. will (promise)  3. are going to (plan)  4. will (prediction)  5. won't / is not going to"
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Words about land and the environment.",
+                  "glossary": [
+                    { "term": "conservation", "definition": "protecting nature and natural resources from harm or waste." },
+                    { "term": "soil erosion", "definition": "the wearing away of soil by water or wind." },
+                    { "term": "terrace", "definition": "a flat step cut into a hill to stop soil from washing away." },
+                    { "term": "deforestation", "definition": "the cutting down of many trees from a forest." },
+                    { "term": "environment", "definition": "the natural world around us — the land, air, water, plants, and animals." }
+                  ]
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- Use **will** + base verb for predictions, promises, and quick decisions.\n- Use **going to** + base verb for plans and predictions with evidence.\n- The negative of *will* is **won't**.\n- **Land conservation** (planting trees, building **terraces**) protects soil from **erosion**."
+                }
+              ],
+              "flashcards": [
+                { "front": "Which future form for a plan you already made?", "back": "going to (We are going to plant trees.)" },
+                { "front": "Which future form for a quick decision or promise?", "back": "will (I will help you.)" },
+                { "front": "Negative of 'will'", "back": "won't (will not)" },
+                { "front": "soil erosion", "back": "the wearing away of soil by water or wind" },
+                { "front": "conservation", "back": "protecting nature and natural resources" }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Future with will", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["He will plants trees.", "He will plant trees.", "He will planting trees.", "He will planted trees."], "answer": "1", "explanation": "After 'will' we use the base verb: will plant." },
+            { "topic": "going to", "difficulty": "beginner", "type": "mcq", "prompt": "Complete: 'We ______ going to clean the river.'", "options": ["am", "is", "are", "be"], "answer": "2", "explanation": "With 'we' we use 'are': We are going to clean the river." },
+            { "topic": "Predictions with evidence", "difficulty": "medium", "type": "mcq", "prompt": "Look at the dark clouds! It ______ rain.", "options": ["is going to", "go to", "wills", "rained"], "answer": "0", "explanation": "When there is evidence now, we use 'going to': It is going to rain." },
+            { "topic": "Vocabulary", "difficulty": "medium", "type": "mcq", "prompt": "'Soil erosion' means ______.", "options": ["planting new trees", "the wearing away of soil by water or wind", "watering plants", "building houses"], "answer": "1", "explanation": "Soil erosion is when soil is worn away by water or wind." },
+            { "topic": "Negative future", "difficulty": "difficult", "type": "mcq", "prompt": "What is the negative of 'He will come'?", "options": ["He willn't come.", "He won't come.", "He don't come.", "He not will come."], "answer": "1", "explanation": "The negative of 'will' is 'won't' (will not)." },
+            { "topic": "Future tense", "difficulty": "exam", "type": "mcq", "prompt": "Which sentence shows a plan already decided?", "options": ["Maybe it will rain.", "I think they will win.", "We are going to plant trees next week.", "Perhaps she will come."], "answer": "2", "explanation": "'Going to' shows a plan already made: We are going to plant trees." }
+          ]
+        },
+        {
+          "title": "Volunteerism",
+          "description": "Learn about helping the community and use the present perfect tense.",
+          "lessons": [
+            {
+              "title": "Volunteerism and the Present Perfect Tense",
+              "summary": "Learn about volunteering to help others and use the present perfect tense for experiences and recent actions.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "A **volunteer** is someone who helps other people **without being paid**. Students often **volunteer** to clean their school, plant trees, or help elderly neighbours. This is called **volunteerism**.\n\nTo talk about things you **have done** in your life (your experiences), we use the **present perfect tense**."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use vocabulary about **volunteering** and **community**.\n- Form the **present perfect** (have/has + past participle).\n- Use it for **life experiences** and **recent actions**.\n- Use *ever, never, already, yet, since, for* correctly."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Present Perfect Tense",
+                  "body": "We form the **present perfect** with **have / has + past participle**.\n\n- I/you/we/they → **have** + past participle: *I **have helped**.*\n- he/she/it → **has** + past participle: *She **has helped**.*\n\n**Past participle:** regular verbs add **-ed** (help → helped). Irregular verbs change (do → **done**, see → **seen**, be → **been**, give → **given**).\n\n**We use the present perfect for:**\n1. **Life experiences** (no exact time): *I **have visited** Lalibela.* Often with *ever / never*: *Have you **ever volunteered**?*\n2. **Recent actions** with a result now: *She **has just finished** the work.* Often with *already / yet*.\n3. **Unfinished time** with *for* and *since*: *He **has worked** here **for** two years.* / *...**since** 2024.*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read about a volunteer club:\n\n*\"Our club **has helped** many people this year. We **have planted** 200 trees and **have cleaned** the river twice. Bethel **has already collected** clothes for the poor. I **have never felt** so proud. **Have** you **ever volunteered** in your community?\"*\n\n- **has helped / have planted** = experiences this year.\n- **has already collected** = a recent action (with *already*).\n- **have never felt** = a life experience (with *never*).\n\nUse **for** + a length of time (*for two years*) and **since** + a starting point (*since 2024*)."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Using past simple with 'ever/never':** ❌ *Did you ever visit Axum?* (less natural) ✅ *Have you **ever visited** Axum?*\n- **Wrong participle:** ❌ *I have went.* ✅ *I have **gone**.*\n- **for vs since:** ❌ *for 2024* ✅ *since 2024*; ❌ *since two years* ✅ *for two years*.\n- **has with I/you/we/they:** ❌ *They has helped.* ✅ *They **have** helped.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tip",
+                  "body": "**HAVE/HAS + 3rd form (past participle).** And remember: **FOR + a length of time** (for 2 years), **SINCE + a point in time** (since Monday). 'Since' points back to *when it started*."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Complete with the present perfect.\n\n1. I ______ (clean) the classroom already.\n2. ______ you ever ______ (help) an old person?\n3. She ______ (live) in Bahir Dar for five years.\n4. We ______ (not / finish) the project yet.\n5. They ______ (plant) many trees since 2023.\n\n**Answers:** 1. have cleaned  2. Have ... helped  3. has lived  4. have not (haven't) finished  5. have planted"
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Words about volunteering and community.",
+                  "glossary": [
+                    { "term": "volunteer", "definition": "a person who helps others without being paid." },
+                    { "term": "community", "definition": "the group of people who live in the same area." },
+                    { "term": "charity", "definition": "the giving of help, money, or goods to people in need." },
+                    { "term": "donate", "definition": "to give something (money, clothes, time) to help others." },
+                    { "term": "contribute", "definition": "to give your help or share to a common goal." }
+                  ]
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **present perfect** = **have/has + past participle**.\n- Use it for **life experiences** (ever/never) and **recent actions** (already/yet).\n- **for** + length of time; **since** + starting point.\n- A **volunteer** helps the **community** without pay."
+                }
+              ],
+              "flashcards": [
+                { "front": "How do we form the present perfect?", "back": "have/has + past participle (I have helped, She has gone)." },
+                { "front": "for or since? '___ two years' and '___ 2024'", "back": "for two years; since 2024." },
+                { "front": "Past participle of 'go'", "back": "gone (I have gone)" },
+                { "front": "volunteer", "back": "a person who helps others without being paid" },
+                { "front": "donate", "back": "to give something to help others" }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Present perfect form", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["She have helped many people.", "She has helped many people.", "She has helps many people.", "She has helping many people."], "answer": "1", "explanation": "With 'she' we use 'has' + past participle: She has helped." },
+            { "topic": "Past participle", "difficulty": "beginner", "type": "mcq", "prompt": "Complete: 'I have ______ to Lalibela.'", "options": ["go", "went", "gone", "going"], "answer": "2", "explanation": "The past participle of 'go' is 'gone': I have gone." },
+            { "topic": "for vs since", "difficulty": "medium", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["He has worked here since two years.", "He has worked here for two years.", "He has worked here from two years.", "He has worked here in two years."], "answer": "1", "explanation": "Use 'for' with a length of time: for two years." },
+            { "topic": "Vocabulary", "difficulty": "medium", "type": "mcq", "prompt": "A 'volunteer' is a person who ______.", "options": ["is paid a lot of money", "helps others without being paid", "works in an office", "studies at university"], "answer": "1", "explanation": "A volunteer helps others without being paid." },
+            { "topic": "ever/never", "difficulty": "difficult", "type": "mcq", "prompt": "Choose the most natural question about life experience.", "options": ["Did you ever volunteer?", "Have you ever volunteered?", "Do you ever volunteered?", "Are you ever volunteer?"], "answer": "1", "explanation": "For life experiences with 'ever', we use the present perfect: Have you ever volunteered?" },
+            { "topic": "Present perfect", "difficulty": "exam", "type": "mcq", "prompt": "Which sentence is grammatically correct?", "options": ["They has already donated clothes.", "They have already donate clothes.", "They have already donated clothes.", "They have already donating clothes."], "answer": "2", "explanation": "Use 'have' (they) + past participle 'donated': They have already donated clothes." }
+          ]
+        },
+        {
+          "title": "Fitness",
+          "description": "Learn about keeping healthy and use adverbs of frequency.",
+          "lessons": [
+            {
+              "title": "Fitness and Adverbs of Frequency",
+              "summary": "Learn how to stay fit and healthy and use adverbs of frequency to say how often you do things.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Fitness** means keeping your body strong and healthy through **exercise** and good food. Students who run, play, and eat well stay fit.\n\nTo say **how often** you do something — every day, sometimes, or never — we use **adverbs of frequency**."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use vocabulary about **health** and **fitness**.\n- Use **adverbs of frequency** (always, usually, often, sometimes, never).\n- Put these adverbs in the **correct place** in a sentence.\n- Use *How often...?* questions and expressions like *twice a week*."
+                },
+                {
+                  "type": "theory",
+                  "title": "Adverbs of Frequency",
+                  "body": "**Adverbs of frequency** tell us *how often* an action happens. From most to least often:\n\n**always (100%) → usually → often → sometimes → rarely/seldom → never (0%)**\n\n**Word order rule:**\n1. **Before** the main verb: *I **always eat** breakfast.* / *She **never drinks** soda.*\n2. **After** the verb **be**: *He **is usually** tired.* / *They **are often** late.*\n\n**Frequency phrases** go at the **end** of the sentence:\n- *I exercise **every day**.*\n- *She plays football **twice a week**.*\n- *We go running **once a month**.*\n\nTo ask, use **How often...?** *How often do you exercise?*"
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read about a fit student:\n\n*\"Dawit **always exercises** in the morning. He **usually runs** for thirty minutes. He **often plays** football after school and **sometimes swims** at the weekend. He **never eats** too much sugar. He **is always** full of energy. He trains **three times a week**.\"*\n\n- Adverbs (always, usually, often, sometimes, never) come **before** the main verb.\n- With **be**: *He **is always** full of energy* (adverb after *is*).\n- The phrase *three times a week* goes at the **end**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Adverb after the main verb:** ❌ *I eat always breakfast.* ✅ *I **always eat** breakfast.*\n- **Adverb before 'be':** ❌ *She always is happy.* ✅ *She **is always** happy.*\n- **Double negative with 'never':** ❌ *I don't never smoke.* ✅ *I **never** smoke.*\n- **Putting frequency phrases in the middle:** ❌ *I twice a week play.* ✅ *I play **twice a week**.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tip",
+                  "body": "**Adverb goes BEFORE the main verb, but AFTER 'be'.** Short rhyme: *\"Before the verb, after the be.\"* And single-word adverbs (always, never) go in the middle; longer phrases (every day) go at the end."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Put the adverb in the correct place.\n\n1. (always) I ______ drink water after exercise. ______\n2. (never) She ______ eats junk food. ______\n3. (usually) He ______ is tired in the evening. ______\n4. (twice a week) They play football ______. ______\n5. Make a question: ______ do you exercise?\n\n**Answers:** 1. I always drink...  2. She never eats...  3. He is usually tired...  4. ...twice a week  5. How often"
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Words about health and fitness.",
+                  "glossary": [
+                    { "term": "fitness", "definition": "the state of being strong and healthy through exercise." },
+                    { "term": "exercise", "definition": "physical activity (like running) to make the body strong." },
+                    { "term": "healthy", "definition": "in good health; not ill." },
+                    { "term": "diet", "definition": "the kind of food a person usually eats." },
+                    { "term": "energy", "definition": "the strength and power to be active and do things." }
+                  ]
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Adverbs of frequency** say how often: **always, usually, often, sometimes, never**.\n- Put them **before the main verb** but **after 'be'**.\n- **Frequency phrases** (every day, twice a week) go at the **end**.\n- Ask with **How often...?**\n- Stay fit with regular **exercise** and a healthy **diet**."
+                }
+              ],
+              "flashcards": [
+                { "front": "Where does 'always' go with a main verb?", "back": "Before the main verb: I always eat breakfast." },
+                { "front": "Where does the adverb go with 'be'?", "back": "After 'be': She is always happy." },
+                { "front": "Order from most to least: never, always, sometimes", "back": "always → sometimes → never" },
+                { "front": "How do we ask about frequency?", "back": "How often...? (How often do you exercise?)" },
+                { "front": "diet", "back": "the kind of food a person usually eats" }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Adverb position", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["I eat always breakfast.", "I always eat breakfast.", "Always I eat breakfast.", "I eat breakfast always."], "answer": "1", "explanation": "Adverbs of frequency go before the main verb: I always eat breakfast." },
+            { "topic": "Adverb with 'be'", "difficulty": "beginner", "type": "mcq", "prompt": "Complete: 'She ______ tired after running.'", "options": ["usually is", "is usually", "usually", "be usually"], "answer": "1", "explanation": "With the verb 'be', the adverb comes after it: is usually." },
+            { "topic": "Frequency order", "difficulty": "medium", "type": "mcq", "prompt": "Which adverb means the MOST often (100%)?", "options": ["sometimes", "never", "always", "rarely"], "answer": "2", "explanation": "'Always' means 100% of the time — the most often." },
+            { "topic": "Vocabulary", "difficulty": "medium", "type": "mcq", "prompt": "'Exercise' means ______.", "options": ["eating sweet food", "physical activity to make the body strong", "sleeping a lot", "reading books"], "answer": "1", "explanation": "Exercise is physical activity that makes the body strong and healthy." },
+            { "topic": "Frequency phrases", "difficulty": "difficult", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["He twice a week plays football.", "He plays twice a week football.", "He plays football twice a week.", "Twice a week he football plays."], "answer": "2", "explanation": "Frequency phrases like 'twice a week' go at the end of the sentence." },
+            { "topic": "Adverbs of frequency", "difficulty": "exam", "type": "mcq", "prompt": "Which sentence is grammatically correct?", "options": ["I don't never drink soda.", "She always is healthy.", "He never eats junk food.", "They eat often vegetables."], "answer": "2", "explanation": "'Never' goes before the main verb and is already negative: He never eats junk food." }
+          ]
+        },
+        {
+          "title": "Self-Expression",
+          "description": "Learn to express feelings and opinions and use adjectives and linking words.",
+          "lessons": [
+            {
+              "title": "Self-Expression: Feelings, Opinions and Adjectives",
+              "summary": "Learn how to express your feelings and opinions clearly using adjectives and linking words like because and so.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Self-expression** means sharing your **feelings**, **opinions**, and **ideas** with others. It is an important skill: it helps you say what you think and how you feel in a clear and polite way.\n\nTo do this well, we use **adjectives** (describing words) and **linking words** like *because* and *so* to give reasons."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use **adjectives** to describe feelings and things.\n- Use phrases to give **opinions** (I think..., In my opinion...).\n- Use **linking words** (because, so, but) to give reasons.\n- Express yourself politely and clearly."
+                },
+                {
+                  "type": "theory",
+                  "title": "Expressing Feelings and Opinions",
+                  "body": "**1. Adjectives** describe nouns and feelings.\n- Feelings: *happy, sad, angry, excited, nervous, proud, bored.*\n- An adjective usually comes **before** the noun (*a **beautiful** song*) or **after** the verb *be* (*I am **happy***).\n\n**2. Giving opinions** — useful phrases:\n- *I think (that)...* / *I believe...* / *In my opinion...*\n- *I agree* / *I disagree* (when responding to others).\n\n**3. Linking words** join ideas and give reasons:\n- **because** = gives a reason. *I am happy **because** I passed the exam.*\n- **so** = gives a result. *I studied hard, **so** I passed.*\n- **but** = shows a difference. *I like music, **but** I don't like loud noise.*\n\nTip: *-ed* adjectives describe how you **feel** (*I am **bored***); *-ing* adjectives describe the **thing** (*the lesson is **boring***)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read how Selam expresses herself:\n\n*\"**In my opinion**, music is wonderful. I feel **happy** when I sing **because** it helps me relax. I was **nervous** before the concert, **but** I felt **proud** afterwards. The audience was **excited**, **so** I sang another song.\"*\n\n- **Adjectives:** happy, nervous, proud, excited.\n- **Opinion phrase:** In my opinion...\n- **Linking words:** because (reason), but (difference), so (result)."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Confusing -ed and -ing adjectives:** ❌ *I am boring.* (means *you* are boring!) ✅ *I am **bored**.* (you feel bored)\n- **Adjective after the noun:** ❌ *a song beautiful* ✅ *a **beautiful** song*\n- **Using 'because' and 'so' together:** ❌ *Because I was tired, so I slept.* ✅ *Because I was tired, I slept.* (use only one)\n- **Plural adjective:** ❌ *two happys children* ✅ *two **happy** children* (adjectives never add -s)"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tip",
+                  "body": "**-ED = how I FEEL, -ING = how the THING is.** *I am interested* (my feeling); *the book is interesting* (the thing). And remember: **'because' gives the reason; 'so' gives the result.**"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "1. Choose the right adjective: The film was very (bored / boring) ______.\n2. Choose: I am (excited / exciting) ______ about the trip.\n3. Join with 'because': I was happy. I won the game. ______\n4. Join with 'so': It was raining. We stayed inside. ______\n5. Add an opinion phrase: \"______ football is the best sport.\"\n\n**Answers:** 1. boring  2. excited  3. I was happy because I won the game.  4. It was raining, so we stayed inside.  5. I think / In my opinion"
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Words for feelings and self-expression.",
+                  "glossary": [
+                    { "term": "opinion", "definition": "what you think or believe about something." },
+                    { "term": "express", "definition": "to say or show what you think or feel." },
+                    { "term": "emotion", "definition": "a strong feeling, such as joy, anger, or fear." },
+                    { "term": "confident", "definition": "feeling sure about yourself and your abilities." },
+                    { "term": "polite", "definition": "behaving in a kind and respectful way to others." }
+                  ]
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Self-expression** means sharing your feelings and **opinions** clearly.\n- **Adjectives** describe nouns and feelings (and never add -s).\n- **-ed** adjectives = how you feel; **-ing** adjectives = how the thing is.\n- **Linking words:** *because* (reason), *so* (result), *but* (difference).\n- Give opinions with **I think...** or **In my opinion...**"
+                }
+              ],
+              "flashcards": [
+                { "front": "I am ___ (interest) in this book.", "back": "interested (-ed = how I feel)" },
+                { "front": "The book is ___ (interest).", "back": "interesting (-ing = how the thing is)" },
+                { "front": "Which linking word gives a reason?", "back": "because (I was happy because I won.)" },
+                { "front": "Two phrases to give an opinion", "back": "I think... / In my opinion..." },
+                { "front": "opinion", "back": "what you think or believe about something" }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "-ed/-ing adjectives", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct sentence about your feeling.", "options": ["I am boring.", "I am bored.", "I am bore.", "I am bores."], "answer": "1", "explanation": "Use the -ed adjective for how you feel: I am bored." },
+            { "topic": "Adjective position", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct phrase.", "options": ["a song beautiful", "a beautiful song", "a beautifuls song", "song a beautiful"], "answer": "1", "explanation": "Adjectives come before the noun: a beautiful song." },
+            { "topic": "Linking words", "difficulty": "medium", "type": "mcq", "prompt": "Complete: 'I was tired, ______ I went to bed.'", "options": ["because", "so", "but", "or"], "answer": "1", "explanation": "'So' shows a result: I was tired, so I went to bed." },
+            { "topic": "Opinion phrases", "difficulty": "medium", "type": "mcq", "prompt": "Which phrase introduces an opinion?", "options": ["In my opinion,", "Yesterday,", "Suddenly,", "For example,"], "answer": "0", "explanation": "'In my opinion' is used to give your opinion." },
+            { "topic": "Adjectives", "difficulty": "difficult", "type": "mcq", "prompt": "Choose the correct sentence.", "options": ["The lesson was interested.", "I am very interesting in science.", "The lesson was interesting.", "I am interesteds in science."], "answer": "2", "explanation": "The thing (lesson) takes the -ing adjective: The lesson was interesting." },
+            { "topic": "Linking words", "difficulty": "exam", "type": "mcq", "prompt": "Which sentence is grammatically correct?", "options": ["Because I was late, so I ran.", "I was happy because I passed.", "I was happy so because I passed.", "I was happy, but so I passed."], "answer": "1", "explanation": "Use 'because' alone to give a reason: I was happy because I passed." }
+          ]
+        },
+        {
+          "title": "Computer Development",
+          "description": "Learn about computers and technology and use the passive voice.",
+          "lessons": [
+            {
+              "title": "Computer Development and the Passive Voice",
+              "summary": "Learn about computers and technology and use the passive voice to describe how things are made and used.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Computers** have changed the world. They are used in schools, banks, and hospitals. The growth of computers over time is called **computer development**.\n\nWhen we describe how things **are made** or **are used** — and the *doer* is not important — we use the **passive voice**: *Computers **are used** everywhere.*"
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Use vocabulary about **computers** and **technology**.\n- Understand the difference between **active** and **passive** voice.\n- Form the **passive** in the present and past.\n- Use the passive to describe processes and facts."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Passive Voice",
+                  "body": "In an **active** sentence, the subject *does* the action:\n- *People **use** computers.* (subject = people, the doer)\n\nIn a **passive** sentence, the subject *receives* the action. We use it when the doer is unknown or not important.\n- *Computers **are used** by people.* / *Computers **are used** everywhere.*\n\n**How to form the passive: be + past participle.**\n- **Present passive:** *am/is/are* + past participle. *The data **is stored** on a computer.*\n- **Past passive:** *was/were* + past participle. *The first computer **was built** long ago.*\n\nWe can add **by** to show the doer if needed: *The program **was written by** an engineer.*\n\nRemember the **past participle**: regular verbs add **-ed** (use → used); irregular verbs change (write → **written**, build → **built**, make → **made**)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Compare active and passive:\n\n- Active: *Engineers **make** computers.* → Passive: *Computers **are made** by engineers.*\n- Active: *Someone **invented** the internet.* → Passive: *The internet **was invented**.*\n\nA short passive description:\n*\"Today, computers **are used** in almost every office. Information **is stored** safely. The first electronic computer **was built** in the 1940s. Now, programs **are written** all over the world.\"*\n\nEvery passive verb = **be + past participle**: are used, is stored, was built, are written."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Forgetting 'be':** ❌ *Computers used everywhere.* ✅ *Computers **are used** everywhere.*\n- **Wrong participle:** ❌ *The letter was write.* ✅ *The letter was **written**.*\n- **Wrong form of 'be':** ❌ *The data are stored* (for one thing) ✅ *The data **is stored**.*\n- **Using passive when active is clearer:** keep it simple — use passive only when the doer is unknown or unimportant."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tip",
+                  "body": "**PASSIVE = BE + 3rd form (past participle).** Ask: *Who or what receives the action?* Put it first. If you don't know (or don't care) who did it, the passive is perfect."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Change to the passive.\n\n1. People use computers in schools. → Computers ______ in schools.\n2. Engineers built the first computer. → The first computer ______ by engineers.\n3. Someone writes new programs every day. → New programs ______ every day.\n4. They store the data safely. → The data ______ safely.\n5. People speak English worldwide. → English ______ worldwide.\n\n**Answers:** 1. are used  2. was built  3. are written  4. is stored  5. is spoken"
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Words about computers and technology.",
+                  "glossary": [
+                    { "term": "technology", "definition": "machines and tools made using science to do useful tasks." },
+                    { "term": "device", "definition": "a machine or tool made for a particular purpose (e.g. a phone)." },
+                    { "term": "data", "definition": "information, often stored or used by a computer." },
+                    { "term": "software", "definition": "the programs that tell a computer what to do." },
+                    { "term": "invent", "definition": "to make or design something completely new for the first time." }
+                  ]
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **passive voice** = **be + past participle**.\n- Use it when the **doer** is unknown or not important.\n- **Present passive:** is/are + participle; **past passive:** was/were + participle.\n- Add **by** to show the doer if needed.\n- **Computers** and **technology** are used everywhere today."
+                }
+              ],
+              "flashcards": [
+                { "front": "How do we form the passive voice?", "back": "be + past participle (is used, was built)." },
+                { "front": "Make passive: 'People use computers.'", "back": "Computers are used (by people)." },
+                { "front": "Past participle of 'write'", "back": "written (The letter was written.)" },
+                { "front": "When do we use the passive?", "back": "When the doer is unknown or not important." },
+                { "front": "software", "back": "the programs that tell a computer what to do" }
+              ]
+            }
+          ],
+          "questions": [
+            { "topic": "Passive form", "difficulty": "beginner", "type": "mcq", "prompt": "Choose the correct passive sentence.", "options": ["Computers used in schools.", "Computers are used in schools.", "Computers are use in schools.", "Computers is used in schools."], "answer": "1", "explanation": "Passive = be + past participle: Computers are used (computers is plural → are)." },
+            { "topic": "Past participle", "difficulty": "beginner", "type": "mcq", "prompt": "Complete: 'The letter was ______ yesterday.'", "options": ["write", "wrote", "written", "writing"], "answer": "2", "explanation": "The past participle of 'write' is 'written': was written." },
+            { "topic": "Active to passive", "difficulty": "medium", "type": "mcq", "prompt": "Make passive: 'Engineers built the computer.'", "options": ["The computer built by engineers.", "The computer is built by engineers.", "The computer was built by engineers.", "The computer was build by engineers."], "answer": "2", "explanation": "Past passive: was/were + past participle: was built by engineers." },
+            { "topic": "Vocabulary", "difficulty": "medium", "type": "mcq", "prompt": "'Software' means ______.", "options": ["the screen of a computer", "the programs that tell a computer what to do", "the keyboard", "the electricity"], "answer": "1", "explanation": "Software is the programs that tell a computer what to do." },
+            { "topic": "Present passive", "difficulty": "difficult", "type": "mcq", "prompt": "Complete: 'The data ______ on the computer.'", "options": ["store", "stores", "is stored", "storing"], "answer": "2", "explanation": "Singular subject 'data' here takes 'is' + participle: is stored." },
+            { "topic": "Passive voice", "difficulty": "exam", "type": "mcq", "prompt": "Which sentence is in the passive voice?", "options": ["People speak English worldwide.", "English is spoken worldwide.", "People are speaking English.", "People will speak English."], "answer": "1", "explanation": "Passive = be + past participle: English is spoken worldwide." }
+          ]
+        }
+      ]
+    }
+  ]
+}

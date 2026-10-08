@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "Biotechnology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which everyday product is made using fermentation by microorganisms?",
+          "options": ["Table salt", "Yoghurt", "Cooking oil", "Tap water"],
+          "answer": "1",
+          "explanation": "Yoghurt is made when bacteria ferment milk sugar (lactose) into lactic acid, thickening and souring the milk."
+        },
+        {
+          "topic": "Genetic engineering tools",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In genetic engineering, DNA ligase acts most like:",
+          "options": ["Scissors that cut DNA", "Glue that joins DNA pieces", "A microscope", "A heater"],
+          "answer": "1",
+          "explanation": "DNA ligase joins (seals) pieces of DNA together, acting like molecular glue, while restriction enzymes do the cutting."
+        },
+        {
+          "topic": "Biotechnology applications",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A plasmid is useful in genetic engineering mainly because it can:",
+          "options": ["Kill bacteria quickly", "Carry a chosen gene into a bacterial cell", "Replace the cell membrane", "Stop fermentation"],
+          "answer": "1",
+          "explanation": "A plasmid is a small DNA ring that acts as a carrier (vector), taking an inserted gene into the bacterial cell so the gene can be copied and used."
+        },
+        {
+          "topic": "Biotechnology reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why must the SAME restriction enzyme be used to cut both the insulin gene and the plasmid?",
+          "options": ["So both pieces have matching ends that can join", "So the bacteria grow faster", "So the gene is destroyed", "So no glue is needed"],
+          "answer": "0",
+          "explanation": "Using the same restriction enzyme produces matching (complementary) cut ends on the gene and plasmid, allowing them to fit together before ligase seals them."
+        },
+        {
+          "topic": "Microorganisms",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which group of microorganisms includes yeasts and moulds?",
+          "options": ["Viruses", "Fungi", "Protozoa", "Bacteria"],
+          "answer": "1",
+          "explanation": "Fungi include yeasts and moulds; yeast helps make bread, and some moulds produce the antibiotic penicillin."
+        },
+        {
+          "topic": "Microorganisms and health",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A patient has a bacterial throat infection. Which treatment is appropriate?",
+          "options": ["An antibiotic", "An anti-virus injection only", "More sunlight", "No treatment is ever possible"],
+          "answer": "0",
+          "explanation": "Antibiotics target bacteria, so a bacterial infection can be treated with an antibiotic; antibiotics do not work on viruses."
+        },
+        {
+          "topic": "Microorganisms reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why is a virus often described as being on the border between living and non-living?",
+          "options": ["It is too small to see", "It cannot reproduce without a living host cell", "It has thick cell walls", "It lives only in soil"],
+          "answer": "1",
+          "explanation": "A virus has no machinery of its own and can only reproduce by taking over a living host cell, so it shows life-like behaviour only inside a host."
+        },
+        {
+          "topic": "Microorganisms overview",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which statement about the four main microbe groups is CORRECT?",
+          "options": ["Bacteria have a true nucleus enclosing their DNA", "Plasmodium, which causes malaria, is a protozoan", "All fungi cause disease in humans", "Viruses are the largest microorganisms"],
+          "answer": "1",
+          "explanation": "Plasmodium is a protozoan spread by mosquitoes. Bacteria lack a true nucleus, most fungi are harmless or useful, and viruses are the smallest microbes."
+        },
+        {
+          "topic": "Genetics terms",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "An organism with two identical alleles for a gene (such as TT) is described as:",
+          "options": ["Heterozygous", "Homozygous", "Recessive only", "A phenotype"],
+          "answer": "1",
+          "explanation": "Homozygous means having two identical alleles (TT or tt); heterozygous means two different alleles (Tt)."
+        },
+        {
+          "topic": "Monohybrid cross",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In a Tt x tt cross (T is tall, dominant), what fraction of offspring are expected to be short?",
+          "options": ["None", "One quarter", "One half", "All of them"],
+          "answer": "2",
+          "explanation": "Tt x tt gives Tt and tt in equal numbers, so half the offspring are tt (short) and half are Tt (tall)."
+        },
+        {
+          "topic": "Genetics reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A recessive trait can appear in a child even though neither parent shows it because the parents:",
+          "options": ["Each carry a hidden recessive allele", "Both have only dominant alleles", "Have no alleles for the trait", "Are both homozygous recessive"],
+          "answer": "0",
+          "explanation": "Each parent can be heterozygous (carrying one hidden recessive allele); when both pass the recessive allele, the child is homozygous recessive and shows the trait."
+        },
+        {
+          "topic": "Genetics reasoning",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A heterozygous tall plant (Tt) is crossed with a homozygous tall plant (TT). What is the expected phenotype of the offspring?",
+          "options": ["All short", "All tall", "Three tall to one short", "Half tall, half short"],
+          "answer": "1",
+          "explanation": "TT x Tt gives genotypes TT and Tt only; every offspring has at least one dominant T allele, so all are tall."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Differences between individuals in a population, such as size or colour, are called:",
+          "options": ["Variation", "Extinction", "Migration", "Decomposition"],
+          "answer": "0",
+          "explanation": "Variation refers to the inherited differences between individuals, and it provides the raw material that natural selection acts on."
+        },
+        {
+          "topic": "Evidence for evolution",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Closely related species are expected to share:",
+          "options": ["Less DNA than distant species", "More DNA than distant species", "No DNA at all", "Exactly the same DNA"],
+          "answer": "1",
+          "explanation": "More closely related species share more of their DNA, which is strong molecular evidence that they descended from a recent common ancestor."
+        },
+        {
+          "topic": "Natural selection reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a population of light and dark moths on dark tree bark, why do dark moths become more common over time?",
+          "options": ["The moths decide to change colour", "Dark moths are camouflaged, so more survive and reproduce", "Birds prefer to eat dark moths", "Dark colour spreads by touch"],
+          "answer": "1",
+          "explanation": "Dark moths are better hidden on dark bark, so predators eat fewer of them; the survivors reproduce and pass on the dark allele, making it more common."
+        },
+        {
+          "topic": "Behaviour reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A bird at first flies away from a new scarecrow but after several days ignores it completely. This change shows that the bird has:",
+          "options": ["Lost the ability to see the scarecrow", "Learned to ignore a repeated harmless stimulus (habituation)", "Inherited a fear of scarecrows", "Developed a new reflex"],
+          "answer": "1",
+          "explanation": "The bird still senses the scarecrow but learns it is harmless and ignores it, saving energy; this learned change is called habituation."
+        },
+        {
+          "topic": "Learned behaviour",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Newly hatched ducklings follow the first moving object they see early in life. This is an example of:",
+          "options": ["A reflex", "Imprinting", "Instinctive migration", "Habituation"],
+          "answer": "1",
+          "explanation": "Imprinting is rapid learning during a short sensitive period, in which a young animal attaches to the first moving object, usually its mother."
+        },
+        {
+          "topic": "Behaviour reasoning",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which pairing of a behaviour with its correct type is RIGHT?",
+          "options": ["Pulling your hand off a hot pot - learned behaviour", "A spider spinning a web with no teaching - instinct", "Imprinting - a simple reflex", "A trained dog sitting on command - innate behaviour"],
+          "answer": "1",
+          "explanation": "Web-spinning is a complex inborn behaviour (instinct). Pulling away from heat is a reflex (innate), and a dog sitting on command is learned by conditioning."
+        },
+        {
+          "topic": "Circulatory system",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which blood vessels carry blood away from the heart?",
+          "options": ["Veins", "Arteries", "Capillaries", "Nerves"],
+          "answer": "1",
+          "explanation": "Arteries carry blood away from the heart at high pressure, so they have thick muscular walls; veins return blood to the heart."
+        },
+        {
+          "topic": "Circulatory system",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Exchange of oxygen, nutrients, and waste between blood and body cells happens mainly in the:",
+          "options": ["Arteries", "Veins", "Capillaries", "Heart chambers"],
+          "answer": "2",
+          "explanation": "Capillaries have very thin walls and a huge surface area, allowing substances to diffuse quickly between blood and cells."
+        },
+        {
+          "topic": "Circulatory system reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The left ventricle has a thicker muscular wall than the right ventricle because it must:",
+          "options": ["Pump blood only to the nearby lungs", "Pump blood at high pressure all around the body", "Store oxygen-poor blood", "Filter the blood"],
+          "answer": "1",
+          "explanation": "The left ventricle pumps blood through the whole body (systemic circulation), needing more force, while the right ventricle only pumps to the nearby lungs."
+        },
+        {
+          "topic": "Ecology reasoning",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "If all the producers were removed from an ecosystem, what would happen first to the consumers?",
+          "options": ["They would increase because of less competition", "They would lose their energy source and begin to die off", "They would turn into decomposers", "Nothing, because consumers make their own food"],
+          "answer": "1",
+          "explanation": "Producers capture the energy that enters the food chain; without them, consumers have no food source and the whole chain collapses from the bottom up."
+        },
+        {
+          "topic": "Energy flow reasoning",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In the food chain grass to grasshopper to bird to hawk, why are there far fewer hawks than blades of grass?",
+          "options": ["Hawks lay no eggs", "Only about 10% of energy passes to each next level", "Grass is poisonous to hawks", "Hawks do not need energy"],
+          "answer": "1",
+          "explanation": "About 90% of energy is lost as heat and used for life processes at each step, so only around 10% passes on, supporting fewer organisms at higher levels."
+        },
+        {
+          "topic": "Conservation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Protecting a species by keeping it safe in a national park in its natural habitat is an example of:",
+          "options": ["Ex-situ conservation", "In-situ conservation", "Deforestation", "Pollution control only"],
+          "answer": "1",
+          "explanation": "In-situ conservation protects species in their natural habitat, for example within national parks such as the Simien Mountains National Park."
+        }
+      ]
+    }
+  ]
+}

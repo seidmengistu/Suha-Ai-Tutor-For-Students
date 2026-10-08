@@ -1,0 +1,25 @@
+node_modules
+dist
+out
+release
+*.log
+.DS_Store
+.vite
+.eslintcache
+# Local user data and imported books are not committed
+userdata/
+books/**/*.pdf
+!books/**/.gitkeep
+.toc/
+
+# Imported exam papers (copyrighted — never commit)
+Question Bank*/
+exams/
+
+# Bundled paper exams: PDFs are user-supplied (not committed); manifest.json holds only answer-key letters
+paper-exams/*.pdf
+paper-exams/**/*.pdf
+
+# Android signing — keep private, never commit
+*.keystore
+android/keystore.properties

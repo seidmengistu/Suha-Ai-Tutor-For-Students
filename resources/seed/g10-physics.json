@@ -1,0 +1,867 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "physics",
+      "chapters": [
+        {
+          "title": "Motion in 2D",
+          "description": "How objects move in two dimensions, including projectiles, circular motion, rotation, and gravity.",
+          "lessons": [
+            {
+              "title": "Motion in Two Dimensions",
+              "summary": "Learn how projectiles move through the air by treating horizontal and vertical motion separately. Also explore circular motion and gravity.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Why study motion in 2D?",
+                  "body": "In Grade 9 you studied motion in a straight line (one dimension). But most real motion happens in **two dimensions (2D)**. When you kick a football, throw a stone, or watch water arc out of a hose, the object moves both **forward (horizontal)** and **up or down (vertical)** at the same time.\n\nA **projectile** is any object thrown or launched through the air that moves only under the pull of gravity (no engine pushing it). The clever trick that physicists use is this: we split the motion into a **horizontal part** and a **vertical part**, then solve each part on its own. This works because the two directions do not affect each other."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define a **projectile** and give examples.\n- Explain the difference between **1D** and **2D** motion.\n- Use the terms **angle of elevation** and **angle of depression** correctly.\n- Describe how gravity changes the **vertical velocity** but not the **horizontal velocity**.\n- Use the equations of uniform acceleration to find **flight time**, **range**, and **maximum height**.\n- Define **centre of mass** and **centripetal force**, and calculate centripetal force."
+                },
+                {
+                  "type": "theory",
+                  "title": "Horizontal and vertical motion",
+                  "body": "The key idea is **independence of motion**: horizontal and vertical motion happen at the same time but do not influence each other.\n\n**Horizontal motion:** If we ignore air resistance, there is no horizontal force on a projectile once it is launched. With no force there is no acceleration, so the **horizontal velocity stays constant** for the whole flight. We use:\n\n`horizontal displacement = horizontal velocity × flight time`\n\n**Vertical motion:** Gravity pulls everything downward, giving an acceleration of **g = 9.81 m/s²** (Standard Gravity). So the **vertical velocity keeps changing**. On the way up the object slows down, reaches zero vertical velocity at the top, then speeds up on the way down. This is *uniformly accelerated motion*, so we can use the five equations of motion:\n\n1. `v = u + at`\n2. `s = ½(u + v)t`\n3. `s = ut + ½at²`\n4. `v² = u² + 2as`\n5. `s = vt − ½at²`\n\nHere **s** = displacement, **u** = initial velocity, **v** = final velocity, **a** = acceleration, **t** = time.\n\n**Why does the path curve?** Because the horizontal velocity is steady while the vertical velocity speeds up, the combined path bends into a special curve called a **parabola**.\n\n**Resolving velocity:** When a projectile is launched at an angle θ, we split its launch velocity *u* into parts using trigonometry:\n- Horizontal component: `uₓ = u cos θ`\n- Vertical component: `u_y = u sin θ`\n\n**Angles:** An angle measured *above* the horizontal is the **angle of elevation**; an angle measured *below* the horizontal is the **angle of depression**.\n\n**Useful results** (launch from ground level, ignoring air resistance):\n- Time to maximum height: `t = (u sin θ) / g`\n- Total flight time: `T = (2u sin θ) / g`\n- Range: `R = (u² sin 2θ) / g`\n- Maximum range happens at **θ = 45°**, where `R = u² / g`.\n\n**Centre of mass:** The **centre of mass** is the single point where all the mass of an object can be thought of as concentrated. For a uniform shape it is at the centre. A force acting through this point causes no turning.\n\n**Uniform circular motion:** This is movement along a circle of constant radius at constant speed. Even though the speed is constant, the **velocity changes** because the direction keeps changing. A changing velocity means there is an acceleration, which needs a force. This inward force is the **centripetal force**, always pointing toward the centre:\n\n`F = mv² / r`\n\nwhere **m** = mass, **v** = speed, **r** = radius."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: ball kicked at an angle",
+                  "body": "**Problem:** A football is kicked from the ground at **20 m/s** at an angle of **30°** above the horizontal. Take g = 9.81 m/s². Find (a) the maximum height, and (b) the horizontal range.\n\n**Step 1 — Resolve the launch velocity into components.**\nVertical: `u_y = u sin θ = 20 × sin 30° = 20 × 0.5 = 10 m/s`\nHorizontal: `uₓ = u cos θ = 20 × cos 30° = 20 × 0.866 = 17.3 m/s`\n\n**Step 2 — Find the maximum height.** At the top, the vertical velocity is 0. Use `v² = u² − 2gs` (taking up as positive):\n`0 = (10)² − 2 × 9.81 × s`\n`0 = 100 − 19.62 s`\n`s = 100 / 19.62 = 5.1 m`\nSo the **maximum height ≈ 5.1 m**.\n\n**Step 3 — Find the total flight time.** Use `T = (2u sin θ) / g`:\n`T = (2 × 10) / 9.81 = 20 / 9.81 = 2.04 s`\n\n**Step 4 — Find the range.** Horizontal velocity stays constant:\n`R = uₓ × T = 17.3 × 2.04 = 35.3 m`\nSo the **range ≈ 35 m**.\n\n**Check:** Using the range equation `R = u² sin 2θ / g = 400 × sin 60° / 9.81 = 400 × 0.866 / 9.81 = 35.3 m`. The two methods agree."
+                },
+                {
+                  "type": "visual",
+                  "title": "Vertical velocity of a falling ball",
+                  "body": "This graph shows how the **downward velocity** of a dropped ball grows steadily over time. The straight line means the acceleration is constant at g = 9.81 m/s². Notice that after about 1 second the speed is roughly 9.8 m/s, and after 2 seconds it is about 19.6 m/s.",
+                  "visual": {
+                    "kind": "motion-graph",
+                    "data": {
+                      "xLabel": "time (s)",
+                      "yLabel": "velocity (m/s)",
+                      "series": [
+                        {
+                          "label": "downward velocity",
+                          "points": [[0, 0], [1, 9.8], [2, 19.6], [3, 29.4]]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Mixing up directions.** You must pick one direction (up or down) as positive and stay with it for the whole problem. If down is positive, an upward launch velocity must be written as a **negative** number.\n- **Thinking horizontal velocity slows down.** Ignoring air resistance, the **horizontal velocity never changes** during flight. Only the vertical velocity changes.\n- **Believing heavier objects fall faster.** Without air resistance, all objects accelerate at the same rate (9.81 m/s²). A heavy stone and a light stone dropped together land together.\n- **Forgetting to resolve the velocity.** For a launch at an angle, you cannot use the full speed for vertical calculations — you must first find `u sin θ`.\n- **Using the wrong equation.** Pick the equation that does not contain the unknown you are *not* asked for. For example, if you do not know time, use `v² = u² + 2as`."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to remember it",
+                  "body": "- **\"SOH-CAH-TOA\"** reminds you that the **S**in part is **vertical** (sin → up) and the **cos** part is **horizontal**: *vertical = u sin θ, horizontal = u cos θ*.\n- Remember **\"45 is the king of range\"** — the longest range on flat ground is always at 45°.\n- **\"Time up = time down\"**: for a projectile launched and landing at the same height, the rising time equals the falling time, so total time is double the time to the top.\n- For circular motion, **\"mv-squared-over-r\"** is the chant for centripetal force: F = mv²/r.\n- Picture a **monkey dropping a coconut while a hunter fires horizontally** — both hit the ground at the same instant, because vertical fall time depends only on height."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers below.\n\n**Q1.** A ball is dropped from a height of 5.0 m. How long does it take to hit the ground? (Use g = 9.81 m/s².)\n\n**Q2.** A stone is thrown horizontally at 8.0 m/s from a cliff. After 2.0 s, how far has it travelled horizontally?\n\n**Q3.** A car of mass 1000 kg goes around a bend of radius 50 m at 20 m/s. What centripetal force is needed?\n\n**Answers:**\n- **A1.** Use `s = ½gt²` → `5.0 = ½ × 9.81 × t²` → `t² = 1.02` → **t ≈ 1.0 s**.\n- **A2.** `horizontal distance = velocity × time = 8.0 × 2.0 =` **16 m**.\n- **A3.** `F = mv²/r = 1000 × (20)² / 50 = 1000 × 400 / 50 =` **8000 N**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points",
+                  "body": "- A **projectile** moves under gravity alone; treat its **horizontal** and **vertical** motion separately.\n- **Horizontal velocity is constant**; **vertical velocity changes** at g = 9.81 m/s².\n- The path of a projectile is a **parabola**.\n- Resolve a launch velocity: `uₓ = u cos θ`, `u_y = u sin θ`.\n- Flight time `T = 2u sin θ / g`; range `R = u² sin 2θ / g`; **maximum range at 45°**.\n- The **centre of mass** is where all mass can be treated as concentrated.\n- **Uniform circular motion** needs a **centripetal force** `F = mv²/r` pointing to the centre."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms from this lesson.",
+                  "glossary": [
+                    { "term": "Projectile", "definition": "Any object moving through the air under the influence of gravity only, with no engine or driving force." },
+                    { "term": "Parabola", "definition": "The curved (arch-shaped) path that a projectile follows through the air." },
+                    { "term": "Resolving a vector", "definition": "Splitting one vector into a horizontal and a vertical component that together have the same effect." },
+                    { "term": "Angle of elevation", "definition": "The angle of a launch measured above the horizontal." },
+                    { "term": "Angle of depression", "definition": "The angle of a path measured below the horizontal." },
+                    { "term": "Centre of mass", "definition": "The single point at which all the mass of an object can be considered to be concentrated." },
+                    { "term": "Centripetal force", "definition": "The inward net force that keeps an object moving along a circular path, given by F = mv²/r." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is a projectile?", "back": "Any object moving through the air under gravity alone, with no engine or driving force (e.g. a thrown stone or kicked ball)." },
+                { "front": "What happens to the horizontal velocity of a projectile (ignoring air resistance)?", "back": "It stays constant for the whole flight, because there is no horizontal force." },
+                { "front": "How do you resolve a launch velocity u at angle θ?", "back": "Horizontal: uₓ = u cos θ. Vertical: u_y = u sin θ." },
+                { "front": "At what launch angle is the range greatest on flat ground?", "back": "45°, where range R = u² / g." },
+                { "front": "What is the formula for centripetal force?", "back": "F = mv² / r, directed toward the centre of the circle." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Projectile basics",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Ignoring air resistance, what happens to the horizontal velocity of a projectile during its flight?",
+              "options": ["It increases steadily", "It decreases steadily", "It stays constant", "It becomes zero at the top"],
+              "answer": "2",
+              "explanation": "With no horizontal force there is no horizontal acceleration, so the horizontal velocity remains constant throughout the flight."
+            },
+            {
+              "topic": "Acceleration due to gravity",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the approximate acceleration due to gravity (Standard Gravity) used in these calculations?",
+              "options": ["1.0 m/s²", "9.81 m/s²", "98.1 m/s²", "0.98 m/s²"],
+              "answer": "1",
+              "explanation": "Standard Gravity is about 9.81 m/s², the rate at which objects accelerate downward near Earth's surface when air resistance is ignored."
+            },
+            {
+              "topic": "Resolving velocity",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A ball is launched at 10 m/s at 30° above the horizontal. What is its initial vertical velocity component?",
+              "options": ["10 m/s", "8.7 m/s", "5.0 m/s", "0 m/s"],
+              "answer": "2",
+              "explanation": "Vertical component = u sin θ = 10 × sin 30° = 10 × 0.5 = 5.0 m/s."
+            },
+            {
+              "topic": "Maximum range",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "On flat ground and ignoring air resistance, which launch angle gives the greatest horizontal range?",
+              "options": ["30°", "45°", "60°", "90°"],
+              "answer": "1",
+              "explanation": "The range R = u² sin 2θ / g is largest when sin 2θ = 1, which happens at 2θ = 90°, so θ = 45°."
+            },
+            {
+              "topic": "Circular motion",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A 2.0 kg ball moves in a circle of radius 0.50 m at a speed of 3.0 m/s. What is the centripetal force?",
+              "options": ["12 N", "18 N", "36 N", "6.0 N"],
+              "answer": "2",
+              "explanation": "F = mv²/r = 2.0 × (3.0)² / 0.50 = 2.0 × 9.0 / 0.50 = 18 / 0.50 = 36 N."
+            },
+            {
+              "topic": "Projectile flight time",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A stone is thrown straight up at 19.6 m/s. Using g = 9.8 m/s², how long does it take to reach its highest point?",
+              "options": ["1.0 s", "2.0 s", "4.0 s", "0.5 s"],
+              "answer": "1",
+              "explanation": "At the top, final vertical velocity is 0. Using v = u − gt: 0 = 19.6 − 9.8t, so t = 19.6 / 9.8 = 2.0 s."
+            }
+          ]
+        },
+        {
+          "title": "Electrostatics",
+          "description": "The study of electric charges at rest, the forces between them, electric fields, potential, and capacitors.",
+          "lessons": [
+            {
+              "title": "Electric Charge, Fields and Capacitors",
+              "summary": "Discover how electric charges attract and repel, how to calculate the force and field around a charge, and how capacitors store charge.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Electricity at rest",
+                  "body": "Have you ever rubbed a plastic pen on your hair and used it to pick up tiny pieces of paper? Or felt a small shock after walking across a dry floor? These are examples of **static electricity** — electric charge that stays in one place.\n\n**Electrostatics** is the study of electric charges that are *not moving*. Everything around us is made of atoms, and atoms contain charged particles: **protons** (positive) and **electrons** (negative). When we rub two materials together, electrons can move from one to the other, leaving one object positively charged and the other negatively charged."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- State that there are two types of charge and describe how they interact.\n- State and use **Coulomb's law** to find the force between two charges.\n- Define and describe an **electric field** and calculate its strength.\n- Explain **electric potential** and **potential difference (voltage)**.\n- Define **capacitance** and use the formula `C = Q / V`."
+                },
+                {
+                  "type": "theory",
+                  "title": "Charge, force, field, and capacitance",
+                  "body": "**Electric charge** is a basic property of matter. Its SI unit is the **coulomb (C)**. There are two kinds:\n- **Positive charge** (carried by protons)\n- **Negative charge** (carried by electrons)\n\nThe golden rule is: **like charges repel, unlike charges attract.** Two positive charges push apart; a positive and a negative charge pull together.\n\n**Coulomb's law** tells us how strong the force is between two point charges:\n\n`F = k × (q₁ × q₂) / r²`\n\nwhere **F** = force (N), **q₁** and **q₂** = the two charges (C), **r** = distance between them (m), and **k** ≈ **9.0 × 10⁹ N·m²/C²** (Coulomb's constant). Notice the force gets weaker very fast as the distance grows — doubling the distance makes the force **four times** smaller (an inverse-square law).\n\n**Electric field:** A charge creates an invisible region of influence called an **electric field** around it. The field strength **E** is the force felt per unit positive charge:\n\n`E = F / q`  (unit: newton per coulomb, N/C)\n\nThe field around a single point charge is `E = kQ / r²`. Field lines point **away from** positive charges and **toward** negative charges.\n\n**Electric potential and voltage:** **Electric potential** is the electrical potential energy per unit charge at a point. The **potential difference (V)**, often called **voltage**, between two points is the energy moved per coulomb of charge:\n\n`V = W / Q`  (unit: volt, V, where 1 V = 1 J/C)\n\n**Capacitors and capacitance:** A **capacitor** is a device that stores electric charge. It is usually two metal plates separated by an insulator. The **capacitance** measures how much charge it stores per volt:\n\n`C = Q / V`\n\nwhere **C** = capacitance in **farads (F)**, **Q** = stored charge (C), **V** = voltage across it (V). One farad is very large, so we often use microfarads (1 µF = 10⁻⁶ F)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: force between two charges",
+                  "body": "**Problem:** Two small charges, `q₁ = +2.0 × 10⁻⁶ C` and `q₂ = +3.0 × 10⁻⁶ C`, are placed **0.20 m** apart. Find the force between them. Use k = 9.0 × 10⁹ N·m²/C².\n\n**Step 1 — Write Coulomb's law.**\n`F = k × (q₁ × q₂) / r²`\n\n**Step 2 — Substitute the values.**\n`F = (9.0 × 10⁹) × (2.0 × 10⁻⁶ × 3.0 × 10⁻⁶) / (0.20)²`\n\n**Step 3 — Work out the top.**\n`2.0 × 10⁻⁶ × 3.0 × 10⁻⁶ = 6.0 × 10⁻¹²`\n`(9.0 × 10⁹) × (6.0 × 10⁻¹²) = 54 × 10⁻³ = 0.054`\n\n**Step 4 — Work out the bottom.**\n`(0.20)² = 0.040`\n\n**Step 5 — Divide.**\n`F = 0.054 / 0.040 = 1.35 N`\n\n**Answer:** The force is about **1.35 N**, and because both charges are positive, it is a **repulsive** (pushing apart) force."
+                },
+                {
+                  "type": "visual",
+                  "title": "A simple charged capacitor",
+                  "body": "A capacitor connected to a battery stores charge on its two plates. The 6 V battery pushes charge onto the plates until the voltage across the capacitor equals the battery voltage. The larger the capacitance, the more charge it holds at that voltage.",
+                  "visual": {
+                    "kind": "circuit",
+                    "data": {
+                      "elements": [
+                        { "type": "battery", "label": "6V" },
+                        { "type": "capacitor", "label": "C" }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Forgetting to square the distance.** Coulomb's law has `r²` in the denominator, not `r`. Always square the separation.\n- **Mixing up the powers of ten.** Charges are usually micro-coulombs (10⁻⁶ C). Convert carefully before substituting.\n- **Confusing attraction and repulsion.** Like charges *repel*; unlike charges *attract*. The sign of the charges tells you the direction.\n- **Mixing up field (E) and potential (V).** Field is *force per charge* (N/C); potential is *energy per charge* (J/C = V).\n- **Confusing the capacitor formula.** Capacitance is C = Q/V, not V/Q. A bigger capacitor stores *more* charge at the same voltage."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to remember it",
+                  "body": "- **\"Opposites attract, likes repel\"** — same as magnets and even friendships!\n- For Coulomb's law remember **\"k q q over r-squared\"** — say it like a little rhyme.\n- The constant **k ≈ 9 × 10⁹** is easy: just remember **\"nine billion.\"**\n- For capacitance use **\"Q = CV\"** (the \"queen of capacitors\"): rearrange to get C = Q/V or V = Q/C.\n- Field lines: **arrows out of positive, into negative** — think of positive as a *source* (like a sprinkler) and negative as a *sink* (like a drain)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers below.\n\n**Q1.** Two charges of +4 µC and −4 µC are placed near each other. Do they attract or repel?\n\n**Q2.** A capacitor stores 12 µC of charge when connected to a 6 V battery. What is its capacitance?\n\n**Q3.** The electric field at a point is 200 N/C. What force acts on a charge of 5.0 × 10⁻⁶ C placed there?\n\n**Answers:**\n- **A1.** They have opposite signs, so they **attract**.\n- **A2.** `C = Q/V = 12 × 10⁻⁶ / 6 = 2 × 10⁻⁶ F =` **2 µF**.\n- **A3.** `F = E × q = 200 × 5.0 × 10⁻⁶ =` **1.0 × 10⁻³ N (0.001 N)**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points",
+                  "body": "- There are **two types of charge**: positive and negative. **Like charges repel, unlike attract.**\n- Charge is measured in **coulombs (C)**.\n- **Coulomb's law:** `F = k q₁q₂ / r²`, with k ≈ 9.0 × 10⁹ N·m²/C². It is an **inverse-square** law.\n- An **electric field** strength is `E = F/q` (N/C); lines go out of positive and into negative charges.\n- **Potential difference (voltage)** is energy per charge: `V = W/Q` (volts).\n- A **capacitor** stores charge; **capacitance** `C = Q/V` is measured in **farads (F)**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms from this lesson.",
+                  "glossary": [
+                    { "term": "Electric charge", "definition": "A basic property of matter that causes electric forces; measured in coulombs (C). It can be positive or negative." },
+                    { "term": "Coulomb's law", "definition": "The rule that the force between two point charges is F = k q₁q₂ / r², proportional to the charges and inversely proportional to the square of the distance." },
+                    { "term": "Electric field", "definition": "The region around a charge where another charge feels a force; its strength is the force per unit charge, E = F/q." },
+                    { "term": "Potential difference (voltage)", "definition": "The energy transferred per unit charge between two points, V = W/Q, measured in volts." },
+                    { "term": "Capacitor", "definition": "A device that stores electric charge, usually two conducting plates separated by an insulator." },
+                    { "term": "Capacitance", "definition": "A measure of how much charge a capacitor stores per volt, C = Q/V, measured in farads (F)." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "State the rule for how charges interact.", "back": "Like charges repel; unlike (opposite) charges attract." },
+                { "front": "Write Coulomb's law.", "back": "F = k q₁q₂ / r², where k ≈ 9.0 × 10⁹ N·m²/C²." },
+                { "front": "What is electric field strength and its unit?", "back": "Force per unit positive charge, E = F/q, measured in newtons per coulomb (N/C)." },
+                { "front": "What is potential difference (voltage)?", "back": "The energy transferred per coulomb of charge, V = W/Q, measured in volts (V)." },
+                { "front": "Define capacitance and give its formula.", "back": "How much charge a capacitor stores per volt: C = Q/V, measured in farads (F)." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Types of charge",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Two objects both carry a positive charge. What force acts between them?",
+              "options": ["They attract", "They repel", "No force at all", "They become neutral"],
+              "answer": "1",
+              "explanation": "Like charges repel each other, so two positively charged objects push apart."
+            },
+            {
+              "topic": "Unit of charge",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the SI unit of electric charge?",
+              "options": ["Volt", "Ampere", "Coulomb", "Farad"],
+              "answer": "2",
+              "explanation": "Electric charge is measured in coulombs (C). The volt is for voltage, the ampere for current, and the farad for capacitance."
+            },
+            {
+              "topic": "Coulomb's law",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "If the distance between two charges is doubled, the electric force between them becomes:",
+              "options": ["Twice as large", "Half as large", "Four times smaller", "Unchanged"],
+              "answer": "2",
+              "explanation": "Coulomb's law is an inverse-square law (F ∝ 1/r²). Doubling r divides the force by 2² = 4, making it four times smaller."
+            },
+            {
+              "topic": "Electric field",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "An electric field of 100 N/C acts on a charge of 2.0 × 10⁻⁶ C. What force does the charge feel?",
+              "options": ["2.0 × 10⁻⁴ N", "50 N", "2.0 × 10⁻⁸ N", "200 N"],
+              "answer": "0",
+              "explanation": "F = E × q = 100 × 2.0 × 10⁻⁶ = 2.0 × 10⁻⁴ N."
+            },
+            {
+              "topic": "Capacitance",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A capacitor holds a charge of 20 µC when 4 V is applied across it. What is its capacitance?",
+              "options": ["80 µF", "5 µF", "0.2 µF", "24 µF"],
+              "answer": "1",
+              "explanation": "C = Q/V = 20 µC / 4 V = 5 µF."
+            },
+            {
+              "topic": "Coulomb's law calculation",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Two charges of +1.0 × 10⁻⁶ C each are 1.0 m apart. Using k = 9.0 × 10⁹ N·m²/C², the force between them is closest to:",
+              "options": ["9.0 × 10⁻³ N", "9.0 × 10³ N", "9.0 N", "9.0 × 10⁻⁶ N"],
+              "answer": "0",
+              "explanation": "F = k q₁q₂ / r² = 9.0 × 10⁹ × (1.0 × 10⁻⁶ × 1.0 × 10⁻⁶) / 1.0² = 9.0 × 10⁹ × 1.0 × 10⁻¹² = 9.0 × 10⁻³ N."
+            }
+          ]
+        },
+        {
+          "title": "Current Electricity",
+          "description": "How electric charge flows in circuits, Ohm's law, resistance, electrical energy, power, and safety.",
+          "lessons": [
+            {
+              "title": "Electric Current, Ohm's Law and Power",
+              "summary": "Learn what electric current is, how Ohm's law links voltage, current and resistance, and how to calculate electrical energy and power.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Electricity that flows",
+                  "body": "In the last unit, charges stayed still. Now we let them **move**. When charge flows through a wire, we call it an **electric current** — the same current that lights the lamps in your home and charges a mobile phone.\n\nThink of an electric circuit like the water pipes in a town. The **battery** is like a pump that pushes water, the **wires** are the pipes, and a **resistor** (such as a lamp) is a narrow section that the water struggles to pass through. Understanding how voltage, current, and resistance work together lets us design and use circuits safely."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **electric current** and state its unit.\n- State and use **Ohm's law**, `V = IR`.\n- Calculate the total resistance of resistors in **series** and in **parallel**.\n- Explain **e.m.f.** and **internal resistance** of a cell.\n- Calculate **electrical power** and **energy**.\n- Describe basic **electrical safety** rules."
+                },
+                {
+                  "type": "theory",
+                  "title": "Current, resistance, power, and safety",
+                  "body": "**Electric current (I)** is the rate of flow of electric charge:\n\n`I = Q / t`\n\nwhere **I** = current in **amperes (A)**, **Q** = charge in coulombs (C), and **t** = time in seconds. One ampere is one coulomb per second.\n\n**Potential difference (V)** is the energy given to each coulomb of charge by the battery, measured in **volts (V)**.\n\n**Resistance (R)** measures how much a component opposes the flow of current. Its unit is the **ohm (Ω)**.\n\n**Ohm's law** links these three: for many conductors at constant temperature, the current is proportional to the voltage:\n\n`V = I × R`\n\nYou can rearrange this to `I = V/R` or `R = V/I`.\n\n**Resistors in series** (connected end to end): the current is the same through each, and resistances add up:\n`R_total = R₁ + R₂ + R₃ + …`\n\n**Resistors in parallel** (connected side by side): the voltage is the same across each, and the total resistance is found from:\n`1/R_total = 1/R₁ + 1/R₂ + …`\nThe combined resistance is always *smaller* than the smallest single resistor.\n\n**E.m.f. and internal resistance:** A real cell is not perfect. Its **electromotive force (e.m.f., symbol ε)** is the total energy it gives per coulomb. But the cell itself has a small **internal resistance (r)**, so some energy is lost inside it. The useful voltage at the terminals is:\n`V = ε − I r`\n\n**Electrical power (P)** is the rate at which electrical energy is used:\n`P = V × I`  (unit: watt, W)\nUsing Ohm's law, this can also be written `P = I²R` or `P = V²/R`.\n\n**Electrical energy (E)** used over a time t is:\n`E = P × t = V × I × t`  (unit: joule, J)\n\n**Safety:** Electricity can be dangerous. Key rules include: use the correct **fuse**, **earth** metal appliances, never touch sockets with wet hands, and switch off the supply before repairs. In Ethiopia the mains supply is about **220 V**, which can give a fatal shock."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: a lamp in a circuit",
+                  "body": "**Problem:** A lamp is connected to a **12 V** battery and a current of **0.5 A** flows through it. Find (a) the resistance of the lamp, and (b) the power it uses.\n\n**Part (a) — Resistance using Ohm's law.**\n`R = V / I`\n`R = 12 / 0.5`\n`R = 24 Ω`\nSo the lamp has a resistance of **24 Ω**.\n\n**Part (b) — Power.**\n`P = V × I`\n`P = 12 × 0.5`\n`P = 6 W`\nSo the lamp uses **6 watts** of power.\n\n**Extra:** How much energy does it use in 1 minute (60 s)?\n`E = P × t = 6 × 60 = 360 J`\nThe lamp converts **360 joules** of electrical energy in one minute."
+                },
+                {
+                  "type": "visual",
+                  "title": "A simple series circuit",
+                  "body": "This circuit shows a battery driving current through a single resistor (such as a lamp). The battery provides the voltage that pushes the current around the loop, and the resistor controls how much current flows according to Ohm's law.",
+                  "visual": {
+                    "kind": "circuit",
+                    "data": {
+                      "elements": [
+                        { "type": "battery", "label": "12V" },
+                        { "type": "resistor", "label": "24Ω" }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Confusing the series and parallel rules.** In **series** resistances simply add. In **parallel** you must add the *reciprocals* (1/R), then flip the answer.\n- **Forgetting to invert in parallel.** After working out `1/R_total`, you must take the reciprocal to get R_total itself.\n- **Mixing up the units of time.** Current is charge per *second*; convert minutes to seconds before using I = Q/t.\n- **Believing parallel resistance is bigger.** Adding a resistor in parallel always *decreases* the total resistance.\n- **Forgetting internal resistance.** The terminal voltage of a real battery is less than its e.m.f. when current flows: V = ε − Ir."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to remember it",
+                  "body": "- **The \"VIR triangle\"**: write V on top, I and R on the bottom. Cover the one you want — V = IR, I = V/R, R = V/I.\n- **\"Series = Sum\"** — both start with S, so in series you just add the resistances.\n- For power, remember **\"P = VI, the power twins\"**; and the two cousins P = I²R and P = V²/R.\n- **\"Twinkle\" for energy**: Energy = Power × time.\n- Parallel resistors: think **\"more paths, less resistance\"** — extra roads let more cars (current) through."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers below.\n\n**Q1.** A current of 2 A flows through a 5 Ω resistor. What is the voltage across it?\n\n**Q2.** Two resistors of 3 Ω and 6 Ω are connected in series. What is the total resistance?\n\n**Q3.** An electric heater uses 220 V and draws 5 A. What is its power?\n\n**Answers:**\n- **A1.** `V = IR = 2 × 5 =` **10 V**.\n- **A2.** Series: `R = 3 + 6 =` **9 Ω**.\n- **A3.** `P = VI = 220 × 5 =` **1100 W (1.1 kW)**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points",
+                  "body": "- **Electric current** `I = Q/t` is the rate of flow of charge, measured in **amperes (A)**.\n- **Ohm's law:** `V = IR`. Resistance is measured in **ohms (Ω)**.\n- **Series:** resistances add (`R = R₁ + R₂`). **Parallel:** `1/R = 1/R₁ + 1/R₂`, giving a smaller total.\n- A real cell has **e.m.f. ε** and **internal resistance r**, so `V = ε − Ir`.\n- **Power:** `P = VI = I²R = V²/R`, in **watts (W)**. **Energy:** `E = Pt`, in **joules (J)**.\n- Follow **safety rules**: correct fuse, earthing, dry hands, switch off before repairs."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms from this lesson.",
+                  "glossary": [
+                    { "term": "Electric current", "definition": "The rate of flow of electric charge, I = Q/t, measured in amperes (A)." },
+                    { "term": "Resistance", "definition": "A measure of how strongly a component opposes the flow of current, measured in ohms (Ω)." },
+                    { "term": "Ohm's law", "definition": "For a conductor at constant temperature, voltage equals current times resistance: V = IR." },
+                    { "term": "Electromotive force (e.m.f.)", "definition": "The total energy a cell gives to each coulomb of charge, measured in volts." },
+                    { "term": "Internal resistance", "definition": "The small resistance inside a cell that causes energy to be lost within the cell itself." },
+                    { "term": "Electrical power", "definition": "The rate at which electrical energy is transferred, P = VI, measured in watts (W)." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is electric current and its unit?", "back": "The rate of flow of charge, I = Q/t, measured in amperes (A)." },
+                { "front": "State Ohm's law.", "back": "V = IR — voltage equals current times resistance (for a conductor at constant temperature)." },
+                { "front": "How do you find total resistance in series?", "back": "Add the resistances: R_total = R₁ + R₂ + R₃ + …" },
+                { "front": "How do you find total resistance in parallel?", "back": "1/R_total = 1/R₁ + 1/R₂ + … then take the reciprocal. The total is smaller than any single resistor." },
+                { "front": "Give three formulas for electrical power.", "back": "P = VI, P = I²R, and P = V²/R, all in watts (W)." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Electric current",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the SI unit of electric current?",
+              "options": ["Volt", "Ampere", "Ohm", "Watt"],
+              "answer": "1",
+              "explanation": "Current is measured in amperes (A), where one ampere equals one coulomb of charge flowing per second."
+            },
+            {
+              "topic": "Ohm's law",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A 6 V battery drives a current of 3 A through a resistor. What is the resistance?",
+              "options": ["18 Ω", "2 Ω", "0.5 Ω", "9 Ω"],
+              "answer": "1",
+              "explanation": "Using R = V/I = 6/3 = 2 Ω."
+            },
+            {
+              "topic": "Series resistors",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Three resistors of 2 Ω, 3 Ω and 5 Ω are connected in series. What is the total resistance?",
+              "options": ["10 Ω", "0.97 Ω", "1.03 Ω", "30 Ω"],
+              "answer": "0",
+              "explanation": "In series, resistances simply add: 2 + 3 + 5 = 10 Ω."
+            },
+            {
+              "topic": "Parallel resistors",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Two 4 Ω resistors are connected in parallel. What is the total resistance?",
+              "options": ["8 Ω", "4 Ω", "2 Ω", "0.5 Ω"],
+              "answer": "2",
+              "explanation": "For two equal resistors in parallel, R_total = R/2 = 4/2 = 2 Ω. (1/R = 1/4 + 1/4 = 1/2, so R = 2 Ω.)"
+            },
+            {
+              "topic": "Electrical power",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A device with resistance 10 Ω carries a current of 3 A. What power does it dissipate?",
+              "options": ["30 W", "90 W", "3.3 W", "900 W"],
+              "answer": "1",
+              "explanation": "Using P = I²R = 3² × 10 = 9 × 10 = 90 W."
+            },
+            {
+              "topic": "Internal resistance",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A cell has an e.m.f. of 1.5 V and internal resistance 0.5 Ω. When it supplies a current of 1 A, what is the terminal voltage?",
+              "options": ["1.5 V", "2.0 V", "1.0 V", "0.5 V"],
+              "answer": "2",
+              "explanation": "Terminal voltage V = ε − Ir = 1.5 − (1 × 0.5) = 1.5 − 0.5 = 1.0 V."
+            }
+          ]
+        },
+        {
+          "title": "Electromagnetism",
+          "description": "The link between electricity and magnetism: magnetic fields, magnetic forces, and electromagnetic induction.",
+          "lessons": [
+            {
+              "title": "Magnetism and Electromagnetic Induction",
+              "summary": "Explore magnetic fields, the force on a current in a magnetic field, and how a changing magnetic field can generate electricity.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Magnets and moving charges",
+                  "body": "You have probably played with a **magnet** and felt it pull on iron nails or stick to a fridge door. Magnetism and electricity may seem like separate ideas, but they are deeply connected. This connection — called **electromagnetism** — is one of the most important discoveries in physics.\n\nA moving electric charge (a current) creates a **magnetic field**. And, amazingly, a changing magnetic field can push charges to create a current. This two-way relationship is how electric motors spin and how power stations generate the electricity that reaches Ethiopian homes."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Describe the **magnetic field** around a magnet and a current-carrying wire.\n- State that a current in a magnetic field experiences a **force**.\n- Use the formula `F = BIL` for the force on a wire.\n- Explain **electromagnetic induction**.\n- State **Faraday's law** and **Lenz's law** in simple terms.\n- Describe how a **generator** produces electricity."
+                },
+                {
+                  "type": "theory",
+                  "title": "Magnetic fields, forces, and induction",
+                  "body": "**Magnetic poles:** Every magnet has a **north pole (N)** and a **south pole (S)**. Like poles **repel**, unlike poles **attract** — just like electric charges.\n\n**Magnetic field:** The region around a magnet where its force can be felt is the **magnetic field**. We draw it using **field lines** that run from **N to S** outside the magnet. The closer the lines, the stronger the field. The strength of the field is called the **magnetic flux density (B)**, measured in **tesla (T)**.\n\n**Field around a current:** A wire carrying current is surrounded by a circular magnetic field. This was discovered by Oersted when a compass needle moved near a current. Wrapping the wire into a coil (a **solenoid**) makes a strong, magnet-like field — this is an **electromagnet**.\n\n**Force on a current-carrying wire:** When a wire carrying current sits in a magnetic field, it feels a **force** (this is the *motor effect*). The size of the force is:\n\n`F = B × I × L`\n\nwhere **F** = force (N), **B** = magnetic flux density (T), **I** = current (A), and **L** = length of wire in the field (m). The force is greatest when the wire is at right angles to the field. The direction is given by **Fleming's left-hand rule**.\n\n**Electromagnetic induction:** If you move a magnet near a coil of wire (or move the wire near a magnet), a voltage — and therefore a current — is produced in the wire. This is **electromagnetic induction**. No battery is needed; the movement does the work.\n\n**Faraday's law:** The size of the induced voltage (e.m.f.) increases when:\n- the magnet moves **faster**,\n- the field is **stronger**, or\n- the coil has **more turns**.\nIn short, a *faster change* in magnetic field through the coil gives a *bigger* induced e.m.f.\n\n**Lenz's law:** The induced current always flows in a direction that **opposes the change** that caused it. This is really a statement of the conservation of energy.\n\n**Generators:** A **generator** uses induction to make electricity. A coil is spun inside a magnetic field; as it turns, the magnetic field through it keeps changing, inducing an alternating voltage. Hydroelectric stations such as those on Ethiopia's rivers spin huge generators this way."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: force on a wire",
+                  "body": "**Problem:** A straight wire of length **0.20 m** carries a current of **3.0 A**. It lies at right angles to a magnetic field of flux density **0.50 T**. Find the force on the wire.\n\n**Step 1 — Write the formula.**\n`F = B × I × L`\n\n**Step 2 — Substitute the values.**\n`F = 0.50 × 3.0 × 0.20`\n\n**Step 3 — Multiply step by step.**\n`0.50 × 3.0 = 1.5`\n`1.5 × 0.20 = 0.30`\n\n**Answer:** The force on the wire is **0.30 N**.\n\n**Note:** Because the wire is at right angles (90°) to the field, this is the *maximum* possible force. If the wire were parallel to the field, the force would be zero."
+                },
+                {
+                  "type": "visual",
+                  "title": "Magnetic field lines of a bar magnet",
+                  "body": "The diagram below shows the magnetic field around a bar magnet. The field lines leave the **north pole (N)**, curve around the outside, and enter the **south pole (S)**. Where the lines are closest together (near the poles) the field is strongest.",
+                  "visual": {
+                    "kind": "image",
+                    "alt": "A bar magnet with curved field lines running from the north pole around to the south pole; lines are densest near each pole.",
+                    "caption": "Magnetic field lines run from N to S outside a bar magnet."
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Thinking a steady magnet induces a current.** Induction needs a **changing** magnetic field. A magnet held still next to a coil produces **no** current.\n- **Forgetting the right angle in F = BIL.** This formula gives the full force only when the wire is perpendicular to the field. Parallel to the field, the force is zero.\n- **Confusing attract and repel for poles.** Like poles (N–N or S–S) repel; unlike poles (N–S) attract.\n- **Drawing field lines the wrong way.** Outside a magnet, field lines always go from **north to south**.\n- **Ignoring Lenz's law direction.** The induced current opposes the change that made it; it does not help the change."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to remember it",
+                  "body": "- **Fleming's left hand = force (motor):** thu**M**b = **M**otion (force), **F**irst finger = **F**ield, se**C**ond finger = **C**urrent.\n- **\"BIL\"** sounds like a name — *Bill* the wire feels a force F = BIL.\n- Field lines: **\"North to South on the outside\"** — they leave from N like water from a fountain.\n- **Lenz = Lazy/opposing:** the induced current is \"unhappy\" and fights the change.\n- **Faraday's recipe for a bigger voltage: \"faster, stronger, more turns.\"**"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers below.\n\n**Q1.** Bring two north poles of magnets close together. Do they attract or repel?\n\n**Q2.** A wire of length 0.5 m carries 4 A at right angles to a field of 0.2 T. What is the force on it?\n\n**Q3.** Name three ways to increase the voltage induced in a coil by a moving magnet.\n\n**Answers:**\n- **A1.** Like poles **repel**.\n- **A2.** `F = BIL = 0.2 × 4 × 0.5 =` **0.4 N**.\n- **A3.** Move the magnet **faster**, use a **stronger** magnet, and use a coil with **more turns**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points",
+                  "body": "- Magnets have **north and south poles**; like poles repel, unlike attract.\n- A **magnetic field** is shown by lines from **N to S**; its strength is **flux density B** in **tesla (T)**.\n- A current creates a magnetic field; a coil (solenoid) makes an **electromagnet**.\n- A current in a field feels a force: `F = BIL` (max when wire ⟂ field). Direction from **Fleming's left-hand rule**.\n- **Electromagnetic induction:** a *changing* magnetic field induces a voltage.\n- **Faraday:** faster/stronger/more turns → bigger e.m.f. **Lenz:** induced current opposes the change.\n- **Generators** use induction to produce electricity."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms from this lesson.",
+                  "glossary": [
+                    { "term": "Magnetic field", "definition": "The region around a magnet or current where a magnetic force can be felt, shown by field lines from north to south." },
+                    { "term": "Magnetic flux density (B)", "definition": "A measure of the strength of a magnetic field, measured in tesla (T)." },
+                    { "term": "Motor effect", "definition": "The force experienced by a current-carrying wire placed in a magnetic field, F = BIL." },
+                    { "term": "Electromagnetic induction", "definition": "The production of a voltage (and current) in a conductor by a changing magnetic field." },
+                    { "term": "Faraday's law", "definition": "The induced e.m.f. is larger when the magnetic field through a coil changes faster, is stronger, or links more turns." },
+                    { "term": "Lenz's law", "definition": "The induced current always flows in a direction that opposes the change producing it (conservation of energy)." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "How do magnetic poles interact?", "back": "Like poles repel; unlike poles attract." },
+                { "front": "What is the formula for the force on a current-carrying wire in a magnetic field?", "back": "F = BIL, where B is flux density (T), I is current (A), and L is length (m); maximum when the wire is perpendicular to the field." },
+                { "front": "What is electromagnetic induction?", "back": "The production of a voltage (and current) in a conductor by a changing magnetic field." },
+                { "front": "State Lenz's law.", "back": "The induced current flows in a direction that opposes the change that caused it." },
+                { "front": "Name three ways to increase induced e.m.f.", "back": "Move the magnet faster, use a stronger magnet, and use a coil with more turns." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Magnetic poles",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What happens when the north pole of one magnet is brought near the south pole of another?",
+              "options": ["They repel", "They attract", "Nothing happens", "They lose magnetism"],
+              "answer": "1",
+              "explanation": "Unlike poles attract each other, so a north and a south pole pull together."
+            },
+            {
+              "topic": "Magnetic field lines",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Outside a bar magnet, in which direction do magnetic field lines point?",
+              "options": ["From south to north", "From north to south", "In random directions", "There are no field lines"],
+              "answer": "1",
+              "explanation": "By convention, magnetic field lines run from the north pole to the south pole outside a magnet."
+            },
+            {
+              "topic": "Force on a wire",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A 0.40 m wire carries 5.0 A at right angles to a 0.30 T field. What is the force on it?",
+              "options": ["0.60 N", "6.0 N", "0.06 N", "1.2 N"],
+              "answer": "0",
+              "explanation": "F = BIL = 0.30 × 5.0 × 0.40 = 0.60 N."
+            },
+            {
+              "topic": "Electromagnetic induction",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A magnet is held completely still inside a coil of wire. What current is induced?",
+              "options": ["A large current", "A small steady current", "No current", "An increasing current"],
+              "answer": "2",
+              "explanation": "Induction requires a changing magnetic field. A stationary magnet produces no change, so no current is induced."
+            },
+            {
+              "topic": "Faraday's law",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Which change would NOT increase the voltage induced in a coil by a moving magnet?",
+              "options": ["Moving the magnet faster", "Using a stronger magnet", "Adding more turns to the coil", "Holding the magnet still closer to the coil"],
+              "answer": "3",
+              "explanation": "Holding the magnet still produces no change in field, so no voltage is induced. The other three all increase the rate of change and thus the induced e.m.f."
+            },
+            {
+              "topic": "Lenz's law",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Lenz's law states that the induced current flows in a direction that:",
+              "options": ["Helps the change that caused it", "Opposes the change that caused it", "Is always clockwise", "Has no fixed direction"],
+              "answer": "1",
+              "explanation": "Lenz's law says the induced current always opposes the change producing it, which is a consequence of the conservation of energy."
+            }
+          ]
+        },
+        {
+          "title": "Introduction to Electronics",
+          "description": "The basics of electronics: vacuum tubes, conductors, insulators, semiconductors, doping, and transistors.",
+          "lessons": [
+            {
+              "title": "Semiconductors and Transistors",
+              "summary": "Learn how materials are classed by how well they conduct, how doping creates semiconductors, and how diodes and transistors work.",
+              "estimatedMinutes": 28,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "The heart of modern devices",
+                  "body": "Every mobile phone, radio, television, and computer relies on **electronics**. At the centre of these devices are tiny components made from special materials called **semiconductors**.\n\nLong ago, electronics used large, hot, fragile **vacuum tubes**. Today these have been replaced by small, reliable **transistors** made from semiconductors like silicon. Understanding how these materials and components work helps explain how the technology around us actually functions."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Describe what a **vacuum tube** does in simple terms.\n- Classify materials as **conductors**, **insulators**, or **semiconductors**.\n- Explain how **doping** changes a semiconductor into **n-type** or **p-type**.\n- Describe how a **diode** allows current in only one direction.\n- Describe the basic structure and use of a **transistor** (npn and pnp)."
+                },
+                {
+                  "type": "theory",
+                  "title": "Conductors, semiconductors, doping, and transistors",
+                  "body": "**Vacuum tubes:** A **vacuum tube** is a sealed glass tube with the air removed. Inside, a heated part releases electrons that flow to a positive plate. Early tubes (called diodes and triodes) were used to control and amplify electrical signals, but they were bulky and used a lot of power.\n\n**Conductors, insulators, semiconductors:** Materials are grouped by how easily electric current passes through them:\n- **Conductors** (e.g. copper, aluminium) let current flow easily because they have many free electrons.\n- **Insulators** (e.g. rubber, glass, plastic) hardly let any current flow.\n- **Semiconductors** (e.g. **silicon**, **germanium**) are in between. They conduct only a little when pure, but their conduction can be controlled — which makes them extremely useful.\n\n**Doping:** Pure silicon is a poor conductor. By adding tiny amounts of other elements — a process called **doping** — we change how it conducts:\n- **n-type:** adding an element with extra electrons (e.g. phosphorus) gives free **negative** charge carriers (electrons).\n- **p-type:** adding an element with fewer electrons (e.g. boron) creates **\"holes\"** that behave like positive charge carriers.\n\n**The p-n junction (diode):** When a piece of p-type material is joined to n-type material, it forms a **p-n junction**, which is a **diode**. A diode lets current flow **easily in one direction** (called *forward bias*) but blocks it in the other direction (*reverse bias*). This makes diodes useful for converting alternating current to direct current.\n\n**Transistors:** A **transistor** is made of three doped layers. There are two types:\n- **npn** (n-type, p-type, n-type)\n- **pnp** (p-type, n-type, p-type)\nThe three parts are called the **emitter**, **base**, and **collector**. A small current into the base controls a much larger current between the collector and emitter. This means a transistor can act as:\n- an **amplifier** (making a small signal larger), or\n- a **switch** (turning a current on or off).\n\nTransistors are the building blocks of all modern computer chips, where billions of them work together."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: identifying materials and behaviour",
+                  "body": "**Problem:** A student tests three materials in a simple circuit with a battery and a bulb. With material A the bulb is bright; with material B it does not light at all; with material C the bulb glows faintly and gets brighter when the material is warmed. Classify each material and explain.\n\n**Step 1 — Material A (bulb bright).** Current flows easily, so it has many free electrons. **Material A is a conductor** (such as copper).\n\n**Step 2 — Material B (no light).** Almost no current flows, so it has very few free charge carriers. **Material B is an insulator** (such as plastic or glass).\n\n**Step 3 — Material C (faint glow, brighter when warm).** It conducts only a little, and warming it increases conduction. This is the signature behaviour of a **semiconductor** (such as silicon): heat frees more charge carriers, so conduction rises with temperature.\n\n**Conclusion:** A = conductor, B = insulator, C = semiconductor. The temperature test is the key clue that C is a semiconductor, since unlike metals, semiconductors conduct *better* when heated."
+                },
+                {
+                  "type": "visual",
+                  "title": "A diode in a circuit",
+                  "body": "This circuit shows a diode connected to a battery. In **forward bias** (as drawn) the diode allows current to flow and the lamp lights. If the battery were reversed, the diode would block the current and the lamp would stay off.",
+                  "visual": {
+                    "kind": "circuit",
+                    "data": {
+                      "elements": [
+                        { "type": "battery", "label": "3V" },
+                        { "type": "diode", "label": "D" },
+                        { "type": "resistor", "label": "lamp" }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Thinking semiconductors behave like metals.** In metals, conduction *drops* when heated; in semiconductors, conduction *rises* when heated. They are different.\n- **Believing \"holes\" are real particles.** A **hole** is simply a missing electron that behaves like a positive charge. It is a useful idea, not an actual particle.\n- **Mixing up n-type and p-type.** **n-type has extra electrons (negative carriers); p-type has holes (positive carriers).** The letter hints at the charge.\n- **Thinking a diode conducts both ways.** A diode conducts in **one direction only** (forward bias).\n- **Confusing the transistor parts.** The small **base** current controls the large current between **collector** and **emitter**."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to remember it",
+                  "body": "- **n-type = Negative carriers (electrons); p-type = Positive carriers (holes).** The letter matches the charge.\n- **Diode = \"one-way door\"** for current — it only opens in the forward direction.\n- **Doping = adding a tiny \"dose\"** of impurity to change conduction.\n- Transistor parts: **\"E-B-C\" → Emitter, Base, Collector** (think \"every basic chip\").\n- A transistor is like a **tap**: a small turn of the handle (base current) controls a big flow of water (collector current)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers below.\n\n**Q1.** Name two common semiconductor materials.\n\n**Q2.** What type of charge carrier is added when silicon is doped to make it n-type?\n\n**Q3.** In which direction does a diode allow current to flow easily?\n\n**Answers:**\n- **A1.** **Silicon** and **germanium**.\n- **A2.** Extra **electrons** (negative charge carriers).\n- **A3.** In the **forward** direction (forward bias) only."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points",
+                  "body": "- Early electronics used **vacuum tubes**; modern electronics use **semiconductors**.\n- Materials are **conductors** (easy flow), **insulators** (almost no flow), or **semiconductors** (in between, controllable).\n- **Silicon** and **germanium** are common semiconductors.\n- **Doping** makes **n-type** (extra electrons) or **p-type** (holes) material.\n- A **diode** (p-n junction) lets current flow **one way only**.\n- A **transistor** (npn or pnp) uses a small **base** current to control a large current — it works as an **amplifier** or a **switch**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms from this lesson.",
+                  "glossary": [
+                    { "term": "Conductor", "definition": "A material that lets electric current flow easily because it has many free electrons (e.g. copper)." },
+                    { "term": "Insulator", "definition": "A material that hardly lets any current flow because it has very few free charge carriers (e.g. rubber)." },
+                    { "term": "Semiconductor", "definition": "A material such as silicon whose conduction is between that of a conductor and an insulator and can be controlled." },
+                    { "term": "Doping", "definition": "Adding tiny amounts of impurity to a semiconductor to change how it conducts, making n-type or p-type material." },
+                    { "term": "Diode", "definition": "A p-n junction device that allows current to flow in one direction only." },
+                    { "term": "Transistor", "definition": "A three-layer semiconductor device (npn or pnp) in which a small base current controls a larger current; used as an amplifier or switch." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "Name the three classes of materials by how they conduct electricity.", "back": "Conductors (easy flow), insulators (almost no flow), and semiconductors (in between, controllable)." },
+                { "front": "What is doping?", "back": "Adding a tiny amount of impurity to a semiconductor to change its conduction, creating n-type or p-type material." },
+                { "front": "What is the difference between n-type and p-type semiconductors?", "back": "n-type has extra free electrons (negative carriers); p-type has holes (positive carriers)." },
+                { "front": "What does a diode do?", "back": "It allows current to flow in one direction only (forward bias) and blocks it in the other." },
+                { "front": "How does a transistor work?", "back": "A small current into the base controls a much larger current between collector and emitter, acting as an amplifier or a switch." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Classifying materials",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of the following is the best example of an electrical conductor?",
+              "options": ["Rubber", "Copper", "Glass", "Dry wood"],
+              "answer": "1",
+              "explanation": "Copper is a metal with many free electrons, so it conducts electricity easily. The others are insulators."
+            },
+            {
+              "topic": "Semiconductors",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which material is a common semiconductor used in electronics?",
+              "options": ["Silicon", "Copper", "Plastic", "Aluminium"],
+              "answer": "0",
+              "explanation": "Silicon (along with germanium) is a widely used semiconductor. Copper and aluminium are conductors, and plastic is an insulator."
+            },
+            {
+              "topic": "Doping",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Doping silicon to create n-type material adds which kind of charge carrier?",
+              "options": ["Extra holes (positive)", "Extra electrons (negative)", "Extra protons", "No new carriers"],
+              "answer": "1",
+              "explanation": "n-type material is made by adding impurities that provide extra free electrons, which are negative charge carriers."
+            },
+            {
+              "topic": "Diodes",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the main property of a diode?",
+              "options": ["It stores charge", "It allows current in one direction only", "It increases voltage", "It blocks all current"],
+              "answer": "1",
+              "explanation": "A diode is a p-n junction that allows current to flow easily in the forward direction but blocks it in the reverse direction."
+            },
+            {
+              "topic": "Semiconductor behaviour",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "How does the electrical conduction of a pure semiconductor change as its temperature increases?",
+              "options": ["It decreases, like a metal", "It increases", "It stays exactly the same", "It becomes a perfect insulator"],
+              "answer": "1",
+              "explanation": "Unlike metals, semiconductors conduct better when heated because heat frees more charge carriers."
+            },
+            {
+              "topic": "Transistors",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "In a transistor, a small current into which terminal controls a much larger current?",
+              "options": ["The collector", "The emitter", "The base", "The cathode"],
+              "answer": "2",
+              "explanation": "A small base current controls the much larger current flowing between the collector and emitter, allowing the transistor to amplify or switch."
+            }
+          ]
+        },
+        {
+          "title": "Electromagnetic Waves and Geometrical Optics",
+          "description": "The nature of electromagnetic waves and how light behaves when it is reflected and refracted.",
+          "lessons": [
+            {
+              "title": "Electromagnetic Waves, Reflection and Refraction",
+              "summary": "Understand the electromagnetic spectrum, the law of reflection, and how light bends when it changes speed (refraction).",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Light and invisible waves",
+                  "body": "Light lets you see this page, but light is just one small part of a much larger family of waves called **electromagnetic (EM) waves**. Radio signals, microwaves, X-rays, and the warmth you feel from the Sun are all EM waves too.\n\n**Optics** is the study of light. In this lesson we look at two everyday behaviours of light: **reflection** (bouncing off surfaces, like a mirror) and **refraction** (bending when it passes from one material into another, like a straw that looks broken in a glass of water)."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What you will be able to do",
+                  "body": "By the end of this lesson you should be able to:\n\n- Describe **electromagnetic waves** and list parts of the **EM spectrum**.\n- State that all EM waves travel at the **speed of light** in a vacuum.\n- Use the wave equation `v = fλ`.\n- State and use the **law of reflection**.\n- Explain **refraction** and use **Snell's law** with the **refractive index**."
+                },
+                {
+                  "type": "theory",
+                  "title": "EM waves, reflection, and refraction",
+                  "body": "**Electromagnetic waves** are made of vibrating electric and magnetic fields that travel together. They are **transverse waves** and, unlike sound, they can travel through empty space (a vacuum).\n\n**Speed of light:** All EM waves travel through a vacuum at the same enormous speed:\n`c = 3.0 × 10⁸ m/s`\n\n**The EM spectrum:** EM waves are grouped by their wavelength and frequency. From longest wavelength (lowest frequency) to shortest:\n**radio waves → microwaves → infrared → visible light → ultraviolet → X-rays → gamma rays.**\nVisible light is the only part our eyes can see, running from red (longest) to violet (shortest).\n\n**The wave equation** links speed, frequency, and wavelength for any wave:\n`v = f × λ`\nwhere **v** = speed (m/s), **f** = frequency (Hz), and **λ** (lambda) = wavelength (m).\n\n**Reflection:** When light hits a smooth surface it bounces off. We measure angles from the **normal** — an imaginary line at right angles to the surface. The **law of reflection** states:\n`angle of incidence = angle of reflection`\nThe incoming ray, the reflected ray, and the normal all lie in the same plane.\n\n**Refraction:** When light passes from one transparent material into another (say from air into water), it changes **speed** and usually **bends**. Light bends *toward* the normal when it slows down (entering a denser material) and *away* from the normal when it speeds up.\n\n**Refractive index (n):** This number tells us how much a material slows light down:\n`n = (speed of light in vacuum) / (speed of light in the material) = c / v`\nA larger n means light travels more slowly and bends more. For example, water has n ≈ 1.33 and glass n ≈ 1.5.\n\n**Snell's law** gives the exact bending:\n`n₁ sin θ₁ = n₂ sin θ₂`\nwhere θ₁ is the angle in the first material and θ₂ is the angle in the second."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked example: refraction into glass",
+                  "body": "**Problem:** Light travels from air (n₁ = 1.0) into glass (n₂ = 1.5). It strikes the surface at an **angle of incidence of 30°**. Find the **angle of refraction** inside the glass.\n\n**Step 1 — Write Snell's law.**\n`n₁ sin θ₁ = n₂ sin θ₂`\n\n**Step 2 — Substitute the known values.**\n`1.0 × sin 30° = 1.5 × sin θ₂`\n\n**Step 3 — Work out the left side.**\n`sin 30° = 0.5`, so the left side = `1.0 × 0.5 = 0.5`.\n\n**Step 4 — Solve for sin θ₂.**\n`0.5 = 1.5 × sin θ₂`\n`sin θ₂ = 0.5 / 1.5 = 0.333`\n\n**Step 5 — Find the angle.**\n`θ₂ = sin⁻¹(0.333) ≈ 19.5°`\n\n**Answer:** The angle of refraction is about **19.5°**. Notice the angle got *smaller* — the light bent **toward the normal** because it slowed down entering the denser glass."
+                },
+                {
+                  "type": "visual",
+                  "title": "Reflection of light at a mirror",
+                  "body": "The diagram shows a ray of light hitting a flat mirror. The **normal** is drawn at right angles to the surface. The **angle of incidence** (between the incoming ray and the normal) always equals the **angle of reflection** (between the reflected ray and the normal).",
+                  "visual": {
+                    "kind": "image",
+                    "alt": "A light ray hitting a horizontal mirror, with a dashed normal line; the angle of incidence on one side of the normal equals the angle of reflection on the other side.",
+                    "caption": "Law of reflection: angle of incidence = angle of reflection, both measured from the normal."
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes students often make",
+                  "body": "- **Measuring angles from the surface.** All angles in optics are measured from the **normal** (the perpendicular line), not from the surface itself.\n- **Thinking light always bends the same way.** Light bends **toward** the normal when entering a *denser* material and **away** when entering a *less dense* one.\n- **Mixing up the refractive index formula.** It is `n = c/v` (vacuum speed over material speed), so n is always **greater than 1** for normal materials.\n- **Forgetting units in v = fλ.** Frequency is in hertz (Hz) and wavelength in metres (m).\n- **Confusing reflection and refraction.** Reflection is *bouncing off*; refraction is *bending while passing through*."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to remember it",
+                  "body": "- EM spectrum order: **\"Real Monsters Invade Very Unusual X-ray Games\"** → Radio, Microwave, Infrared, Visible, Ultraviolet, X-ray, Gamma.\n- Reflection rule is simply **\"i = r\"** (incidence equals reflection).\n- **\"Slow = toward, fast = away\"** for refraction: light slowing bends *toward* the normal.\n- Refractive index: **\"n = c over v\"**, and remember **\"n is never less than 1\"** for ordinary materials.\n- Speed of light: memorise **\"3 times ten to the eight\"** (3 × 10⁸ m/s)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice questions",
+                  "body": "Try these, then check the answers below.\n\n**Q1.** A wave has frequency 5.0 × 10¹⁴ Hz and travels at 3.0 × 10⁸ m/s. What is its wavelength?\n\n**Q2.** A light ray hits a mirror at an angle of incidence of 40°. What is the angle of reflection?\n\n**Q3.** Light travels at 2.0 × 10⁸ m/s in a certain glass. What is the refractive index of the glass? (Use c = 3.0 × 10⁸ m/s.)\n\n**Answers:**\n- **A1.** `λ = v/f = 3.0 × 10⁸ / 5.0 × 10¹⁴ = 6.0 × 10⁻⁷ m` (600 nm).\n- **A2.** By the law of reflection, the angle of reflection = **40°**.\n- **A3.** `n = c/v = 3.0 × 10⁸ / 2.0 × 10⁸ =` **1.5**."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key points",
+                  "body": "- **EM waves** are transverse waves of electric and magnetic fields that travel through a vacuum at `c = 3.0 × 10⁸ m/s`.\n- The **EM spectrum** (long to short): radio, microwave, infrared, visible, ultraviolet, X-ray, gamma.\n- Wave equation: `v = fλ`.\n- **Law of reflection:** angle of incidence = angle of reflection (measured from the normal).\n- **Refraction** is the bending of light when its speed changes; it bends **toward** the normal in a denser medium.\n- **Refractive index** `n = c/v`; **Snell's law:** `n₁ sin θ₁ = n₂ sin θ₂`."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key words",
+                  "body": "Important terms from this lesson.",
+                  "glossary": [
+                    { "term": "Electromagnetic wave", "definition": "A transverse wave of vibrating electric and magnetic fields that can travel through a vacuum at the speed of light." },
+                    { "term": "Electromagnetic spectrum", "definition": "The full range of EM waves arranged by wavelength: radio, microwave, infrared, visible, ultraviolet, X-ray, gamma." },
+                    { "term": "Normal", "definition": "An imaginary line drawn at right angles to a surface, used to measure angles in reflection and refraction." },
+                    { "term": "Law of reflection", "definition": "The rule that the angle of incidence equals the angle of reflection, both measured from the normal." },
+                    { "term": "Refraction", "definition": "The bending of light as it passes from one transparent medium to another and changes speed." },
+                    { "term": "Refractive index", "definition": "A number showing how much a material slows light, n = c/v; the larger it is, the more the light bends." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the speed of all EM waves in a vacuum?", "back": "About 3.0 × 10⁸ m/s (the speed of light, c)." },
+                { "front": "List the EM spectrum from longest to shortest wavelength.", "back": "Radio, microwave, infrared, visible light, ultraviolet, X-ray, gamma rays." },
+                { "front": "State the law of reflection.", "back": "The angle of incidence equals the angle of reflection, both measured from the normal." },
+                { "front": "What is the refractive index formula?", "back": "n = c/v, the speed of light in a vacuum divided by its speed in the material." },
+                { "front": "Write Snell's law of refraction.", "back": "n₁ sin θ₁ = n₂ sin θ₂." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Speed of EM waves",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the approximate speed of light (and all EM waves) in a vacuum?",
+              "options": ["3.0 × 10⁸ m/s", "3.0 × 10⁶ m/s", "340 m/s", "9.8 m/s"],
+              "answer": "0",
+              "explanation": "All electromagnetic waves travel through a vacuum at about 3.0 × 10⁸ m/s, the speed of light."
+            },
+            {
+              "topic": "EM spectrum",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of these EM waves has the longest wavelength?",
+              "options": ["X-rays", "Visible light", "Radio waves", "Gamma rays"],
+              "answer": "2",
+              "explanation": "Radio waves have the longest wavelength (and lowest frequency) of the listed waves; gamma rays have the shortest."
+            },
+            {
+              "topic": "Law of reflection",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A ray of light strikes a flat mirror with an angle of incidence of 25°. What is the angle of reflection?",
+              "options": ["50°", "25°", "65°", "0°"],
+              "answer": "1",
+              "explanation": "By the law of reflection, the angle of reflection equals the angle of incidence, so it is 25°."
+            },
+            {
+              "topic": "Wave equation",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A wave travels at 3.0 × 10⁸ m/s with a wavelength of 3.0 m. What is its frequency?",
+              "options": ["1.0 × 10⁸ Hz", "9.0 × 10⁸ Hz", "1.0 × 10⁻⁸ Hz", "3.0 × 10⁸ Hz"],
+              "answer": "0",
+              "explanation": "Rearranging v = fλ gives f = v/λ = 3.0 × 10⁸ / 3.0 = 1.0 × 10⁸ Hz."
+            },
+            {
+              "topic": "Refraction direction",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "When light passes from air into glass (a denser medium), how does it bend?",
+              "options": ["Away from the normal", "Toward the normal", "It does not bend", "It reflects back"],
+              "answer": "1",
+              "explanation": "Light slows down entering the denser glass, so it bends toward the normal."
+            },
+            {
+              "topic": "Refractive index",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Light travels at 2.0 × 10⁸ m/s inside a transparent material. Using c = 3.0 × 10⁸ m/s, what is the refractive index?",
+              "options": ["0.67", "1.5", "5.0", "6.0"],
+              "answer": "1",
+              "explanation": "n = c/v = 3.0 × 10⁸ / 2.0 × 10⁸ = 1.5."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

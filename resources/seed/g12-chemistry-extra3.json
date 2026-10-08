@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "chemistry",
+      "questions": [
+        {
+          "topic": "Solubility and temperature",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "For most solid solutes such as KNO3, raising the temperature of the water usually causes the amount that can dissolve to:",
+          "options": ["Decrease", "Increase", "Stay exactly the same", "Drop to zero"],
+          "answer": "1",
+          "explanation": "Dissolving most solids is endothermic, so higher temperature shifts the balance toward more dissolved solute, increasing solubility."
+        },
+        {
+          "topic": "Effect of pressure on gas solubility",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "According to Henry's law, when the partial pressure of a gas above a liquid is doubled at constant temperature, the solubility of that gas in the liquid:",
+          "options": ["Doubles", "Is halved", "Stays the same", "Becomes zero"],
+          "answer": "0",
+          "explanation": "Henry's law states gas solubility is directly proportional to partial pressure, so doubling the pressure doubles the dissolved amount."
+        },
+        {
+          "topic": "Parts per million",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A water sample contains 0.005 g of fluoride ion in 1000 g of solution. What is the concentration in parts per million (ppm)?",
+          "options": ["5 ppm", "0.5 ppm", "50 ppm", "500 ppm"],
+          "answer": "0",
+          "explanation": "ppm = (mass of solute / mass of solution) x 10^6 = (0.005 / 1000) x 10^6 = 5 ppm."
+        },
+        {
+          "topic": "Molar mass from freezing-point depression",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Dissolving 6.0 g of a non-electrolyte in 100 g of water lowers the freezing point by 1.86 C. What is the molar mass of the solute? (Kf for water = 1.86 C/m)",
+          "options": ["120 g/mol", "30 g/mol", "60 g/mol", "180 g/mol"],
+          "answer": "2",
+          "explanation": "dTf = Kf x m gives m = 1.86 / 1.86 = 1.0 mol/kg; moles = 1.0 x 0.100 kg = 0.10 mol; molar mass = 6.0 / 0.10 = 60 g/mol."
+        },
+        {
+          "topic": "Converting molarity to molality",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A 1.0 M aqueous solution of a solute (molar mass 40 g/mol) has a density of 1.04 g/mL. What is its approximate molality?",
+          "options": ["0.96 m", "1.00 m", "1.04 m", "1.25 m"],
+          "answer": "1",
+          "explanation": "1.0 L weighs 1040 g and contains 1.0 mol (40 g) of solute, so solvent = 1000 g = 1.0 kg; molality = 1.0 mol / 1.0 kg = 1.0 m."
+        },
+        {
+          "topic": "Acid-base indicators",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Litmus paper is used as an acid-base indicator. In an acidic solution, blue litmus turns:",
+          "options": ["Green", "Red", "Yellow", "Colourless"],
+          "answer": "1",
+          "explanation": "Blue litmus turns red in acid, while red litmus turns blue in base; this colour change signals the acidity of the solution."
+        },
+        {
+          "topic": "Neutralization reaction",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When a strong acid exactly neutralizes a strong base, the net ionic equation is:",
+          "options": ["Na+ + Cl- -> NaCl", "H2O -> H+ + OH-", "H+ + OH- -> H2O", "HCl + NaOH -> H2 + O2"],
+          "answer": "2",
+          "explanation": "In any strong acid-strong base neutralization the spectator ions cancel, leaving H+ + OH- -> H2O as the net ionic equation."
+        },
+        {
+          "topic": "Acid-base titration calculation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What volume of 0.10 M NaOH is needed to neutralize 25 mL of 0.20 M HCl?",
+          "options": ["12.5 mL", "25 mL", "100 mL", "50 mL"],
+          "answer": "3",
+          "explanation": "Moles of HCl = 0.20 x 0.025 = 0.0050 mol; NaOH reacts 1:1, so volume = 0.0050 / 0.10 = 0.050 L = 50 mL."
+        },
+        {
+          "topic": "Percent ionization of a weak acid",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A 0.10 M solution of a weak acid has [H+] = 1.0 x 10^-3 M. What is its percent ionization?",
+          "options": ["0.1%", "10%", "1%", "100%"],
+          "answer": "2",
+          "explanation": "Percent ionization = ([H+] ionized / initial concentration) x 100 = (1.0 x 10^-3 / 0.10) x 100 = 1%."
+        },
+        {
+          "topic": "Ka from pH",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A 0.10 M solution of a weak monoprotic acid has a pH of 3.0. What is the approximate Ka of the acid?",
+          "options": ["1.0 x 10^-3", "1.0 x 10^-2", "1.0 x 10^-5", "1.0 x 10^-7"],
+          "answer": "2",
+          "explanation": "pH 3 means [H+] = 1.0 x 10^-3 M; Ka = [H+]^2 / C = (1.0 x 10^-3)^2 / 0.10 = 1.0 x 10^-6 / 0.10 = 1.0 x 10^-5."
+        },
+        {
+          "topic": "Common ion effect",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Adding solid sodium acetate (CH3COONa) to a solution of acetic acid (CH3COOH) will:",
+          "options": ["Increase the ionization of the acetic acid", "Suppress the ionization of the acetic acid and raise the pH", "Have no effect on the pH", "Turn the solution strongly acidic"],
+          "answer": "1",
+          "explanation": "Added acetate ion is a common ion that shifts the acetic acid equilibrium back toward un-ionized acid, lowering [H+] and raising the pH."
+        },
+        {
+          "topic": "Work done by a system",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "When a gas in a cylinder expands and pushes the piston outward against the atmosphere, the work done by the gas is:",
+          "options": ["Positive work done on the system", "Work done by the system on the surroundings", "Zero in all cases", "Equal to the heat absorbed"],
+          "answer": "1",
+          "explanation": "An expanding gas pushes against the surroundings, so the system does work on the surroundings (the system loses energy as work)."
+        },
+        {
+          "topic": "State functions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which of the following is a state function (depends only on the initial and final states, not the path)?",
+          "options": ["Heat (q)", "Work (w)", "Enthalpy (H)", "Both heat and work"],
+          "answer": "2",
+          "explanation": "Enthalpy is a state function, depending only on the current state. Heat and work are path functions that depend on how the change occurs."
+        },
+        {
+          "topic": "Enthalpy of neutralization",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The standard enthalpy of neutralization of any strong acid by a strong base is nearly constant at about -57 kJ/mol because:",
+          "options": ["All acids contain chlorine", "The same reaction H+ + OH- -> H2O always occurs", "Salts release a fixed amount of heat", "Water is always the limiting reagent"],
+          "answer": "1",
+          "explanation": "For strong acid-strong base reactions the only net change is H+ + OH- -> H2O, so the heat released per mole of water is essentially the same."
+        },
+        {
+          "topic": "Bond energy and enthalpy",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Using bond energies, the enthalpy change of a reaction equals:",
+          "options": ["Bonds formed minus bonds broken", "Bonds broken plus bonds formed", "Half the sum of all bond energies", "Bonds broken minus bonds formed"],
+          "answer": "3",
+          "explanation": "Breaking bonds absorbs energy and forming bonds releases it, so dH = (energy of bonds broken) - (energy of bonds formed)."
+        },
+        {
+          "topic": "Hess's law calculation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Given S + O2 -> SO2 (dH = -297 kJ) and 2 SO2 + O2 -> 2 SO3 (dH = -198 kJ), what is dH for S + 3/2 O2 -> SO3?",
+          "options": ["-495 kJ", "-396 kJ", "-198 kJ", "-99 kJ"],
+          "answer": "1",
+          "explanation": "Per mole of SO3, the second reaction gives -198/2 = -99 kJ. Adding to the first: dH = -297 + (-99) = -396 kJ."
+        },
+        {
+          "topic": "Standard entropy values",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Among the following at the same temperature, which substance is expected to have the highest standard molar entropy?",
+          "options": ["Diamond (solid)", "Liquid water", "Water vapour (gas)", "Ice (solid)"],
+          "answer": "2",
+          "explanation": "Gases have far more positional and motional disorder than liquids or solids, so water vapour has the highest molar entropy of these."
+        },
+        {
+          "topic": "Oxidation number of carbon",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the oxidation number of carbon in the carbonate ion, CO3^2-?",
+          "options": ["+2", "+4", "+6", "-4"],
+          "answer": "1",
+          "explanation": "Oxygen is -2 (total -6) and the ion charge is -2, so C + (-6) = -2, giving carbon an oxidation number of +4."
+        },
+        {
+          "topic": "Balancing redox half-reactions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "To balance the half-reaction Cr2O7^2- -> 2 Cr^3+ in acidic solution, how many electrons must be added to the left side?",
+          "options": ["3", "7", "6", "14"],
+          "answer": "2",
+          "explanation": "Each Cr goes from +6 to +3, a gain of 3 electrons; with 2 Cr atoms, a total of 6 electrons is required on the left side."
+        },
+        {
+          "topic": "Disproportionation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In the reaction Cl2 + 2 NaOH -> NaCl + NaClO + H2O, chlorine is both oxidized and reduced. This kind of reaction is called:",
+          "options": ["Neutralization", "Disproportionation", "Precipitation", "Combustion"],
+          "answer": "1",
+          "explanation": "Chlorine (0) goes to -1 in NaCl and +1 in NaClO, so the same element is simultaneously oxidized and reduced: a disproportionation reaction."
+        },
+        {
+          "topic": "Electrolysis of aqueous solution",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "During the electrolysis of dilute aqueous sodium sulphate (Na2SO4) with inert electrodes, the gas evolved at the cathode is:",
+          "options": ["Oxygen", "Sodium vapour", "Hydrogen", "Sulphur dioxide"],
+          "answer": "2",
+          "explanation": "Na+ is too hard to reduce in water, so water is reduced instead: 2 H2O + 2 e- -> H2 + 2 OH-, giving hydrogen gas at the cathode."
+        },
+        {
+          "topic": "Faraday's law and gas volume",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "How many moles of hydrogen gas (2 H+ + 2 e- -> H2) are produced when 0.40 mol of electrons pass through an electrolytic cell?",
+          "options": ["0.10 mol", "0.20 mol", "0.40 mol", "0.80 mol"],
+          "answer": "1",
+          "explanation": "Two electrons make one H2 molecule, so moles of H2 = 0.40 / 2 = 0.20 mol."
+        },
+        {
+          "topic": "Concentration cells",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A concentration cell is built from two copper electrodes in Cu^2+ solutions of different concentrations. Which electrode acts as the cathode (reduction)?",
+          "options": ["The one in the more dilute solution", "The one in the more concentrated solution", "Neither; E cell is zero", "Both act as cathodes"],
+          "answer": "1",
+          "explanation": "Reduction (deposition of Cu) is favoured where Cu^2+ is more concentrated, so the electrode in the more concentrated solution is the cathode."
+        },
+        {
+          "topic": "Reactivity series and displacement",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which metal will displace copper from a copper(II) sulphate solution?",
+          "options": ["Silver", "Gold", "Iron", "Platinum"],
+          "answer": "2",
+          "explanation": "Iron is more reactive than copper, so it displaces copper from solution: Fe + CuSO4 -> FeSO4 + Cu. The others are less reactive than copper."
+        },
+        {
+          "topic": "Calcination",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Heating a carbonate ore strongly in the absence of air to drive off carbon dioxide, as in CaCO3 -> CaO + CO2, is called:",
+          "options": ["Roasting", "Smelting", "Flotation", "Calcination"],
+          "answer": "3",
+          "explanation": "Calcination is the strong heating of an ore (often a carbonate or hydroxide) in limited air to decompose it, here releasing CO2."
+        },
+        {
+          "topic": "Electrolytic refining of copper",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In the electrolytic refining of copper, the impure copper is used as the:",
+          "options": ["Cathode", "Anode", "Electrolyte", "Salt bridge"],
+          "answer": "1",
+          "explanation": "Impure copper forms the anode and dissolves into solution, while pure copper deposits on the pure-copper cathode."
+        },
+        {
+          "topic": "Contact process conditions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The step 2 SO2 + O2 -> 2 SO3 in the Contact process is exothermic. A moderate temperature of about 450 C is used rather than a very low temperature because:",
+          "options": ["A low temperature would explode the reactor", "A low temperature gives a high yield but too slow a rate", "A high temperature increases the yield", "SO3 decomposes below 450 C"],
+          "answer": "1",
+          "explanation": "Low temperature favours the exothermic forward reaction (higher yield) but makes the rate impractically slow, so a moderate compromise temperature is chosen."
+        },
+        {
+          "topic": "Absorption step in Contact process",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In the Contact process, SO3 is absorbed into concentrated sulphuric acid to form oleum rather than sprayed directly into water because:",
+          "options": ["Water is too expensive", "Direct reaction with water forms a dense, uncontrollable acid mist", "SO3 does not react with water", "Oleum is the final product sold"],
+          "answer": "1",
+          "explanation": "SO3 reacting directly with water releases so much heat that it forms a fine sulphuric acid mist that is hard to condense, so it is dissolved in concentrated acid first."
+        },
+        {
+          "topic": "Uses of sulphuric acid",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The single largest industrial use of sulphuric acid worldwide is in the manufacture of:",
+          "options": ["Soaps", "Phosphate fertilisers", "Glass", "Paper"],
+          "answer": "1",
+          "explanation": "Most sulphuric acid is consumed in making phosphate fertilisers (such as superphosphate) by treating phosphate rock with the acid."
+        },
+        {
+          "topic": "Ellingham and reduction",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Carbon can be used to reduce zinc oxide to zinc at high temperature mainly because at those temperatures:",
+          "options": ["Zinc is more reactive than carbon", "The formation of CO becomes more favourable than the zinc oxide", "Carbon melts and dissolves the ore", "Oxygen is removed by electrolysis"],
+          "answer": "1",
+          "explanation": "At high temperature the reaction forming CO has a more negative free energy than that holding ZnO together, so carbon can reduce the oxide."
+        },
+        {
+          "topic": "Copolymers",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A polymer made by joining two or more different kinds of monomer together is called a:",
+          "options": ["Homopolymer", "Monomer", "Elastomer", "Copolymer"],
+          "answer": "3",
+          "explanation": "A copolymer is built from two or more different monomers, whereas a homopolymer is made from only one repeating monomer."
+        },
+        {
+          "topic": "Degree of polymerization",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A sample of polythene has an average molar mass of 28000 g/mol. If the repeating unit -(CH2-CH2)- has a mass of 28 g/mol, what is the average degree of polymerization (number of repeat units)?",
+          "options": ["100", "500", "1000", "2800"],
+          "answer": "2",
+          "explanation": "Degree of polymerization = total molar mass / repeat-unit mass = 28000 / 28 = 1000 repeat units."
+        },
+        {
+          "topic": "Hydrolysis of polymers",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Condensation polymers such as proteins and polyesters can be broken back down into their monomers by reacting with:",
+          "options": ["Oxygen (oxidation)", "Water (hydrolysis)", "Heat alone with no reagent", "A double bond"],
+          "answer": "1",
+          "explanation": "Because condensation polymers form by losing water, the reverse reaction adds water back (hydrolysis) to split the links into monomers."
+        },
+        {
+          "topic": "Natural rubber monomer",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Natural rubber is an addition polymer of which unsaturated monomer?",
+          "options": ["Ethene", "Vinyl chloride", "Styrene", "Isoprene (2-methylbuta-1,3-diene)"],
+          "answer": "3",
+          "explanation": "Natural rubber is poly(isoprene), formed by addition polymerization of isoprene units, which contain reactive double bonds."
+        },
+        {
+          "topic": "Elastomers",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A polymer that can be stretched a great deal and then return to its original shape is best described as an:",
+          "options": ["Elastomer", "Fibre", "Thermoset resin", "Ionic crystal"],
+          "answer": "0",
+          "explanation": "Elastomers, such as rubber, have flexible coiled chains that stretch under force and spring back, giving high elasticity."
+        },
+        {
+          "topic": "PET recycling",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Plastic drink bottles made from PET (a polyester) can be melted and reshaped for recycling. This shows that PET is:",
+          "options": ["A thermosetting polymer", "A thermoplastic polymer", "A natural polymer", "An addition polymer"],
+          "answer": "1",
+          "explanation": "Because PET softens on heating and can be remoulded, it is a thermoplastic; thermosets cannot be re-melted, and PET is made by condensation, not addition."
+        }
+      ]
+    }
+  ]
+}

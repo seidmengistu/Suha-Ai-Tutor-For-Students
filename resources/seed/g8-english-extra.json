@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 8,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "going to (future)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: 'Next month, Halima ____ visit her aunt in Hawassa.'",
+          "options": [
+            "is going to",
+            "going to",
+            "are going to",
+            "go to"
+          ],
+          "answer": "0",
+          "explanation": "'Halima' is third person singular, so we use 'is going to' to talk about a planned future action."
+        },
+        {
+          "topic": "Simple present tense",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence about a daily habit.",
+          "options": [
+            "My brother walk to school every morning.",
+            "My brother walks to school every morning.",
+            "My brother walking to school every morning.",
+            "My brother are walk to school every morning."
+          ],
+          "answer": "1",
+          "explanation": "'My brother' is third person singular, so the simple present verb takes -s: walks."
+        },
+        {
+          "topic": "Vocabulary (plans)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A 'schedule' is best described as:",
+          "options": [
+            "a plan that lists times for activities",
+            "a type of difficult exam",
+            "a place where farmers grow crops",
+            "a person who watches a game"
+          ],
+          "answer": "0",
+          "explanation": "A schedule is a plan or timetable that shows the times for activities."
+        },
+        {
+          "topic": "Comparative adjectives",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: 'Bahir Dar is ____ than my small village.'",
+          "options": [
+            "more big",
+            "bigger",
+            "biggest",
+            "more bigger"
+          ],
+          "answer": "1",
+          "explanation": "'Big' is a short adjective, so the comparative adds -er and doubles the consonant: bigger. We use 'than' to compare two places."
+        },
+        {
+          "topic": "Past simple (irregular verbs)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the past simple of the verb 'go'?",
+          "options": [
+            "goed",
+            "gone",
+            "went",
+            "going"
+          ],
+          "answer": "2",
+          "explanation": "'Go' is irregular: its past simple form is 'went' (go → went → gone)."
+        },
+        {
+          "topic": "Modal verbs (should)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the best advice for staying healthy.",
+          "options": [
+            "You should drinks clean water.",
+            "You should drink clean water.",
+            "You should to drink clean water.",
+            "You should drinking clean water."
+          ],
+          "answer": "1",
+          "explanation": "After the modal 'should' we use the base verb with no 'to' and no -s: 'You should drink clean water.'"
+        },
+        {
+          "topic": "First conditional",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'If it rains tomorrow, we ____ the football match.'",
+          "options": [
+            "cancel",
+            "will cancel",
+            "cancelled",
+            "will cancelled"
+          ],
+          "answer": "1",
+          "explanation": "In the first conditional the if-clause uses the present tense ('rains') and the result clause uses 'will' + base verb: 'will cancel'."
+        },
+        {
+          "topic": "Superlative adjectives",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'The Blue Nile Falls is one of ____ sights in Ethiopia.'",
+          "options": [
+            "the beautifulest",
+            "the most beautiful",
+            "the more beautiful",
+            "most beautiful"
+          ],
+          "answer": "1",
+          "explanation": "'Beautiful' is a long adjective, so the superlative is 'the most beautiful'. Superlatives always take 'the'."
+        },
+        {
+          "topic": "Adverbs of manner",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'The students listened ____ to their teacher.'",
+          "options": [
+            "careful",
+            "carefully",
+            "carefuller",
+            "more careful"
+          ],
+          "answer": "1",
+          "explanation": "We need an adverb to describe how they listened. The adverb of 'careful' is 'carefully' (adjective + -ly)."
+        },
+        {
+          "topic": "Passive voice (present)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Change to the passive: 'Farmers harvest teff in November.'",
+          "options": [
+            "Teff harvests in November.",
+            "Teff is harvested in November.",
+            "Teff is harvest in November.",
+            "Teff are harvested in November."
+          ],
+          "answer": "1",
+          "explanation": "The passive is 'be + past participle'. 'Teff' is singular, so we use 'is harvested'."
+        },
+        {
+          "topic": "Present perfect (form)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct present perfect sentence.",
+          "options": [
+            "She has wrote three letters today.",
+            "She has written three letters today.",
+            "She have written three letters today.",
+            "She has write three letters today."
+          ],
+          "answer": "1",
+          "explanation": "The present perfect uses 'has/have + past participle'. The past participle of 'write' is 'written', and 'she' takes 'has'."
+        },
+        {
+          "topic": "for vs since",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'Aman has played for the school team ____ three years.'",
+          "options": [
+            "since",
+            "for",
+            "during",
+            "from"
+          ],
+          "answer": "1",
+          "explanation": "'Three years' is a length of time, so we use 'for'. We use 'since' with a starting point such as 'since 2021'."
+        },
+        {
+          "topic": "Modal verbs (have to)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'A nurse ____ wear clean gloves when treating patients.'",
+          "options": [
+            "have to",
+            "has to",
+            "has",
+            "having to"
+          ],
+          "answer": "1",
+          "explanation": "'A nurse' is third person singular, so we use 'has to' to show a necessity or rule."
+        },
+        {
+          "topic": "Vocabulary (sports)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A 'spectator' at a stadium is a person who:",
+          "options": [
+            "runs in the race",
+            "watches the game",
+            "sells the tickets",
+            "trains the athletes"
+          ],
+          "answer": "1",
+          "explanation": "A spectator is a person who watches a game or event, not one who takes part in it."
+        },
+        {
+          "topic": "Reading comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'Meron lives in Addis Ababa, but every holiday she travels to her grandmother's farm in the countryside. There the air is fresh and the nights are very quiet. She says she sleeps better there than in the city.' Why does Meron sleep better at the farm?",
+          "options": [
+            "Because the farm is in Addis Ababa",
+            "Because the countryside is fresh and quiet",
+            "Because she travels every day",
+            "Because the city has more shops"
+          ],
+          "answer": "1",
+          "explanation": "The text says the air is fresh and the nights are quiet, and she sleeps better there, so the calm, fresh countryside is the reason."
+        },
+        {
+          "topic": "Connectors of contrast",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the best connector: 'Tirunesh trained very hard, ____ her rival did almost no training.'",
+          "options": [
+            "so",
+            "whereas",
+            "because",
+            "therefore"
+          ],
+          "answer": "1",
+          "explanation": "'Whereas' shows a contrast between two opposite ideas. 'So', 'because' and 'therefore' show reason or result, not contrast."
+        },
+        {
+          "topic": "Past simple questions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct question in the past simple.",
+          "options": [
+            "Where did the team played their first match?",
+            "Where did the team play their first match?",
+            "Where the team played their first match?",
+            "Where did the team playing their first match?"
+          ],
+          "answer": "1",
+          "explanation": "After 'did' we use the base verb, so 'play' is correct: 'Where did the team play their first match?'"
+        },
+        {
+          "topic": "Quantifiers (much/many)",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence that uses the quantifiers correctly.",
+          "options": [
+            "There isn't much tomatoes, but there are many milk.",
+            "There aren't many tomatoes, but there isn't much milk.",
+            "There aren't much tomatoes, but there isn't many milk.",
+            "There isn't many tomatoes, but there aren't much milk."
+          ],
+          "answer": "1",
+          "explanation": "'Tomatoes' is countable, so we use 'many'; 'milk' is uncountable, so we use 'much': 'aren't many tomatoes... isn't much milk.'"
+        },
+        {
+          "topic": "Present perfect vs past simple",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": [
+            "We have bought fresh injera last Saturday.",
+            "We bought fresh injera last Saturday.",
+            "We has bought fresh injera last Saturday.",
+            "We have buy fresh injera last Saturday."
+          ],
+          "answer": "1",
+          "explanation": "'Last Saturday' is a finished past time, so we use the past simple 'bought', not the present perfect."
+        },
+        {
+          "topic": "Vocabulary (plants)",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Land that is 'fertile' is land that:",
+          "options": [
+            "is good for growing plants",
+            "has no water at all",
+            "is covered with tall buildings",
+            "cannot grow any crops"
+          ],
+          "answer": "0",
+          "explanation": "'Fertile' describes land that is good for growing plants and produces healthy crops."
+        },
+        {
+          "topic": "Mixed tenses and quantifiers",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which sentence is completely correct?",
+          "options": [
+            "A lot of coffee are exported, and the country has earn money since many years.",
+            "A lot of coffee is exported, and the country has earned money for many years.",
+            "A lot of coffee is exported, and the country has earned money since many years.",
+            "A lot of coffees are exported, and the country have earned money for many years."
+          ],
+          "answer": "1",
+          "explanation": "'Coffee' is uncountable (is exported), the past participle is 'earned', and we use 'for' with a length of time: 'for many years'."
+        },
+        {
+          "topic": "Conditionals and modals (mixed)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the best completion: 'If you want to stay healthy, you ____ exercise regularly and you ____ a balanced diet.'",
+          "options": [
+            "should / should eat",
+            "will / will to eat",
+            "should to / should eats",
+            "shoulds / should eating"
+          ],
+          "answer": "0",
+          "explanation": "After the modal 'should' we use the base verb with no 'to' and no -s, so 'should exercise' and 'should eat' are both correct."
+        },
+        {
+          "topic": "Comparatives and superlatives (mixed)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which sentence is grammatically correct?",
+          "options": [
+            "The highlands are cooler than the lowlands, and Ras Dashen is the highest peak.",
+            "The highlands are more cooler than the lowlands, and Ras Dashen is highest peak.",
+            "The highlands are cooler then the lowlands, and Ras Dashen is the most high peak.",
+            "The highlands are coolest than the lowlands, and Ras Dashen is the most highest peak."
+          ],
+          "answer": "0",
+          "explanation": "'Cooler than' is the correct comparative, and 'the highest' is the correct superlative with 'the'. The other options misuse 'more cooler', 'then', or double forms."
+        },
+        {
+          "topic": "Reading comprehension and inference",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read: 'The coffee ceremony has been part of Ethiopian life for centuries. Guests are welcomed, the beans are roasted in front of them, and the fresh coffee is served three times. Hosts believe that sharing buna builds friendship.' What can we infer about the coffee ceremony?",
+          "options": [
+            "It is a quick way to sell coffee to tourists.",
+            "It is a social tradition that brings people together.",
+            "It started only a few years ago.",
+            "Guests must roast their own beans at home."
+          ],
+          "answer": "1",
+          "explanation": "The passage says it has lasted for centuries, welcomes guests, and that sharing buna builds friendship, so it is a long-standing social tradition that unites people."
+        }
+      ]
+    }
+  ]
+}

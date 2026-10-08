@@ -1,0 +1,1598 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "mathematics",
+      "chapters": [
+        {
+          "title": "Sequences and Series",
+          "description": "Recognising number patterns, working with arithmetic and geometric sequences, summing terms with sigma notation, and finding the sum of an infinite series.",
+          "lessons": [
+            {
+              "title": "Arithmetic and Geometric Sequences and Series",
+              "summary": "Learn what a sequence and a series are, master the formulas for arithmetic and geometric progressions, and use them to add up many terms and even infinitely many terms.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Patterns All Around Us",
+                  "body": "When a farmer plants trees in rows where each row has 5 more trees than the one before, or when the **population of Ethiopia** grows by about 2% every year, the numbers follow a clear pattern. A list of numbers written in a fixed order is called a **sequence**, and when we add those numbers together we get a **series**.\n\nFamous examples include the **Fibonacci sequence** `1, 1, 2, 3, 5, 8, 13, ...` where each term is the sum of the two before it. Understanding sequences lets us make predictions and solve real problems in money, biology, and engineering."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- **Define** a sequence and a series and find the **general term** `aₙ`.\n- Recognise an **arithmetic sequence** (constant difference) and a **geometric sequence** (constant ratio).\n- Use the formulas for the **nth term** and the **sum of n terms**.\n- Find the **sum to infinity** of a convergent geometric series."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Key Formulas and Why They Work",
+                  "body": "A **sequence** is a function whose domain is the counting numbers `1, 2, 3, ...`. The number in position `n` is the **general term** `aₙ`.\n\n**Arithmetic sequence:** each term is found by adding a fixed number `d`, the **common difference**. *Why the formula works:* to reach the nth term you start at `A₁` and add `d` a total of `(n-1)` times.\n`Aₙ = A₁ + (n - 1)d`\nThe **sum of the first n terms** is `Sₙ = (n/2)(A₁ + Aₙ)`. *Why:* pairing the first and last terms, the second and second-last, and so on, each pair has the same total `A₁ + Aₙ`.\n\n**Geometric sequence:** each term is found by multiplying by a fixed number `r`, the **common ratio**. *Why:* to reach the nth term you multiply `G₁` by `r` a total of `(n-1)` times.\n`Gₙ = G₁ · rⁿ⁻¹`\nThe sum of the first n terms is `Sₙ = G₁(1 - rⁿ)/(1 - r)` for `r ≠ 1`.\n\n**Sum to infinity:** if `|r| < 1` the terms shrink toward 0 and the total settles on a finite value:\n`S∞ = G₁/(1 - r)`. If `|r| ≥ 1` the series has no finite sum (it **diverges**)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Working with a Geometric Series Step by Step",
+                  "body": "**Problem:** A machine worth Birr 100,000 loses 1/20 of its value each year. Find its value after 6 years, and the total value lost over those 6 years.\n\n**Step 1 — Identify the pattern.** Each year the value is multiplied by `1 - 1/20 = 19/20`. So this is geometric with `r = 19/20 = 0.95` and starting value `G₁ = 100000`.\n\n**Step 2 — Value after 6 years.** This is the term after multiplying 6 times:\n`Value = 100000 × (0.95)⁶`.\n`(0.95)⁶ ≈ 0.7351`, so Value `≈ Birr 73,509`.\n\n**Step 3 — Total value lost.** Value lost = original − remaining = `100000 − 73509 = Birr 26,491`.\n\n**Step 4 — Check with the sum to infinity idea.** If the machine kept depreciating forever, the value would approach 0, never below it, which matches `|r| = 0.95 < 1`. Our 6-year answer is sensible because it is between 0 and 100,000."
+                },
+                {
+                  "type": "visual",
+                  "title": "Arithmetic Sequences are Straight Lines",
+                  "body": "Plot the arithmetic sequence `Aₙ = 2n - 1` (terms 1, 3, 5, 7, 9). The points `(n, Aₙ)` lie on a **straight line** because each step adds the same amount `d`. A geometric sequence, by contrast, would curve upward or downward. This is a quick way to tell the two apart.",
+                  "visual": {
+                    "kind": "function-graph",
+                    "data": {
+                      "xLabel": "n (term number)",
+                      "yLabel": "value",
+                      "series": [
+                        {
+                          "label": "Arithmetic 2n-1",
+                          "points": [[1, 1], [2, 3], [3, 5], [4, 7], [5, 9]]
+                        },
+                        {
+                          "label": "Geometric 2^(n-1)",
+                          "points": [[1, 1], [2, 2], [3, 4], [4, 8], [5, 16]]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Using (n-1) wrong.** The nth term uses `rⁿ⁻¹` (or adds `d` exactly `n-1` times), not `rⁿ`. The first term needs *zero* multiplications.\n- **Applying the sum-to-infinity formula when |r| ≥ 1.** It only works when `|r| < 1`. If `r = 2`, the series grows forever and has no finite sum.\n- **Confusing arithmetic and geometric.** Check: is there a constant *difference* (arithmetic) or a constant *ratio* (geometric)? Subtract pairs and divide pairs to decide.\n- **Forgetting r can be negative or a fraction.** A ratio like `-1/3` is perfectly valid and makes terms alternate in sign and shrink."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **\"Add for A, multiply for G\":** **A**rithmetic uses **a**ddition (common difference `d`), **G**eometric uses multiplication (common ratio `r`).\n- **Sum of arithmetic = average × count:** `Sₙ = (first + last)/2 × n`. Just the average term times how many there are.\n- **Infinity needs a fraction:** the sum to infinity `G₁/(1-r)` only exists when `r` is a 'shrinking' factor, i.e. `|r| < 1`."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Find the 20th term of the arithmetic sequence with `A₁ = 5` and `d = 4`.\n2. Find the sum of the first 10 terms of `3, 6, 12, 24, ...`.\n3. Find the sum to infinity of `8 + 4 + 2 + 1 + ...`.\n4. Is `2, 6, 18, 54, ...` arithmetic or geometric? Give the next term.\n\n**Answers:**\n1. `A₂₀ = 5 + 19(4) = 81`.\n2. Geometric, `r = 2`: `S₁₀ = 3(2¹⁰ - 1)/(2 - 1) = 3(1023) = 3069`.\n3. `r = 1/2`, so `S∞ = 8/(1 - 1/2) = 16`.\n4. Geometric (`r = 3`); next term `54 × 3 = 162`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- A **sequence** is an ordered list; a **series** is the sum of its terms.\n- **Arithmetic:** `Aₙ = A₁ + (n-1)d`; sum `Sₙ = (n/2)(A₁ + Aₙ)`.\n- **Geometric:** `Gₙ = G₁rⁿ⁻¹`; sum `Sₙ = G₁(1 - rⁿ)/(1 - r)`.\n- **Sum to infinity:** `S∞ = G₁/(1 - r)`, valid only when `|r| < 1`.\n- Check a pattern by looking for a constant **difference** (arithmetic) or **ratio** (geometric)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Sequence",
+                      "definition": "An ordered list of numbers following a rule; formally, a function whose domain is the counting numbers."
+                    },
+                    {
+                      "term": "Series",
+                      "definition": "The sum of the terms of a sequence."
+                    },
+                    {
+                      "term": "Common difference (d)",
+                      "definition": "The fixed amount added to each term to get the next, in an arithmetic sequence."
+                    },
+                    {
+                      "term": "Common ratio (r)",
+                      "definition": "The fixed number each term is multiplied by to get the next, in a geometric sequence."
+                    },
+                    {
+                      "term": "Sum to infinity",
+                      "definition": "The finite total of an infinite geometric series, equal to G₁/(1-r) when |r| < 1."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "Formula for the nth term of an arithmetic sequence?",
+                  "back": "Aₙ = A₁ + (n - 1)d, where d is the common difference."
+                },
+                {
+                  "front": "Formula for the nth term of a geometric sequence?",
+                  "back": "Gₙ = G₁ · r^(n-1), where r is the common ratio."
+                },
+                {
+                  "front": "Sum of the first n terms of an arithmetic sequence?",
+                  "back": "Sₙ = (n/2)(A₁ + Aₙ) — the average of first and last term, times n."
+                },
+                {
+                  "front": "When does an infinite geometric series have a finite sum?",
+                  "back": "Only when |r| < 1. Then S∞ = G₁/(1 - r)."
+                },
+                {
+                  "front": "How do you tell arithmetic from geometric?",
+                  "back": "Arithmetic has a constant difference (subtract terms); geometric has a constant ratio (divide terms)."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Arithmetic nth term",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the 10th term of the arithmetic sequence 3, 7, 11, 15, ...?",
+              "options": ["39", "43", "40", "37"],
+              "answer": "0",
+              "explanation": "Here A₁ = 3 and d = 4. A₁₀ = 3 + (10 - 1)(4) = 3 + 36 = 39."
+            },
+            {
+              "topic": "Identifying sequences",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which sequence is geometric?",
+              "options": ["2, 5, 8, 11, ...", "1, 4, 9, 16, ...", "3, 6, 12, 24, ...", "10, 8, 6, 4, ..."],
+              "answer": "2",
+              "explanation": "3, 6, 12, 24 has a constant ratio of 2 (each term is twice the previous), so it is geometric. The others have constant differences or no constant ratio."
+            },
+            {
+              "topic": "Common ratio",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A geometric sequence has G₁ = 5 and G₃ = 45. What is the common ratio (taking it positive)?",
+              "options": ["9", "3", "5", "15"],
+              "answer": "1",
+              "explanation": "G₃ = G₁r² so 45 = 5r², giving r² = 9 and r = 3 (positive value)."
+            },
+            {
+              "topic": "Sum of arithmetic series",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the sum of the first 100 natural numbers 1 + 2 + 3 + ... + 100?",
+              "options": ["5050", "10000", "5000", "5100"],
+              "answer": "0",
+              "explanation": "Sₙ = (n/2)(first + last) = (100/2)(1 + 100) = 50 × 101 = 5050."
+            },
+            {
+              "topic": "Sum to infinity",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "What is the sum to infinity of 9 + 3 + 1 + 1/3 + ...?",
+              "options": ["12", "27/2", "13", "18"],
+              "answer": "1",
+              "explanation": "r = 1/3, so S∞ = G₁/(1 - r) = 9/(1 - 1/3) = 9/(2/3) = 27/2 = 13.5."
+            },
+            {
+              "topic": "Applications of series",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A person saves Birr 100 in month 1 and Birr 50 more each following month. How much have they saved in total after 12 months?",
+              "options": ["Birr 4500", "Birr 4200", "Birr 1750", "Birr 5400"],
+              "answer": "0",
+              "explanation": "Arithmetic: A₁ = 100, d = 50, n = 12. A₁₂ = 100 + 11(50) = 650. S₁₂ = (12/2)(100 + 650) = 6 × 750 = 4500."
+            }
+          ]
+        },
+        {
+          "title": "Introduction to Limits and Continuity",
+          "description": "Understanding what a limit means, how to evaluate limits of sequences and functions, and what it means for a function to be continuous.",
+          "lessons": [
+            {
+              "title": "Limits of Functions and Continuity",
+              "summary": "Learn what a limit is, how to find limits by substitution and by handling tricky 0/0 cases, and how to decide whether a function is continuous at a point.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Getting Closer and Closer",
+                  "body": "Imagine zooming in on a value that a function *approaches* but may never quite reach. If you keep halving a distance — 1, 1/2, 1/4, 1/8, ... — you get closer and closer to 0. The number a quantity heads toward is called its **limit**.\n\nLimits are the foundation of **calculus**. They let us talk about instant speed, slopes of curves, and areas under graphs. They also let us understand **continuity** — whether a graph can be drawn without lifting your pen."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Explain in plain words what `lim (x→a) f(x) = L` means.\n- Evaluate limits by **direct substitution**.\n- Handle **indeterminate** `0/0` forms by **factoring** and cancelling.\n- State the three conditions for a function to be **continuous** at a point."
+                },
+                {
+                  "type": "theory",
+                  "title": "What a Limit Really Means",
+                  "body": "The statement `lim (x→a) f(x) = L` means: as `x` gets closer and closer to `a` (from both sides), the value `f(x)` gets closer and closer to `L`. *Important:* `x` never has to actually equal `a` — we only care about the values *near* `a`.\n\n**Limit laws** let us break problems apart: the limit of a sum is the sum of the limits, the limit of a product is the product of the limits, and so on. *Why this helps:* for most 'nice' functions you can simply **substitute** `x = a` to get the answer.\n\n**The 0/0 problem.** Sometimes substitution gives `0/0`, which is **indeterminate** (meaning undecided, not infinity). This usually signals a removable factor. We **factor** the top and bottom and cancel the troublesome term, then substitute again.\n\n**Continuity.** A function `f` is **continuous at x = a** if all three hold:\n1. `f(a)` is defined,\n2. `lim (x→a) f(x)` exists,\n3. `lim (x→a) f(x) = f(a)`.\nIn plain words: no holes, no jumps, no breaks. *Why it matters:* continuous functions behave predictably and are exactly the ones whose graphs you can draw without lifting your pen."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Solving a 0/0 Limit Step by Step",
+                  "body": "**Problem:** Evaluate `lim (x→2) (x² - 4)/(x - 2)`.\n\n**Step 1 — Try substitution first.** Putting `x = 2` gives `(4 - 4)/(2 - 2) = 0/0`. This is **indeterminate**, so we cannot stop here.\n\n**Step 2 — Factor.** The numerator is a difference of squares: `x² - 4 = (x - 2)(x + 2)`.\nSo the expression becomes `[(x - 2)(x + 2)]/(x - 2)`.\n\n**Step 3 — Cancel the common factor.** For `x ≠ 2`, `(x - 2)/(x - 2) = 1`, leaving just `x + 2`.\n\n**Step 4 — Substitute now.** `lim (x→2) (x + 2) = 2 + 2 = 4`.\n\n**Answer:** the limit is `4`. Notice the original function is undefined at `x = 2` (a hole in the graph), yet the limit still exists because we only care about values *near* 2."
+                },
+                {
+                  "type": "visual",
+                  "title": "A Hole Versus a Continuous Graph",
+                  "body": "The function from our example, `y = (x²-4)/(x-2)`, equals `y = x + 2` everywhere except at `x = 2`, where there is a **hole**. The limit as `x → 2` is 4 (the open circle), even though `f(2)` itself is undefined. Continuity would require the point to be filled in.",
+                  "visual": {
+                    "kind": "coordinate-plane",
+                    "data": {
+                      "xLabel": "x",
+                      "yLabel": "y",
+                      "points": [
+                        {"x": 0, "y": 2, "label": "(0,2)"},
+                        {"x": 1, "y": 3, "label": "(1,3)"},
+                        {"x": 2, "y": 4, "label": "hole at (2,4)"},
+                        {"x": 3, "y": 5, "label": "(3,5)"}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Thinking 0/0 equals 1 or 0.** `0/0` is **indeterminate** — it has no fixed value until you simplify. Always factor or simplify first.\n- **Believing the function must be defined at a to have a limit.** A limit can exist even where `f(a)` is undefined (a hole), because limits look at *nearby* values.\n- **Confusing 'limit exists' with 'continuous'.** Continuity needs the limit to exist *and* equal `f(a)`. A hole has a limit but is not continuous.\n- **Cancelling before checking.** Only cancel a factor that is genuinely common to top and bottom; do not cancel terms that are added."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **\"Substitute, then investigate\":** always try plugging in `x = a` first. If you get a number, you are done. If you get `0/0`, factor.\n- **Continuity = \"no pen lift\":** if you can trace the graph through `x = a` without lifting your pen, it is continuous there.\n- **Three-part continuity checklist — D-L-E:** **D**efined `f(a)`, **L**imit exists, they are **E**qual."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Evaluate `lim (x→3) (2x + 1)`.\n2. Evaluate `lim (x→1) (x² - 1)/(x - 1)`.\n3. Is `f(x) = x²` continuous at `x = 5`? Why?\n4. Evaluate `lim (x→0) (x² + 3x)/x`.\n\n**Answers:**\n1. Direct substitution: `2(3) + 1 = 7`.\n2. Factor: `(x-1)(x+1)/(x-1) = x + 1 → 1 + 1 = 2`.\n3. Yes: it is defined, the limit exists, and both equal 25.\n4. Factor x: `x(x + 3)/x = x + 3 → 0 + 3 = 3`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- A **limit** `lim (x→a) f(x) = L` describes the value `f(x)` approaches as `x` nears `a`.\n- For nice functions, evaluate by **direct substitution**.\n- A `0/0` result is **indeterminate**; **factor and cancel**, then substitute.\n- **Continuity at a** needs three things: `f(a)` defined, the limit exists, and they are equal (D-L-E).\n- A limit can exist where the function has a **hole**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Limit",
+                      "definition": "The value a function approaches as the input approaches a particular number."
+                    },
+                    {
+                      "term": "Indeterminate form",
+                      "definition": "An expression like 0/0 whose value cannot be decided until it is simplified."
+                    },
+                    {
+                      "term": "Continuous function",
+                      "definition": "A function with no holes, jumps, or breaks; its graph can be drawn without lifting the pen."
+                    },
+                    {
+                      "term": "Direct substitution",
+                      "definition": "Finding a limit by simply putting the value x = a into the function, valid when the result is defined."
+                    },
+                    {
+                      "term": "Removable discontinuity",
+                      "definition": "A single point (hole) where a function is undefined but the limit still exists."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What does lim (x→a) f(x) = L mean?",
+                  "back": "As x gets closer to a from both sides, f(x) gets closer to L. x need not equal a."
+                },
+                {
+                  "front": "What does a 0/0 result tell you?",
+                  "back": "It is indeterminate — undecided. Factor and cancel, then substitute again."
+                },
+                {
+                  "front": "Three conditions for continuity at x = a?",
+                  "back": "f(a) is defined, the limit exists, and the limit equals f(a) (D-L-E)."
+                },
+                {
+                  "front": "Can a limit exist where f(a) is undefined?",
+                  "back": "Yes. A hole (removable discontinuity) has a limit even though f(a) is not defined."
+                },
+                {
+                  "front": "First step for any limit?",
+                  "back": "Try direct substitution. If it gives a number, that's the answer; if it gives 0/0, simplify."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Direct substitution",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is lim (x→4) (3x - 5)?",
+              "options": ["7", "12", "5", "-5"],
+              "answer": "0",
+              "explanation": "This is a polynomial, so substitute directly: 3(4) - 5 = 12 - 5 = 7."
+            },
+            {
+              "topic": "Meaning of a limit",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "For a limit lim (x→a) f(x) to equal L, the value x must:",
+              "options": ["equal a exactly", "get close to a from both sides", "be larger than a", "make f(x) = 0"],
+              "answer": "1",
+              "explanation": "A limit describes the behaviour of f(x) as x approaches a from both sides; x never needs to actually equal a."
+            },
+            {
+              "topic": "Indeterminate forms",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Evaluate lim (x→3) (x² - 9)/(x - 3).",
+              "options": ["0", "6", "3", "undefined"],
+              "answer": "1",
+              "explanation": "Factor: (x-3)(x+3)/(x-3) = x + 3. Substituting x = 3 gives 6."
+            },
+            {
+              "topic": "Continuity check",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which condition is NOT required for f to be continuous at x = a?",
+              "options": ["f(a) is defined", "the limit exists at a", "the limit equals f(a)", "f'(a) is positive"],
+              "answer": "3",
+              "explanation": "Continuity requires only that f(a) is defined, the limit exists, and they are equal. The derivative being positive is unrelated to continuity."
+            },
+            {
+              "topic": "Limits with a hole",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "The function f(x) = (x² - 25)/(x - 5) is undefined at x = 5. What is lim (x→5) f(x)?",
+              "options": ["0", "5", "10", "does not exist"],
+              "answer": "2",
+              "explanation": "Factor: (x-5)(x+5)/(x-5) = x + 5. The limit as x → 5 is 10, even though f(5) itself is undefined."
+            },
+            {
+              "topic": "Limit of a rational expression",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Evaluate lim (x→0) (x² + 2x)/x.",
+              "options": ["0", "2", "undefined", "1"],
+              "answer": "1",
+              "explanation": "Factor x from the numerator: x(x + 2)/x = x + 2 for x ≠ 0. As x → 0, the limit is 0 + 2 = 2."
+            }
+          ]
+        },
+        {
+          "title": "Introduction to Differential Calculus",
+          "description": "Understanding the derivative as a rate of change and slope, and learning the rules to differentiate powers, sums, products, quotients, and compositions.",
+          "lessons": [
+            {
+              "title": "Derivatives and the Rules of Differentiation",
+              "summary": "Learn what a derivative measures, find derivatives from the rules for powers, sums, products and quotients, and apply the chain rule to composite functions.",
+              "estimatedMinutes": 40,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Measuring How Things Change",
+                  "body": "How fast is a car speeding up? How steep is a hillside at one exact spot? These questions ask for an **instantaneous rate of change**. The mathematical tool that answers them is the **derivative**.\n\nThe derivative of a function `f(x)`, written `f'(x)` or `dy/dx`, gives the **slope of the curve** at any point. It tells you how the output changes when the input changes by a tiny amount. This single idea powers physics, economics, and engineering."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Explain the derivative as a **slope** and a **rate of change**.\n- Use the **power rule** to differentiate `xⁿ`.\n- Apply the **sum, constant-multiple, product, and quotient rules**.\n- Use the **chain rule** to differentiate composite functions like `(2x + 1)⁵`."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Definition and the Rules",
+                  "body": "The derivative is defined as a limit of the slope of a line through two nearby points:\n`f'(x) = lim (h→0) [f(x + h) - f(x)] / h`.\n*Why:* as the two points slide together (`h → 0`), the slope of the connecting line becomes the slope of the **tangent** — the curve's steepness at one point.\n\nDoing this limit every time is slow, so we use **rules** that are proven from it:\n- **Power rule:** `d/dx (xⁿ) = n·xⁿ⁻¹`. (Bring the power down, reduce it by 1.)\n- **Constant multiple:** `d/dx (c·f) = c·f'`.\n- **Sum rule:** `d/dx (f + g) = f' + g'`.\n- **Product rule:** `d/dx (f·g) = f'·g + f·g'`.\n- **Quotient rule:** `d/dx (f/g) = (f'·g - f·g')/g²`.\n- **Chain rule:** for a composite `f(g(x))`, `d/dx = f'(g(x))·g'(x)` — differentiate the outside, then multiply by the derivative of the inside. *Why:* the rates of change multiply along the chain."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Using the Product and Chain Rules",
+                  "body": "**Problem A (power and sum):** Differentiate `y = 3x⁴ - 5x² + 7`.\nApply the power rule term by term: `dy/dx = 3(4x³) - 5(2x) + 0 = 12x³ - 10x`. (The constant 7 has derivative 0.)\n\n**Problem B (chain rule):** Differentiate `y = (2x + 1)⁵`.\n**Step 1 — Identify outside and inside.** Outside is `(...)⁵`, inside is `u = 2x + 1`.\n**Step 2 — Differentiate the outside,** keeping the inside: `5(2x + 1)⁴`.\n**Step 3 — Multiply by the derivative of the inside:** `du/dx = 2`.\n**Answer:** `dy/dx = 5(2x + 1)⁴ × 2 = 10(2x + 1)⁴`.\n\n**Problem C (product rule):** Differentiate `y = x²·(x + 3)`.\nLet `f = x²` so `f' = 2x`, and `g = x + 3` so `g' = 1`.\n`dy/dx = f'g + fg' = 2x(x + 3) + x²(1) = 2x² + 6x + x² = 3x² + 6x`."
+                },
+                {
+                  "type": "visual",
+                  "title": "The Derivative is the Slope of the Tangent",
+                  "body": "For `y = x²`, the derivative is `2x`. At `x = 1` the slope is `2`, at `x = 2` the slope is `4`. The curve gets steeper as you move right, which matches the slope increasing. The graph below shows the parabola whose steepness the derivative measures at each point.",
+                  "visual": {
+                    "kind": "function-graph",
+                    "data": {
+                      "xLabel": "x",
+                      "yLabel": "y = x²",
+                      "series": [
+                        {
+                          "label": "y = x²",
+                          "points": [[-2, 4], [-1, 1], [0, 0], [1, 1], [2, 4], [3, 9]]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Forgetting the chain rule's inner derivative.** `d/dx (2x+1)⁵` is NOT `5(2x+1)⁴`; you must also multiply by 2, the derivative of the inside.\n- **Multiplying derivatives for a product.** `d/dx (f·g) ≠ f'·g'`. Use `f'g + fg'`.\n- **Wrong sign in the quotient rule.** It is `(f'g - fg')/g²` — top derivative first, then minus. Order matters.\n- **Derivative of a constant is not the constant.** `d/dx (7) = 0`, not 7."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Power rule chant:** \"**Bring it down, take one off.**\" The exponent comes to the front, then drops by 1.\n- **Quotient rule song:** \"**Low d-high minus high d-low, over low squared we go.**\" (Low = denominator, High = numerator, d = derivative.)\n- **Chain rule:** \"**Outside, then inside.**\" Differentiate the outer function, then multiply by the derivative of what's inside."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Differentiate `y = x⁵`.\n2. Differentiate `y = 4x³ - 2x + 9`.\n3. Differentiate `y = (3x - 2)⁴`.\n4. Differentiate `y = x²·sin? ` — instead, differentiate `y = (x + 1)(x - 4)` using the product rule.\n\n**Answers:**\n1. `5x⁴`.\n2. `12x² - 2`.\n3. Chain rule: `4(3x - 2)³ × 3 = 12(3x - 2)³`.\n4. Product rule: `(1)(x - 4) + (x + 1)(1) = 2x - 3`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- The **derivative** `f'(x)` measures the **slope** of the curve and the **rate of change**.\n- **Power rule:** `d/dx (xⁿ) = n·xⁿ⁻¹`.\n- **Product rule:** `f'g + fg'`; **Quotient rule:** `(f'g - fg')/g²`.\n- **Chain rule:** differentiate the outside, multiply by the derivative of the inside.\n- The derivative of a **constant** is 0."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Derivative",
+                      "definition": "The instantaneous rate of change of a function; the slope of the tangent line at a point."
+                    },
+                    {
+                      "term": "Tangent line",
+                      "definition": "A straight line that touches a curve at one point and has the same slope as the curve there."
+                    },
+                    {
+                      "term": "Power rule",
+                      "definition": "The rule d/dx(xⁿ) = n·xⁿ⁻¹ for differentiating a power of x."
+                    },
+                    {
+                      "term": "Chain rule",
+                      "definition": "A rule for composite functions: differentiate the outer function, then multiply by the derivative of the inner function."
+                    },
+                    {
+                      "term": "Rate of change",
+                      "definition": "How fast one quantity changes with respect to another; given by the derivative."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What does the derivative f'(x) represent?",
+                  "back": "The slope of the curve at a point and the instantaneous rate of change of f."
+                },
+                {
+                  "front": "State the power rule.",
+                  "back": "d/dx(xⁿ) = n·xⁿ⁻¹. Bring the power down and reduce it by 1."
+                },
+                {
+                  "front": "State the product rule.",
+                  "back": "d/dx(f·g) = f'·g + f·g'. (NOT f'·g'.)"
+                },
+                {
+                  "front": "State the chain rule.",
+                  "back": "d/dx f(g(x)) = f'(g(x))·g'(x). Differentiate the outside, multiply by the inside's derivative."
+                },
+                {
+                  "front": "What is the derivative of a constant?",
+                  "back": "Zero. A constant does not change, so its rate of change is 0."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Power rule",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the derivative of y = x⁶?",
+              "options": ["6x⁵", "x⁵", "6x⁶", "5x⁶"],
+              "answer": "0",
+              "explanation": "Power rule: bring the 6 down and reduce the power by 1, giving 6x⁵."
+            },
+            {
+              "topic": "Derivative of a constant",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is d/dx(12)?",
+              "options": ["12", "1", "0", "x"],
+              "answer": "2",
+              "explanation": "A constant does not change, so its rate of change (derivative) is 0."
+            },
+            {
+              "topic": "Sum and power rules",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Differentiate y = 2x³ - 4x + 5.",
+              "options": ["6x² - 4", "6x² - 4 + 5", "2x² - 4", "6x³ - 4"],
+              "answer": "0",
+              "explanation": "Differentiate term by term: 2(3x²) - 4 + 0 = 6x² - 4."
+            },
+            {
+              "topic": "Product rule",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Using the product rule, differentiate y = x²(x + 1).",
+              "options": ["2x", "3x² + 2x", "2x² + 1", "2x + 1"],
+              "answer": "1",
+              "explanation": "f = x² (f' = 2x), g = x+1 (g' = 1). f'g + fg' = 2x(x+1) + x²(1) = 2x² + 2x + x² = 3x² + 2x."
+            },
+            {
+              "topic": "Chain rule",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Differentiate y = (4x + 3)³.",
+              "options": ["3(4x + 3)²", "12(4x + 3)²", "(4x + 3)²", "4(4x + 3)²"],
+              "answer": "1",
+              "explanation": "Chain rule: 3(4x + 3)² times the inside derivative 4, giving 12(4x + 3)²."
+            },
+            {
+              "topic": "Slope at a point",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "For y = x², what is the slope of the tangent line at the point where x = 3?",
+              "options": ["3", "9", "6", "2"],
+              "answer": "2",
+              "explanation": "The derivative is 2x. At x = 3 the slope is 2(3) = 6."
+            }
+          ]
+        },
+        {
+          "title": "Applications of Differential Calculus",
+          "description": "Using derivatives to find maximum and minimum values, solve optimisation problems, and analyse rates of change in real situations.",
+          "lessons": [
+            {
+              "title": "Maxima, Minima and Optimisation",
+              "summary": "Use the first derivative to locate maximum and minimum points, classify them, and solve real-world problems that ask for the best (largest or smallest) value.",
+              "estimatedMinutes": 40,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Finding the Best Possible Value",
+                  "body": "Businesses want **maximum** profit; engineers want **minimum** cost or material. Calculus gives a precise method to find these 'best' values. At the very top of a hill or the bottom of a valley on a smooth curve, the slope is momentarily **flat** — the derivative is zero.\n\nThis lesson shows how to use that fact to find **maximum** and **minimum** points and to solve **optimisation** problems that appear constantly in real life and on entrance exams."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Find **critical points** by solving `f'(x) = 0`.\n- Use the **first derivative test** to classify a point as a maximum or minimum.\n- Use the **second derivative** to check concavity.\n- Set up and solve word problems that ask for the **largest or smallest** value (**optimisation**)."
+                },
+                {
+                  "type": "theory",
+                  "title": "Why a Flat Slope Marks Extremes",
+                  "body": "A **maximum** or **minimum** of a smooth function happens where the curve stops rising and starts falling (or vice versa). At that exact turning point the **tangent is horizontal**, so the slope is zero: `f'(x) = 0`. The x-values where `f'(x) = 0` (or where `f'` does not exist) are called **critical points**.\n\n**First derivative test:** look at the sign of `f'` around a critical point.\n- If `f'` changes from **+ to −**, the function rises then falls — a **local maximum** (a peak).\n- If `f'` changes from **− to +**, the function falls then rises — a **local minimum** (a valley).\n\n**Second derivative test:** the second derivative `f''` measures **concavity** (the way the curve bends).\n- `f''(x) > 0`: curve bends upward (a valley) → **minimum**.\n- `f''(x) < 0`: curve bends downward (a peak) → **maximum**.\n\n*Why this matters for optimisation:* real problems ask for the best value of some quantity. We write that quantity as a function, differentiate, set the derivative to zero, and solve."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "An Optimisation Problem Step by Step",
+                  "body": "**Problem:** A farmer has 40 metres of fencing to make a rectangular pen against a straight wall (so only three sides need fencing). What dimensions give the **largest area**?\n\n**Step 1 — Name variables.** Let the two sides perpendicular to the wall be `x` each, and the side parallel to the wall be `y`.\n\n**Step 2 — Write the constraint.** Fencing used: `2x + y = 40`, so `y = 40 - 2x`.\n\n**Step 3 — Write the quantity to maximise.** Area `A = x·y = x(40 - 2x) = 40x - 2x²`.\n\n**Step 4 — Differentiate and set to zero.** `dA/dx = 40 - 4x`. Set `40 - 4x = 0` → `x = 10`.\n\n**Step 5 — Confirm it is a maximum.** `d²A/dx² = -4 < 0`, so it is a **maximum**. Good.\n\n**Step 6 — Find dimensions and area.** `y = 40 - 2(10) = 20`. Maximum area `= 10 × 20 = 200 m²`.\n\n**Answer:** the pen should be `10 m × 20 m`, giving the largest area of `200 m²`."
+                },
+                {
+                  "type": "visual",
+                  "title": "Peaks, Valleys, and Zero Slope",
+                  "body": "The cubic `y = x³ - 3x` has a **local maximum** near `x = -1` (slope changes + to −) and a **local minimum** near `x = 1` (slope changes − to +). At both turning points the tangent is horizontal (`f'(x) = 0`).",
+                  "visual": {
+                    "kind": "function-graph",
+                    "data": {
+                      "xLabel": "x",
+                      "yLabel": "y = x³ - 3x",
+                      "series": [
+                        {
+                          "label": "y = x³ - 3x",
+                          "points": [[-2, -2], [-1, 2], [0, 0], [1, -2], [2, 2]]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Stopping at f'(x) = 0.** Finding a critical point is not enough — you must classify it as a maximum, minimum, or neither.\n- **Forgetting the constraint in word problems.** You usually have two variables; use the constraint equation to remove one before differentiating.\n- **Mixing up the second derivative test.** `f'' > 0` means a *minimum* (smiles up), `f'' < 0` means a *maximum* (frowns down). Many students reverse this.\n- **Ignoring the endpoints.** On a closed interval, the largest/smallest value can occur at an endpoint, not only at a critical point."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **\"Set the slope to zero\":** to find peaks and valleys, solve `f'(x) = 0`.\n- **Smile and frown:** `f'' > 0` is a **smile** (∪, minimum); `f'' < 0` is a **frown** (∩, maximum).\n- **Optimisation recipe — C-D-S:** write the **C**onstraint, build the **D**eriving function, **S**olve `f'(x) = 0`. Then check it is the right kind of extreme."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Find the critical points of `f(x) = x² - 6x + 5`.\n2. Classify the critical point in Q1 using the second derivative.\n3. A number plus its square is `x + x²`? Instead: find two positive numbers with sum 20 whose product is largest.\n4. For `f(x) = x³ - 3x`, find the x-values of the turning points.\n\n**Answers:**\n1. `f'(x) = 2x - 6 = 0 → x = 3`.\n2. `f''(x) = 2 > 0`, so `x = 3` is a minimum.\n3. Let numbers be x and 20 - x; product `P = 20x - x²`, `P' = 20 - 2x = 0 → x = 10`. Both numbers are 10, product 100.\n4. `f'(x) = 3x² - 3 = 0 → x² = 1 → x = ±1`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **Critical points** occur where `f'(x) = 0` (horizontal tangent).\n- **First derivative test:** + to − means a **maximum**; − to + means a **minimum**.\n- **Second derivative test:** `f'' > 0` → minimum (smile); `f'' < 0` → maximum (frown).\n- **Optimisation:** write the quantity as a function using the constraint, then set its derivative to zero.\n- Always **classify** the point and check **endpoints** when the interval is closed."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Critical point",
+                      "definition": "An x-value where the derivative is zero or undefined; a candidate for a maximum or minimum."
+                    },
+                    {
+                      "term": "Local maximum",
+                      "definition": "A point where the function value is higher than at nearby points (a peak)."
+                    },
+                    {
+                      "term": "Local minimum",
+                      "definition": "A point where the function value is lower than at nearby points (a valley)."
+                    },
+                    {
+                      "term": "Second derivative",
+                      "definition": "The derivative of the derivative; it measures concavity (how the curve bends)."
+                    },
+                    {
+                      "term": "Optimisation",
+                      "definition": "Finding the largest or smallest value of a quantity, often subject to a constraint."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "Where do maximum and minimum points occur on a smooth curve?",
+                  "back": "Where the slope is zero, i.e. where f'(x) = 0 (critical points)."
+                },
+                {
+                  "front": "First derivative test: what does + to − mean?",
+                  "back": "The function rises then falls — a local maximum (peak)."
+                },
+                {
+                  "front": "Second derivative test rules?",
+                  "back": "f'' > 0 means a minimum (smile ∪); f'' < 0 means a maximum (frown ∩)."
+                },
+                {
+                  "front": "First step in an optimisation word problem?",
+                  "back": "Write the constraint equation and use it to express the target quantity in one variable."
+                },
+                {
+                  "front": "Why might the maximum not be at a critical point?",
+                  "back": "On a closed interval, the largest or smallest value can occur at an endpoint."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Critical points",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "At a maximum or minimum point of a smooth function, the derivative f'(x) equals:",
+              "options": ["0", "1", "the function value", "infinity"],
+              "answer": "0",
+              "explanation": "At a turning point the tangent is horizontal, so the slope (derivative) is 0."
+            },
+            {
+              "topic": "Finding critical points",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Find the critical point of f(x) = x² - 8x + 1.",
+              "options": ["x = 8", "x = 4", "x = -4", "x = 1"],
+              "answer": "1",
+              "explanation": "f'(x) = 2x - 8 = 0 gives x = 4."
+            },
+            {
+              "topic": "Second derivative test",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "If f''(x) < 0 at a critical point, the point is a:",
+              "options": ["minimum", "maximum", "point of inflection", "discontinuity"],
+              "answer": "1",
+              "explanation": "f'' < 0 means the curve bends downward (frown), so the critical point is a maximum."
+            },
+            {
+              "topic": "Classifying a point",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "For f(x) = x² - 6x + 5, classify the critical point at x = 3.",
+              "options": ["maximum", "minimum", "neither", "cannot be found"],
+              "answer": "1",
+              "explanation": "f''(x) = 2 > 0, so x = 3 is a minimum."
+            },
+            {
+              "topic": "Optimisation setup",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Two positive numbers have a sum of 12. What is their maximum possible product?",
+              "options": ["36", "32", "11", "12"],
+              "answer": "0",
+              "explanation": "Let numbers be x and 12 - x. Product P = 12x - x². P' = 12 - 2x = 0 gives x = 6, so both numbers are 6 and the product is 36."
+            },
+            {
+              "topic": "Optimisation application",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A rectangular pen against a wall uses 40 m of fencing on three sides. What is the maximum area?",
+              "options": ["100 m²", "200 m²", "400 m²", "160 m²"],
+              "answer": "1",
+              "explanation": "With 2x + y = 40, area A = x(40 - 2x). A' = 40 - 4x = 0 gives x = 10, y = 20, so maximum area = 200 m²."
+            }
+          ]
+        },
+        {
+          "title": "Introduction to Integral Calculus",
+          "description": "Understanding integration as the reverse of differentiation, evaluating definite integrals, and using them to find areas under curves.",
+          "lessons": [
+            {
+              "title": "Antiderivatives, Definite Integrals and Area",
+              "summary": "Learn integration as the reverse of differentiation, find indefinite and definite integrals using the power rule, and use the Fundamental Theorem of Calculus to compute areas under curves.",
+              "estimatedMinutes": 40,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Adding Up Tiny Pieces",
+                  "body": "Differentiation breaks change into instants. **Integration** does the opposite — it adds up countless tiny pieces to find a total: a distance from a speed, or an **area under a curve**.\n\nIntegration is the **reverse of differentiation**. If you know the rate at which something changes, integration recovers the original quantity. This idea, tied together by the **Fundamental Theorem of Calculus**, is one of the greatest results in all of mathematics."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Explain integration as **antidifferentiation** (the reverse of the derivative).\n- Find **indefinite integrals** using the power rule, remembering the constant `+ C`.\n- Evaluate **definite integrals** between two limits.\n- Use the **Fundamental Theorem of Calculus** to find the **area under a curve**."
+                },
+                {
+                  "type": "theory",
+                  "title": "From Reverse Power Rule to Area",
+                  "body": "An **antiderivative** of `f(x)` is a function `F(x)` whose derivative is `f(x)`. Because the derivative of a constant is 0, antiderivatives come in families differing by a constant — so we always add `+ C`, the **constant of integration**.\n\n**Power rule for integration** (reverse of the derivative power rule):\n`∫ xⁿ dx = xⁿ⁺¹/(n + 1) + C`, valid for `n ≠ -1`.\n*Why:* differentiating `xⁿ⁺¹/(n+1)` brings the power down and cancels the `(n+1)`, returning `xⁿ`.\n\nA **definite integral** `∫ from a to b f(x) dx` is a single number — the **signed area** between the curve and the x-axis from `x = a` to `x = b`.\n\n**Fundamental Theorem of Calculus:** if `F` is an antiderivative of `f`, then\n`∫ from a to b f(x) dx = F(b) - F(a)`.\n*Why this is amazing:* it connects two seemingly different ideas — slopes (derivatives) and areas (integrals) — into one simple rule. Note: there is **no `+ C`** for a definite integral, because it cancels in the subtraction."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Finding an Area Under a Curve",
+                  "body": "**Problem:** Find the area under the curve `y = x²` from `x = 0` to `x = 3`.\n\n**Step 1 — Set up the definite integral.** Area `= ∫ from 0 to 3 x² dx`.\n\n**Step 2 — Find the antiderivative.** Using the power rule, `∫ x² dx = x³/3` (we omit `+ C` for a definite integral).\n\n**Step 3 — Apply the Fundamental Theorem.** Evaluate `F(x) = x³/3` at the limits:\n`F(3) - F(0) = (3³/3) - (0³/3) = 27/3 - 0 = 9`.\n\n**Answer:** the area is `9 square units`.\n\n**Check the reverse:** differentiating `x³/3` gives `3x²/3 = x²`, confirming our antiderivative is correct."
+                },
+                {
+                  "type": "visual",
+                  "title": "The Definite Integral as Area",
+                  "body": "The shaded region under `y = x²` between `x = 0` and `x = 3` has area exactly 9. The definite integral measures this area by summing infinitely many thin vertical strips. The curve below is the boundary of that region.",
+                  "visual": {
+                    "kind": "function-graph",
+                    "data": {
+                      "xLabel": "x",
+                      "yLabel": "y = x²",
+                      "series": [
+                        {
+                          "label": "y = x²",
+                          "points": [[0, 0], [1, 1], [2, 4], [3, 9]]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Forgetting + C** for an indefinite integral. Every antiderivative needs it because constants vanish under differentiation.\n- **Adding + C to a definite integral.** It cancels in `F(b) - F(a)`, so it should not appear in the final number.\n- **Using the power rule when n = -1.** `∫ x⁻¹ dx` is NOT `x⁰/0` (undefined); it equals `ln|x| + C`.\n- **Subtracting in the wrong order.** It is `F(b) - F(a)` (top limit minus bottom limit), not the reverse."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Integration is the reverse:** \"**Add one to the power, divide by the new power.**\" (Opposite of the derivative's 'bring down, take one off'.)\n- **Never forget + C:** for indefinite integrals, a missing `+ C` is the most common lost mark — make it a habit.\n- **Definite = top minus bottom:** evaluate at the **upper** limit first, then subtract the value at the **lower** limit."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Find `∫ x³ dx`.\n2. Find `∫ (2x + 1) dx`.\n3. Evaluate `∫ from 0 to 2 x dx`.\n4. Find the area under `y = x²` from `x = 0` to `x = 1`.\n\n**Answers:**\n1. `x⁴/4 + C`.\n2. `x² + x + C`.\n3. `[x²/2] from 0 to 2 = 2 - 0 = 2`.\n4. `[x³/3] from 0 to 1 = 1/3 - 0 = 1/3`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **Integration** is the **reverse of differentiation** (antidifferentiation).\n- **Power rule:** `∫ xⁿ dx = xⁿ⁺¹/(n+1) + C` (for `n ≠ -1`); always add `+ C` for indefinite integrals.\n- A **definite integral** `∫ from a to b f dx` is a number equal to the **area** under the curve.\n- **Fundamental Theorem:** `∫ from a to b f dx = F(b) - F(a)`, with no `+ C`.\n- Differentiating your answer is a good way to **check** an integral."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Antiderivative",
+                      "definition": "A function whose derivative is the given function; the result of integration."
+                    },
+                    {
+                      "term": "Indefinite integral",
+                      "definition": "The general antiderivative of a function, including the constant of integration + C."
+                    },
+                    {
+                      "term": "Definite integral",
+                      "definition": "A number giving the signed area under a curve between two limits a and b."
+                    },
+                    {
+                      "term": "Constant of integration (C)",
+                      "definition": "The arbitrary constant added to an indefinite integral because constants disappear when differentiating."
+                    },
+                    {
+                      "term": "Fundamental Theorem of Calculus",
+                      "definition": "The rule that ∫ from a to b f(x) dx = F(b) - F(a), linking integration and differentiation."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What is integration in one phrase?",
+                  "back": "The reverse of differentiation — finding a function from its rate of change (antidifferentiation)."
+                },
+                {
+                  "front": "State the power rule for integration.",
+                  "back": "∫ xⁿ dx = xⁿ⁺¹/(n+1) + C, for n ≠ -1."
+                },
+                {
+                  "front": "Why add + C to an indefinite integral?",
+                  "back": "Because the derivative of any constant is 0, so infinitely many antiderivatives differ only by a constant."
+                },
+                {
+                  "front": "State the Fundamental Theorem of Calculus.",
+                  "back": "∫ from a to b f(x) dx = F(b) - F(a), where F is an antiderivative of f."
+                },
+                {
+                  "front": "What does a definite integral represent geometrically?",
+                  "back": "The signed area between the curve and the x-axis from x = a to x = b."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Meaning of integration",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Integration is best described as the reverse of:",
+              "options": ["addition", "differentiation", "multiplication", "factoring"],
+              "answer": "1",
+              "explanation": "Integration (antidifferentiation) reverses differentiation, recovering a function from its rate of change."
+            },
+            {
+              "topic": "Power rule for integrals",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is ∫ x² dx?",
+              "options": ["2x + C", "x³/3 + C", "x³ + C", "3x³ + C"],
+              "answer": "1",
+              "explanation": "Add one to the power and divide by the new power: x³/3 + C."
+            },
+            {
+              "topic": "Constant of integration",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which is the correct indefinite integral of 4x³?",
+              "options": ["12x² + C", "x⁴ + C", "x⁴", "4x⁴ + C"],
+              "answer": "1",
+              "explanation": "∫ 4x³ dx = 4·(x⁴/4) + C = x⁴ + C. The + C is required for an indefinite integral."
+            },
+            {
+              "topic": "Definite integral",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Evaluate ∫ from 0 to 3 x dx.",
+              "options": ["3", "9/2", "9", "6"],
+              "answer": "1",
+              "explanation": "Antiderivative is x²/2. Evaluate: (3²/2) - (0) = 9/2 = 4.5."
+            },
+            {
+              "topic": "Area under a curve",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "What is the area under y = x² from x = 0 to x = 2?",
+              "options": ["4/3", "8/3", "4", "8"],
+              "answer": "1",
+              "explanation": "∫ from 0 to 2 x² dx = [x³/3] = 8/3 - 0 = 8/3 square units."
+            },
+            {
+              "topic": "Fundamental Theorem of Calculus",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "If F(x) is an antiderivative of f(x), then ∫ from a to b f(x) dx equals:",
+              "options": ["F(a) - F(b)", "F(b) - F(a)", "F(b) + F(a) + C", "F'(b) - F'(a)"],
+              "answer": "1",
+              "explanation": "By the Fundamental Theorem of Calculus, the definite integral equals F(b) - F(a), the antiderivative at the upper limit minus at the lower limit."
+            }
+          ]
+        },
+        {
+          "title": "Three Dimensional Geometry and Vectors in Space",
+          "description": "Locating points in 3D space, measuring distances and midpoints, writing the equation of a sphere, and working with vectors in three dimensions.",
+          "lessons": [
+            {
+              "title": "Coordinates, Distance and Vectors in Space",
+              "summary": "Extend coordinate geometry to three dimensions: plot points (x, y, z), find distances and midpoints, write the equation of a sphere, and add and scale vectors in space.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "From Flat Maps to Real Space",
+                  "body": "A point on a flat map needs two numbers `(x, y)`. But the real world has **depth** too — a drone in the sky needs a third number for height. We describe points in space with three coordinates `(x, y, z)`.\n\nThis lesson extends what you know about the coordinate plane into **three-dimensional (3D) space**. We will measure distances, find midpoints, describe spheres, and use **vectors** — quantities with both size and direction — which are essential in physics and engineering."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Plot and describe a point `(x, y, z)` using **three coordinate axes**.\n- Use the **3D distance formula** between two points.\n- Find the **midpoint** of a segment in space.\n- Write the **equation of a sphere** and perform **vector** addition and scalar multiplication."
+                },
+                {
+                  "type": "theory",
+                  "title": "Extending Geometry by One Dimension",
+                  "body": "In space we add a third axis, the **z-axis**, perpendicular to both the x- and y-axes. A point is written `(x, y, z)`. *Why three numbers:* each axis is independent, so it takes three to pin down a location.\n\n**Distance between two points** `P(x₁, y₁, z₁)` and `Q(x₂, y₂, z₂)`:\n`d = √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]`.\n*Why:* this is the Pythagorean theorem applied twice — once in the base plane, then up to the height.\n\n**Midpoint** of `PQ`: average each coordinate:\n`M = ((x₁+x₂)/2, (y₁+y₂)/2, (z₁+z₂)/2)`.\n\n**Equation of a sphere** with centre `(a, b, c)` and radius `r`:\n`(x - a)² + (y - b)² + (z - c)² = r²`.\n*Why:* it is just the set of all points whose distance from the centre equals `r`.\n\n**Vectors in space:** a vector `v = (a, b, c)` has size (magnitude) `|v| = √(a² + b² + c²)` and direction. To **add** vectors, add matching components; to **scale** by a number `k`, multiply every component by `k`."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Distance, Midpoint and a Sphere Step by Step",
+                  "body": "**Problem:** Given `P(1, 2, 3)` and `Q(4, 6, 3)`, find (a) the distance `PQ`, (b) the midpoint, and (c) the equation of the sphere with centre `P` and radius 5.\n\n**Part (a) — Distance.**\n`d = √[(4-1)² + (6-2)² + (3-3)²] = √[3² + 4² + 0²] = √[9 + 16 + 0] = √25 = 5`.\n\n**Part (b) — Midpoint.**\n`M = ((1+4)/2, (2+6)/2, (3+3)/2) = (5/2, 4, 3) = (2.5, 4, 3)`.\n\n**Part (c) — Sphere with centre P(1, 2, 3), radius 5.**\nUsing `(x - a)² + (y - b)² + (z - c)² = r²`:\n`(x - 1)² + (y - 2)² + (z - 3)² = 25`.\n\n**Answers:** distance `= 5`, midpoint `= (2.5, 4, 3)`, sphere `(x-1)² + (y-2)² + (z-3)² = 25`."
+                },
+                {
+                  "type": "visual",
+                  "title": "Locating a Point in 3D Space",
+                  "body": "To plot `(4, 6, 3)`, move 4 along x, 6 along y, then 3 up the z-axis. The projection onto the flat xy-plane is the point `(4, 6)`; the height adds the third dimension. The chart below shows the base-plane footprints of our two example points P and Q.",
+                  "visual": {
+                    "kind": "coordinate-plane",
+                    "data": {
+                      "xLabel": "x",
+                      "yLabel": "y",
+                      "points": [
+                        {"x": 1, "y": 2, "label": "P base (1,2)"},
+                        {"x": 4, "y": 6, "label": "Q base (4,6)"}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Forgetting the z-term.** The 3D distance formula has *three* squared differences; do not drop the `(z₂ - z₁)²`.\n- **Sign error in the sphere equation.** It uses `(x - a)²`. If the centre is `(-2, ...)`, the term is `(x - (-2))² = (x + 2)²`.\n- **Confusing radius and diameter.** The right side of a sphere's equation is `r²`, not `(2r)²`.\n- **Multiplying vectors like numbers.** To scale a vector by `k`, multiply *every* component by `k`; do not just scale one."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Distance = \"square, add, root\":** square each coordinate difference, add them all (including z), then take the square root.\n- **Midpoint = average:** just average the x's, the y's, and the z's separately.\n- **Sphere mirrors the circle:** a sphere's equation is the circle's `(x-a)² + (y-b)² = r²` with one more squared term, `(z-c)²`."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Find the distance between `(0, 0, 0)` and `(2, 3, 6)`.\n2. Find the midpoint of `(1, 1, 1)` and `(3, 5, 7)`.\n3. Write the equation of the sphere with centre `(0, 0, 0)` and radius 4.\n4. If `u = (1, 2, 3)` and `v = (4, 0, -1)`, find `u + v`.\n\n**Answers:**\n1. `√(4 + 9 + 36) = √49 = 7`.\n2. `(2, 3, 4)`.\n3. `x² + y² + z² = 16`.\n4. `(5, 2, 2)`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- A point in space needs **three coordinates** `(x, y, z)`.\n- **Distance:** `√[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]` — Pythagoras in 3D.\n- **Midpoint:** average each coordinate.\n- **Sphere:** `(x-a)² + (y-b)² + (z-c)² = r²` (centre `(a,b,c)`, radius `r`).\n- **Vectors:** add component-by-component; magnitude `|v| = √(a²+b²+c²)`."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "z-axis",
+                      "definition": "The third coordinate axis in space, perpendicular to both the x-axis and y-axis."
+                    },
+                    {
+                      "term": "Distance formula (3D)",
+                      "definition": "d = √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²], the straight-line distance between two points in space."
+                    },
+                    {
+                      "term": "Midpoint",
+                      "definition": "The point exactly halfway between two points, found by averaging their coordinates."
+                    },
+                    {
+                      "term": "Sphere",
+                      "definition": "The set of all points in space at a fixed distance (radius) from a centre point."
+                    },
+                    {
+                      "term": "Vector",
+                      "definition": "A quantity with both magnitude (size) and direction, written as components (a, b, c)."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "How many coordinates locate a point in space?",
+                  "back": "Three: (x, y, z), one for each perpendicular axis."
+                },
+                {
+                  "front": "State the 3D distance formula.",
+                  "back": "d = √[(x₂-x₁)² + (y₂-y₁)² + (z₂-z₁)²]."
+                },
+                {
+                  "front": "How do you find a midpoint in space?",
+                  "back": "Average each coordinate: ((x₁+x₂)/2, (y₁+y₂)/2, (z₁+z₂)/2)."
+                },
+                {
+                  "front": "Equation of a sphere with centre (a,b,c), radius r?",
+                  "back": "(x - a)² + (y - b)² + (z - c)² = r²."
+                },
+                {
+                  "front": "How do you add two vectors and find magnitude?",
+                  "back": "Add matching components; magnitude is |v| = √(a² + b² + c²)."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Coordinates in space",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "How many coordinates are needed to locate a point in three-dimensional space?",
+              "options": ["1", "2", "3", "4"],
+              "answer": "2",
+              "explanation": "Space has three independent directions, so a point needs three coordinates (x, y, z)."
+            },
+            {
+              "topic": "Distance from origin",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the distance from the origin to the point (2, 3, 6)?",
+              "options": ["7", "11", "√11", "41"],
+              "answer": "0",
+              "explanation": "d = √(2² + 3² + 6²) = √(4 + 9 + 36) = √49 = 7."
+            },
+            {
+              "topic": "Midpoint",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the midpoint of (2, 4, 6) and (4, 8, 10)?",
+              "options": ["(3, 6, 8)", "(6, 12, 16)", "(2, 4, 4)", "(3, 4, 8)"],
+              "answer": "0",
+              "explanation": "Average each coordinate: ((2+4)/2, (4+8)/2, (6+10)/2) = (3, 6, 8)."
+            },
+            {
+              "topic": "Equation of a sphere",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the equation of the sphere with centre (1, -2, 3) and radius 4?",
+              "options": ["(x-1)² + (y+2)² + (z-3)² = 16", "(x+1)² + (y-2)² + (z+3)² = 16", "(x-1)² + (y-2)² + (z-3)² = 4", "(x-1)² + (y+2)² + (z-3)² = 4"],
+              "answer": "0",
+              "explanation": "Use (x-a)² + (y-b)² + (z-c)² = r². With centre (1, -2, 3): (x-1)² + (y+2)² + (z-3)² = 16."
+            },
+            {
+              "topic": "Vector addition",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "If u = (3, -1, 2) and v = (1, 4, -2), what is u + v?",
+              "options": ["(4, 3, 0)", "(2, -5, 4)", "(3, -4, -4)", "(4, 3, 4)"],
+              "answer": "0",
+              "explanation": "Add matching components: (3+1, -1+4, 2+(-2)) = (4, 3, 0)."
+            },
+            {
+              "topic": "Magnitude of a vector",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "What is the magnitude of the vector v = (1, 2, 2)?",
+              "options": ["5", "3", "√5", "9"],
+              "answer": "1",
+              "explanation": "|v| = √(1² + 2² + 2²) = √(1 + 4 + 4) = √9 = 3."
+            }
+          ]
+        },
+        {
+          "title": "Mathematical Proofs",
+          "description": "Reviewing logic, learning different methods of proof including direct and contradiction, and using the principle of mathematical induction.",
+          "lessons": [
+            {
+              "title": "Methods of Proof and Mathematical Induction",
+              "summary": "Review the logic behind statements, learn direct proof, proof by contradiction, and the powerful method of mathematical induction for statements about natural numbers.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Why We Prove Things",
+                  "body": "In mathematics, checking a few examples is never enough. A pattern might hold for the first thousand numbers and then fail. A **proof** is a watertight argument showing a statement is true for *all* cases it claims to cover.\n\nThis lesson reviews **logic** and teaches three key tools: **direct proof**, **proof by contradiction**, and **mathematical induction** — a clever method for proving statements about all natural numbers, one of the most useful techniques on entrance exams."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Recall basic **logic**: implications `p ⇒ q` and their meaning.\n- Carry out a **direct proof**.\n- Use **proof by contradiction**.\n- Apply the **principle of mathematical induction** with its two steps."
+                },
+                {
+                  "type": "theory",
+                  "title": "Three Ways to Prove a Statement",
+                  "body": "A **statement** is a sentence that is either true or false. An **implication** `p ⇒ q` means 'if p, then q'. *Why logic matters:* proofs are chains of valid implications.\n\n**Direct proof:** assume the hypothesis is true and use definitions and known facts to reach the conclusion step by step. (Example: to prove 'the sum of two even numbers is even', write them as `2m` and `2n`; their sum `2m + 2n = 2(m+n)` is clearly even.)\n\n**Proof by contradiction:** assume the statement is **false**, then show this leads to an impossible situation (a contradiction). Since the assumption breaks logic, the original statement must be true. (This is how we prove `√2` is irrational.)\n\n**Mathematical induction:** used to prove a statement `P(n)` is true for **all** natural numbers `n`. It has two steps:\n1. **Base case:** show `P(1)` is true.\n2. **Inductive step:** assume `P(k)` is true (the **inductive hypothesis**) and use it to show `P(k+1)` is true.\n*Why it works:* like dominoes — if the first falls (base case) and each one knocks over the next (inductive step), they all fall."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "A Proof by Induction Step by Step",
+                  "body": "**Problem:** Prove that `1 + 2 + 3 + ... + n = n(n+1)/2` for every natural number `n`.\n\n**Step 1 — Base case (n = 1).** Left side: `1`. Right side: `1(1+1)/2 = 2/2 = 1`. They match, so `P(1)` is true.\n\n**Step 2 — Inductive hypothesis.** Assume `P(k)` is true for some `k`:\n`1 + 2 + ... + k = k(k+1)/2`.\n\n**Step 3 — Inductive step.** Show `P(k+1)`: that `1 + 2 + ... + k + (k+1) = (k+1)(k+2)/2`.\nStart from the left and use the hypothesis:\n`[1 + 2 + ... + k] + (k+1) = k(k+1)/2 + (k+1)`.\nFactor out `(k+1)`: `= (k+1)[k/2 + 1] = (k+1)[(k + 2)/2] = (k+1)(k+2)/2`.\n\n**Step 4 — Conclusion.** This is exactly `P(k+1)`. Since the base case holds and each case implies the next, by induction the formula is true for **all** natural numbers `n`."
+                },
+                {
+                  "type": "visual",
+                  "title": "Induction Works Like Falling Dominoes",
+                  "body": "Mathematical induction is like a line of dominoes. The **base case** is pushing the first one over. The **inductive step** guarantees that whenever one falls, it knocks the next. Together, every domino falls. The number line below shows the chain of cases P(1), P(2), P(3), ... each triggering the next.",
+                  "visual": {
+                    "kind": "number-line",
+                    "data": {
+                      "min": 0,
+                      "max": 6,
+                      "points": [
+                        {"value": 1, "label": "P(1) base"},
+                        {"value": 2, "label": "P(2)"},
+                        {"value": 3, "label": "P(3)"},
+                        {"value": 4, "label": "P(4)"},
+                        {"value": 5, "label": "..."}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Skipping the base case.** Without showing `P(1)` (the first domino), the whole chain may never start. Both steps are required.\n- **Not using the inductive hypothesis.** The inductive step *must* use the assumption `P(k)`; otherwise it is not a valid induction.\n- **Thinking a few examples are a proof.** Checking `n = 1, 2, 3` shows the pattern but does not prove it for *all* n.\n- **In contradiction, forgetting to assume the opposite.** You must assume the statement is false and derive an impossibility."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Induction = dominoes:** **B**ase case (push the first) + **S**tep (each knocks the next) = all fall. Remember 'B then S'.\n- **Contradiction = \"suppose not\":** begin with 'Suppose, for contradiction, that the statement is false...'.\n- **Direct proof = \"follow the definitions\":** unpack what the words mean (even = `2m`, etc.) and let the algebra carry you to the conclusion."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Prove directly that the sum of two odd numbers is even.\n2. What two steps make up a proof by induction?\n3. In the inductive step, what are you allowed to assume?\n4. Verify the base case for `2 + 4 + 6 + ... + 2n = n(n+1)` at `n = 1`.\n\n**Answers:**\n1. Odd numbers are `2m+1` and `2n+1`; sum = `2m + 2n + 2 = 2(m+n+1)`, which is even.\n2. The base case and the inductive step.\n3. The inductive hypothesis: that `P(k)` is true for some k.\n4. Left: `2`. Right: `1(1+1) = 2`. They match, so the base case holds."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- A **proof** establishes truth for all stated cases; examples alone are not proof.\n- **Direct proof:** assume the hypothesis, reach the conclusion using definitions.\n- **Proof by contradiction:** assume the statement is false and derive an impossibility.\n- **Induction:** prove the **base case** `P(1)`, then the **inductive step** `P(k) ⇒ P(k+1)`.\n- Induction works like **falling dominoes** — both steps are essential."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Statement",
+                      "definition": "A sentence that is either true or false, not both."
+                    },
+                    {
+                      "term": "Implication (p ⇒ q)",
+                      "definition": "A logical 'if p, then q' relationship between two statements."
+                    },
+                    {
+                      "term": "Proof by contradiction",
+                      "definition": "A method that assumes a statement is false and shows this leads to an impossibility."
+                    },
+                    {
+                      "term": "Mathematical induction",
+                      "definition": "A proof method for all natural numbers using a base case and an inductive step."
+                    },
+                    {
+                      "term": "Inductive hypothesis",
+                      "definition": "The assumption that P(k) is true, used to prove P(k+1) in the inductive step."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "Why are examples not enough to prove a statement?",
+                  "back": "A pattern can hold for many cases and still fail later; a proof must cover all cases."
+                },
+                {
+                  "front": "What are the two steps of mathematical induction?",
+                  "back": "1) Base case: prove P(1). 2) Inductive step: assume P(k), prove P(k+1)."
+                },
+                {
+                  "front": "How does proof by contradiction work?",
+                  "back": "Assume the statement is false, then derive an impossibility, so the statement must be true."
+                },
+                {
+                  "front": "What is the inductive hypothesis?",
+                  "back": "The assumption that P(k) is true, which you use to prove P(k+1)."
+                },
+                {
+                  "front": "What analogy describes induction?",
+                  "back": "Falling dominoes: push the first (base case) and each knocks the next (inductive step), so all fall."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Purpose of proof",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Why is checking the first few cases not a valid proof for all natural numbers?",
+              "options": ["It takes too long", "A pattern may fail for some later number", "Examples are always wrong", "Numbers are infinite so nothing can be proved"],
+              "answer": "1",
+              "explanation": "A statement can be true for many cases yet false later. A proof must guarantee all cases, which induction does."
+            },
+            {
+              "topic": "Steps of induction",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which two parts make up a proof by mathematical induction?",
+              "options": ["Base case and inductive step", "Hypothesis and conclusion", "Guess and check", "Add and multiply"],
+              "answer": "0",
+              "explanation": "Induction requires a base case (P(1)) and an inductive step (P(k) ⇒ P(k+1))."
+            },
+            {
+              "topic": "Direct proof",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "In a direct proof that the sum of two even numbers is even, the numbers are written as:",
+              "options": ["2m + 1 and 2n + 1", "2m and 2n", "m² and n²", "m/2 and n/2"],
+              "answer": "1",
+              "explanation": "Even numbers have the form 2m and 2n. Their sum 2m + 2n = 2(m + n) is clearly even."
+            },
+            {
+              "topic": "Base case",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "To prove 1 + 2 + ... + n = n(n+1)/2 by induction, the base case n = 1 gives:",
+              "options": ["both sides equal 1", "left side 1, right side 2", "both sides equal 0", "left side 2, right side 1"],
+              "answer": "0",
+              "explanation": "Left side is 1; right side is 1(1+1)/2 = 1. Both equal 1, so the base case holds."
+            },
+            {
+              "topic": "Proof by contradiction",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A proof by contradiction begins by assuming that:",
+              "options": ["the statement is true", "the statement is false", "n = 1", "the statement is sometimes true"],
+              "answer": "1",
+              "explanation": "You assume the statement is false, then show this leads to a contradiction, proving it must be true."
+            },
+            {
+              "topic": "Inductive step",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "In the inductive step, to prove P(k+1) you are allowed to assume:",
+              "options": ["P(k+1) is already true", "P(k) is true", "P(n) is true for all n", "nothing at all"],
+              "answer": "1",
+              "explanation": "You assume the inductive hypothesis P(k) is true and use it to prove P(k+1)."
+            }
+          ]
+        },
+        {
+          "title": "Further on Statistics",
+          "description": "Sampling techniques, representing and graphing data, calculating measures of central tendency and variability, and using cumulative frequency curves.",
+          "lessons": [
+            {
+              "title": "Measures of Central Tendency and Variability",
+              "summary": "Learn sampling methods, compute the mean, median and mode, and measure how spread out data is using range, variance and standard deviation.",
+              "estimatedMinutes": 35,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Making Sense of Data",
+                  "body": "When the Ethiopian government surveys household incomes or a school records exam marks, it gathers lots of numbers. **Statistics** turns this raw data into useful summaries: a typical value, and how spread out the values are.\n\nThis lesson covers how to **sample** fairly, how to find the **centre** of data (mean, median, mode), and how to measure its **spread** (range, variance, standard deviation) — skills used in research, business, and government planning."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Describe **random sampling** and why it matters.\n- Calculate the **mean**, **median**, and **mode**.\n- Choose the most suitable average for a data set.\n- Calculate the **range**, **variance**, and **standard deviation** to measure spread."
+                },
+                {
+                  "type": "theory",
+                  "title": "Centre and Spread Explained",
+                  "body": "A **population** is the whole group we want to study; a **sample** is a smaller part we actually measure. In **random sampling** every member has an equal chance of being chosen. *Why:* this avoids bias so the sample fairly represents the population.\n\n**Measures of central tendency** describe the 'typical' value:\n- **Mean:** add all values and divide by how many there are. `mean = (Σx)/n`.\n- **Median:** the middle value when data is ordered (or the average of the two middle values).\n- **Mode:** the value that appears most often.\n*Why we need three:* the mean uses every value but is pulled by extreme **outliers**; the median resists outliers; the mode suits categories.\n\n**Measures of variability** describe the spread:\n- **Range:** largest value − smallest value (quick but uses only two values).\n- **Variance (σ²):** the average of the squared differences from the mean. `σ² = Σ(x - mean)²/n`.\n- **Standard deviation (σ):** the square root of the variance, `σ = √(variance)`. *Why square root:* it returns the spread to the original units, making it easy to interpret."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Mean, Median, Mode and Standard Deviation Step by Step",
+                  "body": "**Data:** the marks `2, 4, 4, 6, 9`.\n\n**Mean.** Sum `= 2 + 4 + 4 + 6 + 9 = 25`. There are `n = 5` values, so mean `= 25/5 = 5`.\n\n**Median.** Ordered data is `2, 4, 4, 6, 9`. The middle (3rd) value is `4`.\n\n**Mode.** The value `4` appears twice, more than any other, so the mode is `4`.\n\n**Standard deviation.**\n**Step 1 — Differences from the mean (5):** `-3, -1, -1, 1, 4`.\n**Step 2 — Square them:** `9, 1, 1, 1, 16`.\n**Step 3 — Average them (variance):** `(9 + 1 + 1 + 1 + 16)/5 = 28/5 = 5.6`.\n**Step 4 — Take the square root:** `σ = √5.6 ≈ 2.37`.\n\n**Answers:** mean `= 5`, median `= 4`, mode `= 4`, standard deviation `≈ 2.37`."
+                },
+                {
+                  "type": "visual",
+                  "title": "Comparing Spread on a Number Line",
+                  "body": "The data `2, 4, 4, 6, 9` is centred at the mean of 5. Marking the values on a number line shows they are spread roughly 2.37 units (one standard deviation) on average from the centre. Values farther from 5 contribute more to the variance.",
+                  "visual": {
+                    "kind": "number-line",
+                    "data": {
+                      "min": 0,
+                      "max": 10,
+                      "points": [
+                        {"value": 2, "label": "2"},
+                        {"value": 4, "label": "4 (x2)"},
+                        {"value": 5, "label": "mean"},
+                        {"value": 6, "label": "6"},
+                        {"value": 9, "label": "9"}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Forgetting to order data before finding the median.** The median is the middle of the *sorted* list, not the original order.\n- **Dividing the variance by the wrong count.** For these problems, divide the sum of squared differences by `n` (the number of values).\n- **Forgetting the square root for standard deviation.** Variance is in squared units; the standard deviation is its square root.\n- **Letting outliers fool you.** One very large value can pull the mean far from the centre — the median is often a better 'typical' value then."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Mean, Median, Mode:** **Mean** = average, **Median** = middle, **Mode** = most often. All start with M.\n- **Median = Middle:** both have 'd' and 'middle' — sort first, then pick the centre.\n- **Standard deviation recipe:** **subtract the mean, square, average, root** (the last step undoes the squaring)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Find the mean of `5, 7, 9, 11`.\n2. Find the median of `3, 8, 2, 9, 5`.\n3. Find the mode of `1, 2, 2, 3, 3, 3, 4`.\n4. Find the range of `12, 4, 20, 8`.\n\n**Answers:**\n1. `(5+7+9+11)/4 = 32/4 = 8`.\n2. Ordered: `2, 3, 5, 8, 9`; median `= 5`.\n3. `3` (appears three times).\n4. `20 - 4 = 16`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- **Random sampling** gives every member an equal chance, avoiding bias.\n- **Mean** = sum/count; **median** = middle of sorted data; **mode** = most frequent.\n- The **median** resists outliers; the **mean** uses every value.\n- **Range** = max − min; **variance** = average squared deviation; **standard deviation** = √variance.\n- Standard deviation is in the **same units** as the data, so it is easy to interpret."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Population and sample",
+                      "definition": "The population is the whole group studied; a sample is a smaller part actually measured."
+                    },
+                    {
+                      "term": "Mean",
+                      "definition": "The arithmetic average: the sum of all values divided by how many there are."
+                    },
+                    {
+                      "term": "Median",
+                      "definition": "The middle value of an ordered data set (or the average of the two middle values)."
+                    },
+                    {
+                      "term": "Standard deviation",
+                      "definition": "A measure of spread equal to the square root of the variance, in the data's original units."
+                    },
+                    {
+                      "term": "Outlier",
+                      "definition": "A value far from the rest of the data that can strongly affect the mean."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "How do you calculate the mean?",
+                  "back": "Add all the values and divide by the number of values: (Σx)/n."
+                },
+                {
+                  "front": "What is the median and how do you find it?",
+                  "back": "The middle value of the data after sorting it (or the average of the two middle values)."
+                },
+                {
+                  "front": "Which average is least affected by outliers?",
+                  "back": "The median, because it depends on position, not on the size of extreme values."
+                },
+                {
+                  "front": "How do you find the standard deviation?",
+                  "back": "Subtract the mean from each value, square, average (that's the variance), then take the square root."
+                },
+                {
+                  "front": "What does standard deviation tell you?",
+                  "back": "How spread out the data is, in the same units as the original data."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Mean",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the mean of 4, 6, 8, 10?",
+              "options": ["6", "7", "8", "28"],
+              "answer": "1",
+              "explanation": "Sum is 28; divide by 4 values: 28/4 = 7."
+            },
+            {
+              "topic": "Median",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the median of 7, 2, 9, 4, 5?",
+              "options": ["4", "5", "7", "9"],
+              "answer": "1",
+              "explanation": "Order the data: 2, 4, 5, 7, 9. The middle value is 5."
+            },
+            {
+              "topic": "Mode",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the mode of 3, 5, 5, 7, 8, 8, 8, 9?",
+              "options": ["5", "7", "8", "no mode"],
+              "answer": "2",
+              "explanation": "The value 8 appears three times, more than any other value, so it is the mode."
+            },
+            {
+              "topic": "Range",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the range of the data 15, 3, 22, 8, 10?",
+              "options": ["19", "22", "25", "12"],
+              "answer": "0",
+              "explanation": "Range = largest - smallest = 22 - 3 = 19."
+            },
+            {
+              "topic": "Effect of outliers",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "A data set is 4, 5, 6, 7, 100. Which measure best represents a typical value?",
+              "options": ["the mean", "the median", "the range", "the largest value"],
+              "answer": "1",
+              "explanation": "The value 100 is an outlier that pulls the mean far up. The median (6) better represents a typical value."
+            },
+            {
+              "topic": "Standard deviation",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "For the data 2, 4, 4, 6, 9 (mean 5), the variance is 5.6. What is the standard deviation (to 2 d.p.)?",
+              "options": ["5.60", "2.37", "3.14", "28.00"],
+              "answer": "1",
+              "explanation": "Standard deviation is the square root of the variance: √5.6 ≈ 2.37."
+            }
+          ]
+        },
+        {
+          "title": "Mathematical Applications for Business and Consumers",
+          "description": "Applying mathematics to everyday money matters: purchasing, percent increase and decrease, real estate expenses, and wages.",
+          "lessons": [
+            {
+              "title": "Percentages, Purchasing and Wages",
+              "summary": "Apply percentage calculations to real money problems: discounts and markups, percent increase and decrease, simple interest, and different ways of earning wages.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Mathematics for Everyday Money",
+                  "body": "Every time you see a 'price reduced by 20%' sign in an Addis Ababa shop, calculate a worker's commission, or work out the interest on a savings account, you are using **business mathematics**.\n\nThis lesson applies the maths of **percentages** to real consumer life: discounts and markups, **percent increase and decrease**, **simple interest**, and the different ways people earn **wages**. These are practical, exam-relevant skills you will use throughout life."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson you should be able to:\n\n- Calculate a **percentage** of an amount.\n- Work out **discounts**, **markups**, and the new price.\n- Find **percent increase** and **percent decrease**.\n- Calculate **simple interest** and compute **wages** (hourly, salary, commission)."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Percentage Toolkit",
+                  "body": "A **percentage** means 'per hundred'. To find a percentage of an amount, change the percent to a decimal (divide by 100) and multiply. *Example:* 20% of 50 = `0.20 × 50 = 10`.\n\n**Discount and markup.** A **discount** is a decrease in price; a **markup** is an increase.\n- New price after a discount of `r%`: `price × (1 - r/100)`.\n- New price after a markup of `r%`: `price × (1 + r/100)`.\n\n**Percent increase or decrease.** To measure change as a percentage:\n`percent change = (change/original) × 100`.\n*Why 'original':* the change is always compared to the starting value.\n\n**Simple interest.** Interest earned on a fixed principal:\n`I = P × r × t`, where `P` is the principal, `r` the yearly rate (as a decimal), and `t` the time in years.\n\n**Wages.** People earn money in different ways:\n- **Hourly wage:** `hours worked × rate per hour`.\n- **Salary:** a fixed amount per period (e.g. per month).\n- **Commission:** a percentage of sales made."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Discount, Percent Change and Interest Step by Step",
+                  "body": "**Part A — Discount.** A jacket costs Birr 800 and is reduced by 25%. Find the sale price.\nDiscount amount `= 0.25 × 800 = Birr 200`. Sale price `= 800 - 200 = Birr 600`.\n(Or directly: `800 × (1 - 0.25) = 800 × 0.75 = Birr 600`.)\n\n**Part B — Percent increase.** A worker's salary rises from Birr 4,000 to Birr 4,600. Find the percent increase.\nChange `= 4600 - 4000 = 600`. Percent increase `= (600/4000) × 100 = 15%`.\n\n**Part C — Simple interest.** Birr 5,000 is saved for 3 years at 8% per year. Find the interest.\n`I = P × r × t = 5000 × 0.08 × 3 = Birr 1,200`.\nTotal in the account `= 5000 + 1200 = Birr 6,200`.\n\n**Answers:** sale price `= Birr 600`; increase `= 15%`; interest `= Birr 1,200` (total `Birr 6,200`)."
+                },
+                {
+                  "type": "visual",
+                  "title": "How a Budget Splits Into Percentages",
+                  "body": "Percentages help share a whole into parts. Imagine a monthly transport budget split among three options. The bars below show the share each takes — together they make up 100% of the budget.",
+                  "visual": {
+                    "kind": "geometry",
+                    "data": {
+                      "shape": "bar-chart",
+                      "description": "Transport budget split: Taxi 35%, Bus 50%, Private car 15%, totalling 100%.",
+                      "bars": [
+                        {"label": "Taxi", "value": 35},
+                        {"label": "Bus", "value": 50},
+                        {"label": "Private car", "value": 15}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Forgetting to convert percent to a decimal.** 20% is `0.20`, not `20`, when multiplying.\n- **Comparing change to the wrong number.** Percent change always divides by the **original** amount, not the new one.\n- **Confusing the interest with the total.** Simple interest `I = Prt` is the *interest only*; the total is `P + I`.\n- **Adding percentages of different totals.** A 10% rise then a 10% fall does not return to the start, because the second percent is of a different amount."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Tricks to Remember",
+                  "body": "- **Percent means 'per 100':** to use it, divide by 100 first (move the decimal two places left).\n- **Discount = multiply by (1 - r); markup = multiply by (1 + r):** one quick step for the new price.\n- **Simple interest = 'PRT':** remember the word **PRT** — Principal × Rate × Time."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Find 30% of Birr 250.\n2. A Birr 1,200 item is discounted 15%. What is the sale price?\n3. A price rises from Birr 80 to Birr 100. What is the percent increase?\n4. Find the simple interest on Birr 2,000 at 5% per year for 4 years.\n\n**Answers:**\n1. `0.30 × 250 = Birr 75`.\n2. `1200 × 0.85 = Birr 1,020`.\n3. `(20/80) × 100 = 25%`.\n4. `I = 2000 × 0.05 × 4 = Birr 400`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- A **percentage** is 'per hundred'; convert to a decimal before multiplying.\n- **Discount:** `× (1 - r/100)`; **markup:** `× (1 + r/100)`.\n- **Percent change** `= (change/original) × 100` — always over the original.\n- **Simple interest:** `I = P × r × t` (PRT); total `= P + I`.\n- **Wages** come as hourly pay, fixed salary, or commission on sales."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {
+                      "term": "Percentage",
+                      "definition": "A number out of one hundred; convert to a decimal by dividing by 100."
+                    },
+                    {
+                      "term": "Discount",
+                      "definition": "A reduction in price, found by subtracting a percentage of the original price."
+                    },
+                    {
+                      "term": "Markup",
+                      "definition": "An increase in price added on top of the cost, given as a percentage."
+                    },
+                    {
+                      "term": "Percent change",
+                      "definition": "The change in a quantity as a percentage of the original: (change/original) × 100."
+                    },
+                    {
+                      "term": "Simple interest",
+                      "definition": "Interest calculated only on the principal: I = P × r × t."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "How do you find a percentage of an amount?",
+                  "back": "Convert the percent to a decimal (divide by 100) and multiply. E.g. 20% of 50 = 0.20 × 50 = 10."
+                },
+                {
+                  "front": "Formula for percent increase or decrease?",
+                  "back": "(change ÷ original) × 100. Always divide by the original amount."
+                },
+                {
+                  "front": "How do you find a sale price after a discount of r%?",
+                  "back": "Multiply the price by (1 - r/100). E.g. 25% off 800 = 800 × 0.75 = 600."
+                },
+                {
+                  "front": "State the simple interest formula.",
+                  "back": "I = P × r × t (Principal × Rate × Time). The rate is a decimal and time is in years."
+                },
+                {
+                  "front": "What are three ways to earn wages?",
+                  "back": "Hourly wage (hours × rate), fixed salary, and commission (a percentage of sales)."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Percentage of an amount",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is 20% of Birr 150?",
+              "options": ["Birr 30", "Birr 20", "Birr 15", "Birr 130"],
+              "answer": "0",
+              "explanation": "20% = 0.20. So 0.20 × 150 = Birr 30."
+            },
+            {
+              "topic": "Discount",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A shirt costs Birr 500 and is discounted 10%. What is the sale price?",
+              "options": ["Birr 490", "Birr 450", "Birr 50", "Birr 550"],
+              "answer": "1",
+              "explanation": "Sale price = 500 × (1 - 0.10) = 500 × 0.90 = Birr 450."
+            },
+            {
+              "topic": "Percent increase",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A price increases from Birr 200 to Birr 250. What is the percent increase?",
+              "options": ["20%", "25%", "50%", "10%"],
+              "answer": "1",
+              "explanation": "Change = 50. Percent increase = (50/200) × 100 = 25%."
+            },
+            {
+              "topic": "Commission wages",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A salesperson earns 5% commission on sales of Birr 40,000. How much commission is that?",
+              "options": ["Birr 200", "Birr 2,000", "Birr 4,000", "Birr 800"],
+              "answer": "1",
+              "explanation": "Commission = 0.05 × 40,000 = Birr 2,000."
+            },
+            {
+              "topic": "Simple interest",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "What is the simple interest on Birr 6,000 at 4% per year for 5 years?",
+              "options": ["Birr 240", "Birr 1,200", "Birr 1,440", "Birr 7,200"],
+              "answer": "1",
+              "explanation": "I = P × r × t = 6000 × 0.04 × 5 = Birr 1,200."
+            },
+            {
+              "topic": "Total amount with interest",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Birr 10,000 is saved at 6% simple interest per year for 3 years. What is the total amount after 3 years?",
+              "options": ["Birr 1,800", "Birr 11,800", "Birr 18,000", "Birr 10,600"],
+              "answer": "1",
+              "explanation": "Interest = 10,000 × 0.06 × 3 = Birr 1,800. Total = principal + interest = 10,000 + 1,800 = Birr 11,800."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

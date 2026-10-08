@@ -1,0 +1,643 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 8,
+      "subjectKey": "mathematics",
+      "chapters": [
+        {
+          "title": "Squares, Square Roots, Cubes and Cube Roots",
+          "description": "Raising rational numbers to the power 2 and 3, and reversing the process by extracting square roots and cube roots.",
+          "lessons": [
+            {
+              "title": "Squares, Cubes and Their Roots",
+              "summary": "Learn how to square and cube a rational number, recognise perfect squares and perfect cubes, and find their square roots and cube roots.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Why squares and cubes matter",
+                  "body": "When you multiply a number by itself you get its **square**; when you use it three times as a factor you get its **cube**. These ideas are everywhere. The area of a square garden of side **5 m** is 5 x 5 = 25 square metres. The volume of a cubic water tank of side **2 m** is 2 x 2 x 2 = 8 cubic metres. In this lesson you will learn to go forward (squaring and cubing) and backward (taking roots)."
+                },
+                {
+                  "type": "objectives",
+                  "title": "By the end you will be able to",
+                  "body": "- Find the **square** and **cube** of any rational number.\n- Recognise a **perfect square** and a **perfect cube**.\n- Find the **square root** and **cube root** of perfect squares and cubes.\n- Use **prime factorisation** to extract roots.\n- Estimate roots of numbers that are not perfect squares."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key ideas and why they work",
+                  "body": "**Squaring:** For a number *a*, its square is *a* x *a*, written **a²** and read \"a squared\". Example: 7² = 7 x 7 = 49.\n\n**Cubing:** The cube of *a* is *a* x *a* x *a*, written **a³**. Example: 4³ = 4 x 4 x 4 = 64.\n\nThe small raised number is the **exponent** (or power); the number being multiplied is the **base**. So in 7² the base is 7 and the exponent is 2.\n\n**Perfect square:** a number that equals some rational number multiplied by itself, e.g. 1, 4, 9, 16, 25, 36... because 1², 2², 3², 4², 5², 6².\n\n**Perfect cube:** a number that equals some rational number used three times as a factor, e.g. 1, 8, 27, 64, 125 because 1³, 2³, 3³, 4³, 5³.\n\n**Square root** (symbol √, called the *radical sign*): the reverse of squaring. Since 6² = 36, we say √36 = 6. The number under the radical is the **radicand**.\n\n**Cube root** (symbol ∛): the reverse of cubing. Since 4³ = 64, we say ∛64 = 4.\n\n**Why roots are inverses:** squaring and square-rooting undo each other, just as addition and subtraction do. If you square 8 to get 64, taking the square root of 64 brings you back to 8.\n\n**Useful rules for a ≥ 0, b > 0:** √(a x b) = √a x √b and √(a ÷ b) = √a ÷ √b. These let you break a hard root into easy ones, for example √400 = √(4 x 100) = 2 x 10 = 20.\n\n**Warning:** a² and 2a are not the same. a² = a x a, but 2a = a + a. For example 30² = 900 but 2 x 30 = 60."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked examples step by step",
+                  "body": "**Example 1 — Square a number.** Find 14².\nStep 1: Write it out: 14² = 14 x 14.\nStep 2: Multiply: 14 x 14 = 196. **Answer: 196.**\n\n**Example 2 — Cube a number.** Find 5³.\nStep 1: 5³ = 5 x 5 x 5.\nStep 2: 5 x 5 = 25, then 25 x 5 = 125. **Answer: 125.**\n\n**Example 3 — Square root by prime factorisation.** Find √324.\nStep 1: Break 324 into prime factors: 324 = 2 x 2 x 3 x 3 x 3 x 3.\nStep 2: Make two identical groups: (2 x 3 x 3) x (2 x 3 x 3) = 18 x 18.\nStep 3: So √324 = 18. **Answer: 18.**\n\n**Example 4 — Cube root.** Find ∛216.\nStep 1: 216 = 2 x 2 x 2 x 3 x 3 x 3.\nStep 2: Make three identical groups: (2 x 3) x (2 x 3) x (2 x 3) = 6 x 6 x 6.\nStep 3: So ∛216 = 6. **Answer: 6.**\n\n**Example 5 — Estimate a root.** Estimate √50.\nStep 1: 7² = 49 and 8² = 64, so √50 lies between 7 and 8.\nStep 2: 50 is very close to 49, so √50 ≈ 7.1. **Answer: about 7.1.**"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes to avoid",
+                  "body": "- Confusing **a²** with **2a**. 6² = 36, not 12.\n- Thinking √16 = 8. It is 4, because 4 x 4 = 16 (you must find the number whose *square* is 16, not half of 16).\n- Forgetting that 0² = 0 and 1² = 1; small numbers still follow the rule.\n- Mixing up square and cube roots: √64 = 8 but ∛64 = 4.\n- Writing 3 + 4 inside a root carelessly: √(9 + 16) = √25 = 5, which is **not** √9 + √16 = 3 + 4 = 7."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tricks",
+                  "body": "- **\"Square = same number twice, cube = thrice.\"** The exponent tells you how many times to use the base.\n- Memorise squares up to 15² and cubes up to 5³; most exam questions use these.\n- **Root = root of a tree:** prime-factorise into a tree, then pull out matching pairs (for square root) or triples (for cube root).\n- To check a square root, square your answer — it should give back the original number."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice problems",
+                  "body": "Try these, then check the answers below.\n1. Find 12².\n2. Find 3³.\n3. Find √441 using prime factorisation.\n4. Find ∛125.\n\n**Answers:** 1) 144  2) 27  3) 21 (since 441 = 21 x 21)  4) 5"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **a² = a x a** (square); **a³ = a x a x a** (cube).\n- A **perfect square** is the square of a rational number; a **perfect cube** is the cube of one.\n- **√** reverses squaring; **∛** reverses cubing.\n- Use **prime factorisation**: pairs give square roots, triples give cube roots.\n- For non-perfect squares, estimate using the nearest perfect squares."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {"term": "Square", "definition": "The result of multiplying a number by itself, written a²."},
+                    {"term": "Cube", "definition": "The result of using a number three times as a factor, written a³."},
+                    {"term": "Exponent", "definition": "The small raised number showing how many times the base is used as a factor."},
+                    {"term": "Base", "definition": "The number that is multiplied by itself in a power."},
+                    {"term": "Perfect square", "definition": "A number that is the square of a rational number, such as 25."},
+                    {"term": "Perfect cube", "definition": "A number that is the cube of a rational number, such as 27."},
+                    {"term": "Square root", "definition": "A number that, when squared, gives the original number; symbol √."},
+                    {"term": "Cube root", "definition": "A number that, when cubed, gives the original number; symbol ∛."},
+                    {"term": "Radicand", "definition": "The number written under the radical sign."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "What does a² mean?", "back": "a x a — the number multiplied by itself."},
+                {"front": "What does a³ mean?", "back": "a x a x a — the number used three times as a factor."},
+                {"front": "What is √81?", "back": "9, because 9 x 9 = 81."},
+                {"front": "What is ∛27?", "back": "3, because 3 x 3 x 3 = 27."},
+                {"front": "Is a² the same as 2a?", "back": "No. a² = a x a, but 2a = a + a."},
+                {"front": "How do you find a square root by factor tree?", "back": "Prime-factorise, group into two identical sets, and take one set."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Squaring numbers", "difficulty": "beginner", "type": "mcq", "prompt": "What is 9²?", "options": ["18", "81", "729", "27"], "answer": "1", "explanation": "9² means 9 x 9 = 81. (18 would be 2 x 9.)"},
+            {"topic": "Square roots", "difficulty": "beginner", "type": "mcq", "prompt": "What is √49?", "options": ["7", "24.5", "98", "14"], "answer": "0", "explanation": "√49 = 7 because 7 x 7 = 49."},
+            {"topic": "Cubes", "difficulty": "medium", "type": "mcq", "prompt": "What is 4³?", "options": ["12", "16", "64", "81"], "answer": "2", "explanation": "4³ = 4 x 4 x 4 = 64."},
+            {"topic": "Cube roots", "difficulty": "medium", "type": "mcq", "prompt": "What is ∛125?", "options": ["5", "25", "15", "12"], "answer": "0", "explanation": "∛125 = 5 because 5 x 5 x 5 = 125."},
+            {"topic": "Square root by factorisation", "difficulty": "difficult", "type": "mcq", "prompt": "Using prime factorisation, √484 equals what? (484 = 2 x 2 x 11 x 11)", "options": ["21", "22", "24", "44"], "answer": "1", "explanation": "Group as (2 x 11) x (2 x 11) = 22 x 22, so √484 = 22."},
+            {"topic": "Estimating roots", "difficulty": "exam", "type": "mcq", "prompt": "Between which two whole numbers does √50 lie?", "options": ["6 and 7", "7 and 8", "8 and 9", "5 and 6"], "answer": "1", "explanation": "7² = 49 and 8² = 64, and 49 < 50 < 64, so √50 lies between 7 and 8."}
+          ]
+        },
+        {
+          "title": "Further on Working with Variables",
+          "description": "Algebraic terms and expressions, multiplying binomials, and finding the highest common factor of expressions.",
+          "lessons": [
+            {
+              "title": "Algebraic Expressions, Binomials and HCF",
+              "summary": "Work confidently with algebraic terms, multiply binomials using the distributive law, and find the highest common factor of expressions.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Letters that stand for numbers",
+                  "body": "In algebra we use letters such as *x* and *y* to stand for numbers we do not yet know. This lets us write general rules. If a kilo of teff costs **b birr**, then 3 kilos cost **3b birr** — true for any price. In this lesson you will tidy up expressions, multiply them, and break them back into factors."
+                },
+                {
+                  "type": "objectives",
+                  "title": "By the end you will be able to",
+                  "body": "- Identify **terms**, **coefficients** and **like terms**.\n- **Simplify** expressions by collecting like terms.\n- **Multiply two binomials** using the distributive law.\n- Find the **highest common factor (HCF)** of algebraic terms and factor it out."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key ideas and why they work",
+                  "body": "**Term:** a single number, variable, or product of them, e.g. 5x, -3, 2xy. Terms are separated by + or - signs.\n\n**Coefficient:** the number multiplying the variable. In 7x the coefficient is 7.\n\n**Like terms:** terms with exactly the same variable part, e.g. 4x and 9x. Only like terms can be added or subtracted: 4x + 9x = 13x. You cannot add 4x and 5y because they are unlike.\n\n**Binomial:** an expression with exactly two terms, e.g. (x + 3) or (2a - 5).\n\n**Multiplying binomials — the distributive law:** every term in the first bracket multiplies every term in the second. For (x + a)(x + b):\n(x + a)(x + b) = x·x + x·b + a·x + a·b = **x² + (a + b)x + ab**.\nThis works because multiplication distributes over addition. A handy order is **FOIL** — First, Outer, Inner, Last.\n\n**Highest Common Factor (HCF):** the largest expression that divides every term exactly. To factor, find the HCF and write it outside a bracket. Why? Factoring is just the distributive law in reverse, and it makes expressions simpler to work with and solve."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked examples step by step",
+                  "body": "**Example 1 — Collect like terms.** Simplify 5x + 3y - 2x + 4y.\nStep 1: Group like terms: (5x - 2x) + (3y + 4y).\nStep 2: Combine: 3x + 7y. **Answer: 3x + 7y.**\n\n**Example 2 — Multiply binomials.** Expand (x + 4)(x + 5).\nStep 1: First: x·x = x². Outer: x·5 = 5x. Inner: 4·x = 4x. Last: 4·5 = 20.\nStep 2: Add: x² + 5x + 4x + 20.\nStep 3: Combine middle terms: **x² + 9x + 20.**\n\n**Example 3 — Multiply with a subtraction.** Expand (2a - 3)(a + 6).\nStep 1: 2a·a = 2a²; 2a·6 = 12a; -3·a = -3a; -3·6 = -18.\nStep 2: 2a² + 12a - 3a - 18 = **2a² + 9a - 18.**\n\n**Example 4 — Find the HCF and factor.** Factor 6x² + 9x.\nStep 1: HCF of 6x² and 9x: the number HCF of 6 and 9 is 3; both share an x. So HCF = 3x.\nStep 2: Divide each term: 6x² ÷ 3x = 2x; 9x ÷ 3x = 3.\nStep 3: Write: **3x(2x + 3).** Check by expanding: 3x·2x + 3x·3 = 6x² + 9x. ✓"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes to avoid",
+                  "body": "- Adding unlike terms: 4x + 5y is **not** 9xy. Leave it as 4x + 5y.\n- Forgetting a sign when a bracket has a minus: in (2a - 3)(a + 6) the -3 must stay negative.\n- Multiplying only the first terms of each bracket and forgetting the others — use FOIL so nothing is missed.\n- Taking out an HCF that is too small: in 6x² + 9x the HCF is 3x, not just 3.\n- Writing x·x as 2x; it is x²."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tricks",
+                  "body": "- **FOIL**: First, Outer, Inner, Last — multiply the four pairs in that order.\n- **\"Like with like\":** only add terms that have identical letters.\n- For HCF, find the **biggest number** that divides the coefficients and the **lowest power** of each shared letter.\n- Always **check by expanding** your factored answer — it must return the original."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice problems",
+                  "body": "Try these, then check below.\n1. Simplify 8a + 2b - 3a.\n2. Expand (x + 2)(x + 7).\n3. Expand (3y - 1)(y + 4).\n4. Factor 10x² + 15x.\n\n**Answers:** 1) 5a + 2b  2) x² + 9x + 14  3) 3y² + 11y - 4  4) 5x(2x + 3)"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- A **term** has a coefficient and a variable part; only **like terms** combine.\n- **(x + a)(x + b) = x² + (a + b)x + ab**; use **FOIL** so every pair is multiplied.\n- **Factoring** is the distributive law reversed: take out the **HCF** and check by expanding.\n- The HCF uses the largest number factor and the lowest power of each shared variable."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {"term": "Term", "definition": "A single number, variable, or product of them, separated by + or - signs."},
+                    {"term": "Coefficient", "definition": "The number that multiplies a variable in a term."},
+                    {"term": "Like terms", "definition": "Terms with exactly the same variable part, which can be added or subtracted."},
+                    {"term": "Binomial", "definition": "An algebraic expression with exactly two terms."},
+                    {"term": "Distributive law", "definition": "The rule that each term in one bracket multiplies each term in another."},
+                    {"term": "Highest Common Factor (HCF)", "definition": "The largest expression that divides every given term exactly."},
+                    {"term": "Factor", "definition": "To write an expression as a product, often by taking out the HCF."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "What are like terms?", "back": "Terms with exactly the same variable part, e.g. 3x and 8x."},
+                {"front": "What does FOIL stand for?", "back": "First, Outer, Inner, Last — the order for multiplying two binomials."},
+                {"front": "Expand (x + a)(x + b).", "back": "x² + (a + b)x + ab."},
+                {"front": "What is the HCF of 6x² and 9x?", "back": "3x — the largest number factor (3) times the lowest power of x."},
+                {"front": "Can you add 4x and 5y?", "back": "No, they are unlike terms; leave it as 4x + 5y."},
+                {"front": "How do you check a factored expression?", "back": "Expand it; it must give back the original expression."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Like terms", "difficulty": "beginner", "type": "mcq", "prompt": "Simplify 7x + 2x.", "options": ["9x", "14x", "9x²", "5x"], "answer": "0", "explanation": "7x and 2x are like terms, so add the coefficients: 7 + 2 = 9, giving 9x."},
+            {"topic": "Like terms", "difficulty": "beginner", "type": "mcq", "prompt": "Which of these can be combined into a single term?", "options": ["3x and 4y", "5a and 2b", "6m and 9m", "x and x²"], "answer": "2", "explanation": "Only 6m and 9m have the same variable part, so 6m + 9m = 15m."},
+            {"topic": "Multiplying binomials", "difficulty": "medium", "type": "mcq", "prompt": "Expand (x + 3)(x + 2).", "options": ["x² + 5x + 6", "x² + 6x + 5", "x² + 6", "x² + 5x + 5"], "answer": "0", "explanation": "FOIL: x² + 2x + 3x + 6 = x² + 5x + 6."},
+            {"topic": "Multiplying binomials", "difficulty": "medium", "type": "mcq", "prompt": "Expand (a - 2)(a + 5).", "options": ["a² + 3a - 10", "a² - 3a - 10", "a² + 7a - 10", "a² + 3a + 10"], "answer": "0", "explanation": "FOIL: a² + 5a - 2a - 10 = a² + 3a - 10."},
+            {"topic": "Highest common factor", "difficulty": "difficult", "type": "mcq", "prompt": "Factor 12x² + 8x.", "options": ["4x(3x + 2)", "2x(6x + 4)", "4(3x² + 2x)", "x(12x + 8)"], "answer": "0", "explanation": "The HCF of 12x² and 8x is 4x. Dividing gives 4x(3x + 2)."},
+            {"topic": "Multiplying binomials", "difficulty": "exam", "type": "mcq", "prompt": "What is the coefficient of x in the expansion of (x + 6)(x + 4)?", "options": ["10", "24", "6", "4"], "answer": "0", "explanation": "The middle coefficient is a + b = 6 + 4 = 10. (The full expansion is x² + 10x + 24.)"}
+          ]
+        },
+        {
+          "title": "Linear Equations and Inequalities",
+          "description": "Solving linear equations, working with linear inequalities, and plotting points on the Cartesian coordinate system.",
+          "lessons": [
+            {
+              "title": "Solving Equations, Inequalities and the Coordinate Plane",
+              "summary": "Solve linear equations and inequalities step by step, and plot and read points on the Cartesian coordinate system.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Finding the unknown",
+                  "body": "An **equation** is a balance: whatever is on the left equals what is on the right. If a shopkeeper says \"3 books plus 10 birr equals 40 birr,\" we can write 3x + 10 = 40 and find the price of one book. **Inequalities** describe ranges (\"at least,\" \"less than\"), and the **coordinate plane** lets us draw all of this as a picture."
+                },
+                {
+                  "type": "objectives",
+                  "title": "By the end you will be able to",
+                  "body": "- Solve a **linear equation** in one variable.\n- Solve a **linear inequality** and know when to flip the sign.\n- Plot a point (x, y) on the **Cartesian coordinate system**.\n- Read the coordinates of a given point."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key ideas and why they work",
+                  "body": "**Linear equation:** an equation where the variable has power 1, such as 2x + 5 = 13. The goal is to get the variable alone on one side.\n\n**The balance rule:** whatever you do to one side you must do to the other, so the equation stays balanced. You may add, subtract, multiply, or divide both sides by the same number. This works because equal amounts stay equal when changed the same way.\n\n**Steps to solve:** (1) remove anything added to the variable by doing the opposite; (2) divide by the coefficient of the variable.\n\n**Linear inequality:** like an equation but with <, >, ≤, or ≥. You solve it the same way, with **one special rule: if you multiply or divide both sides by a negative number, you must reverse the inequality sign.** For example, from -2x > 6, dividing by -2 gives x < -3 (sign flipped). This happens because negatives reverse order on the number line.\n\n**Cartesian coordinate system:** two number lines crossing at right angles. The horizontal one is the **x-axis**, the vertical one is the **y-axis**, and they meet at the **origin** (0, 0). A point is named by an **ordered pair (x, y)**: go *x* right (or left if negative), then *y* up (or down if negative). The axes split the plane into four **quadrants**."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked examples step by step",
+                  "body": "**Example 1 — Solve an equation.** Solve 3x + 10 = 40.\nStep 1: Subtract 10 from both sides: 3x = 30.\nStep 2: Divide both sides by 3: x = 10. **Answer: x = 10.**\nCheck: 3(10) + 10 = 40. ✓\n\n**Example 2 — Variable on both sides.** Solve 5x - 4 = 2x + 11.\nStep 1: Subtract 2x from both sides: 3x - 4 = 11.\nStep 2: Add 4: 3x = 15.\nStep 3: Divide by 3: x = 5. **Answer: x = 5.**\n\n**Example 3 — Inequality (no flip).** Solve 2x + 3 < 11.\nStep 1: Subtract 3: 2x < 8.\nStep 2: Divide by 2 (positive, no flip): x < 4. **Answer: x < 4.**\n\n**Example 4 — Inequality (flip needed).** Solve -3x ≥ 12.\nStep 1: Divide both sides by -3, and **reverse the sign**: x ≤ -4. **Answer: x ≤ -4.**\n\n**Example 5 — Plot a point.** Plot A(3, 2). From the origin go 3 units right along the x-axis, then 2 units up. Mark the point there."
+                },
+                {
+                  "type": "visual",
+                  "title": "The coordinate plane",
+                  "body": "The point A(3, 2) is found by moving 3 right and 2 up from the origin (0, 0). The straight line shows where y = x, which passes through (-2, -2), (0, 0) and (2, 2).",
+                  "visual": {
+                    "kind": "function-graph",
+                    "data": {
+                      "xLabel": "x",
+                      "yLabel": "y",
+                      "series": [
+                        {"label": "y=x", "points": [[-2, -2], [0, 0], [2, 2]]}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes to avoid",
+                  "body": "- Doing something to only one side of an equation — the balance breaks.\n- Forgetting to **flip the inequality sign** when dividing or multiplying by a negative.\n- Writing the coordinates in the wrong order: (3, 2) is not the same point as (2, 3).\n- Subtracting instead of adding (or vice versa) when undoing an operation; always do the **opposite** operation.\n- Forgetting to check the answer by substituting it back."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tricks",
+                  "body": "- **\"Keep the balance\":** do the same thing to both sides every time.\n- **\"Negative? Flip it!\":** only a negative multiply/divide flips the inequality.\n- **\"x before y, run before you jump\":** read coordinates as across first, then up.\n- Undo in **reverse order**: deal with + and - first, then × and ÷."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice problems",
+                  "body": "Try these, then check below.\n1. Solve 4x - 7 = 9.\n2. Solve 2x + 5 = x + 12.\n3. Solve -5x < 20.\n4. Which quadrant contains the point (-3, 4)?\n\n**Answers:** 1) x = 4  2) x = 7  3) x > -4 (sign flips)  4) Second quadrant (left and up)"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- Solve **equations** by keeping both sides balanced and undoing operations.\n- Solve **inequalities** the same way, but **flip the sign** for a negative multiply or divide.\n- A point is an **ordered pair (x, y)**: across first, then up.\n- The axes meet at the **origin** and divide the plane into four **quadrants**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {"term": "Linear equation", "definition": "An equation in which the variable has power 1, such as 2x + 5 = 13."},
+                    {"term": "Inequality", "definition": "A statement using <, >, ≤ or ≥ to compare two expressions."},
+                    {"term": "Coefficient", "definition": "The number multiplying the variable."},
+                    {"term": "Cartesian coordinate system", "definition": "Two perpendicular number lines used to locate points by (x, y)."},
+                    {"term": "Origin", "definition": "The point (0, 0) where the x-axis and y-axis cross."},
+                    {"term": "Ordered pair", "definition": "Two numbers (x, y) giving a point's horizontal then vertical position."},
+                    {"term": "Quadrant", "definition": "One of the four regions the axes divide the plane into."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "What is the balance rule for equations?", "back": "Whatever you do to one side, do to the other."},
+                {"front": "When do you flip an inequality sign?", "back": "When you multiply or divide both sides by a negative number."},
+                {"front": "Solve 2x = 10.", "back": "x = 5 (divide both sides by 2)."},
+                {"front": "What are the coordinates of the origin?", "back": "(0, 0)."},
+                {"front": "How do you plot (4, 1)?", "back": "Go 4 units right, then 1 unit up from the origin."},
+                {"front": "Is (3, 2) the same point as (2, 3)?", "back": "No — order matters; x comes before y."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Solving equations", "difficulty": "beginner", "type": "mcq", "prompt": "Solve x + 7 = 12.", "options": ["5", "19", "84", "7"], "answer": "0", "explanation": "Subtract 7 from both sides: x = 12 - 7 = 5."},
+            {"topic": "Solving equations", "difficulty": "beginner", "type": "mcq", "prompt": "Solve 4x = 20.", "options": ["80", "5", "16", "24"], "answer": "1", "explanation": "Divide both sides by 4: x = 20 ÷ 4 = 5."},
+            {"topic": "Solving equations", "difficulty": "medium", "type": "mcq", "prompt": "Solve 3x - 5 = 16.", "options": ["7", "3", "21", "11"], "answer": "0", "explanation": "Add 5: 3x = 21. Divide by 3: x = 7."},
+            {"topic": "Inequalities", "difficulty": "difficult", "type": "mcq", "prompt": "Solve -2x > 8.", "options": ["x > -4", "x < -4", "x > 4", "x < 4"], "answer": "1", "explanation": "Divide both sides by -2 and flip the sign: x < -4."},
+            {"topic": "Coordinate plane", "difficulty": "medium", "type": "mcq", "prompt": "Which point is 2 units right and 3 units down from the origin?", "options": ["(2, 3)", "(-2, 3)", "(2, -3)", "(-2, -3)"], "answer": "2", "explanation": "Right is positive x, down is negative y, so the point is (2, -3)."},
+            {"topic": "Coordinate plane", "difficulty": "exam", "type": "mcq", "prompt": "In which quadrant does the point (-4, -2) lie?", "options": ["First", "Second", "Third", "Fourth"], "answer": "2", "explanation": "Both coordinates are negative (left and down), which is the third quadrant."}
+          ]
+        },
+        {
+          "title": "Similar Figures",
+          "description": "Similar plane figures and similar triangles: equal angles, proportional sides, and using ratios to find unknown lengths.",
+          "lessons": [
+            {
+              "title": "Similar Plane Figures and Triangles",
+              "summary": "Understand when two figures are similar, use the ratio of sides, and find missing lengths in similar triangles.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Same shape, different size",
+                  "body": "Two figures are **similar** if they have exactly the same shape but possibly different sizes — like a small photo and its enlargement. A map of Ethiopia is similar to the real country: every distance is shrunk by the same amount. This idea lets us find heights and distances we cannot measure directly, such as the height of a flagpole from its shadow."
+                },
+                {
+                  "type": "objectives",
+                  "title": "By the end you will be able to",
+                  "body": "- State what makes two figures **similar**.\n- Use the **scale factor** (ratio of corresponding sides).\n- Recognise **similar triangles** from equal angles.\n- Find an **unknown side** using proportion."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key ideas and why they work",
+                  "body": "**Similar figures:** two figures are similar when (1) their **corresponding angles are equal**, and (2) their **corresponding sides are in the same ratio**. We use the symbol ~ for \"is similar to\".\n\n**Corresponding parts:** the matching angles and sides, in the same position in each figure.\n\n**Scale factor:** the number you multiply each side of the first figure by to get the matching side of the second. If a side of 4 cm becomes 12 cm, the scale factor is 12 ÷ 4 = 3.\n\n**Similar triangles:** triangles are similar if their three angles match (this is the **AA**, or angle-angle, idea — if two angles match, the third must too, because angles in a triangle add to 180°). When triangles are similar, their sides are proportional:\nif triangle ABC ~ triangle DEF, then **AB/DE = BC/EF = CA/FD**.\n\n**Why proportion lets us find lengths:** since all matching sides share one ratio, knowing three of the four lengths in a proportion lets us solve for the fourth by **cross-multiplication**: from a/b = c/d we get a·d = b·c.\n\n**Note:** similar figures have the same shape; **congruent** figures have the same shape *and* size (scale factor 1)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked examples step by step",
+                  "body": "**Example 1 — Find the scale factor.** A rectangle 3 cm by 5 cm is enlarged so the 3 cm side becomes 9 cm. Find the scale factor and the new long side.\nStep 1: Scale factor = 9 ÷ 3 = 3.\nStep 2: New long side = 5 x 3 = 15 cm. **Answer: scale factor 3; long side 15 cm.**\n\n**Example 2 — Missing side in similar triangles.** Triangle ABC ~ triangle DEF. AB = 4 cm, BC = 6 cm, and the matching side DE = 8 cm. Find EF.\nStep 1: Write the proportion: AB/DE = BC/EF, so 4/8 = 6/EF.\nStep 2: Cross-multiply: 4 x EF = 8 x 6 = 48.\nStep 3: Divide: EF = 48 ÷ 4 = 12 cm. **Answer: EF = 12 cm.**\n\n**Example 3 — Shadow problem (Ethiopian context).** A 1 m stick casts a 2 m shadow. At the same time a flagpole casts a 16 m shadow. How tall is the pole?\nStep 1: The stick and pole make similar triangles with the sun, so height/shadow is the same: 1/2 = h/16.\nStep 2: Cross-multiply: 2h = 16, so h = 8. **Answer: the pole is 8 m tall.**"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes to avoid",
+                  "body": "- Matching sides in the wrong order. Always pair sides that are **between the same angles**.\n- Thinking equal angles alone make sides equal — they make them **proportional**, not the same length.\n- Adding to sides instead of multiplying by the scale factor.\n- Setting up the proportion upside-down; keep both ratios in the same direction (small over big, or big over small, on both sides).\n- Confusing **similar** (same shape) with **congruent** (same shape and size)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tricks",
+                  "body": "- **\"Similar = same shape, scaled.\"** Angles equal, sides in proportion.\n- **AA**: if two Angles match, the triangles are similar.\n- For unknowns, **cross-multiply**: a/b = c/d means a·d = b·c.\n- Keep the order of letters in similar triangles (ABC ~ DEF) so you match the right sides."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice problems",
+                  "body": "Try these, then check below.\n1. A square of side 2 cm is enlarged by scale factor 4. What is the new side?\n2. Triangle PQR ~ triangle XYZ with PQ = 5, XY = 10, QR = 7. Find YZ.\n3. A 2 m pole casts a 3 m shadow. A tree casts a 12 m shadow at the same time. How tall is the tree?\n\n**Answers:** 1) 8 cm  2) YZ = 14  3) 8 m (since 2/3 = h/12)"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Similar** figures have **equal angles** and **proportional sides** (symbol ~).\n- The **scale factor** is the ratio of corresponding sides.\n- Triangles are similar by **AA** (two equal angles).\n- Find unknown sides by writing a **proportion** and **cross-multiplying**.\n- **Congruent** means similar with scale factor 1."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {"term": "Similar figures", "definition": "Figures with the same shape: equal corresponding angles and proportional sides."},
+                    {"term": "Corresponding parts", "definition": "Matching angles or sides in the same position in each figure."},
+                    {"term": "Scale factor", "definition": "The number each side is multiplied by to get the matching side of a similar figure."},
+                    {"term": "Proportion", "definition": "A statement that two ratios are equal, such as a/b = c/d."},
+                    {"term": "Cross-multiplication", "definition": "From a/b = c/d, the step a·d = b·c used to solve for an unknown."},
+                    {"term": "AA similarity", "definition": "Two triangles are similar if two of their angles are equal."},
+                    {"term": "Congruent", "definition": "Same shape and size; a scale factor of 1."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "When are two figures similar?", "back": "Equal corresponding angles and proportional corresponding sides."},
+                {"front": "What is the scale factor?", "back": "The ratio of a side of one figure to the matching side of the similar figure."},
+                {"front": "What does AA similarity mean?", "back": "Two triangles are similar if two pairs of angles are equal."},
+                {"front": "How do you find an unknown side in similar triangles?", "back": "Write a proportion and cross-multiply."},
+                {"front": "Difference between similar and congruent?", "back": "Similar = same shape; congruent = same shape and size (scale factor 1)."},
+                {"front": "Symbol for 'is similar to'?", "back": "~"}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Similarity basics", "difficulty": "beginner", "type": "mcq", "prompt": "Two figures are similar if their corresponding angles are equal and their corresponding sides are...", "options": ["equal", "proportional", "perpendicular", "parallel"], "answer": "1", "explanation": "Similar figures have equal angles and sides that are in the same ratio (proportional)."},
+            {"topic": "Scale factor", "difficulty": "beginner", "type": "mcq", "prompt": "A side of 5 cm becomes 20 cm in a similar figure. What is the scale factor?", "options": ["4", "15", "25", "100"], "answer": "0", "explanation": "Scale factor = 20 ÷ 5 = 4."},
+            {"topic": "Similar triangles", "difficulty": "medium", "type": "mcq", "prompt": "Triangle ABC ~ triangle DEF. If AB = 3, DE = 9 and BC = 4, find EF.", "options": ["10", "12", "13", "7"], "answer": "1", "explanation": "3/9 = 4/EF, so 3·EF = 36 and EF = 12."},
+            {"topic": "Similar triangles", "difficulty": "medium", "type": "mcq", "prompt": "What is the minimum needed to show two triangles are similar?", "options": ["One equal side", "Two equal angles", "Equal area", "Equal perimeter"], "answer": "1", "explanation": "By AA similarity, two equal angles are enough, since the third angle must then match."},
+            {"topic": "Applications", "difficulty": "difficult", "type": "mcq", "prompt": "A 1.5 m stick casts a 2 m shadow. A flagpole casts a 10 m shadow at the same time. How tall is the flagpole?", "options": ["6 m", "7.5 m", "8 m", "13.3 m"], "answer": "1", "explanation": "1.5/2 = h/10, so 2h = 15 and h = 7.5 m."},
+            {"topic": "Similarity vs congruence", "difficulty": "exam", "type": "mcq", "prompt": "Two similar triangles with a scale factor of 1 are also called...", "options": ["congruent", "equilateral", "isosceles", "right-angled"], "answer": "0", "explanation": "A scale factor of 1 means the sides are equal, so the triangles are congruent (same shape and size)."}
+          ]
+        },
+        {
+          "title": "Circles",
+          "description": "Parts of a circle and the angle properties: central angles, inscribed angles, and the angle in a semicircle.",
+          "lessons": [
+            {
+              "title": "Parts of a Circle and Angles in a Circle",
+              "summary": "Name the parts of a circle and use the key angle rules, including the inscribed-angle relationship and the angle in a semicircle.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "The perfect round shape",
+                  "body": "A **circle** is the set of all points the same distance from a fixed centre. Wheels, coins, injera mitads and the rim of a drum are all circles. Beyond its familiar shape, a circle has special **angle rules** that are very useful in geometry. In this lesson you will name a circle's parts and learn these rules."
+                },
+                {
+                  "type": "objectives",
+                  "title": "By the end you will be able to",
+                  "body": "- Name the parts of a circle: **centre, radius, diameter, chord, arc**.\n- Tell the difference between a **central angle** and an **inscribed angle**.\n- Use the rule that an **inscribed angle is half its central angle**.\n- Know that the **angle in a semicircle is 90°**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key ideas and why they work",
+                  "body": "**Parts of a circle:**\n- **Centre:** the fixed middle point.\n- **Radius:** a straight line from the centre to the edge (all radii of one circle are equal).\n- **Diameter:** a straight line through the centre joining two edge points; it is **twice the radius** (d = 2r).\n- **Chord:** any straight line joining two points on the circle (the diameter is the longest chord).\n- **Arc:** part of the circle's edge.\n\n**Central angle:** an angle whose vertex (corner) is at the **centre**, formed by two radii.\n\n**Inscribed angle:** an angle whose vertex is **on the circle**, formed by two chords.\n\n**The inscribed-angle rule:** an inscribed angle is **half** of the central angle that stands on the **same arc**. So if a central angle is 80°, the inscribed angle on the same arc is 40°. Why? This is a proven theorem of geometry; the inscribed angle always opens \"half as wide\" as the central angle subtending the same arc.\n\n**Angle in a semicircle:** if the chord is a **diameter**, the central angle is a straight line, 180°. The inscribed angle on it is therefore half of 180° = **90°**. So any triangle drawn with the diameter as one side and the third corner on the circle has a **right angle** at that corner.\n\n**Angles in the same segment:** inscribed angles that stand on the **same arc** are **equal**, because each is half of the one central angle."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked examples step by step",
+                  "body": "**Example 1 — Diameter from radius.** A circle has radius 7 cm. Find the diameter.\nStep 1: d = 2r = 2 x 7 = 14 cm. **Answer: 14 cm.**\n\n**Example 2 — Inscribed angle.** A central angle is 100°. Find the inscribed angle on the same arc.\nStep 1: Inscribed angle = half of central = 100 ÷ 2 = 50°. **Answer: 50°.**\n\n**Example 3 — Central from inscribed.** An inscribed angle is 35°. Find the central angle on the same arc.\nStep 1: Central angle = 2 x inscribed = 2 x 35 = 70°. **Answer: 70°.**\n\n**Example 4 — Angle in a semicircle.** A triangle is drawn in a circle with one side as the diameter and the third corner on the circle. One of the other angles is 55°. Find the third angle.\nStep 1: The angle on the diameter is 90° (angle in a semicircle).\nStep 2: Angles of a triangle add to 180°, so third angle = 180 - 90 - 55 = 35°. **Answer: 35°.**"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes to avoid",
+                  "body": "- Mixing up **radius** and **diameter**: the diameter is twice the radius, not the same.\n- Doubling when you should halve: the **inscribed** angle is **half** the central angle, so divide to go from central to inscribed.\n- Forgetting that the angle in a **semicircle** is always 90°.\n- Comparing angles on **different** arcs — the half-rule only links angles on the **same** arc.\n- Calling any line through the circle a diameter; it must pass through the **centre**."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tricks",
+                  "body": "- **\"Diameter is double\":** d = 2r.\n- **\"Inscribed is half, central is double.\"** Centre → edge means halve; edge → centre means double.\n- **\"Diameter makes a right angle\":** any triangle on a diameter has 90° opposite it.\n- Same arc, same story: inscribed angles on the same arc are equal."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice problems",
+                  "body": "Try these, then check below.\n1. A circle has diameter 18 cm. Find the radius.\n2. A central angle is 120°. Find the inscribed angle on the same arc.\n3. An inscribed angle is 45°. Find the central angle on the same arc.\n4. A triangle in a circle has the diameter as one side. If one angle is 60°, find the other two.\n\n**Answers:** 1) 9 cm  2) 60°  3) 90°  4) 90° and 30°"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- A circle's parts: **centre, radius, diameter (= 2r), chord, arc**.\n- A **central angle** sits at the centre; an **inscribed angle** sits on the circle.\n- **Inscribed angle = ½ central angle** on the same arc.\n- The **angle in a semicircle is 90°**.\n- Inscribed angles on the **same arc are equal**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {"term": "Circle", "definition": "The set of all points the same distance from a fixed centre."},
+                    {"term": "Radius", "definition": "A straight line from the centre to the edge of a circle."},
+                    {"term": "Diameter", "definition": "A straight line through the centre joining two edge points; twice the radius."},
+                    {"term": "Chord", "definition": "A straight line joining any two points on a circle."},
+                    {"term": "Arc", "definition": "A part of the circle's edge."},
+                    {"term": "Central angle", "definition": "An angle with its vertex at the centre, formed by two radii."},
+                    {"term": "Inscribed angle", "definition": "An angle with its vertex on the circle, formed by two chords."},
+                    {"term": "Semicircle", "definition": "Half a circle, cut off by a diameter; the angle drawn on it is 90°."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "How are diameter and radius related?", "back": "Diameter = 2 × radius (d = 2r)."},
+                {"front": "What is a chord?", "back": "A straight line joining two points on the circle."},
+                {"front": "Inscribed angle vs central angle on the same arc?", "back": "The inscribed angle is half the central angle."},
+                {"front": "What is the angle in a semicircle?", "back": "90° (a right angle)."},
+                {"front": "Where is the vertex of a central angle?", "back": "At the centre of the circle."},
+                {"front": "Inscribed angles on the same arc are...?", "back": "Equal to each other."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Parts of a circle", "difficulty": "beginner", "type": "mcq", "prompt": "A circle has a radius of 6 cm. What is its diameter?", "options": ["3 cm", "12 cm", "36 cm", "6 cm"], "answer": "1", "explanation": "Diameter = 2 × radius = 2 × 6 = 12 cm."},
+            {"topic": "Parts of a circle", "difficulty": "beginner", "type": "mcq", "prompt": "Which of these is the longest chord of a circle?", "options": ["A radius", "Any chord", "The diameter", "An arc"], "answer": "2", "explanation": "The diameter passes through the centre and is the longest possible chord."},
+            {"topic": "Inscribed angles", "difficulty": "medium", "type": "mcq", "prompt": "A central angle is 90°. What is the inscribed angle on the same arc?", "options": ["45°", "90°", "180°", "30°"], "answer": "0", "explanation": "The inscribed angle is half the central angle: 90 ÷ 2 = 45°."},
+            {"topic": "Inscribed angles", "difficulty": "medium", "type": "mcq", "prompt": "An inscribed angle is 40°. What is the central angle on the same arc?", "options": ["20°", "40°", "80°", "120°"], "answer": "2", "explanation": "The central angle is double the inscribed angle: 2 × 40 = 80°."},
+            {"topic": "Angle in a semicircle", "difficulty": "difficult", "type": "mcq", "prompt": "A triangle is drawn in a circle with the diameter as one side and the third vertex on the circle. The angle opposite the diameter is...", "options": ["45°", "60°", "90°", "180°"], "answer": "2", "explanation": "The angle in a semicircle is always 90°."},
+            {"topic": "Angle in a semicircle", "difficulty": "exam", "type": "mcq", "prompt": "In a triangle inscribed in a circle with the diameter as one side, one of the acute angles is 25°. What is the other acute angle?", "options": ["25°", "55°", "65°", "75°"], "answer": "2", "explanation": "The right angle is 90°, so the two acute angles add to 90°. The other is 90 - 25 = 65°."}
+          ]
+        },
+        {
+          "title": "Introduction to Probability",
+          "description": "The meaning of probability and how to calculate the probability of simple events using favourable and total outcomes.",
+          "lessons": [
+            {
+              "title": "Understanding and Calculating Probability",
+              "summary": "Learn what probability means and how to calculate the chance of a simple event as favourable outcomes over total outcomes.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "How likely is it?",
+                  "body": "Every day we judge chance: \"It will probably rain in Bahir Dar today,\" or \"I might win the lottery.\" **Probability** turns these feelings into numbers between 0 and 1. Rolling a die, tossing a coin, or drawing a coloured ball from a bag are all situations we can measure exactly."
+                },
+                {
+                  "type": "objectives",
+                  "title": "By the end you will be able to",
+                  "body": "- Explain what **probability** means.\n- List the possible **outcomes** of a simple experiment.\n- Calculate the probability of an **event** using a formula.\n- Understand that probability is always between **0 and 1**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key ideas and why they work",
+                  "body": "**Experiment:** an action with uncertain results, such as tossing a coin.\n\n**Outcome:** one possible result, e.g. \"heads\".\n\n**Sample space:** the set of all possible outcomes. For a coin it is {heads, tails}; for a die it is {1, 2, 3, 4, 5, 6}.\n\n**Event:** an outcome or group of outcomes we care about, e.g. \"rolling an even number\".\n\n**The probability formula:** for equally likely outcomes,\n**P(event) = (number of favourable outcomes) ÷ (total number of possible outcomes).**\nFor example, the probability of rolling a 4 on a die is 1/6, because one face out of six is a 4.\n\n**Why it lies between 0 and 1:** the number of favourable outcomes cannot be less than 0 or more than the total. So P = 0 means **impossible** (it can never happen) and P = 1 means **certain** (it always happens). Everything else is in between. The closer to 1, the more likely.\n\n**A useful fact:** the probabilities of all outcomes in the sample space add up to 1."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked examples step by step",
+                  "body": "**Example 1 — Coin toss.** What is the probability of getting heads when tossing a fair coin?\nStep 1: Favourable outcomes (heads) = 1. Total outcomes = 2.\nStep 2: P(heads) = 1/2. **Answer: 1/2.**\n\n**Example 2 — Rolling a die.** What is the probability of rolling an even number?\nStep 1: Even numbers on a die: 2, 4, 6 → 3 favourable outcomes. Total = 6.\nStep 2: P(even) = 3/6 = 1/2. **Answer: 1/2.**\n\n**Example 3 — Coloured balls (Ethiopian context).** A bag has 4 red and 6 green balls. One ball is drawn at random. What is the probability it is red?\nStep 1: Favourable (red) = 4. Total = 4 + 6 = 10.\nStep 2: P(red) = 4/10 = 2/5. **Answer: 2/5.**\n\n**Example 4 — Impossible and certain.** Rolling a 7 on an ordinary die: 0 favourable outcomes, so P = 0/6 = 0 (impossible). Rolling a number less than 7: all 6 are favourable, so P = 6/6 = 1 (certain)."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes to avoid",
+                  "body": "- Forgetting to count **all** outcomes in the total.\n- Giving a probability greater than 1 — that is impossible; recheck your counting.\n- Mixing up favourable and total (putting them upside down in the fraction).\n- Not simplifying fractions, e.g. leaving 3/6 instead of 1/2 (both are correct, but simplify when asked).\n- Assuming outcomes are equally likely when they are not (this formula needs equally likely outcomes)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tricks",
+                  "body": "- **\"Favourable over total\":** P = wanted ÷ all possible.\n- **0 = impossible, 1 = certain.** Every probability sits on this scale.\n- Picture a **number line from 0 to 1**: unlikely events sit near 0, likely ones near 1.\n- All probabilities of a sample space **add up to 1** — a quick way to check."
+                },
+                {
+                  "type": "visual",
+                  "title": "The probability scale",
+                  "body": "Probability runs from 0 (impossible) to 1 (certain). An even number on a die has probability 0.5, exactly halfway.",
+                  "visual": {
+                    "kind": "number-line",
+                    "data": {
+                      "min": 0,
+                      "max": 1,
+                      "step": 0.25,
+                      "points": [
+                        {"value": 0, "label": "Impossible"},
+                        {"value": 0.5, "label": "P(even)"},
+                        {"value": 1, "label": "Certain"}
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice problems",
+                  "body": "Try these, then check below.\n1. A die is rolled. What is the probability of getting a 3?\n2. A bag has 5 blue and 5 yellow balls. What is the probability of drawing a blue ball?\n3. What is the probability of rolling a number greater than 4 on a die?\n4. What is the probability of an impossible event?\n\n**Answers:** 1) 1/6  2) 1/2  3) 2/6 = 1/3 (the numbers 5 and 6)  4) 0"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Probability** measures how likely an event is, as a number from **0 to 1**.\n- **P(event) = favourable outcomes ÷ total outcomes** (for equally likely outcomes).\n- **0** means impossible; **1** means certain.\n- The **sample space** lists all outcomes, and their probabilities add to 1."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {"term": "Probability", "definition": "A number from 0 to 1 measuring how likely an event is."},
+                    {"term": "Experiment", "definition": "An action with an uncertain result, such as tossing a coin."},
+                    {"term": "Outcome", "definition": "One possible result of an experiment."},
+                    {"term": "Sample space", "definition": "The set of all possible outcomes of an experiment."},
+                    {"term": "Event", "definition": "An outcome or group of outcomes we are interested in."},
+                    {"term": "Favourable outcome", "definition": "An outcome that counts as the event happening."},
+                    {"term": "Certain event", "definition": "An event with probability 1; it always happens."},
+                    {"term": "Impossible event", "definition": "An event with probability 0; it can never happen."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "What is the probability formula?", "back": "P = favourable outcomes ÷ total outcomes."},
+                {"front": "What is the range of any probability?", "back": "Between 0 and 1 inclusive."},
+                {"front": "What does P = 0 mean?", "back": "The event is impossible."},
+                {"front": "What does P = 1 mean?", "back": "The event is certain."},
+                {"front": "P(rolling a 4) on a die?", "back": "1/6."},
+                {"front": "What is a sample space?", "back": "The set of all possible outcomes of an experiment."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Meaning of probability", "difficulty": "beginner", "type": "mcq", "prompt": "A probability value can never be...", "options": ["0", "0.5", "1", "greater than 1"], "answer": "3", "explanation": "Probability always lies between 0 and 1, so it can never be greater than 1."},
+            {"topic": "Simple events", "difficulty": "beginner", "type": "mcq", "prompt": "What is the probability of getting tails when tossing a fair coin?", "options": ["1/2", "1", "0", "1/4"], "answer": "0", "explanation": "There is 1 favourable outcome (tails) out of 2 total, so P = 1/2."},
+            {"topic": "Rolling a die", "difficulty": "medium", "type": "mcq", "prompt": "What is the probability of rolling an even number on a die?", "options": ["1/6", "1/3", "1/2", "2/3"], "answer": "2", "explanation": "Even numbers are 2, 4, 6 → 3 outcomes out of 6, so P = 3/6 = 1/2."},
+            {"topic": "Drawing objects", "difficulty": "medium", "type": "mcq", "prompt": "A bag has 3 red and 7 blue balls. What is the probability of drawing a red ball?", "options": ["3/7", "3/10", "7/10", "1/3"], "answer": "1", "explanation": "Favourable = 3 red, total = 3 + 7 = 10, so P(red) = 3/10."},
+            {"topic": "Certain and impossible", "difficulty": "difficult", "type": "mcq", "prompt": "What is the probability of rolling a number less than 7 on an ordinary die?", "options": ["0", "1/6", "1/2", "1"], "answer": "3", "explanation": "Every face (1 to 6) is less than 7, so all 6 outcomes are favourable: P = 6/6 = 1 (certain)."},
+            {"topic": "Calculating probability", "difficulty": "exam", "type": "mcq", "prompt": "A box contains 2 black, 3 white and 5 red pens. What is the probability of picking a white pen?", "options": ["3/10", "3/7", "1/3", "5/10"], "answer": "0", "explanation": "Favourable (white) = 3, total = 2 + 3 + 5 = 10, so P(white) = 3/10."}
+          ]
+        },
+        {
+          "title": "Geometry and Measurements",
+          "description": "The Pythagoras theorem on right-angled triangles, an introduction to trigonometry, and the surface area and volume of solid figures.",
+          "lessons": [
+            {
+              "title": "Pythagoras, Trigonometry and Solids",
+              "summary": "Use the Pythagoras theorem to find sides of right triangles, meet the basic trigonometric ratios, and calculate volumes of solid figures.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Measuring shapes and space",
+                  "body": "This unit brings together powerful measuring tools. The **Pythagoras theorem** links the sides of a right-angled triangle and lets builders check that corners are square. **Trigonometry** uses ratios of sides to find unknown lengths and angles. Finally, **solid figures** let us measure how much a tank holds or how much paint a box needs."
+                },
+                {
+                  "type": "objectives",
+                  "title": "By the end you will be able to",
+                  "body": "- State and use the **Pythagoras theorem**.\n- Identify the **hypotenuse** of a right-angled triangle.\n- Recognise the basic trig ratios **sine, cosine and tangent**.\n- Find the **volume** of common solid figures."
+                },
+                {
+                  "type": "theory",
+                  "title": "Key ideas and why they work",
+                  "body": "**Right-angled triangle:** a triangle with one 90° angle. The side opposite the right angle is the **hypotenuse** — always the longest side.\n\n**Pythagoras theorem:** in a right-angled triangle, the square on the hypotenuse equals the sum of the squares on the other two sides:\n**a² + b² = c²**, where c is the hypotenuse.\nWhy it helps: if you know two sides, you can always find the third. To find the hypotenuse, add the squares and take the square root; to find a shorter side, subtract.\n\n**Trigonometric ratios:** for an acute angle in a right triangle, name the sides relative to that angle: the **opposite** side (across from it), the **adjacent** side (next to it), and the **hypotenuse**. Then:\n- **sine** = opposite ÷ hypotenuse\n- **cosine** = adjacent ÷ hypotenuse\n- **tangent** = opposite ÷ adjacent\nThese ratios stay the same for a given angle no matter how big the triangle is — that is why they are so useful for finding distances.\n\n**Solid figures:** three-dimensional shapes. Two key measures:\n- **Volume:** the space inside (in cubic units). For a cuboid (box): V = length x width x height. For a cube of side s: V = s³. For a cylinder: V = π x r² x h.\n- **Surface area:** the total area of all the outside faces.\n\nUse **π ≈ 3.14** (or 22/7) in calculations."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked examples step by step",
+                  "body": "**Example 1 — Find the hypotenuse.** A right triangle has legs 3 cm and 4 cm. Find the hypotenuse.\nStep 1: a² + b² = c², so c² = 3² + 4² = 9 + 16 = 25.\nStep 2: c = √25 = 5 cm. **Answer: 5 cm.**\n\n**Example 2 — Find a shorter side.** The hypotenuse is 13 cm and one leg is 5 cm. Find the other leg.\nStep 1: c² = a² + b², so 13² = 5² + b² → 169 = 25 + b².\nStep 2: b² = 169 - 25 = 144, so b = √144 = 12 cm. **Answer: 12 cm.**\n\n**Example 3 — A trig ratio.** In a right triangle, the side opposite an angle is 6 and the hypotenuse is 10. Find the sine of the angle.\nStep 1: sine = opposite ÷ hypotenuse = 6 ÷ 10 = 0.6. **Answer: 0.6.**\n\n**Example 4 — Volume of a box (Ethiopian context).** A water tank is a cuboid 2 m long, 1 m wide and 1.5 m high. Find its volume.\nStep 1: V = length x width x height = 2 x 1 x 1.5 = 3 cubic metres. **Answer: 3 m³** (the tank holds 3000 litres)."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common mistakes to avoid",
+                  "body": "- Using the wrong side as the hypotenuse — it is always **opposite the right angle** and the longest side.\n- Forgetting to take the **square root** at the end of a Pythagoras calculation.\n- Adding the squares when you should subtract (use subtraction to find a **shorter** side).\n- Mixing up the trig ratios; remember **SOH-CAH-TOA**.\n- Confusing **volume** (space inside, cubic units) with **surface area** (outside, square units)."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory tricks",
+                  "body": "- **SOH-CAH-TOA**: Sine = Opp/Hyp, Cosine = Adj/Hyp, Tangent = Opp/Adj.\n- **\"Hypotenuse hides opposite the right angle\"** — and it is the longest side.\n- Pythagoras: **\"square, add, root\"** to find the hypotenuse.\n- The famous **3-4-5** triangle is a quick check: 3² + 4² = 5².\n- **Volume = cubic, area = square** — match the units to the idea."
+                },
+                {
+                  "type": "visual",
+                  "title": "The 3-4-5 right triangle",
+                  "body": "A right triangle with legs 3 and 4 has a hypotenuse of 5, because 3² + 4² = 9 + 16 = 25 = 5². The right angle sits between the two legs.",
+                  "visual": {
+                    "kind": "geometry",
+                    "data": {
+                      "shape": "triangle",
+                      "vertices": [[0, 0], [4, 0], [0, 3]],
+                      "labels": ["base = 4", "height = 3", "hypotenuse = 5"]
+                    }
+                  }
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice problems",
+                  "body": "Try these, then check below.\n1. A right triangle has legs 6 cm and 8 cm. Find the hypotenuse.\n2. The hypotenuse is 17 cm and one leg is 8 cm. Find the other leg.\n3. In a right triangle, the adjacent side is 4 and the hypotenuse is 5. Find the cosine of the angle.\n4. Find the volume of a cube of side 3 cm.\n\n**Answers:** 1) 10 cm  2) 15 cm  3) 4/5 = 0.8  4) 27 cm³"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Pythagoras: a² + b² = c²**, where c is the hypotenuse (opposite the right angle).\n- **Square, add, root** to find the hypotenuse; subtract to find a shorter side.\n- Trig ratios: **SOH-CAH-TOA** (sine, cosine, tangent).\n- **Volume** is the space inside a solid (cubic units): box = l×w×h, cube = s³, cylinder = πr²h.\n- Use **π ≈ 3.14** or 22/7."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key terms",
+                  "body": "Important words used in this lesson.",
+                  "glossary": [
+                    {"term": "Right-angled triangle", "definition": "A triangle with one 90° angle."},
+                    {"term": "Hypotenuse", "definition": "The longest side of a right triangle, opposite the right angle."},
+                    {"term": "Pythagoras theorem", "definition": "a² + b² = c²; the square of the hypotenuse equals the sum of the squares of the other two sides."},
+                    {"term": "Sine", "definition": "The ratio opposite ÷ hypotenuse for an angle in a right triangle."},
+                    {"term": "Cosine", "definition": "The ratio adjacent ÷ hypotenuse for an angle in a right triangle."},
+                    {"term": "Tangent", "definition": "The ratio opposite ÷ adjacent for an angle in a right triangle."},
+                    {"term": "Volume", "definition": "The amount of space inside a solid, measured in cubic units."},
+                    {"term": "Surface area", "definition": "The total area of all the outside faces of a solid."}
+                  ]
+                }
+              ],
+              "flashcards": [
+                {"front": "State the Pythagoras theorem.", "back": "a² + b² = c², where c is the hypotenuse."},
+                {"front": "Which side is the hypotenuse?", "back": "The longest side, opposite the right angle."},
+                {"front": "What does SOH-CAH-TOA mean?", "back": "Sine=Opp/Hyp, Cosine=Adj/Hyp, Tangent=Opp/Adj."},
+                {"front": "Volume of a cuboid?", "back": "Length × width × height."},
+                {"front": "Volume of a cube of side s?", "back": "s³."},
+                {"front": "Legs 3 and 4 give which hypotenuse?", "back": "5, because 3² + 4² = 25 = 5²."}
+              ]
+            }
+          ],
+          "questions": [
+            {"topic": "Pythagoras theorem", "difficulty": "beginner", "type": "mcq", "prompt": "In a right triangle, the longest side is called the...", "options": ["base", "height", "hypotenuse", "median"], "answer": "2", "explanation": "The hypotenuse is the longest side and lies opposite the right angle."},
+            {"topic": "Pythagoras theorem", "difficulty": "beginner", "type": "mcq", "prompt": "A right triangle has legs 3 and 4. What is the hypotenuse?", "options": ["5", "7", "12", "25"], "answer": "0", "explanation": "c² = 3² + 4² = 9 + 16 = 25, so c = √25 = 5."},
+            {"topic": "Pythagoras theorem", "difficulty": "medium", "type": "mcq", "prompt": "The hypotenuse is 13 and one leg is 5. What is the other leg?", "options": ["8", "12", "18", "144"], "answer": "1", "explanation": "b² = 13² - 5² = 169 - 25 = 144, so b = 12."},
+            {"topic": "Trigonometry", "difficulty": "medium", "type": "mcq", "prompt": "Which ratio equals opposite ÷ hypotenuse?", "options": ["cosine", "tangent", "sine", "radius"], "answer": "2", "explanation": "Sine = opposite ÷ hypotenuse (the S in SOH-CAH-TOA)."},
+            {"topic": "Volume of solids", "difficulty": "difficult", "type": "mcq", "prompt": "A box is 5 cm long, 4 cm wide and 2 cm high. What is its volume?", "options": ["11 cm³", "40 cm³", "20 cm³", "80 cm³"], "answer": "1", "explanation": "Volume = length × width × height = 5 × 4 × 2 = 40 cm³."},
+            {"topic": "Trigonometry", "difficulty": "exam", "type": "mcq", "prompt": "In a right triangle, the side adjacent to an angle is 8 and the hypotenuse is 10. What is the cosine of that angle?", "options": ["0.6", "0.8", "1.25", "0.5"], "answer": "1", "explanation": "Cosine = adjacent ÷ hypotenuse = 8 ÷ 10 = 0.8."}
+          ]
+        }
+      ]
+    }
+  ]
+}

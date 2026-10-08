@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "Branches of biology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A scientist who studies living organisms is called a:",
+          "options": ["Geologist", "Biologist", "Chemist", "Physicist"],
+          "answer": "1",
+          "explanation": "A biologist is a scientist who studies life and living organisms."
+        },
+        {
+          "topic": "Testing a hypothesis",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A scientist's experiment gives results that do NOT match the prediction of their hypothesis. What should the scientist do?",
+          "options": ["Hide the results and keep the hypothesis", "Accept that the hypothesis may be wrong and rethink it", "Stop doing science forever", "Change the results to fit the hypothesis"],
+          "answer": "1",
+          "explanation": "If results do not support a hypothesis, an honest scientist treats the hypothesis as possibly wrong and revises or replaces it."
+        },
+        {
+          "topic": "Ethiopian crop research",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Dr Gebissa Ejeta is famous for improving which Ethiopian crop to resist drought and the Striga weed?",
+          "options": ["Coffee", "Sorghum", "Teff", "Enset"],
+          "answer": "1",
+          "explanation": "Dr Gebissa Ejeta developed sorghum varieties that resist drought and the parasitic Striga weed."
+        },
+        {
+          "topic": "Sharing research",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Scientists share their tested research with others by publishing it in a:",
+          "options": ["Diary", "Journal", "Storybook", "Letter to a friend"],
+          "answer": "1",
+          "explanation": "Scientists publish their research in journals so other experts can read and check the work."
+        },
+        {
+          "topic": "Saving crop varieties",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Dr Melaku Worede is best known internationally for his work in:",
+          "options": ["Building electron microscopes", "Saving and conserving the genetic diversity of crops", "Curing malaria", "Designing mosquito nets"],
+          "answer": "1",
+          "explanation": "Dr Melaku Worede led work to collect and conserve the genetic diversity of Ethiopia's crops in a seed bank."
+        },
+        {
+          "topic": "Why Endod is suitable",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Apart from being cheap, why is Endod (soapberry) a good choice for controlling disease-carrying snails in rural areas?",
+          "options": ["It is poisonous to all fish and plants", "It is locally available and breaks down naturally in the water", "It must be imported from abroad", "It only works inside a laboratory"],
+          "answer": "1",
+          "explanation": "Endod grows locally and breaks down naturally in a couple of days, so it is affordable and environmentally friendly."
+        },
+        {
+          "topic": "Cell membrane function",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which part of the cell controls what substances enter and leave it?",
+          "options": ["Cell membrane", "Nucleus", "Vacuole", "Cytoplasm"],
+          "answer": "0",
+          "explanation": "The cell membrane controls the movement of substances into and out of the cell."
+        },
+        {
+          "topic": "Diffusion",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The spreading of particles from where there are many of them to where there are fewer is called:",
+          "options": ["Osmosis", "Diffusion", "Photosynthesis", "Digestion"],
+          "answer": "1",
+          "explanation": "Diffusion is the movement of particles from a region of high concentration to a region of low concentration."
+        },
+        {
+          "topic": "Chloroplast function",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the job of the chloroplast in a plant cell?",
+          "options": ["To store waste", "To trap sunlight and make food", "To control the cell", "To digest food"],
+          "answer": "1",
+          "explanation": "Chloroplasts contain chlorophyll, which traps sunlight so the plant can make food by photosynthesis."
+        },
+        {
+          "topic": "Turgid cells",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A plant cell that is full of water and firm is described as:",
+          "options": ["Flaccid", "Turgid", "Plasmolysed", "Dead"],
+          "answer": "1",
+          "explanation": "A turgid cell is swollen and firm because it is full of water, which helps keep the plant upright."
+        },
+        {
+          "topic": "Resolution",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why can an electron microscope show much finer detail than a light microscope?",
+          "options": ["It is smaller in size", "It has much higher resolution", "It uses no power", "It only views living cells"],
+          "answer": "1",
+          "explanation": "The electron microscope has far higher resolution, so it can tell two very close points apart and show finer detail."
+        },
+        {
+          "topic": "Plasmolysis",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A plant cell is placed in very salty water and its contents shrink away from the cell wall. This happened because water:",
+          "options": ["Moved into the cell by osmosis", "Moved out of the cell by osmosis", "Was made by the cell wall", "Turned into salt"],
+          "answer": "1",
+          "explanation": "In salty water there is less water outside the cell, so water leaves the cell by osmosis, causing the contents to shrink (plasmolysis)."
+        },
+        {
+          "topic": "Function of teeth",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which part of the body begins digestion by breaking food into small pieces?",
+          "options": ["The teeth in the mouth", "The lungs", "The heart", "The kidneys"],
+          "answer": "0",
+          "explanation": "Teeth in the mouth break food into smaller pieces, which is the start of digestion."
+        },
+        {
+          "topic": "Carbohydrates",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Injera made from teff is mainly a source of which nutrient that gives the body energy?",
+          "options": ["Protein", "Carbohydrate", "Vitamin", "Mineral"],
+          "answer": "1",
+          "explanation": "Injera made from teff is rich in carbohydrate, which is the body's main source of energy."
+        },
+        {
+          "topic": "Role of red blood cells",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the main job of red blood cells?",
+          "options": ["To fight germs", "To carry oxygen around the body", "To help blood clot", "To digest food"],
+          "answer": "1",
+          "explanation": "Red blood cells carry oxygen from the lungs to all parts of the body."
+        },
+        {
+          "topic": "Gas exchange direction",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In the alveoli of the lungs, which gas passes from the air into the blood?",
+          "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Water vapour"],
+          "answer": "1",
+          "explanation": "Oxygen passes from the air in the alveoli into the blood, while carbon dioxide passes from the blood into the air to be breathed out."
+        },
+        {
+          "topic": "Enzymes in digestion",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "If the body could not make digestive enzymes, what would most likely happen?",
+          "options": ["Food would be broken down faster", "Large food molecules could not be broken down for absorption", "More oxygen would enter the blood", "The heart would pump faster"],
+          "answer": "1",
+          "explanation": "Enzymes speed up the breakdown of large food molecules into small ones; without them, food could not be digested and absorbed properly."
+        },
+        {
+          "topic": "Fungi examples",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of these micro-organisms is a fungus?",
+          "options": ["Yeast", "HIV", "Malaria protozoan", "TB bacterium"],
+          "answer": "0",
+          "explanation": "Yeast is a fungus used to make dough rise. The others are a virus, a protozoan, and a bacterium."
+        },
+        {
+          "topic": "Preventing disease",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which action best helps prevent the spread of infectious diseases?",
+          "options": ["Drinking dirty water", "Washing hands and using clean water", "Leaving food uncovered", "Skipping vaccinations"],
+          "answer": "1",
+          "explanation": "Good hygiene such as washing hands and using clean water helps stop germs from spreading."
+        },
+        {
+          "topic": "Immune system and HIV",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why does a person with untreated AIDS easily catch other infections?",
+          "options": ["Their immune system has become very weak", "Their blood becomes thicker", "They have too many red blood cells", "Their bones grow weaker"],
+          "answer": "0",
+          "explanation": "HIV damages the immune system, so in AIDS the body can no longer fight off infections that a healthy body would resist."
+        },
+        {
+          "topic": "Classification levels",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which is the smallest group used when classifying living things?",
+          "options": ["Kingdom", "Species", "Class", "Order"],
+          "answer": "1",
+          "explanation": "The species is the smallest classification group; members of a species can breed to produce fertile offspring."
+        },
+        {
+          "topic": "Animal kingdom features",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which set of features best describes organisms in the Animal kingdom?",
+          "options": ["Many-celled, make their own food, do not move", "Many-celled, cannot make their own food, usually move", "Single-celled with no nucleus", "Green and rooted in soil"],
+          "answer": "1",
+          "explanation": "Animals are many-celled organisms that cannot make their own food and usually move from place to place to find it."
+        },
+        {
+          "topic": "Consumers",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "An animal that eats only plants is called a:",
+          "options": ["Carnivore", "Herbivore", "Producer", "Decomposer"],
+          "answer": "1",
+          "explanation": "A herbivore is an animal that feeds only on plants, such as a cow or a gazelle."
+        },
+        {
+          "topic": "Effect of removing an organism",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In the food chain grass to gazelle to cheetah, what is most likely to happen to the cheetahs if all the gazelles die from disease?",
+          "options": ["The cheetahs will increase in number", "The cheetahs will have less food and decrease", "The grass will die immediately", "Nothing will change for the cheetahs"],
+          "answer": "1",
+          "explanation": "Cheetahs depend on gazelles for food, so if the gazelles die the cheetahs lose their food source and their numbers fall."
+        }
+      ]
+    }
+  ]
+}

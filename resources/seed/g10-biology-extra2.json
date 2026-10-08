@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 10,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "Traditional biotechnology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Making tella at home using grain and yeast is an example of:",
+          "options": [
+            "Traditional biotechnology",
+            "Soil conservation",
+            "Selective breeding",
+            "Photosynthesis"
+          ],
+          "answer": "0",
+          "explanation": "Using yeast to ferment grain into a drink like tella is traditional biotechnology, a practice that is thousands of years old."
+        },
+        {
+          "topic": "Levels of organisation",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of these is the smallest living unit of the body?",
+          "options": [
+            "An organ",
+            "A cell",
+            "A tissue",
+            "A system"
+          ],
+          "answer": "1",
+          "explanation": "The cell is the smallest living unit. Cells join to form tissues, then organs, then systems."
+        },
+        {
+          "topic": "Photosynthesis products",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which sugar is the main food made by a plant during photosynthesis?",
+          "options": [
+            "Lactose",
+            "Glucose",
+            "Sucrose from the soil",
+            "Starch from the air"
+          ],
+          "answer": "1",
+          "explanation": "Photosynthesis makes glucose, which the plant uses for energy, stores as starch, or uses to grow."
+        },
+        {
+          "topic": "Chromosome location",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In which part of the cell are the chromosomes found?",
+          "options": [
+            "The cell membrane",
+            "The cytoplasm",
+            "The nucleus",
+            "The cell wall"
+          ],
+          "answer": "2",
+          "explanation": "Chromosomes are thread-like structures located inside the nucleus of the cell."
+        },
+        {
+          "topic": "Pollution",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Throwing factory waste into a river so the water becomes harmful is an example of:",
+          "options": [
+            "Conservation",
+            "Reforestation",
+            "Pollution",
+            "Terracing"
+          ],
+          "answer": "2",
+          "explanation": "Adding harmful substances to water, air or land is pollution, which damages living things and ecosystems."
+        },
+        {
+          "topic": "Breathing organ",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which organ takes oxygen from the air into the blood?",
+          "options": [
+            "The lungs",
+            "The liver",
+            "The kidney",
+            "The brain"
+          ],
+          "answer": "0",
+          "explanation": "The lungs are the gas exchange organs of the respiratory system, taking in oxygen and releasing carbon dioxide."
+        },
+        {
+          "topic": "Aerobic respiration in yeast",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When yeast respires WITH plenty of oxygen, which products does it make?",
+          "options": [
+            "Ethanol and lactic acid",
+            "Carbon dioxide and water",
+            "Glucose and oxygen",
+            "Methane and starch"
+          ],
+          "answer": "1",
+          "explanation": "Aerobic respiration in yeast uses oxygen to break sugar into carbon dioxide and water, releasing a lot of energy. Ethanol is only made without oxygen."
+        },
+        {
+          "topic": "Homologous chromosomes",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is meant by a pair of homologous chromosomes?",
+          "options": [
+            "Two matching chromosomes, one from each parent",
+            "Two chromosomes joined to make a gene",
+            "A chromosome copied twice in one cell",
+            "A chromosome with no genes on it"
+          ],
+          "answer": "0",
+          "explanation": "Homologous chromosomes are a matching pair carrying the same genes, with one chromosome inherited from each parent."
+        },
+        {
+          "topic": "Tissue example",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which of the following is an example of a tissue rather than an organ?",
+          "options": [
+            "The heart",
+            "Muscle",
+            "The stomach",
+            "The kidney"
+          ],
+          "answer": "1",
+          "explanation": "Muscle is a tissue made of similar cells working together. The heart, stomach and kidney are organs built from several tissues."
+        },
+        {
+          "topic": "Function of roots",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the main role of the roots in supplying photosynthesis?",
+          "options": [
+            "They trap light energy",
+            "They take in water from the soil",
+            "They release oxygen into the air",
+            "They make glucose directly"
+          ],
+          "answer": "1",
+          "explanation": "Roots absorb water from the soil, which is then carried up the xylem to the leaves for photosynthesis."
+        },
+        {
+          "topic": "Vaccination",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "How does vaccination help protect a child from a disease such as measles?",
+          "options": [
+            "It cures the disease after the child is very sick",
+            "It prepares the body to fight the germ before infection",
+            "It kills all bacteria in the air around the child",
+            "It replaces the need to ever eat healthy food"
+          ],
+          "answer": "1",
+          "explanation": "A vaccine trains the body's defences in advance, so it can quickly fight the germ if the child is later exposed to it."
+        },
+        {
+          "topic": "Carbon dioxide and respiration",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "After aerobic respiration in a muscle cell, which waste gas does the blood carry back to the lungs?",
+          "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Methane"
+          ],
+          "answer": "1",
+          "explanation": "Aerobic respiration produces carbon dioxide as a waste gas. The blood carries it to the lungs to be breathed out."
+        },
+        {
+          "topic": "Non-renewable resources",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why is natural gas described as a non-renewable resource?",
+          "options": [
+            "It can be replaced in a few weeks",
+            "It is made fresh by plants every season",
+            "It took millions of years to form and cannot be quickly replaced",
+            "It grows back like a forest"
+          ],
+          "answer": "2",
+          "explanation": "Natural gas, like coal and oil, formed over millions of years. Once used up it cannot be replaced in a useful time, so it is non-renewable."
+        },
+        {
+          "topic": "Fermentation conditions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why is a tej or tella container often kept sealed during fermentation?",
+          "options": [
+            "To let in plenty of fresh oxygen",
+            "To keep oxygen out so yeast makes ethanol",
+            "To freeze the mixture solid",
+            "To give the yeast bright sunlight"
+          ],
+          "answer": "1",
+          "explanation": "Sealing the container keeps oxygen out, so the yeast respires anaerobically (ferments) and produces the ethanol wanted in the drink."
+        },
+        {
+          "topic": "Variation from meiosis",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why are brothers and sisters from the same parents not identical to one another?",
+          "options": [
+            "Meiosis mixes the parents' genes differently in each sex cell",
+            "Mitosis makes each child slightly different",
+            "Children choose their own genes",
+            "All children get exactly the same chromosomes"
+          ],
+          "answer": "0",
+          "explanation": "Meiosis produces sex cells with different combinations of the parents' genes, so each child inherits a unique mix and siblings differ."
+        },
+        {
+          "topic": "Limiting factor",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A plant is kept in bright light and warm air but very little carbon dioxide. What is most likely limiting its rate of photosynthesis?",
+          "options": [
+            "Light",
+            "Temperature",
+            "Carbon dioxide",
+            "Water vapour in the air"
+          ],
+          "answer": "2",
+          "explanation": "When light and warmth are plentiful but carbon dioxide is scarce, carbon dioxide becomes the limiting factor that slows photosynthesis."
+        },
+        {
+          "topic": "Selective breeding outcome",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An agricultural centre breeds teff plants over many years, each time keeping seeds only from plants that resisted disease. What is the likely result?",
+          "options": [
+            "Teff plants that are more resistant to disease",
+            "Teff that turns into maize",
+            "Teff plants with no genes at all",
+            "Teff that cannot make seeds"
+          ],
+          "answer": "0",
+          "explanation": "Selective breeding chooses parents with a wanted feature, so over generations the disease-resistant trait becomes more common in the teff crop."
+        },
+        {
+          "topic": "Genetic engineering definition",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which statement best describes what happens in genetic engineering?",
+          "options": [
+            "A useful gene is moved from one organism into another",
+            "Two whole animals are bred together over many years",
+            "Sugar is fermented into alcohol by yeast",
+            "Soil is protected by planting trees on a slope"
+          ],
+          "answer": "0",
+          "explanation": "Genetic engineering moves a gene from one organism into another, giving it a new characteristic, such as bacteria that make human insulin."
+        },
+        {
+          "topic": "DNA and proteins",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The order of bases along a gene is important because it acts as the code to:",
+          "options": [
+            "Build a particular protein",
+            "Store water in the cell",
+            "Make the cell wall thicker",
+            "Trap light for photosynthesis"
+          ],
+          "answer": "0",
+          "explanation": "The sequence of bases in a gene is the instruction the cell reads to build a specific protein, which then helps decide a characteristic."
+        },
+        {
+          "topic": "Mitosis chromosome number",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A human skin cell with 46 chromosomes divides by mitosis to heal a wound. How many chromosomes are in each new cell?",
+          "options": [
+            "23",
+            "46",
+            "92",
+            "0"
+          ],
+          "answer": "1",
+          "explanation": "Mitosis makes two identical cells, each with the same chromosome number as the parent, so each new skin cell has 46 chromosomes."
+        },
+        {
+          "topic": "Systems cooperating",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "When you run fast, your breathing and heart rate both increase. Why do these two systems speed up together?",
+          "options": [
+            "To deliver more oxygen and glucose to working muscles",
+            "To make the muscles stop respiring",
+            "To cool the blood down to freezing",
+            "To remove all carbon dioxide from food"
+          ],
+          "answer": "0",
+          "explanation": "Running muscles need more energy, so the respiratory system takes in more oxygen and the circulatory system pumps faster to deliver oxygen and glucose."
+        },
+        {
+          "topic": "Photosynthesis and respiration compared",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which statement correctly compares photosynthesis and respiration in a plant?",
+          "options": [
+            "Photosynthesis takes in carbon dioxide; respiration releases it",
+            "Both processes only happen in the dark",
+            "Respiration makes glucose; photosynthesis uses it up",
+            "Neither process needs oxygen at any time"
+          ],
+          "answer": "0",
+          "explanation": "Photosynthesis takes in carbon dioxide and gives out oxygen, while respiration does the opposite, taking in oxygen and releasing carbon dioxide."
+        },
+        {
+          "topic": "Biodiversity importance",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "If one species of insect that pollinates a crop disappears, why can this harm the whole ecosystem?",
+          "options": [
+            "Food chains and other species that depend on it are affected",
+            "It immediately makes the soil more fertile",
+            "It has no effect on any other living thing",
+            "It increases the amount of coal in the ground"
+          ],
+          "answer": "0",
+          "explanation": "Species are linked through food chains and services like pollination, so losing one can disturb many others and damage the whole ecosystem."
+        },
+        {
+          "topic": "Cause of soil erosion",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Allowing too many cattle to graze the same grassland until the plants are stripped bare leads to soil erosion mainly because:",
+          "options": [
+            "Bare soil with no plant cover is easily washed or blown away",
+            "The cattle add nutrients that wash the soil away",
+            "Grass roots make the soil too loose to use",
+            "Grazing adds extra topsoil to the land"
+          ],
+          "answer": "0",
+          "explanation": "Overgrazing removes the plant cover and roots that hold the soil, leaving bare ground that rain and wind can easily erode."
+        },
+        {
+          "topic": "Chlorophyll role",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What would happen to photosynthesis in a leaf cell if it had no chlorophyll at all?",
+          "options": [
+            "Photosynthesis could not happen because light could not be absorbed",
+            "Photosynthesis would speed up greatly",
+            "The cell would make more glucose than normal",
+            "Oxygen would be taken in instead of released"
+          ],
+          "answer": "0",
+          "explanation": "Chlorophyll absorbs the light energy needed for photosynthesis. Without it, the cell cannot capture light, so no photosynthesis takes place."
+        },
+        {
+          "topic": "Antibiotics and biotechnology",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Penicillin is grown using a mould in large tanks. Which group of micro-organisms does this antibiotic act against?",
+          "options": [
+            "Bacteria that cause infections",
+            "All fungi in the body",
+            "Healthy human cells only",
+            "Plant cells in the soil"
+          ],
+          "answer": "0",
+          "explanation": "Penicillin is an antibiotic that kills or stops bacteria, so it is used to treat bacterial infections. It does not work against viruses."
+        },
+        {
+          "topic": "Disease control reasoning",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A town gets its drinking water from a river that is also used as a toilet upstream. Several people fall ill with diarrhoea. Which combination of actions would BEST reduce these illnesses?",
+          "options": [
+            "Build proper latrines away from the river and treat or boil drinking water",
+            "Ask people to exercise more and eat less salt",
+            "Vaccinate everyone against diabetes",
+            "Cut down nearby trees to open up the river"
+          ],
+          "answer": "0",
+          "explanation": "The illness spreads through water polluted by human waste, so safe sanitation away from the river plus treating or boiling water tackles the real cause."
+        },
+        {
+          "topic": "Inheritance prediction",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Two parents already have three daughters. What is the chance that their next child will be a boy?",
+          "options": [
+            "Almost certain, because they keep having children",
+            "About 1 in 2 (50%), because the father can give X or Y",
+            "Zero, because they can only have girls",
+            "About 1 in 4, because three girls were already born"
+          ],
+          "answer": "1",
+          "explanation": "Each pregnancy is independent. The father's sperm is equally likely to carry X or Y, so each child has about a 50% chance of being a boy, no matter the earlier children."
+        },
+        {
+          "topic": "Investigating photosynthesis",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A student counts bubbles of gas given off by a water plant under different brightness of light to study photosynthesis. The gas bubbles are mostly:",
+          "options": [
+            "Oxygen, a product of photosynthesis",
+            "Carbon dioxide taken from the water",
+            "Nitrogen from the air",
+            "Water vapour escaping"
+          ],
+          "answer": "0",
+          "explanation": "Photosynthesis releases oxygen, so the bubbles are mainly oxygen. Counting them shows how the rate changes as the light gets brighter."
+        },
+        {
+          "topic": "Choosing biotechnology methods",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A company needs to produce a large, pure and reliable supply of a human hormone quickly. Which method is most suitable?",
+          "options": [
+            "Genetic engineering of bacteria to make the hormone",
+            "Selective breeding of cattle over many years",
+            "Fermenting teff dough with wild yeast",
+            "Collecting the hormone from wild animals in a park"
+          ],
+          "answer": "0",
+          "explanation": "Genetic engineering lets bacteria make an exact human hormone quickly, in large pure amounts, which selective breeding or traditional fermentation cannot do."
+        },
+        {
+          "topic": "Conservation trade-offs",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A region wants both firewood and a healthy forest for the future. Which plan best balances using and conserving the forest?",
+          "options": [
+            "Plant new trees regularly and harvest only as fast as they regrow",
+            "Cut all the trees now and plant nothing",
+            "Ban people from ever entering the forest and stop planting",
+            "Allow free, unlimited cutting to meet demand"
+          ],
+          "answer": "0",
+          "explanation": "Conservation means wise use: replanting and harvesting no faster than the forest regrows lets people use firewood while keeping the forest for the future."
+        },
+        {
+          "topic": "Linking deforestation effects",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "After a hillside forest is cleared, a downstream village notices its river floods more after heavy rain and runs dry in the dry season. Why does losing the forest cause both problems?",
+          "options": [
+            "Trees normally soak up rain and release water slowly, evening out the flow",
+            "Trees normally pump extra water into the river all year",
+            "Forests make rivers flow backwards uphill",
+            "Removing trees adds more topsoil to slow the water"
+          ],
+          "answer": "0",
+          "explanation": "Forests soak up rainfall and release it slowly. Without them, rain rushes off causing floods, and little water is stored to feed the river in the dry season."
+        },
+        {
+          "topic": "Comparing cell division",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A cell divides and produces four cells, each with half the original chromosome number. Which process happened, and where in the body would it occur?",
+          "options": [
+            "Meiosis, in the reproductive organs making sex cells",
+            "Mitosis, in healing skin",
+            "Fermentation, in the gut",
+            "Mitosis, in the reproductive organs"
+          ],
+          "answer": "0",
+          "explanation": "Producing four cells with half the chromosomes is meiosis, which happens in the reproductive organs to make sex cells (sperm or eggs)."
+        },
+        {
+          "topic": "Body organisation reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A doctor describes the stomach as an organ. Which statement best explains why the stomach is called an organ and not a tissue?",
+          "options": [
+            "It is made of several different tissues working together for one function",
+            "It is a single type of cell repeated many times",
+            "It is smaller than a single cell",
+            "It works completely alone with no link to other parts"
+          ],
+          "answer": "0",
+          "explanation": "An organ is made of different tissues that work together to do a job. The stomach contains muscle, lining and other tissues, so it is an organ."
+        },
+        {
+          "topic": "Storage of food in plants",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A plant makes more glucose than it needs straight away. In what form does it usually store the extra?",
+          "options": [
+            "As ethanol",
+            "As starch",
+            "As lactic acid",
+            "As oxygen gas"
+          ],
+          "answer": "1",
+          "explanation": "Plants store extra glucose as starch, which can be turned back into glucose later when energy is needed."
+        },
+        {
+          "topic": "Reasoning about disease type",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A health worker says heart disease linked to diet cannot be 'caught' from another person. This means heart disease is best classed as:",
+          "options": [
+            "A non-communicable disease",
+            "A communicable disease",
+            "A disease spread by mosquitoes",
+            "A disease spread through dirty water"
+          ],
+          "answer": "0",
+          "explanation": "Diseases that do not pass from person to person, such as diet-related heart disease and diabetes, are non-communicable diseases."
+        }
+      ]
+    }
+  ]
+}

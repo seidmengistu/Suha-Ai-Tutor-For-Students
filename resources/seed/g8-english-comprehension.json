@@ -1,0 +1,333 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 8,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery morning, Lensa wakes before sunrise to help her family. First she sweeps the small yard, then she fetches water from the shared tap at the corner of the street. By the time the sun is up, she has already eaten a quick breakfast of bread and tea. She walks twenty minutes to school with her younger brother, holding his hand at the busy crossing. After classes, she sells boiled eggs near the market to earn a little money for her books. In the evening, she studies by lamplight until she is too tired to read. Lensa is often sleepy, but she believes that hard work today will give her a better future.\n\nQuestion: What is the main idea of this passage?",
+          "options": [
+            "A hardworking girl balances chores, school, and work for a better future",
+            "Selling boiled eggs is the best way to earn money",
+            "Children should never walk to school alone",
+            "Studying by lamplight damages a person's eyes"
+          ],
+          "answer": "0",
+          "explanation": "The passage describes Lensa's busy daily routine and her belief that hard work leads to a better future."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery morning, Lensa wakes before sunrise to help her family. First she sweeps the small yard, then she fetches water from the shared tap at the corner of the street. By the time the sun is up, she has already eaten a quick breakfast of bread and tea. She walks twenty minutes to school with her younger brother, holding his hand at the busy crossing. After classes, she sells boiled eggs near the market to earn a little money for her books. In the evening, she studies by lamplight until she is too tired to read. Lensa is often sleepy, but she believes that hard work today will give her a better future.\n\nQuestion: What does Lensa sell near the market?",
+          "options": [
+            "Boiled eggs",
+            "Bread and tea",
+            "Schoolbooks",
+            "Water from the tap"
+          ],
+          "answer": "0",
+          "explanation": "The passage states that after classes she sells boiled eggs near the market."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery morning, Lensa wakes before sunrise to help her family. First she sweeps the small yard, then she fetches water from the shared tap at the corner of the street. By the time the sun is up, she has already eaten a quick breakfast of bread and tea. She walks twenty minutes to school with her younger brother, holding his hand at the busy crossing. After classes, she sells boiled eggs near the market to earn a little money for her books. In the evening, she studies by lamplight until she is too tired to read. Lensa is often sleepy, but she believes that hard work today will give her a better future.\n\nQuestion: What can we infer about Lensa's family from the passage?",
+          "options": [
+            "They do not have much money and share resources with others",
+            "They own a large house with many servants",
+            "They live very far from any school",
+            "They do not want Lensa to study"
+          ],
+          "answer": "0",
+          "explanation": "Sharing a tap, selling eggs for book money, and studying by lamplight all imply the family has limited money."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery morning, Lensa wakes before sunrise to help her family. First she sweeps the small yard, then she fetches water from the shared tap at the corner of the street. By the time the sun is up, she has already eaten a quick breakfast of bread and tea. She walks twenty minutes to school with her younger brother, holding his hand at the busy crossing. After classes, she sells boiled eggs near the market to earn a little money for her books. In the evening, she studies by lamplight until she is too tired to read. Lensa is often sleepy, but she believes that hard work today will give her a better future.\n\nQuestion: In this passage, the word \"fetches\" is closest in meaning to which word?",
+          "options": [
+            "Brings",
+            "Buys",
+            "Cleans",
+            "Pours"
+          ],
+          "answer": "0",
+          "explanation": "To fetch water means to go and bring it, so \"brings\" is the closest meaning."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery morning, Lensa wakes before sunrise to help her family. First she sweeps the small yard, then she fetches water from the shared tap at the corner of the street. By the time the sun is up, she has already eaten a quick breakfast of bread and tea. She walks twenty minutes to school with her younger brother, holding his hand at the busy crossing. After classes, she sells boiled eggs near the market to earn a little money for her books. In the evening, she studies by lamplight until she is too tired to read. Lensa is often sleepy, but she believes that hard work today will give her a better future.\n\nQuestion: What is the author's main purpose in writing this passage?",
+          "options": [
+            "To show the determination of a girl who works hard despite difficulties",
+            "To explain how to prepare a breakfast of bread and tea",
+            "To warn readers about the dangers of busy street crossings",
+            "To describe the layout of a typical Ethiopian market"
+          ],
+          "answer": "0",
+          "explanation": "The passage focuses on Lensa's effort and hope, showing her determination despite her difficult circumstances."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nEvery morning, Lensa wakes before sunrise to help her family. First she sweeps the small yard, then she fetches water from the shared tap at the corner of the street. By the time the sun is up, she has already eaten a quick breakfast of bread and tea. She walks twenty minutes to school with her younger brother, holding his hand at the busy crossing. After classes, she sells boiled eggs near the market to earn a little money for her books. In the evening, she studies by lamplight until she is too tired to read. Lensa is often sleepy, but she believes that hard work today will give her a better future.\n\nQuestion: In the sentence \"holding his hand at the busy crossing,\" whose hand does the word \"his\" refer to?",
+          "options": [
+            "Lensa's younger brother",
+            "Lensa's father",
+            "A market seller",
+            "A school teacher"
+          ],
+          "answer": "0",
+          "explanation": "The previous clause mentions she walks with her younger brother, so \"his\" refers to the brother."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nHoney bees are small insects that do very important work. A single hive may hold thousands of bees, and each one has a special job. The queen bee lays the eggs, while worker bees gather nectar from flowers. As the bees move from flower to flower, yellow grains called pollen stick to their bodies. When the pollen is carried to another flower, it helps the plant make seeds and fruit. This is why farmers value bees so highly. Without them, many crops would not grow well. Bees also turn the nectar into sweet honey, which people have enjoyed for thousands of years. Protecting bees, therefore, helps both nature and human beings.\n\nQuestion: What is the passage mainly about?",
+          "options": [
+            "The important work that honey bees do for plants and people",
+            "How to build a wooden hive for bees",
+            "Why honey tastes sweeter than sugar",
+            "The dangers of being stung by a bee"
+          ],
+          "answer": "0",
+          "explanation": "The passage explains how bees help plants make fruit and provide honey, benefiting nature and humans."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nHoney bees are small insects that do very important work. A single hive may hold thousands of bees, and each one has a special job. The queen bee lays the eggs, while worker bees gather nectar from flowers. As the bees move from flower to flower, yellow grains called pollen stick to their bodies. When the pollen is carried to another flower, it helps the plant make seeds and fruit. This is why farmers value bees so highly. Without them, many crops would not grow well. Bees also turn the nectar into sweet honey, which people have enjoyed for thousands of years. Protecting bees, therefore, helps both nature and human beings.\n\nQuestion: According to the passage, what is the job of the queen bee?",
+          "options": [
+            "She lays the eggs",
+            "She gathers nectar from flowers",
+            "She turns nectar into honey",
+            "She carries pollen between flowers"
+          ],
+          "answer": "0",
+          "explanation": "The passage clearly states that the queen bee lays the eggs while worker bees gather nectar."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nHoney bees are small insects that do very important work. A single hive may hold thousands of bees, and each one has a special job. The queen bee lays the eggs, while worker bees gather nectar from flowers. As the bees move from flower to flower, yellow grains called pollen stick to their bodies. When the pollen is carried to another flower, it helps the plant make seeds and fruit. This is why farmers value bees so highly. Without them, many crops would not grow well. Bees also turn the nectar into sweet honey, which people have enjoyed for thousands of years. Protecting bees, therefore, helps both nature and human beings.\n\nQuestion: What can we infer would happen if all the bees disappeared?",
+          "options": [
+            "Many crops would produce less fruit and seed",
+            "Flowers would suddenly grow much faster",
+            "Farmers would earn more money than before",
+            "Honey would become cheaper to buy"
+          ],
+          "answer": "0",
+          "explanation": "Since bees spread pollen that helps plants make fruit and seed, losing them would reduce crop production."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nHoney bees are small insects that do very important work. A single hive may hold thousands of bees, and each one has a special job. The queen bee lays the eggs, while worker bees gather nectar from flowers. As the bees move from flower to flower, yellow grains called pollen stick to their bodies. When the pollen is carried to another flower, it helps the plant make seeds and fruit. This is why farmers value bees so highly. Without them, many crops would not grow well. Bees also turn the nectar into sweet honey, which people have enjoyed for thousands of years. Protecting bees, therefore, helps both nature and human beings.\n\nQuestion: In this passage, the word \"value\" is closest in meaning to which word?",
+          "options": [
+            "Appreciate",
+            "Sell",
+            "Count",
+            "Ignore"
+          ],
+          "answer": "0",
+          "explanation": "Farmers \"value\" bees because the bees are useful, so \"appreciate\" is the closest meaning."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nHoney bees are small insects that do very important work. A single hive may hold thousands of bees, and each one has a special job. The queen bee lays the eggs, while worker bees gather nectar from flowers. As the bees move from flower to flower, yellow grains called pollen stick to their bodies. When the pollen is carried to another flower, it helps the plant make seeds and fruit. This is why farmers value bees so highly. Without them, many crops would not grow well. Bees also turn the nectar into sweet honey, which people have enjoyed for thousands of years. Protecting bees, therefore, helps both nature and human beings.\n\nQuestion: What is the author's main purpose in this passage?",
+          "options": [
+            "To inform readers about why bees are useful and worth protecting",
+            "To entertain readers with a funny story about insects",
+            "To persuade readers to start their own honey business",
+            "To compare bees with other flying insects"
+          ],
+          "answer": "0",
+          "explanation": "The passage gives facts about how bees help plants and people, so its purpose is to inform."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nHoney bees are small insects that do very important work. A single hive may hold thousands of bees, and each one has a special job. The queen bee lays the eggs, while worker bees gather nectar from flowers. As the bees move from flower to flower, yellow grains called pollen stick to their bodies. When the pollen is carried to another flower, it helps the plant make seeds and fruit. This is why farmers value bees so highly. Without them, many crops would not grow well. Bees also turn the nectar into sweet honey, which people have enjoyed for thousands of years. Protecting bees, therefore, helps both nature and human beings.\n\nQuestion: In the sentence \"Without them, many crops would not grow well,\" what does the word \"them\" refer to?",
+          "options": [
+            "The bees",
+            "The crops",
+            "The flowers",
+            "The farmers"
+          ],
+          "answer": "0",
+          "explanation": "The passage is explaining the role of bees, so \"them\" refers to the bees that help crops grow."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nCoffee holds a special place in Ethiopian life, and the coffee ceremony is one of the country's proudest traditions. When guests arrive, the host often welcomes them by preparing fresh coffee in front of them. First, green beans are roasted over hot coals until they turn dark and shiny. The warm smell fills the room as the beans are ground by hand. The coffee is then brewed in a clay pot called a jebena and served in small cups. Sharing coffee in this way is more than drinking a hot beverage; it is a sign of friendship and respect. Neighbours sit together, talk about their day, and strengthen the bonds of their community. The ceremony may take an hour or more, but no one feels it is wasted time.\n\nQuestion: What is the main idea of this passage?",
+          "options": [
+            "The Ethiopian coffee ceremony is a respected tradition that builds friendship",
+            "Green coffee beans must always be roasted over coals",
+            "Drinking coffee is harmful if it takes too long",
+            "Clay pots are the only containers used in Ethiopia"
+          ],
+          "answer": "0",
+          "explanation": "The passage describes the ceremony as a proud tradition that shows friendship and strengthens community."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nCoffee holds a special place in Ethiopian life, and the coffee ceremony is one of the country's proudest traditions. When guests arrive, the host often welcomes them by preparing fresh coffee in front of them. First, green beans are roasted over hot coals until they turn dark and shiny. The warm smell fills the room as the beans are ground by hand. The coffee is then brewed in a clay pot called a jebena and served in small cups. Sharing coffee in this way is more than drinking a hot beverage; it is a sign of friendship and respect. Neighbours sit together, talk about their day, and strengthen the bonds of their community. The ceremony may take an hour or more, but no one feels it is wasted time.\n\nQuestion: According to the passage, what is the clay pot used for brewing coffee called?",
+          "options": [
+            "A jebena",
+            "A jug",
+            "A kettle",
+            "A coal pot"
+          ],
+          "answer": "0",
+          "explanation": "The passage states that the coffee is brewed in a clay pot called a jebena."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nCoffee holds a special place in Ethiopian life, and the coffee ceremony is one of the country's proudest traditions. When guests arrive, the host often welcomes them by preparing fresh coffee in front of them. First, green beans are roasted over hot coals until they turn dark and shiny. The warm smell fills the room as the beans are ground by hand. The coffee is then brewed in a clay pot called a jebena and served in small cups. Sharing coffee in this way is more than drinking a hot beverage; it is a sign of friendship and respect. Neighbours sit together, talk about their day, and strengthen the bonds of their community. The ceremony may take an hour or more, but no one feels it is wasted time.\n\nQuestion: What can we infer about how Ethiopians view the time spent on the ceremony?",
+          "options": [
+            "They consider it valuable because it brings people together",
+            "They think it is boring and would rather be alone",
+            "They believe it should be finished as quickly as possible",
+            "They feel it is only meant for very rich families"
+          ],
+          "answer": "0",
+          "explanation": "The passage says no one feels the long ceremony is wasted time, implying they value the connection it brings."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nCoffee holds a special place in Ethiopian life, and the coffee ceremony is one of the country's proudest traditions. When guests arrive, the host often welcomes them by preparing fresh coffee in front of them. First, green beans are roasted over hot coals until they turn dark and shiny. The warm smell fills the room as the beans are ground by hand. The coffee is then brewed in a clay pot called a jebena and served in small cups. Sharing coffee in this way is more than drinking a hot beverage; it is a sign of friendship and respect. Neighbours sit together, talk about their day, and strengthen the bonds of their community. The ceremony may take an hour or more, but no one feels it is wasted time.\n\nQuestion: In this passage, the word \"strengthen\" is closest in meaning to which word?",
+          "options": [
+            "Make stronger",
+            "Break apart",
+            "Forget about",
+            "Hide away"
+          ],
+          "answer": "0",
+          "explanation": "To strengthen the bonds means to make them stronger, so \"make stronger\" is the closest meaning."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nCoffee holds a special place in Ethiopian life, and the coffee ceremony is one of the country's proudest traditions. When guests arrive, the host often welcomes them by preparing fresh coffee in front of them. First, green beans are roasted over hot coals until they turn dark and shiny. The warm smell fills the room as the beans are ground by hand. The coffee is then brewed in a clay pot called a jebena and served in small cups. Sharing coffee in this way is more than drinking a hot beverage; it is a sign of friendship and respect. Neighbours sit together, talk about their day, and strengthen the bonds of their community. The ceremony may take an hour or more, but no one feels it is wasted time.\n\nQuestion: Which word best describes the tone of the author toward the coffee ceremony?",
+          "options": [
+            "Admiring",
+            "Angry",
+            "Doubtful",
+            "Bored"
+          ],
+          "answer": "0",
+          "explanation": "The author praises the ceremony as a proud tradition of friendship, showing an admiring tone."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nCoffee holds a special place in Ethiopian life, and the coffee ceremony is one of the country's proudest traditions. When guests arrive, the host often welcomes them by preparing fresh coffee in front of them. First, green beans are roasted over hot coals until they turn dark and shiny. The warm smell fills the room as the beans are ground by hand. The coffee is then brewed in a clay pot called a jebena and served in small cups. Sharing coffee in this way is more than drinking a hot beverage; it is a sign of friendship and respect. Neighbours sit together, talk about their day, and strengthen the bonds of their community. The ceremony may take an hour or more, but no one feels it is wasted time.\n\nQuestion: In the sentence \"preparing fresh coffee in front of them,\" the word \"them\" refers to which group?",
+          "options": [
+            "The guests",
+            "The neighbours' children",
+            "The green beans",
+            "The small cups"
+          ],
+          "answer": "0",
+          "explanation": "The sentence begins with guests arriving, so \"them\" refers to the guests the host welcomes."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe old farmer had two sons who argued about everything. One evening he called them and gave each a single thin stick. \"Break it,\" he said. Both boys snapped their sticks easily and laughed. Then the farmer handed them a tight bundle of ten sticks tied together. \"Now break this,\" he told them. The older son pushed and pulled with all his strength, but the bundle would not bend. The younger son tried next and also failed. The farmer smiled and said, \"A single stick breaks at once, but many sticks held together cannot be broken. You, my sons, are like these sticks. If you stand alone, trouble will defeat you. If you stand together, nothing will overcome you.\" From that day, the brothers quarrelled far less.\n\nQuestion: What is the main lesson of this story?",
+          "options": [
+            "People are stronger when they stay united",
+            "Thin sticks are easier to find than thick ones",
+            "Farmers always know how to settle arguments",
+            "Older sons are stronger than younger sons"
+          ],
+          "answer": "0",
+          "explanation": "The farmer uses the sticks to teach that staying together makes the brothers strong, the story's main lesson."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe old farmer had two sons who argued about everything. One evening he called them and gave each a single thin stick. \"Break it,\" he said. Both boys snapped their sticks easily and laughed. Then the farmer handed them a tight bundle of ten sticks tied together. \"Now break this,\" he told them. The older son pushed and pulled with all his strength, but the bundle would not bend. The younger son tried next and also failed. The farmer smiled and said, \"A single stick breaks at once, but many sticks held together cannot be broken. You, my sons, are like these sticks. If you stand alone, trouble will defeat you. If you stand together, nothing will overcome you.\" From that day, the brothers quarrelled far less.\n\nQuestion: How many sticks were tied together in the bundle?",
+          "options": [
+            "Ten",
+            "Two",
+            "Five",
+            "Twenty"
+          ],
+          "answer": "0",
+          "explanation": "The passage states that the farmer handed them a tight bundle of ten sticks tied together."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe old farmer had two sons who argued about everything. One evening he called them and gave each a single thin stick. \"Break it,\" he said. Both boys snapped their sticks easily and laughed. Then the farmer handed them a tight bundle of ten sticks tied together. \"Now break this,\" he told them. The older son pushed and pulled with all his strength, but the bundle would not bend. The younger son tried next and also failed. The farmer smiled and said, \"A single stick breaks at once, but many sticks held together cannot be broken. You, my sons, are like these sticks. If you stand alone, trouble will defeat you. If you stand together, nothing will overcome you.\" From that day, the brothers quarrelled far less.\n\nQuestion: What can we infer about the father from the way he taught his sons?",
+          "options": [
+            "He was wise and used a clever example to make his point",
+            "He was cruel and wanted to punish his sons",
+            "He did not care whether his sons agreed or argued",
+            "He was weak and could not break a single stick"
+          ],
+          "answer": "0",
+          "explanation": "The father uses a simple demonstration to teach an important lesson, showing he is wise and thoughtful."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe old farmer had two sons who argued about everything. One evening he called them and gave each a single thin stick. \"Break it,\" he said. Both boys snapped their sticks easily and laughed. Then the farmer handed them a tight bundle of ten sticks tied together. \"Now break this,\" he told them. The older son pushed and pulled with all his strength, but the bundle would not bend. The younger son tried next and also failed. The farmer smiled and said, \"A single stick breaks at once, but many sticks held together cannot be broken. You, my sons, are like these sticks. If you stand alone, trouble will defeat you. If you stand together, nothing will overcome you.\" From that day, the brothers quarrelled far less.\n\nQuestion: In this passage, the word \"overcome\" is closest in meaning to which word?",
+          "options": [
+            "Defeat",
+            "Help",
+            "Join",
+            "Carry"
+          ],
+          "answer": "0",
+          "explanation": "The father says nothing will overcome them if united, meaning nothing will defeat them."
+        },
+        {
+          "topic": "Reading Comprehension",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read the passage and answer the question.\n\nThe old farmer had two sons who argued about everything. One evening he called them and gave each a single thin stick. \"Break it,\" he said. Both boys snapped their sticks easily and laughed. Then the farmer handed them a tight bundle of ten sticks tied together. \"Now break this,\" he told them. The older son pushed and pulled with all his strength, but the bundle would not bend. The younger son tried next and also failed. The farmer smiled and said, \"A single stick breaks at once, but many sticks held together cannot be broken. You, my sons, are like these sticks. If you stand alone, trouble will defeat you. If you stand together, nothing will overcome you.\" From that day, the brothers quarrelled far less.\n\nQuestion: Why did the author most likely write this story?",
+          "options": [
+            "To teach a moral lesson about the value of unity",
+            "To explain the best way to collect firewood",
+            "To describe how farmers raise their children",
+            "To compare older brothers with younger brothers"
+          ],
+          "answer": "0",
+          "explanation": "The story ends with a clear moral about staying united, so the author's purpose is to teach that lesson."
+        }
+      ]
+    }
+  ]
+}

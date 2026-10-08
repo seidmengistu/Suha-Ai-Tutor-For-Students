@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "chemistry",
+      "questions": [
+        {
+          "topic": "Defining the solvent",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In a solution of iodine dissolved in alcohol (tincture of iodine), which component is the solute?",
+          "options": ["Alcohol", "Water", "Both equally", "Iodine"],
+          "answer": "3",
+          "explanation": "The solute is the substance present in the smaller amount that gets dissolved, which here is the iodine."
+        },
+        {
+          "topic": "Like dissolves like",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Cooking oil does not mix with water but dissolves readily in petrol. This is because oil and petrol are both:",
+          "options": ["Ionic", "Polar", "Non-polar", "Acidic"],
+          "answer": "2",
+          "explanation": "Oil and petrol are both non-polar, and \"like dissolves like\" means non-polar substances dissolve in non-polar solvents."
+        },
+        {
+          "topic": "Effect of solute on vapour pressure",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Adding a non-volatile solute such as sugar to pure water causes the vapour pressure of the water to:",
+          "options": ["Increase", "Stay the same", "Decrease", "Become zero"],
+          "answer": "2",
+          "explanation": "Dissolved non-volatile particles occupy the surface and reduce evaporation, so the vapour pressure of the solvent is lowered (Raoult's law)."
+        },
+        {
+          "topic": "Preparing a solution of known molarity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What mass of NaOH is needed to prepare 250 mL of a 0.40 M solution? (Molar mass NaOH = 40 g/mol)",
+          "options": ["4.0 g", "2.0 g", "10 g", "16 g"],
+          "answer": "0",
+          "explanation": "Moles = M x V = 0.40 x 0.250 = 0.10 mol; mass = 0.10 x 40 = 4.0 g."
+        },
+        {
+          "topic": "Concentration in ppm",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A water sample contains 2.5 mg of lead in 500 g of solution. What is the lead concentration in parts per million (ppm)?",
+          "options": ["2.5 ppm", "5 ppm", "10 ppm", "0.5 ppm"],
+          "answer": "1",
+          "explanation": "ppm = (mass of solute in grams / mass of solution) x 10^6 = (0.0025 / 500) x 10^6 = 5 ppm."
+        },
+        {
+          "topic": "Freezing-point depression of an electrolyte",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the freezing point of a 0.20 m aqueous solution of K2SO4 (assume complete dissociation)? (Kf for water = 1.86 C/m)",
+          "options": ["-0.37 C", "-0.74 C", "-1.12 C", "-2.23 C"],
+          "answer": "2",
+          "explanation": "K2SO4 gives 3 ions (i = 3), so dTf = i x Kf x m = 3 x 1.86 x 0.20 = 1.12 C, giving a freezing point of -1.12 C."
+        },
+        {
+          "topic": "Molar mass from osmotic pressure",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A solution containing 3.0 g of a non-electrolyte in 1.0 L exerts an osmotic pressure of 0.50 atm at 300 K. What is the molar mass of the solute? (R = 0.0821 L atm/mol K)",
+          "options": ["74 g/mol", "120 g/mol", "148 g/mol", "300 g/mol"],
+          "answer": "2",
+          "explanation": "From pi = (n/V)RT, molarity = pi / RT = 0.50 / (0.0821 x 300) = 0.0203 M; moles = 0.0203, molar mass = 3.0 / 0.0203 = 148 g/mol."
+        },
+        {
+          "topic": "Arrhenius definition",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "According to the Arrhenius theory, a base is a substance that produces which ion in water?",
+          "options": ["OH-", "H+", "H3O+", "Cl-"],
+          "answer": "0",
+          "explanation": "An Arrhenius base is a substance that releases hydroxide ions (OH-) when dissolved in water."
+        },
+        {
+          "topic": "Conjugate base of a polyprotic acid",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the conjugate base of the dihydrogen phosphate ion, H2PO4-?",
+          "options": ["H3PO4", "PO4 3-", "HPO4 2-", "H2PO4+"],
+          "answer": "2",
+          "explanation": "Removing one proton (H+) from H2PO4- gives HPO4 2-, which is its conjugate base."
+        },
+        {
+          "topic": "pH from hydroxide concentration",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the pH of a 0.0050 M solution of Ca(OH)2, a strong base that fully dissociates?",
+          "options": ["2", "11", "12", "13"],
+          "answer": "2",
+          "explanation": "Ca(OH)2 gives 2 OH- per formula unit, so [OH-] = 2 x 0.0050 = 0.010 M; pOH = 2 and pH = 14 - 2 = 12."
+        },
+        {
+          "topic": "Buffer pH with Henderson-Hasselbalch",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A buffer is made from 0.20 M acetic acid and 0.10 M sodium acetate. If the pKa of acetic acid is 4.74, what is the pH of the buffer? (log 2 = 0.30)",
+          "options": ["4.44", "4.74", "5.04", "9.48"],
+          "answer": "0",
+          "explanation": "pH = pKa + log([base]/[acid]) = 4.74 + log(0.10/0.20) = 4.74 + log(0.5) = 4.74 - 0.30 = 4.44."
+        },
+        {
+          "topic": "Degree of ionization",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which change will INCREASE the percent ionization of a weak acid in solution?",
+          "options": ["Adding more of the same acid", "Diluting the solution with water", "Adding its sodium salt", "Cooling the solution"],
+          "answer": "1",
+          "explanation": "Diluting a weak acid shifts its equilibrium toward more ionization, so the percent (fraction) ionized increases even though [H+] falls."
+        },
+        {
+          "topic": "Choosing a titration indicator",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "For the titration of a weak acid with a strong base (equivalence point above pH 7), the most suitable indicator is one that changes colour:",
+          "options": ["In the acidic range (pH 3-4), like methyl orange", "In the basic range (pH 8-10), like phenolphthalein", "Exactly at pH 7 only", "At any pH, since indicator choice does not matter"],
+          "answer": "1",
+          "explanation": "The equivalence point of a weak acid-strong base titration is basic, so an indicator changing in the basic range (such as phenolphthalein) matches it best."
+        },
+        {
+          "topic": "Sign convention of work",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "When work is done ON a system by the surroundings (for example, compressing a gas), the sign of the work (w) in dU = q + w is:",
+          "options": ["Positive", "Negative", "Always zero", "Equal to q"],
+          "answer": "0",
+          "explanation": "Using the convention dU = q + w, work done on the system adds energy, so w is positive."
+        },
+        {
+          "topic": "Specific heat calculation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "How much heat is needed to raise the temperature of 50 g of water from 20 C to 45 C? (Specific heat of water = 4.18 J/g C)",
+          "options": ["1045 J", "2090 J", "5225 J", "9405 J"],
+          "answer": "2",
+          "explanation": "q = m x c x dT = 50 x 4.18 x (45 - 20) = 50 x 4.18 x 25 = 5225 J."
+        },
+        {
+          "topic": "Endothermic reactions and surroundings",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "During an endothermic reaction carried out in a beaker, the temperature of the surroundings will:",
+          "options": ["Rise", "Stay constant", "First rise then fall", "Fall"],
+          "answer": "3",
+          "explanation": "An endothermic reaction absorbs heat from the surroundings, so the surroundings lose energy and their temperature falls."
+        },
+        {
+          "topic": "Hess's law with reversal",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "If the enthalpy of combustion of carbon to CO2 is -394 kJ/mol, what is the enthalpy change for the reverse reaction, CO2 -> C + O2?",
+          "options": ["-394 kJ", "+394 kJ", "-197 kJ", "+197 kJ"],
+          "answer": "1",
+          "explanation": "Reversing a reaction reverses the sign of dH, so the decomposition of CO2 has dH = +394 kJ."
+        },
+        {
+          "topic": "Predicting entropy change",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "For which reaction is the entropy change (dS) expected to be the most positive?",
+          "options": ["N2(g) + 3 H2(g) -> 2 NH3(g)", "CaCO3(s) -> CaO(s) + CO2(g)", "2 NO2(g) -> N2O4(g)", "H2O(g) -> H2O(l)"],
+          "answer": "1",
+          "explanation": "Producing a gas from a solid greatly increases disorder, so the decomposition of solid CaCO3 to give CO2 gas has the most positive entropy change."
+        },
+        {
+          "topic": "Free energy and equilibrium",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A reaction has dH = +30 kJ and dS = +0.12 kJ/K. At what temperature is the reaction exactly at equilibrium (dG = 0)?",
+          "options": ["150 K", "250 K", "360 K", "400 K"],
+          "answer": "1",
+          "explanation": "At equilibrium dG = 0, so T = dH / dS = 30 / 0.12 = 250 K."
+        },
+        {
+          "topic": "Oxidation number in a dichromate salt",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the oxidation number of chromium in potassium dichromate, K2Cr2O7?",
+          "options": ["+3", "+5", "+6", "+7"],
+          "answer": "2",
+          "explanation": "With K at +1 (total +2) and O at -2 (total -14), the two Cr must total +12 so the sum is zero, giving each Cr an oxidation number of +6."
+        },
+        {
+          "topic": "Identifying the species oxidized",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In the reaction Zn + 2 AgNO3 -> Zn(NO3)2 + 2 Ag, which species is oxidized?",
+          "options": ["Zn", "Ag+", "NO3-", "Ag"],
+          "answer": "0",
+          "explanation": "Zinc goes from 0 to +2, losing electrons, so it is oxidized (while Ag+ is reduced to Ag)."
+        },
+        {
+          "topic": "Mass deposited in electrolysis",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A current of 3.0 A flows for 2.0 hours through a CuSO4 solution (Cu2+ + 2e- -> Cu). What mass of copper is deposited? (Cu = 63.5 g/mol; F = 96,500 C/mol)",
+          "options": ["3.6 g", "7.1 g", "14.2 g", "21.6 g"],
+          "answer": "1",
+          "explanation": "Q = I x t = 3.0 x 7200 = 21,600 C; moles e- = 21,600/96,500 = 0.224; moles Cu = 0.224/2 = 0.112; mass = 0.112 x 63.5 = 7.1 g."
+        },
+        {
+          "topic": "Salt bridge function",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The main role of the salt bridge in a galvanic cell is to:",
+          "options": ["Carry electrons between the electrodes", "Maintain electrical neutrality by allowing ions to flow", "Speed up the reaction as a catalyst", "Provide the voltage of the cell"],
+          "answer": "1",
+          "explanation": "The salt bridge lets ions migrate between the half-cells to balance charge build-up, keeping each solution neutral so current keeps flowing; electrons travel through the wire, not the bridge."
+        },
+        {
+          "topic": "Direction of electron flow",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a galvanic cell made of magnesium and copper, in which direction do electrons flow through the external wire? (Mg is more reactive than Cu)",
+          "options": ["From the copper electrode to the magnesium electrode", "From the magnesium electrode to the copper electrode", "No electrons flow", "They flow back and forth equally"],
+          "answer": "1",
+          "explanation": "Magnesium is more reactive, so it is oxidized at the anode and releases electrons that flow through the wire to the copper cathode."
+        },
+        {
+          "topic": "Rechargeable cells",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A car lead-acid battery can be recharged by passing current through it in the reverse direction. While recharging, the battery acts as a/an:",
+          "options": ["Electrolytic cell", "Galvanic cell", "Salt bridge", "Standard hydrogen electrode"],
+          "answer": "0",
+          "explanation": "During recharging, an external supply forces the non-spontaneous reverse reaction, so the battery behaves as an electrolytic cell."
+        },
+        {
+          "topic": "Ores of common metals",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Bauxite is the chief ore used to obtain which metal?",
+          "options": ["Iron", "Copper", "Aluminium", "Zinc"],
+          "answer": "2",
+          "explanation": "Bauxite is a hydrated aluminium oxide and is the main ore from which aluminium is extracted."
+        },
+        {
+          "topic": "Reduction by a more reactive metal",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In the thermite reaction, 2 Al + Fe2O3 -> 2 Fe + Al2O3, aluminium is able to reduce iron(III) oxide because aluminium is:",
+          "options": ["Less reactive than iron", "More reactive than iron", "A better conductor than iron", "Cheaper than iron"],
+          "answer": "1",
+          "explanation": "Aluminium is more reactive than iron, so it removes oxygen from iron(III) oxide, reducing it to molten iron while the aluminium is oxidized."
+        },
+        {
+          "topic": "Le Chatelier in the Haber process",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In the Haber process N2 + 3H2 ⇌ 2NH3, continuously removing ammonia as it forms increases the overall yield because removing a product:",
+          "options": ["Shifts the equilibrium toward the reactants", "Shifts the equilibrium toward the products to replace it", "Lowers the temperature of the reaction", "Acts as a catalyst"],
+          "answer": "1",
+          "explanation": "By Le Chatelier's principle, removing a product drives the equilibrium forward to make more product, increasing the net yield of ammonia."
+        },
+        {
+          "topic": "Reaction stoichiometry in ammonia synthesis",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "According to N2 + 3H2 -> 2NH3, how many moles of hydrogen are required to produce 4 moles of ammonia?",
+          "options": ["6 moles", "4 moles", "3 moles", "8 moles"],
+          "answer": "0",
+          "explanation": "The ratio of H2 to NH3 is 3:2, so for 4 moles of NH3 the hydrogen needed is (3/2) x 4 = 6 moles."
+        },
+        {
+          "topic": "Purpose of cryolite",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In the electrolytic extraction of aluminium, alumina (Al2O3) is dissolved in molten cryolite mainly to:",
+          "options": ["Act as a reducing agent", "Lower the operating temperature and dissolve the alumina", "Provide the aluminium ions", "Form slag with impurities"],
+          "answer": "1",
+          "explanation": "Pure alumina melts at a very high temperature; cryolite dissolves it and lowers the melting point, saving energy during electrolysis."
+        },
+        {
+          "topic": "Air pollution from smelting",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Roasting sulphide ores such as zinc blende releases a gas that can cause acid rain. That gas is:",
+          "options": ["Carbon dioxide", "Sulphur dioxide", "Nitrogen", "Methane"],
+          "answer": "1",
+          "explanation": "Roasting a sulphide releases sulphur dioxide (SO2), as in 2 ZnS + 3 O2 -> 2 ZnO + 2 SO2, and SO2 contributes to acid rain."
+        },
+        {
+          "topic": "Defining a monomer",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Glucose units join together to form the polymer starch. In this case, glucose is acting as the:",
+          "options": ["Polymer", "Catalyst", "Solvent", "Monomer"],
+          "answer": "3",
+          "explanation": "A monomer is the small repeating unit that links to form a polymer, so glucose is the monomer of starch."
+        },
+        {
+          "topic": "Identifying an addition polymer",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Teflon (PTFE) is made from the monomer tetrafluoroethene, CF2=CF2. It is formed by:",
+          "options": ["Condensation polymerization releasing water", "Addition polymerization with no by-product", "Hydrolysis of the C-F bonds", "Vulcanization with sulphur"],
+          "answer": "1",
+          "explanation": "Tetrafluoroethene contains a C=C double bond, so it joins by addition polymerization to form Teflon with no small molecule released."
+        },
+        {
+          "topic": "Linkage in a polyamide",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Nylon and proteins are both polyamides. The characteristic linkage joining their monomers is the:",
+          "options": ["Ester link (-COO-)", "Ether link (-O-)", "Carbon-carbon double bond", "Amide link (-CONH-)"],
+          "answer": "3",
+          "explanation": "Polyamides are joined by amide (peptide) links, -CONH-, formed when an amine group reacts with a carboxylic acid group, releasing water."
+        },
+        {
+          "topic": "Degree of polymerization calculation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A sample of PVC has an average molar mass of 25,000 g/mol. If the repeating unit -(CH2-CHCl)- has a mass of 62.5 g/mol, what is the average degree of polymerization?",
+          "options": ["200", "400", "625", "1000"],
+          "answer": "1",
+          "explanation": "Degree of polymerization = total molar mass / repeat-unit mass = 25,000 / 62.5 = 400."
+        },
+        {
+          "topic": "Environmental impact of plastics",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Synthetic addition polymers such as polythene and polystyrene are a serious environmental problem mainly because they:",
+          "options": ["Dissolve in rainwater and pollute rivers", "Are non-biodegradable and persist for a very long time", "React violently with air", "Release oxygen as they break down"],
+          "answer": "1",
+          "explanation": "These polymers have stable carbon-carbon backbones that microbes cannot easily break down, so they are non-biodegradable and accumulate as long-lasting waste."
+        }
+      ]
+    }
+  ]
+}

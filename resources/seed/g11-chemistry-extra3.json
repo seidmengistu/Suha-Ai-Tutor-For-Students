@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "chemistry",
+      "questions": [
+        {
+          "topic": "Mass and weight",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "An astronaut travels from Earth to the Moon. Which property of the astronaut stays exactly the same?",
+          "options": ["weight", "mass", "the pull of gravity on the body", "the force needed to hold the body up"],
+          "answer": "1",
+          "explanation": "Mass is the amount of matter and does not change with location, while weight depends on gravity and is less on the Moon."
+        },
+        {
+          "topic": "SI base units",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following quantities is measured with an SI base unit rather than a derived unit?",
+          "options": ["volume", "density", "electric current", "speed"],
+          "answer": "2",
+          "explanation": "Electric current has the SI base unit ampere. Volume, density and speed are all derived from base units."
+        },
+        {
+          "topic": "States of matter",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which state of matter has a fixed volume but takes the shape of its container?",
+          "options": ["solid", "liquid", "gas", "plasma"],
+          "answer": "1",
+          "explanation": "A liquid keeps a fixed volume but flows to take the shape of its container, unlike a solid (fixed shape) or a gas (fills the container)."
+        },
+        {
+          "topic": "Avogadro's number",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "One mole of any substance contains how many particles?",
+          "options": ["6.02 × 10²³", "3.01 × 10²³", "1.00 × 10²³", "6.02 × 10²²"],
+          "answer": "0",
+          "explanation": "One mole always contains Avogadro's number of particles, 6.02 × 10²³, whether they are atoms, molecules or ions."
+        },
+        {
+          "topic": "Functional groups",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which functional group is present in an alcohol such as ethanol?",
+          "options": ["-COOH", "-OH (hydroxyl)", "-COO- (ester linkage)", "C=C double bond"],
+          "answer": "1",
+          "explanation": "Alcohols contain the hydroxyl group, -OH. The -COOH group belongs to carboxylic acids and -COO- to esters."
+        },
+        {
+          "topic": "Significant figures",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "How many significant figures are in the measurement 0.00250 kg?",
+          "options": ["2", "3", "5", "6"],
+          "answer": "1",
+          "explanation": "Leading zeros are not significant. The significant digits are 2, 5 and the trailing zero after the decimal, giving 3 significant figures."
+        },
+        {
+          "topic": "Mole and mass",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "How many moles are present in 18 g of water (molar mass of H₂O = 18 g/mol)?",
+          "options": ["0.5 mol", "1.0 mol", "2.0 mol", "18 mol"],
+          "answer": "1",
+          "explanation": "Number of moles = mass ÷ molar mass = 18 g ÷ 18 g/mol = 1.0 mol."
+        },
+        {
+          "topic": "Molar mass",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the molar mass of calcium carbonate, CaCO₃ (Ca = 40, C = 12, O = 16)?",
+          "options": ["68 g/mol", "84 g/mol", "100 g/mol", "116 g/mol"],
+          "answer": "2",
+          "explanation": "Molar mass = 40 + 12 + (3 × 16) = 40 + 12 + 48 = 100 g/mol."
+        },
+        {
+          "topic": "Number of particles",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "How many molecules are there in 0.50 mol of carbon dioxide gas?",
+          "options": ["3.01 × 10²³", "6.02 × 10²³", "1.20 × 10²⁴", "0.50 × 10²³"],
+          "answer": "0",
+          "explanation": "Number of molecules = moles × Avogadro's number = 0.50 × 6.02 × 10²³ = 3.01 × 10²³."
+        },
+        {
+          "topic": "Electronegativity trend",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Going down a group in the periodic table, electronegativity generally:",
+          "options": ["increases", "decreases", "stays constant", "increases then decreases"],
+          "answer": "1",
+          "explanation": "Down a group the outer electrons are farther from the nucleus and more shielded, so the atom attracts bonding electrons less strongly and electronegativity decreases."
+        },
+        {
+          "topic": "Valence electrons",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An element has the electron configuration 2, 8, 6. How many electrons does it need to gain to complete its outer shell?",
+          "options": ["6", "4", "2", "8"],
+          "answer": "2",
+          "explanation": "The outer shell has 6 electrons and can hold 8, so the atom needs to gain 2 electrons (forming a 2- ion) to reach a full octet."
+        },
+        {
+          "topic": "Diatomic molecules",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which of the following elements exists naturally as diatomic molecules?",
+          "options": ["helium", "nitrogen", "carbon", "neon"],
+          "answer": "1",
+          "explanation": "Nitrogen exists as N₂ molecules. Helium and neon are monatomic noble gases, and carbon forms giant structures, not simple diatomic molecules."
+        },
+        {
+          "topic": "Effect of pressure on rate",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "For a reaction between gases, increasing the pressure speeds up the reaction because it:",
+          "options": ["lowers the activation energy", "pushes the gas particles closer so they collide more often", "removes the need for collisions", "cools the reacting mixture"],
+          "answer": "1",
+          "explanation": "Raising the pressure squeezes the gas particles into a smaller space, increasing their concentration so collisions become more frequent and the reaction speeds up."
+        },
+        {
+          "topic": "Endothermic and exothermic",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "During an exothermic reaction, the temperature of the surroundings:",
+          "options": ["rises because heat is released", "falls because heat is absorbed", "stays exactly the same", "depends only on the catalyst used"],
+          "answer": "0",
+          "explanation": "An exothermic reaction releases heat to the surroundings, so the temperature of the surroundings rises."
+        },
+        {
+          "topic": "Esters in fragrance",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which combination of reactants is used to make an ester?",
+          "options": ["two carboxylic acids", "an alcohol and a carboxylic acid", "two alcohols", "a metal and an acid"],
+          "answer": "1",
+          "explanation": "Esterification combines an alcohol with a carboxylic acid (with an acid catalyst) to form an ester and water."
+        },
+        {
+          "topic": "Reaction rate and time",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A reaction is complete when 0.80 g of product has formed after 40 seconds. What is the average rate of product formation?",
+          "options": ["0.02 g/s", "0.05 g/s", "0.20 g/s", "50 g/s"],
+          "answer": "0",
+          "explanation": "Average rate = mass formed ÷ time = 0.80 g ÷ 40 s = 0.02 g/s."
+        },
+        {
+          "topic": "Percentage composition",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the percentage by mass of nitrogen in ammonia, NH₃ (N = 14, H = 1)?",
+          "options": ["46.7%", "82.4%", "17.6%", "14.0%"],
+          "answer": "1",
+          "explanation": "Molar mass of NH₃ = 14 + 3 = 17 g/mol. %N = (14 ÷ 17) × 100 = 82.4%."
+        },
+        {
+          "topic": "Empirical formula",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen by mass (C = 12, H = 1, O = 16). What is its empirical formula?",
+          "options": ["CHO", "C₂H₄O", "CH₄O", "CH₂O"],
+          "answer": "3",
+          "explanation": "Dividing by atomic masses: C 40/12 = 3.33, H 6.7/1 = 6.7, O 53.3/16 = 3.33. The ratio 3.33 : 6.7 : 3.33 simplifies to 1 : 2 : 1, giving CH₂O."
+        },
+        {
+          "topic": "Molar volume of gas",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "At standard temperature and pressure (STP), what volume is occupied by 0.25 mol of oxygen gas (molar volume = 22.4 L/mol)?",
+          "options": ["5.6 L", "11.2 L", "22.4 L", "89.6 L"],
+          "answer": "0",
+          "explanation": "Volume = moles × molar volume = 0.25 × 22.4 L = 5.6 L."
+        },
+        {
+          "topic": "Counting atoms from moles",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How many atoms in total are present in 2.0 mol of hydrogen gas, H₂?",
+          "options": ["6.02 × 10²³", "1.20 × 10²⁴", "2.41 × 10²⁴", "1.20 × 10²³"],
+          "answer": "2",
+          "explanation": "2.0 mol of H₂ contains 2.0 × 2 = 4.0 mol of H atoms. Atoms = 4.0 × 6.02 × 10²³ = 2.41 × 10²⁴."
+        },
+        {
+          "topic": "Relative atomic mass",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An element has two isotopes: 60% of mass 10 and 40% of mass 11. What is its relative atomic mass?",
+          "options": ["10.2", "10.4", "10.5", "10.6"],
+          "answer": "1",
+          "explanation": "Relative atomic mass = (0.60 × 10) + (0.40 × 11) = 6.0 + 4.4 = 10.4."
+        },
+        {
+          "topic": "Electron configuration of ions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the electron configuration of a sodium ion, Na⁺ (sodium has Z = 11)?",
+          "options": ["2, 8, 1", "2, 8", "2, 8, 2", "2, 7"],
+          "answer": "1",
+          "explanation": "Neutral sodium is 2, 8, 1. Losing one electron to form Na⁺ leaves 10 electrons arranged as 2, 8 (the same as neon)."
+        },
+        {
+          "topic": "Bond angle and shape",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "According to VSEPR theory, the shape of a carbon dioxide molecule (O=C=O) is:",
+          "options": ["bent", "trigonal planar", "linear", "tetrahedral"],
+          "answer": "2",
+          "explanation": "The central carbon has two double-bond regions and no lone pairs, so they point in opposite directions giving a linear molecule with a 180° bond angle."
+        },
+        {
+          "topic": "Order of reaction",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A reaction has the rate law rate = k[A][B]. If the concentrations of both A and B are doubled, the rate increases by a factor of:",
+          "options": ["2", "3", "4", "8"],
+          "answer": "2",
+          "explanation": "The reaction is first order in each, so doubling A multiplies the rate by 2 and doubling B multiplies it by 2, giving 2 × 2 = 4."
+        },
+        {
+          "topic": "Equilibrium position and Kc",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "At a fixed temperature, the value of the equilibrium constant Kc for a reaction can be changed by:",
+          "options": ["adding a catalyst", "changing the temperature", "increasing the pressure", "adding more reactant"],
+          "answer": "1",
+          "explanation": "Kc depends only on temperature. A catalyst, pressure change, or adding reactant may shift the position of equilibrium but does not change the value of Kc; only temperature does."
+        },
+        {
+          "topic": "Reaction quotient",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "If the reaction quotient Q is smaller than the equilibrium constant Kc, the reaction will:",
+          "options": ["proceed forward to form more products", "proceed backward to form more reactants", "already be at equilibrium", "stop completely"],
+          "answer": "0",
+          "explanation": "When Q is less than Kc there are too few products, so the reaction shifts forward (toward products) until Q equals Kc."
+        },
+        {
+          "topic": "Saturation in fatty acids",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Compared with a saturated fat, an unsaturated oil with the same number of carbon atoms has:",
+          "options": ["more carbon-carbon double bonds and fewer hydrogen atoms", "no carbon atoms at all", "more hydrogen atoms and a higher melting point", "an ionic structure"],
+          "answer": "0",
+          "explanation": "Each C=C double bond replaces two C-H bonds, so an unsaturated oil has more double bonds and fewer hydrogen atoms than the corresponding saturated fat, and a lower melting point."
+        },
+        {
+          "topic": "General formula of carboxylic acids",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Carboxylic acids form a homologous series with the general formula CₙH₂ₙO₂. Which molecular formula represents a member of this series?",
+          "options": ["C₂H₄O₂", "C₂H₆O", "C₂H₄O", "C₂H₂O₂"],
+          "answer": "0",
+          "explanation": "Putting n = 2 into CₙH₂ₙO₂ gives C₂H₄O₂ (ethanoic acid, CH₃COOH). The others do not fit the general formula."
+        },
+        {
+          "topic": "Limiting reactant idea",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In the reaction 2H₂ + O₂ → 2H₂O, if 4 mol of H₂ react with 1 mol of O₂, which statement is correct?",
+          "options": ["oxygen is the limiting reactant and some hydrogen is left over", "hydrogen is the limiting reactant and some oxygen is left over", "both are used up completely", "no reaction occurs"],
+          "answer": "0",
+          "explanation": "The equation needs H₂ and O₂ in a 2:1 ratio. 4 mol H₂ would need 2 mol O₂, but only 1 mol O₂ is present, so oxygen runs out first (limiting) and 2 mol H₂ are left over."
+        },
+        {
+          "topic": "Concentration units",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the concentration of a solution made by dissolving 0.50 mol of solute in enough water to make 250 cm³ of solution?",
+          "options": ["0.50 mol/L", "1.0 mol/L", "2.0 mol/L", "125 mol/L"],
+          "answer": "2",
+          "explanation": "250 cm³ = 0.250 L. Concentration = moles ÷ volume = 0.50 ÷ 0.250 = 2.0 mol/L."
+        },
+        {
+          "topic": "Units and uncertainty",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A measuring cylinder has graduations every 1 cm³. A reading of 24 cm³ should be reported as:",
+          "options": ["(24 ± 1) cm³", "(24 ± 0.1) cm³", "(24 ± 10) cm³", "24.00 cm³ exactly"],
+          "answer": "0",
+          "explanation": "The uncertainty is taken as the smallest division, here 1 cm³, so the reading is written as (24 ± 1) cm³."
+        },
+        {
+          "topic": "Successive ionisation energies",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "An element shows a large jump in successive ionisation energies after the second electron is removed. The element is most likely in which group?",
+          "options": ["Group 1", "Group 2", "Group 3", "Group 7"],
+          "answer": "1",
+          "explanation": "A big jump after removing two electrons means the third electron comes from a full inner shell, so the atom had two easily removed outer electrons, placing it in Group 2."
+        },
+        {
+          "topic": "Polar molecules and shape",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Carbon dioxide (O=C=O) contains polar bonds yet the whole molecule is non-polar. The best explanation is that:",
+          "options": ["the bonds are actually non-polar", "the molecule is linear so the two bond dipoles cancel", "carbon has a lone pair that cancels the charge", "oxygen and carbon have the same electronegativity"],
+          "answer": "1",
+          "explanation": "The two C=O dipoles are equal and point in opposite directions in the linear molecule, so they cancel and the molecule has no overall dipole."
+        },
+        {
+          "topic": "Kinetics calculation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In a reaction, the concentration of a reactant falls from 0.80 mol/L to 0.50 mol/L in 60 seconds. What is the average rate of reaction in mol/(L·s)?",
+          "options": ["0.005", "0.013", "0.030", "0.050"],
+          "answer": "0",
+          "explanation": "Average rate = change in concentration ÷ time = (0.80 − 0.50) ÷ 60 = 0.30 ÷ 60 = 0.005 mol/(L·s)."
+        },
+        {
+          "topic": "Le Chatelier combined",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "For the equilibrium 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), the forward reaction is exothermic. Which set of conditions gives the highest yield of SO₃?",
+          "options": ["low pressure and high temperature", "high pressure and low temperature", "low pressure and low temperature", "high pressure and high temperature"],
+          "answer": "1",
+          "explanation": "High pressure favours the side with fewer gas molecules (the products, 3 → 2), and a low temperature favours the exothermic forward reaction, so both together maximise the SO₃ yield."
+        },
+        {
+          "topic": "Saponification products",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "When a triglyceride is boiled with sodium hydroxide solution, the two main products are:",
+          "options": ["an ester and water", "soap (a fatty acid salt) and glycerol", "an alcohol and carbon dioxide", "hydrogen gas and a metal salt"],
+          "answer": "1",
+          "explanation": "This alkaline hydrolysis (saponification) breaks the triglyceride into glycerol and the sodium salts of the fatty acids, which are soap."
+        }
+      ]
+    }
+  ]
+}

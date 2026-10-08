@@ -1,0 +1,32 @@
+{
+  "$comment": "Official Ethiopian Ministry of Education student textbooks. The PDFs are hosted on the MoE e-learning server (elearn.moe.gov.et), which is reachable from Ethiopian networks. Run `npm run fetch:books` to download them into books/grade-N/<subject>/ where the app auto-registers them. The downloader probes common path/casing variants automatically; if a book is not found, open its page on neaea.com / fetena.net / kehulum.com / ethiobookreview.com, copy the exact PDF link, and paste it into that entry's \"url\" field, then re-run.",
+  "baseUrl": "http://elearn.moe.gov.et/storage",
+  "books": [
+    { "grade": 7, "subject": "english", "name": "English" },
+    { "grade": 7, "subject": "mathematics", "name": "Mathematics" },
+    { "grade": 7, "subject": "general-science", "name": "General Science", "remoteFolder": "general science" },
+    { "grade": 8, "subject": "english", "name": "English" },
+    { "grade": 8, "subject": "mathematics", "name": "Mathematics" },
+    { "grade": 8, "subject": "general-science", "name": "General Science", "remoteFolder": "general science" },
+    { "grade": 9, "subject": "english", "name": "English", "url": "https://aacaebc.files.wordpress.com/2020/03/english-students-text-book-grade-9.pdf" },
+    { "grade": 9, "subject": "mathematics", "name": "Mathematics", "url": "http://files.ethiopialearning.com/textbooks/Grade%2009/Grade_9_Subject_MATH_Language_ENGLISH_Retrieved_20200601.pdf" },
+    { "grade": 9, "subject": "physics", "name": "Physics", "url": "http://files.ethiopialearning.com/textbooks/Grade%2009/Grade_9_Subject_PHYSICS_Language_ENGLISH_Retrieved_20200601.pdf" },
+    { "grade": 9, "subject": "chemistry", "name": "Chemistry", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/e8e47-grade-9-chemistry-textbook.pdf" },
+    { "grade": 9, "subject": "biology", "name": "Biology", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/61f73-grade-9-biology-textbook.pdf" },
+    { "grade": 10, "subject": "english", "name": "English", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/4746b-grade-10-english-textbook.pdf" },
+    { "grade": 10, "subject": "mathematics", "name": "Mathematics", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/52e0f-grade-10-mathematics-textbook.pdf" },
+    { "grade": 10, "subject": "physics", "name": "Physics", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/0042c-grade-10-physics-textbook.pdf" },
+    { "grade": 10, "subject": "chemistry", "name": "Chemistry", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/9f149-grade-10-chemistry-textbook.pdf" },
+    { "grade": 10, "subject": "biology", "name": "Biology", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/537ad-grade-10-biology-textbook.pdf" },
+    { "grade": 11, "subject": "english", "name": "English", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/9810c-grade-11-english-textbook.pdf" },
+    { "grade": 11, "subject": "mathematics", "name": "Mathematics", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/c9568-grade-11-mathematics-textbook.pdf" },
+    { "grade": 11, "subject": "physics", "name": "Physics", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/c1d09-grade-11-physics-textbook.pdf" },
+    { "grade": 11, "subject": "chemistry", "name": "Chemistry", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/378bd-grade-11-chemistry-textbook.pdf" },
+    { "grade": 11, "subject": "biology", "name": "Biology", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/30d41-grade-11-biology-textbook.pdf" },
+    { "grade": 12, "subject": "english", "name": "English", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/bb959-grade-12-english-textbook.pdf" },
+    { "grade": 12, "subject": "mathematics", "name": "Mathematics", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/cbf89-grade-12-mathematics-textbook.pdf" },
+    { "grade": 12, "subject": "physics", "name": "Physics", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/4cf48-grade-12-physics-textbook.pdf" },
+    { "grade": 12, "subject": "chemistry", "name": "Chemistry", "url": "https://chilot.wordpress.com/wp-content/uploads/2023/02/e5637-grade-12-chemistry-textbook.pdf" },
+    { "grade": 12, "subject": "biology", "name": "Biology", "skip": true, "note": "Not on chilot; bundled here by merging the 8 chapter PDFs from files.ethiopialearning.com. Replace with a single new-curriculum PDF when available." }
+  ]
+}

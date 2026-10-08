@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "chemistry",
+      "questions": [
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which scientist is credited with discovering the neutron?",
+          "options": ["J.J. Thomson", "Ernest Rutherford", "James Chadwick", "Niels Bohr"],
+          "answer": "2",
+          "explanation": "James Chadwick discovered the neutron in 1932. Thomson found the electron, while Rutherford identified the nucleus and proton."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The electrons of an atom move in regions around the nucleus called:",
+          "options": ["Energy shells", "Nuclei", "Coefficients", "Bonds"],
+          "answer": "0",
+          "explanation": "Electrons occupy energy shells (energy levels) around the nucleus; the inner shells fill before the outer ones."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "How many periods (horizontal rows) are there in the modern periodic table?",
+          "options": ["5", "8", "7", "18"],
+          "answer": "2",
+          "explanation": "The modern periodic table has 7 periods. There are 18 groups (vertical columns)."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The combining power of an element, which tells how many bonds it can form, is called its:",
+          "options": ["Density", "Mass number", "Pressure", "Valency"],
+          "answer": "3",
+          "explanation": "Valency is the combining power of an element, related to the number of electrons it gains, loses, or shares when bonding."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In a chemical equation, the arrow pointing from reactants to products usually means:",
+          "options": ["Yields or produces", "Is equal to", "Is mixed with", "Is removed from"],
+          "answer": "0",
+          "explanation": "The arrow is read as 'yields' or 'produces', showing the direction in which reactants change into products."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Besides solid, liquid, and gas, which is a fourth state of matter made of charged particles found in stars and lightning?",
+          "options": ["Plasma", "Crystal", "Vapour", "Foam"],
+          "answer": "0",
+          "explanation": "Plasma is a fourth state of matter consisting of charged particles (ions and free electrons), found in stars, lightning, and neon lights."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An atom is written as a symbol with the mass number on top and the atomic number below. If an atom shows 40 on top and 20 below, how many neutrons does it have?",
+          "options": ["20", "40", "60", "10"],
+          "answer": "0",
+          "explanation": "The top number is the mass number (40) and the bottom is the atomic number (20). Neutrons = 40 - 20 = 20."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Rutherford's gold foil experiment, in which a few particles bounced straight back, led to the conclusion that the atom has:",
+          "options": ["A solid surface", "Electrons spread evenly throughout", "A small, dense, positively charged nucleus", "No empty space"],
+          "answer": "2",
+          "explanation": "Most particles passed through (the atom is mostly empty space), but a few bounced back from a tiny, dense, positively charged nucleus."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A neutral calcium atom has 20 electrons. What is its electron arrangement using the rule (2, 8, 8, 2)?",
+          "options": ["2, 8, 8, 2", "2, 8, 10", "2, 10, 8", "2, 8, 9, 1"],
+          "answer": "0",
+          "explanation": "Filling shells in order gives 2 in the first, 8 in the second, 8 in the third, and 2 in the fourth: 2, 8, 8, 2."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The tendency of an atom to attract a shared pair of electrons in a bond is called:",
+          "options": ["Ionisation energy", "Atomic radius", "Electronegativity", "Valency"],
+          "answer": "2",
+          "explanation": "Electronegativity measures how strongly an atom pulls shared electrons toward itself; it increases across a period and decreases down a group."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The block of elements in the centre of the periodic table (Groups 3 to 12), which includes iron and copper, are called the:",
+          "options": ["Transition metals", "Halogens", "Alkali metals", "Noble gases"],
+          "answer": "0",
+          "explanation": "The transition metals occupy the central block of the table and include familiar metals such as iron, copper, and zinc."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which of these elements is a non-metal at room temperature?",
+          "options": ["Iron", "Sodium", "Sulfur", "Aluminium"],
+          "answer": "2",
+          "explanation": "Sulfur is a non-metal (a yellow solid). Iron, sodium, and aluminium are all metals."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When two atoms with very different electronegativities share electrons unequally, the bond formed is best described as a:",
+          "options": ["Pure ionic bond", "Metallic bond", "Nonpolar covalent bond", "Polar covalent bond"],
+          "answer": "3",
+          "explanation": "Unequal sharing of electrons because of differing electronegativity creates a polar covalent bond, with slightly charged ends."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The ammonium ion (NH4 with a + charge) is an example of a:",
+          "options": ["Polyatomic ion", "Single atom ion", "Neutral molecule", "Noble gas"],
+          "answer": "0",
+          "explanation": "A polyatomic ion is a group of atoms bonded together that carries an overall charge; ammonium (NH4+) is a common example."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "What is the correct word equation for the reaction in which methane burns in oxygen?",
+          "options": ["Methane + water -> carbon dioxide + oxygen", "Methane + oxygen -> carbon dioxide + water", "Carbon dioxide + water -> methane + oxygen", "Methane -> carbon + hydrogen"],
+          "answer": "1",
+          "explanation": "Complete combustion of methane gives methane + oxygen yielding carbon dioxide + water."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When two clear solutions are mixed and an insoluble solid suddenly forms, that solid is called a:",
+          "options": ["Catalyst", "Solvent", "Precipitate", "Reactant"],
+          "answer": "2",
+          "explanation": "A precipitate is an insoluble solid that forms and separates out when two solutions react together."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which statement correctly compares evaporation and boiling of a liquid?",
+          "options": ["Both happen only at the boiling point", "Evaporation happens at any temperature from the surface; boiling happens at a fixed temperature throughout", "Boiling happens only from the surface", "Evaporation needs a higher temperature than boiling"],
+          "answer": "1",
+          "explanation": "Evaporation occurs at any temperature and only at the surface, while boiling occurs at a fixed temperature and throughout the whole liquid."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Among solids, liquids, and gases, which usually has the highest density for the same substance?",
+          "options": ["The gas", "The liquid", "The solid", "They all have equal density"],
+          "answer": "2",
+          "explanation": "Particles are packed most closely in the solid state, so for most substances the solid has the highest density and the gas the lowest."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An atom of an element has 24 protons and 28 neutrons. Which symbol notation correctly represents it, with mass number and atomic number?",
+          "options": ["Mass number 24, atomic number 28", "Mass number 52, atomic number 24", "Mass number 28, atomic number 24", "Mass number 52, atomic number 28"],
+          "answer": "1",
+          "explanation": "Atomic number = protons = 24. Mass number = protons + neutrons = 24 + 28 = 52."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "The maximum number of electrons that any energy shell can hold is given by the formula 2n squared, where n is the shell number. What is the maximum number of electrons in the third shell (n = 3)?",
+          "options": ["8", "9", "18", "32"],
+          "answer": "2",
+          "explanation": "Maximum electrons = 2 times n squared = 2 times 3 squared = 2 times 9 = 18 electrons in the third shell."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A sodium ion Na(+) is smaller than a sodium atom. What is the best reason for this?",
+          "options": ["The ion lost its outer shell, and the remaining electrons are pulled in tightly by the same number of protons", "The ion gained a whole shell", "The ion has more neutrons", "The ion has fewer protons"],
+          "answer": "0",
+          "explanation": "Losing the outer electron removes a whole shell, and the unchanged 11 protons now pull the 10 remaining electrons more tightly, making the cation smaller."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Going across Period 3 from sodium to argon, how does the general character of the elements change?",
+          "options": ["From non-metal to metal", "It stays metallic throughout", "From metal through metalloid to non-metal", "From gas to solid only"],
+          "answer": "2",
+          "explanation": "Across a period, elements change from metals on the left (sodium) through metalloids (silicon) to non-metals on the right (argon)."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two elements have electron arrangements 2, 8, 7 and 2, 8, 8, 7. They are most likely to be found:",
+          "options": ["In the same period", "Among the noble gases", "As two metals", "In the same group"],
+          "answer": "3",
+          "explanation": "Both have 7 valence electrons, so they belong to the same group (Group 17, the halogens), just in different periods."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Diamond and graphite are both made only of carbon atoms held by covalent bonds, yet diamond is very hard and graphite is soft and slippery. The best explanation is that:",
+          "options": ["The carbon atoms are arranged in different structures", "They are different elements", "Graphite contains ionic bonds", "Diamond contains metallic bonds"],
+          "answer": "0",
+          "explanation": "Diamond and graphite are different forms (allotropes) of carbon; their atoms are arranged differently, giving very different properties despite identical composition."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which statement about bond and force strengths is correct?",
+          "options": ["Hydrogen bonds are stronger than covalent bonds", "Strong ionic and covalent bonds hold atoms within substances, while weak van der Waals forces act between molecules", "Van der Waals forces are the strongest of all", "All bonds and forces are equal in strength"],
+          "answer": "1",
+          "explanation": "Strong chemical bonds (ionic and covalent) hold atoms together within substances, while weak van der Waals forces act between molecules and are much weaker."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "What is the correct formula of the ionic compound formed from magnesium ions (Mg with 2+) and nitrate ions (NO3 with 1-)?",
+          "options": ["MgNO3", "Mg2NO3", "Mg(NO3)2", "Mg2(NO3)3"],
+          "answer": "2",
+          "explanation": "One Mg(2+) needs two NO3(-) ions to balance the charge, so the formula is Mg(NO3)2 with the polyatomic ion in brackets."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "What is the molar mass of calcium carbonate, CaCO3? (Use Ca = 40, C = 12, O = 16 g/mol.)",
+          "options": ["68 g/mol", "88 g/mol", "100 g/mol", "120 g/mol"],
+          "answer": "2",
+          "explanation": "Molar mass = 40 + 12 + (3 times 16) = 40 + 12 + 48 = 100 g/mol."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How many moles are there in 36 g of water (H2O), given its molar mass is 18 g/mol?",
+          "options": ["2 mol", "1 mol", "0.5 mol", "18 mol"],
+          "answer": "0",
+          "explanation": "Moles = mass divided by molar mass = 36 divided by 18 = 2 mol."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "When the equation Fe + O2 -> Fe2O3 is balanced with the smallest whole numbers, what is the coefficient of Fe?",
+          "options": ["2", "3", "6", "4"],
+          "answer": "3",
+          "explanation": "The balanced equation is 4Fe + 3O2 -> 2Fe2O3, giving 4 iron atoms and 6 oxygen atoms on each side, so Fe has a coefficient of 4."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A gas in a sealed container of fixed volume is heated so its temperature rises. According to the kinetic theory, the pressure increases because the particles:",
+          "options": ["Become larger", "Stick to the walls", "Move faster, hitting the walls harder and more often", "Turn into a liquid"],
+          "answer": "2",
+          "explanation": "Heating raises the particles' kinetic energy, so they collide with the walls more frequently and with greater force, raising the pressure."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "On a cold morning, water droplets form on the outside of a glass holding a cold drink. This happens because water vapour in the air:",
+          "options": ["Boils on the glass", "Freezes into the glass", "Is cooled by the glass and condenses into liquid", "Evaporates from the drink"],
+          "answer": "2",
+          "explanation": "The cold glass cools the water vapour in the surrounding air, removing energy so it condenses from gas into liquid droplets on the surface."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Element M has two isotopes: M-63 with 70% abundance and M-65 with 30% abundance. What is its relative atomic mass, to one decimal place?",
+          "options": ["63.6", "63.0", "64.0", "64.4"],
+          "answer": "0",
+          "explanation": "Relative atomic mass = (0.70 times 63) + (0.30 times 65) = 44.1 + 19.5 = 63.6."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "An element X has atomic number 17. Without a periodic table, predict its group, period, and likely ion charge.",
+          "options": ["Group 17, Period 3, forms a 1- ion", "Group 7, Period 2, forms a 1+ ion", "Group 1, Period 3, forms a 1+ ion", "Group 18, Period 3, forms no ion"],
+          "answer": "0",
+          "explanation": "Atomic number 17 gives the arrangement 2, 8, 7: three shells (Period 3) and 7 valence electrons (Group 17). It gains one electron to form a 1- ion."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "An element from Group 13 forms an ion with a 3+ charge, and an element from Group 16 forms an ion with a 2- charge. What is the formula of the compound they make together?",
+          "options": ["XY", "X2Y3", "X3Y2", "XY2"],
+          "answer": "1",
+          "explanation": "Balancing X(3+) with Y(2-): two X ions give +6 and three Y ions give -6, so the neutral formula is X2Y3."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In the balanced reaction 2Mg + O2 -> 2MgO, how many moles of MgO are produced when 3 moles of Mg react completely with enough oxygen?",
+          "options": ["1.5 moles", "2 moles", "6 moles", "3 moles"],
+          "answer": "3",
+          "explanation": "The mole ratio of Mg to MgO is 2 to 2, which is 1 to 1, so 3 moles of Mg produce 3 moles of MgO."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A fixed mass of gas occupies 300 mL at a certain pressure. At constant temperature, the pressure is tripled. What is the new volume?",
+          "options": ["100 mL", "300 mL", "900 mL", "600 mL"],
+          "answer": "0",
+          "explanation": "At constant temperature, pressure and volume are inversely related, so tripling the pressure reduces the volume to one third: 300 divided by 3 = 100 mL."
+        }
+      ]
+    }
+  ]
+}

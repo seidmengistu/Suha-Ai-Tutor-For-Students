@@ -1,0 +1,722 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "chemistry",
+      "chapters": [
+        {
+          "title": "Structure of the Atom",
+          "description": "How scientists discovered atoms and their building blocks: protons, neutrons, and electrons.",
+          "lessons": [
+            {
+              "title": "Atoms and Their Particles",
+              "summary": "Learn how atomic theory developed from Dalton to modern science, and how protons, neutrons, and electrons make up every atom. You will also count particles using atomic number and mass number.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "What Is an Atom?",
+                  "body": "Everything around you, the water you drink from a *jebena* (clay coffee pot), the air you breathe, and your own body, is made of tiny particles called **atoms**. An **atom** is the smallest particle of an element that still has the properties of that element.\n\nThe ancient Greek philosopher **Democritus** first used the word *atomos*, meaning \"uncuttable.\" But it was the British scientist **John Dalton** who, in 1803, built the first scientific **atomic theory** based on experiments. Today we know the atom is not the end of the story, it is made of even smaller pieces called **subatomic particles**."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson, you will be able to:\n\n- State the main ideas of **Dalton's atomic theory** and **modern atomic theory**.\n- Name the three **subatomic particles** and give their charge and mass.\n- Use the **atomic number (Z)** and **mass number (A)** to find the number of protons, electrons, and neutrons.\n- Explain what **isotopes** are."
+                },
+                {
+                  "type": "theory",
+                  "title": "Inside the Atom",
+                  "body": "An atom has two main regions:\n\n1. The **nucleus**, a tiny, dense centre that holds **protons** (positive charge) and **neutrons** (no charge).\n2. The **electron cloud**, a large space around the nucleus where **electrons** (negative charge) move.\n\n| Particle | Symbol | Charge | Relative mass |\n|----------|--------|--------|---------------|\n| Proton | p+ | +1 | 1 |\n| Neutron | n | 0 | 1 |\n| Electron | e- | -1 | almost 0 |\n\n**Why is an atom neutral?** Because it has an *equal* number of protons and electrons, so the positive and negative charges cancel out.\n\n**Why is almost all the mass in the nucleus?** Because protons and neutrons each have about 1,837 times the mass of an electron. The electron is so light we treat its mass as nearly zero.\n\nTwo key numbers describe any atom:\n\n- **Atomic number (Z)** = number of protons. This *identifies* the element. Every carbon atom has 6 protons; nothing else does.\n- **Mass number (A)** = number of protons + number of neutrons.\n\nFrom these: **Number of neutrons = A - Z**.\n\nAn atom is written as a symbol with A on the top-left and Z on the bottom-left, for example sodium is written as Na with A = 23 and Z = 11.\n\n**Isotopes** are atoms of the *same* element (same number of protons) but with *different* numbers of neutrons. For example, hydrogen has three isotopes: protium (0 neutrons), deuterium (1 neutron), and tritium (2 neutrons). Because they have the same electrons, isotopes share the same chemical behaviour."
+                },
+                {
+                  "type": "visual",
+                  "title": "A Sodium Atom",
+                  "body": "Sodium (Na) has 11 protons, 12 neutrons, and 11 electrons arranged in shells of 2, 8, and 1.",
+                  "visual": {
+                    "kind": "atom",
+                    "data": {
+                      "symbol": "Na",
+                      "protons": 11,
+                      "neutrons": 12,
+                      "shells": [2, 8, 1]
+                    }
+                  }
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Counting Particles in Bromine-80",
+                  "body": "**Question:** How many protons, electrons, and neutrons are in an atom of bromine-80? The atomic number of bromine is 35.\n\n**Step 1 - Write down what you know.**\n- Mass number A = 80\n- Atomic number Z = 35\n\n**Step 2 - Find the protons.**\nNumber of protons = Z = **35**.\n\n**Step 3 - Find the electrons.**\nThe atom is neutral, so electrons = protons = **35**.\n\n**Step 4 - Find the neutrons.**\nNeutrons = A - Z = 80 - 35 = **45**.\n\n**Answer:** 35 protons, 35 electrons, and 45 neutrons."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Mixing up A and Z.** The *smaller* number is usually the atomic number (protons); the *larger* one is the mass number. Remember: A - Z gives neutrons, never the other way around.\n- **Forgetting that isotopes have the same atomic number.** Isotopes differ only in *neutrons*, so their mass numbers differ, but their proton count (and element) stays the same.\n- **Thinking the electron adds mass.** Its mass is so tiny we treat the nucleus as holding nearly all the atom's mass.\n- **Saying an atom is charged.** A neutral atom always has equal protons and electrons."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy Ways to Remember",
+                  "body": "- **\"PEN\"** for what is inside an atom: **P**rotons, **E**lectrons, **N**eutrons.\n- Charges: **P**roton is **P**ositive (both start with P). The neu**tron** is **neu**tral (no charge). That leaves the electron as negative.\n- **\"A minus Z gives N\"** (A - Z = Neutrons). Say it like a small song.\n- Atomic number = number of **p**rotons = your element's **p**assport. It never changes for an element."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers below.\n\n1. An atom has 17 protons and 18 neutrons. What is its atomic number and mass number?\n2. Find the number of neutrons in an atom with A = 39 and Z = 19 (potassium).\n3. Two atoms both have 6 protons, but one has 6 neutrons and the other has 7 neutrons. What do we call them?\n\n**Answers:**\n1. Atomic number = 17; mass number = 17 + 18 = 35.\n2. Neutrons = 39 - 19 = 20.\n3. Isotopes (of carbon)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- An **atom** is the smallest particle of an element.\n- The three **subatomic particles** are protons (+), neutrons (0), and electrons (-).\n- The **nucleus** holds protons and neutrons; electrons move around it.\n- **Atomic number (Z)** = protons = electrons (in a neutral atom).\n- **Mass number (A)** = protons + neutrons, so **neutrons = A - Z**.\n- **Isotopes** are atoms of the same element with different numbers of neutrons."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words from this lesson.",
+                  "glossary": [
+                    { "term": "Atom", "definition": "The smallest particle of an element that keeps the properties of that element." },
+                    { "term": "Subatomic particle", "definition": "A particle smaller than an atom: a proton, neutron, or electron." },
+                    { "term": "Nucleus", "definition": "The small, dense centre of an atom that contains protons and neutrons." },
+                    { "term": "Atomic number (Z)", "definition": "The number of protons in an atom's nucleus; it identifies the element." },
+                    { "term": "Mass number (A)", "definition": "The total number of protons and neutrons in an atom's nucleus." },
+                    { "term": "Isotopes", "definition": "Atoms of the same element with the same number of protons but different numbers of neutrons." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is an atom?", "back": "The smallest particle of an element that still has the properties of that element." },
+                { "front": "Name the three subatomic particles and their charges.", "back": "Proton (+1), neutron (0), and electron (-1)." },
+                { "front": "What does the atomic number (Z) tell you?", "back": "The number of protons, which also equals the number of electrons in a neutral atom and identifies the element." },
+                { "front": "How do you find the number of neutrons?", "back": "Neutrons = mass number - atomic number (A - Z)." },
+                { "front": "What are isotopes?", "back": "Atoms of the same element with the same number of protons but different numbers of neutrons." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Subatomic particles",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which subatomic particle carries a negative charge?",
+              "options": ["Proton", "Neutron", "Electron", "Nucleus"],
+              "answer": "2",
+              "explanation": "The electron carries a charge of -1. The proton is positive, the neutron is neutral, and the nucleus is a region, not a single particle."
+            },
+            {
+              "topic": "Atomic number",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What does the atomic number of an element tell you?",
+              "options": ["The number of neutrons", "The number of protons", "The number of protons plus neutrons", "The mass of the atom in grams"],
+              "answer": "1",
+              "explanation": "The atomic number (Z) equals the number of protons, which identifies the element and equals the number of electrons in a neutral atom."
+            },
+            {
+              "topic": "Mass number and neutrons",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "An atom has a mass number of 23 and an atomic number of 11. How many neutrons does it have?",
+              "options": ["11", "12", "23", "34"],
+              "answer": "1",
+              "explanation": "Neutrons = mass number - atomic number = 23 - 11 = 12."
+            },
+            {
+              "topic": "Isotopes",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Two atoms are isotopes of each other. What must be the same and what must be different?",
+              "options": ["Same neutrons, different protons", "Same protons, different neutrons", "Same electrons, different protons", "Same mass number, different protons"],
+              "answer": "1",
+              "explanation": "Isotopes are atoms of the same element, so they have the same number of protons but different numbers of neutrons, giving them different mass numbers."
+            },
+            {
+              "topic": "Atomic theory",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Which idea from Dalton's original atomic theory was later shown to be incorrect?",
+              "options": ["Elements are made of atoms", "Atoms of different elements are different", "Atoms are indivisible and cannot be broken down", "Atoms combine to form compounds"],
+              "answer": "2",
+              "explanation": "Dalton said atoms were indivisible, but the discovery of subatomic particles (electrons, protons, neutrons) showed that atoms can be subdivided."
+            },
+            {
+              "topic": "Structure of the atom",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "An ion of an element has 11 protons, 12 neutrons, and 10 electrons. What is the mass number, and is the species neutral?",
+              "options": ["Mass number 23, neutral", "Mass number 23, positively charged", "Mass number 21, negatively charged", "Mass number 33, positively charged"],
+              "answer": "1",
+              "explanation": "Mass number = protons + neutrons = 11 + 12 = 23. With 11 protons but only 10 electrons, there is one more positive charge than negative, so it is positively charged (an ion), not neutral."
+            }
+          ]
+        },
+        {
+          "title": "Periodic Classification of the Elements",
+          "description": "How elements are organised in the modern periodic table and the patterns this reveals.",
+          "lessons": [
+            {
+              "title": "The Periodic Table and Its Patterns",
+              "summary": "Discover how elements are arranged by atomic number into periods and groups, and how properties like atomic size and reactivity follow clear trends. You will learn to read the table like a map.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Bringing Order to the Elements",
+                  "body": "There are over 100 known **elements**, from hydrogen to gold to the iron in Ethiopia's traditional cooking pots. With so many, scientists needed a way to organise them. The answer is the **periodic table**, a chart that arranges all elements so that those with similar behaviour line up together.\n\nThe modern table was built on the work of **Dmitri Mendeleev** and improved by **Henry Moseley**, who arranged elements by **atomic number**. This simple idea reveals beautiful repeating patterns."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson, you will be able to:\n\n- State how the **modern periodic table** is arranged.\n- Define a **period** and a **group**.\n- Explain the trends in **atomic radius**, **ionisation energy**, and **metallic character**.\n- Use an element's position to predict its properties."
+                },
+                {
+                  "type": "theory",
+                  "title": "Periods, Groups, and Trends",
+                  "body": "In the **modern periodic law**, the properties of elements are a *periodic function of their atomic numbers*. This means properties repeat in a regular pattern as atomic number increases.\n\n- A **period** is a horizontal *row*. There are 7 periods. As you cross a period, the number of protons and electrons increases one at a time.\n- A **group** is a vertical *column*. There are 18 groups. Elements in the same group have the same number of **valence electrons** (outer electrons), so they behave alike. For example, **Group 1** (the alkali metals like sodium) are all very reactive.\n\n**Why do trends happen?** As you move across a period from left to right, more protons pull the electrons in more strongly, so:\n\n- **Atomic radius (size)** *decreases* across a period (stronger pull shrinks the atom) and *increases* down a group (more shells are added).\n- **Ionisation energy** (the energy needed to remove an electron) *increases* across a period and *decreases* down a group.\n- **Metallic character** *decreases* across a period (left side metals, right side non-metals) and *increases* down a group.\n\nThe table also splits into **metals** (left and centre, good conductors), **non-metals** (upper right), and **metalloids** (along the staircase, in between)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Comparing Two Elements",
+                  "body": "**Question:** Which atom is larger, sodium (Na, Group 1, Period 3) or chlorine (Cl, Group 17, Period 3)? Explain.\n\n**Step 1 - Note their positions.**\nBoth are in **Period 3**, so they have the same number of electron shells.\n\n**Step 2 - Recall the trend across a period.**\nAtomic radius *decreases* from left to right because the growing positive charge in the nucleus pulls the electrons in tighter.\n\n**Step 3 - Compare.**\nSodium is on the *left* (Group 1) and chlorine is on the *right* (Group 17). Since size decreases as we move right, sodium is to the left of chlorine.\n\n**Answer:** Sodium (Na) is the larger atom."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Confusing periods and groups.** Periods go *across* (rows); groups go *down* (columns). Remember: a *group* of friends standing in a *column*.\n- **Getting the size trend backwards.** Atoms get *smaller* across a period, even though the number of electrons grows, because the nucleus pulls harder.\n- **Thinking the heaviest element is always biggest.** Size depends on the number of shells and nuclear pull, not just mass.\n- **Forgetting why groups behave alike.** It is because they share the same number of *valence (outer) electrons*."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy Ways to Remember",
+                  "body": "- **Periods = aP-ross** (across). **Groups = down the colum-G.** Silly, but it sticks.\n- For size: \"**Down and to the left, atoms grow big**\" (bottom-left corner has the largest atoms).\n- For ionisation energy and metallic character, just remember they often run *opposite* to size: where atoms are small (top-right), it is *harder* to remove electrons.\n- **Group 1 = alkali metals = very reactive**; **Group 18 = noble gases = very unreactive**."
+                },
+                {
+                  "type": "visual",
+                  "title": "Trends Across the Table",
+                  "body": "This shows the two main directions. Atomic radius increases going down and to the left; ionisation energy and non-metallic character increase going up and to the right.",
+                  "visual": {
+                    "kind": "reaction",
+                    "data": {
+                      "equation": "Atomic radius increases <- down/left :: ionisation energy increases -> up/right"
+                    }
+                  }
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers below.\n\n1. Magnesium is in Period 3, Group 2. How many valence (outer) electrons does it have?\n2. Which is more reactive among metals, an element at the top or the bottom of Group 1?\n3. Moving from left to right across Period 2, does atomic radius increase or decrease?\n\n**Answers:**\n1. 2 valence electrons (the group number for Group 2).\n2. The element at the bottom is more reactive (metallic character increases down a group).\n3. It decreases."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- The **modern periodic table** arranges elements by increasing **atomic number**.\n- A **period** is a row; a **group** is a column.\n- Elements in the same **group** share the same number of **valence electrons** and behave alike.\n- **Atomic radius** increases down a group and decreases across a period.\n- **Ionisation energy** and **non-metallic character** increase across a period and decrease down a group.\n- The table is divided into **metals**, **non-metals**, and **metalloids**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words from this lesson.",
+                  "glossary": [
+                    { "term": "Periodic table", "definition": "A chart that arranges all elements by increasing atomic number so similar elements line up." },
+                    { "term": "Period", "definition": "A horizontal row in the periodic table." },
+                    { "term": "Group", "definition": "A vertical column in the periodic table; its elements have similar properties." },
+                    { "term": "Valence electrons", "definition": "The electrons in the outermost shell of an atom, which control its chemical behaviour." },
+                    { "term": "Atomic radius", "definition": "A measure of the size of an atom, from its nucleus to its outer electrons." },
+                    { "term": "Ionisation energy", "definition": "The energy needed to remove an electron from an atom." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "How are elements arranged in the modern periodic table?", "back": "By increasing atomic number, so elements with similar properties fall into the same column." },
+                { "front": "What is the difference between a period and a group?", "back": "A period is a horizontal row; a group is a vertical column." },
+                { "front": "Why do elements in the same group behave alike?", "back": "They have the same number of valence (outer) electrons." },
+                { "front": "How does atomic radius change across a period and down a group?", "back": "It decreases across a period (left to right) and increases down a group." },
+                { "front": "What is ionisation energy?", "back": "The energy needed to remove an electron from an atom; it increases across a period and decreases down a group." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Arrangement of the table",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "In the modern periodic table, elements are arranged in order of increasing:",
+              "options": ["Atomic mass", "Atomic number", "Number of neutrons", "Density"],
+              "answer": "1",
+              "explanation": "The modern periodic table is arranged by increasing atomic number (number of protons), an idea introduced by Henry Moseley."
+            },
+            {
+              "topic": "Periods and groups",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A vertical column in the periodic table is called a:",
+              "options": ["Period", "Group", "Shell", "Row"],
+              "answer": "1",
+              "explanation": "A vertical column is a group. A horizontal row is a period."
+            },
+            {
+              "topic": "Valence electrons",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Why do elements in the same group have similar chemical properties?",
+              "options": ["They have the same number of neutrons", "They have the same atomic mass", "They have the same number of valence electrons", "They are in the same period"],
+              "answer": "2",
+              "explanation": "Chemical behaviour is controlled by valence (outer) electrons, and all members of a group have the same number of them."
+            },
+            {
+              "topic": "Atomic radius trend",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "As you move from left to right across a period, the atomic radius generally:",
+              "options": ["Increases", "Decreases", "Stays the same", "First increases then decreases"],
+              "answer": "1",
+              "explanation": "Across a period the nuclear charge increases and pulls the electrons in more strongly, so the atom gets smaller."
+            },
+            {
+              "topic": "Metallic character",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Which element is expected to be the most metallic?",
+              "options": ["An element at the top right of the table", "An element at the bottom left of the table", "An element in the middle of a period", "A noble gas"],
+              "answer": "1",
+              "explanation": "Metallic character increases down a group and to the left across a period, so the most metallic elements are found at the bottom left."
+            },
+            {
+              "topic": "Periodic trends",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Element X is in Period 2 Group 1 and element Y is in Period 3 Group 1. Compared with X, element Y has a:",
+              "options": ["Smaller radius and higher ionisation energy", "Larger radius and lower ionisation energy", "Larger radius and higher ionisation energy", "Smaller radius and lower ionisation energy"],
+              "answer": "1",
+              "explanation": "Going down a group adds an electron shell, so Y is larger than X. A larger atom holds its outer electron more loosely, so Y has a lower ionisation energy."
+            }
+          ]
+        },
+        {
+          "title": "Chemical Bonding and Intermolecular Forces",
+          "description": "Why atoms join together, and the differences between ionic, covalent, and metallic bonds.",
+          "lessons": [
+            {
+              "title": "How Atoms Bond Together",
+              "summary": "Understand why atoms form bonds to become stable, and compare ionic, covalent, and metallic bonding. You will also learn about the weaker forces that hold molecules near each other.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Why Do Atoms Join?",
+                  "body": "Most atoms do not like being alone. They join with other atoms to form the substances we see every day, such as table salt and water. A **chemical bond** is the force that holds atoms together.\n\nAtoms bond to become more stable. They do this by gaining a full outer shell of electrons, usually eight, which is called the **octet rule**. The way atoms reach this stable state, by *giving*, *taking*, or *sharing* electrons, decides the type of bond they form."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson, you will be able to:\n\n- Explain why atoms form **chemical bonds**.\n- Describe **ionic bonding**, **covalent bonding**, and **metallic bonding**.\n- Tell the difference between these three types of bonds.\n- Name the **intermolecular forces** that act between molecules."
+                },
+                {
+                  "type": "theory",
+                  "title": "Three Types of Chemical Bonds",
+                  "body": "Atoms reach a stable octet in three main ways.\n\n**1. Ionic bonding** happens between a **metal** and a **non-metal**. The metal *gives away* electrons and becomes a positive **ion (cation)**; the non-metal *takes* those electrons and becomes a negative **ion (anion)**. The opposite charges attract strongly. Example: sodium gives one electron to chlorine to form sodium chloride (NaCl), common table salt. Ionic compounds are usually hard solids with high melting points.\n\n**2. Covalent bonding** happens between **non-metals**. Here atoms *share* electrons because neither wants to give them up. A shared pair of electrons forms one covalent bond. Example: two hydrogen atoms share electrons with one oxygen atom to form water (H2O). Covalent substances often have low melting points.\n\n**3. Metallic bonding** happens in **metals**. The atoms release their outer electrons into a shared \"sea of electrons\" that flows freely between positive metal ions. This is why metals like the iron and aluminium used in buildings can **conduct electricity** and can be bent without breaking.\n\nBeyond bonds *inside* molecules, there are weaker **intermolecular forces** *between* whole molecules. These include **hydrogen bonds** (strong attractions involving hydrogen) and weak **van der Waals forces**. They explain why water is a liquid at room temperature and why it boils at 100 degrees Celsius."
+                },
+                {
+                  "type": "visual",
+                  "title": "A Water Molecule (Covalent)",
+                  "body": "In water, one oxygen atom shares electrons with two hydrogen atoms, forming two single covalent bonds.",
+                  "visual": {
+                    "kind": "molecule",
+                    "data": {
+                      "atoms": [
+                        { "el": "H", "x": 0, "y": 0 },
+                        { "el": "O", "x": 1, "y": 0 },
+                        { "el": "H", "x": 2, "y": 0 }
+                      ],
+                      "bonds": [
+                        [0, 1, 1],
+                        [1, 2, 1]
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Predicting the Bond Type",
+                  "body": "**Question:** What type of bond forms between magnesium (a metal) and oxygen (a non-metal) in magnesium oxide (MgO)?\n\n**Step 1 - Identify the elements.**\nMagnesium is a *metal* (left side of the table). Oxygen is a *non-metal* (upper right).\n\n**Step 2 - Recall the rule.**\nA metal joined to a non-metal forms an **ionic bond** by transferring electrons.\n\n**Step 3 - Describe the transfer.**\nMagnesium gives away 2 electrons to become Mg(2+). Oxygen takes 2 electrons to become O(2-). The opposite charges attract.\n\n**Answer:** Magnesium oxide is held together by an **ionic bond**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Mixing up sharing and transferring.** *Covalent* bonds **share** electrons; *ionic* bonds **transfer** them.\n- **Forgetting which elements make which bond.** Metal + non-metal = ionic. Non-metal + non-metal = covalent. Metal + metal = metallic.\n- **Confusing bonds with intermolecular forces.** A *bond* holds atoms together inside a molecule; *intermolecular forces* act *between* separate molecules and are much weaker.\n- **Saying ions in NaCl are neutral.** The sodium ion is +1 and the chloride ion is -1; only the whole compound is neutral overall."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy Ways to Remember",
+                  "body": "- **\"Ionic = I owe you\"**: one atom gives, the other takes (transfer of electrons).\n- **\"Co-valent = Co-operate\"**: atoms cooperate by sharing electrons.\n- **\"Metals share a sea\"**: metallic bonding is a sea of free electrons.\n- Bond strength order to remember: bonds (strong) are stronger than intermolecular forces (weak)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers below.\n\n1. What kind of bond forms between two chlorine atoms (both non-metals)?\n2. In an ionic bond, what is the charge on a metal atom after it loses electrons?\n3. Why can metals conduct electricity?\n\n**Answers:**\n1. A covalent bond (sharing of electrons between non-metals).\n2. A positive charge (it becomes a cation).\n3. Because they have a sea of free-moving electrons that can carry charge."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- A **chemical bond** holds atoms together so they become stable (often by reaching an **octet**).\n- **Ionic bonds** (metal + non-metal) *transfer* electrons, forming positive and negative ions.\n- **Covalent bonds** (non-metal + non-metal) *share* electrons.\n- **Metallic bonds** (metal + metal) use a shared \"sea\" of free electrons.\n- **Intermolecular forces** act *between* molecules and are weaker than chemical bonds."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words from this lesson.",
+                  "glossary": [
+                    { "term": "Chemical bond", "definition": "The force of attraction that holds atoms together in a substance." },
+                    { "term": "Ionic bond", "definition": "A bond formed when one atom transfers electrons to another, creating oppositely charged ions that attract." },
+                    { "term": "Covalent bond", "definition": "A bond formed when two atoms share one or more pairs of electrons." },
+                    { "term": "Metallic bond", "definition": "The attraction between positive metal ions and a shared sea of free electrons." },
+                    { "term": "Ion", "definition": "An atom that has gained or lost electrons and so carries an electric charge." },
+                    { "term": "Intermolecular forces", "definition": "Weak forces of attraction that act between separate molecules." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "Why do atoms form chemical bonds?", "back": "To become more stable, usually by gaining a full outer shell of electrons (the octet rule)." },
+                { "front": "What happens to electrons in an ionic bond?", "back": "They are transferred from a metal atom to a non-metal atom, forming positive and negative ions." },
+                { "front": "What happens to electrons in a covalent bond?", "back": "They are shared between two non-metal atoms." },
+                { "front": "What is metallic bonding?", "back": "Positive metal ions held together by a shared 'sea' of free-moving electrons." },
+                { "front": "How are intermolecular forces different from chemical bonds?", "back": "Intermolecular forces act between separate molecules and are much weaker than the bonds inside a molecule." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Reason for bonding",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Atoms form chemical bonds mainly in order to:",
+              "options": ["Become heavier", "Become more stable", "Change colour", "Gain more protons"],
+              "answer": "1",
+              "explanation": "Atoms bond to reach a more stable arrangement, usually a full outer shell of electrons (the octet rule)."
+            },
+            {
+              "topic": "Ionic bonding",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "An ionic bond usually forms between:",
+              "options": ["Two non-metals", "Two metals", "A metal and a non-metal", "Two noble gases"],
+              "answer": "2",
+              "explanation": "Ionic bonds form between a metal (which loses electrons) and a non-metal (which gains electrons)."
+            },
+            {
+              "topic": "Covalent bonding",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "In a covalent bond, the atoms:",
+              "options": ["Transfer electrons completely", "Share one or more pairs of electrons", "Lose all their electrons", "Exchange protons"],
+              "answer": "1",
+              "explanation": "Covalent bonds form when atoms share pairs of electrons, which happens between non-metals."
+            },
+            {
+              "topic": "Metallic bonding",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Metals can conduct electricity because they have:",
+              "options": ["Fixed electrons that cannot move", "A sea of free-moving electrons", "Only neutrons", "Strong ionic bonds"],
+              "answer": "1",
+              "explanation": "In metallic bonding, outer electrons move freely as a 'sea', allowing metals to carry electric current."
+            },
+            {
+              "topic": "Bonds versus forces",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Which statement correctly compares chemical bonds and intermolecular forces?",
+              "options": ["Intermolecular forces are stronger than chemical bonds", "Chemical bonds act between molecules, forces act inside them", "Chemical bonds are stronger than intermolecular forces", "They are exactly the same strength"],
+              "answer": "2",
+              "explanation": "Chemical bonds hold atoms together inside a molecule and are strong; intermolecular forces act between separate molecules and are weaker."
+            },
+            {
+              "topic": "Bond type prediction",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Potassium (a metal) reacts with chlorine (a non-metal) to form potassium chloride. What type of bond forms and what is the charge on the potassium ion?",
+              "options": ["Covalent bond, K is neutral", "Ionic bond, K is +1", "Metallic bond, K is -1", "Ionic bond, K is -1"],
+              "answer": "1",
+              "explanation": "A metal joined to a non-metal forms an ionic bond. Potassium loses one electron to become K(+1), and chlorine gains it to become Cl(-1)."
+            }
+          ]
+        },
+        {
+          "title": "Chemical Reaction and Stoichiometry",
+          "description": "How to write and balance chemical equations and use them to relate amounts of reactants and products.",
+          "lessons": [
+            {
+              "title": "Chemical Reactions and Balancing Equations",
+              "summary": "Learn the laws that govern chemical reactions, how to balance equations, and the basics of stoichiometry. You will also meet the main types of reactions, including oxidation and reduction.",
+              "estimatedMinutes": 30,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "When Substances Change",
+                  "body": "When wood burns in a fire, or when *injera* dough ferments, a **chemical reaction** is taking place. A **chemical reaction** is a process in which substances called **reactants** change into new substances called **products**.\n\nWe describe reactions using a **chemical equation**, a shorthand that uses symbols and formulas. A key rule controls every reaction: the **law of conservation of mass**, which says matter is never created or destroyed. This is why we must *balance* our equations."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson, you will be able to:\n\n- State the **law of conservation of mass**.\n- **Balance** a chemical equation.\n- Explain what **stoichiometry** means.\n- Identify the main **types of reactions**, including **oxidation** and **reduction**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Equations, Balancing, and Reaction Types",
+                  "body": "The **law of conservation of mass** states that the total mass of reactants equals the total mass of products. Atoms are only rearranged, never lost. So an equation must have the *same number of each kind of atom* on both sides; this is what it means to be **balanced**.\n\nWe balance by placing numbers called **coefficients** in front of formulas. We *never* change the small subscripts inside a formula, because that would change the substance itself.\n\nOnce an equation is balanced, the coefficients tell us the *ratio* of substances. The study of these amounts is called **stoichiometry**. For example, in the balanced equation for forming water, two molecules of hydrogen react with one molecule of oxygen to make two molecules of water.\n\nReactions come in several types:\n\n- **Combination (synthesis):** two or more substances join into one.\n- **Decomposition:** one substance breaks into two or more.\n- **Displacement:** one element replaces another in a compound.\n- **Double displacement:** two compounds swap partners.\n\nMany reactions also involve **oxidation and reduction (redox)**. **Oxidation** is the *loss* of electrons; **reduction** is the *gain* of electrons. These always happen together, one substance loses what the other gains. Reactions also involve **energy changes**: an **exothermic** reaction releases heat (like burning charcoal), while an **endothermic** reaction absorbs heat."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Balancing the Burning of Hydrogen",
+                  "body": "**Question:** Balance the equation for hydrogen burning in oxygen to form water: H2 + O2 -> H2O.\n\n**Step 1 - Count atoms on each side (unbalanced).**\n- Left: 2 H, 2 O. Right: 2 H, 1 O. Oxygen does not match.\n\n**Step 2 - Balance oxygen.**\nPut a 2 in front of H2O to get 2 oxygen atoms on the right: H2 + O2 -> 2H2O.\n\n**Step 3 - Recount.**\nNow the right side has 4 H and 2 O. The left has only 2 H. Hydrogen no longer matches.\n\n**Step 4 - Balance hydrogen.**\nPut a 2 in front of H2 on the left: 2H2 + O2 -> 2H2O.\n\n**Step 5 - Final check.**\nLeft: 4 H, 2 O. Right: 4 H, 2 O. They match.\n\n**Answer:** 2H2 + O2 -> 2H2O"
+                },
+                {
+                  "type": "visual",
+                  "title": "The Balanced Equation",
+                  "body": "This balanced reaction shows two hydrogen molecules and one oxygen molecule forming two water molecules, with equal atoms on both sides.",
+                  "visual": {
+                    "kind": "reaction",
+                    "data": {
+                      "equation": "2H2 + O2 -> 2H2O"
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Changing subscripts to balance.** Never turn H2O into H2O2 to add oxygen. Only change the *coefficients* in front.\n- **Forgetting to recount after each change.** Balancing one element often unbalances another, so check every atom at the end.\n- **Mixing up oxidation and reduction.** Use the memory aid below. Oxidation is *loss* of electrons; reduction is *gain*.\n- **Thinking mass disappears in burning.** It does not. Gases like carbon dioxide and water vapour carry the 'missing' mass away."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy Ways to Remember",
+                  "body": "- **\"OIL RIG\"**: **O**xidation **I**s **L**oss (of electrons), **R**eduction **I**s **G**ain. This is the most useful aid in redox.\n- For balancing, work through elements one at a time and **leave oxygen and hydrogen for last** when other elements are present.\n- **Exothermic = exit heat** (heat leaves). **Endothermic = heat enters.**\n- Coefficients are *big numbers in front*; subscripts are *small numbers below*, and you only touch the big ones."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers below.\n\n1. Balance: N2 + H2 -> NH3.\n2. In a reaction an atom loses electrons. Is it oxidised or reduced?\n3. A reaction releases heat to its surroundings. Is it exothermic or endothermic?\n\n**Answers:**\n1. N2 + 3H2 -> 2NH3 (check: 2 N and 6 H on each side).\n2. Oxidised (oxidation is loss of electrons, OIL).\n3. Exothermic."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- A **chemical reaction** turns **reactants** into **products**.\n- The **law of conservation of mass** means atoms are conserved, so equations must be **balanced**.\n- Balance using **coefficients**; never change subscripts.\n- **Stoichiometry** uses the balanced equation to find the ratio of substances.\n- Reaction types include **combination**, **decomposition**, **displacement**, and **double displacement**.\n- In **redox**, **oxidation is loss** of electrons and **reduction is gain** (OIL RIG)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words from this lesson.",
+                  "glossary": [
+                    { "term": "Chemical reaction", "definition": "A process in which reactants change into new substances called products." },
+                    { "term": "Law of conservation of mass", "definition": "The rule that matter is neither created nor destroyed in a chemical reaction." },
+                    { "term": "Balanced equation", "definition": "An equation with equal numbers of each kind of atom on both sides." },
+                    { "term": "Coefficient", "definition": "A number placed in front of a formula to balance an equation." },
+                    { "term": "Stoichiometry", "definition": "The study of the amounts of reactants and products in a chemical reaction." },
+                    { "term": "Oxidation and reduction", "definition": "Oxidation is the loss of electrons; reduction is the gain of electrons. They occur together." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What does the law of conservation of mass state?", "back": "Matter is neither created nor destroyed; the mass of reactants equals the mass of products." },
+                { "front": "When balancing an equation, what may you change and what may you not change?", "back": "You may change the coefficients (big numbers in front), but never the subscripts inside a formula." },
+                { "front": "What is stoichiometry?", "back": "The study of the amounts and ratios of reactants and products in a balanced chemical equation." },
+                { "front": "What does OIL RIG stand for?", "back": "Oxidation Is Loss (of electrons), Reduction Is Gain (of electrons)." },
+                { "front": "What is the difference between exothermic and endothermic reactions?", "back": "Exothermic reactions release heat; endothermic reactions absorb heat." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Conservation of mass",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "The law of conservation of mass tells us that in a chemical reaction, the total mass of the products is:",
+              "options": ["Greater than the reactants", "Less than the reactants", "Equal to the reactants", "Always zero"],
+              "answer": "2",
+              "explanation": "Matter is neither created nor destroyed, so the total mass of the products equals the total mass of the reactants."
+            },
+            {
+              "topic": "Reactants and products",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "In the equation 2H2 + O2 -> 2H2O, the substance H2O is a:",
+              "options": ["Reactant", "Product", "Coefficient", "Catalyst"],
+              "answer": "1",
+              "explanation": "Substances on the right of the arrow are products. Water (H2O) is formed, so it is a product."
+            },
+            {
+              "topic": "Balancing equations",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What coefficient is needed in the blank to balance: N2 + 3H2 -> __ NH3 ?",
+              "options": ["1", "2", "3", "4"],
+              "answer": "1",
+              "explanation": "Two NH3 molecules give 2 nitrogen atoms and 6 hydrogen atoms, matching N2 (2 N) and 3H2 (6 H) on the left."
+            },
+            {
+              "topic": "Oxidation and reduction",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Using OIL RIG, oxidation is defined as the:",
+              "options": ["Gain of electrons", "Loss of electrons", "Gain of protons", "Loss of neutrons"],
+              "answer": "1",
+              "explanation": "OIL RIG means Oxidation Is Loss of electrons and Reduction Is Gain of electrons."
+            },
+            {
+              "topic": "Balancing rules",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Why should you never change a subscript when balancing a chemical equation?",
+              "options": ["It makes the maths harder", "It changes the identity of the substance", "Subscripts are always correct by luck", "It is allowed, actually"],
+              "answer": "1",
+              "explanation": "Subscripts define the formula of a substance. Changing them creates a different substance, so we only adjust the coefficients in front."
+            },
+            {
+              "topic": "Stoichiometry",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "In the balanced reaction 2H2 + O2 -> 2H2O, if 4 molecules of H2 react completely, how many molecules of O2 are needed?",
+              "options": ["1", "2", "4", "8"],
+              "answer": "1",
+              "explanation": "The ratio of H2 to O2 is 2 to 1. So 4 molecules of H2 need 4 divided by 2 = 2 molecules of O2."
+            }
+          ]
+        },
+        {
+          "title": "Physical States of Matter",
+          "description": "The kinetic theory of matter and the properties of solids, liquids, and gases.",
+          "lessons": [
+            {
+              "title": "Solids, Liquids, and Gases",
+              "summary": "Use the kinetic theory to explain how particles behave in the three states of matter, and learn the special properties of gases, liquids, and solids. You will see why matter changes state when heated or cooled.",
+              "estimatedMinutes": 25,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Three Forms of Matter",
+                  "body": "Water can be ice, liquid water, or steam. These are the three common **states of matter**: **solid**, **liquid**, and **gas**. The same substance can exist in all three forms depending on temperature.\n\nTo explain this, scientists use the **kinetic theory of matter**: the idea that all matter is made of tiny particles that are always moving. How fast they move and how close they are together decides the state of the matter."
+                },
+                {
+                  "type": "objectives",
+                  "title": "What You Will Learn",
+                  "body": "By the end of this lesson, you will be able to:\n\n- State the main ideas of the **kinetic theory of matter**.\n- Describe the arrangement and movement of particles in **solids**, **liquids**, and **gases**.\n- Explain the key properties of the **gaseous state**.\n- Explain why matter **changes state** when heated or cooled."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Kinetic Theory and the Three States",
+                  "body": "The **kinetic theory of matter** says that:\n\n- All matter is made of small particles (atoms or molecules).\n- These particles are always *moving*.\n- The higher the **temperature**, the faster the particles move (they have more **kinetic energy**).\n- Particles attract one another; the strength of this attraction depends on how close they are.\n\nThe three states differ in how the particles are arranged:\n\n| State | Arrangement | Movement | Shape and Volume |\n|-------|-------------|----------|------------------|\n| Solid | Tightly packed, fixed positions | Vibrate in place | Fixed shape, fixed volume |\n| Liquid | Close but not fixed | Slide past each other | Takes shape of container, fixed volume |\n| Gas | Far apart, random | Move fast in all directions | Fills the whole container |\n\n**Gases** are special: they have no fixed shape or volume, they can be **compressed** (squeezed) easily because of the large spaces between particles, and they spread out to fill any container. The pressure of a gas comes from its particles hitting the walls of the container.\n\n**Liquids** flow and take the shape of their container but keep a fixed volume. **Solids** keep both a fixed shape and volume because their particles are locked in place.\n\n**Changes of state** happen when we add or remove heat. Heating gives particles more energy: a solid **melts** into a liquid, and a liquid **evaporates** or **boils** into a gas. Cooling removes energy: a gas **condenses** into a liquid, and a liquid **freezes** into a solid. The substance stays the same; only the spacing and speed of its particles change."
+                },
+                {
+                  "type": "visual",
+                  "title": "Why Heating Changes State",
+                  "body": "Adding heat moves a substance from solid to liquid to gas as particles gain energy and move apart.",
+                  "visual": {
+                    "kind": "reaction",
+                    "data": {
+                      "equation": "Solid + heat -> Liquid + heat -> Gas"
+                    }
+                  }
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Explaining Why Gases Are Easy to Compress",
+                  "body": "**Question:** Use the kinetic theory to explain why a gas can be squeezed into a smaller volume much more easily than a solid.\n\n**Step 1 - Picture the particles in a gas.**\nIn a gas, the particles are very *far apart* with large empty spaces between them.\n\n**Step 2 - Picture the particles in a solid.**\nIn a solid, the particles are *tightly packed* together with almost no space between them.\n\n**Step 3 - Connect spacing to compression.**\nCompressing means pushing particles closer. A gas has plenty of empty space, so its particles can be pushed much closer together. A solid has almost no space, so it can barely be compressed.\n\n**Answer:** A gas is easy to compress because of the large gaps between its widely spaced particles, while a solid's particles are already packed tightly."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Mistakes to Avoid",
+                  "body": "- **Thinking particles stop moving in a solid.** They do not; they still *vibrate* in place, just without moving from their fixed positions.\n- **Saying a liquid has no fixed volume.** A liquid keeps a *fixed volume*; only its *shape* changes to fit the container.\n- **Confusing evaporation with the substance disappearing.** The liquid turns into a gas; the particles are still there, just spread out.\n- **Mixing up the change names.** Melting (solid to liquid) and freezing (liquid to solid) are opposites, as are boiling and condensing."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Easy Ways to Remember",
+                  "body": "- **Particle spacing: Solid < Liquid < Gas** (gas particles are the most spread out). Picture a packed *taxi* (solid), a half-empty *bus* (liquid), and an open *field* (gas).\n- **More heat = more speed.** Temperature is just a measure of how fast particles move.\n- Pairs of opposite changes: **melt/freeze** and **boil/condense**.\n- Gases: think **\"3 no's\"**, no fixed shape, no fixed volume, no trouble being squeezed."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "Try these, then check your answers below.\n\n1. In which state are particles tightly packed and only able to vibrate in place?\n2. What is the change of state from liquid to gas called?\n3. Why does a gas fill its whole container?\n\n**Answers:**\n1. Solid.\n2. Evaporation or boiling (liquid to gas).\n3. Because its particles move fast and randomly in all directions with large spaces between them, so they spread out to fill the space."
+                },
+                {
+                  "type": "summary",
+                  "title": "Key Points",
+                  "body": "- The **kinetic theory** says matter is made of tiny, constantly moving particles.\n- Higher **temperature** means faster-moving particles.\n- **Solids** have fixed shape and volume; particles vibrate in place.\n- **Liquids** have fixed volume but take the container's shape; particles slide past each other.\n- **Gases** have no fixed shape or volume, fill their container, and are easy to compress.\n- **Changes of state** (melting, boiling, condensing, freezing) happen as heat is added or removed."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Terms",
+                  "body": "Important words from this lesson.",
+                  "glossary": [
+                    { "term": "Kinetic theory of matter", "definition": "The idea that all matter is made of tiny particles that are always moving." },
+                    { "term": "States of matter", "definition": "The three common forms of matter: solid, liquid, and gas." },
+                    { "term": "Kinetic energy", "definition": "The energy a particle has because of its motion." },
+                    { "term": "Compression", "definition": "Squeezing a substance into a smaller volume by pushing its particles closer together." },
+                    { "term": "Change of state", "definition": "A physical change from one state of matter to another, such as melting or boiling." },
+                    { "term": "Evaporation", "definition": "The change of a liquid into a gas." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the main idea of the kinetic theory of matter?", "back": "All matter is made of tiny particles that are always moving, and they move faster at higher temperatures." },
+                { "front": "How are particles arranged in a solid?", "back": "Tightly packed in fixed positions, vibrating in place; this gives a fixed shape and volume." },
+                { "front": "Why can gases be compressed easily?", "back": "Because there are large empty spaces between their widely spaced particles." },
+                { "front": "What is the change of state from gas to liquid called?", "back": "Condensation." },
+                { "front": "What happens to particles when a substance is heated?", "back": "They gain energy and move faster, which can cause the substance to change to a less ordered state (solid to liquid to gas)." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Kinetic theory",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "According to the kinetic theory of matter, the particles of all matter are:",
+              "options": ["Completely still", "Always moving", "Only found in gases", "Made of light"],
+              "answer": "1",
+              "explanation": "The kinetic theory states that all matter is made of tiny particles that are constantly moving."
+            },
+            {
+              "topic": "Properties of solids",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which state of matter has both a fixed shape and a fixed volume?",
+              "options": ["Solid", "Liquid", "Gas", "None of them"],
+              "answer": "0",
+              "explanation": "A solid has particles locked in fixed positions, giving it both a fixed shape and a fixed volume."
+            },
+            {
+              "topic": "Properties of gases",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Why can a gas be squeezed (compressed) much more easily than a liquid or solid?",
+              "options": ["Its particles are heavier", "There are large spaces between its particles", "Its particles do not move", "It has no particles"],
+              "answer": "1",
+              "explanation": "Gas particles are far apart with large empty spaces, so they can be pushed closer together easily."
+            },
+            {
+              "topic": "Changes of state",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "The change of state from liquid to solid is called:",
+              "options": ["Melting", "Boiling", "Freezing", "Evaporation"],
+              "answer": "2",
+              "explanation": "Freezing is the change from liquid to solid, which happens when heat is removed. Melting is the reverse."
+            },
+            {
+              "topic": "Temperature and particles",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "When a substance is heated but stays in the same state, what happens to its particles?",
+              "options": ["They stop moving", "They move faster", "They disappear", "They become heavier"],
+              "answer": "1",
+              "explanation": "Heating increases the kinetic energy of the particles, so they move (or vibrate) faster even before any change of state."
+            },
+            {
+              "topic": "States of matter applied",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "A substance takes the shape of its container but keeps the same volume when poured from one cup to another. In which state is it?",
+              "options": ["Solid", "Liquid", "Gas", "It cannot be determined"],
+              "answer": "1",
+              "explanation": "Taking the container's shape but keeping a fixed volume is the defining behaviour of a liquid. A gas would fill the whole container, and a solid would keep its own shape."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

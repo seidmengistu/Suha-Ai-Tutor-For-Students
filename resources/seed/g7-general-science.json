@@ -1,0 +1,1059 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 7,
+      "subjectKey": "general-science",
+      "chapters": [
+        {
+          "title": "Basic Concepts of Science",
+          "description": "What science is, its branches, science and technology, scientists, ethics, and laboratory equipment and safety.",
+          "lessons": [
+            {
+              "title": "The Nature of Science, Its Branches, and the Laboratory",
+              "summary": "Science is an organised way of gaining knowledge about the world through observation and evidence. This lesson covers its branches, how it links to technology, and how to work safely in a laboratory.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "The word **science** comes from the Latin word *Scientia*, which means *knowledge*. But science is more than just knowing facts. **Science** is a systematic (well-ordered) method of gaining knowledge about the physical and natural world based on **observation** and **evidence**.\n\nThere are two ways people gain this knowledge:\n\n- **Indigenous science** is the knowledge that local people build up over a long time from living closely with nature. In Ethiopia, people use the *Kosso* tree (Hagenia abyssinica) to treat illness and use salt and smoke to preserve meat.\n- **Conventional science** is knowledge built using the **scientific method** (careful steps of observing, testing, and proving).\n\nBoth are useful, and modern science tries to combine them."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **science** and explain what it studies.\n- Distinguish between **indigenous science** and **conventional science**.\n- Name and describe the three branches of **natural science**.\n- Explain the link between **science** and **technology**.\n- Identify common **laboratory equipment** and state their uses.\n- Follow important **laboratory safety rules**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Branches of Science",
+                  "body": "Science has two main categories:\n\n1. **Natural science** – the study of nature and natural laws.\n2. **Social science** – the study of human society.\n\n**Natural science** has three main branches:\n\n- **Biology** is the study of **living things** (plants, animals, humans, microbes).\n- **Chemistry** is the study of the properties, composition, structure, and changes of **substances** (materials).\n- **Physics** is the study of **matter**, **energy**, and how they interact (for example motion, force, heat, light).\n\n**Why do the branches overlap?** Nature is one connected whole, so there is no sharp border between the branches. Where they meet, new combined fields appear:\n\n- **Biophysics** = Biology + Physics (physical processes inside living things).\n- **Biochemistry** = Biology + Chemistry (chemical reactions inside living things).\n- **Physical chemistry** = Physics + Chemistry.\n\nUnderstanding this helps you see that real-life problems often need more than one science at the same time."
+                },
+                {
+                  "type": "theory",
+                  "title": "Science, Technology, Scientists, and Ethics",
+                  "body": "**Technology** is the use of scientific knowledge to make human work easier and life better. Cars, radios, light bulbs, computers, and airplanes are products of technology. A person who studies and makes technology is a **technologist**.\n\n**How are they different?**\n- **Science** creates *knowledge* and tests explanations.\n- **Technology** creates *solutions* to real problems.\n\nThey help each other: technology gives scientists tools to discover, and science gives technology the ideas to build new things.\n\nA **scientist** is someone who gathers evidence, forms a **hypothesis** (a testable guess), and tests it. Some famous scientists:\n- **Isaac Newton** – laws of motion and gravity.\n- **Marie Curie** – discovered the elements polonium and radium.\n- **Dr. Aklilu Lemma** (Ethiopia) – discovered that the *endod* plant berry can stop the snail that spreads bilharzia (snail fever).\n- **Dr. Gebisa Ejeta** (Ethiopia) – improved sorghum and won the World Food Prize.\n- **Prof. Yalemtsehay Mekonnen** (Ethiopia) – first female professor at Addis Ababa University, studied human health.\n\n**Ethics** (good moral rules) is an important part of science. Scientists must show **honesty**, **responsibility**, **objectivity**, **openness**, and **carefulness**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Laboratory Equipment and Safety",
+                  "body": "A **laboratory** is a place where experiments are done. Common **laboratory apparatus** and their uses:\n\n- **Triple-beam balance** – measures the **mass** of an object.\n- **Beaker** – holds and heats liquids.\n- **Graduated (measuring) cylinder** – measures the **volume** of a liquid in millilitres (ml).\n- **Test tube** – holds small amounts of liquid for mixing or heating.\n- **Thermometer** – measures **temperature**.\n- **Tongs** – carry a hot beaker or remove a hot lid.\n- **Bunsen burner** – gives a flame for heating.\n- **Petri dish** – used to grow and count bacteria.\n\n**Key safety rules:**\n- Wear goggles, gloves, shoes, and a lab coat; tie back loose hair.\n- Do **not** taste or smell chemicals; do not eat or drink in the lab.\n- **Always add acid into water, never water into acid.** Remember the Amharic trick: **AW! Not WA!** (A = acid, W = water).\n- Do only the experiments your teacher allows.\n- Know where the **fire extinguisher** is and dispose of waste properly.\n\nA **laboratory report** is a written record of an experiment. It includes: date, title, objective, theory, materials, procedure, observation, result, discussion, and conclusion."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "**Problem:** A student must measure how much water (volume) is in a sample and then find its mass. Which two pieces of equipment should she use, and what is one safety rule she must follow if she heats the water?\n\n**Step 1 – Identify what to measure.**\n- *Volume* of a liquid is measured in millilitres (ml).\n- *Mass* of an object is measured in grams (g).\n\n**Step 2 – Choose the correct tool for each.**\n- For volume → a **graduated (measuring) cylinder**, because it has a millilitre scale.\n- For mass → a **triple-beam balance**, because it is made to find mass.\n\n**Step 3 – Apply a safety rule for heating.**\n- When heating, she should hold the hot container with **tongs** (not bare hands) and never point the test tube opening at anyone.\n\n**Answer:** Use a **graduated cylinder** for volume and a **triple-beam balance** for mass; when heating, use **tongs** and point the container away from people."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Mixing up balance and cylinder.** A *balance* measures **mass**; a *graduated cylinder* measures **volume**. They are not the same.\n- **Pouring water into acid.** This is dangerous and can splash. Always pour **acid into water** (AW! Not WA!).\n- **Thinking indigenous knowledge is not real science.** It comes from real observation over many years and is very valuable.\n- **Saying science and technology are the same thing.** Science makes *knowledge*; technology makes *useful tools and solutions*.\n- **Confusing the branches.** Biology = living things, Chemistry = substances, Physics = matter and energy."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"AW! Not WA!\"** – Add Acid to Water, never Water to Acid.\n- **\"B-C-P\"** for the three natural sciences: **B**iology (life), **C**hemistry (chemicals), **P**hysics (force and energy).\n- **\"Bio = Life\"** – any word with *bio* (biology, biochemistry, biophysics) is about living things.\n- **Science = knowing, Technology = doing.** Science gives the idea; technology builds the thing."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. What does the Latin word *Scientia* mean?\n2. Name the three branches of natural science and what each one studies.\n3. Which laboratory tool would you use to measure the volume of a liquid?\n4. Why must you always add acid to water and not water to acid?\n\n**Brief answers:**\n1. It means *knowledge*.\n2. Biology (living things), Chemistry (substances), Physics (matter and energy).\n3. A graduated (measuring) cylinder.\n4. To stop dangerous splashing of acid; adding acid to water is safer."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Science** is a systematic way of gaining knowledge through observation and evidence.\n- **Indigenous science** comes from local experience; **conventional science** uses the scientific method.\n- Natural science has three branches: **Biology**, **Chemistry**, **Physics**, and they overlap.\n- **Technology** uses scientific knowledge to make life easier; a **technologist** builds it.\n- Ethiopian scientists include **Dr. Aklilu Lemma**, **Dr. Gebisa Ejeta**, and **Prof. Yalemtsehay Mekonnen**.\n- **Ethics** (honesty, responsibility, carefulness) is part of good science.\n- Know your **lab tools** and always follow **safety rules**, especially **AW! Not WA!**"
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this chapter.",
+                  "glossary": [
+                    { "term": "Science", "definition": "A systematic method of gaining knowledge about the physical and natural world through observation and evidence." },
+                    { "term": "Indigenous science", "definition": "Knowledge that local people build over a long time from living closely with their natural environment." },
+                    { "term": "Conventional science", "definition": "Knowledge built using the scientific method of observing, testing, and proving." },
+                    { "term": "Natural science", "definition": "The study of nature and natural laws; includes Biology, Chemistry, and Physics." },
+                    { "term": "Technology", "definition": "The use of scientific knowledge to make human work easier and life better." },
+                    { "term": "Scientist", "definition": "A person who gathers evidence, makes a hypothesis, and tests it to gain knowledge." },
+                    { "term": "Hypothesis", "definition": "A testable guess or possible explanation that can be checked by experiment." },
+                    { "term": "Laboratory", "definition": "A place where scientific experiments are performed." },
+                    { "term": "Mass", "definition": "The amount of matter in an object, measured with a balance." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What does the word 'science' mean (from Latin)?", "back": "It comes from 'Scientia', meaning 'knowledge'." },
+                { "front": "What are the three branches of natural science?", "back": "Biology, Chemistry, and Physics." },
+                { "front": "What is technology?", "back": "The use of scientific knowledge to make human work easier and life better." },
+                { "front": "Which Ethiopian scientist found a natural treatment for bilharzia (snail fever)?", "back": "Dr. Aklilu Lemma, using the endod plant berry." },
+                { "front": "Lab safety: how do you mix acid and water?", "back": "Always add acid to water (AW! Not WA!), never water to acid." },
+                { "front": "Which tool measures the volume of a liquid?", "back": "A graduated (measuring) cylinder." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Branches of science",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which branch of natural science studies living things?",
+              "options": ["Physics", "Chemistry", "Biology", "Geology"],
+              "answer": "2",
+              "explanation": "Biology is the branch of natural science that studies living things such as plants, animals, and microbes."
+            },
+            {
+              "topic": "Definition of science",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "The word 'science' comes from a Latin word that means:",
+              "options": ["Power", "Knowledge", "Nature", "Truth"],
+              "answer": "1",
+              "explanation": "Science comes from the Latin word 'Scientia', which means 'knowledge'."
+            },
+            {
+              "topic": "Science and technology",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which statement best shows the difference between science and technology?",
+              "options": ["Science builds tools; technology creates knowledge", "Science creates knowledge; technology creates solutions to problems", "Both only create knowledge", "Both only build machines"],
+              "answer": "1",
+              "explanation": "Science creates knowledge by testing explanations, while technology uses that knowledge to create solutions and useful tools."
+            },
+            {
+              "topic": "Laboratory equipment",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which laboratory tool is used to measure the volume of a liquid?",
+              "options": ["Triple-beam balance", "Graduated cylinder", "Tongs", "Bunsen burner"],
+              "answer": "1",
+              "explanation": "A graduated (measuring) cylinder has a millilitre scale and is used to measure the volume of liquids. A balance measures mass."
+            },
+            {
+              "topic": "Indigenous knowledge",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which one is TRUE about indigenous science?",
+              "options": ["It is based only on the western scientific method", "It incorporates local people's knowledge built over time", "It uses only modern laboratory machines", "It has no value in modern science"],
+              "answer": "1",
+              "explanation": "Indigenous science is built from the long experience and observations of local people; it is valuable and can be combined with conventional science."
+            },
+            {
+              "topic": "Laboratory safety",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which of the following is NOT a correct laboratory safety rule?",
+              "options": ["Tie back loose hair before working", "Add water to concentrated acid", "Never taste or smell chemicals", "Know where the fire extinguisher is"],
+              "answer": "1",
+              "explanation": "You must NEVER add water to acid. Always add acid to water (AW! Not WA!) to avoid dangerous splashing. The other options are correct safety rules."
+            }
+          ]
+        },
+        {
+          "title": "Matter in Our Surrounding",
+          "description": "The nature of matter, its states and properties, classification of substances, physical and chemical changes, and separating mixtures.",
+          "lessons": [
+            {
+              "title": "Matter, Its States, Properties, and Changes",
+              "summary": "Matter is anything that has mass and takes up space. This lesson explains the states of matter, physical and chemical properties and changes, how substances are classified, and ways to separate mixtures.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Look around you: the air you breathe, the water you drink, the *injera* you eat, and the rocks under your feet are all **matter**.\n\n**Matter** is anything that has **mass** (the amount of material in it) and occupies **space** (has volume). Everything you can touch, and even the air you cannot see, is matter.\n\nMatter is made of tiny particles that are always moving. How close these particles are, and how fast they move, decides whether matter is a **solid**, a **liquid**, or a **gas**."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **matter** and give examples.\n- Describe the three common **states of matter** and how their particles behave.\n- Tell the difference between **physical** and **chemical properties**.\n- Classify substances as **pure substances** or **mixtures**.\n- Tell the difference between a **physical change** and a **chemical change**.\n- Describe simple methods to **separate mixtures**."
+                },
+                {
+                  "type": "theory",
+                  "title": "States of Matter and the Particle Idea",
+                  "body": "Matter has three common **states**: **solid**, **liquid**, and **gas**. The difference is in how the particles are arranged and how they move.\n\n| State | Particles | Shape | Volume |\n|-------|-----------|-------|--------|\n| **Solid** | Packed close, vibrate in place | Fixed | Fixed |\n| **Liquid** | Close but can slide past each other | Takes shape of container | Fixed |\n| **Gas** | Far apart, move fast in all directions | Fills the whole container | Not fixed |\n\n**Why does this happen?** When matter is heated, its particles gain **energy** and move faster. A solid (like ice) can melt into a liquid (water), and a liquid can boil into a gas (water vapour). Cooling does the reverse. This is why the same substance, water, can be solid, liquid, or gas."
+                },
+                {
+                  "type": "theory",
+                  "title": "Properties and Classification of Matter",
+                  "body": "Every material has **properties** (features that describe it).\n\n- A **physical property** can be observed *without changing the substance into a new one*: colour, smell, mass, density, melting point, and state.\n- A **chemical property** describes how a substance *reacts to form a new substance*: for example, iron rusting, or wood burning.\n\n**Classifying substances:**\n- A **pure substance** is made of only one kind of particle. It can be an **element** (one type of atom, like oxygen) or a **compound** (atoms joined chemically, like water).\n- A **mixture** is two or more substances mixed together but **not chemically joined**, so each keeps its own properties.\n  - A **homogeneous mixture** looks the same throughout (for example salt dissolved in water, also called a *solution*).\n  - A **heterogeneous mixture** has parts you can see separately (for example sand mixed with water, or a plate of *shiro* with bits in it)."
+                },
+                {
+                  "type": "theory",
+                  "title": "Physical and Chemical Changes; Separating Mixtures",
+                  "body": "A **physical change** changes the *form* of matter but **no new substance** is made, and it can often be reversed. Examples: melting ice, boiling water, breaking a stick, dissolving salt.\n\nA **chemical change** makes a **new substance** with new properties, and it is usually hard to reverse. Examples: burning wood (makes ash and smoke), iron rusting, milk turning sour, cooking an egg. Signs of a chemical change: colour change, gas bubbles, heat or light given off, or a smell.\n\n**Separating mixtures** uses physical differences:\n- **Hand picking** – remove large pieces (stones from *teff*).\n- **Filtration** – separate an insoluble solid from a liquid using filter paper (sand from water).\n- **Evaporation** – heat a solution so the liquid escapes and the solid stays (getting salt from salt water).\n- **Decantation** – pour off the clear liquid and leave the heavy solid at the bottom.\n- **Magnetic separation** – use a magnet to pull out iron pieces.\n- **Distillation** – boil and then cool a liquid to collect pure liquid (used to get pure water)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "**Problem:** A glass contains salt completely dissolved in water. (a) Is this a mixture or a pure substance? (b) How can you get the salt back without losing it? (c) Is getting the salt back a physical or chemical change?\n\n**Step 1 – Decide mixture or pure substance.**\n- The salt and water are mixed but not chemically joined, and the salt has spread evenly. So it is a **homogeneous mixture (a solution)**.\n\n**Step 2 – Choose a separation method.**\n- The salt is *dissolved*, so you cannot filter it out. Instead, heat the solution. The water **evaporates** (turns to vapour) and the salt is left behind. This method is **evaporation**.\n\n**Step 3 – Classify the change.**\n- The salt and water are still the same substances; no new substance is made. So this is a **physical change**.\n\n**Answer:** (a) A homogeneous mixture/solution. (b) By **evaporation**. (c) A **physical change**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Thinking dissolving salt is a chemical change.** No new substance forms, and you can get the salt back, so it is a **physical change**.\n- **Confusing a compound with a mixture.** In a compound the atoms are *chemically joined* (water); in a mixture they are just *mixed* and keep their own properties.\n- **Saying gas is not matter.** Gas has mass and takes up space, so it IS matter.\n- **Using filtration for dissolved solids.** Filtration only removes solids that have **not** dissolved. For dissolved salt, use **evaporation**.\n- **Mixing up melting and dissolving.** *Melting* is solid turning to liquid by heat; *dissolving* is a solid spreading into a liquid."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Matter = Mass + Space.** If it has mass and takes up space, it is matter.\n- **Solid, Liquid, Gas → particles get freer.** Solid = soldiers standing still, Liquid = people walking, Gas = children running everywhere.\n- **Physical change = same Person, new Position.** The substance is the same, only its form changed.\n- **Chemical change = New stuff Cannot come back.** A new substance forms (think of burnt wood).\n- **Filter for floating, Evaporate for dissolved.**"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Define matter and give two examples.\n2. In which state of matter are the particles farthest apart and moving fastest?\n3. Give one example of a physical change and one example of a chemical change.\n4. Which method separates iron filings from sand?\n\n**Brief answers:**\n1. Matter is anything with mass that takes up space; e.g. water, air, rock.\n2. A gas.\n3. Physical: melting ice (any reversible form change). Chemical: burning wood (a new substance forms).\n4. Magnetic separation (use a magnet)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Matter** is anything with **mass** that takes up **space**.\n- The three states are **solid**, **liquid**, and **gas**, differing in particle arrangement and movement.\n- **Physical properties** are seen without making a new substance; **chemical properties** describe how it reacts.\n- A **pure substance** is an element or compound; a **mixture** is substances mixed but not chemically joined.\n- A **physical change** makes no new substance; a **chemical change** makes a new one.\n- Mixtures are separated by **filtration, evaporation, decantation, magnetic separation, and distillation**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this chapter.",
+                  "glossary": [
+                    { "term": "Matter", "definition": "Anything that has mass and takes up space (has volume)." },
+                    { "term": "State of matter", "definition": "The physical form of matter: solid, liquid, or gas." },
+                    { "term": "Physical property", "definition": "A feature that can be observed without making a new substance, such as colour or melting point." },
+                    { "term": "Chemical property", "definition": "A feature that describes how a substance reacts to form a new substance, such as rusting." },
+                    { "term": "Pure substance", "definition": "Matter made of only one kind of particle; an element or a compound." },
+                    { "term": "Mixture", "definition": "Two or more substances mixed but not chemically joined, each keeping its own properties." },
+                    { "term": "Physical change", "definition": "A change in form where no new substance is made and which is often reversible." },
+                    { "term": "Chemical change", "definition": "A change that produces a new substance with new properties, usually hard to reverse." },
+                    { "term": "Filtration", "definition": "Separating an insoluble solid from a liquid using filter paper." },
+                    { "term": "Evaporation", "definition": "Heating a solution so the liquid turns to vapour and leaves the dissolved solid behind." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is matter?", "back": "Anything that has mass and takes up space." },
+                { "front": "How are particles arranged in a solid, liquid, and gas?", "back": "Solid: packed and vibrating; Liquid: close but sliding; Gas: far apart and moving fast." },
+                { "front": "Physical change vs chemical change?", "back": "Physical: no new substance (e.g. melting). Chemical: a new substance forms (e.g. burning)." },
+                { "front": "What is a mixture?", "back": "Two or more substances mixed but not chemically joined; each keeps its own properties." },
+                { "front": "How do you separate dissolved salt from water?", "back": "By evaporation (heat the water away and the salt stays)." },
+                { "front": "How do you separate iron filings from sand?", "back": "By magnetic separation, using a magnet." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Definition of matter",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Matter is best defined as anything that:",
+              "options": ["Can be seen only", "Has mass and takes up space", "Is always solid", "Has no weight"],
+              "answer": "1",
+              "explanation": "Matter is anything that has mass and occupies space (has volume), including solids, liquids, and gases."
+            },
+            {
+              "topic": "States of matter",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "In which state of matter are the particles farthest apart and moving fastest?",
+              "options": ["Solid", "Liquid", "Gas", "They are the same in all states"],
+              "answer": "2",
+              "explanation": "In a gas, particles are far apart and move quickly in all directions, so a gas fills its whole container."
+            },
+            {
+              "topic": "Physical and chemical change",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which of the following is a chemical change?",
+              "options": ["Melting ice", "Dissolving salt in water", "Burning wood", "Breaking a glass"],
+              "answer": "2",
+              "explanation": "Burning wood produces new substances (ash, smoke, gases) and cannot be reversed, so it is a chemical change. The others are physical changes."
+            },
+            {
+              "topic": "Classification of substances",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Salt completely dissolved in water is an example of a:",
+              "options": ["Pure element", "Compound", "Homogeneous mixture", "Heterogeneous mixture"],
+              "answer": "2",
+              "explanation": "Dissolved salt water looks the same throughout and the parts are not chemically joined, so it is a homogeneous mixture (a solution)."
+            },
+            {
+              "topic": "Separating mixtures",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which method is best to get salt back from salt water?",
+              "options": ["Filtration", "Evaporation", "Hand picking", "Using a magnet"],
+              "answer": "1",
+              "explanation": "The salt is dissolved, so it cannot be filtered. Heating the water makes it evaporate, leaving the salt behind."
+            },
+            {
+              "topic": "Physical and chemical properties",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which of the following is a CHEMICAL property of iron?",
+              "options": ["It is grey in colour", "It is solid at room temperature", "It rusts when left in wet air", "It is heavy"],
+              "answer": "2",
+              "explanation": "Rusting forms a new substance (iron oxide), so it is a chemical property. Colour, state, and weight are physical properties."
+            }
+          ]
+        },
+        {
+          "title": "Elements, Compounds and Chemical Reactions",
+          "description": "Elements and their symbols, compounds and formulas, simple chemical reactions and equations, and the uses of chemical reactions in daily life.",
+          "lessons": [
+            {
+              "title": "Elements, Compounds, and Chemical Reactions",
+              "summary": "Elements are the simplest pure substances, and compounds form when elements join chemically. This lesson explains symbols, formulas, how to write simple chemical equations, and why chemical reactions matter in daily life.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "All the materials in the world are built from a small number of basic building blocks called **elements**. Just as many words are built from a few letters, millions of substances are built from about a hundred elements.\n\nAn **element** is a pure substance made of only **one kind of atom** that cannot be broken into a simpler substance. When elements join together chemically, they form **compounds** like water and table salt. The process by which substances change into new substances is called a **chemical reaction**."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define an **element** and give examples.\n- Write and read **chemical symbols** of common elements.\n- Define a **compound** and read simple **chemical formulas**.\n- Explain what a **chemical reaction** is and identify its signs.\n- Write and balance a simple **chemical equation**.\n- Give everyday uses of **chemical reactions**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Elements and Their Symbols",
+                  "body": "An **element** is the simplest pure substance, made of only one type of **atom** (the smallest particle of an element).\n\nEach element has a short **chemical symbol** of one or two letters. The first letter is always a **capital**; the second (if any) is **small**.\n\n| Element | Symbol |\n|---------|--------|\n| Hydrogen | H |\n| Oxygen | O |\n| Carbon | C |\n| Nitrogen | N |\n| Iron | Fe |\n| Sodium | Na |\n| Calcium | Ca |\n| Gold | Au |\n\n**Why use symbols?** Symbols are a short, common language used by scientists all over the world, so everyone understands the same thing. Some symbols come from Latin names: iron is **Fe** (from *ferrum*), sodium is **Na** (from *natrium*), and gold is **Au** (from *aurum*).\n\nElements are grouped as **metals** (like iron, gold, copper, which are shiny and conduct electricity) and **non-metals** (like oxygen, carbon, sulfur)."
+                },
+                {
+                  "type": "theory",
+                  "title": "Compounds and Chemical Formulas",
+                  "body": "A **compound** is a pure substance formed when two or more elements join **chemically** in a fixed ratio. A compound has new properties, different from the elements that made it.\n\nWe write a compound using a **chemical formula**, which shows the elements and how many atoms of each are present. The small number written below and to the right is called a **subscript**.\n\n- **Water = H₂O** → 2 atoms of hydrogen and 1 atom of oxygen.\n- **Carbon dioxide = CO₂** → 1 atom of carbon and 2 atoms of oxygen.\n- **Table salt = NaCl** → 1 atom of sodium and 1 atom of chlorine.\n\n**Important idea:** Sodium (Na) is a soft metal that reacts dangerously with water, and chlorine (Cl) is a poisonous green gas. But when they join, they form **NaCl**, the ordinary salt we safely use in food. This shows that a compound is very different from its elements."
+                },
+                {
+                  "type": "theory",
+                  "title": "Chemical Reactions and Equations",
+                  "body": "A **chemical reaction** is a process in which substances (the **reactants**) change into new substances (the **products**).\n\n**Signs that a chemical reaction has happened:**\n- A colour change.\n- Bubbles of gas.\n- Heat or light is given out (or taken in).\n- A solid (precipitate) forms.\n- A new smell.\n\nWe describe a reaction with a **chemical equation**. The reactants are on the left, an arrow shows the direction, and the products are on the right:\n\n**Reactants → Products**\n\nExample: **2H₂ + O₂ → 2H₂O** (hydrogen burns in oxygen to form water).\n\n**The Law of Conservation of Mass:** In a chemical reaction, matter is **not created or destroyed**. So the number of atoms of each element must be the **same** on both sides. Making them equal is called **balancing** the equation. That is why we write a *2* in front of H₂ and H₂O above, so there are 4 H atoms and 2 O atoms on each side."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "**Problem:** Balance the equation for hydrogen reacting with oxygen to make water: `H₂ + O₂ → H₂O`.\n\n**Step 1 – Count the atoms on each side.**\n- Left: H = 2, O = 2.\n- Right: H = 2, O = 1.\n- The oxygen is not balanced (2 on the left, 1 on the right).\n\n**Step 2 – Balance the oxygen.**\n- Put a **2** in front of H₂O: `H₂ + O₂ → 2H₂O`.\n- Now O = 2 on both sides. Good.\n- But now H = 2 on the left and H = 4 on the right.\n\n**Step 3 – Balance the hydrogen.**\n- Put a **2** in front of H₂ on the left: `2H₂ + O₂ → 2H₂O`.\n- Now H = 4 on both sides and O = 2 on both sides.\n\n**Step 4 – Check.**\n- Left: H = 4, O = 2. Right: H = 4, O = 2. Balanced!\n\n**Answer:** `2H₂ + O₂ → 2H₂O`"
+                },
+                {
+                  "type": "visual",
+                  "title": "The Oxygen Atom",
+                  "body": "Oxygen (symbol **O**) is one of the most important elements: we breathe it and it is part of water. The diagram shows a model of an oxygen atom with its protons, neutrons, and electrons arranged in shells.",
+                  "visual": {
+                    "kind": "atom",
+                    "data": { "symbol": "O", "protons": 8, "neutrons": 8, "shells": [2, 6] }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Writing symbols with two capitals.** It is **Na**, not NA, and **Fe**, not FE. Only the first letter is capital.\n- **Confusing CO with Co.** *CO* is carbon + oxygen (carbon monoxide); *Co* is the element cobalt. Capitals matter!\n- **Changing subscripts to balance an equation.** You may only add numbers *in front* (coefficients). Changing H₂O into H₂O₂ makes a different substance.\n- **Thinking a compound keeps the properties of its elements.** NaCl (safe salt) is nothing like sodium metal or chlorine gas.\n- **Forgetting that atom numbers must match on both sides** of a balanced equation."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"Capital first, small second\"** for every symbol (Ca, Fe, Na).\n- **\"H₂O = 2 H, 1 O\"** – the small number tells you how many of the atom *just before* it.\n- **\"Balance with the BIG number in front, never the small number below.\"**\n- **Conservation of mass: \"What goes in must come out.\"** Same atoms on both sides.\n- Latin symbols to remember: **Fe**rrum = iron, **Na**trium = sodium, **Au**rum = gold."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. What is the chemical symbol for iron and for oxygen?\n2. How many atoms of each element are in carbon dioxide (CO₂)?\n3. Give two signs that a chemical reaction has taken place.\n4. Balance: `H₂ + Cl₂ → HCl`.\n\n**Brief answers:**\n1. Iron = Fe, Oxygen = O.\n2. 1 carbon atom and 2 oxygen atoms.\n3. Any two of: colour change, gas bubbles, heat/light, new smell, solid forming.\n4. `H₂ + Cl₂ → 2HCl`."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- An **element** is a pure substance of one kind of atom; it has a one- or two-letter **symbol** (capital first).\n- A **compound** forms when elements join chemically; we write it as a **formula** (e.g. H₂O).\n- A compound has different properties from its elements (Na + Cl → safe salt NaCl).\n- A **chemical reaction** changes reactants into products; signs include colour change, gas, heat, or a new smell.\n- A **chemical equation** has reactants → products and must be **balanced** (same atoms on both sides).\n- This follows the **Law of Conservation of Mass**: matter is not created or destroyed."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this chapter.",
+                  "glossary": [
+                    { "term": "Element", "definition": "A pure substance made of only one kind of atom that cannot be broken into a simpler substance." },
+                    { "term": "Atom", "definition": "The smallest particle of an element that still has its properties." },
+                    { "term": "Chemical symbol", "definition": "A short one- or two-letter code for an element, with the first letter capital." },
+                    { "term": "Compound", "definition": "A pure substance formed when two or more elements join chemically in a fixed ratio." },
+                    { "term": "Chemical formula", "definition": "A short way of writing a compound that shows its elements and the number of atoms of each." },
+                    { "term": "Chemical reaction", "definition": "A process in which reactants change into new substances called products." },
+                    { "term": "Reactants", "definition": "The starting substances in a chemical reaction (written on the left)." },
+                    { "term": "Products", "definition": "The new substances made in a chemical reaction (written on the right)." },
+                    { "term": "Balancing", "definition": "Making the number of atoms of each element equal on both sides of an equation." },
+                    { "term": "Conservation of mass", "definition": "The law that matter is not created or destroyed in a chemical reaction." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is an element?", "back": "A pure substance made of only one kind of atom." },
+                { "front": "What is the chemical symbol for iron, sodium, and gold?", "back": "Iron = Fe, Sodium = Na, Gold = Au (from their Latin names)." },
+                { "front": "How many atoms are in H₂O?", "back": "2 hydrogen atoms and 1 oxygen atom." },
+                { "front": "Name three signs of a chemical reaction.", "back": "Colour change, gas bubbles, and heat or light given off (also: new smell, solid forms)." },
+                { "front": "What is the Law of Conservation of Mass?", "back": "Matter is not created or destroyed; atoms are equal on both sides of an equation." },
+                { "front": "When balancing, what number can you change?", "back": "Only the big number in front (coefficient), never the small subscript." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Elements and symbols",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the correct chemical symbol for iron?",
+              "options": ["Ir", "Fe", "FE", "In"],
+              "answer": "1",
+              "explanation": "The symbol for iron is Fe, from its Latin name 'ferrum'. The first letter is capital and the second is small."
+            },
+            {
+              "topic": "Reading formulas",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "How many oxygen atoms are in one molecule of carbon dioxide, CO₂?",
+              "options": ["1", "2", "3", "0"],
+              "answer": "1",
+              "explanation": "The subscript 2 after O means there are 2 oxygen atoms, joined with 1 carbon atom."
+            },
+            {
+              "topic": "Compounds",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Sodium is a reactive metal and chlorine is a poisonous gas, yet sodium chloride (NaCl) is safe table salt. This shows that:",
+              "options": ["Compounds keep the properties of their elements", "A compound has new properties, different from its elements", "Salt is a mixture", "Sodium and chlorine do not react"],
+              "answer": "1",
+              "explanation": "When elements join chemically to form a compound, the compound has completely new properties, different from the elements that formed it."
+            },
+            {
+              "topic": "Signs of a chemical reaction",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which of the following is NOT usually a sign of a chemical reaction?",
+              "options": ["A colour change", "Bubbles of gas forming", "Heat or light being given off", "A liquid changing its container shape"],
+              "answer": "3",
+              "explanation": "A liquid taking the shape of its container is a physical property, not a sign of a chemical reaction. The others show a new substance may have formed."
+            },
+            {
+              "topic": "Balancing equations",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Which is the correctly balanced equation for hydrogen burning in oxygen to form water?",
+              "options": ["H₂ + O₂ → H₂O", "2H₂ + O₂ → 2H₂O", "H₂ + 2O₂ → H₂O", "H₂O → H₂ + O₂"],
+              "answer": "1",
+              "explanation": "2H₂ + O₂ → 2H₂O has 4 hydrogen atoms and 2 oxygen atoms on both sides, so it is balanced and obeys the law of conservation of mass."
+            },
+            {
+              "topic": "Conservation of mass",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "In a balanced chemical equation, the number of atoms of each element must be:",
+              "options": ["Greater on the product side", "Equal on both sides", "Greater on the reactant side", "Zero"],
+              "answer": "1",
+              "explanation": "By the Law of Conservation of Mass, matter is not created or destroyed, so the atoms of each element must be equal on the reactant and product sides."
+            }
+          ]
+        },
+        {
+          "title": "Cell as the Basis of Life",
+          "description": "The microscope and its parts, the cell as the basic unit of life, and the differences between plant and animal cells.",
+          "lessons": [
+            {
+              "title": "The Microscope and the Cell",
+              "summary": "Cells are the tiny building blocks of all living things, and we use a microscope to see them. This lesson explains the parts of a microscope, the structure of plant and animal cells, and the jobs of the main cell parts.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Every living thing, from the tallest tree to the smallest insect, and your own body, is made of tiny units called **cells**. A **cell** is the smallest unit of life that can carry out all the activities of living.\n\nCells are far too small to see with the naked eye, so scientists use a tool called the **microscope** to make them look much bigger. Thanks to the microscope, we now know that the human body is made of trillions of cells working together."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Explain what a **microscope** is used for.\n- Name the main **parts of a light microscope** and their functions.\n- Define a **cell** and explain why it is called the basic unit of life.\n- Identify the main **parts of a cell** and their jobs.\n- Compare a **plant cell** and an **animal cell**."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Light Microscope and Its Parts",
+                  "body": "A **microscope** is an instrument that uses lenses to make very small objects look much larger so we can study them. The common type in school is the **light microscope**, which uses light and glass lenses.\n\n**Main parts and their functions:**\n- **Eyepiece (ocular lens)** – the lens you look through at the top; usually magnifies 10 times.\n- **Objective lenses** – lenses near the specimen that give different magnifications (low, medium, high).\n- **Stage** – the flat platform where you place the slide.\n- **Clips** – hold the slide steady on the stage.\n- **Diaphragm** – controls how much light passes through the specimen.\n- **Mirror or lamp** – sends light up through the specimen.\n- **Coarse adjustment knob** – moves the tube a lot to bring the image roughly into focus.\n- **Fine adjustment knob** – moves the tube a tiny amount for a sharp, clear image.\n- **Body tube, arm, and base** – hold the parts together; you carry the microscope by holding the **arm** and supporting the **base**.\n\n**Total magnification = eyepiece magnification × objective magnification.** For example, 10 × 40 = **400 times**."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Cell and Its Parts",
+                  "body": "A **cell** is the basic structural and functional unit of life. \"Structural\" means living things are *built* from cells; \"functional\" means the activities of life *happen* inside cells.\n\nThe main parts of a cell and their jobs:\n- **Cell membrane** – the thin outer skin that controls what goes in and out of the cell.\n- **Cytoplasm** – the jelly-like fluid where the cell parts float and where many reactions happen.\n- **Nucleus** – the control centre that directs all the cell's activities and holds the genetic material.\n- **Mitochondria** – release **energy** from food (the \"power house\" of the cell).\n- **Vacuole** – a sac that stores water, food, and waste.\n\nLiving things can be **unicellular** (made of one cell, like bacteria and amoeba) or **multicellular** (made of many cells, like plants, animals, and humans)."
+                },
+                {
+                  "type": "theory",
+                  "title": "Plant Cells and Animal Cells",
+                  "body": "Plant and animal cells share many parts (cell membrane, cytoplasm, nucleus, mitochondria), but a **plant cell** has three extra features:\n\n1. **Cell wall** – a strong, rigid outer layer outside the cell membrane that gives the plant cell shape and support. (Animal cells do **not** have one.)\n2. **Chloroplast** – a green structure containing **chlorophyll** that traps sunlight to make food by **photosynthesis**. (Animal cells do **not** have these.)\n3. **Large central vacuole** – a big sac that stores water and keeps the plant firm. (Animal cells have only small vacuoles, or none.)\n\n**Why the difference?** Plants make their own food using sunlight, so they need chloroplasts. They also cannot move, so the strong cell wall holds them up. Animals move to find food and so do not need a cell wall (it would make them stiff)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "**Problem:** A student looks at a cell under the microscope. It has a **cell wall**, a green structure, and one large vacuole. (a) Is it a plant or animal cell? (b) Name the green structure and its job. (c) If the eyepiece is 10× and the objective is 40×, what is the total magnification?\n\n**Step 1 – Use the special features to decide the cell type.**\n- A **cell wall** and a **large central vacuole** are found in plant cells, not animal cells. So it is a **plant cell**.\n\n**Step 2 – Identify the green structure.**\n- The green structure is the **chloroplast**. Its job is to trap sunlight and make food by **photosynthesis**.\n\n**Step 3 – Calculate total magnification.**\n- Total magnification = eyepiece × objective = 10 × 40 = **400 times**.\n\n**Answer:** (a) A plant cell. (b) Chloroplast, which makes food using sunlight. (c) 400×."
+                },
+                {
+                  "type": "visual",
+                  "title": "A Plant Cell",
+                  "body": "This diagram shows a typical plant cell. Notice the cell wall around the outside, the nucleus as the control centre, the chloroplasts that trap sunlight, and the large central vacuole.",
+                  "visual": {
+                    "kind": "cell",
+                    "data": {
+                      "type": "plant",
+                      "parts": [
+                        { "label": "Cell wall", "x": 0.5, "y": 0.08 },
+                        { "label": "Cell membrane", "x": 0.5, "y": 0.2 },
+                        { "label": "Nucleus", "x": 0.32, "y": 0.45 },
+                        { "label": "Chloroplast", "x": 0.72, "y": 0.5 },
+                        { "label": "Vacuole", "x": 0.5, "y": 0.7 }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Saying animal cells have a cell wall.** They do **not**. Only plant cells (and some others) have a cell wall.\n- **Mixing up cell wall and cell membrane.** The **membrane** is in *all* cells and controls what enters; the **wall** is extra, strong, and only in plant cells.\n- **Thinking the nucleus makes energy.** The **mitochondria** make energy; the **nucleus** is the control centre.\n- **Carrying a microscope by the eyepiece or tube.** Always hold it by the **arm** and support the **base**.\n- **Confusing chlorophyll and chloroplast.** *Chloroplast* is the structure; *chlorophyll* is the green substance inside it."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"Plants have a WALL to stand TALL.\"** The cell wall supports the plant.\n- **\"Mitochondria = the power house.\"** It makes energy.\n- **\"Nucleus = the boss.\"** It controls everything in the cell.\n- **Plant extras = W-C-V:** **W**all, **C**hloroplast, big **V**acuole.\n- **Total magnification = eyepiece × objective** (just multiply the two numbers)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. What is the function of the cell membrane?\n2. Which part of the cell is the control centre?\n3. Name two parts found in a plant cell but not in an animal cell.\n4. If the eyepiece is 10× and the objective is 10×, what is the total magnification?\n\n**Brief answers:**\n1. It controls what goes into and out of the cell.\n2. The nucleus.\n3. Cell wall and chloroplast (also large central vacuole).\n4. 10 × 10 = 100×."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- A **microscope** uses lenses to make tiny objects look larger; total magnification = eyepiece × objective.\n- A **cell** is the basic structural and functional unit of life.\n- Key cell parts: **membrane** (controls entry), **cytoplasm** (jelly), **nucleus** (control centre), **mitochondria** (energy), **vacuole** (storage).\n- **Plant cells** also have a **cell wall**, **chloroplasts**, and a **large central vacuole**.\n- Living things can be **unicellular** (one cell) or **multicellular** (many cells)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this chapter.",
+                  "glossary": [
+                    { "term": "Cell", "definition": "The smallest structural and functional unit of life." },
+                    { "term": "Microscope", "definition": "An instrument that uses lenses to make very small objects look much larger." },
+                    { "term": "Cell membrane", "definition": "The thin outer skin of a cell that controls what goes in and out." },
+                    { "term": "Cytoplasm", "definition": "The jelly-like fluid inside a cell where many reactions take place." },
+                    { "term": "Nucleus", "definition": "The control centre of the cell that directs its activities and holds genetic material." },
+                    { "term": "Mitochondria", "definition": "Cell structures that release energy from food; the power house of the cell." },
+                    { "term": "Cell wall", "definition": "A strong rigid layer outside the membrane of a plant cell that gives shape and support." },
+                    { "term": "Chloroplast", "definition": "A green structure in plant cells that traps sunlight to make food by photosynthesis." },
+                    { "term": "Unicellular", "definition": "An organism made of only one cell." },
+                    { "term": "Multicellular", "definition": "An organism made of many cells." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is a cell?", "back": "The basic structural and functional unit of life." },
+                { "front": "What is the job of the nucleus?", "back": "It is the control centre that directs all the cell's activities." },
+                { "front": "Which part of the cell releases energy from food?", "back": "The mitochondria (the power house of the cell)." },
+                { "front": "Name three parts found only in plant cells.", "back": "Cell wall, chloroplast, and a large central vacuole." },
+                { "front": "How do you find total magnification of a microscope?", "back": "Multiply the eyepiece magnification by the objective magnification." },
+                { "front": "What does the cell membrane do?", "back": "It controls what substances go into and out of the cell." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "The cell",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "The basic unit of life is the:",
+              "options": ["Tissue", "Organ", "Cell", "Organism"],
+              "answer": "2",
+              "explanation": "The cell is the smallest structural and functional unit of life; all living things are made of cells."
+            },
+            {
+              "topic": "Cell parts",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which part of the cell is the control centre?",
+              "options": ["Cell membrane", "Cytoplasm", "Nucleus", "Vacuole"],
+              "answer": "2",
+              "explanation": "The nucleus controls and directs all the activities of the cell and holds the genetic material."
+            },
+            {
+              "topic": "Plant vs animal cells",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which structure is found in a plant cell but NOT in an animal cell?",
+              "options": ["Nucleus", "Cell membrane", "Cell wall", "Cytoplasm"],
+              "answer": "2",
+              "explanation": "The cell wall is found only in plant cells; it gives them shape and support. Animal cells have a membrane but no wall."
+            },
+            {
+              "topic": "Cell function",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which part of the cell is known as the 'power house' because it releases energy?",
+              "options": ["Nucleus", "Mitochondria", "Vacuole", "Cell wall"],
+              "answer": "1",
+              "explanation": "Mitochondria release energy from food for the cell, so they are called the power house of the cell."
+            },
+            {
+              "topic": "Microscope",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "If the eyepiece magnifies 10 times and the objective magnifies 40 times, the total magnification is:",
+              "options": ["50 times", "400 times", "30 times", "4 times"],
+              "answer": "1",
+              "explanation": "Total magnification = eyepiece × objective = 10 × 40 = 400 times."
+            },
+            {
+              "topic": "Plant cells",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Why do plant cells have chloroplasts but animal cells do not?",
+              "options": ["Plants need to move quickly", "Plants make their own food using sunlight", "Animals do not need energy", "Chloroplasts store waste"],
+              "answer": "1",
+              "explanation": "Chloroplasts contain chlorophyll that traps sunlight to make food by photosynthesis. Plants make their own food, so they need chloroplasts; animals get food by eating."
+            }
+          ]
+        },
+        {
+          "title": "Living Things and Their Diversity",
+          "description": "The characteristics of living things, and how living things are classified into the kingdoms of life.",
+          "lessons": [
+            {
+              "title": "Characteristics of Living Things and the Kingdoms of Life",
+              "summary": "Living things share common features that separate them from non-living things, and scientists group them into kingdoms. This lesson explains these characteristics and the main kingdoms of life.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "The world is full of an amazing variety of living things, from the *zebra* and *gelada baboon* of the Ethiopian highlands to tiny germs you cannot see. This variety is called **biodiversity**.\n\nBut how do we tell a living thing from a non-living thing? A rock and a goat are very different. All **living things** (also called **organisms**) share a set of special features, and scientists use these features to organise the huge variety of life into groups."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- List and explain the main **characteristics of living things**.\n- Tell the difference between **living** and **non-living** things.\n- Explain why scientists **classify** living things.\n- Name the main **kingdoms of life** and give examples of each."
+                },
+                {
+                  "type": "theory",
+                  "title": "Characteristics of Living Things",
+                  "body": "All living things share these common characteristics. A useful order to remember them is **MRS GREN**:\n\n- **M – Movement:** Living things can move themselves or parts of themselves (animals walk; plants turn towards light).\n- **R – Respiration:** They release energy from food (breaking down food to get energy to live).\n- **S – Sensitivity:** They respond to changes around them (a plant grows towards light; you pull your hand from heat).\n- **G – Growth:** They grow and become bigger and more complex over time.\n- **R – Reproduction:** They produce new individuals of their own kind (have offspring).\n- **E – Excretion:** They remove waste products made in the body (such as carbon dioxide).\n- **N – Nutrition:** They take in food for energy and growth (plants make food; animals eat).\n\n**Why does this matter?** A car can move and 'use fuel', but it cannot grow, reproduce, or remove its own waste. So a car is **not** alive. Only things that show *all* these features are living."
+                },
+                {
+                  "type": "theory",
+                  "title": "Why and How We Classify Living Things",
+                  "body": "There are millions of different organisms. **Classification** means putting living things into groups based on their **similarities and differences**.\n\n**Why classify?**\n- It makes the huge variety of life easier to study and understand.\n- It helps us see how organisms are **related** to each other.\n- It gives every organism a clear name that scientists everywhere can use.\n\nLiving things are sorted into large groups called **kingdoms**, then smaller groups inside them. From largest to smallest, the main levels are: **Kingdom → Phylum → Class → Order → Family → Genus → Species**. The smallest group, the **species**, is a group of very similar organisms that can breed together."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Five Kingdoms of Life",
+                  "body": "Scientists commonly group living things into **five kingdoms**:\n\n1. **Kingdom Monera** – very simple, microscopic, single-celled organisms with **no true nucleus** (for example **bacteria**).\n2. **Kingdom Protista** – mostly single-celled organisms **with a nucleus** (for example **amoeba** and **algae**).\n3. **Kingdom Fungi** – organisms that cannot make their own food and feed on dead or living matter (for example **mushrooms**, **moulds**, and **yeast**).\n4. **Kingdom Plantae (plants)** – many-celled organisms that **make their own food** by photosynthesis and have cell walls (for example trees, grass, *teff*).\n5. **Kingdom Animalia (animals)** – many-celled organisms that **eat other organisms** for food and can usually move (for example fish, birds, lions, humans).\n\n**Key idea:** The big difference between plants and animals is *how they get food* — plants **make** their own food, while animals **eat** other organisms."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "**Problem:** A student finds a mushroom growing on a dead log. (a) Can it make its own food? (b) Which kingdom does it belong to? (c) Name two life characteristics the mushroom shows.\n\n**Step 1 – Check how it gets food.**\n- A mushroom does **not** have chloroplasts and cannot make its own food. It feeds on the dead log. This is the feeding style of **fungi**.\n\n**Step 2 – Decide the kingdom.**\n- Because it feeds on dead matter and is not a plant or animal, the mushroom belongs to **Kingdom Fungi**.\n\n**Step 3 – Name life characteristics.**\n- Like all living things it shows characteristics such as **growth** (it grows on the log), **nutrition** (it takes in food from the log), and **reproduction** (it makes spores).\n\n**Answer:** (a) No, it cannot make its own food. (b) Kingdom Fungi. (c) Any two of: growth, nutrition, reproduction (also respiration, excretion)."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Thinking anything that moves is alive.** A river and the wind move but are not alive. A living thing must show *all* the MRS GREN features.\n- **Putting mushrooms with plants.** Mushrooms are **fungi**; they cannot make their own food, while plants can.\n- **Mixing up Monera and Protista.** Monera (bacteria) have **no true nucleus**; Protista (amoeba) **do** have a nucleus.\n- **Forgetting that humans are animals.** Humans belong to **Kingdom Animalia**.\n- **Thinking classification has no reason.** It is done to make life easier to study and to show how organisms are related."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"MRS GREN\"** gives the seven life characteristics: **M**ovement, **R**espiration, **S**ensitivity, **G**rowth, **R**eproduction, **E**xcretion, **N**utrition.\n- **\"Plants make, animals take.\"** Plants make their own food; animals take food by eating.\n- **\"Fungi feed on the dead.\"** Mushrooms and moulds feed on dead or living matter.\n- **Five kingdoms = Monera, Protista, Fungi, Plantae, Animalia.** Try: \"**M**y **P**arents **F**eed **P**lump **A**nimals.\""
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Write the seven characteristics of living things using MRS GREN.\n2. Give one reason why scientists classify living things.\n3. To which kingdom does a bacterium belong, and what is special about its cell?\n4. What is the main difference between Kingdom Plantae and Kingdom Animalia?\n\n**Brief answers:**\n1. Movement, Respiration, Sensitivity, Growth, Reproduction, Excretion, Nutrition.\n2. To make life easier to study / to show how organisms are related.\n3. Kingdom Monera; its cell has no true nucleus.\n4. Plants make their own food; animals eat other organisms."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Living things (organisms)** show seven characteristics, remembered as **MRS GREN**.\n- A thing is alive only if it shows *all* these features, not just one (like movement).\n- **Classification** groups living things by similarities to make them easier to study.\n- The levels go from **Kingdom** down to **Species** (the smallest group).\n- The **five kingdoms** are **Monera, Protista, Fungi, Plantae, and Animalia**.\n- Plants **make** their own food; animals **eat**; fungi **feed on dead or living matter**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this chapter.",
+                  "glossary": [
+                    { "term": "Organism", "definition": "Any individual living thing." },
+                    { "term": "Biodiversity", "definition": "The variety of all the different living things in an area or on Earth." },
+                    { "term": "Respiration", "definition": "The process by which living things release energy from food." },
+                    { "term": "Sensitivity", "definition": "The ability of living things to respond to changes in their surroundings." },
+                    { "term": "Excretion", "definition": "The removal of waste products made inside the body." },
+                    { "term": "Nutrition", "definition": "Taking in food for energy and growth." },
+                    { "term": "Classification", "definition": "Grouping living things based on their similarities and differences." },
+                    { "term": "Kingdom", "definition": "The largest group used to classify living things." },
+                    { "term": "Species", "definition": "The smallest group of very similar organisms that can breed together." },
+                    { "term": "Fungi", "definition": "A kingdom of organisms, such as mushrooms and moulds, that feed on dead or living matter." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What do the letters MRS GREN stand for?", "back": "Movement, Respiration, Sensitivity, Growth, Reproduction, Excretion, Nutrition." },
+                { "front": "What is classification?", "back": "Grouping living things based on their similarities and differences." },
+                { "front": "Name the five kingdoms of life.", "back": "Monera, Protista, Fungi, Plantae, and Animalia." },
+                { "front": "What is special about Kingdom Monera cells?", "back": "They have no true nucleus (e.g. bacteria)." },
+                { "front": "How do plants and animals differ in getting food?", "back": "Plants make their own food; animals eat other organisms." },
+                { "front": "To which kingdom do mushrooms belong?", "back": "Kingdom Fungi; they feed on dead or living matter." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Characteristics of living things",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which of the following is a characteristic of ALL living things?",
+              "options": ["They are all green", "They reproduce", "They are all large", "They never move"],
+              "answer": "1",
+              "explanation": "All living things reproduce (make new individuals of their kind). This is one of the MRS GREN characteristics."
+            },
+            {
+              "topic": "Living vs non-living",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Why is a moving car NOT considered a living thing?",
+              "options": ["It cannot move", "It does not use fuel", "It cannot grow or reproduce", "It is too big"],
+              "answer": "2",
+              "explanation": "Although a car moves, it cannot grow, reproduce, or carry out the other life processes, so it is not alive. A living thing must show all MRS GREN features."
+            },
+            {
+              "topic": "Classification",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the main reason scientists classify living things?",
+              "options": ["To make them disappear", "To make the variety of life easier to study and show relationships", "To make them all the same", "To stop them reproducing"],
+              "answer": "1",
+              "explanation": "Classification groups organisms by similarities, which makes the huge variety of life easier to study and shows how organisms are related."
+            },
+            {
+              "topic": "Kingdoms of life",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Mushrooms and moulds, which feed on dead or living matter, belong to which kingdom?",
+              "options": ["Plantae", "Animalia", "Fungi", "Monera"],
+              "answer": "2",
+              "explanation": "Fungi (such as mushrooms, moulds, and yeast) cannot make their own food and feed on dead or living matter."
+            },
+            {
+              "topic": "Kingdoms of life",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which kingdom contains simple single-celled organisms with NO true nucleus?",
+              "options": ["Monera", "Plantae", "Animalia", "Fungi"],
+              "answer": "0",
+              "explanation": "Kingdom Monera contains very simple single-celled organisms, such as bacteria, that have no true nucleus."
+            },
+            {
+              "topic": "Plant and animal kingdoms",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "The main difference between Kingdom Plantae and Kingdom Animalia is that:",
+              "options": ["Plants are bigger than animals", "Plants make their own food while animals eat other organisms", "Animals cannot reproduce", "Plants have no cells"],
+              "answer": "1",
+              "explanation": "Plants make their own food by photosynthesis, while animals get food by eating other organisms. This is the key difference between the two kingdoms."
+            }
+          ]
+        },
+        {
+          "title": "Earth in Space",
+          "description": "The shape and size of the Earth, its main parts and atmosphere, its movements, and the Earth system and natural cycles.",
+          "lessons": [
+            {
+              "title": "The Earth: Its Shape, Parts, and Movements",
+              "summary": "The Earth is a huge sphere in space with several layers and an atmosphere. This lesson explains the Earth's shape and size, its main parts, its movements that cause day and night and the seasons, and important natural cycles.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "We live on a giant ball of rock spinning in space, called the **Earth**. It is the only planet known to have living things, because it has water, air, and the right temperature.\n\nLong ago, people thought the Earth was flat. Today we know it is shaped like a ball. The Earth is always moving in two ways at once, and these movements give us **day and night** and the changing **seasons**. In this lesson we explore the Earth's shape, its parts, its movements, and the natural cycles that keep it working."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Describe the **shape and size** of the Earth.\n- Name the main **parts (layers)** of the Earth and its **atmosphere**.\n- Explain the Earth's two **movements**: **rotation** and **revolution**.\n- Explain how these movements cause **day and night** and the **seasons**.\n- Describe a natural **cycle** such as the **water cycle**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Shape and Size of the Earth",
+                  "body": "The Earth is shaped like a **sphere** (a ball), but it is not perfectly round. It is slightly flattened at the top and bottom (the **poles**) and bulges out at the middle (the **equator**). This special shape is called an **oblate spheroid**.\n\n**How do we know the Earth is round?**\n- Ships seem to sink slowly below the horizon as they sail away (the bottom disappears first).\n- The Earth casts a round shadow on the Moon during a lunar eclipse.\n- Photographs taken from space clearly show a round Earth.\n\nThe Earth is very large: its diameter (the distance straight through the middle) is about **12,742 kilometres**, and the distance around the equator is about **40,000 kilometres**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Parts of the Earth and the Atmosphere",
+                  "body": "**The solid Earth has three main layers**, like the layers of an onion:\n\n1. **Crust** – the thin, hard outer layer of rock where we live.\n2. **Mantle** – a thick layer of very hot, partly soft rock beneath the crust.\n3. **Core** – the very hot centre, made mostly of iron and nickel. It has a liquid **outer core** and a solid **inner core**.\n\n**The Earth has four 'spheres' (parts):**\n- **Lithosphere** – the solid land and rock.\n- **Hydrosphere** – all the water (oceans, lakes, rivers like the Abay/Blue Nile).\n- **Atmosphere** – the blanket of air around the Earth.\n- **Biosphere** – all the living things.\n\n**The atmosphere** is the layer of gases held by gravity. It is mostly **nitrogen (about 78%)** and **oxygen (about 21%)**, with small amounts of carbon dioxide and other gases. It protects us from the Sun's harmful rays, gives us air to breathe, and keeps the Earth warm."
+                },
+                {
+                  "type": "theory",
+                  "title": "Earth's Movements and Cycles",
+                  "body": "The Earth moves in **two** ways at the same time:\n\n1. **Rotation** – the Earth spins on its own **axis** (an imaginary line through the poles). One full spin takes about **24 hours (one day)**. Rotation causes **day and night**: the side facing the Sun has day, and the side facing away has night.\n2. **Revolution** – the Earth travels in a path (**orbit**) around the **Sun**. One full trip takes about **365¼ days (one year)**. Because the Earth's axis is **tilted**, revolution causes the **seasons** (different parts of Earth get more or less direct sunlight at different times of year).\n\n**Natural cycles** keep moving materials around the Earth. The most important is the **water cycle**:\n- The Sun heats water in oceans and lakes; it **evaporates** into vapour.\n- The vapour rises, cools, and **condenses** into clouds.\n- Water falls back as **precipitation** (rain, hail, or snow).\n- Water flows back to rivers and oceans, and the cycle repeats.\n\nThis cycle gives us the rain that fills Ethiopia's rivers and waters our crops."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "**Problem:** It is daytime in Addis Ababa but night-time on the opposite side of the Earth at the same moment. (a) Which Earth movement causes this? (b) How long does one full turn take? (c) Which different movement causes the seasons?\n\n**Step 1 – Explain why one side has day and the other night.**\n- Only the half of the Earth facing the Sun receives light. As the Earth **spins**, places move from the lit side (day) to the dark side (night). So this is caused by **rotation**.\n\n**Step 2 – State the time for one rotation.**\n- One full rotation on the axis takes about **24 hours**, which is one day.\n\n**Step 3 – Identify the cause of the seasons.**\n- The seasons are caused by the Earth's **revolution** around the Sun together with the **tilt** of its axis — not by rotation.\n\n**Answer:** (a) Rotation. (b) About 24 hours. (c) Revolution around the Sun (with the tilted axis)."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Mixing up rotation and revolution.** *Rotation* = spinning on its axis (1 day, causes day/night). *Revolution* = going around the Sun (1 year, causes seasons).\n- **Thinking seasons happen because Earth gets closer to the Sun.** Seasons are caused mainly by the **tilt** of the Earth's axis, not the distance.\n- **Saying the Earth is a perfect sphere.** It is slightly flattened at the poles (an oblate spheroid).\n- **Confusing the crust and the core.** The **crust** is the thin outer layer we live on; the **core** is the hot iron centre.\n- **Thinking the atmosphere is mostly oxygen.** It is mostly **nitrogen** (about 78%); oxygen is about 21%."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"Rotation = one Rotation a day.\"** Spin on axis → day and night.\n- **\"Revolution = one Round a year.\"** Round the Sun → seasons.\n- **Earth's layers, top to bottom: \"Cool Mangoes Cook\" = Crust, Mantle, Core.**\n- **Atmosphere gases: \"Nitrogen is Number one\"** (78%), oxygen second (21%).\n- **Water cycle: \"Evaporate → Condense → Precipitate.\"**"
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. What is the shape of the Earth called?\n2. Name the three main layers of the solid Earth from outside to inside.\n3. Which Earth movement causes day and night, and how long does it take?\n4. Name the three main stages of the water cycle.\n\n**Brief answers:**\n1. A sphere (more exactly an oblate spheroid).\n2. Crust, mantle, core.\n3. Rotation; it takes about 24 hours (one day).\n4. Evaporation, condensation, and precipitation."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The Earth is a **sphere** that is slightly flattened at the poles (an **oblate spheroid**).\n- Its solid layers are the **crust**, **mantle**, and **core**.\n- The four parts are the **lithosphere, hydrosphere, atmosphere, and biosphere**.\n- The **atmosphere** is mostly **nitrogen (78%)** and **oxygen (21%)**.\n- **Rotation** (spin on axis, ~24 hours) causes **day and night**.\n- **Revolution** (around the Sun, ~365¼ days) with the tilted axis causes the **seasons**.\n- The **water cycle** moves water by **evaporation, condensation, and precipitation**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this chapter.",
+                  "glossary": [
+                    { "term": "Sphere", "definition": "A round, ball-like shape." },
+                    { "term": "Oblate spheroid", "definition": "A sphere that is slightly flattened at the poles and bulging at the equator, like the Earth." },
+                    { "term": "Crust", "definition": "The thin, hard outer rocky layer of the Earth where we live." },
+                    { "term": "Mantle", "definition": "The thick layer of hot, partly soft rock between the crust and the core." },
+                    { "term": "Core", "definition": "The very hot centre of the Earth, made mostly of iron and nickel." },
+                    { "term": "Atmosphere", "definition": "The blanket of gases (mostly nitrogen and oxygen) surrounding the Earth." },
+                    { "term": "Rotation", "definition": "The spinning of the Earth on its own axis, taking about 24 hours and causing day and night." },
+                    { "term": "Revolution", "definition": "The movement of the Earth around the Sun, taking about 365¼ days and causing the seasons." },
+                    { "term": "Axis", "definition": "The imaginary tilted line through the poles around which the Earth spins." },
+                    { "term": "Water cycle", "definition": "The continuous movement of water through evaporation, condensation, and precipitation." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is the shape of the Earth?", "back": "A sphere that is slightly flattened at the poles (an oblate spheroid)." },
+                { "front": "Name the three main layers of the solid Earth.", "back": "Crust, mantle, and core." },
+                { "front": "What does rotation cause and how long does it take?", "back": "It causes day and night and takes about 24 hours (one day)." },
+                { "front": "What does revolution cause and how long does it take?", "back": "It causes the seasons and takes about 365¼ days (one year)." },
+                { "front": "What are the two main gases in the atmosphere?", "back": "Nitrogen (about 78%) and oxygen (about 21%)." },
+                { "front": "What are the three stages of the water cycle?", "back": "Evaporation, condensation, and precipitation." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Shape of the Earth",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "The shape of the Earth is best described as:",
+              "options": ["A flat disc", "A perfect cube", "A sphere slightly flattened at the poles", "A flat square"],
+              "answer": "2",
+              "explanation": "The Earth is a sphere (ball) that is slightly flattened at the poles and bulges at the equator, called an oblate spheroid."
+            },
+            {
+              "topic": "Parts of the Earth",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "The thin, hard outer layer of the Earth where we live is the:",
+              "options": ["Core", "Mantle", "Crust", "Atmosphere"],
+              "answer": "2",
+              "explanation": "The crust is the thin, solid outer rocky layer of the Earth on which we live. The mantle and core are deeper inside."
+            },
+            {
+              "topic": "Earth's movements",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "The spinning of the Earth on its axis, which causes day and night, is called:",
+              "options": ["Revolution", "Rotation", "Gravity", "Orbit"],
+              "answer": "1",
+              "explanation": "Rotation is the spinning of the Earth on its own axis. It takes about 24 hours and gives us day and night."
+            },
+            {
+              "topic": "Earth's movements",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What mainly causes the seasons on Earth?",
+              "options": ["The Earth spinning faster in summer", "The Earth's revolution around the Sun with its tilted axis", "The Moon blocking the Sun", "Clouds in the sky"],
+              "answer": "1",
+              "explanation": "The seasons are caused by the Earth's revolution around the Sun combined with the tilt of its axis, so different areas get more or less direct sunlight."
+            },
+            {
+              "topic": "The atmosphere",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which gas makes up the largest part of the Earth's atmosphere?",
+              "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+              "answer": "2",
+              "explanation": "Nitrogen makes up about 78% of the atmosphere, which is the largest part. Oxygen is about 21%."
+            },
+            {
+              "topic": "Water cycle",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "In the water cycle, the change of water vapour into clouds is called:",
+              "options": ["Evaporation", "Condensation", "Precipitation", "Rotation"],
+              "answer": "1",
+              "explanation": "Condensation is when water vapour cools and changes into tiny droplets that form clouds. Evaporation turns water into vapour, and precipitation is rain or snow falling."
+            }
+          ]
+        },
+        {
+          "title": "Motion, Force, Energy and Energy Resources",
+          "description": "Types of motion, force and gravity, the effects and measuring of forces, forms and conversion of energy, and the wise use of energy resources.",
+          "lessons": [
+            {
+              "title": "Motion, Force, and Energy",
+              "summary": "Motion, force, and energy are key ideas in physics that explain how things move and change. This lesson covers types of motion, force and gravity, how forces are measured, the forms of energy, and using energy wisely.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Everything around you is connected to **motion**, **force**, and **energy**. A *bajaj* moving down the road, a footballer kicking a ball, the Sun warming your face — all involve these three ideas.\n\n**Motion** is a change in position. A **force** is a push or a pull that can start, stop, or change motion. **Energy** is the ability to do work or cause change. In this lesson, we will see how these ideas explain the way the world works, and why we must use our energy resources wisely."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Lesson Objectives",
+                  "body": "By the end of this lesson you should be able to:\n\n- Define **motion** and describe its **types**.\n- Define **force** and explain **gravitational force**.\n- Describe the **effects of force** and how force is **measured**.\n- Define **energy** and list its main **forms**.\n- Explain **energy conversion** and the wise use of **energy resources**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Motion and Its Types",
+                  "body": "**Motion** is the change in the position of an object compared to a fixed point (a reference point), over time. If a bus moves away from a bus stop, the bus is in motion relative to the stop.\n\n**Main types of motion:**\n- **Translational (linear) motion** – movement in a straight line, like a car on a straight road.\n- **Rotational motion** – spinning around a fixed point or axis, like a wheel or a spinning top.\n- **Circular motion** – moving along a circular path, like the Moon going around the Earth.\n- **Oscillatory (vibrational) motion** – moving back and forth repeatedly, like a swing or a pendulum.\n\n**Why is motion relative?** Whether something is moving depends on what you compare it to. A passenger sitting in a moving bus is *still* compared to the bus, but *moving* compared to a person on the road. This is why we always need a **reference point**."
+                },
+                {
+                  "type": "theory",
+                  "title": "Force and Gravity",
+                  "body": "A **force** is a **push** or a **pull** that one object exerts on another. Force is measured in **newtons (N)**, named after Isaac Newton.\n\n**A force can:**\n- Start a still object moving (kick a ball).\n- Stop a moving object (a goalkeeper catching the ball).\n- Change the **speed** or **direction** of a moving object.\n- Change the **shape** of an object (squeezing clay).\n\nForces can be **contact forces** (the objects touch, like friction or a push) or **non-contact forces** (acting from a distance, like gravity and magnetism).\n\n**Gravitational force (gravity)** is the force that pulls objects towards each other. The Earth's gravity pulls everything towards its centre — this is why a dropped stone falls down and why we stay on the ground.\n\n**Weight** is the *force of gravity* on an object, measured in newtons. **Mass** is the *amount of matter* in an object, measured in kilograms. So weight changes if gravity changes, but mass stays the same."
+                },
+                {
+                  "type": "theory",
+                  "title": "Energy, Its Forms, and Conservation",
+                  "body": "**Energy** is the ability to do **work** or cause change. Like force, doing work is measured in **joules (J)**.\n\n**Main forms of energy:**\n- **Kinetic energy** – energy of a moving object (a running child, flowing water).\n- **Potential energy** – stored energy due to position or condition (water held behind a dam, a stretched rubber band).\n- **Heat (thermal) energy** – energy from the movement of particles (a hot fire).\n- **Light energy** – energy we can see (sunlight, a lamp).\n- **Sound energy** – energy that travels as sound (a drum).\n- **Electrical energy** – energy carried by electric current (used in homes).\n- **Chemical energy** – energy stored in food, fuel, and batteries.\n\n**The Law of Conservation of Energy:** Energy cannot be created or destroyed; it only **changes from one form to another**. For example, in a hydroelectric dam (like the Grand Ethiopian Renaissance Dam), the *potential energy* of stored water becomes *kinetic energy* as it falls, which a turbine turns into *electrical energy*.\n\n**Energy resources** can be **renewable** (will not run out — sunlight, wind, water, geothermal) or **non-renewable** (will run out — coal, oil, natural gas). We must use energy **wisely** and not waste it, because non-renewable sources are limited and waste causes pollution and **environmental degradation** (damage to the environment)."
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "**Problem:** A boy lifts a stone to the top of a wall, then lets it fall. (a) What type of energy does the stone have at the top of the wall? (b) What energy does it change into as it falls? (c) What force pulls it down?\n\n**Step 1 – Energy at the top.**\n- At the top, the stone is not moving but is high up. It has stored energy because of its position. This is **potential energy**.\n\n**Step 2 – Energy while falling.**\n- As the stone falls, it speeds up and moves. The stored potential energy changes into the energy of motion, which is **kinetic energy**. (Energy is conserved — it just changes form.)\n\n**Step 3 – The force acting.**\n- The stone is pulled towards the Earth's centre by **gravitational force (gravity)**.\n\n**Answer:** (a) Potential energy. (b) Kinetic energy. (c) Gravity (gravitational force)."
+                },
+                {
+                  "type": "visual",
+                  "title": "Forces on a Falling Stone",
+                  "body": "When a stone falls, the main force acting on it is its **weight**, the pull of gravity straight down towards the Earth. This free-body diagram shows that downward force.",
+                  "visual": {
+                    "kind": "free-body",
+                    "data": {
+                      "object": "Stone",
+                      "forces": [
+                        { "label": "Weight (gravity)", "angle": 270, "magnitude": 10 }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Confusing mass and weight.** *Mass* is the amount of matter (kg) and stays the same; *weight* is the force of gravity (N) and changes with gravity.\n- **Thinking a force is only a push.** A force is a push **or** a pull.\n- **Saying energy is used up.** Energy is never destroyed; it only **changes form** (conservation of energy).\n- **Mixing up kinetic and potential energy.** *Kinetic* = energy of *movement*; *potential* = *stored* energy due to position.\n- **Thinking all energy resources are renewable.** Coal, oil, and gas are **non-renewable** and will run out.\n- **Measuring force in kilograms.** Force is measured in **newtons (N)**, not kilograms."
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **\"Force = push or pull.\"** Both count as a force.\n- **\"Kinetic = King of motion\"** (moving), **\"Potential = Patiently stored\"** (waiting).\n- **\"Newtons for force, joules for energy.\"**\n- **Weight = gravity's pull; mass = matter.** Mass never changes, weight can.\n- **Renewable = Refills** (sun, wind, water); **Non-renewable = Never comes back** (coal, oil, gas)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice Questions",
+                  "body": "1. Define force and give the unit used to measure it.\n2. Name two types of motion and give an example of each.\n3. A ball is held high above the ground. What type of energy does it have, and what does it change into as it falls?\n4. Give one renewable and one non-renewable energy source.\n\n**Brief answers:**\n1. A force is a push or a pull; it is measured in newtons (N).\n2. Any two, e.g. linear (car on a road) and rotational (a spinning wheel).\n3. Potential energy, which changes into kinetic energy as it falls.\n4. Renewable: sunlight (or wind/water). Non-renewable: coal (or oil/gas)."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Motion** is a change in position relative to a reference point; types include **linear, rotational, circular, and oscillatory**.\n- A **force** is a push or pull, measured in **newtons (N)**; it can start, stop, or change motion or shape.\n- **Gravity** pulls objects towards the Earth's centre; **weight** is gravity's force, while **mass** is the amount of matter.\n- **Energy** is the ability to do work (measured in **joules**); forms include **kinetic, potential, heat, light, sound, electrical, and chemical**.\n- Energy is never created or destroyed; it only **changes form** (conservation of energy).\n- Energy resources are **renewable** (sun, wind, water) or **non-renewable** (coal, oil, gas); we must use them **wisely**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Glossary",
+                  "body": "Key terms for this chapter.",
+                  "glossary": [
+                    { "term": "Motion", "definition": "A change in the position of an object compared with a fixed reference point." },
+                    { "term": "Reference point", "definition": "A fixed object used to decide whether something is moving." },
+                    { "term": "Force", "definition": "A push or a pull that one object exerts on another, measured in newtons (N)." },
+                    { "term": "Gravity", "definition": "The force that pulls objects towards each other, such as the Earth pulling objects to its centre." },
+                    { "term": "Weight", "definition": "The force of gravity acting on an object, measured in newtons." },
+                    { "term": "Mass", "definition": "The amount of matter in an object, measured in kilograms." },
+                    { "term": "Energy", "definition": "The ability to do work or cause change, measured in joules (J)." },
+                    { "term": "Kinetic energy", "definition": "The energy of a moving object." },
+                    { "term": "Potential energy", "definition": "Stored energy that an object has because of its position or condition." },
+                    { "term": "Renewable energy", "definition": "Energy from a source that will not run out, such as sunlight, wind, or water." }
+                  ]
+                }
+              ],
+              "flashcards": [
+                { "front": "What is a force?", "back": "A push or a pull that one object exerts on another, measured in newtons (N)." },
+                { "front": "What is the difference between mass and weight?", "back": "Mass is the amount of matter (kg) and stays the same; weight is the force of gravity (N) and can change." },
+                { "front": "What is kinetic energy?", "back": "The energy of a moving object." },
+                { "front": "What is potential energy?", "back": "Stored energy due to an object's position or condition." },
+                { "front": "State the Law of Conservation of Energy.", "back": "Energy cannot be created or destroyed; it only changes from one form to another." },
+                { "front": "Give one renewable and one non-renewable energy source.", "back": "Renewable: sunlight (or wind, water). Non-renewable: coal (or oil, gas)." }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Force",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "A force is best described as:",
+              "options": ["Only a push", "Only a pull", "A push or a pull", "A type of energy"],
+              "answer": "2",
+              "explanation": "A force is a push or a pull that one object exerts on another. It can change the motion or shape of an object."
+            },
+            {
+              "topic": "Units",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "The unit used to measure force is the:",
+              "options": ["Joule", "Newton", "Kilogram", "Metre"],
+              "answer": "1",
+              "explanation": "Force is measured in newtons (N), named after Isaac Newton. Energy is measured in joules and mass in kilograms."
+            },
+            {
+              "topic": "Types of motion",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "A spinning wheel is an example of which type of motion?",
+              "options": ["Linear motion", "Rotational motion", "Oscillatory motion", "No motion"],
+              "answer": "1",
+              "explanation": "Rotational motion is movement around a fixed point or axis, like a spinning wheel or a top."
+            },
+            {
+              "topic": "Mass and weight",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which statement about mass and weight is correct?",
+              "options": ["Mass is a force; weight is matter", "Mass stays the same; weight is the force of gravity and can change", "Both are measured in newtons", "Mass and weight are exactly the same thing"],
+              "answer": "1",
+              "explanation": "Mass is the amount of matter (in kilograms) and stays the same everywhere, while weight is the force of gravity (in newtons) and changes if gravity changes."
+            },
+            {
+              "topic": "Energy conversion",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "As a stone falls from a high wall, its energy mainly changes from:",
+              "options": ["Kinetic to potential", "Potential to kinetic", "Sound to light", "Chemical to heat"],
+              "answer": "1",
+              "explanation": "At the top, the stone has stored potential energy. As it falls and speeds up, this changes into kinetic energy (energy of motion)."
+            },
+            {
+              "topic": "Energy resources",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which of the following is a renewable energy source?",
+              "options": ["Coal", "Oil", "Natural gas", "Sunlight"],
+              "answer": "3",
+              "explanation": "Sunlight is renewable because it will not run out. Coal, oil, and natural gas are non-renewable and will eventually be used up."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

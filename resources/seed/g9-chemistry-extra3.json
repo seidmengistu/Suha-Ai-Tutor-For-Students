@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "chemistry",
+      "questions": [
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which part of an atom takes up most of the atom's space?",
+          "options": ["The nucleus", "The electron cloud", "The protons", "The neutrons"],
+          "answer": "1",
+          "explanation": "The electron cloud is a large region around the tiny nucleus, so it occupies almost all of the atom's volume."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of these properties is typical of most metals?",
+          "options": ["They are good conductors of electricity", "They are dull and brittle", "They are gases at room temperature", "They never react with anything"],
+          "answer": "0",
+          "explanation": "Metals are generally good conductors of electricity and heat, are shiny, and can be bent or hammered."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "An atom that has lost or gained electrons and now carries an electric charge is called a/an:",
+          "options": ["Molecule", "Isotope", "Ion", "Compound"],
+          "answer": "2",
+          "explanation": "An ion is an atom (or group of atoms) that has gained or lost electrons, giving it a net electric charge."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which of the following is a clear sign that a chemical reaction has taken place?",
+          "options": ["Ice melting into water", "Sugar dissolving in tea", "A new gas bubbling out as two liquids are mixed", "Water being poured into a cup"],
+          "answer": "2",
+          "explanation": "Producing a new gas is a sign of a chemical change. Melting, dissolving, and pouring are physical changes, not new substances forming."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The change of state from a solid directly into a liquid is called:",
+          "options": ["Boiling", "Melting", "Condensation", "Sublimation"],
+          "answer": "1",
+          "explanation": "Melting is the change from solid to liquid that happens when a solid is heated and its particles gain enough energy to move past one another."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which state of matter takes both the shape AND the volume of any container it is placed in?",
+          "options": ["Solid", "Liquid", "Gas", "None of them"],
+          "answer": "2",
+          "explanation": "A gas has no fixed shape or volume, so it spreads out to fill the entire container, taking both its shape and volume."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An atom of phosphorus has 15 protons. Using the shell-filling rule (2, 8, 8...), what is its electron arrangement?",
+          "options": ["2, 8, 5", "2, 5, 8", "2, 8, 8", "8, 7"],
+          "answer": "0",
+          "explanation": "Phosphorus has 15 electrons: 2 in the first shell, 8 in the second, leaving 5 in the third, giving 2, 8, 5."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An atom of an element has 19 electrons and a mass number of 39. How many neutrons does the neutral atom contain?",
+          "options": ["19", "20", "39", "58"],
+          "answer": "1",
+          "explanation": "In a neutral atom protons = electrons = 19, so neutrons = mass number - protons = 39 - 19 = 20."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An oxide ion is written as O with a 2- charge. Oxygen has atomic number 8. How many electrons does this ion have?",
+          "options": ["6", "8", "10", "16"],
+          "answer": "2",
+          "explanation": "A neutral oxygen atom has 8 electrons. The 2- charge means it gained 2 electrons, so it has 8 + 2 = 10 electrons."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Elements in Group 17 of the periodic table, such as fluorine and chlorine, are known as the:",
+          "options": ["Alkali metals", "Noble gases", "Halogens", "Transition metals"],
+          "answer": "2",
+          "explanation": "Group 17 elements are the halogens. They each have 7 valence electrons and are reactive non-metals."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An element has the electron arrangement 2, 8. To which group does it belong?",
+          "options": ["Group 2", "Group 8", "Group 10", "Group 18"],
+          "answer": "3",
+          "explanation": "A full outer shell of 8 electrons (a complete octet) places the element among the noble gases in Group 18; this is neon."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "How many electrons does a magnesium atom (2, 8, 2) lose to reach a stable noble-gas arrangement?",
+          "options": ["1", "2", "6", "8"],
+          "answer": "1",
+          "explanation": "Magnesium loses its 2 outer electrons to leave the stable arrangement 2, 8, forming the Mg(2+) ion."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which substance is held together by covalent bonds?",
+          "options": ["Sodium chloride (NaCl)", "Carbon dioxide (CO2)", "Magnesium oxide (MgO)", "Potassium iodide (KI)"],
+          "answer": "1",
+          "explanation": "Carbon dioxide is made of non-metals (carbon and oxygen) that share electrons, so it has covalent bonds. The others are metal + non-metal ionic compounds."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Balance the equation: 2Al + __ O2 -> Al2O3. To balance it correctly, the whole equation must be multiplied so the smallest coefficient of O2 is:",
+          "options": ["1", "2", "3", "3/2"],
+          "answer": "2",
+          "explanation": "The fully balanced equation is 4Al + 3O2 -> 2Al2O3, which gives 6 oxygen atoms on each side, so the coefficient of O2 is 3."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In the reaction AgNO3 + NaCl -> AgCl + NaNO3, two compounds exchange partners. This is an example of a:",
+          "options": ["Combination reaction", "Decomposition reaction", "Single displacement reaction", "Double displacement reaction"],
+          "answer": "3",
+          "explanation": "A double displacement reaction is one in which two compounds swap their ions to form two new compounds."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Solid carbon dioxide (dry ice) turns straight into a gas without becoming a liquid. This change of state is called:",
+          "options": ["Melting", "Sublimation", "Condensation", "Freezing"],
+          "answer": "1",
+          "explanation": "Sublimation is the direct change from solid to gas, skipping the liquid state, as happens with dry ice."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why does wet washing dry faster on a hot, windy day than on a cold, still day?",
+          "options": ["Heat and moving air help water particles escape as vapour faster", "Cold air evaporates water more quickly", "Wind turns water into ice", "The cloth absorbs more water in the heat"],
+          "answer": "0",
+          "explanation": "Higher temperature gives water particles more energy to escape, and wind carries the vapour away, so evaporation is faster."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which of the following correctly lists the three subatomic particles from lightest to heaviest?",
+          "options": ["Proton, neutron, electron", "Electron, proton, neutron (proton and neutron nearly equal)", "Neutron, electron, proton", "Electron, neutron, proton (neutron much lighter)"],
+          "answer": "1",
+          "explanation": "The electron is by far the lightest. Protons and neutrons each have a relative mass of about 1, so they are far heavier and roughly equal to each other."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A sodium ion Na(+) and a neon atom both have 10 electrons. Which statement comparing them is correct?",
+          "options": ["They are the same element", "They have the same number of protons", "They have the same electron arrangement but different numbers of protons", "They both have a positive charge"],
+          "answer": "2",
+          "explanation": "Both have the arrangement 2, 8, but sodium has 11 protons while neon has 10, so they differ in proton number and only the sodium ion is charged."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An element X has two isotopes: 60% with mass number 10 and 40% with mass number 11. What is its average atomic mass?",
+          "options": ["10.0", "10.4", "10.5", "10.6"],
+          "answer": "1",
+          "explanation": "Average = (0.60 x 10) + (0.40 x 11) = 6.0 + 4.4 = 10.4. This weighted average is the relative atomic mass."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Among sodium (Na), magnesium (Mg), and aluminium (Al), all in Period 3, which has the LARGEST atomic radius?",
+          "options": ["Sodium", "Magnesium", "Aluminium", "They are all the same size"],
+          "answer": "0",
+          "explanation": "Atomic radius decreases across a period as nuclear charge increases. Sodium is farthest left in Period 3, so it is the largest of the three."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why are noble gases (Group 18) extremely unreactive?",
+          "options": ["They have no electrons", "Their outer electron shells are already full and stable", "They are all metals", "They have very large atoms"],
+          "answer": "1",
+          "explanation": "Noble gases already have full, stable outer shells, so they have little tendency to gain, lose, or share electrons, making them unreactive."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Mendeleev left gaps in his early periodic table. Why is this now considered a sign of good science?",
+          "options": ["He had made counting mistakes", "He predicted properties of elements not yet discovered, and they were later found", "He wanted to make the table look symmetrical", "He ran out of element names"],
+          "answer": "1",
+          "explanation": "Mendeleev left gaps for undiscovered elements and predicted their properties; when those elements were later found and matched his predictions, it confirmed the table's value."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A carbon atom (2, 4) bonds with hydrogen atoms to form methane. How many covalent bonds does the carbon atom form, and what is the formula?",
+          "options": ["2 bonds, CH2", "3 bonds, CH3", "4 bonds, CH4", "1 bond, CH"],
+          "answer": "2",
+          "explanation": "Carbon has 4 valence electrons and needs 4 more to complete its octet, so it forms 4 covalent bonds with 4 hydrogen atoms, giving CH4."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Compared with most ionic compounds, simple covalent (molecular) substances such as carbon dioxide usually have:",
+          "options": ["Much higher melting points", "Much lower melting points", "Exactly equal melting points", "No melting point at all"],
+          "answer": "1",
+          "explanation": "Melting a simple covalent substance only breaks weak forces between molecules, not the strong bonds inside them, so its melting point is much lower than an ionic compound's."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a double covalent bond, such as the one in an oxygen molecule (O2), the two atoms share a total of:",
+          "options": ["1 electron", "2 electrons", "4 electrons", "6 electrons"],
+          "answer": "2",
+          "explanation": "A double bond is two shared pairs of electrons. Two pairs means 4 electrons are shared between the two atoms."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In the reaction Mg + 2HCl -> MgCl2 + H2, magnesium displaces hydrogen from the acid. This is best classified as a:",
+          "options": ["Combination reaction", "Decomposition reaction", "Single displacement reaction", "Double displacement reaction"],
+          "answer": "2",
+          "explanation": "A more reactive element (magnesium) replaces a less reactive one (hydrogen) in a compound, which is a single displacement reaction."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "When Fe2O3 + 3CO -> 2Fe + 3CO2 is examined, the iron in Fe2O3 gains electrons to become iron metal. In terms of redox, the iron is:",
+          "options": ["Oxidised, because it loses oxygen", "Reduced, because it gains electrons", "Acting as a catalyst", "Neither oxidised nor reduced"],
+          "answer": "1",
+          "explanation": "Gaining electrons is reduction (OIL RIG: Reduction Is Gain). The iron ions gain electrons to form iron metal, so the iron is reduced."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "When the equation C2H6 + O2 -> CO2 + H2O is fully balanced using whole numbers, the coefficient of O2 is:",
+          "options": ["5", "7", "2", "3"],
+          "answer": "1",
+          "explanation": "The balanced equation is 2C2H6 + 7O2 -> 4CO2 + 6H2O, which gives 14 oxygen atoms on each side, so the coefficient of O2 is 7."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Two identical balloons hold the same gas. One is left in the cool morning air and the other in the hot midday sun. The sunlit balloon expands. Why?",
+          "options": ["The gas turns into a liquid", "Heating makes the particles move faster and hit the walls harder and more often", "Sunlight adds new gas particles", "Heat makes the particles stop moving"],
+          "answer": "1",
+          "explanation": "Heating increases the particles' kinetic energy, so they collide with the balloon walls more often and harder, pushing the walls outward and expanding the balloon."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A drop of food colouring slowly spreads through a glass of still water until the whole glass is coloured. This happens because of:",
+          "options": ["Particles staying perfectly still", "The random movement of particles spreading them out (diffusion)", "The water freezing", "Gravity pulling the colour down only"],
+          "answer": "1",
+          "explanation": "Particles in a liquid are in constant random motion, so the colour particles gradually mix and spread through the water by diffusion."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "An ion of an element is written as X with a 3- charge. It has a mass number of 31 and contains 18 electrons. What is the atomic number of element X?",
+          "options": ["15", "18", "21", "31"],
+          "answer": "0",
+          "explanation": "The 3- charge means the ion gained 3 electrons, so the neutral atom had 18 - 3 = 15 electrons, which equals 15 protons, giving atomic number 15."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Element J is in Period 4, Group 1, and element K is in Period 4, Group 17. Which statement correctly compares them?",
+          "options": ["J is a reactive metal and K is a reactive non-metal", "Both J and K are noble gases", "J has a smaller atomic radius than K", "K loses electrons more easily than J"],
+          "answer": "0",
+          "explanation": "Group 1 elements are reactive metals that lose one electron easily; Group 17 elements are reactive non-metals that gain one electron, so J is a reactive metal and K a reactive non-metal."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Calcium (group 2) reacts with chlorine (group 17) to form calcium chloride. What is the correct formula of the compound?",
+          "options": ["CaCl", "CaCl2", "Ca2Cl", "Ca2Cl3"],
+          "answer": "1",
+          "explanation": "Calcium forms Ca(2+) and each chlorine forms Cl(-). Two chloride ions (-2 total) balance one calcium ion (+2), giving the neutral formula CaCl2."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "When 8 g of methane (CH4) burns completely, it combines with 32 g of oxygen and produces 22 g of carbon dioxide along with water. By the law of conservation of mass, what mass of water is formed?",
+          "options": ["10 g", "18 g", "22 g", "40 g"],
+          "answer": "1",
+          "explanation": "Total mass of reactants = 8 + 32 = 40 g, which must equal total products. Water = 40 - 22 = 18 g."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A fixed amount of gas in a rigid, sealed metal can is heated strongly over a fire. Since the can cannot expand, what happens inside it?",
+          "options": ["The pressure stays the same", "The pressure rises as faster particles hit the walls harder and more often", "The gas turns into a solid", "The number of particles decreases"],
+          "answer": "1",
+          "explanation": "In a fixed volume, heating speeds up the particles so they strike the walls harder and more frequently, increasing the pressure (which is why sealed cans can burst in fire)."
+        }
+      ]
+    }
+  ]
+}

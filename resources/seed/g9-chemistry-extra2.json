@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 9,
+      "subjectKey": "chemistry",
+      "questions": [
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which scientist first used the word 'atomos', meaning uncuttable, to describe matter?",
+          "options": ["John Dalton", "Democritus", "Henry Moseley", "Dmitri Mendeleev"],
+          "answer": "1",
+          "explanation": "The ancient Greek philosopher Democritus coined the word 'atomos'; Dalton later built the first scientific atomic theory."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Compared with a proton, the mass of an electron is:",
+          "options": ["Much larger", "Almost the same", "Almost negligible (very tiny)", "Exactly double"],
+          "answer": "2",
+          "explanation": "An electron is about 1,837 times lighter than a proton, so its mass is treated as nearly zero."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Elements found along the staircase line, with properties between metals and non-metals, are called:",
+          "options": ["Noble gases", "Metalloids", "Alkali metals", "Halogens"],
+          "answer": "1",
+          "explanation": "Metalloids lie along the staircase and have properties in between those of metals and non-metals."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The octet rule says atoms tend to become stable by having how many electrons in their outer shell?",
+          "options": ["Two", "Four", "Six", "Eight"],
+          "answer": "3",
+          "explanation": "The octet rule states that atoms gain, lose, or share electrons to reach a stable outer shell of eight electrons."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A reaction that releases heat to its surroundings is described as:",
+          "options": ["Endothermic", "Exothermic", "Reversible", "Neutral"],
+          "answer": "1",
+          "explanation": "Exothermic reactions release heat (heat exits), like burning charcoal; endothermic reactions absorb heat."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In a solid, the particles are best described as:",
+          "options": ["Far apart and moving randomly", "Tightly packed and vibrating in fixed positions", "Sliding past each other freely", "Not moving at all"],
+          "answer": "1",
+          "explanation": "Solid particles are tightly packed in fixed positions and vibrate in place; they do not leave their spots."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An atom of sulfur has 16 protons. Using the shell-filling rule (2, 8, 8...), what is its electron arrangement?",
+          "options": ["2, 8, 6", "2, 8, 8", "2, 6, 8", "8, 8"],
+          "answer": "0",
+          "explanation": "Sulfur has 16 electrons: 2 fill the first shell, 8 fill the second, leaving 6 in the third shell, giving 2, 8, 6."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An ion has 17 protons, 18 neutrons, and 18 electrons. What is its charge?",
+          "options": ["+1", "-1", "+2", "0"],
+          "answer": "1",
+          "explanation": "With 17 protons (+17) and 18 electrons (-18), there is one extra negative charge, so the ion is -1."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Hydrogen's three isotopes are protium, deuterium, and tritium. What makes them different from one another?",
+          "options": ["Their number of protons", "Their number of electrons", "Their number of neutrons", "Their electric charge"],
+          "answer": "2",
+          "explanation": "All hydrogen isotopes have 1 proton; they differ only in neutrons (0, 1, and 2 respectively)."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Moving down Group 1 from lithium to potassium, the reactivity of the metals generally:",
+          "options": ["Decreases", "Increases", "Stays the same", "Disappears"],
+          "answer": "1",
+          "explanation": "Metallic character and reactivity increase down a group because the outer electron is held more loosely and lost more easily."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The modern periodic law states that the properties of elements are a periodic function of their:",
+          "options": ["Atomic mass", "Atomic number", "Number of neutrons", "Density"],
+          "answer": "1",
+          "explanation": "The modern periodic law, based on Moseley's work, links properties to atomic number rather than atomic mass."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why does solid sodium chloride NOT conduct electricity, even though it is made of ions?",
+          "options": ["It has no charged particles", "Its ions are locked in fixed positions and cannot move", "It is a metal", "Its electrons are shared"],
+          "answer": "1",
+          "explanation": "In the solid, the ions are held tightly in a fixed lattice and cannot move to carry charge; only when molten or dissolved can they move and conduct."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The unusually high boiling point of water compared with similar small molecules is mainly due to:",
+          "options": ["Metallic bonds", "Ionic bonds", "Hydrogen bonds between water molecules", "The mass of oxygen"],
+          "answer": "2",
+          "explanation": "Strong hydrogen bonds between water molecules require extra energy to break, raising water's boiling point."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Balance the equation: __ Na + Cl2 -> 2NaCl. What coefficient goes in front of Na?",
+          "options": ["1", "2", "3", "4"],
+          "answer": "1",
+          "explanation": "Cl2 provides 2 chlorine atoms, forming 2 NaCl, which needs 2 sodium atoms, so the coefficient for Na is 2."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The reaction CaCO3 -> CaO + CO2, in which one compound breaks into two, is an example of a:",
+          "options": ["Combination reaction", "Decomposition reaction", "Displacement reaction", "Double displacement reaction"],
+          "answer": "1",
+          "explanation": "A decomposition reaction is one in which a single substance breaks down into two or more simpler substances."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When a gas is cooled enough to turn into a liquid, the particles:",
+          "options": ["Move faster and spread apart", "Slow down and move closer together", "Stop existing", "Gain electric charge"],
+          "answer": "1",
+          "explanation": "Cooling removes energy, so particles slow down and move closer; this condensation turns the gas into a liquid."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which statement correctly describes a liquid?",
+          "options": ["Fixed shape and fixed volume", "Takes the container's shape but has a fixed volume", "No fixed shape and no fixed volume", "Fixed shape but changing volume"],
+          "answer": "1",
+          "explanation": "A liquid keeps a fixed volume but flows to take the shape of whatever container holds it."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why is an atom electrically neutral overall?",
+          "options": ["It has no charged particles", "It has equal numbers of protons and electrons", "It has more neutrons than protons", "Its electrons have no charge"],
+          "answer": "1",
+          "explanation": "A neutral atom has equal numbers of positive protons and negative electrons, so the charges cancel out."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An atom X has 20 protons and an atom Y has 20 protons but a different mass number. Which statement is definitely true?",
+          "options": ["X and Y are different elements", "X and Y are isotopes of the same element", "X and Y have the same number of neutrons", "X and Y must have different charges"],
+          "answer": "1",
+          "explanation": "Same proton count means the same element; a different mass number means a different neutron count, so they are isotopes."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Among the elements lithium, carbon, fluorine, and neon (all in Period 2), which has the SMALLEST atomic radius?",
+          "options": ["Lithium", "Carbon", "Fluorine", "Neon"],
+          "answer": "3",
+          "explanation": "Atomic radius decreases across a period as nuclear charge grows; neon is farthest right in Period 2, so it is the smallest."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why does ionisation energy generally increase as you move from left to right across a period?",
+          "options": ["Atoms gain more shells", "The increasing nuclear charge holds the outer electrons more tightly", "Atoms become larger", "The number of neutrons falls"],
+          "answer": "1",
+          "explanation": "More protons across a period pull the electrons in more strongly, so more energy is needed to remove an outer electron."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In calcium fluoride, calcium forms a Ca(2+) ion. How many fluoride ions (each F-) are needed to balance the charge?",
+          "options": ["One", "Two", "Three", "Four"],
+          "answer": "1",
+          "explanation": "Each fluoride ion carries -1, so two of them (-2 total) are needed to balance the +2 charge of the calcium ion, giving CaF2."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Metals can be hammered into thin sheets without shattering. The best explanation using metallic bonding is that:",
+          "options": ["The ions are joined by rigid covalent bonds", "Layers of metal ions can slide while the sea of electrons keeps them held together", "Metals contain no bonds", "The electrons are fixed in place"],
+          "answer": "1",
+          "explanation": "Because the electrons are free and shared, layers of positive ions can shift past each other without breaking the bonding, making metals malleable."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How many shared pairs of electrons are there in a nitrogen molecule (N2), which contains a triple bond?",
+          "options": ["One", "Two", "Three", "Four"],
+          "answer": "2",
+          "explanation": "A triple bond is made of three shared pairs of electrons, holding the two nitrogen atoms together."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In the reaction Fe + CuSO4 -> FeSO4 + Cu, the copper ion gains electrons to become copper metal. The copper ion is therefore:",
+          "options": ["Oxidised", "Reduced", "A catalyst", "Unchanged"],
+          "answer": "1",
+          "explanation": "Gain of electrons is reduction (OIL RIG: Reduction Is Gain), so the copper ion is reduced as it becomes copper metal."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "When the equation C3H8 + O2 -> CO2 + H2O is fully balanced, the coefficients of CO2 and H2O are:",
+          "options": ["2 and 3", "3 and 4", "3 and 3", "4 and 4"],
+          "answer": "1",
+          "explanation": "Balancing C3H8 + 5O2 -> 3CO2 + 4H2O gives 3 carbon atoms (3CO2) and 8 hydrogen atoms (4H2O)."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "When water boils at 100 degrees Celsius, the temperature stays steady even as heat is added. This heat is used to:",
+          "options": ["Raise the temperature further", "Overcome the forces holding the liquid particles together so they become gas", "Create new water particles", "Slow the particles down"],
+          "answer": "1",
+          "explanation": "During boiling, the added energy goes into separating the particles (overcoming attractions), not into raising temperature, so it stays constant."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why does a smell from cooking spread across a room over time, according to the kinetic theory?",
+          "options": ["The gas particles stay still", "The fast, randomly moving gas particles mix and spread out (diffusion)", "The particles are pulled by gravity only", "The room shrinks"],
+          "answer": "1",
+          "explanation": "Gas particles move fast and randomly, spreading out and mixing with air particles by diffusion until the smell reaches across the room."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A neutral atom has the electron arrangement 2, 8, 1. Which element from a different period would you expect to have the MOST similar chemical properties?",
+          "options": ["An element with arrangement 2, 8, 8", "An element with arrangement 2, 1", "An element with arrangement 2, 8, 7", "An element with arrangement 2, 8, 2"],
+          "answer": "1",
+          "explanation": "The atom (2, 8, 1) has 1 valence electron, placing it in Group 1. The element 2, 1 also has 1 valence electron, so it shares the same group and similar properties."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A neutral atom has a maximum of 2 electrons in its first shell and 8 in its second. What is the largest atomic number an element can have while still filling only these first two shells completely?",
+          "options": ["8", "10", "12", "18"],
+          "answer": "1",
+          "explanation": "The first shell holds 2 and the second holds 8, giving 2 + 8 = 10 electrons, so neon (atomic number 10) fills exactly these two shells."
+        },
+        {
+          "topic": "Structure of the Atom",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Chlorine has two isotopes: chlorine-35 (about 75%) and chlorine-37 (about 25%). Why is the average atomic mass of chlorine listed as about 35.5?",
+          "options": ["Because all chlorine atoms have a mass of 35.5", "Because it is the weighted average of the isotope masses by their abundance", "Because protons weigh 35.5 units", "Because it is the sum of the two mass numbers"],
+          "answer": "1",
+          "explanation": "Average atomic mass is the weighted average: with more of the lighter chlorine-35, the value sits near 35.5, closer to 35."
+        },
+        {
+          "topic": "Periodic Classification of the Elements",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Element Q has the electron arrangement 2, 8, 2. To which group does it belong, and is it a metal or a non-metal?",
+          "options": ["Group 2, a metal", "Group 8, a non-metal", "Group 2, a non-metal", "Group 12, a metal"],
+          "answer": "0",
+          "explanation": "Two valence electrons place Q in Group 2; elements on the far left with few outer electrons are metals, so Q is a metal (magnesium)."
+        },
+        {
+          "topic": "Chemical Bonding and Intermolecular Forces",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Aluminium loses 3 electrons and oxygen gains 2 electrons when they bond. What is the correct formula for the ionic compound aluminium oxide?",
+          "options": ["AlO", "Al2O3", "Al3O2", "AlO2"],
+          "answer": "1",
+          "explanation": "Al(3+) and O(2-) balance when two Al ions (+6) meet three O ions (-6), giving the neutral formula Al2O3."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "In the reaction 2H2 + O2 -> 2H2O, suppose 10 molecules of H2 are mixed with 3 molecules of O2. Which gas runs out first (the limiting reactant)?",
+          "options": ["H2 runs out first", "O2 runs out first", "Both run out at the same time", "Neither runs out"],
+          "answer": "1",
+          "explanation": "The 2:1 ratio means 3 O2 can react with only 6 H2. Oxygen is used up first, leaving 4 H2 unreacted, so O2 is limiting."
+        },
+        {
+          "topic": "Chemical Reaction and Stoichiometry",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "12 g of carbon reacts completely with 32 g of oxygen to form carbon dioxide. According to the law of conservation of mass, what mass of carbon dioxide is produced?",
+          "options": ["20 g", "32 g", "44 g", "12 g"],
+          "answer": "2",
+          "explanation": "Mass is conserved, so the mass of product equals the total mass of reactants: 12 g + 32 g = 44 g of carbon dioxide."
+        },
+        {
+          "topic": "Physical States of Matter",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A sealed syringe of gas is squeezed so its volume is halved at constant temperature. What happens to the gas pressure?",
+          "options": ["It is halved", "It stays the same", "It roughly doubles", "It drops to zero"],
+          "answer": "2",
+          "explanation": "With less space, particles hit the walls more often, so pressure rises; halving the volume roughly doubles the pressure."
+        }
+      ]
+    }
+  ]
+}

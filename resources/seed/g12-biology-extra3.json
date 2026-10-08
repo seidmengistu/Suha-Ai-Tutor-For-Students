@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 12,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "Biotechnology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Cheese is made firmer when an enzyme called rennet is added to milk. Rennet works by:",
+          "options": ["Adding sugar to the milk", "Heating the milk to boiling", "Clotting (curdling) the milk proteins", "Turning the milk into oil"],
+          "answer": "2",
+          "explanation": "Rennet is an enzyme that makes milk proteins clump together (curdle), forming the solid curds used to make cheese."
+        },
+        {
+          "topic": "Biotechnology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Adding enzymes to washing powder helps clean clothes because the enzymes:",
+          "options": ["Break down stains such as fat and protein", "Make the water hotter", "Add colour to the fabric", "Stop the machine from spinning"],
+          "answer": "0",
+          "explanation": "Enzymes in biological detergents digest fat, protein, and starch stains into smaller soluble pieces that wash away easily, even at lower temperatures."
+        },
+        {
+          "topic": "Biotechnology and energy",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Biogas used for cooking in rural homes is produced when microorganisms break down animal dung and crop waste in the absence of oxygen. The main flammable gas produced is:",
+          "options": ["Oxygen", "Carbon dioxide", "Methane", "Chlorine"],
+          "answer": "2",
+          "explanation": "Anaerobic digestion of organic waste by microbes produces biogas, which is mostly methane, a fuel that can be burned for cooking and lighting."
+        },
+        {
+          "topic": "Genetic engineering reasoning",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Scientists often attach a 'marker gene' for antibiotic resistance to a plasmid alongside the useful gene. The main purpose of the marker gene is to:",
+          "options": ["Help identify which bacteria took up the plasmid", "Make the protein product taste better", "Speed up fermentation of sugar", "Destroy the useful gene"],
+          "answer": "0",
+          "explanation": "Only bacteria that took up the plasmid survive on a medium containing the antibiotic, so the marker gene lets scientists select successfully modified cells."
+        },
+        {
+          "topic": "Biotechnology reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Human insulin made by genetically engineered bacteria is generally safer for patients than insulin extracted from animal pancreases mainly because the engineered insulin:",
+          "options": ["Is much sweeter to taste", "Does not need to be injected at all", "Contains no protein", "Is exactly the human protein, so it rarely triggers an allergic reaction"],
+          "answer": "3",
+          "explanation": "Bacteria carrying the human gene make the identical human insulin protein, so it matches the body and is far less likely to cause the immune reactions sometimes seen with animal insulin."
+        },
+        {
+          "topic": "Cloning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Growing many identical plants from tiny pieces of a single parent plant in sterile nutrient jars (tissue culture) produces offspring that are:",
+          "options": ["Genetically different from each other", "A new species", "Genetically identical clones of the parent", "Unable to photosynthesise"],
+          "answer": "2",
+          "explanation": "Tissue culture is a form of asexual propagation, so all the new plants are genetic clones of the single parent, useful for mass-producing disease-free crops."
+        },
+        {
+          "topic": "Biotechnology ethics",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which of the following is a genuine CONCERN sometimes raised about genetically modified (GM) crops?",
+          "options": ["They can never be grown by farmers", "They always stop the soil from holding water", "They turn into animals over time", "Inserted genes might spread to wild relatives and reduce natural diversity"],
+          "answer": "3",
+          "explanation": "A real ecological concern is that genes from GM crops could cross into wild or weedy relatives through pollination, which may affect natural biodiversity."
+        },
+        {
+          "topic": "Microorganisms structure",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which feature is found in a typical bacterium but NEVER in a virus?",
+          "options": ["Genetic material", "A protein coat", "A small size", "A cell membrane and cytoplasm"],
+          "answer": "3",
+          "explanation": "Bacteria are true cells with a cell membrane and cytoplasm, but a virus is only genetic material in a protein coat and has no cell structures of its own."
+        },
+        {
+          "topic": "Microorganisms and food spoilage",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Salting and drying meat or fish helps preserve it for a long time because the lack of water:",
+          "options": ["Makes microbes grow faster", "Adds vitamins to the food", "Prevents microorganisms from growing and reproducing", "Cools the food down"],
+          "answer": "2",
+          "explanation": "Microbes need moisture to live and multiply; removing water by salting and drying stops them from growing, so the food spoils much more slowly."
+        },
+        {
+          "topic": "Bacterial reproduction",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Bacteria multiply very quickly by a process in which one cell simply splits into two identical cells. This is called:",
+          "options": ["Binary fission", "Meiosis", "Pollination", "Fertilisation"],
+          "answer": "0",
+          "explanation": "Binary fission is asexual reproduction where one bacterial cell copies its DNA and divides into two identical daughter cells, allowing rapid population growth."
+        },
+        {
+          "topic": "Microorganisms reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A doctor warns a patient to finish the full course of antibiotics even after feeling better. Stopping early is risky mainly because:",
+          "options": ["The leftover tablets become poisonous", "The remaining hardier bacteria may survive and multiply, some resistant", "Antibiotics turn into viruses if stopped", "The patient would never feel pain again"],
+          "answer": "1",
+          "explanation": "Stopping early can leave the most resistant bacteria alive; these survivors reproduce, so the infection can return and resistance can spread."
+        },
+        {
+          "topic": "Nitrogen and microbes",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Bacteria living in the root nodules of bean and pea plants benefit the plant by:",
+          "options": ["Eating the plant's roots", "Blocking water uptake", "Producing carbon dioxide for the leaves", "Converting nitrogen gas from the air into compounds the plant can use"],
+          "answer": "3",
+          "explanation": "Nitrogen-fixing bacteria in legume root nodules turn unusable atmospheric nitrogen into nitrogen compounds, enriching the plant and the soil."
+        },
+        {
+          "topic": "Microorganisms overview",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which statement comparing bacteria and viruses is CORRECT?",
+          "options": ["Both can reproduce on their own outside a host", "Viruses are larger and have cell walls", "Bacteria can be killed by antibiotics, but viruses cannot", "Bacteria always cause disease, viruses never do"],
+          "answer": "2",
+          "explanation": "Antibiotics target structures and processes of bacterial cells, so they kill bacteria but have no effect on viruses, which lack those cell structures."
+        },
+        {
+          "topic": "Chromosomes",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "How many chromosomes are found in a normal human body (somatic) cell?",
+          "options": ["23", "12", "46", "92"],
+          "answer": "2",
+          "explanation": "Normal human body cells contain 46 chromosomes, arranged as 23 pairs; gametes contain only 23."
+        },
+        {
+          "topic": "Genetics terms",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The full set of genes carried by an organism is known as its:",
+          "options": ["Phenotype", "Habitat", "Gamete", "Genome"],
+          "answer": "3",
+          "explanation": "The genome is the complete set of genetic material (all the genes and DNA) of an organism."
+        },
+        {
+          "topic": "Incomplete dominance",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Crossing a red-flowered plant (RR) with a white-flowered plant (WW) gives all pink-flowered offspring. This pattern, where the heterozygote is a blend, is called:",
+          "options": ["Complete dominance", "Incomplete dominance", "Co-dominance", "A test cross"],
+          "answer": "1",
+          "explanation": "In incomplete dominance neither allele fully dominates, so the heterozygote shows an intermediate (blended) phenotype, here pink."
+        },
+        {
+          "topic": "Dihybrid cross",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "When two plants that are heterozygous for two different traits (RrYy x RrYy) are crossed, the classic phenotype ratio of the offspring is:",
+          "options": ["3:1", "1:1", "1:2:1", "9:3:3:1"],
+          "answer": "3",
+          "explanation": "A dihybrid cross between two double heterozygotes produces the famous 9:3:3:1 phenotype ratio in the offspring."
+        },
+        {
+          "topic": "Blood group inheritance",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A mother with blood group O and a father with blood group AB have children. Which blood group can their children NOT have?",
+          "options": ["Group A", "Group B", "Group O", "Either A or B"],
+          "answer": "2",
+          "explanation": "The father (AB) can pass only an A or a B allele, and the mother passes O; so children are A or B, never O."
+        },
+        {
+          "topic": "Pedigree reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In a family tree, two unaffected parents have a daughter affected by a genetic condition. This strongly suggests the condition is caused by an allele that is:",
+          "options": ["Dominant", "Found only in males", "Recessive", "Not inherited at all"],
+          "answer": "2",
+          "explanation": "When unaffected parents have an affected child, both parents must be carriers of a hidden recessive allele, so the condition is recessive."
+        },
+        {
+          "topic": "Mutation reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Most random mutations in a gene are either harmful or have no effect. Yet mutation is still important for evolution because it:",
+          "options": ["Always improves an organism", "Prevents natural selection", "Stops organisms from reproducing", "Is the original source of new genetic variation"],
+          "answer": "3",
+          "explanation": "Although most mutations are neutral or harmful, mutation is the ultimate source of new alleles, providing the variation that natural selection can act upon."
+        },
+        {
+          "topic": "Genetic disorders",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Down syndrome is caused by a person having an extra copy of chromosome 21. This kind of error, where a gamete receives the wrong number of chromosomes, usually happens because of:",
+          "options": ["Eating too much sugar", "Faulty separation of chromosomes during meiosis", "Drinking cold water", "A virus infection of the brain"],
+          "answer": "1",
+          "explanation": "When chromosome 21 fails to separate properly during meiosis (non-disjunction), a gamete can carry an extra chromosome, leading to three copies in the child."
+        },
+        {
+          "topic": "Evolution mechanisms",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The scientist whose theory of inheritance of acquired characteristics (such as a giraffe stretching its neck) was later rejected was:",
+          "options": ["Charles Darwin", "Jean-Baptiste Lamarck", "Gregor Mendel", "Louis Pasteur"],
+          "answer": "1",
+          "explanation": "Lamarck proposed that traits acquired during life are passed on; this idea was rejected because changes from use or disuse do not alter the genes passed to offspring."
+        },
+        {
+          "topic": "Evolution evidence",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "The arm bone pattern of a human, a bat's wing, and a whale's flipper all share the same basic structure but do different jobs. Such structures are described as:",
+          "options": ["Analogous structures", "Vestigial organs", "Homologous structures", "Fossils"],
+          "answer": "2",
+          "explanation": "Homologous structures share a common underlying anatomy inherited from a common ancestor, even though they are now used for different functions."
+        },
+        {
+          "topic": "Selection reasoning",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A farmer keeps seeds only from the highest-yielding wheat plants each year to grow next season. Over time the crop yield improves. This deliberate process is called:",
+          "options": ["Natural selection", "Genetic drift", "Random mutation", "Artificial selection (selective breeding)"],
+          "answer": "3",
+          "explanation": "When humans choose which organisms reproduce based on desired traits, it is artificial selection (selective breeding), which gradually changes the population."
+        },
+        {
+          "topic": "Pesticide resistance",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "After a pesticide is sprayed on a field for several years, it slowly stops killing the insect pest. The best explanation is that:",
+          "options": ["The pesticide taught the insects to be tough", "The insects stopped eating the crop", "Insects that happened to carry resistance survived and passed it on", "The pesticide turned into food"],
+          "answer": "2",
+          "explanation": "A few insects with resistance alleles survive spraying and reproduce, so each generation has more resistant insects, an example of natural selection by the pesticide."
+        },
+        {
+          "topic": "Speciation reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A single population of birds is split when a wide river forms across their range. After very many generations the two groups can no longer interbreed. The river acted as a:",
+          "options": ["Source of mutations", "Predator of both groups", "Supply of food", "Geographical barrier that isolated the populations"],
+          "answer": "3",
+          "explanation": "A geographical barrier separates a population so the two groups evolve independently until they become different species, a route to speciation."
+        },
+        {
+          "topic": "Evolution overview",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which observation provides the STRONGEST direct evidence that two living species share a recent common ancestor?",
+          "options": ["They live in the same country", "They are both the same colour", "They have very similar DNA sequences", "They eat the same food"],
+          "answer": "2",
+          "explanation": "High similarity in DNA sequences is strong molecular evidence of close relationship, because closely related species inherit similar genes from a recent common ancestor."
+        },
+        {
+          "topic": "Innate behaviour",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A spider building its web, a bird migrating, and a baby sucking are all examples of behaviour that is:",
+          "options": ["Learned by copying others", "Only seen in mammals", "Caused by training", "Inborn (innate) and not taught"],
+          "answer": "3",
+          "explanation": "These complex behaviours appear correctly without being taught, so they are inborn (innate) behaviours present from birth."
+        },
+        {
+          "topic": "Migration",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Many birds fly long distances to warmer regions as winter approaches. The main survival benefit of this migration is to:",
+          "options": ["Avoid finding any food", "Get colder weather", "Reach areas with more food and better breeding conditions", "Lose their feathers"],
+          "answer": "2",
+          "explanation": "Migration lets animals move to places with more food and suitable conditions for breeding, improving survival and reproductive success."
+        },
+        {
+          "topic": "Trial and error learning",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A rat placed in a maze takes the wrong turns at first but, with practice, runs straight to the food. This improvement is an example of:",
+          "options": ["A reflex", "An instinct", "Imprinting", "Trial and error learning"],
+          "answer": "3",
+          "explanation": "The rat learns from experience, keeping the actions that lead to a reward and dropping the unsuccessful ones, which is trial and error learning."
+        },
+        {
+          "topic": "Social behaviour reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "When a meerkat acts as a lookout and gives an alarm call that warns the group of a hawk, it risks being noticed itself. This behaviour persists because it:",
+          "options": ["Harms the whole group", "Attracts more predators on purpose", "Helps relatives and the group survive, aiding shared genes", "Stops the group from reproducing"],
+          "answer": "2",
+          "explanation": "Alarm calling is altruistic social behaviour; by protecting relatives that share its genes, the caller helps those genes survive, so the behaviour is favoured."
+        },
+        {
+          "topic": "Behaviour overview",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which pairing of an example with its behaviour type is CORRECT?",
+          "options": ["A chick following its mother right after hatching - habituation", "Sneezing when dust enters the nose - learned behaviour", "Web-spinning by a spider - trial and error", "A dog learning to fetch for a reward - conditioning"],
+          "answer": "3",
+          "explanation": "Learning to fetch for a reward is conditioning (learned). Following at hatching is imprinting, sneezing is a reflex, and web-spinning is instinct."
+        },
+        {
+          "topic": "Skeletal system",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The point where two bones meet and allow movement, such as the elbow, is called a:",
+          "options": ["Tendon", "Joint", "Ligament", "Nerve"],
+          "answer": "1",
+          "explanation": "A joint is where two or more bones meet; many joints, like the elbow, allow the bones to move relative to each other."
+        },
+        {
+          "topic": "Endocrine system",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "After a meal, blood sugar rises and the pancreas releases insulin. Insulin lowers blood sugar by helping body cells to:",
+          "options": ["Stop using energy completely", "Release more glucose into the blood", "Take up glucose from the blood", "Turn glucose into bone"],
+          "answer": "2",
+          "explanation": "Insulin signals body cells (especially liver and muscle) to absorb glucose from the blood, lowering blood sugar back toward normal."
+        },
+        {
+          "topic": "Gas exchange reasoning",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Alveoli in the lungs are tiny, very numerous, and have extremely thin moist walls surrounded by capillaries. Together these features mainly increase the rate of gas exchange by providing:",
+          "options": ["A way to pump blood", "A store of digested food", "Protection against all bacteria", "A large, thin, moist surface for fast diffusion"],
+          "answer": "3",
+          "explanation": "A huge thin moist surface area next to capillaries gives a short diffusion distance and lots of contact, so oxygen and carbon dioxide are exchanged rapidly."
+        },
+        {
+          "topic": "Disease and lifestyle",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Diabetes, heart disease, and certain cancers are often called non-communicable diseases because they:",
+          "options": ["Spread from person to person by touch", "Are not passed directly from one person to another", "Are caused only by viruses", "Always disappear without treatment"],
+          "answer": "1",
+          "explanation": "Non-communicable diseases are not spread between people; they arise from factors such as lifestyle, diet, genetics, and ageing rather than infection."
+        }
+      ]
+    }
+  ]
+}

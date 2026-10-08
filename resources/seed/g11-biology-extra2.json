@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 11,
+      "subjectKey": "biology",
+      "questions": [
+        {
+          "topic": "The Science of Biology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the main reason a scientist writes down and reports the method used in an experiment?",
+          "options": [
+            "So other scientists can repeat the experiment and check the results",
+            "To make the report longer",
+            "Because the law requires it for all plants",
+            "So nobody else can ever do the same study"
+          ],
+          "answer": "0",
+          "explanation": "Reporting the method lets others repeat the work and confirm the findings, which is how science checks that results are trustworthy."
+        },
+        {
+          "topic": "The Science of Biology",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A farmer tests whether a new fertiliser increases teff yield. She treats one plot with fertiliser and leaves an identical plot untreated. The untreated plot is the:",
+          "options": [
+            "Independent variable",
+            "Dependent variable",
+            "Control group",
+            "Hypothesis"
+          ],
+          "answer": "2",
+          "explanation": "The untreated plot receives no fertiliser and acts as a standard for comparison, so it is the control group."
+        },
+        {
+          "topic": "The Science of Biology",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In a fair test on plant growth, a student keeps the soil type, pot size, and water amount the same for every pot. These factors that are kept the same are the:",
+          "options": [
+            "The independent variable",
+            "The dependent variable",
+            "The predictions",
+            "Controlled variables"
+          ],
+          "answer": "3",
+          "explanation": "Factors deliberately kept the same so they do not affect the result are the controlled variables, which make the experiment a fair test."
+        },
+        {
+          "topic": "The Science of Biology",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A student measures plant height with a ruler marked only in whole centimetres but records values like 12.37 cm. The main problem with her data is that it is:",
+          "options": [
+            "Too small to be useful",
+            "More precise than the measuring tool can actually provide",
+            "Impossible to record in a table",
+            "Automatically a fair test"
+          ],
+          "answer": "1",
+          "explanation": "An instrument cannot give readings more precise than its smallest marking, so claiming hundredths of a centimetre from a whole-centimetre ruler is false precision."
+        },
+        {
+          "topic": "The Science of Biology",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Two students get different results from the same experiment. The best first scientific step to decide who is correct is to:",
+          "options": [
+            "Choose the result that sounds nicer",
+            "Trust whoever finished first",
+            "Repeat the experiment several times and compare the averages",
+            "Abandon the question because science cannot decide"
+          ],
+          "answer": "2",
+          "explanation": "Repeating the experiment and comparing averaged results helps reveal which finding is reliable, rather than relying on opinion or speed."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A student is told a molecule has no carbon-hydrogen chains and provides ions the body needs. The molecule is best classified as:",
+          "options": [
+            "An organic protein",
+            "An organic carbohydrate",
+            "An organic lipid",
+            "An inorganic mineral salt"
+          ],
+          "answer": "3",
+          "explanation": "Lacking carbon-hydrogen chains makes a molecule inorganic, and supplying needed ions points to a mineral salt rather than an organic molecule."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which property of water allows it to carry dissolved sugars and salts through the blood and through plant sap?",
+          "options": [
+            "It contains carbon chains",
+            "It is made of amino acids",
+            "It is a good solvent",
+            "It is an organic molecule"
+          ],
+          "answer": "2",
+          "explanation": "Because water dissolves many substances, it can transport sugars, salts, and other materials around the body and through plants."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A food sample is found to be built from many amino acids joined in long chains. The sample is mainly:",
+          "options": [
+            "A carbohydrate",
+            "A lipid",
+            "A protein",
+            "A mineral salt"
+          ],
+          "answer": "2",
+          "explanation": "Amino acids are the monomers of proteins, so a molecule made of many amino acids joined together is a protein."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Gram for gram, lipids store more energy than carbohydrates. This makes lipids especially useful in the body as a:",
+          "options": [
+            "Long-term energy store that also provides insulation",
+            "Quick source of energy for sudden bursts of activity",
+            "Carrier of genetic information",
+            "Mineral needed to harden bones"
+          ],
+          "answer": "0",
+          "explanation": "Because lipids hold the most energy per gram, the body uses them for long-term energy storage and insulation, while carbohydrates give quicker energy."
+        },
+        {
+          "topic": "Biochemical Molecules",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Compared with a single glucose molecule, why is starch a better way for a potato to store energy?",
+          "options": [
+            "Starch contains no energy at all",
+            "Starch is large and insoluble, so it stays in the cell without dissolving and drawing in water",
+            "Starch is made of amino acids",
+            "Starch can leave the cell easily through the membrane"
+          ],
+          "answer": "1",
+          "explanation": "As a large insoluble polymer, starch stays inside storage cells and does not dissolve, unlike glucose which would dissolve and disturb the cell's water balance."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What name is given to the substance that an enzyme acts upon?",
+          "options": [
+            "The product",
+            "The catalyst",
+            "The substrate",
+            "The solvent"
+          ],
+          "answer": "2",
+          "explanation": "The substrate is the substance the enzyme works on; it fits the active site and is changed into the product."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why is each enzyme able to act on only one type of substrate?",
+          "options": [
+            "Enzymes are made of carbohydrate",
+            "The active site has a specific shape that fits only one substrate",
+            "Enzymes are used up after one reaction",
+            "All substrates have exactly the same shape"
+          ],
+          "answer": "1",
+          "explanation": "An enzyme is specific because the shape of its active site matches only one substrate, like a lock that fits only one key."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An enzyme speeds up a reaction without being used up. This means a single enzyme molecule can:",
+          "options": [
+            "Only ever work once",
+            "Be used again and again on many substrate molecules",
+            "Turn permanently into the product",
+            "Work only at zero degrees Celsius"
+          ],
+          "answer": "1",
+          "explanation": "As a catalyst, the enzyme is not changed by the reaction, so the same molecule can act on substrate after substrate."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An enzyme reaction is run at pH 5, 7, and 9, and works fastest at pH 7. At pH 9 the rate falls sharply. The best reason is that:",
+          "options": [
+            "A pH far from the optimum changes the shape of the active site",
+            "The substrate was completely used up at pH 9",
+            "Enzymes always prefer alkaline conditions",
+            "pH has no real effect on enzymes"
+          ],
+          "answer": "0",
+          "explanation": "Moving far from the optimum pH alters the active site's shape so the substrate no longer fits, sharply lowering the reaction rate."
+        },
+        {
+          "topic": "Enzymes",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Raising the temperature from 20 to 35 degrees Celsius speeds up an enzyme, but raising it further from 35 to 55 slows it down. The best explanation for the whole pattern is that:",
+          "options": [
+            "Higher temperature always speeds up enzymes without limit",
+            "The enzyme turned into its substrate",
+            "Cold denatured the enzyme at 35 degrees",
+            "Faster molecular movement increases the rate up to the optimum, then heat denatures the enzyme above it"
+          ],
+          "answer": "3",
+          "explanation": "Warming increases collisions and raises the rate up to the optimum, but beyond it the heat destroys the enzyme's shape (denaturation), so the rate falls."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which organelle is found in plant cells and uses light to make food?",
+          "options": [
+            "Mitochondrion",
+            "Ribosome",
+            "Nucleus",
+            "Chloroplast"
+          ],
+          "answer": "3",
+          "explanation": "Chloroplasts are found in plant cells and carry out photosynthesis, using light energy to make food."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which list contains structures present in BOTH plant and animal cells?",
+          "options": [
+            "Cell wall, chloroplast, large vacuole",
+            "Nucleus, cytoplasm, cell membrane",
+            "Chloroplast, cell wall, ribosome",
+            "Large vacuole, chloroplast, mitochondrion"
+          ],
+          "answer": "1",
+          "explanation": "Nucleus, cytoplasm, and cell membrane are common to both cell types, while cell walls, chloroplasts, and large vacuoles are found only in plant cells."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which statement about a ribosome is correct?",
+          "options": [
+            "It builds proteins for the cell",
+            "It controls what enters the cell",
+            "It carries out photosynthesis",
+            "It stores the cell's DNA"
+          ],
+          "answer": "0",
+          "explanation": "Ribosomes are the organelles that build proteins; the membrane controls entry, chloroplasts photosynthesise, and the nucleus stores DNA."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A plant cell loses water and its contents shrink away from the cell wall, yet the cell keeps its overall shape. Which structure best explains why the cell does not fully collapse?",
+          "options": [
+            "The rigid cell wall",
+            "The ribosomes",
+            "The nucleus",
+            "The chloroplasts"
+          ],
+          "answer": "0",
+          "explanation": "The rigid cell wall surrounds the cell and keeps its outer shape even when the contents shrink after losing water."
+        },
+        {
+          "topic": "Cell Biology",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Sperm cells must swim long distances and have many mitochondria packed near the base of the tail. The most likely reason for the many mitochondria is to:",
+          "options": [
+            "Store the cell's DNA",
+            "Carry out photosynthesis for the cell",
+            "Release plenty of energy by respiration to power swimming",
+            "Make the cell wall stronger"
+          ],
+          "answer": "2",
+          "explanation": "Mitochondria release energy through respiration, so many of them near the tail supply the energy the sperm needs to keep swimming."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which gas is taken in by a plant during photosynthesis?",
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Hydrogen"
+          ],
+          "answer": "2",
+          "explanation": "In photosynthesis a plant takes in carbon dioxide and water and, using light, makes glucose and releases oxygen."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why does aerobic respiration release more energy from glucose than anaerobic respiration?",
+          "options": [
+            "Anaerobic respiration uses extra oxygen",
+            "Oxygen allows glucose to be broken down completely",
+            "Aerobic respiration happens in the chloroplast",
+            "Anaerobic respiration makes more water"
+          ],
+          "answer": "1",
+          "explanation": "With oxygen, glucose is broken down completely so all its stored energy is released; without oxygen it is only partly broken down, releasing less."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "An athlete's leg muscles begin to ache during a hard sprint when oxygen runs short. The ache is caused by the build-up of:",
+          "options": [
+            "Ethanol",
+            "Lactic acid",
+            "Glucose",
+            "Chlorophyll"
+          ],
+          "answer": "1",
+          "explanation": "When oxygen is limited, human muscle cells respire anaerobically and produce lactic acid, which causes the aching feeling."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Photosynthesis and aerobic respiration are often described as opposite processes. Which gas is released by photosynthesis but used up by respiration?",
+          "options": [
+            "Nitrogen",
+            "Carbon dioxide",
+            "Hydrogen",
+            "Oxygen"
+          ],
+          "answer": "3",
+          "explanation": "Photosynthesis releases oxygen as a product, while aerobic respiration uses oxygen up, which is one way the two processes are opposite."
+        },
+        {
+          "topic": "Energy Transformation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "At night a leaf gives out carbon dioxide and takes in oxygen overall. The best explanation is that:",
+          "options": [
+            "With no light, photosynthesis stops but respiration continues, so the net exchange is carbon dioxide out",
+            "The leaf only photosynthesises at night",
+            "Leaves never respire",
+            "Carbon dioxide and oxygen are the same gas"
+          ],
+          "answer": "0",
+          "explanation": "Photosynthesis needs light and stops in the dark, but respiration continues all the time, so at night the leaf's net gas exchange is releasing carbon dioxide."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In guinea pigs, black fur (B) is dominant over white fur (b). Which genotype produces a white guinea pig?",
+          "options": [
+            "BB",
+            "Bb",
+            "bb",
+            "Any genotype with a B"
+          ],
+          "answer": "2",
+          "explanation": "White is the recessive trait, so it appears only when both alleles are recessive (bb); any B allele would make the fur black."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "An organism whose two alleles for a gene are different, such as Tt, is described as:",
+          "options": [
+            "Heterozygous for that gene",
+            "Homozygous for that gene",
+            "Always recessive",
+            "A new species"
+          ],
+          "answer": "0",
+          "explanation": "Heterozygous means the two alleles are different (Tt); homozygous means they are the same (TT or tt)."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A round-seeded pea plant is crossed with a wrinkled-seeded plant (rr), and about half the offspring are round and half wrinkled. The genotype of the round parent is most likely:",
+          "options": [
+            "RR",
+            "Rr",
+            "rr",
+            "It cannot have any R allele"
+          ],
+          "answer": "1",
+          "explanation": "A 1:1 ratio of round to wrinkled offspring from a cross with rr means the round parent must be heterozygous (Rr), passing R to half and r to half."
+        },
+        {
+          "topic": "Genetics",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Two heterozygous tall pea plants (Tt) are crossed. Using a Punnett square, what fraction of the offspring are expected to be short (tt)?",
+          "options": [
+            "All of them",
+            "Three quarters",
+            "One half",
+            "One quarter"
+          ],
+          "answer": "3",
+          "explanation": "A Tt x Tt cross gives 1 TT : 2 Tt : 1 tt, so one quarter of the offspring are short (tt)."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Within a single species, the small differences between individuals (such as height or colour) are called:",
+          "options": [
+            "Variation",
+            "Respiration",
+            "Digestion",
+            "Photosynthesis"
+          ],
+          "answer": "0",
+          "explanation": "Variation is the natural difference between individuals of the same species, and it is the raw material on which natural selection acts."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In Darwin's theory, the phrase survival of the fittest means the individuals most likely to survive and reproduce are those that are:",
+          "options": [
+            "The physically strongest in every case",
+            "Best suited to their particular environment",
+            "The largest in body size",
+            "The fastest runners only"
+          ],
+          "answer": "1",
+          "explanation": "Fittest means best adapted to the environment, which is not always the strongest, largest, or fastest individual."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Fossils show simpler animal forms in deeper, older rock layers and more complex forms in higher, younger layers. This pattern is used as evidence that:",
+          "options": [
+            "All species appeared at exactly the same time",
+            "Rocks create living animals",
+            "Older animals were always larger",
+            "Species have gradually changed over long periods of time"
+          ],
+          "answer": "3",
+          "explanation": "Finding a sequence of changing forms through rock layers of different ages supports the idea that species have changed gradually over time."
+        },
+        {
+          "topic": "Evolution",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A pesticide is sprayed on insects for several years and eventually most survive it. Which statement best explains this using natural selection?",
+          "options": [
+            "Every insect deliberately built up resistance to survive",
+            "The pesticide added a resistance gene to each insect",
+            "A few insects already carried a resistance allele, survived the spraying, and passed it on so resistance spread",
+            "Insects stopped breeding once spraying began"
+          ],
+          "answer": "2",
+          "explanation": "Resistance arises from existing variation: the few resistant insects survive and reproduce, so the resistance allele becomes more common over generations."
+        },
+        {
+          "topic": "Human Biology and Health",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which body system breaks down food into small molecules that the body can absorb?",
+          "options": [
+            "The digestive system",
+            "The nervous system",
+            "The skeletal system",
+            "The respiratory system"
+          ],
+          "answer": "0",
+          "explanation": "The digestive system breaks food down into small soluble molecules, such as glucose, that can be absorbed into the blood."
+        },
+        {
+          "topic": "Human Biology and Health",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Why does breathing in oxygen actually help release energy inside the body's cells?",
+          "options": [
+            "Oxygen is burned in the lungs to make heat directly",
+            "Oxygen is digested in the stomach into glucose",
+            "Oxygen makes the heart stop so energy is saved",
+            "Oxygen is carried by the blood to cells, where it is used in aerobic respiration to release energy from glucose"
+          ],
+          "answer": "3",
+          "explanation": "Oxygen taken in by the lungs is transported by the blood to cells, where aerobic respiration uses it to release energy from glucose."
+        },
+        {
+          "topic": "Human Biology and Health",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A person with severe diarrhoea is given clean water mixed with sugar and salt. The best reason this treatment helps is that it:",
+          "options": [
+            "Cures the infection instantly by killing all bacteria",
+            "Provides genetic material to repair cells",
+            "Stops the person from ever respiring",
+            "Replaces lost water and salts so the body's balance is restored"
+          ],
+          "answer": "3",
+          "explanation": "Diarrhoea causes loss of water and dissolved salts; an oral rehydration drink of water, sugar, and salt replaces them and helps restore the body's balance."
+        }
+      ]
+    }
+  ]
+}

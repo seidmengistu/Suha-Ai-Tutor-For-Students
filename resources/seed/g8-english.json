@@ -1,0 +1,1275 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 8,
+      "subjectKey": "english",
+      "chapters": [
+        {
+          "title": "Unit 1: Plans",
+          "description": "Talk and write about study plans and future plans using 'going to', the simple present, conditional type 1 and the simple future.",
+          "lessons": [
+            {
+              "title": "Making Plans: 'going to', Simple Present, Conditionals and the Future",
+              "summary": "Learn how to talk about plans, intentions and predictions using 'going to', the simple present tense, the simple future and the first conditional. You will also build vocabulary about planning.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Every successful student needs a **plan**. A plan tells you what to do, when to do it and how to do it. In this unit we read about Halima's study plan and Aman's future plans.\n\nWhen we talk about plans we talk about the **future** (a time that has not happened yet). English has several ways to talk about the future. In this lesson you will learn the most useful ones:\n\n- **'going to'** for intentions and predictions\n- the **simple present** for habits and timetables\n- the **simple future** (*will / shall*) for offers and predictions\n- the **first conditional** (*If... will...*) for things that are likely to happen."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Objectives",
+                  "body": "By the end of this lesson you will be able to:\n\n- Use **'going to'** to talk about plans and predictions.\n- Use the **simple present tense** for habits and general truths.\n- Use **will / shall** (simple future) correctly.\n- Make **first conditional** sentences (*If + present, ... will + verb*).\n- Use new vocabulary about planning, such as *schedule*, *goal* and *prioritise*."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Grammar Rules",
+                  "body": "**1. 'going to' (be + going to + verb)**\nWe use **'going to'** when we have already decided to do something, but have not fixed all the details. It shows an **intention**.\n- I **am going to study** English tonight.\n- She **is going to visit** her grandmother.\n- They **are going to plant** trees on Saturday.\n\nWe also use **'going to'** for a **prediction** when we can see something is about to happen.\n- Look at those clouds! It **is going to rain**.\n\n**2. Simple Present Tense**\nWe use the **simple present** for:\n- **Habits / repeated actions:** I **study** every evening.\n- **General truths:** The sun **rises** in the east.\n- **Timetables:** The class **starts** at 8:00.\n\nRemember: add **-s** (or **-es**) to the verb with *he, she, it*.\n- He **reads** a book. / She **goes** to school.\n\n**3. Simple Future (will / shall)**\nWe use **will** for predictions, decisions made at the moment of speaking, offers and promises.\n- I think Ethiopia **will win** the race.\n- I **will help** you carry that bag. (offer)\nWe sometimes use **shall** with *I* and *we* for offers and suggestions.\n- **Shall** we go home now?\n\n**4. First Conditional (probable condition)**\nWe use the **first conditional** for a future action that is **likely** if a condition is true. It has two parts:\n- **If-clause:** *If* + **simple present**\n- **Main clause:** *will* + **base verb**\n\n- **If I study hard, I will pass** the exam.\n- **She will be** happy **if she gets** good results.\n\n**Comma rule:** Put a comma after the if-clause only when it comes first.",
+                  "glossary": [
+                    {
+                      "term": "intention",
+                      "definition": "A plan or decision to do something."
+                    },
+                    {
+                      "term": "prediction",
+                      "definition": "A statement about what you think will happen in the future."
+                    },
+                    {
+                      "term": "if-clause",
+                      "definition": "The part of a conditional sentence that begins with 'if' and gives the condition."
+                    },
+                    {
+                      "term": "main clause",
+                      "definition": "The part of a conditional sentence that shows the result."
+                    }
+                  ]
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Halima is writing about her plans. Read how she uses each grammar point:\n\n> \"My name is Halima. I **am going to develop** an effective study plan. *(intention — 'going to')*\n> From Monday to Friday, I **attend** classes and **do** my homework. *(habit — simple present)*\n> **If I study hard, I will pass** my Grade 8 exam. *(first conditional)*\n> I think I **will get** good results this year.\" *(prediction — will)*\n\n**How to build a first conditional, step by step:**\n1. Choose the condition: *I revise every day.*\n2. Make it the if-clause in the present: **If I revise every day,**\n3. Add the result with *will*: **...I will understand the lessons.**\n\nFinished sentence: **If I revise every day, I will understand the lessons.**"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "Avoid these common ESL mistakes:\n\n- **Will in the if-clause.**\n  - Wrong: *If I will study, I will pass.*\n  - Right: **If I study, I will pass.** (Use the present tense after *if*.)\n\n- **Forgetting -s in the simple present.**\n  - Wrong: *She go to school.*\n  - Right: **She goes to school.**\n\n- **Using 'to' twice with 'going to'.**\n  - Wrong: *I am going to to study.*\n  - Right: **I am going to study.**\n\n- **Missing the verb 'be' with 'going to'.**\n  - Wrong: *I going to help my family.*\n  - Right: **I am going to help my family.**\n\n- **Wrong comma.**\n  - Wrong: *I will pass, if I work hard.*\n  - Right: **I will pass if I work hard.** (No comma when the if-clause is second.)"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **'If' island has no future.** After the word *if* there is no *will* — only present tense. Picture *will* not being allowed onto the 'if' island.\n- **'going to' = already in my head.** I have already decided in my head, so I say *going to*.\n- **He / She / It → add S.** Just remember the short rhyme: *\"He, she, it — add an S to it.\"*\n- **WILL = WIsh + wiLL** to remember *will* shows decisions, offers and predictions made now."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Choose or complete the correct form. Answers are below.\n\n1. Complete with the simple present: A baby ____ (cry) when it is hungry.\n2. Complete with 'going to': Look at the sky! It ____ (rain).\n3. Make a first conditional: If you ____ (eat) fruits and vegetables, you ____ (be) healthier.\n4. Choose: *If I come late to class, I (will ask / ask) to be excused.*\n5. Complete with will/shall: ____ we go home now?\n\n**Answers:**\n1. **cries**\n2. **is going to rain**\n3. **eat / will be** → *If you eat fruits and vegetables, you will be healthier.*\n4. **will ask** → *If I come late to class, I will ask to be excused.*\n5. **Shall**"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **'going to'** shows intentions and predictions: *I am going to study.*\n- **Simple present** shows habits, truths and timetables: *She studies every day.*\n- **Will / shall** show predictions, offers and decisions made now: *I will help you.*\n- **First conditional:** *If* + present, ... *will* + verb: *If I study, I will pass.*\n- After **if**, never use *will* — use the present tense.\n- Add **-s** to the verb with *he, she, it* in the simple present."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "These words come from the unit's reading texts about plans.",
+                  "glossary": [
+                    {
+                      "term": "schedule",
+                      "definition": "A plan that lists times for activities; a timetable."
+                    },
+                    {
+                      "term": "goal",
+                      "definition": "Something you want to achieve."
+                    },
+                    {
+                      "term": "prioritise",
+                      "definition": "To put the most important things first."
+                    },
+                    {
+                      "term": "endeavour",
+                      "definition": "A serious effort or attempt to do something."
+                    },
+                    {
+                      "term": "realistic",
+                      "definition": "Sensible and possible in real life; not impossible."
+                    },
+                    {
+                      "term": "allocate",
+                      "definition": "To give time, money or things for a special purpose."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "When do we use 'going to'?",
+                  "back": "For intentions we have already decided on, and for predictions: 'I am going to study.' / 'It is going to rain.'"
+                },
+                {
+                  "front": "What is the rule for the first conditional?",
+                  "back": "If + simple present, ... will + base verb. Example: If I study, I will pass."
+                },
+                {
+                  "front": "Can we use 'will' after 'if'?",
+                  "back": "No. After 'if' we use the present tense. Wrong: If I will study. Right: If I study."
+                },
+                {
+                  "front": "What ending do we add to the verb with he/she/it in the simple present?",
+                  "back": "We add -s or -es. Example: He reads. / She goes."
+                },
+                {
+                  "front": "What does 'prioritise' mean?",
+                  "back": "To put the most important things first."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Simple present tense",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": [
+                "The earth rotate around the sun.",
+                "The earth rotates around the sun.",
+                "The earth rotating around the sun.",
+                "The earth are rotate around the sun."
+              ],
+              "answer": "1",
+              "explanation": "'The earth' is third person singular (it), so the verb takes -s: rotates. This is a general truth, so we use the simple present."
+            },
+            {
+              "topic": "going to (future)",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Look at those dark clouds! It ____ rain.",
+              "options": [
+                "is going to",
+                "going to",
+                "go to",
+                "are going to"
+              ],
+              "answer": "0",
+              "explanation": "We use 'be + going to' for a prediction based on what we can see. 'It' takes 'is', so the answer is 'is going to'."
+            },
+            {
+              "topic": "First conditional",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct first conditional sentence.",
+              "options": [
+                "If I will study hard, I will pass.",
+                "If I study hard, I pass.",
+                "If I study hard, I will pass.",
+                "If I studied hard, I will pass."
+              ],
+              "answer": "2",
+              "explanation": "The first conditional is 'If + present, ... will + verb'. We never use 'will' in the if-clause, so 'If I study hard, I will pass' is correct."
+            },
+            {
+              "topic": "Simple future (will/shall)",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which sentence uses 'shall' correctly to make a suggestion?",
+              "options": [
+                "He shall go home.",
+                "Shall we go home now?",
+                "They shall studying.",
+                "She shall to help me."
+              ],
+              "answer": "1",
+              "explanation": "We use 'shall' with 'I' and 'we' to make offers or suggestions in questions: 'Shall we go home now?'"
+            },
+            {
+              "topic": "Vocabulary",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "In a study plan, to 'prioritise' your subjects means to:",
+              "options": [
+                "study all subjects at the same time",
+                "put the most important subjects first",
+                "forget the difficult subjects",
+                "study only on weekends"
+              ],
+              "answer": "1",
+              "explanation": "'Prioritise' means to put the most important things first, so you deal with them before less important ones."
+            },
+            {
+              "topic": "Conditional and future (mixed)",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Complete: 'Unless I master all my subjects, it ____ difficult to score the highest grades.' Choose the best option.",
+              "options": [
+                "will be",
+                "is being",
+                "was",
+                "be"
+              ],
+              "answer": "0",
+              "explanation": "This is a conditional idea about the future. 'Unless' means 'if... not', so the result clause uses the simple future 'will be': 'Unless I master all my subjects, it will be difficult...'"
+            }
+          ]
+        },
+        {
+          "title": "Unit 2: The City and the Countryside",
+          "description": "Compare city and countryside life and describe facilities using comparative and superlative adjectives.",
+          "lessons": [
+            {
+              "title": "Comparing Places: Comparative and Superlative Adjectives",
+              "summary": "Learn how to compare two or more things using comparative and superlative adjectives, and use connectors of contrast to compare the city and the countryside.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Some people live in a big **city** like Addis Ababa, Adama or Bahir Dar. Others live in the **countryside** (the rural areas) where there are farms, rivers and quiet fields.\n\nWhen we want to say how two places are different, we **compare** them. To compare, we use special forms of adjectives called **comparatives** and **superlatives**.\n\n- The city is **busier than** the countryside. *(comparative)*\n- Addis Ababa is **the biggest** city in Ethiopia. *(superlative)*"
+                },
+                {
+                  "type": "objectives",
+                  "title": "Objectives",
+                  "body": "By the end of this lesson you will be able to:\n\n- Form **comparative adjectives** (with *-er* or *more*).\n- Form **superlative adjectives** (with *-est* or *most*).\n- Use **than** correctly in comparisons.\n- Use **the** before superlatives.\n- Use connectors of contrast such as *but*, *whereas* and *while*."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Grammar Rules",
+                  "body": "An **adjective** is a word that describes a noun (*big*, *quiet*, *beautiful*).\n\n**1. Comparative adjectives** compare **two** things. We usually add **than**.\n\n- **Short adjectives (one syllable):** add **-er**.\n  - cheap → **cheaper**, big → **bigger** (double the final consonant), fast → **faster**\n  - The countryside is **cheaper than** the city.\n- **Adjectives ending in -y:** change *y* to *i* and add *-er*.\n  - busy → **busier**, easy → **easier**\n- **Long adjectives (two or more syllables):** use **more**.\n  - expensive → **more expensive**, beautiful → **more beautiful**\n  - Life in the city is **more expensive than** life in the countryside.\n\n**2. Superlative adjectives** compare **three or more** things, or one thing with all others. We use **the**.\n\n- **Short adjectives:** add **-est**.\n  - cheap → **the cheapest**, big → **the biggest**\n- **Adjectives ending in -y:** change *y* to *i* and add *-est*.\n  - busy → **the busiest**\n- **Long adjectives:** use **the most**.\n  - expensive → **the most expensive**\n  - Addis Ababa is **the most crowded** city I know.\n\n**3. Irregular adjectives** do not follow the rules. Learn them by heart:\n- good → **better** → **the best**\n- bad → **worse** → **the worst**\n- far → **farther/further** → **the farthest/furthest**\n\n**4. Connectors of contrast** join two opposite ideas:\n- The city is noisy, **but** the countryside is quiet.\n- The city has factories, **whereas** the countryside has farms.\n- City air is polluted, **while** country air is fresh.",
+                  "glossary": [
+                    {
+                      "term": "adjective",
+                      "definition": "A word that describes a noun, for example 'big' or 'quiet'."
+                    },
+                    {
+                      "term": "comparative",
+                      "definition": "The form of an adjective used to compare two things (e.g. bigger, more beautiful)."
+                    },
+                    {
+                      "term": "superlative",
+                      "definition": "The form of an adjective used to compare three or more things (e.g. biggest, most beautiful)."
+                    },
+                    {
+                      "term": "syllable",
+                      "definition": "A part of a word with one vowel sound, e.g. 'cheap' has one syllable and 'ex-pen-sive' has three."
+                    }
+                  ]
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us compare the city and the countryside step by step.\n\n**Adjective: quiet (two syllables, but treated as short — both forms used; we follow the textbook and use 'quieter').**\n- Comparative: The countryside is **quieter than** the city.\n- Superlative: My village is **the quietest** place I know.\n\n**Adjective: expensive (long adjective).**\n1. It is long, so use **more / the most**.\n2. Comparative: The city is **more expensive than** the countryside.\n3. Superlative: That hotel is **the most expensive** in the town.\n\n**A short paragraph using comparison and contrast:**\n> Life in the city and life in the countryside are very different. The city is **bigger** and **busier than** the countryside, **but** it is also **more expensive**. The countryside has **the freshest** air and **the most beautiful** scenery, **whereas** the city has more hospitals, schools and shops. For me, the countryside is **better** because it is **quieter**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Using 'more' and '-er' together (double comparative).**\n  - Wrong: *The city is more bigger.*\n  - Right: **The city is bigger.**\n\n- **Using 'than' wrongly or writing 'then'.**\n  - Wrong: *The city is busier then the village.*\n  - Right: **The city is busier than the village.**\n\n- **Forgetting 'the' before a superlative.**\n  - Wrong: *Addis Ababa is biggest city.*\n  - Right: **Addis Ababa is the biggest city.**\n\n- **Using -er with long adjectives.**\n  - Wrong: *more beautifuller*, *expensiver*\n  - Right: **more beautiful**, **more expensive**\n\n- **Forgetting to double the consonant.**\n  - Wrong: *biger*, *hoter*\n  - Right: **bigger**, **hotter**"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Short word, short ending (-er / -est). Long word, long word (more / most).** Count the syllables first.\n- **'than' has an A, like 'compAre'.** Use *than* (not *then*) to compare. *Then* is about time.\n- **Superlatives are the champions, so they take 'the'.** There is only one best, one biggest — so we say *the best*, *the biggest*.\n- **Good, better, best — never let it rest!** A simple rhyme for the most common irregular adjective."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Write the correct form. Answers are below.\n\n1. (cheap) The countryside is ____ than the city.\n2. (beautiful) The Simien Mountains are ____ place in Ethiopia. *(use the superlative)*\n3. (busy) Addis Ababa is ____ than my village.\n4. (good) The weather today is ____ than yesterday.\n5. Join with a connector: City air is polluted. Country air is fresh. *(use 'whereas')*\n\n**Answers:**\n1. **cheaper**\n2. **the most beautiful**\n3. **busier**\n4. **better**\n5. **City air is polluted, whereas country air is fresh.**"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- Use **comparatives** to compare **two** things; use **superlatives** for **three or more**.\n- **Short adjectives:** add **-er** / **-est** (big → bigger → the biggest).\n- **Long adjectives:** use **more** / **the most** (expensive → more expensive → the most expensive).\n- Use **than** with comparatives and **the** with superlatives.\n- Learn irregular forms: **good–better–best**, **bad–worse–worst**.\n- Use **but, whereas, while** to show contrast."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Useful words for describing the city and the countryside.",
+                  "glossary": [
+                    {
+                      "term": "facilities",
+                      "definition": "Buildings, services or equipment provided for people, such as hospitals, schools and roads."
+                    },
+                    {
+                      "term": "pollution",
+                      "definition": "Dirty or harmful substances in the air, water or land."
+                    },
+                    {
+                      "term": "scenery",
+                      "definition": "The natural features of an area, such as mountains, rivers and fields, that are nice to look at."
+                    },
+                    {
+                      "term": "crowded",
+                      "definition": "Full of many people."
+                    },
+                    {
+                      "term": "rural",
+                      "definition": "Connected with the countryside, not the town."
+                    },
+                    {
+                      "term": "urban",
+                      "definition": "Connected with a town or city."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "How do we form the comparative of a short adjective like 'big'?",
+                  "back": "Add -er (and double the final consonant if needed): big → bigger. Use 'than': bigger than."
+                },
+                {
+                  "front": "How do we form the comparative of a long adjective like 'expensive'?",
+                  "back": "Use 'more': more expensive than. Do not add -er."
+                },
+                {
+                  "front": "What word always comes before a superlative adjective?",
+                  "back": "'the': the biggest, the most beautiful."
+                },
+                {
+                  "front": "Give the three forms of 'good'.",
+                  "back": "good → better → the best (irregular)."
+                },
+                {
+                  "front": "Which connector shows contrast: 'The city is noisy ____ the village is quiet.'",
+                  "back": "whereas (or while / but): The city is noisy, whereas the village is quiet."
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Comparative adjectives",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct comparative: 'The countryside is ____ than the city.'",
+              "options": [
+                "more quiet",
+                "quieter",
+                "quietest",
+                "more quieter"
+              ],
+              "answer": "1",
+              "explanation": "'Quiet' is treated as a short adjective, so we add -er: quieter. We use 'than' to compare two places."
+            },
+            {
+              "topic": "Superlative adjectives",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": [
+                "Addis Ababa is biggest city in Ethiopia.",
+                "Addis Ababa is the bigger city in Ethiopia.",
+                "Addis Ababa is the biggest city in Ethiopia.",
+                "Addis Ababa is most big city in Ethiopia."
+              ],
+              "answer": "2",
+              "explanation": "'Big' is a short adjective, so the superlative is 'biggest', and superlatives always take 'the': the biggest city."
+            },
+            {
+              "topic": "Long adjectives",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Complete: 'Life in the city is ____ than in the countryside.'",
+              "options": [
+                "expensiver",
+                "more expensive",
+                "most expensive",
+                "more expensiver"
+              ],
+              "answer": "1",
+              "explanation": "'Expensive' is a long adjective (three syllables), so we use 'more expensive', not '-er'."
+            },
+            {
+              "topic": "Irregular adjectives",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "What is the superlative form of 'good'?",
+              "options": [
+                "goodest",
+                "more good",
+                "the best",
+                "the goodest"
+              ],
+              "answer": "2",
+              "explanation": "'Good' is irregular: good → better → the best."
+            },
+            {
+              "topic": "Connectors of contrast",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Choose the best connector: 'The city has many factories, ____ the countryside has farms.'",
+              "options": [
+                "because",
+                "whereas",
+                "so",
+                "therefore"
+              ],
+              "answer": "1",
+              "explanation": "'Whereas' shows a contrast between two different ideas. 'Because', 'so' and 'therefore' show reason or result, not contrast."
+            },
+            {
+              "topic": "Comparatives and superlatives (mixed)",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which sentence is grammatically correct?",
+              "options": [
+                "The Simien Mountains have the most beautiful scenery in Ethiopia.",
+                "The Simien Mountains have most beautiful scenery in Ethiopia.",
+                "The Simien Mountains have more beautifuller scenery in Ethiopia.",
+                "The Simien Mountains have beautifulest scenery in Ethiopia."
+              ],
+              "answer": "0",
+              "explanation": "'Beautiful' is a long adjective, so the superlative is 'the most beautiful'. Superlatives take 'the', and we never combine 'more' with '-er/-est'."
+            }
+          ]
+        },
+        {
+          "title": "Unit 3: Sports",
+          "description": "Talk about types of sports and Ethiopian athletes using the past simple tense and adverbs of manner.",
+          "lessons": [
+            {
+              "title": "Talking About Sports: The Past Simple and Adverbs of Manner",
+              "summary": "Learn to describe past events, such as a famous race, using the past simple tense, and describe how actions are done using adverbs of manner.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Ethiopia is famous all over the world for **sports**, especially long-distance running. Great athletes like **Abebe Bikila**, **Haile Gebrselassie**, **Derartu Tulu** and **Tirunesh Dibaba** have won many gold medals.\n\nWhen we tell the story of a race that has already finished, we use the **past simple tense**. When we say *how* an athlete ran, we use an **adverb of manner** (for example, *quickly* or *bravely*)."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Objectives",
+                  "body": "By the end of this lesson you will be able to:\n\n- Form the **past simple** of regular and irregular verbs.\n- Make **negatives** and **questions** in the past simple with *did*.\n- Form and use **adverbs of manner** (often *adjective + -ly*).\n- Talk about famous Ethiopian athletes and sporting events."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Grammar Rules",
+                  "body": "**1. Past Simple Tense** — for finished actions in the past.\n\n- **Regular verbs:** add **-ed**.\n  - play → **played**, watch → **watched**, finish → **finished**\n  - Abebe Bikila **played** football as a boy.\n- **Spelling notes:** \n  - verb ending in *-e*: add only *-d* (*love → loved*)\n  - verb ending in consonant + *-y*: change *y* to *i* (*carry → carried*)\n  - short verb ending in one vowel + one consonant: double the consonant (*stop → stopped*)\n- **Irregular verbs:** these do not add -ed. You must learn them.\n  - run → **ran**, win → **won**, go → **went**, become → **became**, beat → **beat**\n  - Derartu Tulu **won** the gold medal in 1992.\n\n**2. Negatives and Questions** use **did** + the base verb (no -ed).\n- Negative: She **did not (didn't) win** the silver medal. She won gold.\n- Question: **Did** Ethiopia **win** the marathon?\n- Wh-question: **When did** Abebe Bikila run barefoot?\n\n**3. Adverbs of Manner** tell us **how** an action is done. They usually come after the verb or object.\n\n- Most are made by **adjective + -ly**: quick → **quickly**, slow → **slowly**, brave → **bravely**.\n  - The runner finished the race **quickly**.\n- Spelling: adjective ending in *-y* → change to *-ily* (*happy → happily*); *-le* → *-ly* (*gentle → gently*).\n- **Irregular adverbs:** good → **well**, fast → **fast**, hard → **hard**.\n  - She plays football **well**. (NOT *goodly*)",
+                  "glossary": [
+                    {
+                      "term": "past simple",
+                      "definition": "The tense used for actions that started and finished in the past."
+                    },
+                    {
+                      "term": "regular verb",
+                      "definition": "A verb that forms its past tense by adding -ed (e.g. play → played)."
+                    },
+                    {
+                      "term": "irregular verb",
+                      "definition": "A verb that does not add -ed in the past tense (e.g. run → ran)."
+                    },
+                    {
+                      "term": "adverb of manner",
+                      "definition": "A word that describes how an action is done, often ending in -ly (e.g. quickly)."
+                    }
+                  ]
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Read this short story about a famous Ethiopian victory and notice the past simple and the adverbs of manner.\n\n> In 1960, **Abebe Bikila ran** the marathon in Rome. Surprisingly, he **ran barefoot** and still **won** the gold medal. He **finished** the race very **quickly** and **made** history as the first African to win an Olympic gold medal. Ethiopians **celebrated** the victory **joyfully**.\n\n**Building a past simple question, step by step:**\n1. Start with *did*: **Did**\n2. Add the subject: **Did Abebe**\n3. Add the base verb (no -ed): **Did Abebe win...?**\n\nFinished question: **Did Abebe win the gold medal?** — Yes, he **did**.\n\n**Making an adverb of manner:** brave (adjective) → **bravely** (adverb). *The athletes competed **bravely**.*"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Using -ed AND did together.**\n  - Wrong: *Did she won the race?*\n  - Right: **Did she win the race?** (After *did*, use the base verb.)\n\n- **Adding -ed to irregular verbs.**\n  - Wrong: *He runned fast.* / *She winned.*\n  - Right: **He ran fast.** / **She won.**\n\n- **Using an adjective instead of an adverb.**\n  - Wrong: *He runs quick.*\n  - Right: **He runs quickly.**\n\n- **Saying 'goodly'.**\n  - Wrong: *She plays goodly.*\n  - Right: **She plays well.**\n\n- **Wrong negative form.**\n  - Wrong: *She not won the medal.*\n  - Right: **She did not win the medal.**"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **After 'did', the verb is naked (no -ed).** Once *did* shows the past, the main verb drops its ending: *Did she **win**?*\n- **Adjective describes a thing; adverb describes an action.** A *quick* runner runs *quickly*.\n- **Most adverbs of manner wear an -ly hat.** quick → quickly, slow → slowly.\n- **Three trouble-makers:** *fast*, *hard* and *well* — don't add -ly the usual way (fast stays *fast*; good becomes *well*)."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Complete each sentence. Answers are below.\n\n1. (win — past) Tirunesh Dibaba ____ two gold medals in 2008.\n2. (play — past, negative) They ____ football yesterday because it rained.\n3. Make an adverb: The athlete ran (quick) ____ .\n4. (go — past, question) ____ you ____ to the stadium last week?\n5. Choose: She sings (good / well) ____ .\n\n**Answers:**\n1. **won**\n2. **did not play (didn't play)**\n3. **quickly**\n4. **Did ... go** → *Did you go to the stadium last week?*\n5. **well**"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- Use the **past simple** for finished actions: add **-ed** to regular verbs; learn **irregular** forms (run → ran, win → won).\n- Make negatives and questions with **did** + base verb: *Did she win?* / *She didn't win.*\n- **Adverbs of manner** tell us *how*: usually **adjective + -ly** (quick → quickly).\n- Learn irregular adverbs: good → **well**, fast → **fast**, hard → **hard**."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Useful words for talking about sports.",
+                  "glossary": [
+                    {
+                      "term": "athlete",
+                      "definition": "A person who is good at sports, especially running, jumping or throwing."
+                    },
+                    {
+                      "term": "marathon",
+                      "definition": "A long running race of about 42 kilometres."
+                    },
+                    {
+                      "term": "compete",
+                      "definition": "To take part in a contest or game to try to win."
+                    },
+                    {
+                      "term": "spectator",
+                      "definition": "A person who watches a game or event."
+                    },
+                    {
+                      "term": "victory",
+                      "definition": "A win; success in a game, race or competition."
+                    },
+                    {
+                      "term": "champion",
+                      "definition": "The person or team that wins first place in a competition."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What is the past simple of the irregular verb 'win'?",
+                  "back": "won. Example: Derartu Tulu won the gold medal."
+                },
+                {
+                  "front": "How do we make a question in the past simple?",
+                  "back": "did + subject + base verb (no -ed). Example: Did Ethiopia win the race?"
+                },
+                {
+                  "front": "How do we usually form an adverb of manner?",
+                  "back": "adjective + -ly. Example: quick → quickly, brave → bravely."
+                },
+                {
+                  "front": "What is the adverb form of 'good'?",
+                  "back": "well (irregular). Example: She plays football well."
+                },
+                {
+                  "front": "Correct this: 'He runned fast.'",
+                  "back": "He ran fast. ('Run' is irregular: run → ran, not 'runned'.)"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Past simple (regular verbs)",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct past simple: 'Yesterday, the team ____ a football match.'",
+              "options": [
+                "play",
+                "plays",
+                "played",
+                "playing"
+              ],
+              "answer": "2",
+              "explanation": "'Play' is a regular verb, so the past simple is formed by adding -ed: played."
+            },
+            {
+              "topic": "Past simple (irregular verbs)",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "What is the past simple of 'run'?",
+              "options": [
+                "runned",
+                "ran",
+                "runed",
+                "run"
+              ],
+              "answer": "1",
+              "explanation": "'Run' is an irregular verb. Its past simple form is 'ran', not 'runned'."
+            },
+            {
+              "topic": "Past simple questions",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct question.",
+              "options": [
+                "Did Abebe won the marathon?",
+                "Did Abebe win the marathon?",
+                "Abebe did win the marathon?",
+                "Did Abebe winning the marathon?"
+              ],
+              "answer": "1",
+              "explanation": "After 'did' we use the base verb (win), not the past form (won) or -ing. So: 'Did Abebe win the marathon?'"
+            },
+            {
+              "topic": "Adverbs of manner",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Complete with the correct adverb: 'The athlete finished the race ____.'",
+              "options": [
+                "quick",
+                "quickly",
+                "quicker",
+                "quickest"
+              ],
+              "answer": "1",
+              "explanation": "We need an adverb to describe how she finished. The adverb of 'quick' is 'quickly' (adjective + -ly)."
+            },
+            {
+              "topic": "Irregular adverbs",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": [
+                "She plays football goodly.",
+                "She plays football good.",
+                "She plays football well.",
+                "She plays football more good."
+              ],
+              "answer": "2",
+              "explanation": "The adverb form of 'good' is the irregular word 'well'. We say 'plays football well'."
+            },
+            {
+              "topic": "Past simple (mixed)",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Choose the sentence that is completely correct in the past simple.",
+              "options": [
+                "Abebe Bikila ran barefoot and won the gold medal in 1960.",
+                "Abebe Bikila runned barefoot and winned the gold medal in 1960.",
+                "Abebe Bikila ran barefoot and did won the gold medal in 1960.",
+                "Abebe Bikila run barefoot and win the gold medal in 1960."
+              ],
+              "answer": "0",
+              "explanation": "Both verbs are irregular: run → ran and win → won. The other options misuse 'runned/winned', add 'did' with a past form, or use the base verbs."
+            }
+          ]
+        },
+        {
+          "title": "Unit 4: Health Issues",
+          "description": "Discuss health, diseases and life skills, and give advice using modal verbs (should, must, have to) and imperatives.",
+          "lessons": [
+            {
+              "title": "Giving Health Advice: Modals (should, must) and Imperatives",
+              "summary": "Learn to give advice, warnings and instructions about health using modal verbs such as 'should' and 'must', and using the imperative form.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Good **health** is very important. In this unit we read about diseases, the dangers of drugs, and useful **life skills**.\n\nWhen we want to **give advice** ('this is a good idea') or talk about **rules** ('this is necessary'), we use special helping verbs called **modal verbs**, such as **should**, **must** and **have to**. We can also give short instructions using the **imperative** form, for example: *Wash your hands.*"
+                },
+                {
+                  "type": "objectives",
+                  "title": "Objectives",
+                  "body": "By the end of this lesson you will be able to:\n\n- Use **should / shouldn't** to give advice.\n- Use **must / mustn't** and **have to** to talk about necessity and rules.\n- Use the **imperative** to give instructions and warnings.\n- Talk about staying healthy and avoiding harmful things like drugs."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Grammar Rules",
+                  "body": "**1. Modal verbs** are helping verbs. After a modal we always use the **base verb** (no *to*, no *-s*, no *-ed*).\n\n**should / should not (shouldn't)** — for **advice** (a good or bad idea).\n- You **should eat** fruits and vegetables. *(good advice)*\n- You **shouldn't smoke** cigarettes. *(bad idea — avoid it)*\n\n**must / must not (mustn't)** — for **strong necessity** or rules, and strong warnings.\n- You **must wash** your hands before eating.\n- You **mustn't take** drugs. *(it is forbidden / very dangerous)*\n\n**have to / has to** — for **necessity**, often a rule from outside (a doctor, the school).\n- A patient **has to take** the medicine three times a day.\n- We **have to be** clean to stay healthy.\n\n**2. The Imperative** gives an instruction, order, warning or piece of advice. We use the **base verb** with **no subject**.\n- **Wash** your hands. \n- **Don't drink** dirty water. *(negative imperative)*\n- **Eat** a balanced diet and **exercise** every day.\n\nThe imperative is common in health advice, signs and instructions.",
+                  "glossary": [
+                    {
+                      "term": "modal verb",
+                      "definition": "A helping verb such as should, must or can that adds meaning like advice, necessity or ability."
+                    },
+                    {
+                      "term": "advice",
+                      "definition": "An opinion about what someone should do."
+                    },
+                    {
+                      "term": "necessity",
+                      "definition": "Something that is needed or must be done."
+                    },
+                    {
+                      "term": "imperative",
+                      "definition": "A sentence form that gives an order or instruction, using the base verb with no subject."
+                    }
+                  ]
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "A health worker is giving advice to students. Read how she uses modals and imperatives.\n\n> \"To stay healthy, you **should eat** a balanced diet and you **should sleep** well. You **must wash** your hands before meals. You **mustn't take** any drugs, because drugs are very dangerous. If you are ill, you **have to see** a doctor. **Drink** clean water and **exercise** every day!\"\n\n**How to turn advice into different forms:**\n- Idea: *eating vegetables is good.*\n- Advice (modal): You **should eat** vegetables.\n- Instruction (imperative): **Eat** vegetables.\n- Necessity (rule): You **have to eat** healthy food to grow strong."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Adding 'to' after should / must.**\n  - Wrong: *You should to rest.*\n  - Right: **You should rest.** (Use the base verb after a modal.)\n\n- **Adding -s to a modal or to the verb after it.**\n  - Wrong: *She musts wash her hands.* / *He should eats fruit.*\n  - Right: **She must wash her hands.** / **He should eat fruit.**\n\n- **Using a subject in the imperative.**\n  - Wrong: *You wash your hands!* (when giving a direct instruction)\n  - Right: **Wash your hands!**\n\n- **Confusing 'mustn't' and 'don't have to'.**\n  - *You **mustn't** smoke* = it is forbidden.\n  - *You **don't have to** come* = it is not necessary (but you can).\n\n- **Wrong negative imperative.**\n  - Wrong: *Not drink dirty water.*\n  - Right: **Don't drink dirty water.**"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Modal + base verb, always.** After *should* or *must*, the next verb is in its simplest form — no *to*, no *-s*, no *-ed*.\n- **should = Suggestion; must = Must do (no choice).** Match the first letters to remember the strength.\n- **Imperative = boss with no name.** An order has no subject: just *Wash!*, *Eat!*, *Don't drink!*\n- **mustn't = forbidden; don't have to = free to choose.** These two are NOT the same."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Complete each sentence. Answers are below.\n\n1. To stay healthy, you ____ (should) eat a balanced diet.\n2. You ____ (must, negative) take drugs; they are very harmful.\n3. Make it an imperative: (wash) ____ your hands before eating.\n4. A sick person ____ (have to) take the medicine on time.\n5. Choose: You (should / should to) sleep at least eight hours.\n\n**Answers:**\n1. **should eat**\n2. **mustn't take (must not take)**\n3. **Wash**\n4. **has to take**\n5. **should** → *You should sleep at least eight hours.*"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- **Modal verbs** (should, must, have to) are followed by the **base verb**.\n- **should / shouldn't** = advice (a good or bad idea).\n- **must / mustn't** = strong necessity, rules or strong warnings.\n- **have to / has to** = necessity, often a rule from outside.\n- The **imperative** gives instructions with the base verb and **no subject**: *Wash your hands.* / *Don't smoke.*\n- **mustn't** (forbidden) is different from **don't have to** (not necessary)."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Useful words for talking about health.",
+                  "glossary": [
+                    {
+                      "term": "disease",
+                      "definition": "An illness or sickness of the body or mind."
+                    },
+                    {
+                      "term": "hygiene",
+                      "definition": "Keeping yourself and your surroundings clean to stay healthy."
+                    },
+                    {
+                      "term": "balanced diet",
+                      "definition": "Eating the right amounts of different kinds of food to stay healthy."
+                    },
+                    {
+                      "term": "prevent",
+                      "definition": "To stop something bad, such as a disease, from happening."
+                    },
+                    {
+                      "term": "addiction",
+                      "definition": "A strong, harmful need to keep doing something, such as taking drugs."
+                    },
+                    {
+                      "term": "infection",
+                      "definition": "An illness caused by germs entering the body."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "What verb form comes after a modal like 'should' or 'must'?",
+                  "back": "The base verb, with no 'to' and no -s. Example: You should eat. / She must wash."
+                },
+                {
+                  "front": "What is the difference between 'mustn't' and 'don't have to'?",
+                  "back": "'mustn't' = it is forbidden. 'don't have to' = it is not necessary (but you may)."
+                },
+                {
+                  "front": "How do we form a negative imperative?",
+                  "back": "Don't + base verb. Example: Don't drink dirty water."
+                },
+                {
+                  "front": "Which modal do we use to give advice?",
+                  "back": "should / shouldn't. Example: You should sleep well. You shouldn't smoke."
+                },
+                {
+                  "front": "Correct this: 'You should to rest.'",
+                  "back": "You should rest. (No 'to' after a modal verb.)"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Modal verbs (should)",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence for giving advice.",
+              "options": [
+                "You should to eat vegetables.",
+                "You should eat vegetables.",
+                "You should eating vegetables.",
+                "You should eats vegetables."
+              ],
+              "answer": "1",
+              "explanation": "After the modal 'should' we use the base verb with no 'to' and no -s: 'You should eat vegetables.'"
+            },
+            {
+              "topic": "Imperatives",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which sentence is a correct imperative (instruction)?",
+              "options": [
+                "You washing your hands.",
+                "To wash your hands.",
+                "Wash your hands.",
+                "You should washing your hands."
+              ],
+              "answer": "2",
+              "explanation": "An imperative uses the base verb with no subject: 'Wash your hands.'"
+            },
+            {
+              "topic": "Modal verbs (must)",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the best sentence to give a strong warning about drugs.",
+              "options": [
+                "You shouldn't to take drugs.",
+                "You mustn't take drugs.",
+                "You must take drugs.",
+                "You don't have to take drugs is forbidden."
+              ],
+              "answer": "1",
+              "explanation": "'Mustn't' shows that something is forbidden or very dangerous. 'You mustn't take drugs' is the correct strong warning."
+            },
+            {
+              "topic": "Negative imperatives",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Complete the health sign: '____ dirty water.'",
+              "options": [
+                "Not drink",
+                "Don't drink",
+                "Doesn't drink",
+                "No drinking not"
+              ],
+              "answer": "1",
+              "explanation": "A negative imperative is formed with 'Don't' + base verb: 'Don't drink dirty water.'"
+            },
+            {
+              "topic": "Modal verbs (have to)",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence: A patient ____ the medicine three times a day.",
+              "options": [
+                "have to takes",
+                "has to take",
+                "has to takes",
+                "have to taking"
+              ],
+              "answer": "1",
+              "explanation": "'A patient' is third person singular, so we use 'has to', and after it the base verb 'take': 'has to take'."
+            },
+            {
+              "topic": "Modals (mixed)",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which sentence shows that something is NOT necessary (but is allowed)?",
+              "options": [
+                "You mustn't come to the meeting.",
+                "You don't have to come to the meeting.",
+                "You should come to the meeting.",
+                "You must come to the meeting."
+              ],
+              "answer": "1",
+              "explanation": "'Don't have to' means it is not necessary, although you may do it if you want. 'Mustn't' would mean it is forbidden, which is different."
+            }
+          ]
+        },
+        {
+          "title": "Unit 5: Plants and their Uses",
+          "description": "Describe flowers, fruits, vegetables and healing plants using the passive voice and countable/uncountable nouns.",
+          "lessons": [
+            {
+              "title": "Describing Plants: The Passive Voice and Countable/Uncountable Nouns",
+              "summary": "Learn to describe processes and uses of plants with the passive voice, and use countable and uncountable nouns correctly with words like some, any, much and many.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "Plants are very useful. Some give us beautiful **flowers**, some give us **fruits and vegetables** to eat, and some are **plants for healing** (medicine).\n\nWhen we describe what is *done to* a plant, we often use the **passive voice**. For example: *Coffee **is grown** in Ethiopia.* We also need to know the difference between **countable** nouns (things we can count, like *apples*) and **uncountable** nouns (things we cannot count, like *water*)."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Objectives",
+                  "body": "By the end of this lesson you will be able to:\n\n- Form the **passive voice** in the present and past simple.\n- Understand when to use the passive instead of the active.\n- Tell the difference between **countable** and **uncountable** nouns.\n- Use **some, any, much, many** and **a lot of** correctly."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Grammar Rules",
+                  "body": "**1. The Passive Voice**\nWe use the **passive** when the action is more important than the person who does it, or when we do not know who did it.\n\n- **Active:** Farmers **grow** coffee in Ethiopia.\n- **Passive:** Coffee **is grown** in Ethiopia (by farmers).\n\n**Form: be + past participle**\n- Present simple passive: **is / are + past participle**\n  - Vegetables **are sold** in the market.\n  - Teff **is grown** in many regions.\n- Past simple passive: **was / were + past participle**\n  - The flowers **were planted** last week.\n\nThe **past participle** is the third form of the verb (grow → grown, plant → planted, eat → eaten, sell → sold).\n\n**2. Countable and Uncountable Nouns**\n- **Countable nouns** can be counted and have a plural: one *apple*, two *apples*; a *flower*, three *flowers*.\n- **Uncountable nouns** cannot be counted and have no plural: *water*, *rice*, *coffee*, *honey*, *advice*.\n  - Wrong: *two waters, advices.* Right: **two glasses of water**, **some advice**.\n\n**3. Quantity words**\n- **some** — positive sentences (countable and uncountable): I bought **some** apples / **some** sugar.\n- **any** — questions and negatives: Is there **any** water? / We don't have **any** bananas.\n- **many** — countable: How **many** oranges? / not **many** flowers.\n- **much** — uncountable: How **much** water? / not **much** coffee.\n- **a lot of / lots of** — both countable and uncountable: **a lot of** fruit, **a lot of** trees.",
+                  "glossary": [
+                    {
+                      "term": "active voice",
+                      "definition": "A sentence where the subject does the action (Farmers grow coffee)."
+                    },
+                    {
+                      "term": "passive voice",
+                      "definition": "A sentence where the subject receives the action (Coffee is grown)."
+                    },
+                    {
+                      "term": "past participle",
+                      "definition": "The third form of a verb, used in the passive and perfect tenses (e.g. grown, eaten, planted)."
+                    },
+                    {
+                      "term": "countable noun",
+                      "definition": "A noun you can count and make plural, such as apple/apples."
+                    },
+                    {
+                      "term": "uncountable noun",
+                      "definition": "A noun you cannot count and which has no plural, such as water or rice."
+                    }
+                  ]
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "Let us change an active sentence into a passive one, step by step.\n\n**Active:** Farmers **grow** vegetables in the highlands.\n1. Find the object: *vegetables.* Make it the new subject: **Vegetables**\n2. Choose *be* to match (vegetables = plural, present): **Vegetables are**\n3. Add the past participle of *grow*: **Vegetables are grown**\n4. (Optional) Add *by + doer*: **Vegetables are grown by farmers in the highlands.**\n\n**A short description using the passive and quantity words:**\n> In Ethiopia, many useful plants **are grown**. Coffee **is produced** for export, and **a lot of** honey **is collected** from forests. In the market, **some** fruits and vegetables **are sold** every day. There is not **much** waste, because almost every part of the plant **is used**."
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Forgetting the verb 'be' in the passive.**\n  - Wrong: *Coffee grown in Ethiopia.*\n  - Right: **Coffee is grown in Ethiopia.**\n\n- **Using the wrong participle.**\n  - Wrong: *The food was eat.*\n  - Right: **The food was eaten.**\n\n- **Making uncountable nouns plural.**\n  - Wrong: *I drank two waters.* / *She gave me good advices.*\n  - Right: **I drank two glasses of water.** / **She gave me good advice.**\n\n- **Using 'much' with countable nouns.**\n  - Wrong: *How much oranges?*\n  - Right: **How many oranges?**\n\n- **Using 'some' in a question / 'any' in a positive sentence.**\n  - Usually: *Do you have **any** bananas?* and *I have **some** bananas.*"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **Passive = BE + 3rd form.** Always include a form of *be* (is/are/was/were) plus the past participle.\n- **MANY for things you can count, MUCH for things you measure.** Many oranges (count); much water (measure).\n- **'some' for sure, 'any' to ask or deny.** Use *some* in positive sentences, *any* in questions and negatives.\n- **Uncountables stay singular.** No 's' on *water, rice, coffee, advice, information*."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Complete each sentence. Answers are below.\n\n1. Make passive: 'Farmers grow coffee.' → Coffee ____ by farmers.\n2. Past passive: The trees ____ (plant) last year.\n3. Choose: How (much / many) bananas do you want?\n4. Choose: There isn't (some / any) sugar left.\n5. Countable or uncountable? Correct: 'I bought three breads.' → ____\n\n**Answers:**\n1. **is grown** → *Coffee is grown by farmers.*\n2. **were planted**\n3. **many**\n4. **any** → *There isn't any sugar left.*\n5. **I bought three loaves of bread.** (*Bread* is uncountable.)"
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **passive voice** = **be + past participle**: *Coffee is grown. The trees were planted.*\n- Use the passive when the action matters more than who does it.\n- **Countable nouns** can be plural (apples); **uncountable nouns** cannot (water, rice, coffee).\n- Use **many** + countable, **much** + uncountable.\n- Use **some** in positives, **any** in questions and negatives.\n- **a lot of** works with both countable and uncountable nouns."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Useful words for talking about plants and their uses.",
+                  "glossary": [
+                    {
+                      "term": "crop",
+                      "definition": "A plant grown by farmers for food, such as teff, maize or coffee."
+                    },
+                    {
+                      "term": "harvest",
+                      "definition": "To gather crops when they are ready; the crops that are gathered."
+                    },
+                    {
+                      "term": "herb",
+                      "definition": "A plant used as medicine or to add flavour to food."
+                    },
+                    {
+                      "term": "medicinal",
+                      "definition": "Used as medicine to treat illness; healing."
+                    },
+                    {
+                      "term": "nutritious",
+                      "definition": "Full of the substances that the body needs to be healthy."
+                    },
+                    {
+                      "term": "fertile",
+                      "definition": "Describing land that is good for growing plants."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "How do we form the passive voice?",
+                  "back": "be (is/are/was/were) + past participle. Example: Coffee is grown. The trees were planted."
+                },
+                {
+                  "front": "What is the difference between countable and uncountable nouns?",
+                  "back": "Countable nouns can be counted and made plural (apple/apples). Uncountable nouns cannot (water, rice, coffee)."
+                },
+                {
+                  "front": "Do we use 'much' or 'many' with countable nouns?",
+                  "back": "many. Example: How many oranges? We use 'much' with uncountable nouns: How much water?"
+                },
+                {
+                  "front": "When do we use 'any' instead of 'some'?",
+                  "back": "In questions and negative sentences. Example: Do you have any bananas? / We don't have any sugar."
+                },
+                {
+                  "front": "Correct this: 'The food was eat.'",
+                  "back": "The food was eaten. (The passive needs the past participle 'eaten'.)"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Passive voice (present)",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct passive sentence.",
+              "options": [
+                "Coffee grow in Ethiopia.",
+                "Coffee is grown in Ethiopia.",
+                "Coffee is grow in Ethiopia.",
+                "Coffee growing in Ethiopia."
+              ],
+              "answer": "1",
+              "explanation": "The passive is 'be + past participle'. The past participle of 'grow' is 'grown', so: 'Coffee is grown in Ethiopia.'"
+            },
+            {
+              "topic": "Countable/uncountable nouns",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Which word is an uncountable noun?",
+              "options": [
+                "apple",
+                "flower",
+                "water",
+                "orange"
+              ],
+              "answer": "2",
+              "explanation": "'Water' cannot be counted and has no plural form, so it is uncountable. Apple, flower and orange are countable."
+            },
+            {
+              "topic": "Quantifiers (much/many)",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Complete: 'How ____ sugar do we need for the cake?'",
+              "options": [
+                "many",
+                "much",
+                "number of",
+                "few"
+              ],
+              "answer": "1",
+              "explanation": "'Sugar' is uncountable, so we use 'much': 'How much sugar...?'"
+            },
+            {
+              "topic": "Passive voice (past)",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct past passive: 'The flowers ____ in the garden last week.'",
+              "options": [
+                "was planted",
+                "were planted",
+                "were plant",
+                "are planted"
+              ],
+              "answer": "1",
+              "explanation": "'Flowers' is plural and the time is past, so we use 'were' + past participle 'planted': 'were planted'."
+            },
+            {
+              "topic": "Quantifiers (some/any)",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": [
+                "We don't have some bananas.",
+                "Do you want some help? No, I don't need any help.",
+                "We don't have some help.",
+                "Do you have some any fruit?"
+              ],
+              "answer": "1",
+              "explanation": "We use 'some' in positive sentences and offers, and 'any' in negatives and most questions: 'No, I don't need any help.' The offer 'Do you want some help?' is also correct."
+            },
+            {
+              "topic": "Passive and nouns (mixed)",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which sentence is completely correct?",
+              "options": [
+                "A lot of honey are collected from the forests every year.",
+                "A lot of honey is collected from the forests every year.",
+                "A lot of honey are collect from the forests every year.",
+                "A lot of honeys is collected from the forests every year."
+              ],
+              "answer": "1",
+              "explanation": "'Honey' is uncountable (singular, no plural 'honeys'), so we use 'is', and the passive needs the past participle 'collected': 'A lot of honey is collected...'"
+            }
+          ]
+        },
+        {
+          "title": "Unit 6: Coffee",
+          "description": "Read about how coffee grows, its economic value and Ethiopian coffee specialities using the present perfect tense and sequence connectors.",
+          "lessons": [
+            {
+              "title": "The Story of Coffee: The Present Perfect and Sequence Connectors",
+              "summary": "Learn to talk about experiences and recent actions with the present perfect tense, and describe a process in order using sequence connectors.",
+              "estimatedMinutes": 20,
+              "sections": [
+                {
+                  "type": "introduction",
+                  "title": "Introduction",
+                  "body": "**Coffee** is one of Ethiopia's most important products. In fact, coffee was first discovered in Ethiopia! In this unit we read about **how coffee grows**, the **economic value** of coffee, and famous Ethiopian coffee **specialities**.\n\nWhen we talk about experiences or actions that connect the past to now, we use the **present perfect tense**: *Ethiopia **has produced** coffee for centuries.* To describe a process such as making coffee, we use **sequence connectors** like *first*, *next*, *then* and *finally*."
+                },
+                {
+                  "type": "objectives",
+                  "title": "Objectives",
+                  "body": "By the end of this lesson you will be able to:\n\n- Form the **present perfect** (have/has + past participle).\n- Use **for** and **since** correctly.\n- Use **ever**, **never**, **already**, **yet** and **just**.\n- Use **sequence connectors** to describe a process in order.\n- Talk about Ethiopian coffee and its importance."
+                },
+                {
+                  "type": "theory",
+                  "title": "The Grammar Rules",
+                  "body": "**1. The Present Perfect Tense**\nForm: **have / has + past participle**.\n- I **have visited** a coffee farm.\n- She **has drunk** Ethiopian coffee.\n- They **have grown** coffee for many years.\n\nWe use the present perfect to talk about:\n- **Experiences** (in your life up to now): I **have tasted** many kinds of coffee.\n- **Recent actions** with a result now: The farmer **has picked** the coffee beans. *(They are picked now.)*\n- **Actions that started in the past and continue now**, with **for** and **since**:\n  - We **have lived** here **for** ten years. *(for + a length of time)*\n  - Ethiopia **has exported** coffee **since** 1900. *(since + a starting point)*\n\n**2. Useful words with the present perfect**\n- **ever** (in questions): **Have** you **ever** drunk buna?\n- **never** (= not ever): I **have never** been to a coffee plantation.\n- **already** (sooner than expected): She **has already** finished.\n- **yet** (in questions/negatives): **Has** it started **yet**? / It **hasn't** started **yet**.\n- **just** (a very short time ago): They **have just** roasted the beans.\n\n**3. Sequence Connectors** put steps in order. They are very useful for describing a process, like the coffee ceremony.\n- **First / First of all**, the green coffee beans are washed.\n- **Next / Then / After that**, the beans are roasted.\n- **Then**, they are ground into powder.\n- **Finally / Lastly**, the coffee is boiled and served.",
+                  "glossary": [
+                    {
+                      "term": "present perfect",
+                      "definition": "A tense formed with have/has + past participle, linking the past to now."
+                    },
+                    {
+                      "term": "for",
+                      "definition": "Used with a length of time (for ten years, for an hour)."
+                    },
+                    {
+                      "term": "since",
+                      "definition": "Used with a point when something started (since 1900, since Monday)."
+                    },
+                    {
+                      "term": "sequence connectors",
+                      "definition": "Linking words that show the order of steps, such as first, next, then and finally."
+                    }
+                  ]
+                },
+                {
+                  "type": "worked-example",
+                  "title": "Worked Example",
+                  "body": "**Describing the coffee ceremony with sequence connectors and the passive:**\n> The Ethiopian coffee ceremony is famous. **First**, the green beans are washed and roasted over a fire. **Next**, the roasted beans are ground into powder. **Then**, the powder is put into a clay pot called a *jebena* and boiled. **Finally**, the coffee is poured into small cups and served with popcorn.\n\n**Building a present perfect sentence, step by step:**\n1. Choose the subject: *Ethiopia.*\n2. Add *have/has* (Ethiopia = it → **has**): **Ethiopia has**\n3. Add the past participle of *produce*: **Ethiopia has produced**\n4. Add *for/since*: **Ethiopia has produced coffee for centuries.**\n\n**With 'since':** *Ethiopia has exported coffee **since** the early 1900s.*"
+                },
+                {
+                  "type": "common-mistakes",
+                  "title": "Common Mistakes",
+                  "body": "- **Using the past simple with 'for/since' + now.**\n  - Wrong: *I live here for ten years.*\n  - Right: **I have lived here for ten years.**\n\n- **Confusing 'for' and 'since'.**\n  - Wrong: *since ten years* / *for 1900*\n  - Right: **for ten years** (length) / **since 1900** (starting point).\n\n- **Using the wrong participle.**\n  - Wrong: *She has drank coffee.*\n  - Right: **She has drunk coffee.** (drink → drank → drunk)\n\n- **Forgetting have/has.**\n  - Wrong: *They produced coffee for years* (when meaning up to now).\n  - Right: **They have produced coffee for years.**\n\n- **Using the present perfect with a finished past time.**\n  - Wrong: *I have visited the farm yesterday.*\n  - Right: **I visited the farm yesterday.** (Use the past simple with 'yesterday'.)"
+                },
+                {
+                  "type": "memory-tips",
+                  "title": "Memory Tips",
+                  "body": "- **have/has + 3rd form = present perfect.** Always pair *have/has* with the past participle.\n- **FOR a length, SINCE a start.** *For* two hours (length of time); *since* Monday (when it began).\n- **Finished time word? Use past simple.** Words like *yesterday*, *last year*, *in 2010* need the past simple, not the present perfect.\n- **First, Next, Then, Finally** — keep these four signposts ready to describe any process in order."
+                },
+                {
+                  "type": "practice",
+                  "title": "Practice",
+                  "body": "Complete each sentence. Answers are below.\n\n1. (visit) I ____ a coffee farm. *(present perfect, experience)*\n2. Choose: We have grown coffee (for / since) 1995.\n3. Choose: They have lived here (for / since) twenty years.\n4. Correct the verb: She has (drank / drunk) Ethiopian coffee.\n5. Put in order with connectors: wash the beans / roast them / boil the coffee. *(Use First, Next, Finally.)*\n\n**Answers:**\n1. **have visited**\n2. **since** (1995 is a starting point)\n3. **for** (twenty years is a length of time)\n4. **drunk**\n5. **First**, wash the beans. **Next**, roast them. **Finally**, boil the coffee."
+                },
+                {
+                  "type": "summary",
+                  "title": "Summary",
+                  "body": "- The **present perfect** = **have / has + past participle**: *I have visited a farm.*\n- Use it for experiences, recent actions with a present result, and actions continuing up to now.\n- Use **for** with a length of time and **since** with a starting point.\n- Use the **past simple** (not the present perfect) with finished time words like *yesterday*.\n- Use **sequence connectors** (first, next, then, finally) to describe a process in order."
+                },
+                {
+                  "type": "glossary",
+                  "title": "Key Vocabulary",
+                  "body": "Useful words for talking about coffee.",
+                  "glossary": [
+                    {
+                      "term": "export",
+                      "definition": "To sell and send goods to another country."
+                    },
+                    {
+                      "term": "roast",
+                      "definition": "To cook coffee beans (or other food) with dry heat until they are brown."
+                    },
+                    {
+                      "term": "grind",
+                      "definition": "To crush something, such as roasted coffee beans, into a powder."
+                    },
+                    {
+                      "term": "harvest",
+                      "definition": "To pick or gather a crop such as coffee when it is ready."
+                    },
+                    {
+                      "term": "income",
+                      "definition": "The money that a person or country receives, for example from selling coffee."
+                    },
+                    {
+                      "term": "ceremony",
+                      "definition": "A formal set of actions done on a special occasion, such as the Ethiopian coffee ceremony."
+                    }
+                  ]
+                }
+              ],
+              "flashcards": [
+                {
+                  "front": "How do we form the present perfect tense?",
+                  "back": "have / has + past participle. Example: Ethiopia has produced coffee for centuries."
+                },
+                {
+                  "front": "What is the difference between 'for' and 'since'?",
+                  "back": "'for' is used with a length of time (for ten years). 'since' is used with a starting point (since 1995)."
+                },
+                {
+                  "front": "Which tense do we use with 'yesterday': present perfect or past simple?",
+                  "back": "Past simple. Example: I visited the farm yesterday. (Not 'have visited'.)"
+                },
+                {
+                  "front": "Name four sequence connectors for describing a process.",
+                  "back": "First, Next (or Then / After that), and Finally (or Lastly)."
+                },
+                {
+                  "front": "Correct this: 'She has drank coffee.'",
+                  "back": "She has drunk coffee. (drink → drank → drunk; the past participle is 'drunk'.)"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "topic": "Present perfect (form)",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Choose the correct present perfect sentence.",
+              "options": [
+                "Ethiopia has produce coffee for centuries.",
+                "Ethiopia has produced coffee for centuries.",
+                "Ethiopia have produced coffee for centuries.",
+                "Ethiopia produced coffee for centuries."
+              ],
+              "answer": "1",
+              "explanation": "The present perfect is 'have/has + past participle'. 'Ethiopia' is third person singular (has), and the past participle of 'produce' is 'produced'."
+            },
+            {
+              "topic": "for vs since",
+              "difficulty": "beginner",
+              "type": "mcq",
+              "prompt": "Complete: 'We have grown coffee ____ 1995.'",
+              "options": [
+                "for",
+                "since",
+                "during",
+                "from"
+              ],
+              "answer": "1",
+              "explanation": "'1995' is a starting point in time, so we use 'since'. We use 'for' with a length of time, such as 'for ten years'."
+            },
+            {
+              "topic": "Sequence connectors",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Which word best completes the last step of a process: '____, the coffee is served in small cups.'",
+              "options": [
+                "First",
+                "Finally",
+                "Because",
+                "However"
+              ],
+              "answer": "1",
+              "explanation": "'Finally' shows the last step in a sequence. 'First' is the beginning, while 'because' and 'however' do not show order."
+            },
+            {
+              "topic": "Past participles",
+              "difficulty": "medium",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": [
+                "Have you ever drank Ethiopian coffee?",
+                "Have you ever drunk Ethiopian coffee?",
+                "Have you ever drink Ethiopian coffee?",
+                "Did you ever drunk Ethiopian coffee?"
+              ],
+              "answer": "1",
+              "explanation": "In the present perfect we use the past participle 'drunk' (drink → drank → drunk): 'Have you ever drunk Ethiopian coffee?'"
+            },
+            {
+              "topic": "Present perfect vs past simple",
+              "difficulty": "difficult",
+              "type": "mcq",
+              "prompt": "Choose the correct sentence.",
+              "options": [
+                "I have visited the coffee farm yesterday.",
+                "I visited the coffee farm yesterday.",
+                "I have visit the coffee farm yesterday.",
+                "I has visited the coffee farm yesterday."
+              ],
+              "answer": "1",
+              "explanation": "'Yesterday' is a finished past time, so we use the past simple 'visited', not the present perfect."
+            },
+            {
+              "topic": "Present perfect (mixed)",
+              "difficulty": "exam",
+              "type": "mcq",
+              "prompt": "Which sentence is completely correct?",
+              "options": [
+                "Coffee has been an important export since many years.",
+                "Coffee has been an important export for many years.",
+                "Coffee has be an important export for many years.",
+                "Coffee have been an important export for many years."
+              ],
+              "answer": "1",
+              "explanation": "We use 'for' with a length of time ('many years'), the subject 'coffee' takes 'has', and the past participle of 'be' is 'been': 'Coffee has been an important export for many years.'"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

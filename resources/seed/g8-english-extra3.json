@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 8,
+      "subjectKey": "english",
+      "questions": [
+        {
+          "topic": "going to (future)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: 'I have already decided. I ____ join the science club this term.'",
+          "options": [
+            "going to",
+            "am going to",
+            "is going to",
+            "will to"
+          ],
+          "answer": "1",
+          "explanation": "The decision is already made, so we use 'be + going to'. With 'I' the correct form is 'am going to'."
+        },
+        {
+          "topic": "Simple present tense",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Choose the correct general truth.",
+          "options": [
+            "Water boil at 100 degrees Celsius.",
+            "Water boils at 100 degrees Celsius.",
+            "Water boiling at 100 degrees Celsius.",
+            "Water are boil at 100 degrees Celsius."
+          ],
+          "answer": "1",
+          "explanation": "'Water' is treated as third person singular, so the simple present verb takes -s: boils. The simple present is used for scientific facts."
+        },
+        {
+          "topic": "Articles (a/an)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: 'My uncle is ____ honest farmer who works hard every day.'",
+          "options": [
+            "a",
+            "the",
+            "no article",
+            "an"
+          ],
+          "answer": "3",
+          "explanation": "We use 'an' before a vowel sound. 'Honest' begins with a silent 'h', so it sounds like a vowel: an honest farmer."
+        },
+        {
+          "topic": "Comparative adjectives",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Complete: 'Today the weather is ____ than it was yesterday.'",
+          "options": [
+            "more hot",
+            "hottest",
+            "hotter",
+            "more hotter"
+          ],
+          "answer": "2",
+          "explanation": "'Hot' is a short adjective, so the comparative doubles the final consonant and adds -er: hotter. We use 'than' to compare two things."
+        },
+        {
+          "topic": "Past simple (irregular verbs)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the past simple of the verb 'take'?",
+          "options": [
+            "taked",
+            "took",
+            "taken",
+            "taking"
+          ],
+          "answer": "1",
+          "explanation": "'Take' is an irregular verb: take → took → taken. The past simple form is 'took'."
+        },
+        {
+          "topic": "Imperatives",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which sentence is a correct instruction (imperative)?",
+          "options": [
+            "Bring your books tomorrow.",
+            "You bringing your books tomorrow.",
+            "To bring your books tomorrow.",
+            "You must bringing your books tomorrow."
+          ],
+          "answer": "0",
+          "explanation": "An imperative uses the base verb with no subject: 'Bring your books tomorrow.'"
+        },
+        {
+          "topic": "Vocabulary (plants)",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A 'herb' is a plant that is used to:",
+          "options": [
+            "build strong houses",
+            "add flavour to food or as medicine",
+            "carry water from rivers",
+            "make metal tools"
+          ],
+          "answer": "1",
+          "explanation": "A herb is a plant used to add flavour to food or as a medicine."
+        },
+        {
+          "topic": "Subject pronouns",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Replace the underlined words: 'Almaz and I walked to the market.' '____ walked to the market.'",
+          "options": [
+            "Us",
+            "Them",
+            "We",
+            "Our"
+          ],
+          "answer": "2",
+          "explanation": "'Almaz and I' is the subject of the sentence, so it is replaced by the subject pronoun 'We'."
+        },
+        {
+          "topic": "First conditional",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'If the library ____ open tomorrow, I will borrow a novel.'",
+          "options": [
+            "will be",
+            "was",
+            "be",
+            "is"
+          ],
+          "answer": "3",
+          "explanation": "In the first conditional the if-clause uses the simple present, not 'will'. So the correct form is 'If the library is open...'."
+        },
+        {
+          "topic": "Past continuous tense",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'While the teacher ____ the lesson, a bird flew into the classroom.'",
+          "options": [
+            "was explaining",
+            "explained",
+            "has explained",
+            "explain"
+          ],
+          "answer": "0",
+          "explanation": "We use the past continuous (was/were + -ing) for a longer action in progress when a shorter action interrupts it: 'was explaining'."
+        },
+        {
+          "topic": "Superlative adjectives",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'Of all the students, Hana wrote ____ essay.'",
+          "options": [
+            "the interestingest",
+            "more interesting",
+            "the more interesting",
+            "the most interesting"
+          ],
+          "answer": "3",
+          "explanation": "'Interesting' is a long adjective, so the superlative is 'the most interesting'. Superlatives take 'the'."
+        },
+        {
+          "topic": "Connectors of reason",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'We stayed indoors ____ it was raining heavily.'",
+          "options": [
+            "although",
+            "whereas",
+            "because",
+            "but"
+          ],
+          "answer": "2",
+          "explanation": "'Because' introduces a reason. The rain is the reason they stayed indoors."
+        },
+        {
+          "topic": "Prepositions of time",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'The new term begins ____ September.'",
+          "options": [
+            "at",
+            "on",
+            "in",
+            "to"
+          ],
+          "answer": "2",
+          "explanation": "We use 'in' with months, seasons and years: in September. We use 'on' with days and dates, and 'at' with clock times."
+        },
+        {
+          "topic": "Modal verbs (can/could)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the polite way to ask permission.",
+          "options": [
+            "I could borrow your pen?",
+            "Could borrow I your pen?",
+            "Could I to borrow your pen?",
+            "Could I borrow your pen, please?"
+          ],
+          "answer": "3",
+          "explanation": "'Could I + base verb' is a polite way to ask permission: 'Could I borrow your pen, please?'"
+        },
+        {
+          "topic": "Passive voice (present)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Change to the passive: 'People speak Amharic in many regions.'",
+          "options": [
+            "Amharic speaks in many regions.",
+            "Amharic is speak in many regions.",
+            "Amharic are spoken in many regions.",
+            "Amharic is spoken in many regions."
+          ],
+          "answer": "3",
+          "explanation": "The passive is 'be + past participle'. 'Amharic' is singular, so we use 'is', and the past participle of 'speak' is 'spoken': 'is spoken'."
+        },
+        {
+          "topic": "Question tags",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'You live near the river, ____'",
+          "options": [
+            "do you?",
+            "aren't you?",
+            "you don't?",
+            "don't you?"
+          ],
+          "answer": "3",
+          "explanation": "A positive statement in the present simple takes a negative tag with the same auxiliary: 'You live near the river, don't you?'"
+        },
+        {
+          "topic": "Possessive pronouns",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Complete: 'This bag is not mine; I think it is ____.'",
+          "options": [
+            "hers",
+            "her",
+            "her's",
+            "she"
+          ],
+          "answer": "0",
+          "explanation": "'Hers' is the possessive pronoun and stands alone after the verb. 'Her' is followed by a noun, and 'her's' is never correct."
+        },
+        {
+          "topic": "Vocabulary (health)",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "To 'prevent' a disease means to:",
+          "options": [
+            "make it spread faster",
+            "ignore it completely",
+            "stop it from happening",
+            "describe it to a doctor"
+          ],
+          "answer": "2",
+          "explanation": "To 'prevent' something means to stop it from happening, for example by washing your hands to prevent infection."
+        },
+        {
+          "topic": "Reading comprehension",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Read: 'Dawit saves part of his pocket money every week. By the end of the year, he had saved enough to buy the football boots he wanted.' How did Dawit get the boots?",
+          "options": [
+            "His friend gave them to him.",
+            "He borrowed them from the school.",
+            "He won them in a competition.",
+            "He saved money little by little."
+          ],
+          "answer": "3",
+          "explanation": "The text says he saves part of his money every week and saved enough to buy them, so he bought them by saving little by little."
+        },
+        {
+          "topic": "Reported speech",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Report this sentence: He said, 'I am tired.'",
+          "options": [
+            "He said that he was tired.",
+            "He said that he is tired.",
+            "He said that I was tired.",
+            "He said that he tired."
+          ],
+          "answer": "0",
+          "explanation": "In reported speech the present tense usually shifts back to the past, and 'I' changes to 'he': 'He said that he was tired.'"
+        },
+        {
+          "topic": "Relative pronouns",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'The doctor ____ treated my grandmother was very kind.'",
+          "options": [
+            "which",
+            "whose",
+            "where",
+            "who"
+          ],
+          "answer": "3",
+          "explanation": "We use 'who' to refer to people. 'Which' is for things, 'whose' shows possession, and 'where' refers to places."
+        },
+        {
+          "topic": "Word formation",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete with the noun form: 'The team showed great ____ during the long match.' (strong)",
+          "options": [
+            "strongly",
+            "stronger",
+            "strength",
+            "strengthen"
+          ],
+          "answer": "2",
+          "explanation": "The noun form of the adjective 'strong' is 'strength'. 'Strongly' is an adverb and 'strengthen' is a verb."
+        },
+        {
+          "topic": "Comparative (as ... as)",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct comparison of equality.",
+          "options": [
+            "My bag is as heavy than yours.",
+            "My bag is so heavy as yours.",
+            "My bag is as heavy as yours.",
+            "My bag is as heavier as yours."
+          ],
+          "answer": "2",
+          "explanation": "To say two things are equal we use 'as + adjective + as': 'as heavy as yours.'"
+        },
+        {
+          "topic": "Adverbs of frequency",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the sentence with the adverb in the correct position.",
+          "options": [
+            "She is always helping her neighbours.",
+            "She always is helping her neighbours.",
+            "Always she is helping her neighbours.",
+            "She is helping always her neighbours."
+          ],
+          "answer": "0",
+          "explanation": "Adverbs of frequency such as 'always' go after the verb 'be': 'She is always helping her neighbours.'"
+        },
+        {
+          "topic": "Past simple vs past continuous",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": [
+            "When I was arriving, the guests ate dinner.",
+            "When I arrived, the guests was eating dinner.",
+            "When I arrived, the guests were eating dinner.",
+            "When I arrive, the guests were eating dinner."
+          ],
+          "answer": "2",
+          "explanation": "The past simple 'arrived' shows the short, completed action, and the past continuous 'were eating' shows the longer action already in progress."
+        },
+        {
+          "topic": "Confusing words (their/there/they're)",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": [
+            "The pupils left there books on the desk.",
+            "The pupils left they're books on the desk.",
+            "The pupils left thier books on the desk.",
+            "The pupils left their books on the desk."
+          ],
+          "answer": "3",
+          "explanation": "'Their' shows possession (the books belong to the pupils). 'There' refers to a place and 'they're' means 'they are'."
+        },
+        {
+          "topic": "Phrasal verbs",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Choose the meaning of 'look after' in: 'She looks after her little brother every afternoon.'",
+          "options": [
+            "takes care of",
+            "searches for",
+            "looks behind",
+            "shouts at"
+          ],
+          "answer": "0",
+          "explanation": "'Look after' means to take care of someone or something."
+        },
+        {
+          "topic": "Vocabulary in context",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Read: 'After the harvest, the farmers stored the surplus grain so that none would be wasted.' The word 'surplus' is closest in meaning to:",
+          "options": [
+            "extra",
+            "rotten",
+            "missing",
+            "tiny"
+          ],
+          "answer": "0",
+          "explanation": "'Surplus' means more than what is needed, so it is closest in meaning to 'extra'."
+        },
+        {
+          "topic": "Countable/uncountable nouns",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence.",
+          "options": [
+            "I need an information about the bus times.",
+            "I need some information about the bus times.",
+            "I need a few information about the bus times.",
+            "I need many information about the bus times."
+          ],
+          "answer": "1",
+          "explanation": "'Information' is uncountable, so we use 'some' (not 'an', 'a few' or 'many', which go with countable nouns)."
+        },
+        {
+          "topic": "Gerunds and infinitives",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Complete: 'My sister enjoys ____ traditional songs at festivals.'",
+          "options": [
+            "sing",
+            "to sing",
+            "singing",
+            "sings"
+          ],
+          "answer": "2",
+          "explanation": "After the verb 'enjoy' we use the gerund (-ing form): 'enjoys singing'."
+        },
+        {
+          "topic": "Mixed tenses (present perfect and past simple)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which sentence is completely correct?",
+          "options": [
+            "Tigist has lived in Adama since she was a child, and she moved there in 2015.",
+            "Tigist has lived in Adama for she was a child, and she has moved there in 2015.",
+            "Tigist lived in Adama since she was a child, and she has moved there in 2015.",
+            "Tigist has live in Adama since she was a child, and she move there in 2015."
+          ],
+          "answer": "0",
+          "explanation": "We use 'since' with a starting point and the present perfect 'has lived' for an action continuing to now, while the past simple 'moved' suits the finished time '2015'."
+        },
+        {
+          "topic": "Conditionals and modals (mixed)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the best completion: 'If you feel feverish, you ____ rest and you ____ drink plenty of fluids.'",
+          "options": [
+            "should / should",
+            "will to / will",
+            "should to / shoulds",
+            "musts / must to"
+          ],
+          "answer": "0",
+          "explanation": "After the modal 'should' we use the base verb with no 'to' and no -s, so both 'should rest' and 'should drink' are correct."
+        },
+        {
+          "topic": "Punctuation",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the sentence with correct punctuation.",
+          "options": [
+            "wow what a beautiful view this is",
+            "Wow, what a beautiful view this is!",
+            "wow what a beautiful view this is?",
+            "Wow what a beautiful, view this is."
+          ],
+          "answer": "1",
+          "explanation": "The sentence begins with a capital letter, uses a comma after the exclamation 'Wow', and ends with an exclamation mark."
+        },
+        {
+          "topic": "Passive and articles (mixed)",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Which sentence is completely correct?",
+          "options": [
+            "An old church was built on the hill, and it is visited by many tourists.",
+            "An old church were built on the hill, and it is visit by many tourists.",
+            "A old church was built on the hill, and it is visited by many tourist.",
+            "An old church was build on the hill, and it visited by many tourists."
+          ],
+          "answer": "0",
+          "explanation": "'An' is correct before the vowel sound in 'old', the past passive is 'was built', and the present passive is 'is visited'."
+        },
+        {
+          "topic": "Subject-verb agreement",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Choose the grammatically correct sentence.",
+          "options": [
+            "Each of the students have a notebook and a pen.",
+            "Each of the students has a notebook and a pen.",
+            "Each of the students having a notebook and a pen.",
+            "Each of the student have a notebook and a pen."
+          ],
+          "answer": "1",
+          "explanation": "'Each' is singular and takes a singular verb, so the correct form is 'Each of the students has...'."
+        },
+        {
+          "topic": "Reading comprehension and inference",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Read: 'Although the road to the village was long and dusty, the nurse made the journey every month to vaccinate the children. The parents always welcomed her with great respect.' What can we infer about the nurse?",
+          "options": [
+            "She disliked travelling to the village.",
+            "She was dedicated to helping the children.",
+            "She visited the village only once.",
+            "The parents did not trust her work."
+          ],
+          "answer": "1",
+          "explanation": "She made the long, dusty journey every month to vaccinate the children and was welcomed with respect, showing she was dedicated to helping them."
+        }
+      ]
+    }
+  ]
+}

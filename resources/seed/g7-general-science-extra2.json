@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "gradeLevel": 7,
+      "subjectKey": "general-science",
+      "questions": [
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which branch of natural science studies the properties and changes of substances?",
+          "options": ["Biology", "Chemistry", "Physics", "Geology"],
+          "answer": "1",
+          "explanation": "Chemistry is the study of the properties, composition, and changes of substances."
+        },
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "A testable guess that a scientist makes before doing an experiment is called a:",
+          "options": ["Result", "Hypothesis", "Conclusion", "Theory of everything"],
+          "answer": "1",
+          "explanation": "A hypothesis is a testable guess or possible explanation that a scientist checks by experiment."
+        },
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Combining biology and chemistry to study the chemical reactions that happen inside living things forms which field?",
+          "options": ["Biophysics", "Biochemistry", "Physical chemistry", "Geology"],
+          "answer": "1",
+          "explanation": "Biochemistry combines biology and chemistry to study the chemical reactions that take place inside living organisms."
+        },
+        {
+          "topic": "Basic Concepts of Science",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A laboratory report records an experiment. Which order of steps is correct?",
+          "options": ["Conclusion, objective, procedure, result", "Objective, procedure, observation, conclusion", "Result, objective, conclusion, materials", "Procedure, conclusion, objective, observation"],
+          "answer": "1",
+          "explanation": "A proper lab report moves from the objective, to the procedure, to the observation, and finally to the conclusion."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which state of matter takes the shape of its container but keeps a fixed volume?",
+          "options": ["Solid", "Liquid", "Gas", "Plasma"],
+          "answer": "1",
+          "explanation": "A liquid takes the shape of its container because its particles can slide past each other, but it keeps a fixed volume."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "When solid ice is heated and turns into liquid water, this change is called:",
+          "options": ["Evaporation", "Melting", "Condensation", "Freezing"],
+          "answer": "1",
+          "explanation": "Melting is the change from a solid to a liquid when heat is added, such as ice turning into water."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A spoon of sugar is stirred into a cup of tea until it can no longer be seen. The result is best described as a:",
+          "options": ["Heterogeneous mixture", "Homogeneous mixture", "Pure element", "Compound"],
+          "answer": "1",
+          "explanation": "The dissolved sugar spreads evenly and looks the same throughout the tea, so it forms a homogeneous mixture (a solution)."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Why is milk turning sour considered a chemical change?",
+          "options": ["The milk only changes its container shape", "A new substance with new properties is formed", "The milk can easily be turned back fresh", "Only its temperature changes"],
+          "answer": "1",
+          "explanation": "Souring forms new substances with a new taste and smell and cannot be reversed, so it is a chemical change."
+        },
+        {
+          "topic": "Matter in Our Surrounding",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "To collect pure drinking water from salty water, you boil it and then cool the steam back into liquid. This method is:",
+          "options": ["Filtration", "Decantation", "Distillation", "Hand picking"],
+          "answer": "2",
+          "explanation": "Distillation boils a liquid to vapour and then cools the vapour back to a pure liquid, leaving the dissolved salt behind."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "What is the correct chemical symbol for sodium?",
+          "options": ["So", "Na", "Sd", "S"],
+          "answer": "1",
+          "explanation": "The symbol for sodium is Na, taken from its Latin name 'natrium'."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "In a chemical equation, the new substances formed on the right of the arrow are called the:",
+          "options": ["Reactants", "Products", "Symbols", "Mixtures"],
+          "answer": "1",
+          "explanation": "The products are the new substances formed in a reaction and are written on the right side of the arrow."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which of the following is a metal element?",
+          "options": ["Oxygen", "Carbon", "Copper", "Sulfur"],
+          "answer": "2",
+          "explanation": "Copper is a metal, which is shiny and conducts electricity. Oxygen, carbon, and sulfur are non-metals."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "How many atoms in total are present in one unit of calcium carbonate, CaCO₃?",
+          "options": ["3", "5", "4", "6"],
+          "answer": "1",
+          "explanation": "CaCO₃ has 1 calcium, 1 carbon, and 3 oxygen atoms, giving a total of 5 atoms."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which is the correctly balanced equation for nitrogen reacting with hydrogen to form ammonia (NH₃)?",
+          "options": ["N₂ + H₂ → NH₃", "N₂ + 3H₂ → 2NH₃", "N₂ + H₂ → 2NH₃", "2N₂ + 3H₂ → NH₃"],
+          "answer": "1",
+          "explanation": "N₂ + 3H₂ → 2NH₃ has 2 nitrogen atoms and 6 hydrogen atoms on each side, so it is balanced."
+        },
+        {
+          "topic": "Elements, Compounds and Chemical Reactions",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "The symbols 'Co' and 'CO' mean different things. Which statement is correct?",
+          "options": ["Both mean the element cobalt", "Co is the element cobalt, while CO is the compound carbon monoxide", "Both mean carbon monoxide", "CO is an element and Co is a mixture"],
+          "answer": "1",
+          "explanation": "Capital letters matter: Co (capital then small) is the element cobalt, while CO (two capitals) is carbon monoxide, a compound of carbon and oxygen."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Which part of a microscope is the flat platform where the slide is placed?",
+          "options": ["Eyepiece", "Stage", "Mirror", "Arm"],
+          "answer": "1",
+          "explanation": "The stage is the flat platform on which the slide holding the specimen is placed."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which structure in a plant cell traps sunlight to make food?",
+          "options": ["Vacuole", "Chloroplast", "Cell wall", "Nucleus"],
+          "answer": "1",
+          "explanation": "The chloroplast contains chlorophyll, which traps sunlight so the plant can make food by photosynthesis."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which knob on a microscope is used last to make the image sharp and clear?",
+          "options": ["Coarse adjustment knob", "Fine adjustment knob", "Diaphragm", "Clip"],
+          "answer": "1",
+          "explanation": "The fine adjustment knob moves the tube only a tiny amount and is used to make the image perfectly sharp after the coarse knob."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "A microscope gives a total magnification of 100 times. If the eyepiece magnifies 10 times, what is the magnification of the objective lens used?",
+          "options": ["10 times", "100 times", "1000 times", "90 times"],
+          "answer": "0",
+          "explanation": "Total magnification = eyepiece × objective, so 100 ÷ 10 = 10, meaning the objective magnifies 10 times."
+        },
+        {
+          "topic": "Cell as the Basis of Life",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "Why does a plant cell keep a firm, fixed shape while an animal cell does not?",
+          "options": ["A plant cell has no cytoplasm", "A plant cell has a strong, rigid cell wall", "An animal cell has more mitochondria", "An animal cell has a larger nucleus"],
+          "answer": "1",
+          "explanation": "The rigid cell wall around a plant cell gives it shape and support; animal cells have only a flexible membrane, so they have no fixed shape."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The ability of a living thing to respond to changes around it, such as a plant growing towards light, is called:",
+          "options": ["Respiration", "Sensitivity", "Excretion", "Nutrition"],
+          "answer": "1",
+          "explanation": "Sensitivity is the ability to respond to changes in the surroundings, one of the MRS GREN characteristics of living things."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "Yeast, which is used to make bread rise, belongs to which kingdom?",
+          "options": ["Plantae", "Animalia", "Fungi", "Monera"],
+          "answer": "2",
+          "explanation": "Yeast is a fungus; like other fungi it cannot make its own food and belongs to Kingdom Fungi."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Which kingdom contains mostly single-celled organisms that DO have a true nucleus, such as the amoeba?",
+          "options": ["Monera", "Protista", "Fungi", "Plantae"],
+          "answer": "1",
+          "explanation": "Kingdom Protista contains mostly single-celled organisms that have a true nucleus, such as amoeba and algae."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "In classifying living things, which list goes correctly from the LARGEST group to a smaller group?",
+          "options": ["Species, Genus, Family", "Kingdom, Phylum, Class", "Class, Order, Kingdom", "Family, Phylum, Kingdom"],
+          "answer": "1",
+          "explanation": "The order from largest to smallest is Kingdom, Phylum, Class, Order, Family, Genus, Species, so Kingdom → Phylum → Class is correct."
+        },
+        {
+          "topic": "Living Things and Their Diversity",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "A river flows, carries soil, and can grow wider over time, yet scientists say it is NOT alive. Why?",
+          "options": ["It does not move at all", "It does not show all the characteristics of living things, such as reproduction and nutrition", "It is made of water", "It has no colour"],
+          "answer": "1",
+          "explanation": "A thing is alive only if it shows all the MRS GREN characteristics. A river cannot reproduce, take in food, or excrete, so it is not living."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "All the living things on Earth together make up which part of the Earth system?",
+          "options": ["Lithosphere", "Hydrosphere", "Biosphere", "Atmosphere"],
+          "answer": "2",
+          "explanation": "The biosphere includes all the living things on Earth, on land, in water, and in the air."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "About how long does the Earth take to complete one revolution around the Sun?",
+          "options": ["24 hours", "One month", "365¼ days", "Seven days"],
+          "answer": "2",
+          "explanation": "One revolution of the Earth around the Sun takes about 365¼ days, which is one year."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "In the water cycle, the Sun heats water in lakes and oceans so it turns into water vapour. This stage is called:",
+          "options": ["Condensation", "Evaporation", "Precipitation", "Filtration"],
+          "answer": "1",
+          "explanation": "Evaporation is when the Sun's heat turns liquid water into water vapour that rises into the air."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "When a ship sails away from shore, the bottom of the ship disappears from view before the top. What does this observation suggest?",
+          "options": ["The Earth is flat", "The Earth is curved (round)", "The ship is shrinking", "The water is rising"],
+          "answer": "1",
+          "explanation": "Because the Earth's surface is curved, the lower part of a distant ship is hidden first, which is evidence that the Earth is round."
+        },
+        {
+          "topic": "Earth in Space",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "The solid inner core of the Earth is made mostly of iron and nickel and is extremely hot, yet it stays solid. The best reason is that:",
+          "options": ["It is far from the Sun", "The enormous pressure deep inside keeps it solid", "It is made of cool rock", "It contains a lot of water"],
+          "answer": "1",
+          "explanation": "Even though the inner core is very hot, the huge pressure at the centre of the Earth keeps it in a solid state."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "beginner",
+          "type": "mcq",
+          "prompt": "The energy stored in food, fuel, and batteries is called:",
+          "options": ["Sound energy", "Chemical energy", "Light energy", "Heat energy"],
+          "answer": "1",
+          "explanation": "Chemical energy is the energy stored in substances such as food, fuel, and batteries."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "A child swinging back and forth on a swing is an example of which type of motion?",
+          "options": ["Linear motion", "Oscillatory motion", "Rotational motion", "Circular motion"],
+          "answer": "1",
+          "explanation": "Oscillatory (vibrational) motion is repeated back-and-forth movement, like a swing or a pendulum."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "medium",
+          "type": "mcq",
+          "prompt": "Gravity pulling a falling mango towards the ground is an example of a:",
+          "options": ["Contact force", "Non-contact force", "Pushing force only", "Friction force"],
+          "answer": "1",
+          "explanation": "Gravity acts from a distance without the objects touching, so it is a non-contact force."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "When a person plays a drum, electrical signals are not involved. The main energy change is from:",
+          "options": ["Light energy to heat energy", "Kinetic energy to sound energy", "Chemical energy to light energy", "Sound energy to potential energy"],
+          "answer": "1",
+          "explanation": "The moving hand hitting the drum (kinetic energy) makes the drum skin vibrate, which produces sound energy."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "difficult",
+          "type": "mcq",
+          "prompt": "Which list contains ONLY non-renewable energy sources?",
+          "options": ["Wind, coal, oil", "Coal, oil, natural gas", "Sunlight, water, wind", "Oil, sunlight, geothermal"],
+          "answer": "1",
+          "explanation": "Coal, oil, and natural gas are all non-renewable because they take millions of years to form and will eventually run out."
+        },
+        {
+          "topic": "Motion, Force, Energy and Energy Resources",
+          "difficulty": "exam",
+          "type": "mcq",
+          "prompt": "An object is taken from Earth to the Moon, where gravity is weaker. What happens to its mass and weight?",
+          "options": ["Both stay the same", "Mass stays the same, but weight becomes smaller", "Mass becomes smaller, but weight stays the same", "Both become larger"],
+          "answer": "1",
+          "explanation": "Mass is the amount of matter and never changes, but weight is the force of gravity, so it becomes smaller where gravity is weaker."
+        }
+      ]
+    }
+  ]
+}
