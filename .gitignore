@@ -6,6 +6,10 @@ release
 .DS_Store
 .vite
 .eslintcache
+
+# Local architecture notes
+ARCHITECTURE.md
+
 # Local user data and imported books are not committed
 userdata/
 books/**/*.pdf
